@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:40.563+02:00</Created>
+        <LastChange>2019-10-15T16:12:02.203+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551029" pageNr="140" tsid="17135548" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=YYBSSTKEMEGAXEFKTTBFXOIJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NIMXHTCZTCGLOISEHWDEWDAX" imageId="4551907"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_140.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256509165" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1570539362621_761"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1570539362621_761" custom="readingOrder {index:0;}">
+            <Coords points="300,242 382,242 3967,349 3967,4821 254,4821 254,349"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="282,380 332,362 365,373 378,353 393,359 413,347 442,363 470,349 485,360 508,338 546,331 524,212 394,245 358,242 312,304 297,293 267,299"/>
+                <Baseline points="300,360 327,352 354,348 522,317"/>
+                <TextEquiv>
+                    <Unicode>138</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="436,480 3900,462 3806,307 3339,370 2861,260 2342,367 2237,277 2112,374 434,354"/>
+                <Baseline points="458,458 629,455 800,452 971,448 1142,445 1313,442 1484,438 1655,435 1826,432 1997,429 2168,426 2339,424 2510,422 2681,419 2852,418 3023,416 3194,415 3365,415 3536,414 3707,414 3879,415"/>
+                <TextEquiv>
+                    <Unicode>23. Mai: Um 5 aufgebrochen, um 8 in Lindi. Gleichzitig war soeben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="454,641 2711,555 3094,676 3718,582 3716,452 3139,429 452,498"/>
+                <Baseline points="476,605 645,596 814,588 984,582 1153,577 1323,573 1492,571 1661,569 1831,568 2000,568 2170,568 2339,567 2509,567 2678,567 2847,566 3017,564 3186,562 3356,559 3525,554 3695,548"/>
+                <TextEquiv>
+                    <Unicode>der Dampfer eingelaufen. Sofort an Bord, v. Staff abgeholt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="437,776 2283,697 2774,813 2985,685 3112,797 3319,695 3593,796 3883,732 3882,585 436,672"/>
+                <Baseline points="459,733 629,729 799,725 969,721 1139,717 1309,713 1479,709 1649,706 1819,703 1989,700 2160,698 2330,696 2500,694 2670,693 2840,693 3010,693 3180,694 3350,695 3520,698 3690,701 3861,705"/>
+                <TextEquiv>
+                    <Unicode>Er kommt leider ohne Zeltausrüstung u. Waffen, daher mancherlei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="487,947 642,846 1232,951 1548,862 3799,936 3902,740 486,816"/>
+                <Baseline points="507,857 674,853 841,849 1008,846 1176,842 1343,840 1510,838 1678,836 1845,834 2012,833 2180,832 2347,832 2514,831 2681,831 2849,831 3016,831 3183,832 3351,832 3518,833 3712,834 3880,834"/>
+                <TextEquiv>
+                    <Unicode>zu erledigen. „Hotel“ besetzt, schlage Zelt im Hof der Usagara auf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="484,1056 646,1112 882,1005 1063,990 1288,1092 1484,977 1714,978 1712,918 1633,907 1218,942 1091,898 932,947 861,897 674,881 481,948"/>
+                <Baseline points="505,1013 564,1007 623,1003 682,998 742,994 801,992 860,989 919,987 979,985 1038,983 1097,982 1156,981 1216,980 1275,979 1334,978 1393,977 1453,976 1512,974 1571,972 1630,970 1690,966"/>
+                <TextEquiv>
+                    <Unicode>Staff Fremdenzimmer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="785,1243 1806,1121 2047,1234 2543,1126 2684,1227 3601,1120 3824,1211 3940,1170 3936,945 3634,1041 2360,1055 2219,958 1957,1071 782,1066"/>
+                <Baseline points="806,1172 961,1164 1117,1157 1272,1150 1428,1143 1583,1137 1739,1132 1894,1127 2050,1122 2205,1119 2361,1115 2517,1113 2672,1110 2828,1109 2983,1108 3139,1108 3294,1109 3450,1111 3605,1113 3761,1116 3917,1120"/>
+                <TextEquiv>
+                    <Unicode>Janensch, der vor mir fort wollte, marschiert nach Mchuya</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="485,1383 717,1314 814,1354 920,1293 1146,1315 1214,1278 1487,1368 1598,1324 1820,1360 1814,1182 1761,1162 1632,1197 1561,1144 1428,1201 1214,1152 1065,1236 784,1255 721,1197 675,1233 626,1191 479,1210"/>
+                <Baseline points="505,1301 569,1300 634,1298 698,1295 763,1293 827,1290 892,1286 956,1284 1021,1281 1085,1278 1150,1275 1214,1272 1279,1269 1343,1266 1408,1265 1472,1263 1537,1261 1601,1260 1666,1260 1730,1260 1795,1261"/>
+                <TextEquiv>
+                    <Unicode>ab. Immerhin rechtzeitig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:8;}">
+                <Coords points="551,1487 972,1478 1047,1536 1142,1507 1273,1551 1474,1466 1718,1497 1790,1438 1994,1432 1990,1319 1792,1365 1613,1327 1429,1407 1086,1405 993,1334 731,1403 548,1388"/>
+                <Baseline points="572,1469 642,1468 712,1466 782,1465 852,1463 922,1461 992,1460 1062,1458 1132,1455 1202,1453 1272,1451 1342,1449 1412,1446 1482,1444 1552,1441 1622,1439 1692,1436 1762,1433 1832,1430 1902,1427 1972,1424"/>
+                <TextEquiv>
+                    <Unicode>24. Mai. Besorgungen aller Art.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:9;}">
+                <Coords points="534,1677 2088,1566 3989,1630 3825,1469 2575,1405 2339,1505 531,1512"/>
+                <Baseline points="555,1629 725,1624 896,1618 1066,1613 1237,1606 1408,1600 1578,1594 1749,1588 1919,1583 2090,1577 2261,1572 2431,1568 2602,1565 2772,1563 2943,1561 3114,1561 3284,1562 3455,1565 3625,1569 3796,1575 3967,1583"/>
+                <TextEquiv>
+                    <Unicode>25 „ Wollte abends mit Boot nach Nguru Mahamba, von dort in 3 Tagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:10;}">
+                <Coords points="510,1790 3244,1700 3728,1808 3947,1717 3902,1610 3390,1580 508,1660"/>
+                <Baseline points="530,1769 699,1760 869,1752 1039,1744 1208,1736 1378,1729 1548,1722 1717,1715 1887,1710 2057,1705 2227,1701 2396,1697 2566,1695 2736,1693 2905,1692 3075,1693 3245,1695 3414,1698 3584,1702 3754,1707 3924,1715"/>
+                <TextEquiv>
+                    <Unicode>über Lutamba u. mir neuen Noto-Aufstieg zurück, aber es paßt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:11;}">
+                <Coords points="503,1916 1137,1979 1352,1847 1522,1950 1699,1861 2142,1953 2371,1838 2862,1968 3763,1868 3610,1739 2536,1806 1902,1712 503,1820"/>
+                <Baseline points="523,1894 684,1883 845,1874 1006,1867 1167,1861 1328,1856 1489,1853 1650,1851 1811,1849 1972,1848 2133,1848 2294,1848 2455,1848 2616,1849 2777,1849 2938,1850 3099,1850 3260,1850 3421,1849 3582,1847 3743,1845"/>
+                <TextEquiv>
+                    <Unicode>mit dem Wasser nicht, Staff soll ohne Moskitonetz nicht am See</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:12;}">
+                <Coords points="500,2130 841,2023 2004,2094 2315,1992 2615,2102 3408,1997 3708,2104 3758,1930 498,1921"/>
+                <Baseline points="522,2030 682,2022 843,2015 1004,2008 1165,2003 1326,1999 1486,1995 1647,1993 1808,1990 1969,1989 2130,1988 2290,1988 2451,1988 2612,1989 2773,1990 2934,1991 3094,1993 3255,1995 3416,1997 3577,1999 3738,2002"/>
+                <TextEquiv>
+                    <Unicode>schlafen, u. abends ist Abschiedstrunk für d. von mir hoch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:13;}">
+                <Coords points="488,2256 1940,2143 2595,2244 3172,2150 3657,2273 3839,2230 3839,2074 1169,2032 488,2126"/>
+                <Baseline points="508,2166 673,2164 839,2162 1004,2159 1170,2157 1335,2156 1501,2154 1666,2153 1832,2152 1997,2151 2163,2151 2328,2151 2494,2152 2659,2153 2825,2155 2990,2158 3156,2161 3321,2165 3487,2169 3652,2175 3818,2181"/>
+                <TextEquiv>
+                    <Unicode>geachteten Bezirksamtmann Wendt, der auf Europa-Urlaub geht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:14;} unclear {offset:22; length:5;}">
+                <Coords points="513,2355 3860,2330 3521,2189 2714,2163 513,2225"/>
+                <Baseline points="536,2311 701,2314 866,2315 1031,2315 1196,2314 1361,2312 1526,2309 1691,2306 1856,2303 2021,2299 2187,2295 2352,2292 2517,2290 2682,2288 2847,2288 3012,2288 3177,2291 3342,2295 3507,2300 3672,2309 3838,2319"/>
+                <TextEquiv>
+                    <Unicode>Mit Staff Besuch beim neuen Oberhaupt Auracher, mit dem ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:15;}">
+                <Coords points="524,2554 1404,2453 2176,2573 2717,2427 2904,2534 3910,2505 3909,2367 3770,2333 2989,2295 523,2385"/>
+                <Baseline points="544,2460 711,2461 878,2460 1045,2459 1212,2456 1380,2453 1547,2450 1714,2447 1881,2443 2048,2440 2216,2437 2383,2434 2550,2432 2717,2431 2884,2431 3052,2432 3219,2434 3386,2438 3553,2444 3720,2451 3888,2461"/>
+                <TextEquiv>
+                    <Unicode>auf freundschaftlichem Fuße stehe. Abends Abschied am Stammtisch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:16;}">
+                <Coords points="643,2676 3916,2649 3763,2520 2497,2475 2177,2572 1951,2469 1501,2571 1370,2459 642,2554"/>
+                <Baseline points="665,2641 826,2637 987,2633 1149,2630 1310,2627 1472,2623 1633,2621 1795,2618 1956,2616 2118,2614 2279,2613 2440,2612 2602,2611 2763,2611 2925,2612 3086,2613 3248,2614 3409,2617 3571,2620 3732,2623 3894,2628"/>
+                <TextEquiv>
+                    <Unicode>26. Mai Morgens Staff vorausgeschickt, da gestern abend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:17;}">
+                <Coords points="495,2818 3903,2868 3903,2742 3651,2677 2169,2743 1778,2626 1566,2748 495,2731"/>
+                <Baseline points="515,2793 683,2792 851,2791 1019,2790 1188,2789 1356,2787 1524,2786 1693,2785 1861,2784 2029,2783 2198,2783 2366,2783 2534,2782 2702,2783 2871,2783 3039,2784 3207,2786 3376,2788 3544,2790 3712,2793 3881,2797"/>
+                <TextEquiv>
+                    <Unicode>noch Träger u. neue Bestellungen von Janensch eintrafen, um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:18;}">
+                <Coords points="502,3025 1625,2915 2345,3062 2713,2940 3138,3039 3532,2939 3689,3047 3901,2951 2865,2801 2028,2898 502,2817"/>
+                <Baseline points="524,2962 691,2954 859,2947 1027,2942 1195,2938 1363,2936 1531,2935 1698,2935 1866,2935 2034,2936 2202,2937 2370,2939 2538,2941 2706,2942 2873,2944 3041,2944 3209,2944 3377,2944 3545,2942 3713,2939 3881,2935"/>
+                <TextEquiv>
+                    <Unicode>8 hinterher, Kitulo nunmehr fast trocken. Schöner Weg in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:19;}">
+                <Coords points="518,3175 1210,3078 1398,3180 1812,3070 2338,3119 2337,3036 2062,2941 1621,3016 1364,2933 1149,3045 935,2944 651,3078 515,3023"/>
+                <Baseline points="539,3115 627,3112 716,3110 805,3106 894,3103 983,3099 1072,3095 1160,3091 1249,3087 1338,3084 1427,3081 1516,3079 1605,3077 1694,3076 1782,3077 1871,3078 1960,3081 2049,3085 2138,3091 2227,3098 2316,3107"/>
+                <TextEquiv>
+                    <Unicode>der Mulde. Marsch bis Lutende.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:20;}">
+                <Coords points="593,3271 3858,3255 3769,3073 592,3154"/>
+                <Baseline points="616,3251 777,3248 938,3245 1099,3243 1260,3240 1421,3238 1582,3236 1743,3234 1904,3232 2065,3230 2226,3229 2387,3227 2548,3226 2709,3224 2870,3223 3031,3222 3192,3221 3353,3220 3514,3218 3675,3217 3837,3216"/>
+                <TextEquiv>
+                    <Unicode>27. Mai. Marsch bis Noto. Nachm. am Südabhang mit köstli„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:21;}">
+                <Coords points="498,3514 791,3401 1416,3502 1970,3373 2331,3485 2616,3364 2782,3466 3040,3363 3601,3451 3777,3297 3073,3215 2771,3319 495,3336"/>
+                <Baseline points="519,3408 680,3404 842,3400 1004,3396 1166,3391 1328,3387 1490,3383 1651,3380 1813,3376 1975,3373 2137,3370 2299,3368 2461,3366 2623,3365 2784,3364 2946,3363 3108,3363 3270,3364 3432,3366 3594,3368 3756,3371"/>
+                <TextEquiv>
+                    <Unicode>chem Blick auf Rondo, über das ich nunmehr Überblick habe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:22;}">
+                <Coords points="508,3603 717,3650 850,3564 1382,3536 1718,3593 1816,3555 1813,3447 1697,3463 1535,3398 1424,3496 1182,3503 1037,3424 506,3516"/>
+                <Baseline points="529,3563 592,3561 655,3558 718,3557 781,3554 845,3553 908,3551 971,3550 1034,3548 1097,3547 1161,3545 1224,3544 1287,3542 1350,3541 1413,3539 1477,3537 1540,3535 1603,3533 1666,3532 1729,3529 1793,3527"/>
+                <TextEquiv>
+                    <Unicode>nach d. Februar-Safari.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:23;} textStyle {offset:0; length:18;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="233,3802 2088,3806 2550,3696 2977,3791 3703,3698 3740,3580 228,3585"/>
+                <Baseline points="254,3752 427,3744 600,3737 774,3731 947,3726 1120,3721 1294,3717 1467,3713 1640,3709 1814,3706 1987,3703 2160,3701 2334,3698 2507,3695 2680,3692 2854,3689 3027,3686 3200,3682 3374,3678 3547,3672 3721,3667"/>
+                <TextEquiv>
+                    <Unicode>Sonnt. d. 28. Mai. Marsch zum Tendaguru. Staff anscheinend etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:24;}">
+                <Coords points="532,3919 1296,3994 1559,3885 1738,3987 1871,3880 2560,3869 2909,3981 3128,3869 3809,3875 3807,3758 3676,3743 531,3850"/>
+                <Baseline points="554,3914 715,3907 877,3900 1038,3895 1200,3890 1361,3886 1523,3882 1684,3879 1846,3877 2007,3874 2169,3872 2331,3870 2492,3868 2654,3867 2815,3865 2977,3863 3138,3862 3300,3860 3461,3858 3623,3856 3785,3853"/>
+                <TextEquiv>
+                    <Unicode>ermüdet, doch gefällt es ihm anscheinend, was ja nicht zu ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:25;}">
+                <Coords points="516,4052 1409,4024 1527,4118 2770,4003 3079,4117 3346,4005 3556,4098 3827,3926 515,3987"/>
+                <Baseline points="539,4039 702,4035 865,4032 1028,4029 1192,4027 1355,4025 1518,4024 1682,4022 1845,4021 2008,4020 2172,4019 2335,4017 2498,4016 2661,4014 2825,4013 2988,4010 3151,4008 3315,4004 3478,4000 3641,3996 3805,3991"/>
+                <TextEquiv>
+                    <Unicode>wundern. Ich habe ihm als zweiten Boy den Neffen unsers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:26;}">
+                <Coords points="561,4244 1414,4168 1987,4264 2285,4149 2507,4269 2845,4158 3777,4238 3776,4108 1781,4031 560,4132"/>
+                <Baseline points="583,4174 741,4174 900,4174 1058,4173 1217,4172 1375,4171 1534,4170 1692,4169 1851,4168 2009,4166 2168,4165 2327,4163 2485,4162 2644,4160 2802,4159 2961,4158 3119,4157 3278,4156 3436,4155 3595,4154 3754,4154"/>
+                <TextEquiv>
+                    <Unicode>alten Freundes Mwindadi gegeben, auch um d. alten Herren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:27;}">
+                <Coords points="541,4376 2127,4422 2977,4321 3757,4424 3849,4243 2509,4281 2311,4150 1803,4282 1413,4168 541,4238"/>
+                <Baseline points="562,4328 725,4326 888,4324 1052,4322 1215,4321 1378,4321 1542,4320 1705,4320 1868,4321 2032,4321 2195,4322 2358,4323 2522,4325 2685,4326 2848,4328 3012,4329 3175,4331 3338,4333 3502,4334 3665,4336 3829,4338"/>
+                <TextEquiv>
+                    <Unicode>den Wendt als Spion eingesetzt hatte, noch mehr an die Gegend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:28;}">
+                <Coords points="581,4557 2324,4477 2449,4582 2701,4497 3355,4577 3659,4536 3660,4406 3391,4455 2971,4322 2624,4323 2459,4443 582,4410"/>
+                <Baseline points="602,4473 753,4473 905,4473 1057,4473 1209,4474 1361,4475 1512,4475 1664,4476 1816,4477 1968,4478 2120,4480 2271,4481 2423,4483 2575,4484 2727,4486 2879,4488 3030,4490 3182,4492 3334,4494 3486,4496 3638,4498"/>
+                <TextEquiv>
+                    <Unicode>zu fesseln, es kommt uns ja in erster Linie zu gute.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:29;}">
+                <Coords points="719,4692 1200,4602 1356,4732 1560,4655 1651,4733 1811,4638 2037,4738 2180,4660 2310,4725 2401,4652 2882,4653 2882,4501 2453,4587 979,4493 719,4584"/>
+                <Baseline points="740,4649 846,4641 952,4634 1058,4629 1164,4625 1270,4624 1376,4623 1482,4623 1588,4625 1694,4627 1800,4629 1906,4631 2012,4633 2118,4635 2224,4637 2330,4638 2436,4638 2542,4637 2648,4636 2754,4632 2861,4627"/>
+                <TextEquiv>
+                    <Unicode>29.V. Mit Staff nach Kindope. Gute Funde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:30;}">
+                <Coords points="828,4855 1591,4886 2227,4770 2475,4851 2661,4772 3533,4876 3719,4792 3640,4684 3215,4643 827,4686"/>
+                <Baseline points="850,4786 992,4785 1134,4783 1276,4781 1419,4779 1561,4778 1703,4775 1846,4774 1988,4772 2130,4770 2273,4769 2415,4768 2557,4767 2699,4766 2842,4766 2984,4767 3126,4768 3269,4769 3411,4772 3553,4774 3696,4778"/>
+                <TextEquiv>
+                    <Unicode>Nach Tisch im Magazin u. an d. Quelle. Mit vortrefflicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>138&#xD;
+23. Mai: Um 5 aufgebrochen, um 8 in Lindi. Gleichzitig war soeben&#xD;
+der Dampfer eingelaufen. Sofort an Bord, v. Staff abgeholt.&#xD;
+Er kommt leider ohne Zeltausrüstung u. Waffen, daher mancherlei&#xD;
+zu erledigen. „Hotel“ besetzt, schlage Zelt im Hof der Usagara auf,&#xD;
+Staff Fremdenzimmer.&#xD;
+Janensch, der vor mir fort wollte, marschiert nach Mchuya&#xD;
+ab. Immerhin rechtzeitig.&#xD;
+24. Mai. Besorgungen aller Art.&#xD;
+25 „ Wollte abends mit Boot nach Nguru Mahamba, von dort in 3 Tagen&#xD;
+über Lutamba u. mir neuen Noto-Aufstieg zurück, aber es paßt&#xD;
+mit dem Wasser nicht, Staff soll ohne Moskitonetz nicht am See&#xD;
+schlafen, u. abends ist Abschiedstrunk für d. von mir hoch&#xD;
+geachteten Bezirksamtmann Wendt, der auf Europa-Urlaub geht.&#xD;
+Mit Staff Besuch beim neuen Oberhaupt Auracher, mit dem ich&#xD;
+auf freundschaftlichem Fuße stehe. Abends Abschied am Stammtisch.&#xD;
+26. Mai Morgens Staff vorausgeschickt, da gestern abend&#xD;
+noch Träger u. neue Bestellungen von Janensch eintrafen, um&#xD;
+8 hinterher, Kitulo nunmehr fast trocken. Schöner Weg in&#xD;
+der Mulde. Marsch bis Lutende.&#xD;
+27. Mai. Marsch bis Noto. Nachm. am Südabhang mit köstli„&#xD;
+chem Blick auf Rondo, über das ich nunmehr Überblick habe&#xD;
+nach d. Februar-Safari.&#xD;
+Sonnt. d. 28. Mai. Marsch zum Tendaguru. Staff anscheinend etwas&#xD;
+ermüdet, doch gefällt es ihm anscheinend, was ja nicht zu ver„&#xD;
+wundern. Ich habe ihm als zweiten Boy den Neffen unsers&#xD;
+alten Freundes Mwindadi gegeben, auch um d. alten Herren,&#xD;
+den Wendt als Spion eingesetzt hatte, noch mehr an die Gegend&#xD;
+zu fesseln, es kommt uns ja in erster Linie zu gute.&#xD;
+29.V. Mit Staff nach Kindope. Gute Funde.&#xD;
+Nach Tisch im Magazin u. an d. Quelle. Mit vortrefflicher</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

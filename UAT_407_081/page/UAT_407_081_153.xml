@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:41.157+02:00</Created>
+        <LastChange>2020-04-02T17:06:19.892+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551042" pageNr="153" tsid="26899975" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=XVAWHYLWSPYDNIOCQMKOKATB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XXYODSRJZOWBAMDUBQPYGXFJ" imageId="4551920"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_153.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256514153" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="379,277 379,4881 4075,4881 4075,277"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3755,396 3824,416 3895,362 3946,383 3987,381 4017,356 4045,355 4039,232 3984,240 3952,227 3926,251 3866,245 3800,298 3750,296"/>
+                <Baseline points="3777,361 3804,357 3831,354 3858,352 3885,350 3912,350 3939,349 3966,349 3993,348 4021,347"/>
+                <TextEquiv>
+                    <Unicode>151</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="357,435 1700,411 1904,517 2505,430 2796,532 3279,430 3397,518 3606,455 3607,332 358,284"/>
+                <Baseline points="379,410 539,411 699,412 859,413 1020,415 1180,416 1340,418 1500,419 1661,420 1821,422 1981,423 2141,424 2302,426 2462,427 2622,427 2782,428 2943,428 3103,428 3263,428 3423,428 3584,427"/>
+                <TextEquiv>
+                    <Unicode>Wollte einen andern Weg, es gab nur diesen, also zurück zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="407,628 4053,625 4054,525 3659,475 409,437"/>
+                <Baseline points="429,557 609,554 789,552 969,551 1149,550 1329,549 1509,549 1689,550 1869,551 2049,552 2229,554 2409,557 2589,560 2769,563 2949,567 3129,571 3309,575 3489,580 3669,585 3849,591 4029,597"/>
+                <TextEquiv>
+                    <Unicode>Barrabarra (übrigens höchst kümmerlich ausgehauen), auf dieser südwärts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="413,777 4064,735 2950,563 414,622"/>
+                <Baseline points="435,715 615,707 795,700 976,695 1156,691 1336,689 1517,688 1697,688 1877,689 2058,690 2238,693 2418,695 2599,699 2779,702 2959,706 3140,710 3320,713 3500,716 3681,720 3861,722 4042,724"/>
+                <TextEquiv>
+                    <Unicode>bis zum Übergang über den Pindiro, fand dort am Anstieg wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="434,893 4048,872 4048,767 3666,821 3475,711 435,770"/>
+                <Baseline points="457,868 635,861 813,855 992,850 1170,846 1349,843 1527,842 1706,841 1884,841 2063,841 2241,842 2419,844 2598,846 2776,849 2955,851 3133,854 3312,857 3490,860 3669,862 3847,865 4026,867"/>
+                <TextEquiv>
+                    <Unicode>die feinen senkrecht gestellten Sandschiefer (braune Latten Ukhwere's??)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="406,1081 3587,992 4061,1099 4087,867 405,949"/>
+                <Baseline points="427,1022 609,1017 791,1013 973,1009 1155,1006 1337,1003 1519,1000 1701,998 1883,996 2065,994 2247,993 2429,993 2611,992 2793,992 2975,993 3157,994 3339,995 3521,996 3703,998 3885,1001 4067,1004"/>
+                <TextEquiv>
+                    <Unicode>u. im versumpften Flußbett einen Bestand dichter aber kleiner Sumpf„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="450,1206 3745,1231 3745,1108 3376,1049 450,1043"/>
+                <Baseline points="471,1164 633,1164 796,1164 958,1165 1121,1166 1283,1168 1446,1170 1608,1171 1771,1173 1933,1175 2096,1176 2258,1177 2421,1178 2583,1178 2746,1177 2908,1175 3071,1173 3233,1170 3396,1165 3558,1158 3721,1151"/>
+                <TextEquiv>
+                    <Unicode>bäume mit tiefem Moderboden, so recht an Steinkohlenwälder im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="389,1392 3949,1376 3948,1271 3265,1186 389,1242"/>
+                <Baseline points="412,1338 587,1338 763,1337 938,1336 1114,1335 1290,1334 1465,1333 1641,1331 1816,1330 1992,1329 2168,1328 2343,1327 2519,1326 2694,1326 2870,1326 3046,1327 3221,1328 3397,1330 3572,1332 3748,1336 3924,1340"/>
+                <TextEquiv>
+                    <Unicode>Wirniß u. Dämmerung erinnernd. Dann der Barrabarra nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="427,1548 2111,1503 2330,1612 2712,1503 3058,1608 3404,1485 3695,1599 4096,1535 4096,1372 427,1407"/>
+                <Baseline points="449,1516 630,1509 811,1503 992,1498 1174,1495 1355,1493 1536,1492 1718,1492 1899,1492 2080,1493 2262,1495 2443,1496 2624,1498 2805,1500 2987,1501 3168,1503 3349,1503 3531,1503 3712,1503 3893,1501 4075,1498"/>
+                <TextEquiv>
+                    <Unicode>N. bis Ruawa (Jumbe Moh. Useni) gefolgt. Fand auch hier die Beyschlagi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="469,1716 3500,1756 3978,1719 3978,1514 3236,1619 469,1556"/>
+                <Baseline points="492,1664 664,1660 836,1656 1008,1654 1181,1653 1353,1652 1525,1653 1697,1654 1870,1655 2042,1656 2214,1658 2386,1659 2559,1661 2731,1661 2903,1662 3075,1661 3248,1659 3420,1657 3592,1653 3782,1651 3955,1644"/>
+                <TextEquiv>
+                    <Unicode>Schicht unmittelbar darüber u. augenscheinlich wagerecht, also trans„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="509,1933 1137,1805 1442,1909 1701,1790 3854,1886 3954,1699 509,1765"/>
+                <Baseline points="532,1828 710,1818 889,1811 1068,1804 1247,1800 1426,1796 1605,1793 1784,1792 1963,1791 2142,1791 2320,1792 2499,1793 2678,1795 2857,1797 3036,1799 3215,1801 3394,1803 3573,1805 3752,1806 3931,1807"/>
+                <TextEquiv>
+                    <Unicode>gredierend. Eine Jura-Insel, u. Aufenthalt der Dinosaurier? Ebenso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="539,1987 3720,2017 4034,1981 4032,1808 537,1896"/>
+                <Baseline points="562,1962 732,1955 903,1948 1073,1942 1244,1937 1414,1932 1585,1928 1755,1925 1926,1922 2096,1919 2267,1917 2437,1916 2608,1914 2778,1914 2949,1913 3119,1913 3290,1914 3460,1914 3631,1915 3840,1913 4011,1915"/>
+                <TextEquiv>
+                    <Unicode>der Oolith als Basis. Hübsches Plätzchen im Winkel zw. Ruawa (wasserführend)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="511,2132 4025,2101 3887,1947 511,2023"/>
+                <Baseline points="533,2095 706,2092 879,2089 1053,2086 1226,2084 1400,2082 1573,2080 1746,2078 1920,2077 2093,2076 2267,2075 2440,2074 2613,2074 2787,2073 2960,2073 3134,2073 3307,2074 3480,2074 3654,2075 3827,2076 4001,2078"/>
+                <TextEquiv>
+                    <Unicode>u. rechtem Nebenlauf, breitem mäanderndem Trockental, das an Mtshin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="509,2300 1460,2213 3631,2319 4013,2258 4012,2130 508,2173"/>
+                <Baseline points="531,2232 704,2231 877,2230 1050,2229 1223,2228 1396,2228 1569,2227 1742,2227 1915,2227 2088,2226 2261,2226 2434,2225 2607,2224 2780,2223 2953,2222 3126,2221 3299,2219 3472,2217 3645,2214 3818,2211 3991,2207"/>
+                <TextEquiv>
+                    <Unicode>giri bei Matapua erinnert. Nachm. vergeblich Rundsicht gesucht, alles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="484,2418 1227,2486 2050,2367 2483,2483 2828,2371 3766,2434 3838,2306 1444,2330 1239,2227 484,2359"/>
+                <Baseline points="508,2401 673,2394 838,2388 1004,2382 1169,2378 1335,2374 1500,2372 1666,2371 1831,2370 1997,2369 2162,2369 2327,2369 2493,2370 2658,2370 2824,2371 2989,2371 3155,2371 3320,2370 3486,2369 3651,2368 3817,2365"/>
+                <TextEquiv>
+                    <Unicode>in Gras u. Busch verschneit. Anderes Gestein mit Nerineen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="490,2644 903,2531 1077,2648 3802,2530 3801,2439 3373,2370 2304,2481 2076,2388 488,2421"/>
+                <Baseline points="513,2553 676,2544 839,2538 1002,2533 1165,2529 1329,2526 1492,2525 1655,2524 1818,2524 1981,2524 2145,2524 2308,2524 2471,2525 2634,2524 2797,2524 2961,2522 3124,2519 3287,2516 3450,2511 3613,2504 3777,2495"/>
+                <TextEquiv>
+                    <Unicode>höherer Lage gefunden. Auflagernde Bornhardti-Schicht oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="497,2737 739,2806 865,2704 1053,2811 1148,2759 1353,2806 1543,2721 2140,2726 2138,2612 1883,2625 1814,2572 1069,2656 712,2556 495,2614"/>
+                <Baseline points="519,2696 598,2699 678,2701 758,2703 838,2704 918,2703 998,2703 1078,2702 1158,2700 1238,2698 1318,2695 1397,2693 1477,2691 1557,2689 1637,2686 1717,2685 1797,2684 1877,2683 1957,2683 2037,2684 2117,2686"/>
+                <TextEquiv>
+                    <Unicode>Steilstellung auch der Kreide?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="769,2934 910,2848 1975,2941 3814,2857 3468,2734 1552,2719 1334,2815 769,2743"/>
+                <Baseline points="790,2842 940,2846 1090,2849 1240,2852 1390,2854 1540,2855 1690,2856 1840,2856 1990,2855 2140,2855 2291,2854 2441,2852 2591,2851 2741,2850 2891,2849 3041,2848 3191,2847 3341,2846 3491,2846 3641,2847 3792,2848"/>
+                <TextEquiv>
+                    <Unicode>Jumbe von Ngarama erscheint mit vielen Trägern und über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="478,3059 2880,2992 3336,3084 3845,3029 3844,2879 476,2877"/>
+                <Baseline points="502,3005 668,3004 834,3002 1000,3000 1166,2999 1332,2998 1498,2997 1664,2996 1830,2995 1996,2994 2162,2993 2328,2992 2494,2991 2660,2989 2826,2988 2992,2986 3158,2983 3324,2981 3490,2978 3656,2975 3823,2971"/>
+                <TextEquiv>
+                    <Unicode>200 pishi Reis. Nun bekamen meine Leute doch noch zu tun.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="711,3260 2244,3183 2386,3282 2540,3171 3697,3271 3978,3218 3977,3109 709,3101"/>
+                <Baseline points="733,3195 894,3194 1055,3193 1216,3192 1377,3190 1538,3189 1699,3188 1860,3186 2021,3185 2182,3183 2343,3181 2504,3179 2665,3177 2826,3175 2987,3173 3148,3171 3309,3169 3470,3166 3631,3163 3792,3161 3953,3158"/>
+                <TextEquiv>
+                    <Unicode>17.VII. Über den Ruawa auf d. gegenüber liegende höhere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="527,3452 858,3343 2047,3455 2615,3334 3717,3384 3903,3350 3902,3240 525,3270"/>
+                <Baseline points="551,3374 717,3364 884,3357 1050,3350 1217,3345 1383,3341 1550,3338 1716,3335 1883,3334 2049,3332 2216,3332 2382,3331 2549,3330 2715,3330 2882,3329 3048,3328 3215,3326 3381,3324 3548,3321 3714,3317 3881,3311"/>
+                <TextEquiv>
+                    <Unicode>Ufer, wo ich auf gutes Profil hoffte. Von oben bis unten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;}">
+                <Coords points="544,3588 4008,3555 3873,3357 543,3492"/>
+                <Baseline points="567,3541 737,3533 908,3526 1079,3521 1250,3515 1421,3510 1591,3505 1762,3501 1933,3497 2104,3494 2275,3492 2445,3489 2616,3488 2787,3486 2958,3486 3129,3485 3299,3485 3470,3486 3641,3486 3812,3488 3983,3489"/>
+                <TextEquiv>
+                    <Unicode>nichts als Sand, aber etwas Übersicht. Vor uns taucht ein mächtiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="549,3765 3985,3673 3984,3563 3420,3531 548,3583"/>
+                <Baseline points="571,3663 740,3666 910,3669 1079,3670 1249,3672 1418,3672 1588,3673 1757,3672 1927,3672 2096,3671 2266,3669 2435,3668 2605,3666 2774,3664 2944,3661 3113,3659 3283,3656 3452,3653 3622,3650 3791,3647 3961,3644"/>
+                <TextEquiv>
+                    <Unicode>Kegel, der Namateaure, wie ein Inselberg auf, wohl ein stehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570538031069_230" custom="readingOrder {index:23;}">
+                <Coords points="548,3926 1135,3814 2946,3931 3197,3828 3374,3929 3497,3824 4070,3872 4071,3718 548,3775"/>
+                <Baseline points="570,3828 599,3826 628,3825 657,3824 686,3823 715,3823 744,3823 774,3822 803,3823 832,3823 861,3823 890,3823 919,3823 948,3823 978,3823 1007,3823 1036,3822 1065,3821 1094,3820 1123,3819 1153,3817 1178,3805 1321,3809 1464,3812 1608,3815 1751,3817 1895,3818 2038,3819 2181,3820 2325,3820 2468,3821 2612,3821 2755,3821 2898,3822 3042,3822 3185,3823 3329,3825 3472,3827 3615,3829 3759,3831 3902,3835 4046,3840"/>
+                <TextEquiv>
+                    <Unicode>gebliebenes Teilstück zwischen Mbalawala- u. Ngorama-Plateau. Oben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:24;}">
+                <Coords points="565,4063 866,3960 2272,4072 2386,3972 3998,3981 3507,3833 3374,3928 1136,3816 566,3922"/>
+                <Baseline points="587,3962 756,3960 925,3958 1094,3957 1264,3957 1433,3958 1602,3959 1772,3960 1941,3962 2110,3964 2280,3966 2449,3968 2618,3970 2787,3971 2957,3973 3126,3973 3295,3973 3465,3973 3634,3972 3803,3969 3973,3966"/>
+                <TextEquiv>
+                    <Unicode>starke Bänke sichtbar (höherer Oolith des Minyoka?) Über Ruawa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:25;}">
+                <Coords points="597,4197 3960,4141 3860,3995 597,4019"/>
+                <Baseline points="620,4108 785,4110 951,4112 1117,4112 1283,4113 1449,4113 1615,4112 1781,4111 1947,4110 2113,4109 2279,4108 2444,4108 2610,4107 2776,4107 2942,4107 3108,4108 3274,4110 3440,4112 3606,4115 3772,4120 3938,4124"/>
+                <TextEquiv>
+                    <Unicode>Quelle auf Plateaufläche Mawranda mit ganz kurzer Unterbrechung (wo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:26;}">
+                <Coords points="520,4329 4038,4293 4037,4161 3268,4111 519,4184"/>
+                <Baseline points="541,4265 714,4267 888,4268 1061,4269 1235,4270 1409,4269 1582,4269 1756,4268 1929,4267 2103,4265 2277,4263 2450,4262 2624,4260 2797,4258 2971,4256 3145,4254 3318,4253 3492,4251 3665,4251 3839,4250 4013,4250"/>
+                <TextEquiv>
+                    <Unicode>d. Kilwa-Straße verlassen wurde) in entsetzlichem Busch. Der sehr schlechte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:27;}">
+                <Coords points="560,4430 3387,4416 3523,4512 3996,4436 3997,4336 561,4298"/>
+                <Baseline points="585,4402 754,4402 923,4403 1093,4403 1262,4403 1431,4404 1601,4404 1770,4405 1939,4405 2109,4406 2278,4406 2447,4407 2617,4407 2786,4408 2955,4408 3125,4409 3294,4410 3463,4410 3633,4411 3802,4411 3972,4412"/>
+                <TextEquiv>
+                    <Unicode>Negerpfad, der nur für Kautschuk-Zapfer berechnet ist u. jedes Hindernis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:28;}">
+                <Coords points="510,4573 2048,4654 2190,4528 2435,4643 3674,4550 3846,4642 3984,4447 511,4491"/>
+                <Baseline points="532,4540 703,4541 874,4542 1046,4542 1217,4542 1389,4542 1560,4542 1732,4541 1903,4541 2075,4541 2246,4541 2417,4541 2589,4542 2760,4543 2932,4545 3103,4547 3275,4550 3446,4554 3618,4559 3789,4564 3961,4571"/>
+                <TextEquiv>
+                    <Unicode>nur umgeht, falls das überhaupt möglich ist, machte meiner Länge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:29;}">
+                <Coords points="531,4693 2174,4782 2406,4663 2734,4782 3262,4665 3913,4770 3913,4606 3763,4583 531,4629"/>
+                <Baseline points="556,4672 722,4677 889,4680 1056,4681 1222,4681 1389,4680 1556,4679 1722,4676 1889,4673 2056,4670 2223,4668 2389,4666 2556,4664 2723,4664 2889,4665 3056,4667 3223,4671 3389,4677 3556,4686 3723,4696 3890,4710"/>
+                <TextEquiv>
+                    <Unicode>u. auch den Trägern viel zu schaffen u. verhinderte jede Übersicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:30;}">
+                <Coords points="501,4903 3696,4921 3696,4780 3264,4665 2540,4790 501,4730"/>
+                <Baseline points="526,4835 683,4834 840,4834 998,4833 1155,4833 1313,4832 1470,4832 1627,4832 1785,4832 1942,4832 2100,4832 2257,4832 2414,4833 2572,4833 2729,4834 2887,4835 3044,4837 3201,4839 3359,4841 3516,4843 3674,4846"/>
+                <TextEquiv>
+                    <Unicode>Immerhin auch diese Vegetationsform in solcher Ausdehnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>151&#xD;
+Wollte einen andern Weg, es gab nur diesen, also zurück zur&#xD;
+Barrabarra (übrigens höchst kümmerlich ausgehauen), auf dieser südwärts.&#xD;
+bis zum Übergang über den Pindiro, fand dort am Anstieg wieder&#xD;
+die feinen senkrecht gestellten Sandschiefer (braune Latten Ukhwere's??)&#xD;
+u. im versumpften Flußbett einen Bestand dichter aber kleiner Sumpf„&#xD;
+bäume mit tiefem Moderboden, so recht an Steinkohlenwälder im&#xD;
+Wirniß u. Dämmerung erinnernd. Dann der Barrabarra nach&#xD;
+N. bis Ruawa (Jumbe Moh. Useni) gefolgt. Fand auch hier die Beyschlagi-&#xD;
+Schicht unmittelbar darüber u. augenscheinlich wagerecht, also trans„&#xD;
+gredierend. Eine Jura-Insel, u. Aufenthalt der Dinosaurier? Ebenso&#xD;
+der Oolith als Basis. Hübsches Plätzchen im Winkel zw. Ruawa (wasserführend)&#xD;
+u. rechtem Nebenlauf, breitem mäanderndem Trockental, das an Mtshin-&#xD;
+giri bei Matapua erinnert. Nachm. vergeblich Rundsicht gesucht, alles&#xD;
+in Gras u. Busch verschneit. Anderes Gestein mit Nerineen in&#xD;
+höherer Lage gefunden. Auflagernde Bornhardti-Schicht oder&#xD;
+Steilstellung auch der Kreide?&#xD;
+Jumbe von Ngarama erscheint mit vielen Trägern und über&#xD;
+200 pishi Reis. Nun bekamen meine Leute doch noch zu tun.&#xD;
+17.VII. Über den Ruawa auf d. gegenüber liegende höhere&#xD;
+Ufer, wo ich auf gutes Profil hoffte. Von oben bis unten&#xD;
+nichts als Sand, aber etwas Übersicht. Vor uns taucht ein mächtiger&#xD;
+Kegel, der Namateaure, wie ein Inselberg auf, wohl ein stehen&#xD;
+gebliebenes Teilstück zwischen Mbalawala- u. Ngorama-Plateau. Oben&#xD;
+starke Bänke sichtbar (höherer Oolith des Minyoka?) Über Ruawa-&#xD;
+Quelle auf Plateaufläche Mawranda mit ganz kurzer Unterbrechung (wo&#xD;
+d. Kilwa-Straße verlassen wurde) in entsetzlichem Busch. Der sehr schlechte&#xD;
+Negerpfad, der nur für Kautschuk-Zapfer berechnet ist u. jedes Hindernis&#xD;
+nur umgeht, falls das überhaupt möglich ist, machte meiner Länge&#xD;
+u. auch den Trägern viel zu schaffen u. verhinderte jede Übersicht.&#xD;
+Immerhin auch diese Vegetationsform in solcher Ausdehnung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

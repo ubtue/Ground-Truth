@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:15.376+02:00</Created>
+        <LastChange>2020-04-02T09:07:56.981+02:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581503" pageNr="55" tsid="26873383" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=DIWZDEJWYRWHMQMBLZVPTSCB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZGFUJKMDANEOIZKWLVROLGGK" imageId="4579392"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_55.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255755673" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="283,236 283,4526 4024,4526 4024,236"/>
+            <TextLine id="line_1584353845626_254" custom="readingOrder {index:0;}">
+                <Coords points="3716,242 3736,249 3847,262 3841,312 3725,298 3699,289"/>
+                <Baseline points="3701,284 3726,293 3842,307"/>
+                <TextEquiv>
+                    <Unicode>53</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} textStyle {offset:0; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="346,557 788,556 935,514 1018,569 1073,565 1073,404 949,399 875,339 769,399 700,367 636,409 590,404 498,312 346,340"/>
+                <Baseline points="368,483 402,483 436,484 470,484 504,484 539,484 573,484 607,484 641,484 675,484 710,484 744,484 778,484 812,484 846,484 881,483 915,483 949,483 983,483 1017,483 1052,482"/>
+                <TextEquiv>
+                    <Unicode>Dezember:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="552,726 3383,782 3798,734 3799,605 3026,517 2721,639 802,544 553,639"/>
+                <Baseline points="574,684 734,683 894,683 1054,684 1214,686 1374,688 1534,690 1694,692 1854,695 2014,697 2175,700 2335,701 2495,703 2655,704 2815,705 2975,705 3135,704 3295,702 3455,699 3615,695 3776,689"/>
+                <TextEquiv>
+                    <Unicode>1.) Abends mit Erna zum jour fixe bei Frl. Hoppe. Musiziert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} textStyle {offset:0; length:13;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="403,917 3732,914 3663,753 404,751"/>
+                <Baseline points="425,842 589,845 753,848 917,851 1081,854 1245,856 1409,858 1574,860 1738,861 1902,862 2066,863 2230,863 2394,863 2558,863 2723,861 2887,860 3051,858 3215,856 3379,853 3543,850 3708,846"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 3: Nachm. u. Abd. Familie in Friedenau, da Richard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="442,1024 3577,1089 3922,1049 3923,856 442,950"/>
+                <Baseline points="465,989 636,987 808,985 980,984 1151,983 1323,983 1495,983 1666,984 1838,985 2010,986 2182,988 2353,989 2525,991 2697,992 2868,994 3040,995 3212,996 3383,996 3555,997 3727,996 3899,996"/>
+                <TextEquiv>
+                    <Unicode>morgen auf 14 Tage zu Vorträgen nach Petersburg und Moskau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="447,1221 498,1219 547,1180 608,1209 692,1128 739,1144 780,1133 775,1018 752,1019 685,1073 581,999 514,1043 439,1023"/>
+                <Baseline points="468,1126 494,1125 520,1123 546,1121 572,1118 598,1117 624,1115 650,1113 676,1113 702,1113 728,1116 755,1119"/>
+                <TextEquiv>
+                    <Unicode>fährt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="568,1346 3813,1335 3814,1206 1562,1127 568,1221"/>
+                <Baseline points="590,1275 750,1276 910,1277 1070,1277 1230,1278 1390,1279 1550,1279 1710,1280 1870,1280 2030,1281 2190,1281 2350,1282 2510,1282 2670,1282 2830,1283 2990,1283 3150,1283 3310,1283 3470,1283 3630,1283 3790,1282"/>
+                <TextEquiv>
+                    <Unicode>6.) Abd. Geolog. Gesellsch. 2 schlechte Vorträge mit viel übler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="434,1494 3983,1499 4049,1348 435,1314"/>
+                <Baseline points="458,1401 636,1401 814,1402 992,1403 1171,1404 1349,1405 1527,1407 1706,1408 1884,1410 2062,1412 2241,1413 2419,1414 2597,1416 2775,1417 2954,1418 3132,1418 3310,1418 3489,1418 3667,1417 3845,1415 4024,1413"/>
+                <TextEquiv>
+                    <Unicode>Polemik. Ich zum Schriftführer gewählt. Lade mir zu allen andern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="433,1640 3720,1671 4024,1635 4025,1478 434,1511"/>
+                <Baseline points="457,1559 634,1562 811,1565 988,1568 1166,1570 1343,1572 1520,1574 1697,1576 1875,1577 2052,1578 2229,1579 2406,1579 2584,1579 2761,1579 2938,1578 3115,1577 3293,1576 3470,1574 3647,1572 3824,1569 4002,1567"/>
+                <TextEquiv>
+                    <Unicode>Arbeiten dies Amt auf, um Stellung zu gewinnen. Ich muß jetzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="475,1764 2220,1712 2946,1821 3850,1729 3809,1632 2650,1570 476,1616"/>
+                <Baseline points="497,1704 663,1700 829,1698 996,1696 1162,1695 1329,1695 1495,1696 1662,1697 1828,1698 1995,1700 2161,1703 2327,1705 2494,1708 2660,1711 2827,1714 2993,1717 3160,1720 3326,1722 3493,1724 3659,1726 3826,1728"/>
+                <TextEquiv>
+                    <Unicode>am geolog. Himmel ein bischen „Aufgehen“ inszenieren, da es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="469,1922 713,1944 1044,1846 1449,1923 1873,1902 1928,1888 1928,1801 1794,1737 1633,1807 1177,1717 1002,1796 786,1737 675,1793 588,1738 468,1766"/>
+                <Baseline points="490,1856 560,1856 631,1856 702,1856 772,1855 843,1855 914,1855 984,1855 1055,1854 1126,1854 1197,1853 1267,1853 1338,1853 1409,1852 1479,1852 1550,1852 1621,1851 1691,1851 1762,1851 1833,1851 1904,1851"/>
+                <TextEquiv>
+                    <Unicode>nicht von selber kommt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="741,2006 3522,2010 4013,1930 4011,1811 739,1905"/>
+                <Baseline points="763,1964 924,1968 1085,1972 1247,1973 1408,1973 1570,1972 1731,1970 1892,1966 2054,1962 2215,1957 2377,1953 2538,1947 2699,1942 2861,1937 3022,1932 3184,1928 3345,1924 3506,1922 3668,1921 3829,1921 3991,1922"/>
+                <TextEquiv>
+                    <Unicode>In d. Nachsitzung erfahren, daß Kolonial-Geologie in Hamburg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="520,2127 3729,2145 3964,2129 3963,1950 519,1980"/>
+                <Baseline points="541,2095 710,2093 880,2092 1050,2091 1220,2090 1390,2088 1560,2087 1730,2086 1900,2085 2070,2084 2240,2083 2409,2081 2579,2080 2749,2078 2919,2077 3089,2075 3259,2073 3429,2071 3599,2068 3769,2065 3939,2062"/>
+                <TextEquiv>
+                    <Unicode>konzentriert wird u. jede Kolonie einen etatsmäßigen Geologen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="504,2242 4008,2214 4007,2108 3477,2072 503,2132"/>
+                <Baseline points="527,2201 699,2206 872,2209 1045,2211 1218,2213 1391,2213 1563,2213 1736,2211 1909,2210 2082,2207 2255,2205 2427,2202 2600,2199 2773,2196 2946,2193 3119,2190 3291,2188 3464,2186 3637,2184 3810,2184 3983,2184"/>
+                <TextEquiv>
+                    <Unicode>erhält. Nach Ostafrika Herr Scholz. Das ist mir nun durch meine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="517,2412 3427,2424 3859,2378 3857,2194 2440,2296 515,2232"/>
+                <Baseline points="538,2349 702,2350 867,2350 1032,2350 1197,2349 1362,2349 1526,2348 1691,2347 1856,2345 2021,2344 2186,2342 2350,2340 2515,2338 2680,2336 2845,2333 3010,2331 3174,2329 3339,2326 3504,2323 3669,2321 3834,2318"/>
+                <TextEquiv>
+                    <Unicode>Abwesenheit vielleicht schon entgangen, wenn es auch nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="523,2501 1504,2490 1502,2394 1386,2359 1240,2411 1189,2375 1005,2392 954,2365 835,2399 774,2364 679,2439 522,2414"/>
+                <Baseline points="544,2482 590,2481 637,2480 684,2480 731,2479 777,2479 824,2478 871,2478 918,2477 964,2477 1011,2477 1058,2476 1105,2475 1151,2475 1198,2474 1245,2472 1292,2471 1338,2470 1385,2468 1432,2467 1479,2464"/>
+                <TextEquiv>
+                    <Unicode>mein Ideal ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="595,2693 801,2585 1622,2688 2219,2595 2400,2690 2726,2600 3758,2650 3784,2475 593,2499"/>
+                <Baseline points="619,2598 776,2598 933,2598 1090,2597 1247,2597 1404,2597 1561,2597 1718,2597 1875,2597 2032,2597 2190,2596 2347,2595 2504,2593 2661,2592 2818,2589 2975,2586 3132,2583 3289,2579 3446,2575 3603,2569 3761,2563 3824,2571 3875,2569 3928,2558"/>
+                <TextEquiv>
+                    <Unicode>7.) Mit Mama u. Erna in d. Lichtspielen (Kinematograph)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="521,2775 3905,2819 3904,2658 3623,2617 521,2678"/>
+                <Baseline points="543,2742 709,2746 876,2750 1043,2752 1210,2753 1377,2754 1544,2754 1710,2753 1877,2752 2044,2750 2211,2749 2378,2747 2545,2746 2712,2744 2878,2743 3045,2743 3212,2743 3379,2744 3546,2746 3713,2749 3880,2753"/>
+                <TextEquiv>
+                    <Unicode>am Stollendorfplatz. Schlechtes Programm, hatte auch technisch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="561,2975 1146,2870 3531,2971 3940,2935 3941,2843 2919,2740 561,2841"/>
+                <Baseline points="586,2885 752,2883 919,2882 1085,2881 1252,2881 1418,2880 1585,2880 1751,2880 1918,2880 2084,2881 2251,2881 2417,2882 2584,2882 2750,2883 2917,2884 3083,2885 3250,2885 3416,2886 3583,2886 3749,2887 3916,2887"/>
+                <TextEquiv>
+                    <Unicode>schon höhere Vollkommenheit erwartet. Hatten ursprünglich in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="565,3052 3962,3127 3962,2952 3824,2897 1748,2986 1149,2872 565,2978"/>
+                <Baseline points="589,3040 756,3038 924,3036 1091,3035 1259,3034 1426,3033 1594,3033 1761,3033 1929,3034 2096,3034 2264,3034 2432,3035 2599,3035 2767,3035 2934,3036 3102,3035 3269,3035 3437,3034 3604,3033 3772,3031 3940,3029"/>
+                <TextEquiv>
+                    <Unicode>die Oper (Mignon) gehen wollen, es dann aber wegen Heiser„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="545,3255 738,3198 881,3270 1064,3186 1363,3174 1825,3253 1989,3154 2114,3218 2363,3202 2362,3096 1460,3122 1183,3046 838,3132 709,3051 543,3098"/>
+                <Baseline points="565,3166 653,3170 742,3172 831,3174 920,3175 1009,3175 1097,3175 1186,3174 1275,3173 1364,3171 1453,3169 1541,3167 1630,3166 1719,3164 1808,3162 1897,3161 1985,3160 2074,3160 2163,3161 2252,3162 2341,3164"/>
+                <TextEquiv>
+                    <Unicode>keit Ernas wieder aufgegeben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="575,3397 3895,3374 3894,3241 3374,3191 575,3254"/>
+                <Baseline points="596,3343 759,3338 923,3334 1087,3330 1251,3328 1414,3327 1578,3326 1742,3325 1906,3325 2069,3326 2233,3327 2397,3328 2561,3328 2724,3329 2888,3330 3052,3331 3216,3331 3379,3330 3543,3329 3707,3328 3871,3325"/>
+                <TextEquiv>
+                    <Unicode>9.) Abends mit Herrn E. Schulze-Lindi auf Freibillets im Konzert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="522,3544 2294,3449 3984,3538 3845,3363 521,3369"/>
+                <Baseline points="546,3455 716,3455 887,3455 1058,3454 1229,3454 1400,3453 1570,3453 1741,3452 1912,3451 2083,3450 2254,3449 2424,3449 2595,3448 2766,3448 2937,3448 3108,3448 3278,3449 3449,3449 3620,3451 3791,3452 3962,3454"/>
+                <TextEquiv>
+                    <Unicode>der Musikhochschule: 1. u. 2. Symphonie v. Beethoven. Leider durch Ermüdung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="540,3624 1019,3663 1142,3574 1240,3638 1649,3566 1903,3657 2017,3573 2234,3668 2418,3575 2653,3610 2652,3468 917,3539 764,3466 539,3541"/>
+                <Baseline points="562,3588 665,3584 768,3581 872,3577 975,3575 1079,3574 1182,3572 1286,3572 1389,3571 1493,3571 1596,3570 1699,3570 1803,3570 1906,3570 2010,3570 2113,3570 2217,3570 2320,3570 2424,3569 2527,3568 2631,3567"/>
+                <TextEquiv>
+                    <Unicode>ein wenig gehindert, dennoch reicher Genuß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;} textStyle {offset:0; length:11;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:11; length:1;underlined:true; strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:13; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="260,3805 3989,3734 3987,3591 3632,3554 2229,3671 258,3611"/>
+                <Baseline points="283,3733 467,3733 651,3733 835,3732 1019,3730 1203,3728 1387,3725 1571,3723 1755,3719 1939,3717 2124,3713 2308,3710 2492,3707 2676,3705 2860,3703 3044,3701 3228,3700 3412,3699 3596,3700 3780,3701 3965,3704"/>
+                <TextEquiv>
+                    <Unicode>Sonntag 10:) Nachm. Mittags allein zu Branca u. Frau geladen. Meine Zukunfts„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="637,3956 788,3863 2437,3919 2703,3826 3657,3927 3951,3806 3177,3713 636,3786"/>
+                <Baseline points="658,3862 821,3858 985,3854 1148,3850 1312,3847 1475,3844 1639,3841 1802,3839 1966,3837 2129,3836 2293,3835 2457,3834 2620,3834 2784,3834 2947,3834 3111,3835 3274,3837 3438,3838 3601,3841 3765,3843 3929,3847"/>
+                <TextEquiv>
+                    <Unicode>pläne sind leider noch immer sehr schattenhafter Natur. Eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="605,4062 1732,3967 3888,4057 3968,3872 603,3951"/>
+                <Baseline points="629,4008 794,4000 960,3994 1126,3989 1292,3983 1458,3979 1623,3975 1789,3972 1955,3969 2121,3967 2287,3965 2452,3964 2618,3962 2784,3961 2950,3960 3116,3959 3281,3958 3447,3957 3613,3956 3779,3955 3945,3954"/>
+                <TextEquiv>
+                    <Unicode>Kustosstelle ist nicht bewilligt worden, würde auch vermutlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="621,4174 3963,4128 3713,3992 620,4045"/>
+                <Baseline points="643,4131 807,4127 972,4124 1137,4121 1302,4118 1467,4114 1632,4112 1797,4109 1962,4107 2127,4105 2292,4103 2456,4101 2621,4100 2786,4099 2951,4098 3116,4098 3281,4097 3446,4098 3611,4098 3776,4099 3941,4100"/>
+                <TextEquiv>
+                    <Unicode>mit außerord. Professur f. Palaeont. vereinigt werden, also nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="605,4265 3874,4249 3873,4106 605,4173"/>
+                <Baseline points="628,4236 789,4234 950,4232 1111,4230 1272,4228 1433,4227 1594,4225 1756,4224 1917,4222 2078,4221 2239,4220 2400,4220 2561,4219 2722,4219 2884,4219 3045,4218 3206,4219 3367,4219 3528,4220 3689,4220 3851,4221"/>
+                <TextEquiv>
+                    <Unicode>mir zufallen können. An d. Landesanstalt ist z. Z. kaum anzu„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="590,4403 3928,4440 3927,4247 589,4311"/>
+                <Baseline points="613,4367 777,4363 942,4359 1106,4356 1271,4353 1435,4351 1600,4349 1764,4347 1929,4346 2093,4344 2258,4344 2422,4343 2587,4343 2751,4343 2916,4343 3080,4343 3245,4344 3409,4344 3574,4345 3738,4346 3903,4347"/>
+                <TextEquiv>
+                    <Unicode>kommen, auch wäre mir das keineswegs restlos sympathisch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="611,4571 3866,4532 3682,4384 611,4391"/>
+                <Baseline points="633,4494 793,4493 954,4492 1114,4492 1275,4491 1435,4491 1596,4490 1756,4490 1917,4490 2077,4490 2238,4490 2399,4490 2559,4490 2720,4490 2880,4490 3041,4490 3201,4490 3362,4490 3522,4490 3683,4490 3844,4490"/>
+                <TextEquiv>
+                    <Unicode>immer aus d. Gesichtspunkte heraus, daß ich möglichst bald</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>53&#xD;
+Dezember:&#xD;
+1.) Abends mit Erna zum jour fixe bei Frl. Hoppe. Musiziert.&#xD;
+Sonntag d. 3: Nachm. u. Abd. Familie in Friedenau, da Richard&#xD;
+morgen auf 14 Tage zu Vorträgen nach Petersburg und Moskau&#xD;
+fährt.&#xD;
+6.) Abd. Geolog. Gesellsch. 2 schlechte Vorträge mit viel übler&#xD;
+Polemik. Ich zum Schriftführer gewählt. Lade mir zu allen andern&#xD;
+Arbeiten dies Amt auf, um Stellung zu gewinnen. Ich muß jetzt&#xD;
+am geolog. Himmel ein bischen „Aufgehen“ inszenieren, da es&#xD;
+nicht von selber kommt.&#xD;
+In d. Nachsitzung erfahren, daß Kolonial-Geologie in Hamburg&#xD;
+konzentriert wird u. jede Kolonie einen etatsmäßigen Geologen&#xD;
+erhält. Nach Ostafrika Herr Scholz. Das ist mir nun durch meine&#xD;
+Abwesenheit vielleicht schon entgangen, wenn es auch nicht&#xD;
+mein Ideal ist.&#xD;
+7.) Mit Mama u. Erna in d. Lichtspielen (Kinematograph)&#xD;
+am Stollendorfplatz. Schlechtes Programm, hatte auch technisch&#xD;
+schon höhere Vollkommenheit erwartet. Hatten ursprünglich in&#xD;
+die Oper (Mignon) gehen wollen, es dann aber wegen Heiser„&#xD;
+keit Ernas wieder aufgegeben.&#xD;
+9.) Abends mit Herrn E. Schulze-Lindi auf Freibillets im Konzert&#xD;
+der Musikhochschule: 1. u. 2. Symphonie v. Beethoven. Leider durch Ermüdung&#xD;
+ein wenig gehindert, dennoch reicher Genuß.&#xD;
+Sonntag 10:) Nachm. Mittags allein zu Branca u. Frau geladen. Meine Zukunfts„&#xD;
+pläne sind leider noch immer sehr schattenhafter Natur. Eine&#xD;
+Kustosstelle ist nicht bewilligt worden, würde auch vermutlich&#xD;
+mit außerord. Professur f. Palaeont. vereinigt werden, also nicht&#xD;
+mir zufallen können. An d. Landesanstalt ist z. Z. kaum anzu„&#xD;
+kommen, auch wäre mir das keineswegs restlos sympathisch&#xD;
+immer aus d. Gesichtspunkte heraus, daß ich möglichst bald</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

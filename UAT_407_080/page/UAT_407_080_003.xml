@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:52.991+02:00</Created>
+        <LastChange>2020-03-17T08:33:33.659+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550697" pageNr="3" tsid="25780387" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=RQPJLPHARZXOXBSYOPWFHGOV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZPOMZLAQHJNGXUORISOVSVM" imageId="4551575"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_003.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255533246" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="428,299 428,4681 4135,4681 4135,299"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="3768,444 3798,452 3812,444 3830,450 3854,430 3876,432 3892,268 3870,265 3831,293 3783,284"/>
+                <Baseline points="3797,370 3829,373 3861,376"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;} textStyle {offset:0; length:33;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="824,473 2810,458 2844,288 2660,227 2034,279 1684,199 1582,285 1443,237 1019,314 821,227"/>
+                <Baseline points="845,389 943,387 1042,384 1141,382 1240,379 1339,377 1438,374 1537,372 1636,370 1735,367 1834,366 1932,364 2031,363 2130,362 2229,362 2328,362 2427,362 2526,364 2625,366 2724,368 2823,371"/>
+                <TextEquiv>
+                    <Unicode>Tagebuch d. Ostafrika-Expedition.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818626560_1198" custom="readingOrder {index:2;} textStyle {offset:3; length:6;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:40; length:16;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:62; length:2;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="517,739 1620,791 3861,643 3774,454 3446,532 3286,421 2504,586 512,573"/>
+                <Baseline points="540,699 697,699 855,698 1013,695 1170,692 1328,687 1486,683 1643,677 1801,671 1959,665 2117,659 2274,652 2432,645 2590,640 2747,634 2905,629 3063,624 3220,621 3378,618 3536,617 3694,616 3766,570 3802,570 3838,564"/>
+                <TextEquiv>
+                    <Unicode>Ab Berlin (Anhalter Bhf.) Donnerstag d. 11. März 1909, morg. 800.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818640564_1203" custom="readingOrder {index:3;} textStyle {offset:3; length:5;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:10; length:2;underlined:true; fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:17; length:4;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:31; length:2;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:49; length:2;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="523,902 2232,896 2604,760 4007,826 3710,642 519,768"/>
+                <Baseline points="545,858 571,858 597,858 623,857 649,856 676,855 702,854 728,853 754,852 780,851 807,849 833,848 859,848 885,847 911,846 938,846 964,845 990,845 1016,845 1043,846 1258,857 1319,848 1380,842 1441,836 1502,831 1563,827 1624,825 1685,822 1746,821 1807,819 1868,818 1929,818 1990,817 2051,816 2112,815 2173,814 2234,812 2295,810 2356,808 2417,805 2478,800 2757,782 2798,784 2839,786 2880,787 2921,787 2963,787 3004,787 3045,786 3086,786 3127,785 3169,783 3210,783 3251,781 3292,780 3333,778 3375,778 3416,776 3457,776 3498,775 3539,775 3581,775 3609,738 3646,737 3683,738 3688,772 3714,773 3741,775 3768,776 3795,777 3822,777 3848,779 3875,779 3902,780 3929,781 3956,783 3983,784"/>
+                <TextEquiv>
+                    <Unicode>An Basel 902, an Genf 12.III, 607 an Marseilles 538 nachm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="2480,938 2587,887 2868,864 2995,934 3227,916 3298,857 3415,909 3468,868 3638,905 3636,789 3542,764 3427,810 3247,782 3029,826 2903,783 2689,814 2621,761 2478,790"/>
+                <Baseline points="2501,877 2556,875 2612,872 2668,870 2723,869 2779,868 2835,868 2890,867 2946,867 3002,867 3058,867 3113,867 3169,866 3225,866 3280,865 3336,864 3392,862 3447,859 3503,856 3559,853 3615,848"/>
+                <TextEquiv>
+                    <Unicode>zus. m. Fr. Eva v. Thiele-Winkler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="459,1049 3801,1040 3974,987 3971,835 456,906"/>
+                <Baseline points="482,1035 655,1031 829,1026 1002,1021 1176,1016 1349,1011 1523,1006 1696,1000 1870,995 2043,990 2217,985 2391,981 2564,976 2738,972 2911,969 3085,965 3258,963 3432,961 3605,959 3779,959 3953,959"/>
+                <TextEquiv>
+                    <Unicode>Im Hotel de Bordeaux et de l'Orient mit Dr. Janensch vereinigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;} textStyle {offset:3; length:10;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="600,1259 2193,1135 3493,1205 3734,1165 3727,968 2800,1073 2662,992 1348,1035 597,1165"/>
+                <Baseline points="622,1219 776,1209 930,1200 1085,1190 1239,1181 1394,1173 1548,1165 1702,1158 1857,1150 2011,1144 2166,1138 2320,1132 2474,1127 2629,1123 2783,1119 2938,1116 3092,1114 3246,1112 3401,1112 3555,1112 3710,1112 3744,1105"/>
+                <TextEquiv>
+                    <Unicode>Ab Marseilles an Bord d. D. R.-P.-D. „Feldmarschall“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;} textStyle {offset:0; length:31;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1243,1366 2307,1326 2503,1387 2628,1290 2829,1360 2991,1288 2982,1141 2469,1250 2311,1155 2247,1204 1856,1184 1655,1272 1238,1258"/>
+                <Baseline points="1263,1352 1348,1354 1433,1354 1518,1353 1604,1350 1689,1348 1774,1344 1859,1339 1945,1335 2030,1329 2115,1323 2200,1318 2286,1312 2371,1306 2456,1300 2541,1294 2627,1289 2712,1285 2797,1281 2882,1277 2968,1275"/>
+                <TextEquiv>
+                    <Unicode>d. 13. März 1909, nachm. 3 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="1646,1537 1758,1573 1959,1509 2040,1566 2246,1502 2639,1545 2711,1495 2872,1516 2871,1351 2759,1325 2495,1385 2209,1328 2075,1392 1842,1335 1645,1372"/>
+                <Baseline points="1669,1508 1750,1476 1805,1480 1860,1483 1915,1485 1970,1488 2025,1489 2080,1491 2135,1491 2190,1491 2245,1491 2300,1491 2355,1490 2410,1489 2465,1488 2520,1486 2575,1485 2630,1483 2685,1481 2740,1479 2795,1477 2851,1475"/>
+                <TextEquiv>
+                    <Unicode>4 Jahre später Hochzeit!!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:9;} textStyle {offset:3; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="410,1614 587,1564 643,1615 727,1602 778,1550 910,1588 974,1517 1038,1554 1258,1552 1300,1509 1374,1542 1474,1487 1469,1402 1429,1395 1252,1431 1155,1374 1023,1421 877,1383 795,1428 703,1392 553,1436 399,1404"/>
+                <Baseline points="428,1528 479,1527 530,1525 581,1524 632,1523 683,1522 734,1520 785,1518 836,1517 887,1515 938,1512 989,1510 1040,1507 1091,1504 1142,1500 1193,1496 1244,1493 1295,1488 1346,1484 1397,1478 1449,1472"/>
+                <TextEquiv>
+                    <Unicode>An Neapel 15 III., früh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:10;} textStyle {offset:2; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="438,1678 807,1630 1297,1657 1362,1617 1575,1664 1567,1508 1530,1496 912,1584 781,1551 649,1608 593,1566 434,1597"/>
+                <Baseline points="460,1648 514,1650 568,1652 623,1652 677,1651 732,1649 786,1647 841,1645 895,1642 950,1638 1004,1634 1058,1629 1113,1625 1167,1621 1222,1617 1276,1613 1331,1610 1385,1607 1440,1604 1494,1602 1549,1601"/>
+                <TextEquiv>
+                    <Unicode>„ Port Said 19.III. abds.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818728754_1213" custom="readingOrder {index:11;} textStyle {offset:2; length:4;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="427,1815 730,1859 898,1821 958,1768 1117,1808 1236,1773 1283,1811 1433,1765 1424,1623 1037,1669 805,1626 745,1661 543,1660 423,1748"/>
+                <Baseline points="448,1795 474,1792 501,1789 527,1787 554,1786 581,1785 607,1784 634,1783 660,1782 687,1781 714,1781 740,1780 767,1778 794,1776 1011,1757 1038,1755 1065,1753 1093,1752 1120,1751 1147,1751 1175,1751 1202,1751 1230,1752 1372,1732 1408,1732"/>
+                <TextEquiv>
+                    <Unicode>„ Suez 20.III „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818736118_1218" custom="readingOrder {index:12;} textStyle {offset:2; length:4;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="449,1958 535,1957 644,1910 941,1933 993,1898 1178,1932 1218,1916 1210,1791 1028,1815 989,1845 933,1808 832,1841 790,1816 743,1842 625,1826 445,1882"/>
+                <Baseline points="470,1936 495,1936 520,1934 546,1931 571,1928 597,1923 622,1919 648,1914 673,1910 698,1908 724,1905 749,1905 775,1906 800,1909 826,1914 999,1895 1026,1897 1054,1898 1082,1897 1110,1895 1138,1891 1166,1888 1194,1886"/>
+                <TextEquiv>
+                    <Unicode>„ Aden 25 III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:13;} textStyle {offset:2; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="421,2077 641,2080 756,2049 1147,2071 1253,2041 1244,1916 1160,1931 1091,1904 996,1902 945,1933 634,1914 416,2002"/>
+                <Baseline points="442,2067 481,2067 520,2066 560,2066 599,2064 638,2062 678,2060 717,2058 756,2056 796,2053 835,2050 874,2047 914,2044 953,2041 992,2037 1032,2034 1071,2029 1110,2026 1150,2022 1189,2017 1229,2013"/>
+                <TextEquiv>
+                    <Unicode>„ Mombassa 31.III</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818742244_1223" custom="readingOrder {index:14;} textStyle {offset:2; length:5;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="438,2246 539,2268 609,2248 727,2309 820,2251 912,2269 1048,2184 1246,2238 1228,2051 1137,2082 1049,2054 989,2087 928,2056 424,2094"/>
+                <Baseline points="459,2215 485,2214 511,2214 537,2212 563,2211 589,2210 615,2209 641,2208 668,2207 694,2205 720,2204 746,2203 772,2201 798,2200 824,2200 851,2198 1068,2160 1097,2159 1127,2157 1156,2155 1186,2156 1216,2158"/>
+                <TextEquiv>
+                    <Unicode>„ Tanga 1.IV</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:15;} textStyle {offset:2; length:14;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="429,2375 1461,2325 1616,2286 1608,2138 1509,2130 1320,2278 1207,2265 1104,2181 980,2205 894,2276 615,2249 425,2294"/>
+                <Baseline points="452,2350 511,2346 571,2343 631,2341 691,2338 751,2337 811,2336 871,2334 931,2332 991,2330 1051,2328 1111,2326 1171,2323 1231,2319 1291,2316 1351,2311 1411,2306 1471,2299 1531,2292 1591,2283"/>
+                <TextEquiv>
+                    <Unicode>„ Dar-es-Salaam. 2.IV.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818750891_1228" custom="readingOrder {index:16;} textStyle {offset:2; length:5;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="445,2548 670,2420 788,2453 1174,2395 1354,2473 1606,2420 1597,2282 1452,2323 896,2324 434,2378"/>
+                <Baseline points="463,2472 488,2475 514,2477 540,2478 566,2477 591,2477 617,2475 643,2474 669,2472 694,2470 720,2468 746,2467 772,2466 797,2466 823,2466 849,2467 875,2470 901,2473 1381,2425 1406,2422 1431,2420 1456,2417 1481,2416 1506,2413 1531,2409 1556,2402 1582,2392"/>
+                <TextEquiv>
+                    <Unicode>„ Lindi 6.IV.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:17;} textStyle {offset:0; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="619,2633 2079,2527 2458,2613 2700,2488 3459,2580 4153,2449 4147,2275 3981,2379 2599,2272 2031,2300 1733,2471 613,2441"/>
+                <Baseline points="642,2571 816,2559 990,2549 1165,2540 1339,2531 1513,2522 1688,2516 1862,2509 2036,2502 2211,2497 2385,2492 2559,2487 2734,2482 2908,2477 3082,2473 3257,2469 3431,2465 3605,2460 3780,2457 3954,2452 4129,2447"/>
+                <TextEquiv>
+                    <Unicode>Schnee auf d. Höhen von Korsika, Apennin südl. Pompeji, Kalabrien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:18;}">
+                <Coords points="468,2748 521,2727 558,2748 611,2741 637,2717 704,2731 766,2706 799,2731 833,2711 875,2732 1013,2716 1007,2608 904,2596 834,2640 760,2599 692,2656 586,2612 525,2557 457,2543"/>
+                <Baseline points="489,2715 514,2714 539,2713 564,2712 589,2711 614,2710 639,2709 664,2709 689,2708 714,2708 739,2707 764,2706 789,2704 814,2702 839,2701 864,2699 889,2697 914,2695 939,2692 964,2689 989,2686"/>
+                <TextEquiv>
+                    <Unicode>u. Kreta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:19;} textStyle {offset:12; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="669,2881 4074,2726 4010,2572 3061,2667 2014,2565 665,2747"/>
+                <Baseline points="692,2828 859,2815 1027,2803 1195,2793 1363,2783 1531,2775 1699,2768 1866,2762 2034,2757 2202,2752 2370,2748 2538,2744 2706,2740 2874,2735 3041,2731 3209,2726 3377,2720 3545,2715 3713,2707 3881,2699 4049,2690"/>
+                <TextEquiv>
+                    <Unicode>Vereinzelte Zugvögel (darunter Kiebitz) in d. Höhe v. Korsika</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:20;} textStyle {offset:10; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="469,3021 3813,2925 3806,2755 3343,2818 3227,2710 2883,2849 2375,2778 465,2914"/>
+                <Baseline points="490,3000 663,2989 837,2979 1010,2970 1184,2961 1358,2953 1531,2944 1705,2937 1879,2929 2052,2922 2226,2916 2399,2910 2573,2904 2747,2899 2920,2894 3094,2889 3268,2884 3441,2880 3615,2876 3789,2872"/>
+                <TextEquiv>
+                    <Unicode>u. Kreta, Schwalben im Suez-Kanal u. Roten Meer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:21;}">
+                <Coords points="597,3181 3878,3068 3600,2912 2450,2908 2158,3033 1905,2938 894,3095 592,3024"/>
+                <Baseline points="620,3152 781,3144 943,3136 1105,3129 1267,3121 1429,3114 1591,3107 1752,3101 1914,3094 2076,3088 2238,3083 2400,3078 2562,3073 2724,3069 2885,3065 3047,3062 3209,3059 3371,3057 3533,3055 3695,3053 3857,3053"/>
+                <TextEquiv>
+                    <Unicode>Tümmler bei d. Einfahrt in Port Said u. Rot. Meer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:22;} textStyle {offset:0; length:16;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="612,3321 3961,3268 3959,3035 3519,3146 3150,3066 608,3196"/>
+                <Baseline points="633,3291 798,3283 963,3275 1129,3268 1294,3260 1460,3254 1625,3248 1790,3242 1956,3237 2121,3232 2287,3227 2452,3223 2617,3219 2783,3215 2948,3212 3114,3209 3279,3206 3444,3203 3610,3201 3775,3199 3941,3197"/>
+                <TextEquiv>
+                    <Unicode>Fliegende Fische (klein, hell) im Roten Meer am 22.III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:23;} textStyle {offset:0; length:5;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:9; length:5;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:22; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="614,3535 1461,3411 1643,3518 2579,3396 3828,3436 4157,3350 4151,3167 3686,3306 2789,3234 609,3360"/>
+                <Baseline points="634,3456 809,3451 984,3446 1159,3440 1334,3434 1509,3428 1684,3421 1859,3415 2034,3408 2209,3402 2384,3396 2559,3390 2734,3385 2909,3379 3084,3375 3259,3371 3434,3368 3609,3366 3784,3364 3959,3364 4135,3364"/>
+                <TextEquiv>
+                    <Unicode>Vesuv u. Aetna ruhig, Stromboli nur hin u. wieder (10 Min?)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:24;}">
+                <Coords points="491,3645 4113,3548 4108,3387 3946,3379 487,3502"/>
+                <Baseline points="515,3617 693,3605 872,3594 1051,3584 1229,3574 1408,3566 1587,3557 1765,3550 1944,3544 2123,3538 2302,3533 2480,3528 2659,3523 2838,3519 3016,3515 3195,3512 3374,3509 3552,3505 3731,3503 3910,3500 4089,3497"/>
+                <TextEquiv>
+                    <Unicode>weißes Rauchwölkchen unterhalb d. Gipfels auf N-Seite. Sehr steile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:25;}">
+                <Coords points="476,3832 581,3881 774,3799 912,3864 1324,3772 1773,3804 2140,3701 2407,3759 2398,3585 2151,3561 2082,3627 1913,3559 1717,3672 1168,3708 1018,3648 913,3703 468,3662"/>
+                <Baseline points="497,3771 591,3770 685,3768 779,3765 874,3761 968,3758 1062,3752 1157,3748 1251,3742 1345,3737 1440,3731 1534,3725 1628,3720 1722,3714 1817,3710 1911,3705 2005,3701 2100,3697 2194,3694 2288,3692 2383,3691"/>
+                <TextEquiv>
+                    <Unicode>Böschungen, zumal auf S-Seite.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:26;} textStyle {offset:27; length:17;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="678,3961 3813,3923 4026,3849 4022,3719 2186,3704 1921,3816 674,3850"/>
+                <Baseline points="698,3923 863,3915 1028,3908 1193,3901 1359,3894 1524,3887 1689,3881 1854,3876 2020,3870 2185,3864 2350,3859 2515,3854 2681,3849 2846,3845 3011,3841 3176,3836 3342,3833 3507,3829 3672,3826 3837,3823 4003,3820"/>
+                <TextEquiv>
+                    <Unicode>Bei d. Durchfahrt durch d. Straße v. Messina orographisch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:27;}">
+                <Coords points="462,4149 1604,4020 3892,4081 4078,4009 4073,3813 3781,3928 1961,3989 1753,3887 459,4028"/>
+                <Baseline points="483,4076 661,4066 840,4058 1018,4051 1197,4045 1375,4039 1554,4034 1732,4030 1911,4025 2089,4022 2268,4018 2446,4015 2625,4011 2803,4007 2982,4004 3160,3999 3339,3994 3517,3989 3696,3982 3874,3975 4053,3967"/>
+                <TextEquiv>
+                    <Unicode>keine tektonischen Linien erkennbar (vielleicht d. periphe„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:28;}">
+                <Coords points="468,4272 1627,4277 2200,4142 3536,4213 4089,4164 4085,4021 464,4147"/>
+                <Baseline points="490,4231 668,4218 847,4206 1026,4196 1205,4187 1384,4179 1563,4171 1741,4165 1920,4158 2099,4153 2278,4148 2457,4144 2636,4140 2815,4136 2993,4133 3172,4129 3351,4125 3530,4121 3709,4117 3888,4112 4067,4107"/>
+                <TextEquiv>
+                    <Unicode>rische Randbruch auf kalabr. Seite?) Alle Ortschaften arg verwü„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:29;}">
+                <Coords points="494,4469 1751,4308 2273,4423 2556,4299 3024,4402 3365,4276 3997,4294 3692,4141 488,4277"/>
+                <Baseline points="515,4372 688,4360 861,4348 1034,4339 1207,4330 1380,4322 1553,4315 1726,4308 1899,4303 2072,4298 2245,4293 2418,4289 2591,4286 2764,4283 2937,4280 3110,4277 3283,4274 3456,4272 3629,4270 3802,4267 3975,4264"/>
+                <TextEquiv>
+                    <Unicode>stet, dazwischen aber auch ganz intakte Häuser mit Dächern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:30;}">
+                <Coords points="521,4544 3916,4504 3912,4352 3028,4283 2839,4383 1759,4320 518,4441"/>
+                <Baseline points="541,4513 708,4505 876,4497 1043,4490 1211,4482 1379,4475 1546,4468 1714,4462 1881,4456 2049,4450 2217,4444 2384,4440 2552,4435 2719,4431 2887,4428 3055,4425 3222,4422 3390,4421 3557,4419 3725,4419 3893,4419"/>
+                <TextEquiv>
+                    <Unicode>Quai v. Messina in mehrere gegeneinander verschobene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:31;}">
+                <Coords points="520,4698 670,4654 839,4713 918,4686 987,4732 1110,4676 1161,4719 1353,4619 1544,4677 1646,4649 1638,4497 1355,4476 1170,4544 828,4507 794,4541 703,4509 512,4551"/>
+                <Baseline points="540,4650 596,4647 653,4643 710,4640 767,4637 823,4633 880,4629 937,4625 994,4621 1051,4618 1107,4615 1164,4612 1221,4608 1278,4606 1335,4604 1391,4602 1448,4601 1505,4600 1562,4599 1619,4600"/>
+                <TextEquiv>
+                    <Unicode>Blöcke zerspalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1&#xD;
+Tagebuch d. Ostafrika-Expedition.&#xD;
+Ab Berlin (Anhalter Bhf.) Donnerstag d. 11. März 1909, morg. 800.&#xD;
+An Basel 902, an Genf 12.III, 607 an Marseilles 538 nachm.&#xD;
+zus. m. Fr. Eva v. Thiele-Winkler&#xD;
+Im Hotel de Bordeaux et de l'Orient mit Dr. Janensch vereinigt.&#xD;
+Ab Marseilles an Bord d. D. R.-P.-D. „Feldmarschall“&#xD;
+d. 13. März 1909, nachm. 3 Uhr.&#xD;
+4 Jahre später Hochzeit!!&#xD;
+An Neapel 15 III., früh&#xD;
+„ Port Said 19.III. abds.&#xD;
+„ Suez 20.III „&#xD;
+„ Aden 25 III.&#xD;
+„ Mombassa 31.III&#xD;
+„ Tanga 1.IV&#xD;
+„ Dar-es-Salaam. 2.IV.&#xD;
+„ Lindi 6.IV.&#xD;
+Schnee auf d. Höhen von Korsika, Apennin südl. Pompeji, Kalabrien&#xD;
+u. Kreta.&#xD;
+Vereinzelte Zugvögel (darunter Kiebitz) in d. Höhe v. Korsika&#xD;
+u. Kreta, Schwalben im Suez-Kanal u. Roten Meer.&#xD;
+Tümmler bei d. Einfahrt in Port Said u. Rot. Meer.&#xD;
+Fliegende Fische (klein, hell) im Roten Meer am 22.III.&#xD;
+Vesuv u. Aetna ruhig, Stromboli nur hin u. wieder (10 Min?)&#xD;
+weißes Rauchwölkchen unterhalb d. Gipfels auf N-Seite. Sehr steile&#xD;
+Böschungen, zumal auf S-Seite.&#xD;
+Bei d. Durchfahrt durch d. Straße v. Messina orographisch&#xD;
+keine tektonischen Linien erkennbar (vielleicht d. periphe„&#xD;
+rische Randbruch auf kalabr. Seite?) Alle Ortschaften arg verwü„&#xD;
+stet, dazwischen aber auch ganz intakte Häuser mit Dächern.&#xD;
+Quai v. Messina in mehrere gegeneinander verschobene&#xD;
+Blöcke zerspalten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

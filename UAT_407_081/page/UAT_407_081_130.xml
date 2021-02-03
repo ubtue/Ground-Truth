@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:40.110+02:00</Created>
+        <LastChange>2019-10-04T12:46:14.021+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551019" pageNr="130" tsid="16308508" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=ZYJMDKIBNPZRUXCTGFCDKSQF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=URPVEZHVYKAMRKNTGYFXQNDD" imageId="4551897"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_130.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256506977" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="226,262 226,4900 3942,4900 3942,262"/>
+            <TextLine id="line_1569574982237_848" custom="readingOrder {index:0;}">
+                <Coords points="204,399 230,399 266,374 321,406 383,346 405,347 407,242 351,250 338,237 320,245 277,240 259,257 208,243"/>
+                <Baseline points="226,370 381,373"/>
+                <TextEquiv>
+                    <Unicode>128</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569574982237_847" custom="readingOrder {index:1;}">
+                <Coords points="361,411 3739,373 3633,236 360,286"/>
+                <Baseline points="381,373 400,374 575,375 749,375 924,374 1098,372 1273,369 1447,364 1622,360 1796,356 1971,351 2145,346 2320,343 2494,339 2669,337 2843,335 3018,335 3192,337 3367,340 3541,345 3716,353"/>
+                <TextEquiv>
+                    <Unicode>Bornhardt u. v. d. Borne gut, die Verwerfung muß aber etwa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+                <Coords points="426,551 1481,618 1636,508 2555,473 3367,590 3787,534 3846,364 425,447"/>
+                <Baseline points="446,513 623,510 801,506 979,502 1157,499 1335,496 1513,492 1690,489 1868,486 2046,484 2224,481 2402,479 2580,478 2757,477 2935,477 3113,477 3291,478 3469,479 3647,481 3825,484"/>
+                <TextEquiv>
+                    <Unicode>an d. Bahn ihr Ende haben, wo die Sandsteine noch schiefgestellt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:3;} unclear {offset:25; length:10;}">
+                <Coords points="406,671 965,760 1095,651 2045,717 2244,621 2396,729 3485,730 3805,672 3805,555 2556,473 405,567"/>
+                <Baseline points="427,660 594,656 762,652 930,648 1098,644 1266,640 1434,637 1601,634 1769,632 1937,630 2105,629 2273,628 2441,628 2609,628 2776,629 2944,631 3112,634 3280,639 3448,643 3616,649 3784,656"/>
+                <TextEquiv>
+                    <Unicode>sind. Auch hier wie beim Fungafunga freilich Plateaurand, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:4;}">
+                <Coords points="486,869 3191,887 3351,790 3746,841 3746,728 2397,730 2249,622 2098,727 485,696"/>
+                <Baseline points="509,803 669,803 830,803 991,802 1151,800 1312,799 1473,797 1633,795 1794,793 1955,791 2116,790 2276,788 2437,787 2598,786 2758,786 2919,786 3080,787 3240,789 3401,791 3562,794 3723,799"/>
+                <TextEquiv>
+                    <Unicode>hier Erosionswerk sein müßte. Ob nicht d. Ngerengere früher in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:5;}">
+                <Coords points="414,993 1117,1077 1285,949 2028,1049 2712,955 2839,1063 3163,946 3779,996 3834,874 1435,813 413,941"/>
+                <Baseline points="436,986 604,978 773,971 942,965 1111,961 1279,957 1448,954 1617,952 1786,951 1954,950 2123,950 2292,949 2461,949 2629,948 2798,948 2967,947 3136,945 3304,944 3473,941 3642,937 3811,933"/>
+                <TextEquiv>
+                    <Unicode>d. Wami ging statt des sozusagen unnatürlichen Abweges in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:6;}">
+                <Coords points="408,1161 3279,1219 3751,1143 3750,987 407,1039"/>
+                <Baseline points="428,1123 601,1120 775,1117 948,1115 1122,1113 1296,1112 1469,1111 1643,1111 1817,1110 1990,1110 2164,1110 2337,1110 2511,1110 2685,1110 2858,1109 3032,1109 3206,1108 3379,1107 3553,1105 3727,1103"/>
+                <TextEquiv>
+                    <Unicode>den Ruvu? Uluguru-Gebirge nochmal ganz frei gesehen. Wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:7;}">
+                <Coords points="392,1292 605,1382 778,1282 1138,1369 1312,1273 3011,1262 3684,1378 3883,1295 3883,1165 392,1179"/>
+                <Baseline points="413,1276 585,1272 757,1269 930,1266 1102,1264 1275,1262 1447,1261 1619,1260 1792,1259 1964,1258 2137,1258 2309,1258 2481,1259 2654,1259 2826,1260 2999,1261 3171,1262 3343,1263 3516,1264 3688,1266 3861,1268"/>
+                <TextEquiv>
+                    <Unicode>müssen den ersten Eindringlingen auf d. Wege von d. Küste her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:8;}">
+                <Coords points="444,1469 829,1412 1329,1518 1766,1404 2318,1514 2603,1406 3041,1440 3039,1288 442,1339"/>
+                <Baseline points="463,1420 590,1421 718,1421 846,1420 974,1419 1102,1417 1229,1415 1357,1413 1485,1410 1613,1408 1741,1405 1868,1403 1996,1401 2124,1399 2252,1397 2380,1395 2507,1395 2635,1395 2763,1395 2891,1397 3019,1399"/>
+                <TextEquiv>
+                    <Unicode>die Herzen geschlagen haben bei solchem Anblick!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:9;}">
+                <Coords points="630,1661 782,1702 981,1617 1241,1640 1340,1590 1519,1631 1584,1691 1766,1645 1763,1437 1591,1544 1482,1506 1357,1534 1143,1437 1053,1525 954,1539 770,1438 627,1444"/>
+                <Baseline points="651,1585 705,1588 760,1589 814,1590 869,1591 924,1590 978,1589 1033,1588 1087,1587 1142,1584 1197,1583 1251,1581 1306,1579 1360,1578 1415,1577 1470,1577 1524,1577 1579,1577 1633,1578 1688,1580 1743,1584"/>
+                <TextEquiv>
+                    <Unicode>Schöne Sternennacht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:10;}">
+                <Coords points="828,1824 3828,1781 3798,1582 2837,1678 2458,1589 2192,1716 824,1620"/>
+                <Baseline points="850,1803 997,1795 1145,1788 1293,1780 1441,1774 1588,1768 1736,1762 1884,1757 2032,1753 2179,1749 2327,1746 2475,1743 2623,1742 2770,1740 2918,1740 3066,1740 3214,1740 3361,1742 3509,1744 3657,1746 3805,1749"/>
+                <TextEquiv>
+                    <Unicode>21. Apr: Da ich den Weg an d. Bahn für sehr schmutzig hielt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:11;}">
+                <Coords points="455,1967 1304,1908 1444,2002 1781,1902 2632,1995 2796,1911 2962,1995 3676,1912 3675,1817 3349,1730 2461,1846 2044,1751 453,1820"/>
+                <Baseline points="476,1931 643,1924 810,1918 977,1914 1145,1909 1312,1905 1479,1902 1647,1898 1814,1896 1981,1893 2149,1891 2316,1890 2483,1888 2651,1887 2818,1887 2985,1886 3153,1886 3320,1886 3487,1886 3655,1886"/>
+                <TextEquiv>
+                    <Unicode>u. d. Träger mit d. schweren Lasten nicht gut auf den Schotter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:12;}">
+                <Coords points="450,2106 1277,2064 1570,2186 3081,2039 3490,2137 3910,2075 3908,1911 448,1989"/>
+                <Baseline points="472,2078 640,2075 808,2071 977,2068 1145,2064 1314,2060 1482,2057 1650,2053 1819,2050 1987,2047 2156,2044 2324,2041 2492,2039 2661,2036 2829,2035 2998,2033 3166,2032 3334,2032 3503,2032 3671,2033 3890,2045"/>
+                <TextEquiv>
+                    <Unicode>ausweichen konnten, schickte ich sie auf dem Parallelwege. Frei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:13;}">
+                <Coords points="431,2276 3505,2226 3660,2194 3659,2085 429,2124"/>
+                <Baseline points="452,2223 611,2219 770,2216 929,2213 1089,2209 1248,2206 1407,2204 1566,2201 1726,2199 1885,2196 2044,2194 2203,2193 2363,2191 2522,2190 2681,2188 2840,2187 3000,2186 3159,2186 3318,2185 3477,2185 3637,2185"/>
+                <TextEquiv>
+                    <Unicode>lich gerieten sie grade dort in hohes Gras u. Morast und die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:14;}">
+                <Coords points="422,2470 1183,2351 1595,2340 1722,2447 1968,2348 2148,2454 2558,2339 3227,2434 3681,2345 3645,2215 3115,2180 2544,2288 2343,2186 419,2271"/>
+                <Baseline points="444,2376 604,2369 765,2363 926,2357 1087,2351 1248,2346 1409,2342 1569,2339 1730,2335 1891,2332 2052,2330 2213,2328 2374,2327 2535,2325 2695,2325 2856,2324 3017,2324 3178,2325 3339,2325 3500,2326 3661,2327"/>
+                <TextEquiv>
+                    <Unicode>Bahn erwies sich infolge der seitlichen Ausschachtungen als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:15;}">
+                <Coords points="458,2565 1985,2603 2495,2475 2956,2594 3211,2477 3805,2486 3803,2360 3227,2429 2835,2322 2434,2441 1951,2348 1697,2451 1179,2355 457,2465"/>
+                <Baseline points="478,2522 643,2515 808,2510 973,2505 1138,2500 1303,2497 1468,2494 1634,2491 1799,2490 1964,2488 2129,2487 2294,2485 2459,2484 2624,2482 2790,2481 2955,2479 3120,2477 3285,2473 3450,2470 3615,2466 3781,2460"/>
+                <TextEquiv>
+                    <Unicode>gänzlich trocken. Leider bot sie keine Aufschlüsse, doch war das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:16;}">
+                <Coords points="438,2718 3951,2710 3892,2528 3429,2585 3219,2479 2956,2591 436,2571"/>
+                <Baseline points="459,2669 632,2666 805,2663 979,2660 1152,2657 1326,2654 1499,2651 1672,2647 1846,2644 2019,2641 2193,2639 2366,2636 2539,2634 2713,2632 2886,2631 3060,2631 3233,2631 3406,2631 3580,2633 3753,2635 3927,2638"/>
+                <TextEquiv>
+                    <Unicode>letzte Stück hinter Kitugallo in gelblichweißem Tone frisch angeschnitten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:17;}">
+                <Coords points="486,2956 1595,2821 2069,2924 2605,2814 3122,2920 3963,2837 3861,2686 484,2757"/>
+                <Baseline points="507,2826 678,2826 850,2826 1022,2824 1194,2821 1365,2817 1537,2813 1709,2809 1881,2805 2052,2801 2224,2796 2396,2793 2568,2790 2739,2787 2911,2786 3083,2786 3255,2787 3426,2790 3598,2795 3770,2801 3942,2809"/>
+                <TextEquiv>
+                    <Unicode>für neue Bahnhofsanlagen. Obwohl an Sandlagen gleiches Einfallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:18;}">
+                <Coords points="488,3033 1186,2999 1490,3110 2053,2969 2501,3092 2764,2982 3051,3102 3306,2966 3814,2973 3813,2873 834,2862 488,2964"/>
+                <Baseline points="508,3006 672,2998 836,2992 1000,2987 1164,2984 1328,2982 1492,2981 1657,2980 1821,2981 1985,2981 2149,2982 2313,2983 2477,2984 2641,2985 2806,2985 2970,2984 3134,2983 3298,2980 3462,2977 3626,2972 3791,2965"/>
+                <TextEquiv>
+                    <Unicode>nach S O erkennbar, halte ich es nicht für unmöglich, daß die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:19;}">
+                <Coords points="454,3276 1668,3261 2104,3137 3879,3192 3876,3019 3524,2964 3084,3088 2258,2996 451,3068"/>
+                <Baseline points="475,3168 644,3163 813,3159 982,3155 1151,3152 1320,3149 1489,3146 1658,3144 1827,3142 1996,3140 2165,3138 2334,3137 2503,3135 2672,3132 2841,3130 3010,3127 3179,3124 3348,3120 3517,3116 3686,3111 3856,3106"/>
+                <TextEquiv>
+                    <Unicode>petrographisch gleiche Schicht am linken Pandambili-Ufer identisch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:20;}">
+                <Coords points="478,3437 906,3331 1202,3435 1838,3317 2022,3402 2172,3295 2775,3295 2911,3411 3286,3292 3882,3366 3879,3193 3601,3158 476,3285"/>
+                <Baseline points="500,3335 667,3332 835,3329 1003,3326 1171,3323 1339,3320 1507,3317 1674,3314 1842,3312 2010,3309 2178,3307 2346,3305 2514,3303 2682,3301 2849,3298 3017,3296 3185,3294 3353,3292 3521,3291 3689,3289 3857,3287"/>
+                <TextEquiv>
+                    <Unicode>ist, was beim Gefälle der Bahn vielleicht nicht einmal hori„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:21;}">
+                <Coords points="507,3545 1121,3466 1596,3567 1754,3455 2060,3570 2547,3433 2967,3553 3424,3451 3894,3519 3890,3350 3637,3277 504,3432"/>
+                <Baseline points="528,3498 695,3489 862,3481 1029,3474 1196,3468 1363,3462 1530,3457 1698,3452 1865,3448 2032,3444 2199,3441 2366,3438 2533,3435 2700,3433 2868,3430 3035,3427 3202,3425 3369,3422 3536,3419 3703,3415 3871,3411"/>
+                <TextEquiv>
+                    <Unicode>zontale Lage im nicht aufgeschlossenen Teil zur Voraussetzung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:22;}">
+                <Coords points="507,3725 1711,3630 1921,3727 2552,3594 3001,3708 3328,3585 3772,3651 3861,3523 504,3547"/>
+                <Baseline points="526,3640 691,3638 857,3636 1023,3633 1188,3630 1354,3627 1520,3624 1685,3620 1851,3617 2017,3614 2183,3610 2348,3607 2514,3604 2680,3601 2845,3598 3011,3595 3177,3593 3342,3591 3508,3590 3674,3589 3840,3588"/>
+                <TextEquiv>
+                    <Unicode>haben müßte. Auch der Morast in der Niederung des Myombo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:23;}">
+                <Coords points="451,3863 2484,3771 3356,3870 3672,3788 3671,3662 449,3668"/>
+                <Baseline points="471,3805 629,3801 788,3798 947,3795 1106,3792 1265,3789 1424,3786 1582,3784 1741,3782 1900,3780 2059,3778 2218,3777 2377,3775 2536,3774 2694,3773 2853,3772 3012,3771 3171,3770 3330,3769 3489,3769 3648,3768"/>
+                <TextEquiv>
+                    <Unicode>Flusses könnte auf Tonboden hinweisen. Die flache Scheide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:24;}">
+                <Coords points="485,3971 1020,4070 1218,3959 3221,3929 3391,4035 3854,3935 3853,3809 3532,3769 3164,3882 2482,3772 484,3841"/>
+                <Baseline points="508,3968 674,3962 840,3956 1006,3951 1173,3947 1339,3943 1505,3939 1671,3937 1838,3934 2004,3932 2170,3930 2336,3929 2503,3928 2669,3927 2835,3927 3001,3926 3168,3926 3334,3927 3500,3927 3666,3928 3833,3929"/>
+                <TextEquiv>
+                    <Unicode>zwischen Myombo u. Pandambili wird leider von d. Bahn ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:25;}">
+                <Coords points="479,4217 973,4097 2721,4191 2902,4090 3900,4098 3899,3972 3673,3917 3323,4045 1219,3961 665,4068 478,3978"/>
+                <Baseline points="500,4114 677,4107 855,4102 1033,4098 1211,4095 1389,4092 1567,4091 1744,4090 1922,4089 2100,4089 2278,4089 2456,4090 2634,4090 2811,4090 2989,4090 3167,4089 3345,4088 3523,4087 3701,4084 3879,4081"/>
+                <TextEquiv>
+                    <Unicode>Einschnitt überwunden. Bei km. 124,1 (höchstens 1 km von d. Stelle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:26;}">
+                <Coords points="486,4278 3595,4282 3816,4234 3815,4121 919,4199 724,4109 486,4231"/>
+                <Baseline points="506,4269 670,4257 834,4248 999,4240 1163,4236 1328,4233 1492,4231 1656,4231 1821,4231 1985,4233 2150,4235 2314,4237 2478,4239 2643,4241 2807,4242 2972,4243 3136,4243 3300,4241 3465,4237 3629,4232 3794,4225"/>
+                <TextEquiv>
+                    <Unicode>wo die vorjährigen Beobachtungen anknüpfen u. von dort durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:27;}">
+                <Coords points="458,4418 3498,4465 3810,4417 3810,4243 458,4275"/>
+                <Baseline points="479,4385 644,4386 809,4386 975,4386 1140,4385 1306,4384 1471,4383 1637,4382 1802,4381 1968,4380 2133,4379 2298,4378 2464,4378 2629,4377 2795,4377 2960,4378 3126,4379 3291,4380 3457,4382 3622,4385 3788,4388"/>
+                <TextEquiv>
+                    <Unicode>Niederung ohne Aufschluß getrennt) verließ ich d. Bahn, links</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:28;}">
+                <Coords points="473,4576 3834,4592 3833,4471 3239,4379 2745,4487 2510,4380 2385,4485 2120,4387 473,4502"/>
+                <Baseline points="495,4543 660,4544 826,4545 992,4545 1158,4545 1324,4545 1490,4544 1656,4543 1822,4541 1988,4540 2154,4538 2319,4537 2485,4535 2651,4533 2817,4532 2983,4530 3149,4529 3315,4528 3481,4528 3647,4527 3813,4527"/>
+                <TextEquiv>
+                    <Unicode>ab zum vorjährigen Lagerplatz in Pandambili Ankunft um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:29;}">
+                <Coords points="446,4757 3694,4748 3694,4652 2640,4582 446,4614"/>
+                <Baseline points="468,4714 628,4710 788,4707 948,4704 1109,4702 1269,4701 1429,4701 1590,4701 1750,4702 1910,4703 2071,4704 2231,4705 2391,4706 2551,4707 2712,4708 2872,4709 3032,4709 3193,4709 3353,4708 3513,4707 3674,4705"/>
+                <TextEquiv>
+                    <Unicode>10, Träger erst zwischen 12 u. 1. 4-5½ Regen, sodaß ich keinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:30;}">
+                <Coords points="474,4947 933,4912 1016,4963 1329,4964 1476,4949 1614,4857 1918,4888 1890,4737 1695,4782 1625,4744 1526,4801 1413,4768 1180,4814 1066,4763 1015,4811 798,4818 728,4749 472,4739"/>
+                <Baseline points="495,4858 565,4860 635,4862 705,4863 775,4864 845,4864 915,4864 985,4863 1055,4863 1125,4862 1196,4860 1266,4859 1336,4858 1406,4856 1476,4855 1546,4853 1616,4852 1686,4851 1756,4850 1826,4850 1897,4850"/>
+                <TextEquiv>
+                    <Unicode>Ausflug mehr machen konnte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>128&#xD;
+Bornhardt u. v. d. Borne gut, die Verwerfung muß aber etwa&#xD;
+an d. Bahn ihr Ende haben, wo die Sandsteine noch schiefgestellt&#xD;
+sind. Auch hier wie beim Fungafunga freilich Plateaurand, der&#xD;
+hier Erosionswerk sein müßte. Ob nicht d. Ngerengere früher in&#xD;
+d. Wami ging statt des sozusagen unnatürlichen Abweges in&#xD;
+den Ruvu? Uluguru-Gebirge nochmal ganz frei gesehen. Wie&#xD;
+müssen den ersten Eindringlingen auf d. Wege von d. Küste her&#xD;
+die Herzen geschlagen haben bei solchem Anblick!&#xD;
+Schöne Sternennacht.&#xD;
+21. Apr: Da ich den Weg an d. Bahn für sehr schmutzig hielt&#xD;
+u. d. Träger mit d. schweren Lasten nicht gut auf den Schotter&#xD;
+ausweichen konnten, schickte ich sie auf dem Parallelwege. Frei„&#xD;
+lich gerieten sie grade dort in hohes Gras u. Morast und die&#xD;
+Bahn erwies sich infolge der seitlichen Ausschachtungen als&#xD;
+gänzlich trocken. Leider bot sie keine Aufschlüsse, doch war das&#xD;
+letzte Stück hinter Kitugallo in gelblichweißem Tone frisch angeschnitten&#xD;
+für neue Bahnhofsanlagen. Obwohl an Sandlagen gleiches Einfallen&#xD;
+nach S O erkennbar, halte ich es nicht für unmöglich, daß die&#xD;
+petrographisch gleiche Schicht am linken Pandambili-Ufer identisch&#xD;
+ist, was beim Gefälle der Bahn vielleicht nicht einmal hori„&#xD;
+zontale Lage im nicht aufgeschlossenen Teil zur Voraussetzung&#xD;
+haben müßte. Auch der Morast in der Niederung des Myombo-&#xD;
+Flusses könnte auf Tonboden hinweisen. Die flache Scheide&#xD;
+zwischen Myombo u. Pandambili wird leider von d. Bahn ohne&#xD;
+Einschnitt überwunden. Bei km. 124,1 (höchstens 1 km von d. Stelle,&#xD;
+wo die vorjährigen Beobachtungen anknüpfen u. von dort durch&#xD;
+Niederung ohne Aufschluß getrennt) verließ ich d. Bahn, links&#xD;
+ab zum vorjährigen Lagerplatz in Pandambili Ankunft um&#xD;
+10, Träger erst zwischen 12 u. 1. 4-5½ Regen, sodaß ich keinen&#xD;
+Ausflug mehr machen konnte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

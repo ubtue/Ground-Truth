@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:53.241+02:00</Created>
+        <LastChange>2020-03-31T09:52:03.675+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550701" pageNr="7" tsid="26742035" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=YCYHXGOPIRLDDAWOVZJDPNAH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FSTFYRFEHCZQIOVFDZTWYMIQ" imageId="4551579"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_007.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255535666" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="398,216 398,4873 4121,4873 4121,216"/>
+            <TextLine id="line_1582876403864_153" custom="readingOrder {index:0;}">
+                <Coords points="3837,337 3897,332 3906,341 3924,341 3933,332 3961,332 3961,198 3901,198 3878,212 3837,208"/>
+                <Baseline points="3858,290 3898,290 3938,290"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876416717_161" custom="readingOrder {index:1;}">
+                <Coords points="400,412 4099,445 4098,316 3820,263 399,306"/>
+                <Baseline points="422,398 447,399 472,400 498,401 523,402 549,402 574,403 599,403 625,404 650,404 676,404 701,405 726,405 752,405 777,405 803,406 828,406 853,407 879,407 904,408 930,409 950,421 1106,418 1262,415 1418,412 1574,411 1730,409 1886,407 2043,406 2199,405 2355,403 2511,402 2667,401 2823,399 2979,398 3136,396 3292,393 3448,391 3604,387 3760,384 3916,380 4073,375"/>
+                <TextEquiv>
+                    <Unicode>31.III. Mombassa auf Insel aus Korallenkalk mit sehr ebener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="381,620 2169,558 2955,659 3197,525 3751,570 3791,468 755,428 379,528"/>
+                <Baseline points="403,601 571,595 739,588 907,582 1075,575 1244,569 1412,563 1580,557 1748,553 1916,547 2085,543 2253,539 2421,536 2589,534 2757,533 2926,533 3094,533 3262,535 3430,538 3598,542 3767,548"/>
+                <TextEquiv>
+                    <Unicode>Oberfläche. Am Strande karstartige Ausfressungen. Am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876424034_167" custom="readingOrder {index:3;}">
+                <Coords points="385,778 1470,836 2243,704 2613,819 3336,706 4084,810 4048,557 384,672"/>
+                <Baseline points="410,752 588,751 766,748 944,745 1122,742 1300,737 1478,732 1656,728 1834,723 2012,718 2190,713 2368,709 2546,705 2724,702 2902,700 3080,698 3258,698 3436,699 3614,702 3792,706 3971,712 4041,748 4060,752"/>
+                <TextEquiv>
+                    <Unicode>Kilindani-Ufer grober Sandstein (alte Flußablagerung?),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:4;}">
+                <Coords points="389,1023 936,899 1966,985 2678,850 3970,872 3784,746 2567,815 2243,704 387,870"/>
+                <Baseline points="412,915 588,907 765,899 942,892 1119,886 1296,880 1473,875 1649,870 1826,866 2003,862 2180,859 2357,857 2534,855 2711,854 2887,853 3064,853 3241,854 3418,855 3595,857 3772,859 3949,862"/>
+                <TextEquiv>
+                    <Unicode>zu Cement-Sandstein f. d. Quai abgebaut. Wetter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876430154_172" custom="readingOrder {index:5;}">
+                <Coords points="408,1186 791,1063 1135,1144 1262,1057 1452,1106 1883,1023 2688,1094 2733,894 1960,979 1745,889 1435,1001 934,902 402,1020"/>
+                <Baseline points="428,1077 482,1074 537,1072 591,1069 646,1065 701,1062 755,1060 810,1056 864,1053 919,1050 974,1047 1028,1046 1083,1043 1137,1041 1192,1040 1247,1039 1301,1038 1356,1038 1410,1039 1465,1040 1520,1042 1650,1018 1703,1019 1756,1020 1809,1020 1863,1020 1916,1019 1969,1019 2022,1018 2076,1017 2129,1016 2182,1014 2235,1012 2289,1011 2342,1009 2395,1007 2448,1005 2502,1003 2555,1002 2608,1000 2661,998 2715,997"/>
+                <TextEquiv>
+                    <Unicode>gut, kein Regen, Wärme erträglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876435413_177" custom="readingOrder {index:6;} textStyle {offset:0; length:7;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="436,1306 3950,1268 3947,1107 3562,1004 3155,1183 1363,1052 1085,1196 843,1095 434,1181"/>
+                <Baseline points="457,1282 485,1282 514,1281 542,1281 571,1279 600,1277 628,1275 657,1273 685,1271 714,1270 743,1268 771,1266 800,1266 828,1265 857,1266 886,1267 914,1269 943,1273 971,1278 1000,1283 1029,1290 1046,1273 1197,1275 1349,1275 1500,1274 1652,1272 1803,1269 1955,1264 2106,1260 2258,1254 2409,1249 2561,1243 2712,1237 2864,1233 3015,1228 3167,1225 3318,1223 3470,1222 3621,1223 3773,1226 3925,1231"/>
+                <TextEquiv>
+                    <Unicode>1.IV.09: Tanga. Korallenkalke. Die Insel im Kriek aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:7;}">
+                <Coords points="431,1572 1993,1528 2309,1401 3810,1502 4145,1434 4142,1309 2296,1272 1257,1399 424,1304"/>
+                <Baseline points="453,1479 636,1470 819,1462 1003,1454 1186,1446 1370,1439 1553,1432 1736,1426 1920,1420 2103,1415 2287,1410 2470,1405 2653,1402 2837,1398 3020,1395 3204,1393 3387,1391 3570,1390 3754,1390 3937,1390 4121,1390"/>
+                <TextEquiv>
+                    <Unicode>horizontal geschichtetem gelblichem bis rötlichem (?)Sandstein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:8;}">
+                <Coords points="391,1719 3931,1602 3926,1431 3293,1412 386,1543"/>
+                <Baseline points="412,1655 586,1650 761,1644 936,1638 1111,1631 1286,1624 1461,1617 1635,1610 1810,1603 1985,1596 2160,1589 2335,1583 2510,1577 2685,1572 2859,1569 3034,1566 3209,1564 3384,1563 3559,1564 3734,1566 3909,1569"/>
+                <TextEquiv>
+                    <Unicode>Usambara-Geb. anscheinend schroff aus dem Vorland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:9;}">
+                <Coords points="478,1834 571,1837 671,1798 732,1829 874,1807 940,1852 1083,1849 1234,1809 1231,1666 1113,1742 1002,1754 886,1692 835,1707 779,1662 661,1757 476,1747"/>
+                <Baseline points="499,1805 534,1805 570,1804 605,1804 641,1803 676,1802 712,1801 747,1801 783,1799 818,1799 854,1797 889,1796 925,1796 960,1794 996,1794 1031,1794 1067,1793 1102,1792 1138,1792 1173,1792 1209,1792"/>
+                <TextEquiv>
+                    <Unicode>ansteigend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:10;}">
+                <Coords points="384,2060 2542,2063 2805,1952 3930,2055 4035,1796 383,1862"/>
+                <Baseline points="407,1998 587,1987 767,1979 947,1970 1128,1963 1308,1957 1488,1952 1668,1948 1849,1945 2029,1943 2209,1942 2389,1942 2570,1943 2750,1945 2930,1948 3110,1952 3291,1957 3471,1963 3651,1970 3831,1978 4012,1988"/>
+                <TextEquiv>
+                    <Unicode>2.IV.09: Zanzibar: Sehr flache Insel, kaum Erhebungen. Festlandsküste sicht„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:11;}">
+                <Coords points="418,2209 2811,2243 3056,2147 3641,2267 3895,2207 3895,2064 2853,1980 2502,2096 418,2071"/>
+                <Baseline points="440,2164 611,2159 783,2154 954,2151 1126,2148 1297,2145 1469,2144 1640,2143 1812,2142 1983,2142 2155,2143 2326,2144 2498,2145 2669,2146 2841,2148 3012,2150 3184,2152 3355,2154 3527,2156 3698,2158 3870,2160"/>
+                <TextEquiv>
+                    <Unicode>bar. Dar-es-Salaam: Sehr schmale, flache, sandige Einfahrt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:12;}">
+                <Coords points="411,2365 817,2433 1158,2331 1555,2427 1956,2324 2237,2421 2938,2318 3058,2423 3261,2340 3260,2155 2085,2273 1015,2165 411,2282"/>
+                <Baseline points="436,2330 576,2325 716,2320 856,2318 996,2316 1136,2315 1276,2314 1416,2314 1556,2315 1696,2316 1836,2317 1976,2318 2116,2319 2256,2320 2396,2320 2536,2320 2676,2319 2816,2317 2956,2314 3096,2311 3237,2305"/>
+                <TextEquiv>
+                    <Unicode>unverhältnismäßig große, gut geschützte Bucht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876441827_182" custom="readingOrder {index:13;}">
+                <Coords points="383,2561 1554,2600 1771,2495 2403,2609 2740,2514 3555,2652 3943,2566 3944,2451 384,2409"/>
+                <Baseline points="407,2511 579,2507 751,2503 923,2501 1096,2500 1268,2499 1440,2499 1612,2500 1785,2501 1957,2502 2129,2503 2301,2505 2474,2507 2646,2509 2818,2510 2990,2512 3163,2513 3335,2514 3507,2514 3679,2513 3852,2512 3832,2531 3861,2539 3890,2544 3920,2547"/>
+                <TextEquiv>
+                    <Unicode>3.IV. morg. Regenbogen an ganz heiterem, nicht dunstigem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:14;}">
+                <Coords points="451,2749 649,2762 727,2683 967,2718 1077,2643 1202,2711 1483,2640 1927,2733 1982,2723 1981,2580 1768,2499 1566,2597 1021,2556 736,2632 629,2540 450,2606"/>
+                <Baseline points="473,2662 547,2664 621,2666 695,2667 770,2667 844,2667 918,2667 992,2667 1067,2666 1141,2665 1215,2663 1289,2662 1364,2660 1438,2659 1512,2658 1586,2658 1661,2657 1735,2657 1809,2657 1883,2657 1958,2659"/>
+                <TextEquiv>
+                    <Unicode>Himmel ca. 20-30 Min.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:15;}">
+                <Coords points="471,2895 810,2786 3886,2772 3956,2567 468,2729"/>
+                <Baseline points="493,2799 665,2793 837,2789 1009,2784 1181,2780 1354,2776 1526,2772 1698,2769 1870,2765 2042,2761 2215,2758 2387,2754 2559,2751 2731,2747 2903,2743 3076,2739 3248,2735 3420,2731 3592,2726 3764,2721 3937,2716"/>
+                <TextEquiv>
+                    <Unicode>Einweihung d. Wissmann-Denkmals bei schönem Wetter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:16;}">
+                <Coords points="414,2974 656,3046 1336,2917 1700,2908 1914,3004 2120,2929 2559,2973 2555,2802 2384,2779 411,2835"/>
+                <Baseline points="438,2949 542,2936 647,2926 752,2918 857,2911 962,2905 1066,2900 1171,2897 1276,2894 1381,2893 1486,2891 1590,2890 1695,2890 1800,2889 1905,2888 2010,2887 2114,2886 2219,2884 2324,2881 2429,2877 2534,2872"/>
+                <TextEquiv>
+                    <Unicode>Besuch beim Gouverneur v. Rechenberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:17;}">
+                <Coords points="423,3164 4024,3110 3897,2879 418,3026"/>
+                <Baseline points="443,3123 620,3116 798,3109 976,3102 1154,3095 1332,3088 1509,3080 1687,3072 1865,3064 2043,3058 2221,3050 2398,3044 2576,3038 2754,3032 2932,3027 3110,3022 3287,3018 3465,3014 3643,3012 3821,3010 3999,3009"/>
+                <TextEquiv>
+                    <Unicode>4.IV. Vorm. Abfahrt nach Zanzibar, an gegen 5 Uhr. Spaziergang durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:18;}">
+                <Coords points="379,3302 861,3252 1005,3360 1405,3226 2022,3295 2365,3233 2359,3108 2145,3063 2061,3136 1943,3077 1679,3168 966,3117 772,3219 373,3177"/>
+                <Baseline points="403,3278 499,3273 596,3268 693,3262 790,3258 887,3252 984,3247 1081,3242 1178,3236 1275,3231 1372,3226 1468,3222 1565,3217 1662,3213 1759,3209 1856,3205 1953,3202 2050,3199 2147,3197 2244,3194 2341,3193"/>
+                <TextEquiv>
+                    <Unicode>die meist schon dunklen Straßen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:19;}">
+                <Coords points="419,3438 3591,3368 3784,3330 3780,3183 415,3305"/>
+                <Baseline points="442,3414 616,3408 791,3401 966,3395 1140,3390 1315,3385 1490,3380 1664,3375 1839,3370 2014,3365 2188,3360 2363,3356 2538,3351 2712,3346 2887,3341 3062,3336 3236,3330 3411,3324 3586,3318 3761,3311"/>
+                <TextEquiv>
+                    <Unicode>5.IV. Fahrt nach Bagamoyo. Keine Bucht, flacher Strand,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:20;}">
+                <Coords points="401,3664 1024,3518 4077,3474 4071,3313 3794,3295 394,3442"/>
+                <Baseline points="423,3561 604,3552 786,3542 967,3532 1149,3523 1330,3515 1512,3506 1693,3499 1875,3491 2056,3484 2238,3478 2419,3472 2601,3466 2782,3461 2964,3457 3145,3452 3327,3449 3508,3446 3690,3443 3871,3441 4053,3440"/>
+                <TextEquiv>
+                    <Unicode>seichtes Wasser. Dennoch einst wichtigster Karawanen-Endpunkt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:21;}">
+                <Coords points="470,3680 1220,3758 2027,3607 3119,3696 3295,3584 3688,3613 3685,3516 467,3593"/>
+                <Baseline points="493,3686 651,3675 810,3665 968,3655 1127,3646 1285,3638 1444,3632 1602,3626 1761,3620 1919,3615 2078,3610 2236,3606 2395,3602 2553,3598 2712,3595 2870,3591 3029,3588 3187,3585 3346,3582 3504,3578 3663,3575"/>
+                <TextEquiv>
+                    <Unicode>f. Handel nach Zanzibar. Wird künstlich zugunsten von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:22;}">
+                <Coords points="378,3873 2289,3745 3592,3833 3848,3733 3489,3600 3122,3694 1976,3606 1638,3736 976,3658 375,3758"/>
+                <Baseline points="398,3832 569,3823 740,3813 911,3805 1083,3797 1254,3790 1425,3784 1597,3778 1768,3772 1939,3767 2111,3763 2282,3759 2453,3755 2624,3751 2796,3748 2967,3744 3138,3741 3310,3738 3481,3734 3652,3732 3824,3728"/>
+                <TextEquiv>
+                    <Unicode>Dar es Salaam vernachlässigt. Einbaum mit Auslegern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:23;}">
+                <Coords points="391,4009 619,4046 725,3944 1071,3935 1227,4026 1514,3931 1624,4015 1988,3894 2163,3998 2292,3886 2513,3984 2505,3781 2361,3759 386,3880"/>
+                <Baseline points="411,3958 514,3955 618,3952 722,3949 825,3946 929,3943 1033,3939 1136,3935 1240,3931 1344,3927 1448,3922 1551,3918 1655,3914 1759,3909 1862,3905 1966,3900 2070,3895 2173,3891 2277,3886 2381,3881 2485,3878"/>
+                <TextEquiv>
+                    <Unicode>längsseits. Schwierige Ausfahrt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:24;}">
+                <Coords points="435,4172 3868,4046 3862,3898 428,4007"/>
+                <Baseline points="457,4132 626,4126 795,4119 965,4111 1134,4102 1304,4092 1473,4082 1642,4072 1812,4061 1981,4052 2151,4042 2320,4033 2489,4025 2659,4018 2828,4012 2998,4008 3167,4005 3336,4005 3506,4006 3675,4011 3845,4017"/>
+                <TextEquiv>
+                    <Unicode>6.IV. Vorm. Kilwa-Kirindje, wie Bagamoyo, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876456279_187" custom="readingOrder {index:25;}">
+                <Coords points="406,4312 769,4379 1910,4190 3182,4259 3921,4167 3994,4025 403,4238"/>
+                <Baseline points="427,4286 513,4283 599,4279 685,4275 772,4272 858,4267 944,4262 1031,4259 1117,4254 1203,4249 1290,4243 1376,4239 1462,4233 1548,4227 1635,4222 1721,4216 1807,4210 1894,4205 1980,4198 2066,4192 2153,4186 2243,4196 2315,4195 2387,4194 2459,4192 2531,4190 2603,4187 2675,4185 2747,4182 2819,4178 2891,4175 2963,4172 3035,4169 3107,4165 3179,4163 3251,4160 3323,4158 3395,4155 3467,4153 3539,4152 3611,4150 3684,4150 3710,4136 3736,4133 3763,4130 3790,4128 3816,4127 3843,4127 3870,4126 3896,4126 3923,4124 3950,4122 3977,4119"/>
+                <TextEquiv>
+                    <Unicode>Ankerplatz etwas näher am Lande, gleich hinter dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876465974_192" custom="readingOrder {index:26;}">
+                <Coords points="394,4449 633,4432 734,4505 987,4394 1229,4428 1429,4366 1549,4452 1670,4381 2036,4403 2086,4396 2079,4258 1760,4261 1639,4323 1427,4255 984,4344 870,4285 778,4369 389,4362"/>
+                <Baseline points="418,4438 588,4426 759,4414 929,4405 1100,4394 1270,4385 1441,4377 1611,4369 1782,4361 1952,4354 2061,4349"/>
+                <TextEquiv>
+                    <Unicode>Ort ansteigendes Hügelland,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:27;}">
+                <Coords points="1666,4313 1938,4304 1978,4261 2208,4254 2251,4294 2435,4270 2468,4301 2606,4265 2603,4186 2571,4183 2299,4210 2183,4172 2105,4207 1663,4216"/>
+                <Baseline points="1688,4265 1732,4265 1777,4263 1821,4262 1866,4262 1911,4260 1955,4259 2000,4258 2045,4256 2089,4255 2134,4254 2179,4253 2223,4251 2268,4250 2313,4248 2357,4247 2402,4245 2447,4243 2491,4241 2536,4239 2581,4237"/>
+                <TextEquiv>
+                    <Unicode>rechts oben rötliche Farbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876465959_191" custom="readingOrder {index:28;}">
+                <Coords points="2040,4397 2393,4316 2482,4374 2711,4316 3178,4356 3855,4298 3850,4169 3795,4161 3037,4278 2888,4218 2830,4275 2542,4224 2036,4263"/>
+                <Baseline points="2061,4349 2123,4347 2294,4341 2464,4335 2635,4329 2805,4323 2976,4317 3146,4312 3317,4308 3487,4303 3658,4298 3829,4293"/>
+                <TextEquiv>
+                    <Unicode>Von hier ab etwas höhere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876486074_200" custom="readingOrder {index:29;} textStyle {offset:27; length:1;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="387,4607 2725,4558 3041,4422 4042,4498 3861,4285 379,4446"/>
+                <Baseline points="409,4568 589,4564 769,4557 949,4549 1130,4541 1310,4530 1490,4520 1671,4509 1851,4498 2031,4487 2212,4475 2392,4464 2572,4454 2752,4444 2933,4435 3113,4428 3293,4421 3474,4415 3654,4412 3834,4410 4015,4411 3992,4465 4020,4470"/>
+                <TextEquiv>
+                    <Unicode>Küste bis Lindi. An gegen 6h abds. bei prächtigem Abendhim„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l37" custom="readingOrder {index:30;}">
+                <Coords points="399,4745 3883,4617 3790,4404 394,4630"/>
+                <Baseline points="419,4702 591,4694 763,4686 935,4676 1107,4666 1279,4656 1451,4646 1623,4635 1795,4625 1967,4615 2139,4605 2311,4596 2483,4588 2655,4581 2827,4574 2999,4568 3171,4564 3343,4561 3515,4560 3687,4560 3859,4562"/>
+                <TextEquiv>
+                    <Unicode>mel. „Feldmarschall“ ging auf Veranlassung des Ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l38" custom="readingOrder {index:31;}">
+                <Coords points="392,4861 3692,4748 3565,4587 3185,4559 2951,4680 387,4751"/>
+                <Baseline points="413,4842 575,4834 738,4825 901,4818 1064,4810 1227,4801 1389,4793 1552,4785 1715,4776 1878,4768 2041,4760 2203,4753 2366,4745 2529,4739 2692,4732 2855,4725 3017,4719 3180,4713 3343,4707 3506,4702 3669,4698"/>
+                <TextEquiv>
+                    <Unicode>treters der D. O. A. G. Herrn Voertmann als erster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5&#xD;
+31.III. Mombassa auf Insel aus Korallenkalk mit sehr ebener&#xD;
+Oberfläche. Am Strande karstartige Ausfressungen. Am&#xD;
+Kilindani-Ufer grober Sandstein (alte Flußablagerung?),&#xD;
+zu Cement-Sandstein f. d. Quai abgebaut. Wetter&#xD;
+gut, kein Regen, Wärme erträglich&#xD;
+1.IV.09: Tanga. Korallenkalke. Die Insel im Kriek aus&#xD;
+horizontal geschichtetem gelblichem bis rötlichem (?)Sandstein&#xD;
+Usambara-Geb. anscheinend schroff aus dem Vorland&#xD;
+ansteigend.&#xD;
+2.IV.09: Zanzibar: Sehr flache Insel, kaum Erhebungen. Festlandsküste sicht„&#xD;
+bar. Dar-es-Salaam: Sehr schmale, flache, sandige Einfahrt,&#xD;
+unverhältnismäßig große, gut geschützte Bucht.&#xD;
+3.IV. morg. Regenbogen an ganz heiterem, nicht dunstigem&#xD;
+Himmel ca. 20-30 Min.&#xD;
+Einweihung d. Wissmann-Denkmals bei schönem Wetter.&#xD;
+Besuch beim Gouverneur v. Rechenberg.&#xD;
+4.IV. Vorm. Abfahrt nach Zanzibar, an gegen 5 Uhr. Spaziergang durch&#xD;
+die meist schon dunklen Straßen.&#xD;
+5.IV. Fahrt nach Bagamoyo. Keine Bucht, flacher Strand,&#xD;
+seichtes Wasser. Dennoch einst wichtigster Karawanen-Endpunkt&#xD;
+f. Handel nach Zanzibar. Wird künstlich zugunsten von&#xD;
+Dar es Salaam vernachlässigt. Einbaum mit Auslegern&#xD;
+längsseits. Schwierige Ausfahrt.&#xD;
+6.IV. Vorm. Kilwa-Kirindje, wie Bagamoyo, aber&#xD;
+Ankerplatz etwas näher am Lande, gleich hinter dem&#xD;
+Ort ansteigendes Hügelland,&#xD;
+rechts oben rötliche Farbe&#xD;
+Von hier ab etwas höhere&#xD;
+Küste bis Lindi. An gegen 6h abds. bei prächtigem Abendhim„&#xD;
+mel. „Feldmarschall“ ging auf Veranlassung des Ver„&#xD;
+treters der D. O. A. G. Herrn Voertmann als erster</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

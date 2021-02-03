@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:59.260+02:00</Created>
+        <LastChange>2020-03-26T12:50:59.294+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550828" pageNr="126" tsid="26464619" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=YBWMOBUKTRHKZCQWQRPIRMQN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IAHYOLHQDRHLAHUEFHZOZYCL" imageId="4551706"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_126.jpg" imageWidth="4324" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255568530" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="372,280 372,4897 4017,4897 4017,280"/>
+            <TextLine id="line_1582895627846_3645" custom="readingOrder {index:0;}">
+                <Coords points="348,393 410,380 435,390 471,376 500,391 522,379 583,379 633,400 643,271 612,273 571,249 529,285 426,212 390,240 359,242"/>
+                <Baseline points="372,355 413,357 454,359 495,362 536,365 577,369 613,372"/>
+                <TextEquiv>
+                    <Unicode>122</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895635575_3652" custom="readingOrder {index:1;}">
+                <Coords points="593,344 949,446 2501,358 2952,485 3587,469 3818,353 3634,192 2881,322 592,296"/>
+                <Baseline points="613,372 618,373 660,378 701,382 742,387 783,390 824,394 865,398 906,401 948,403 989,404 1030,404 1071,403 1112,401 1153,398 1195,394 1213,379 1342,380 1471,380 1600,380 1729,380 1858,379 1987,378 2116,377 2245,375 2374,373 2504,371 2633,369 2762,366 2891,363 3020,360 3149,356 3278,352 3407,348 3536,344 3665,339 3795,335"/>
+                <TextEquiv>
+                    <Unicode>25.I. Koffer gepackt, richtiger gesagt: packen lassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1113,492 1760,473 1998,521 2317,472 2409,540 2498,465 2684,488 2682,363 2226,422 2026,360 1906,418 1112,405"/>
+                <Baseline points="1135,474 1211,475 1287,476 1364,477 1440,477 1517,477 1593,477 1669,477 1746,476 1822,475 1899,474 1975,473 2051,471 2128,470 2204,467 2281,465 2357,462 2433,460 2510,457 2586,453 2663,449"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Ankunft des Dampfers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="722,620 2272,667 2500,574 3286,684 3890,601 3889,485 3219,417 3004,518 2766,438 1852,528 720,421"/>
+                <Baseline points="745,578 901,583 1057,586 1213,588 1369,589 1525,590 1681,589 1837,589 1993,587 2149,585 2306,583 2462,580 2618,578 2774,575 2930,572 3086,570 3242,568 3398,567 3554,566 3710,565 3867,565"/>
+                <TextEquiv>
+                    <Unicode>26.I: Vorm: Lasten u. Koffer an Bord gebracht, da wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="560,876 900,726 1380,847 1888,709 2118,850 2423,717 2739,840 4016,717 3933,601 3294,576 3109,677 558,630"/>
+                <Baseline points="579,759 749,747 920,737 1091,729 1261,722 1432,717 1603,713 1773,710 1944,708 2115,707 2286,707 2456,707 2627,708 2798,709 2968,710 3139,711 3310,712 3480,712 3651,712 3822,712 3993,711"/>
+                <TextEquiv>
+                    <Unicode>schon heut einsteigen müssen u. auch gern einsteigen, um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="604,1069 772,921 2178,868 3005,946 3330,841 3822,968 3893,745 598,884"/>
+                <Baseline points="621,939 783,934 946,929 1108,924 1271,918 1434,911 1596,905 1759,899 1922,892 2084,885 2247,878 2410,873 2572,867 2735,862 2898,857 3060,854 3223,851 3386,849 3548,848 3711,849 3874,850"/>
+                <TextEquiv>
+                    <Unicode>so Mikindani kennen zu lernen. Gleich nach Tisch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="608,1120 1097,1176 1789,1055 1972,1141 2422,1012 3308,1024 3510,1140 3889,966 3282,843 3103,960 2674,868 2219,975 759,960 606,1064"/>
+                <Baseline points="630,1100 791,1093 953,1084 1115,1076 1277,1068 1439,1061 1601,1054 1763,1048 1925,1042 2087,1036 2249,1032 2410,1027 2572,1023 2734,1020 2896,1018 3058,1017 3220,1016 3382,1016 3544,1017 3706,1020 3868,1023"/>
+                <TextEquiv>
+                    <Unicode>an Bord, um 2 Uhr Abfahrt. An Mikindani vor 6 Uhr in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="585,1283 1926,1232 2253,1326 2521,1197 3008,1291 3233,1181 3521,1277 4024,1211 4021,1081 580,1119"/>
+                <Baseline points="604,1248 773,1246 943,1244 1113,1240 1283,1236 1453,1232 1623,1227 1792,1221 1962,1215 2132,1210 2302,1203 2472,1197 2642,1191 2812,1186 2981,1181 3151,1177 3321,1173 3491,1169 3661,1167 3831,1166 4001,1165"/>
+                <TextEquiv>
+                    <Unicode>kürzester Zeit. Wiederum schöne Bucht hinter gehobenem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="568,1462 1028,1412 1243,1515 1485,1383 2029,1365 2524,1483 3967,1347 3800,1217 3003,1285 2828,1190 2490,1311 1372,1339 1162,1240 565,1337"/>
+                <Baseline points="587,1416 754,1410 922,1403 1090,1397 1258,1391 1426,1386 1594,1381 1762,1376 1930,1372 2098,1367 2266,1363 2433,1359 2601,1355 2769,1352 2937,1348 3105,1345 3273,1342 3441,1339 3609,1336 3777,1333 3945,1329"/>
+                <TextEquiv>
+                    <Unicode>Korallenriff, an einer der die Einfahrt flankierenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="550,1639 1043,1677 1213,1556 1531,1673 1743,1533 2324,1634 2455,1518 2738,1605 3085,1492 3295,1586 3724,1513 3721,1384 546,1483"/>
+                <Baseline points="568,1582 724,1572 881,1563 1037,1555 1194,1547 1351,1541 1507,1536 1664,1531 1821,1526 1977,1522 2134,1519 2291,1516 2447,1513 2604,1509 2761,1506 2917,1504 3074,1501 3231,1497 3387,1494 3544,1490 3701,1485"/>
+                <TextEquiv>
+                    <Unicode>Landspitzen ein sehr malerisch gelegenes Dorf mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="564,1875 1547,1707 2099,1682 2458,1798 2961,1640 3791,1638 3427,1510 2735,1605 2261,1507 2080,1631 1731,1549 558,1702"/>
+                <Baseline points="583,1755 742,1744 901,1735 1060,1725 1219,1717 1379,1709 1538,1702 1697,1695 1856,1689 2015,1683 2175,1677 2334,1672 2493,1667 2652,1661 2811,1656 2971,1651 3130,1647 3289,1641 3448,1636 3607,1631 3767,1625"/>
+                <TextEquiv>
+                    <Unicode>prächtigem Affenbrotbaum. Der Hafenort macht von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="581,1929 2232,1832 2663,1948 3834,1823 3634,1657 3292,1646 579,1864"/>
+                <Baseline points="602,1905 762,1894 922,1883 1083,1874 1243,1865 1404,1857 1564,1851 1725,1844 1885,1838 2046,1834 2206,1829 2366,1825 2527,1821 2687,1817 2848,1814 3008,1810 3169,1806 3329,1803 3490,1799 3650,1795 3811,1791"/>
+                <TextEquiv>
+                    <Unicode>weitem den Eindruck einer größeren Stadt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="554,2104 3892,1961 3653,1793 3117,1913 2185,1831 2039,1945 548,1932"/>
+                <Baseline points="576,2058 740,2049 905,2041 1069,2033 1234,2026 1399,2018 1563,2010 1728,2003 1893,1996 2057,1989 2222,1982 2387,1976 2551,1970 2716,1964 2881,1959 3045,1955 3210,1950 3375,1946 3539,1942 3704,1939 3869,1936"/>
+                <TextEquiv>
+                    <Unicode>vielen eng beisammen liegenden weißen Stein„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="593,2320 784,2346 929,2202 2125,2280 2709,2099 4042,2140 4034,1968 3636,1942 584,2113"/>
+                <Baseline points="609,2220 779,2213 949,2204 1120,2196 1290,2186 1461,2177 1631,2167 1801,2158 1972,2148 2142,2139 2313,2131 2483,2122 2653,2114 2824,2107 2994,2100 3165,2096 3335,2091 3505,2089 3676,2087 3846,2087 4017,2089"/>
+                <TextEquiv>
+                    <Unicode>häuser wegen, die jedoch meist von Indern bewohnt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="563,2537 848,2419 1106,2514 1590,2389 1818,2494 2323,2351 3072,2403 3513,2301 3660,2422 3908,2348 3904,2227 3601,2104 2925,2283 2283,2210 1281,2327 1100,2216 555,2322"/>
+                <Baseline points="581,2422 746,2412 911,2404 1076,2396 1241,2388 1406,2381 1571,2374 1736,2368 1901,2362 2066,2356 2232,2351 2397,2346 2562,2341 2727,2337 2892,2332 3057,2327 3222,2322 3387,2317 3552,2312 3717,2306 3883,2301"/>
+                <TextEquiv>
+                    <Unicode>sind. Negerviertel scharf abgetrennt. Nur 2 Weiße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="518,2682 1581,2549 2396,2652 3203,2505 3720,2610 3831,2580 3825,2386 511,2462"/>
+                <Baseline points="535,2592 698,2585 862,2579 1025,2573 1189,2567 1352,2561 1516,2555 1679,2550 1843,2544 2006,2539 2170,2534 2333,2530 2497,2524 2660,2520 2824,2514 2987,2510 3151,2505 3314,2500 3478,2494 3641,2489 3805,2484"/>
+                <TextEquiv>
+                    <Unicode>ansässig. Die Boma mit hohem Turm burgartig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="563,2816 3899,2734 3896,2630 3536,2567 2951,2650 2559,2545 2398,2653 1602,2599 561,2730"/>
+                <Baseline points="584,2788 748,2779 913,2769 1077,2761 1242,2753 1406,2745 1571,2739 1735,2731 1900,2726 2064,2720 2229,2715 2393,2710 2558,2706 2722,2703 2887,2699 3051,2696 3216,2694 3380,2692 3545,2691 3709,2690 3874,2690"/>
+                <TextEquiv>
+                    <Unicode>auf einer Anhöhe gelegen. Überhaupt in großem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="528,2965 1040,3050 1175,2942 1384,3023 2094,2921 2269,3015 2701,2865 3894,2883 3891,2788 1742,2840 1558,2737 525,2874"/>
+                <Baseline points="547,2949 713,2942 879,2935 1045,2929 1211,2923 1378,2917 1544,2912 1710,2906 1876,2901 2042,2896 2209,2891 2375,2887 2541,2882 2707,2878 2873,2874 3040,2871 3206,2867 3372,2864 3538,2861 3704,2858 3871,2855"/>
+                <TextEquiv>
+                    <Unicode>Stile angelegt (Bezirksamt später nach Lindi ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="529,3182 2761,3177 3280,3043 3728,3158 4024,3090 4021,2965 2931,2892 2239,3021 1240,2945 1018,3050 877,2945 526,3066"/>
+                <Baseline points="549,3131 721,3121 894,3112 1066,3103 1239,3096 1412,3089 1584,3082 1757,3076 1929,3070 2102,3065 2275,3061 2447,3057 2620,3054 2792,3051 2965,3049 3138,3048 3310,3047 3483,3046 3655,3046 3828,3047 4001,3048"/>
+                <TextEquiv>
+                    <Unicode>legt). Kornspeicher, Ställe u. dgl. in schönen Bauten, auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="534,3351 1530,3268 1809,3400 2505,3254 2814,3377 3152,3226 3483,3353 4001,3332 3997,3173 3538,3097 3397,3195 531,3200"/>
+                <Baseline points="553,3313 724,3305 895,3298 1066,3291 1237,3284 1408,3277 1579,3272 1750,3266 1921,3261 2092,3256 2264,3252 2435,3248 2606,3245 2777,3242 2948,3240 3119,3238 3290,3237 3461,3236 3632,3235 3803,3235 3975,3236"/>
+                <TextEquiv>
+                    <Unicode>das Zollamt ein geschmackvolles Haus im Gegensatz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="623,3515 1332,3570 1946,3419 2571,3558 2784,3428 3196,3528 3500,3397 3822,3507 4030,3356 619,3329"/>
+                <Baseline points="575,3485 642,3481 810,3473 978,3466 1147,3459 1315,3451 1484,3445 1652,3440 1821,3434 1989,3429 2158,3425 2326,3422 2494,3418 2663,3416 2831,3414 3000,3412 3168,3411 3337,3411 3505,3411 3674,3412 3842,3413 4011,3415"/>
+                <TextEquiv>
+                    <Unicode>zu Lindi. Gleich an Land gefahren, durch d. Ort zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="560,3722 4000,3640 3998,3511 3556,3431 3265,3555 2991,3468 2199,3574 1964,3457 1629,3578 559,3605"/>
+                <Baseline points="581,3656 750,3650 920,3644 1090,3638 1260,3633 1430,3628 1599,3623 1769,3619 1939,3615 2109,3612 2279,3609 2448,3606 2618,3604 2788,3603 2958,3603 3128,3603 3297,3603 3467,3605 3637,3607 3807,3610 3977,3614"/>
+                <TextEquiv>
+                    <Unicode>Boma gegangen. Leider wurde es dunkel, so daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="566,3851 919,3813 1090,3922 1234,3802 1504,3904 2248,3762 2497,3903 2999,3753 3971,3788 3968,3667 3716,3599 3464,3700 2969,3603 564,3761"/>
+                <Baseline points="588,3838 756,3824 924,3813 1092,3802 1260,3793 1428,3786 1596,3779 1764,3774 1932,3769 2100,3766 2268,3763 2436,3760 2604,3758 2772,3757 2940,3756 3108,3755 3276,3754 3444,3752 3612,3751 3780,3749 3949,3747"/>
+                <TextEquiv>
+                    <Unicode>wir nicht mehr auf den Berg hinter der Boma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="552,4106 1291,3968 2088,4075 2520,3919 3961,4041 4013,3871 3043,3751 2550,3888 547,3882"/>
+                <Baseline points="573,4008 744,4001 915,3993 1086,3985 1257,3977 1428,3969 1599,3962 1770,3955 1941,3949 2112,3943 2283,3938 2454,3933 2625,3930 2796,3927 2967,3926 3138,3925 3309,3926 3480,3928 3651,3931 3822,3935 3993,3942"/>
+                <TextEquiv>
+                    <Unicode>steigen konnten, der schöne Aussicht verspricht, auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="549,4202 1673,4243 1799,4131 2299,4098 2649,4221 2843,4098 3635,4154 3823,4092 3820,3980 948,3994 547,4120"/>
+                <Baseline points="572,4181 733,4170 894,4160 1056,4150 1217,4141 1379,4133 1540,4126 1702,4119 1863,4113 2025,4107 2186,4102 2347,4098 2509,4093 2670,4089 2832,4086 2993,4084 3155,4081 3316,4078 3478,4077 3639,4075 3801,4073"/>
+                <TextEquiv>
+                    <Unicode>d. Mikindani-Schichten nicht besichtigen konnten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="541,4375 975,4457 1360,4319 1998,4287 3162,4354 3157,4208 2899,4086 2605,4225 2303,4100 2122,4240 1912,4147 1690,4249 1351,4169 1086,4276 536,4215"/>
+                <Baseline points="562,4344 690,4340 819,4336 948,4331 1077,4326 1205,4321 1334,4315 1463,4310 1592,4304 1720,4299 1849,4294 1978,4289 2107,4285 2235,4281 2364,4278 2493,4275 2622,4274 2750,4273 2879,4273 3008,4274 3137,4277"/>
+                <TextEquiv>
+                    <Unicode>Lindi gefällt mir bei weitem besser.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="699,4560 1824,4470 2349,4580 2600,4451 3752,4567 3880,4348 695,4435"/>
+                <Baseline points="722,4550 879,4541 1036,4532 1193,4523 1350,4514 1507,4505 1664,4497 1821,4489 1978,4482 2135,4475 2292,4468 2449,4463 2606,4458 2763,4455 2920,4453 3077,4452 3234,4452 3391,4454 3548,4457 3705,4462 3862,4468"/>
+                <TextEquiv>
+                    <Unicode>27.I: morgens mit Tagesgrauen aus d. Bucht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="511,4752 2338,4647 2972,4741 3331,4609 3580,4727 3843,4560 3011,4463 2733,4549 2601,4453 2371,4568 1484,4503 1353,4620 507,4623"/>
+                <Baseline points="532,4700 696,4695 861,4687 1025,4680 1190,4672 1354,4663 1519,4655 1683,4647 1848,4639 2012,4632 2177,4625 2342,4618 2506,4613 2671,4609 2835,4607 3000,4605 3164,4605 3329,4608 3493,4612 3658,4618 3823,4626"/>
+                <TextEquiv>
+                    <Unicode>vor Lindi auf der Außenrhede d. Post überge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="519,4874 1332,4966 1619,4845 2035,4938 2767,4805 3477,4933 3877,4840 3874,4655 518,4805"/>
+                <Baseline points="540,4860 705,4851 871,4844 1037,4838 1203,4832 1369,4827 1534,4823 1700,4819 1866,4816 2032,4813 2198,4811 2363,4810 2529,4808 2695,4807 2861,4806 3027,4805 3192,4805 3358,4804 3524,4803 3690,4802 3856,4801"/>
+                <TextEquiv>
+                    <Unicode>nommen, ohne Aufenthalt weiter. See ganz still</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>122&#xD;
+25.I. Koffer gepackt, richtiger gesagt: packen lassen.&#xD;
+Nachm. Ankunft des Dampfers.&#xD;
+26.I: Vorm: Lasten u. Koffer an Bord gebracht, da wir&#xD;
+schon heut einsteigen müssen u. auch gern einsteigen, um&#xD;
+so Mikindani kennen zu lernen. Gleich nach Tisch&#xD;
+an Bord, um 2 Uhr Abfahrt. An Mikindani vor 6 Uhr in&#xD;
+kürzester Zeit. Wiederum schöne Bucht hinter gehobenem&#xD;
+Korallenriff, an einer der die Einfahrt flankierenden&#xD;
+Landspitzen ein sehr malerisch gelegenes Dorf mit&#xD;
+prächtigem Affenbrotbaum. Der Hafenort macht von&#xD;
+weitem den Eindruck einer größeren Stadt der&#xD;
+vielen eng beisammen liegenden weißen Stein„&#xD;
+häuser wegen, die jedoch meist von Indern bewohnt&#xD;
+sind. Negerviertel scharf abgetrennt. Nur 2 Weiße&#xD;
+ansässig. Die Boma mit hohem Turm burgartig&#xD;
+auf einer Anhöhe gelegen. Überhaupt in großem&#xD;
+Stile angelegt (Bezirksamt später nach Lindi ver„&#xD;
+legt). Kornspeicher, Ställe u. dgl. in schönen Bauten, auch&#xD;
+das Zollamt ein geschmackvolles Haus im Gegensatz&#xD;
+zu Lindi. Gleich an Land gefahren, durch d. Ort zur&#xD;
+Boma gegangen. Leider wurde es dunkel, so daß&#xD;
+wir nicht mehr auf den Berg hinter der Boma&#xD;
+steigen konnten, der schöne Aussicht verspricht, auch&#xD;
+d. Mikindani-Schichten nicht besichtigen konnten.&#xD;
+Lindi gefällt mir bei weitem besser.&#xD;
+27.I: morgens mit Tagesgrauen aus d. Bucht,&#xD;
+vor Lindi auf der Außenrhede d. Post überge„&#xD;
+nommen, ohne Aufenthalt weiter. See ganz still</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

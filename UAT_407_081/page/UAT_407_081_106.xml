@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:39.017+02:00</Created>
+        <LastChange>2019-10-04T13:08:02.637+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7550991" pageNr="106" tsid="16310063" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=EHEXKRLJHQKFTPOSNUKRRHTT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PJULCIMXGYAUTVJOTLSTWVFJ" imageId="4551869"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_106.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256500245" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1569572259129_161"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1569572259129_161" custom="readingOrder {index:0;}">
+            <Coords points="347,254 520,254 3964,338 3964,4857 456,4857 347,453"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="339,448 367,436 404,439 413,423 467,425 480,408 501,419 515,406 536,414 556,408 509,243 461,265 424,245 404,268 376,263 332,329 307,337"/>
+                <Baseline points="347,403 375,392 404,381 433,372 462,364 491,358 520,354"/>
+                <TextEquiv>
+                    <Unicode>104</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569575303102_946" custom="readingOrder {index:1;}">
+                <Coords points="530,502 2546,438 2733,547 3440,439 3769,540 3927,494 3925,352 2684,251 1328,409 757,231 527,330"/>
+                <Baseline points="550,459 661,464 772,467 883,469 994,469 1106,467 1217,465 1328,462 1439,457 1550,453 1662,449 1773,444 1884,440 1995,436 2106,433 2218,431 2329,430 2440,430 2551,431 2662,435 2774,440 2798,434 2853,429 2908,424 2964,421 3019,418 3074,416 3130,414 3185,413 3240,412 3296,412 3351,412 3406,412 3462,413 3517,414 3572,415 3628,417 3683,418 3738,420 3794,422 3849,423 3905,425"/>
+                <TextEquiv>
+                    <Unicode>Mroweka am Ende des Krieks. Da schon 4 Uhr, muß ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="482,679 3797,725 3797,540 3264,467 2825,562 1849,451 1630,558 1363,464 482,546"/>
+                <Baseline points="503,617 666,615 830,614 993,614 1157,613 1320,612 1484,612 1647,612 1811,611 1974,611 2138,611 2302,611 2465,611 2629,612 2792,612 2956,612 3119,612 3283,613 3446,613 3610,613 3774,613"/>
+                <TextEquiv>
+                    <Unicode>Lager hier beim Akiden aufschlagen. Das Ufer steigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="492,859 2814,754 2952,883 3128,762 3683,774 3657,615 3390,714 492,683"/>
+                <Baseline points="515,775 672,774 829,773 986,772 1144,772 1301,771 1458,770 1616,770 1773,769 1930,768 2088,768 2245,768 2402,767 2559,767 2717,767 2874,767 3031,767 3189,767 3346,767 3503,767 3661,768"/>
+                <TextEquiv>
+                    <Unicode>steil etwa 40 m. vom Wasser aus an, besteht aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="487,971 1944,958 2090,1052 2839,944 3415,1051 3866,1012 3866,870 3157,768 2950,884 2138,790 486,868"/>
+                <Baseline points="506,940 673,937 840,934 1007,931 1174,928 1341,926 1508,924 1675,923 1842,921 2009,921 2176,920 2343,920 2510,920 2677,921 2844,922 3011,924 3178,926 3345,929 3512,932 3679,936 3846,941"/>
+                <TextEquiv>
+                    <Unicode>lediglich aus hellem, rötlichem Sande. Mehrfach Regen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="747,1169 1934,1106 2101,1232 2609,1157 3060,1237 3202,1134 3331,1230 3843,1142 3727,1034 3267,997 2188,987 2033,1073 1874,964 747,993"/>
+                <Baseline points="769,1107 921,1107 1074,1109 1226,1110 1379,1112 1532,1113 1684,1115 1837,1117 1990,1119 2142,1120 2295,1122 2448,1123 2600,1124 2753,1125 2906,1125 3058,1125 3211,1124 3364,1122 3516,1121 3669,1118 3822,1114"/>
+                <TextEquiv>
+                    <Unicode>21.II: Ab über Körner'sche Pflanzung auf neuer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="486,1328 1320,1393 1639,1275 2610,1406 2804,1287 3810,1332 3867,1207 2482,1267 1786,1134 487,1138"/>
+                <Baseline points="506,1281 673,1282 840,1283 1007,1284 1174,1286 1341,1287 1508,1288 1675,1290 1842,1291 2009,1292 2176,1294 2343,1295 2510,1296 2677,1297 2844,1298 3011,1299 3178,1299 3345,1300 3512,1300 3679,1300 3846,1300"/>
+                <TextEquiv>
+                    <Unicode>Lukuledi-Straße stellenweis durch sehr dichten Lianen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="503,1458 3986,1536 3988,1377 2872,1297 2590,1404 505,1351"/>
+                <Baseline points="525,1419 706,1423 887,1426 1068,1429 1249,1431 1430,1433 1611,1435 1792,1436 1973,1438 2154,1440 2335,1442 2516,1444 2697,1447 2878,1451 3059,1455 3240,1461 3421,1466 3602,1474 3783,1483 3964,1494"/>
+                <TextEquiv>
+                    <Unicode>Busch nach Narunjo (Pflanzung im Lukuledi-Tal, an sumpfi„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="544,1702 2020,1602 3033,1754 3370,1634 3669,1759 3881,1693 3883,1585 2345,1452 1608,1562 1102,1430 546,1551"/>
+                <Baseline points="567,1612 731,1610 896,1609 1060,1607 1225,1606 1390,1606 1554,1605 1719,1606 1883,1606 2048,1607 2213,1609 2377,1611 2542,1614 2706,1617 2871,1621 3036,1627 3200,1632 3365,1638 3529,1646 3694,1654 3859,1663"/>
+                <TextEquiv>
+                    <Unicode>ger Stelle), weiter bis Mtua (Pflanzung von Werneyer),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="533,1828 1087,1886 1496,1760 1826,1880 2511,1779 3645,1893 3947,1836 3948,1733 1438,1627 534,1712"/>
+                <Baseline points="554,1772 722,1773 891,1774 1059,1774 1228,1775 1396,1776 1565,1777 1733,1778 1902,1779 2070,1780 2239,1781 2407,1783 2576,1784 2744,1786 2913,1789 3081,1791 3250,1794 3418,1797 3587,1800 3755,1804 3924,1808"/>
+                <TextEquiv>
+                    <Unicode>hier auf alte Straße, da neue noch im Bau, bis zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="490,1947 1845,1947 2197,2057 2455,1947 2966,2054 3354,1931 3895,2034 3896,1892 3394,1803 2176,1894 1519,1786 985,1894 650,1776 491,1878"/>
+                <Baseline points="510,1917 678,1923 846,1929 1014,1933 1183,1937 1351,1940 1519,1941 1688,1943 1856,1944 2024,1944 2193,1944 2361,1944 2529,1944 2697,1944 2866,1944 3034,1944 3202,1945 3371,1946 3539,1948 3707,1950 3876,1953"/>
+                <TextEquiv>
+                    <Unicode>Jumben von Mtua. An gegen 10½, Lager. Unterwegs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="543,2126 3850,2154 3850,2059 3356,1933 2978,2052 1731,1949 544,2023"/>
+                <Baseline points="567,2083 730,2086 893,2089 1056,2091 1219,2092 1382,2093 1545,2094 1709,2094 1872,2094 2035,2094 2198,2094 2361,2094 2524,2094 2687,2094 2851,2094 3014,2094 3177,2095 3340,2096 3503,2098 3666,2100 3830,2103"/>
+                <TextEquiv>
+                    <Unicode>wenig Regen, aber mittags u. in d. folgenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="540,2310 1322,2231 1577,2354 1856,2267 2033,2360 2543,2219 2759,2355 3025,2224 3447,2290 3446,2148 3093,2099 2375,2186 1399,2115 1236,2198 539,2125"/>
+                <Baseline points="560,2261 703,2256 846,2252 990,2248 1133,2245 1276,2242 1420,2240 1563,2238 1706,2236 1850,2235 1993,2234 2136,2234 2280,2234 2423,2234 2566,2234 2710,2234 2853,2235 2996,2235 3140,2236 3283,2237 3427,2238"/>
+                <TextEquiv>
+                    <Unicode>Nacht stärkere Güsse. Es ist auch höchste Zeit!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="712,2439 1332,2525 1985,2413 2338,2530 3254,2414 3525,2530 3907,2440 3907,2316 3017,2233 2759,2358 2617,2229 2183,2362 1856,2267 1590,2353 1465,2254 712,2344"/>
+                <Baseline points="734,2414 891,2413 1049,2412 1206,2411 1364,2410 1521,2410 1679,2409 1836,2408 1994,2408 2151,2407 2309,2407 2466,2407 2624,2407 2781,2407 2939,2408 3096,2409 3254,2410 3411,2412 3569,2414 3726,2416 3884,2419"/>
+                <TextEquiv>
+                    <Unicode>Abends ließ ich Sagen erzählen, hatte aber Pech: Ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="581,2640 1545,2709 1738,2591 2624,2670 2761,2544 3130,2549 3514,2688 3961,2603 3960,2448 1307,2526 932,2417 580,2511"/>
+                <Baseline points="603,2575 769,2580 936,2583 1103,2584 1269,2584 1436,2583 1603,2580 1769,2577 1936,2574 2103,2570 2270,2566 2436,2563 2603,2559 2770,2557 2936,2555 3103,2555 3270,2556 3436,2558 3603,2563 3770,2569 3937,2577"/>
+                <TextEquiv>
+                    <Unicode>Mmakonde erzählte eine ewige, sehr stupide Geschichte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="590,2754 1950,2851 2430,2725 2836,2841 3032,2722 3755,2718 3753,2572 3255,2664 3134,2549 2623,2671 589,2647"/>
+                <Baseline points="611,2736 767,2740 923,2742 1079,2744 1235,2744 1391,2743 1547,2741 1703,2739 1859,2737 2015,2733 2171,2730 2327,2727 2483,2724 2639,2721 2795,2718 2951,2716 3107,2715 3263,2715 3419,2716 3575,2717 3732,2721"/>
+                <TextEquiv>
+                    <Unicode>eines „Prinzen“. Interessant war höchstens die Art</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="578,2946 1777,2878 2234,2993 2762,2869 3253,2979 3850,2880 3848,2768 3689,2736 576,2792"/>
+                <Baseline points="601,2904 762,2899 923,2895 1085,2891 1246,2888 1408,2885 1569,2883 1730,2882 1892,2881 2053,2879 2215,2878 2376,2877 2537,2875 2699,2874 2860,2872 3022,2869 3183,2866 3344,2863 3506,2858 3667,2853 3829,2847"/>
+                <TextEquiv>
+                    <Unicode>des Vortrags, da noch ein Zweiter dazu gehört, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="567,3091 1599,3159 2162,3033 3315,3045 3753,3160 3925,3104 3925,2907 3495,2997 2119,2999 1917,2883 567,2945"/>
+                <Baseline points="587,3045 752,3045 918,3044 1084,3044 1250,3045 1416,3045 1582,3045 1748,3046 1914,3046 2080,3047 2246,3047 2411,3047 2577,3047 2743,3047 2909,3047 3075,3046 3241,3045 3407,3043 3573,3041 3739,3038 3905,3034"/>
+                <TextEquiv>
+                    <Unicode>bei jeder Sprechpause hâm oder sâna einzuwerfen hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="569,3245 2014,3322 2281,3196 2797,3294 3730,3226 3729,3033 3162,3151 569,3090"/>
+                <Baseline points="589,3212 744,3210 900,3209 1056,3207 1212,3206 1368,3204 1524,3204 1680,3203 1836,3202 1992,3202 2148,3202 2303,3201 2459,3201 2615,3201 2771,3201 2927,3201 3083,3201 3239,3201 3395,3200 3551,3200 3707,3200"/>
+                <TextEquiv>
+                    <Unicode>Erst störte ein vorbeiziehender Akide, den ich zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="525,3436 772,3504 1036,3383 1258,3500 1436,3381 2571,3348 2784,3460 3685,3371 3756,3206 3529,3305 3317,3210 523,3302"/>
+                <Baseline points="545,3388 704,3388 864,3387 1023,3385 1183,3383 1343,3380 1502,3377 1662,3374 1822,3370 1981,3366 2141,3362 2301,3359 2460,3355 2620,3352 2780,3349 2939,3346 3099,3344 3259,3343 3418,3342 3578,3343 3738,3344"/>
+                <TextEquiv>
+                    <Unicode>Sitzen auffordern u. etwas unterhalten mußte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="567,3605 1599,3631 1928,3516 2142,3641 2784,3502 3372,3636 3670,3496 3907,3543 3744,3331 564,3472"/>
+                <Baseline points="587,3558 751,3556 916,3552 1081,3547 1246,3541 1411,3535 1576,3529 1740,3522 1905,3516 2070,3509 2235,3503 2400,3498 2565,3494 2730,3491 2894,3488 3059,3488 3224,3489 3389,3493 3554,3498 3719,3505 3884,3516"/>
+                <TextEquiv>
+                    <Unicode>dann ein Überfall durch Beißameisen (siafu), die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="572,3724 1247,3679 1536,3793 2218,3667 2623,3780 2971,3670 3127,3793 3470,3778 3702,3668 3701,3518 3396,3624 2049,3505 1741,3641 571,3616"/>
+                <Baseline points="595,3694 749,3693 903,3691 1058,3690 1212,3687 1366,3685 1521,3682 1675,3680 1829,3677 1984,3674 2138,3672 2292,3670 2447,3669 2601,3668 2755,3667 2910,3667 3064,3668 3218,3670 3373,3672 3527,3676 3682,3681"/>
+                <TextEquiv>
+                    <Unicode>mit Feuer ausgerottet wurden; dennoch Erfolg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="568,3978 2837,3830 3715,3904 3964,3862 3962,3711 565,3789"/>
+                <Baseline points="589,3876 756,3873 924,3871 1092,3868 1259,3865 1427,3861 1595,3858 1762,3854 1930,3850 2098,3847 2266,3844 2433,3841 2601,3838 2769,3836 2936,3834 3104,3833 3272,3832 3439,3833 3607,3834 3775,3835 3943,3838"/>
+                <TextEquiv>
+                    <Unicode>schwach, da ständig neue Tausende heran wimmelten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="712,4083 1146,4064 1446,4200 1679,4082 3271,4077 3789,3966 3047,3888 2783,3997 2513,3874 1812,4032 1361,3879 900,4023 708,3937"/>
+                <Baseline points="731,4063 882,4072 1034,4078 1186,4082 1338,4084 1490,4083 1642,4081 1794,4078 1946,4073 2098,4068 2250,4062 2401,4056 2553,4050 2705,4044 2857,4038 3009,4033 3161,4029 3313,4027 3465,4026 3617,4026 3769,4029"/>
+                <TextEquiv>
+                    <Unicode>22.II. Marsch von 3 Std. bis Mtamahof Pflanzung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="533,4271 3783,4210 3781,4111 3367,4032 1667,4184 530,4086"/>
+                <Baseline points="555,4208 715,4216 875,4222 1035,4225 1196,4226 1356,4226 1516,4224 1677,4221 1837,4217 1997,4213 2158,4208 2318,4203 2478,4197 2638,4193 2799,4188 2959,4185 3119,4183 3280,4182 3440,4183 3600,4186 3761,4191"/>
+                <TextEquiv>
+                    <Unicode>des Herrn Kaiser, auf alter Straße. Bedeckter Himmel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="479,4395 1155,4464 1738,4354 1921,4480 2654,4341 2983,4460 3234,4339 3653,4443 3897,4382 3894,4201 2502,4288 2264,4198 1596,4327 712,4210 477,4318"/>
+                <Baseline points="501,4380 669,4381 838,4380 1007,4379 1175,4377 1344,4374 1513,4371 1681,4367 1850,4362 2019,4358 2188,4353 2356,4349 2525,4345 2694,4341 2862,4337 3031,4335 3200,4332 3368,4331 3537,4331 3706,4331 3875,4334"/>
+                <TextEquiv>
+                    <Unicode>aber kein Regen; im Nyangedi durch reichliches Wasser. Ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="492,4575 2026,4504 2492,4616 3067,4481 3502,4593 3833,4521 3831,4340 3647,4449 3182,4342 2989,4452 2592,4344 2155,4468 1414,4359 491,4459"/>
+                <Baseline points="513,4515 677,4515 842,4515 1007,4515 1172,4514 1337,4512 1501,4511 1666,4508 1831,4506 1996,4504 2161,4501 2325,4499 2490,4497 2655,4495 2820,4493 2985,4492 3149,4491 3314,4490 3479,4490 3644,4491 3809,4492"/>
+                <TextEquiv>
+                    <Unicode>wenige Sandsteinreste aus den „Deckschichten“ hervorlugend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="450,4766 3920,4667 3919,4556 3063,4479 2582,4598 449,4598"/>
+                <Baseline points="473,4688 644,4682 815,4676 986,4671 1158,4667 1329,4664 1500,4661 1671,4659 1843,4657 2014,4656 2185,4655 2356,4655 2528,4655 2699,4655 2870,4655 3041,4656 3213,4657 3384,4658 3555,4659 3726,4660 3898,4661"/>
+                <TextEquiv>
+                    <Unicode>Haus auf Mtamahof prächtig gelegen. Weiter Blick über das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="436,4869 1963,4930 2371,4790 3176,4891 3313,4808 3511,4919 3872,4813 3802,4702 2834,4662 436,4778"/>
+                <Baseline points="456,4820 625,4819 795,4818 965,4816 1135,4813 1305,4811 1474,4808 1644,4805 1814,4803 1984,4800 2154,4798 2323,4796 2493,4794 2663,4793 2833,4793 3003,4793 3172,4794 3342,4795 3512,4798 3682,4802 3852,4806"/>
+                <TextEquiv>
+                    <Unicode>breite Lukuledi-Tal, sowie auf- u. abwärts. Im Vordergrunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>104&#xD;
+Mroweka am Ende des Krieks. Da schon 4 Uhr, muß ich&#xD;
+Lager hier beim Akiden aufschlagen. Das Ufer steigt&#xD;
+steil etwa 40 m. vom Wasser aus an, besteht aber&#xD;
+lediglich aus hellem, rötlichem Sande. Mehrfach Regen.&#xD;
+21.II: Ab über Körner'sche Pflanzung auf neuer&#xD;
+Lukuledi-Straße stellenweis durch sehr dichten Lianen-&#xD;
+Busch nach Narunjo (Pflanzung im Lukuledi-Tal, an sumpfi„&#xD;
+ger Stelle), weiter bis Mtua (Pflanzung von Werneyer),&#xD;
+hier auf alte Straße, da neue noch im Bau, bis zum&#xD;
+Jumben von Mtua. An gegen 10½, Lager. Unterwegs&#xD;
+wenig Regen, aber mittags u. in d. folgenden&#xD;
+Nacht stärkere Güsse. Es ist auch höchste Zeit!&#xD;
+Abends ließ ich Sagen erzählen, hatte aber Pech: Ein&#xD;
+Mmakonde erzählte eine ewige, sehr stupide Geschichte&#xD;
+eines „Prinzen“. Interessant war höchstens die Art&#xD;
+des Vortrags, da noch ein Zweiter dazu gehört, der&#xD;
+bei jeder Sprechpause hâm oder sâna einzuwerfen hat.&#xD;
+Erst störte ein vorbeiziehender Akide, den ich zum&#xD;
+Sitzen auffordern u. etwas unterhalten mußte,&#xD;
+dann ein Überfall durch Beißameisen (siafu), die&#xD;
+mit Feuer ausgerottet wurden; dennoch Erfolg&#xD;
+schwach, da ständig neue Tausende heran wimmelten.&#xD;
+22.II. Marsch von 3 Std. bis Mtamahof Pflanzung&#xD;
+des Herrn Kaiser, auf alter Straße. Bedeckter Himmel,&#xD;
+aber kein Regen; im Nyangedi durch reichliches Wasser. Ganz&#xD;
+wenige Sandsteinreste aus den „Deckschichten“ hervorlugend.&#xD;
+Haus auf Mtamahof prächtig gelegen. Weiter Blick über das&#xD;
+breite Lukuledi-Tal, sowie auf- u. abwärts. Im Vordergrunde</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

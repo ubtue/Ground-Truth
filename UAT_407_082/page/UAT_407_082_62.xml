@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:15.738+02:00</Created>
+        <LastChange>2020-04-02T09:54:45.681+02:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581510" pageNr="62" tsid="26874131" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=RNVLVOSFFQAKRRGBMLKXZNMA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZQXYMUEOHATDYGASZJVIJYEG" imageId="4579399"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_62.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255757693" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="332,267 332,3972 4022,3972 4022,267"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="342,439 404,419 445,383 517,422 544,419 525,226 422,236 389,221 360,256 324,250"/>
+                <Baseline points="356,352 382,349 409,347 435,344 462,341 488,339 515,337"/>
+                <TextEquiv>
+                    <Unicode>60</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="308,722 3966,718 3966,610 3745,569 308,605"/>
+                <Baseline points="332,703 512,704 693,704 873,704 1054,704 1235,703 1415,703 1596,702 1776,701 1957,701 2138,700 2318,699 2499,699 2679,698 2860,698 3041,699 3221,699 3402,700 3582,701 3763,703 3944,705"/>
+                <TextEquiv>
+                    <Unicode>die große Bitte um feste Lebensstellung, dann will ich schon für's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="376,896 1632,948 2810,818 3601,936 3953,897 3952,735 375,811"/>
+                <Baseline points="396,853 572,848 749,844 925,840 1102,836 1279,832 1455,828 1632,826 1809,822 1985,820 2162,818 2339,817 2515,816 2692,816 2869,817 3045,818 3222,820 3399,823 3575,828 3752,832 3929,838"/>
+                <TextEquiv>
+                    <Unicode>übrige sorgen. Ich weiß freilich nicht, woher es die nehmen sollte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="388,1051 3030,1085 3771,1028 3802,892 853,954 726,837 388,938"/>
+                <Baseline points="411,1002 579,1000 747,998 916,997 1084,996 1253,995 1421,994 1590,994 1758,993 1927,993 2095,993 2263,993 2432,992 2600,992 2769,991 2937,991 3106,990 3274,988 3443,986 3611,985 3780,982"/>
+                <TextEquiv>
+                    <Unicode>ich sehe zunächst in's leere Nichts und keine Möglichkeit aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="433,1176 3739,1155 3738,1024 3219,996 433,1085"/>
+                <Baseline points="456,1151 619,1143 782,1137 945,1132 1108,1128 1271,1126 1434,1124 1597,1124 1760,1124 1923,1124 2086,1125 2249,1125 2412,1126 2575,1126 2738,1126 2901,1125 3064,1122 3227,1120 3390,1115 3553,1110 3717,1102"/>
+                <TextEquiv>
+                    <Unicode>dem Nichts Etwas zu schaffen, außer in 8 und 10 Jahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="396,1310 3548,1372 3869,1336 3869,1182 396,1215"/>
+                <Baseline points="418,1285 589,1283 760,1281 932,1279 1103,1279 1274,1278 1446,1278 1617,1279 1788,1280 1960,1280 2131,1281 2302,1282 2474,1283 2645,1284 2816,1284 2988,1285 3159,1284 3330,1284 3502,1283 3673,1281 3845,1278"/>
+                <TextEquiv>
+                    <Unicode>Nein solange kann ich nicht warten, mein Lebensplan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="462,1457 3732,1485 3803,1318 461,1380"/>
+                <Baseline points="482,1432 647,1425 812,1418 977,1413 1142,1409 1307,1406 1472,1404 1637,1403 1802,1402 1967,1402 2132,1402 2297,1403 2462,1404 2627,1405 2792,1405 2957,1406 3122,1407 3287,1407 3452,1407 3617,1407 3783,1405"/>
+                <TextEquiv>
+                    <Unicode>wäre damit durchlöchert. 10 Jahre habe ich es getragen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="478,1664 1440,1576 3310,1677 3694,1620 3694,1502 478,1524"/>
+                <Baseline points="502,1576 660,1573 819,1571 977,1570 1136,1569 1294,1568 1453,1569 1611,1569 1770,1570 1928,1571 2087,1572 2245,1574 2404,1575 2562,1576 2721,1578 2879,1578 3038,1579 3196,1579 3355,1579 3513,1577 3672,1576"/>
+                <TextEquiv>
+                    <Unicode>gern getragen. Länger zu warten, wäre Versündigung an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="451,1743 3626,1789 3816,1773 3815,1629 2013,1674 1443,1575 450,1676"/>
+                <Baseline points="475,1737 641,1734 807,1732 973,1730 1139,1727 1305,1725 1471,1722 1637,1720 1803,1718 1969,1716 2135,1713 2301,1712 2467,1710 2633,1709 2799,1707 2965,1707 3131,1706 3297,1706 3463,1706 3629,1706 3795,1707"/>
+                <TextEquiv>
+                    <Unicode>natürlicher Pflicht. Organe, die nicht zur Ausübung gelangen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="465,1945 4047,1946 4046,1779 3843,1748 465,1805"/>
+                <Baseline points="486,1882 662,1881 839,1880 1016,1879 1193,1877 1370,1876 1546,1875 1723,1875 1900,1874 2077,1873 2254,1873 2430,1872 2607,1872 2784,1872 2961,1872 3138,1872 3314,1872 3491,1873 3668,1873 3845,1874 4022,1875"/>
+                <TextEquiv>
+                    <Unicode>müssen verkümmern. Giebt mir unsere wirtschaftliche Gesellschafts„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="499,2090 1651,2131 1943,2032 2134,2125 2702,2001 3724,2107 3913,2059 3910,1865 3758,1966 497,1954"/>
+                <Baseline points="522,2050 690,2044 858,2038 1027,2032 1195,2027 1364,2022 1532,2018 1700,2014 1869,2011 2037,2009 2206,2007 2374,2005 2542,2004 2711,2003 2879,2003 3048,2003 3216,2004 3384,2005 3553,2006 3721,2008 3890,2010"/>
+                <TextEquiv>
+                    <Unicode>lage nicht die Möglichkeit zu regulärer Ausübung, so muß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="497,2202 2950,2273 3889,2178 3260,2009 3062,2123 2800,2016 2466,2121 497,2084"/>
+                <Baseline points="518,2188 685,2185 852,2181 1019,2179 1187,2176 1354,2173 1521,2172 1689,2170 1856,2169 2023,2168 2191,2167 2358,2166 2525,2166 2692,2166 2860,2166 3027,2167 3194,2168 3362,2169 3529,2170 3696,2171 3864,2173"/>
+                <TextEquiv>
+                    <Unicode>es „natürliche“ sein. Das bin ich mir schuldig. Ich habe mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="503,2335 3660,2386 3812,2177 502,2263"/>
+                <Baseline points="523,2313 686,2314 849,2314 1013,2314 1176,2314 1339,2313 1503,2312 1666,2311 1829,2309 1993,2307 2156,2305 2319,2303 2483,2302 2646,2300 2809,2298 2973,2296 3136,2295 3299,2294 3463,2293 3626,2292 3790,2292"/>
+                <TextEquiv>
+                    <Unicode>auch drüben noch frei gehalten, von jetzt ab täte ich es nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="486,2545 3869,2511 3868,2349 1357,2428 485,2337"/>
+                <Baseline points="510,2462 676,2465 843,2466 1010,2467 1177,2467 1343,2467 1510,2466 1677,2465 1844,2464 2010,2462 2177,2461 2344,2459 2511,2457 2677,2456 2844,2455 3011,2454 3178,2454 3344,2454 3511,2454 3678,2456 3845,2458"/>
+                <TextEquiv>
+                    <Unicode>mehr. Befriedigen freilich kann mich, darüber bin ich nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="501,2644 3929,2663 3928,2505 3702,2461 3436,2557 501,2545"/>
+                <Baseline points="523,2611 692,2611 861,2610 1030,2609 1199,2607 1368,2605 1537,2603 1707,2601 1876,2599 2045,2598 2214,2596 2383,2594 2552,2593 2721,2592 2891,2592 3060,2592 3229,2593 3398,2594 3567,2597 3736,2600 3906,2604"/>
+                <TextEquiv>
+                    <Unicode>im Zweifel, lediglich ein wahrer Herzens- u. Geistesbund,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="494,2794 4003,2768 3976,2669 2522,2713 2373,2605 494,2668"/>
+                <Baseline points="519,2754 692,2755 865,2757 1038,2757 1211,2758 1384,2758 1557,2758 1730,2758 1903,2757 2076,2757 2250,2756 2423,2755 2596,2754 2769,2754 2942,2753 3115,2752 3288,2751 3461,2751 3634,2750 3807,2750 3981,2750"/>
+                <TextEquiv>
+                    <Unicode>und zwar nur noch jetzt. Ich wünsche mir ein frisches, junges</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="487,2948 3956,2938 3928,2780 487,2817"/>
+                <Baseline points="508,2897 679,2893 850,2891 1021,2889 1192,2887 1363,2886 1534,2885 1706,2885 1877,2885 2048,2885 2219,2885 2390,2885 2561,2885 2732,2886 2904,2886 3075,2885 3246,2885 3417,2884 3588,2882 3759,2880 3931,2878"/>
+                <TextEquiv>
+                    <Unicode>Weib, der Altersunterschied darf aber nicht zu groß sein, es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="516,3049 3379,3138 3908,3003 3628,2895 3289,3003 2503,2911 2133,2997 1948,2893 516,2977"/>
+                <Baseline points="539,3032 706,3035 873,3038 1040,3039 1208,3041 1375,3042 1542,3042 1710,3043 1877,3043 2044,3043 2212,3043 2379,3043 2546,3042 2713,3042 2881,3042 3048,3041 3215,3041 3383,3041 3550,3041 3717,3041 3885,3042"/>
+                <TextEquiv>
+                    <Unicode>ist nun bald der letzte Termin. Und ich sehe und sehe keine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="485,3197 3782,3190 3782,3054 1050,3137 485,3034"/>
+                <Baseline points="509,3180 671,3179 834,3178 996,3178 1159,3178 1321,3177 1484,3177 1646,3177 1809,3177 1971,3177 2134,3176 2297,3176 2459,3176 2622,3176 2784,3175 2947,3175 3109,3175 3272,3174 3434,3173 3597,3172 3760,3171"/>
+                <TextEquiv>
+                    <Unicode>Hoffnung. Ein schönes Arbeitsgebiet ist mir als seltene Gabe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="508,3364 3692,3416 4004,3366 4004,3235 508,3297"/>
+                <Baseline points="531,3333 703,3333 876,3334 1048,3335 1221,3336 1393,3336 1566,3337 1738,3338 1911,3338 2083,3338 2256,3339 2428,3339 2601,3338 2773,3338 2946,3337 3118,3336 3291,3335 3463,3334 3636,3332 3808,3330 3981,3328"/>
+                <TextEquiv>
+                    <Unicode>in d. Schoß gefallen, aber selbst bei bester Ausnutzung kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="531,3539 3018,3468 3701,3560 3926,3494 3925,3349 529,3444"/>
+                <Baseline points="553,3502 720,3500 887,3497 1055,3495 1222,3492 1390,3489 1557,3486 1725,3483 1892,3480 2060,3478 2227,3475 2394,3473 2562,3471 2729,3469 2897,3468 3064,3466 3232,3466 3399,3465 3567,3465 3734,3466 3902,3467"/>
+                <TextEquiv>
+                    <Unicode>ich Früchte erst nach vielen Jahren ernten. Das ist das erste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="503,3669 3719,3643 3718,3521 502,3538"/>
+                <Baseline points="526,3648 684,3645 842,3641 1001,3638 1159,3635 1318,3633 1476,3631 1635,3629 1793,3628 1952,3627 2110,3626 2268,3625 2427,3625 2585,3625 2744,3625 2902,3625 3061,3626 3219,3626 3378,3627 3536,3628 3695,3630"/>
+                <TextEquiv>
+                    <Unicode>Hindernis für meine Träume vom kommenden Jahr:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="739,3812 3932,3813 3931,3691 3398,3613 3204,3727 738,3704"/>
+                <Baseline points="763,3784 920,3784 1077,3784 1234,3783 1392,3782 1549,3780 1706,3778 1863,3777 2021,3775 2178,3773 2335,3772 2492,3770 2650,3769 2807,3768 2964,3768 3121,3767 3279,3768 3436,3769 3593,3771 3750,3773 3908,3777"/>
+                <TextEquiv>
+                    <Unicode>Habilitation - Verlobung - Herauskommen des Jesus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="456,3960 3387,4025 3739,3943 3265,3817 456,3847"/>
+                <Baseline points="478,3937 640,3935 802,3934 964,3933 1126,3932 1288,3931 1450,3931 1612,3931 1774,3931 1936,3931 2098,3931 2260,3931 2422,3931 2584,3931 2746,3931 2908,3931 3070,3931 3232,3931 3394,3931 3556,3930 3719,3930"/>
+                <TextEquiv>
+                    <Unicode>Na wir wollen uns in einem Jahre wiedersprechen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>60&#xD;
+die große Bitte um feste Lebensstellung, dann will ich schon für's&#xD;
+übrige sorgen. Ich weiß freilich nicht, woher es die nehmen sollte,&#xD;
+ich sehe zunächst in's leere Nichts und keine Möglichkeit aus&#xD;
+dem Nichts Etwas zu schaffen, außer in 8 und 10 Jahren.&#xD;
+Nein solange kann ich nicht warten, mein Lebensplan&#xD;
+wäre damit durchlöchert. 10 Jahre habe ich es getragen und&#xD;
+gern getragen. Länger zu warten, wäre Versündigung an&#xD;
+natürlicher Pflicht. Organe, die nicht zur Ausübung gelangen,&#xD;
+müssen verkümmern. Giebt mir unsere wirtschaftliche Gesellschafts„&#xD;
+lage nicht die Möglichkeit zu regulärer Ausübung, so muß&#xD;
+es „natürliche“ sein. Das bin ich mir schuldig. Ich habe mich&#xD;
+auch drüben noch frei gehalten, von jetzt ab täte ich es nicht&#xD;
+mehr. Befriedigen freilich kann mich, darüber bin ich nicht&#xD;
+im Zweifel, lediglich ein wahrer Herzens- u. Geistesbund,&#xD;
+und zwar nur noch jetzt. Ich wünsche mir ein frisches, junges&#xD;
+Weib, der Altersunterschied darf aber nicht zu groß sein, es&#xD;
+ist nun bald der letzte Termin. Und ich sehe und sehe keine&#xD;
+Hoffnung. Ein schönes Arbeitsgebiet ist mir als seltene Gabe&#xD;
+in d. Schoß gefallen, aber selbst bei bester Ausnutzung kann&#xD;
+ich Früchte erst nach vielen Jahren ernten. Das ist das erste&#xD;
+Hindernis für meine Träume vom kommenden Jahr:&#xD;
+Habilitation - Verlobung - Herauskommen des Jesus.&#xD;
+Na wir wollen uns in einem Jahre wiedersprechen!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

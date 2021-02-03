@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-02-02T10:01:01.545+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5234" WIDTH="4305">
+         <TopMargin HEIGHT="0" WIDTH="4305" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5234" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5234" WIDTH="0" VPOS="0" HPOS="4305"/>
+         <BottomMargin HEIGHT="0" WIDTH="4305" VPOS="5234" HPOS="0"/>
+         <PrintSpace HEIGHT="5234" WIDTH="4305" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1565344653992_146"
+                       HEIGHT="1051"
+                       WIDTH="1801"
+                       VPOS="1612"
+                       HPOS="1496">
+               <Shape>
+                  <Polygon POINTS="1496,1612 3297,1612 3297,2663 1496,2663"/>
+               </Shape>
+               <TextLine ID="line_1565344677103_149"
+                         BASELINE="2181"
+                         HEIGHT="87"
+                         WIDTH="1119"
+                         VPOS="2094"
+                         HPOS="1800">
+                  <String ID="string_line_1565344677103_149"
+                          HEIGHT="87"
+                          WIDTH="1119"
+                          VPOS="2094"
+                          HPOS="1800"
+                          CONTENT="Tage-buch"/>
+               </TextLine>
+               <TextLine ID="line_1566816722702_315"
+                         BASELINE="2501"
+                         HEIGHT="85"
+                         WIDTH="498"
+                         VPOS="2416"
+                         HPOS="1649">
+                  <String ID="string_line_1566816722702_315"
+                          HEIGHT="85"
+                          WIDTH="498"
+                          VPOS="2416"
+                          HPOS="1649"
+                          CONTENT="Tendaguru"/>
+               </TextLine>
+               <TextLine ID="line_1565344682992_154"
+                         BASELINE="2418"
+                         HEIGHT="62"
+                         WIDTH="119"
+                         VPOS="2356"
+                         HPOS="2055">
+                  <String ID="string_line_1565344682992_154"
+                          HEIGHT="62"
+                          WIDTH="119"
+                          VPOS="2356"
+                          HPOS="2055"
+                          CONTENT="29.IV"/>
+               </TextLine>
+               <TextLine ID="line_1566816722702_314"
+                         BASELINE="2466"
+                         HEIGHT="95"
+                         WIDTH="650"
+                         VPOS="2371"
+                         HPOS="2147">
+                  <String ID="string_line_1566816722702_314"
+                          HEIGHT="95"
+                          WIDTH="650"
+                          VPOS="2371"
+                          HPOS="2147"
+                          CONTENT="Tendaguru 1910 - 21.VII.1911"/>
+               </TextLine>
+               <TextLine ID="line_1565344706650_164"
+                         BASELINE="2580"
+                         HEIGHT="56"
+                         WIDTH="382"
+                         VPOS="2524"
+                         HPOS="2778">
+                  <String ID="string_line_1565344706650_164"
+                          HEIGHT="56"
+                          WIDTH="382"
+                          VPOS="2524"
+                          HPOS="2778"
+                          CONTENT="Dr. E. Hennig"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

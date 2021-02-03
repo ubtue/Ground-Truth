@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:14.728+02:00</Created>
+        <LastChange>2020-03-04T15:23:27.670+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581492" pageNr="44" tsid="24799647" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=ZXEWIIENIFLANZSLOBESHQCV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YNECPIENYFCJXWAWEQYSBYRJ" imageId="4579381"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_44.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255752100" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="280,270 280,4560 3993,4560 3993,270"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="256,359 278,360 301,383 323,383 341,365 373,375 409,348 463,371 490,367 492,228 447,223 338,266 307,261 280,288 257,287"/>
+                <Baseline points="280,331 307,335 334,338 361,339 388,339 415,338 442,337 470,335"/>
+                <TextEquiv>
+                    <Unicode>42</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="399,755 3798,735 3734,533 2424,640 398,539"/>
+                <Baseline points="421,714 588,715 756,715 924,714 1091,714 1259,714 1427,713 1594,713 1762,712 1930,712 2098,711 2265,710 2433,710 2601,709 2768,708 2936,708 3104,707 3271,706 3439,706 3607,706 3775,705"/>
+                <TextEquiv>
+                    <Unicode>teilnahmslos; bei den Schlußworten „viva Tripoli Italiana!“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="445,885 3962,874 3821,735 2934,707 2759,807 1088,702 445,795"/>
+                <Baseline points="466,862 639,862 813,861 987,860 1161,859 1334,858 1508,857 1682,856 1856,855 2029,853 2203,852 2377,851 2551,850 2724,849 2898,849 3072,848 3246,848 3419,849 3593,849 3767,850 3941,852"/>
+                <TextEquiv>
+                    <Unicode>begann Einer schüchtern zu klatschen, aber es erstickte im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="432,1018 756,1099 3345,1035 3260,869 2643,950 2476,851 2359,950 1968,860 1364,846 955,959 432,891"/>
+                <Baseline points="457,993 600,994 743,996 887,997 1030,997 1174,998 1317,998 1460,998 1604,998 1747,998 1891,997 2034,997 2177,997 2321,996 2464,996 2608,996 2751,996 2894,996 3038,996 3181,996 3325,997"/>
+                <TextEquiv>
+                    <Unicode>Schweigen. Wo bleibt die südländische Leidenschaft?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="645,1208 1519,1261 2522,1150 3275,1250 3823,1153 3740,1014 643,1073"/>
+                <Baseline points="667,1179 823,1177 980,1174 1137,1172 1294,1169 1450,1167 1607,1165 1764,1163 1921,1161 2077,1159 2234,1157 2391,1155 2548,1154 2704,1152 2861,1151 3018,1149 3175,1148 3331,1146 3488,1145 3645,1143 3802,1142"/>
+                <TextEquiv>
+                    <Unicode>19. Oct. Mit Dampfer über Sorrent nach Capri (2 Std.) Die Vesuv-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="420,1337 3982,1315 3914,1184 1019,1255 420,1161"/>
+                <Baseline points="443,1288 618,1291 794,1293 970,1295 1146,1296 1322,1296 1498,1296 1673,1295 1849,1294 2025,1293 2201,1292 2377,1291 2553,1290 2729,1289 2904,1289 3080,1288 3256,1289 3432,1289 3608,1291 3784,1293 3960,1296"/>
+                <TextEquiv>
+                    <Unicode>Tour war mir zu unverschämt teuer u. Tätigkeit war an ihm leider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815239437_723" custom="readingOrder {index:6;}">
+                <Coords points="399,1489 3996,1445 3910,1319 3527,1290 398,1358"/>
+                <Baseline points="423,1431 573,1428 724,1426 875,1424 1026,1422 1177,1420 1328,1419 1478,1418 1629,1417 1780,1417 1931,1416 2082,1416 2233,1416 2384,1416 2534,1416 2685,1416 2836,1416 2987,1416 3138,1416 3289,1416 3440,1415 3474,1395 3500,1398 3526,1401 3552,1403 3578,1404 3605,1405 3631,1406 3657,1407 3683,1407 3709,1408 3736,1408 3762,1409 3788,1409 3814,1410 3840,1411 3867,1413 3893,1414 3919,1416 3945,1419 3972,1423"/>
+                <TextEquiv>
+                    <Unicode>nicht zu erblicken. Der sonnige Golf ganz bezaubernd schön. In der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="370,1615 3378,1687 4017,1667 4017,1527 369,1485"/>
+                <Baseline points="392,1599 572,1597 752,1596 932,1595 1112,1594 1292,1593 1472,1592 1652,1591 1832,1591 2012,1590 2192,1590 2372,1589 2552,1589 2732,1589 2912,1588 3092,1588 3272,1588 3452,1587 3632,1587 3812,1586 3993,1585"/>
+                <TextEquiv>
+                    <Unicode>blauen Grotte, wo die bei unruhigem Wasser vor sich gehende primi„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="388,1767 3860,1784 3548,1601 387,1646"/>
+                <Baseline points="412,1741 583,1741 754,1741 925,1740 1097,1739 1268,1736 1439,1733 1611,1731 1782,1727 1953,1724 2125,1721 2296,1719 2467,1718 2638,1716 2810,1716 2981,1717 3152,1719 3324,1723 3495,1728 3666,1734 3838,1742"/>
+                <TextEquiv>
+                    <Unicode>tive Einfahrt gegen das Unwesen der Fremdenindustrie er„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="406,1994 3625,1878 3787,1985 3935,1782 405,1796"/>
+                <Baseline points="429,1895 603,1893 777,1892 951,1891 1126,1890 1300,1889 1474,1889 1648,1888 1823,1888 1997,1888 2171,1888 2345,1888 2520,1888 2694,1888 2868,1888 3042,1887 3217,1887 3391,1886 3565,1885 3739,1883 3914,1881"/>
+                <TextEquiv>
+                    <Unicode>freulich abstach: In Scharen kamen die Passagiere hinein, so daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="367,2095 3969,2069 3968,1934 3625,1878 1595,2001 366,1933"/>
+                <Baseline points="391,2034 568,2038 746,2040 924,2042 1101,2043 1279,2044 1457,2044 1634,2043 1812,2042 1990,2040 2168,2038 2345,2036 2523,2034 2701,2031 2878,2029 3056,2026 3234,2024 3411,2022 3589,2020 3767,2018 3945,2017"/>
+                <TextEquiv>
+                    <Unicode>von feierlicher Stimmung nicht viel die Rede war. Aber das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815248624_728" custom="readingOrder {index:11;}">
+                <Coords points="442,2282 617,2182 3067,2172 3265,2284 3819,2202 3818,2112 3382,2036 442,2093"/>
+                <Baseline points="462,2186 494,2185 527,2184 560,2182 593,2181 626,2181 658,2180 691,2180 724,2180 757,2180 790,2180 822,2181 855,2181 888,2181 921,2182 953,2183 986,2183 1019,2184 1052,2184 1085,2185 1118,2186 1135,2174 1218,2175 1301,2175 1384,2176 1467,2176 1551,2176 1634,2177 1717,2177 1800,2177 1883,2177 1967,2177 2050,2177 2133,2177 2216,2176 2299,2176 2383,2176 2466,2176 2549,2176 2632,2177 2715,2177 2799,2177 2834,2160 2882,2166 2930,2170 2978,2173 3026,2175 3075,2177 3123,2177 3171,2178 3219,2178 3267,2177 3316,2177 3364,2176 3412,2175 3460,2174 3508,2174 3557,2173 3605,2173 3653,2173 3701,2174 3749,2176 3798,2178"/>
+                <TextEquiv>
+                    <Unicode>zauberhafte Blau, das aus der Tiefe zu dringen schein u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815255113_733" custom="readingOrder {index:12;}">
+                <Coords points="503,2375 1439,2321 1678,2419 1763,2337 2429,2311 2646,2414 2875,2350 2875,2251 781,2184 502,2276"/>
+                <Baseline points="525,2328 694,2327 864,2326 1033,2325 1203,2324 1372,2323 1542,2322 1711,2321 1881,2321 2050,2320 2220,2319 2389,2318 2559,2318 2728,2317 2852,2316"/>
+                <TextEquiv>
+                    <Unicode>sich an jedes Ruder, jeden Kahn heftet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="2698,2252 2756,2257 2819,2240 2873,2272 2891,2254 2936,2250 2968,2268 2990,2251 3022,2274 3108,2234 3108,2176 3041,2179 3013,2201 2941,2201 2892,2177 2865,2195 2698,2202"/>
+                <Baseline points="2721,2243 2747,2241 2773,2239 2799,2238 2825,2238 2851,2238 2877,2239 2903,2240 2929,2241 2955,2242 2981,2242 3007,2243 3033,2243 3059,2243 3085,2242"/>
+                <TextEquiv>
+                    <Unicode>an der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815255113_732" custom="readingOrder {index:14;}">
+                <Coords points="2830,2298 2952,2360 3415,2310 3632,2411 3673,2379 3736,2410 3839,2337 3938,2358 3937,2218 3869,2237 3783,2193 3739,2230 3504,2205 3410,2242 3369,2207 3311,2261 3153,2204 3090,2259 2829,2266"/>
+                <Baseline points="2852,2316 2898,2316 3067,2314 3237,2313 3406,2311 3576,2309 3745,2307 3915,2305"/>
+                <TextEquiv>
+                    <Unicode>Decke wiederspie„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="468,2530 3957,2554 3998,2347 468,2413"/>
+                <Baseline points="490,2473 664,2473 838,2472 1012,2472 1186,2471 1361,2471 1535,2471 1709,2470 1883,2470 2057,2470 2232,2470 2406,2470 2580,2470 2754,2470 2928,2470 3103,2471 3277,2471 3451,2472 3625,2473 3799,2474 3974,2475"/>
+                <TextEquiv>
+                    <Unicode>gelt, konnte man zum Glück noch nicht verderben. Aufent„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815273380_740" custom="readingOrder {index:16;}">
+                <Coords points="501,2705 3819,2615 3817,2489 2506,2464 1688,2578 732,2463 500,2592"/>
+                <Baseline points="525,2635 640,2638 755,2639 870,2638 985,2637 1100,2634 1215,2631 1330,2627 1445,2623 1560,2619 1675,2615 1790,2610 1905,2607 2020,2604 2135,2602 2250,2601 2365,2602 2480,2604 2595,2607 2710,2612 2825,2619 2843,2605 2890,2605 2938,2607 2986,2607 3033,2607 3081,2608 3129,2608 3176,2608 3224,2607 3272,2607 3320,2606 3367,2606 3415,2605 3463,2604 3510,2603 3558,2602 3606,2601 3653,2600 3701,2599 3749,2597 3797,2596"/>
+                <TextEquiv>
+                    <Unicode>halt natürlich viel zu kurz. Mit Dampfer zur Landungsstelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="476,2800 3934,2779 3254,2626 3033,2716 476,2669"/>
+                <Baseline points="499,2770 669,2770 840,2770 1010,2769 1181,2768 1352,2767 1522,2765 1693,2764 1863,2762 2034,2761 2205,2760 2375,2759 2546,2758 2716,2758 2887,2759 3058,2760 3228,2762 3399,2764 3569,2768 3740,2772 3911,2778"/>
+                <TextEquiv>
+                    <Unicode>von Capri zurück, an Land. Mittag auf d. Terrasse der „Blauen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+                <Coords points="530,2972 3925,2933 3878,2781 889,2874 528,2783"/>
+                <Baseline points="553,2919 720,2919 888,2918 1055,2917 1223,2915 1390,2913 1558,2911 1725,2908 1893,2906 2060,2904 2228,2901 2395,2899 2563,2897 2730,2896 2898,2895 3065,2894 3233,2894 3400,2894 3568,2896 3735,2898 3903,2900"/>
+                <TextEquiv>
+                    <Unicode>Grotte“. Der kleine Capri-Golf lag im Farbenglanz und Licht„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:19;}">
+                <Coords points="510,3075 3950,3078 3819,2957 757,3007 510,2913"/>
+                <Baseline points="533,3059 702,3057 872,3055 1042,3054 1212,3053 1382,3053 1551,3052 1721,3052 1891,3052 2061,3052 2231,3052 2400,3052 2570,3053 2740,3053 2910,3053 3080,3054 3249,3054 3419,3054 3589,3054 3759,3054 3929,3054"/>
+                <TextEquiv>
+                    <Unicode>reinheit vor mir wie ein norweg. Fjord dazu ein guter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:20;}">
+                <Coords points="503,3251 2947,3174 3277,3275 3897,3111 501,3071"/>
+                <Baseline points="524,3201 691,3196 859,3191 1026,3186 1194,3182 1361,3179 1529,3176 1696,3174 1864,3172 2031,3171 2199,3170 2366,3169 2534,3168 2701,3167 2869,3167 3036,3166 3204,3166 3371,3166 3539,3165 3706,3165 3874,3164"/>
+                <TextEquiv>
+                    <Unicode>Trunk! Zu Fuß aufwärts in den Labyrinthwegen zwischen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:21;}">
+                <Coords points="454,3391 3102,3445 3773,3369 3773,3234 454,3251"/>
+                <Baseline points="479,3336 642,3337 806,3338 969,3338 1133,3339 1296,3340 1460,3340 1623,3341 1787,3341 1950,3342 2114,3342 2278,3343 2441,3343 2605,3343 2768,3343 2932,3343 3095,3342 3259,3342 3422,3341 3586,3341 3750,3340"/>
+                <TextEquiv>
+                    <Unicode>Weinbergsmauern, später steiler ansteigend auf dem aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+                <Coords points="456,3494 2483,3587 2604,3493 3244,3587 3874,3506 3734,3366 456,3390"/>
+                <Baseline points="479,3495 647,3490 816,3487 984,3484 1153,3482 1322,3481 1490,3481 1659,3481 1828,3481 1996,3482 2165,3483 2334,3484 2502,3485 2671,3485 2840,3486 3008,3486 3177,3486 3346,3486 3514,3485 3683,3482 3852,3480"/>
+                <TextEquiv>
+                    <Unicode>Phönizierzeit stammenden Fußsteig an der Felsenwand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+                <Coords points="484,3688 3225,3622 3379,3729 3915,3675 3914,3558 1243,3478 483,3611"/>
+                <Baseline points="504,3650 673,3652 842,3654 1012,3655 1181,3655 1350,3655 1520,3654 1689,3653 1858,3652 2028,3650 2197,3648 2366,3646 2536,3644 2705,3641 2874,3639 3044,3636 3213,3634 3382,3632 3552,3630 3721,3628 3891,3626"/>
+                <TextEquiv>
+                    <Unicode>von Anacapri. Recht heiß beim Klettern köstliche Blicke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:24;}">
+                <Coords points="502,3862 1578,3775 1916,3878 2159,3765 3703,3857 3919,3667 502,3687"/>
+                <Baseline points="524,3782 692,3780 861,3779 1029,3778 1198,3777 1367,3776 1535,3775 1704,3774 1872,3774 2041,3773 2210,3773 2378,3773 2547,3772 2715,3772 2884,3773 3053,3773 3221,3773 3390,3774 3558,3774 3727,3775 3896,3776"/>
+                <TextEquiv>
+                    <Unicode>Straße abwärts zum Ort Capri, dann Rückfahrt nach Neapel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815284875_745" custom="readingOrder {index:25;}">
+                <Coords points="519,3980 3846,3988 3846,3889 3391,3772 2045,3894 519,3854"/>
+                <Baseline points="541,3935 663,3935 786,3935 908,3935 1031,3935 1154,3935 1276,3935 1399,3936 1522,3936 1644,3936 1767,3936 1890,3936 2012,3937 2135,3937 2258,3937 2380,3937 2503,3937 2626,3937 2748,3937 2871,3936 2994,3936 3026,3926 3065,3926 3105,3926 3145,3927 3185,3928 3225,3928 3265,3929 3305,3930 3345,3931 3385,3932 3425,3933 3464,3934 3504,3935 3544,3936 3584,3937 3624,3938 3664,3939 3704,3940 3744,3941 3784,3942 3824,3943"/>
+                <TextEquiv>
+                    <Unicode>wo wir erst im Dunklen eintrafen. Rast die Zeit hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:26;}">
+                <Coords points="515,4106 3730,4099 3575,3929 3310,3918 3036,4011 514,4016"/>
+                <Baseline points="539,4083 697,4079 855,4076 1014,4073 1172,4070 1331,4068 1489,4066 1647,4064 1806,4063 1964,4061 2123,4060 2281,4059 2439,4058 2598,4057 2756,4056 2915,4056 3073,4055 3231,4053 3390,4052 3548,4051 3707,4049"/>
+                <TextEquiv>
+                    <Unicode>auch so? Herrlich wieder die Dämmerung auf dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:27;}">
+                <Coords points="470,4274 4005,4311 4005,4081 3622,4180 470,4094"/>
+                <Baseline points="491,4225 665,4225 839,4225 1014,4225 1188,4225 1363,4226 1537,4227 1712,4227 1886,4228 2061,4229 2235,4230 2409,4231 2584,4231 2758,4232 2933,4232 3107,4232 3282,4231 3456,4230 3631,4229 3805,4227 3980,4225"/>
+                <TextEquiv>
+                    <Unicode>Wasser, der violette Vesuv, Delphine am Schiff, Sommertags„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:28;}">
+                <Coords points="478,4443 990,4394 1207,4438 1327,4372 1733,4394 1893,4476 2139,4434 2134,4236 2026,4211 1901,4277 1823,4225 1344,4309 892,4279 674,4366 475,4317"/>
+                <Baseline points="499,4420 579,4415 660,4410 741,4406 822,4401 903,4397 983,4393 1064,4389 1145,4386 1226,4383 1307,4380 1387,4378 1468,4377 1549,4375 1630,4375 1711,4375 1791,4376 1872,4377 1953,4379 2034,4382 2115,4385"/>
+                <TextEquiv>
+                    <Unicode>und Reiselust. Viel Deutsche.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:29;}">
+                <Coords points="621,4566 3034,4627 3980,4583 4012,4466 621,4427"/>
+                <Baseline points="644,4525 811,4526 978,4526 1145,4527 1313,4528 1480,4528 1647,4529 1814,4529 1982,4529 2149,4529 2316,4530 2483,4530 2651,4530 2818,4530 2985,4530 3152,4530 3320,4530 3487,4529 3654,4529 3821,4529 3989,4529"/>
+                <TextEquiv>
+                    <Unicode>30. Oct. Früh zur Bahn, Fahrt nach Rom. Der Aufenthalt ist leider viel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>42&#xD;
+teilnahmslos; bei den Schlußworten „viva Tripoli Italiana!“&#xD;
+begann Einer schüchtern zu klatschen, aber es erstickte im&#xD;
+Schweigen. Wo bleibt die südländische Leidenschaft?&#xD;
+19. Oct. Mit Dampfer über Sorrent nach Capri (2 Std.) Die Vesuv-&#xD;
+Tour war mir zu unverschämt teuer u. Tätigkeit war an ihm leider&#xD;
+nicht zu erblicken. Der sonnige Golf ganz bezaubernd schön. In der&#xD;
+blauen Grotte, wo die bei unruhigem Wasser vor sich gehende primi„&#xD;
+tive Einfahrt gegen das Unwesen der Fremdenindustrie er„&#xD;
+freulich abstach: In Scharen kamen die Passagiere hinein, so daß&#xD;
+von feierlicher Stimmung nicht viel die Rede war. Aber das&#xD;
+zauberhafte Blau, das aus der Tiefe zu dringen schein u.&#xD;
+sich an jedes Ruder, jeden Kahn heftet,&#xD;
+an der&#xD;
+Decke wiederspie„&#xD;
+gelt, konnte man zum Glück noch nicht verderben. Aufent„&#xD;
+halt natürlich viel zu kurz. Mit Dampfer zur Landungsstelle&#xD;
+von Capri zurück, an Land. Mittag auf d. Terrasse der „Blauen&#xD;
+Grotte“. Der kleine Capri-Golf lag im Farbenglanz und Licht„&#xD;
+reinheit vor mir wie ein norweg. Fjord dazu ein guter&#xD;
+Trunk! Zu Fuß aufwärts in den Labyrinthwegen zwischen den&#xD;
+Weinbergsmauern, später steiler ansteigend auf dem aus&#xD;
+Phönizierzeit stammenden Fußsteig an der Felsenwand&#xD;
+von Anacapri. Recht heiß beim Klettern köstliche Blicke.&#xD;
+Straße abwärts zum Ort Capri, dann Rückfahrt nach Neapel,&#xD;
+wo wir erst im Dunklen eintrafen. Rast die Zeit hier&#xD;
+auch so? Herrlich wieder die Dämmerung auf dem&#xD;
+Wasser, der violette Vesuv, Delphine am Schiff, Sommertags„&#xD;
+und Reiselust. Viel Deutsche.&#xD;
+30. Oct. Früh zur Bahn, Fahrt nach Rom. Der Aufenthalt ist leider viel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

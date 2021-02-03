@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-02-02T09:49:00.227+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5234" WIDTH="4305">
+         <TopMargin HEIGHT="0" WIDTH="4305" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5234" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5234" WIDTH="0" VPOS="0" HPOS="4305"/>
+         <BottomMargin HEIGHT="0" WIDTH="4305" VPOS="5234" HPOS="0"/>
+         <PrintSpace HEIGHT="5234" WIDTH="4305" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1582812521338_288"
+                       HEIGHT="1085"
+                       WIDTH="2280"
+                       VPOS="283"
+                       HPOS="504">
+               <Shape>
+                  <Polygon POINTS="504,283 1875,283 2784,887 2784,1368 1880,1368 504,1296"/>
+               </Shape>
+               <TextLine ID="r1l2"
+                         BASELINE="873"
+                         HEIGHT="244"
+                         WIDTH="582"
+                         VPOS="629"
+                         HPOS="1303">
+                  <String ID="string_r1l2"
+                          HEIGHT="244"
+                          WIDTH="582"
+                          VPOS="629"
+                          HPOS="1303"
+                          CONTENT="Tagebuch"/>
+               </TextLine>
+               <TextLine ID="r2l1"
+                         BASELINE="1072"
+                         HEIGHT="203"
+                         WIDTH="590"
+                         VPOS="869"
+                         HPOS="2209">
+                  <String ID="string_r2l1"
+                          HEIGHT="203"
+                          WIDTH="590"
+                          VPOS="869"
+                          HPOS="2209"
+                          CONTENT="Edw. Hennig."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="1315"
+                         HEIGHT="209"
+                         WIDTH="793"
+                         VPOS="1106"
+                         HPOS="655">
+                  <String ID="string_r1l3"
+                          HEIGHT="209"
+                          WIDTH="793"
+                          VPOS="1106"
+                          HPOS="655"
+                          CONTENT="Makangaga 1911."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

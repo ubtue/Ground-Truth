@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:40.782+02:00</Created>
+        <LastChange>2020-04-02T17:09:57.054+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551034" pageNr="145" tsid="26900261" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=ZOBJRJYYHNNSQOLYURAWLCLU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RAEZYUEDODOYOZVRRTUAKDIP" imageId="4551912"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_145.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256511817" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="555,261 555,4862 4011,4862 4011,261"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3832,350 3858,350 3874,368 3892,351 3904,360 3917,356 3989,409 4015,405 4018,246 3992,246 3954,219 3907,244 3886,231 3868,239 3860,230 3834,230"/>
+                <Baseline points="3852,334 3880,333 3908,333 3937,335 3965,335 3994,336"/>
+                <TextEquiv>
+                    <Unicode>143</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="544,411 1474,462 2112,359 3046,469 3791,392 3821,289 2086,324 1487,218 544,304"/>
+                <Baseline points="565,366 726,366 888,365 1049,365 1211,364 1373,363 1534,363 1696,362 1858,361 2019,361 2181,360 2343,360 2504,360 2666,360 2828,360 2989,361 3151,361 3313,363 3474,364 3636,366 3798,368"/>
+                <TextEquiv>
+                    <Unicode>20.VI: Janensch u. Staff kommen mittags zurück, ersterer weil in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="552,587 3894,561 3764,411 552,485"/>
+                <Baseline points="573,554 737,545 902,538 1067,532 1232,527 1397,523 1562,521 1727,518 1892,517 2057,517 2222,516 2386,517 2551,517 2716,518 2881,518 3046,519 3211,519 3376,519 3541,519 3706,518 3871,517"/>
+                <TextEquiv>
+                    <Unicode>Mchuya bisher wenig zu holen. Staff vom Fieber wieder her„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="551,767 1130,785 1381,665 2122,663 2286,768 2722,658 4008,717 3945,538 549,617"/>
+                <Baseline points="571,692 739,687 907,682 1076,677 1244,673 1413,668 1581,664 1749,660 1918,656 2086,652 2255,649 2423,647 2591,645 2760,642 2928,641 3097,640 3265,640 3433,640 3602,641 3815,646 3984,648"/>
+                <TextEquiv>
+                    <Unicode>gestellt. Von Hrn. Furtwängler noch immer kein endgiltiger Bescheid.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="629,903 3778,918 3776,751 3515,707 3233,799 628,770"/>
+                <Baseline points="650,873 805,874 960,875 1116,874 1271,873 1426,870 1582,868 1737,865 1892,862 2048,858 2203,856 2358,853 2514,851 2669,849 2824,848 2980,848 3135,849 3290,851 3446,854 3601,860 3757,867"/>
+                <TextEquiv>
+                    <Unicode>21.VI. Janensch geht auf einige Tage nach Mtapaia u. Niongala,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="550,1092 791,1146 1025,1046 1130,1137 1239,1070 1323,1141 1577,1032 1785,1112 1993,1034 2188,1124 2447,1036 2446,980 2186,901 2085,972 1990,914 1683,978 1424,916 1173,991 1039,925 870,1015 670,939 547,989"/>
+                <Baseline points="570,1067 662,1064 755,1060 848,1056 940,1052 1033,1049 1126,1046 1218,1042 1311,1039 1404,1036 1497,1033 1589,1031 1682,1028 1775,1026 1867,1025 1960,1024 2053,1023 2145,1023 2238,1023 2331,1024 2424,1026"/>
+                <TextEquiv>
+                    <Unicode>dortige Knochenfunde zu besichtigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="814,1211 3800,1247 3877,1072 814,1104"/>
+                <Baseline points="834,1178 985,1177 1136,1175 1287,1174 1438,1173 1589,1172 1740,1172 1891,1171 2042,1171 2193,1170 2344,1170 2495,1171 2646,1171 2797,1173 2948,1174 3099,1176 3250,1178 3401,1181 3552,1184 3703,1188 3854,1192"/>
+                <TextEquiv>
+                    <Unicode>Mit Dr. v. Staff mehrfach Schach gespielt. Zu meinem Ent„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="581,1405 3013,1287 3258,1397 3887,1255 2948,1168 940,1274 579,1161"/>
+                <Baseline points="601,1323 764,1319 927,1315 1090,1311 1253,1307 1417,1303 1580,1300 1743,1297 1906,1295 2069,1293 2233,1292 2396,1290 2559,1290 2722,1289 2885,1289 3049,1290 3212,1291 3375,1292 3538,1294 3701,1297 3865,1300"/>
+                <TextEquiv>
+                    <Unicode>setzen fast regelmäßig verloren, obwohl er wenig bei der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="607,1497 2444,1422 3717,1521 4003,1359 605,1365"/>
+                <Baseline points="628,1475 795,1465 963,1456 1130,1449 1298,1442 1466,1436 1633,1432 1801,1428 1969,1426 2136,1424 2304,1422 2472,1421 2639,1421 2807,1421 2975,1422 3142,1423 3310,1424 3478,1426 3645,1428 3813,1429 3981,1431"/>
+                <TextEquiv>
+                    <Unicode>Sache u. obwohl ich eigentlich nicht sagen kann, daß er besser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="571,1713 861,1593 1530,1690 1786,1578 2284,1678 3937,1583 2443,1422 2016,1532 568,1516"/>
+                <Baseline points="589,1603 755,1601 921,1598 1087,1595 1254,1591 1420,1587 1586,1583 1753,1578 1919,1574 2085,1570 2252,1566 2418,1562 2584,1559 2750,1556 2917,1555 3083,1554 3249,1554 3416,1555 3582,1557 3748,1561 3915,1566"/>
+                <TextEquiv>
+                    <Unicode>spielt, aber darauf kommt's schließlich im Kriege nicht an.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="593,1815 1329,1717 1866,1836 2108,1709 3652,1817 3968,1715 3966,1565 3376,1670 2004,1581 592,1690"/>
+                <Baseline points="613,1750 779,1744 946,1738 1112,1733 1279,1728 1446,1723 1612,1720 1779,1717 1945,1714 2112,1712 2279,1711 2445,1709 2612,1708 2778,1708 2945,1708 3112,1708 3278,1708 3445,1709 3611,1710 3778,1711 3945,1712"/>
+                <TextEquiv>
+                    <Unicode>Durch gemeinsame Analyse kamen wir dahinter, daß ich alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="550,1938 3849,1964 3998,1915 3997,1782 1787,1842 1327,1719 549,1818"/>
+                <Baseline points="571,1918 741,1909 911,1902 1081,1896 1252,1891 1422,1887 1592,1884 1763,1882 1933,1880 2103,1879 2274,1878 2444,1877 2614,1876 2784,1876 2955,1875 3125,1874 3295,1873 3466,1871 3636,1869 3806,1865 3977,1861"/>
+                <TextEquiv>
+                    <Unicode>Kraft auf Mittelspiel u. Offiziere verlege, er aber es garnicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="546,2086 3935,2089 4015,1938 2250,1963 2013,1867 1488,2000 545,1987"/>
+                <Baseline points="566,2057 737,2053 908,2049 1079,2045 1251,2042 1422,2039 1593,2036 1765,2033 1936,2031 2107,2029 2279,2027 2450,2026 2621,2024 2792,2023 2964,2023 3135,2023 3306,2023 3478,2023 3649,2024 3820,2025 3992,2027"/>
+                <TextEquiv>
+                    <Unicode>dazu kommen läßt, sondern von Anfang an auf Bauern-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="535,2304 715,2213 1324,2307 1679,2182 2026,2292 2634,2171 2883,2299 3495,2178 3932,2263 3829,2122 2570,2039 535,2132"/>
+                <Baseline points="558,2189 725,2189 893,2188 1061,2186 1228,2183 1396,2181 1564,2178 1731,2175 1899,2172 2067,2170 2235,2168 2402,2166 2570,2166 2738,2166 2905,2167 3073,2169 3241,2173 3408,2177 3576,2184 3744,2192 3912,2203"/>
+                <TextEquiv>
+                    <Unicode>Endspiel ausgeht u. zu diesem Zweck schonungslos weg„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="544,2386 595,2370 706,2456 808,2352 839,2377 881,2353 968,2367 961,2217 890,2250 808,2241 766,2268 691,2212 567,2329 542,2330"/>
+                <Baseline points="565,2364 590,2361 615,2359 641,2356 666,2354 692,2352 717,2351 743,2348 768,2348 794,2347 819,2346 845,2345 870,2345 896,2346 921,2347 947,2348"/>
+                <TextEquiv>
+                    <Unicode>tauscht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="776,2522 1474,2473 1732,2562 1958,2451 3668,2546 3950,2400 3462,2298 776,2402"/>
+                <Baseline points="799,2460 955,2462 1112,2464 1268,2465 1425,2466 1581,2466 1738,2466 1894,2466 2051,2465 2207,2465 2364,2464 2521,2463 2677,2462 2834,2461 2990,2461 3147,2460 3303,2459 3460,2459 3616,2459 3773,2460 3930,2461"/>
+                <TextEquiv>
+                    <Unicode>Ein Einschreibebrief für Furtwängler kommt aus Lindi hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="551,2653 1621,2600 2171,2699 2752,2580 3057,2687 3463,2570 3742,2639 3740,2472 549,2567"/>
+                <Baseline points="571,2616 728,2612 886,2608 1043,2605 1201,2602 1358,2599 1516,2596 1673,2593 1831,2591 1988,2588 2146,2586 2303,2584 2461,2582 2618,2580 2776,2579 2933,2577 3091,2576 3248,2575 3406,2574 3563,2573 3721,2572"/>
+                <TextEquiv>
+                    <Unicode>an, für uns wohl ein Zeichen, daß er mindestens die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="535,2859 899,2867 984,2810 1126,2851 1279,2763 1425,2796 1484,2748 1875,2790 1872,2588 1651,2699 1441,2697 1311,2609 879,2623 794,2697 669,2639 532,2675"/>
+                <Baseline points="555,2773 620,2767 685,2761 750,2757 815,2753 880,2750 945,2747 1010,2745 1075,2743 1140,2742 1205,2741 1270,2741 1335,2741 1400,2742 1465,2742 1530,2743 1595,2745 1660,2746 1725,2747 1790,2749 1855,2751"/>
+                <TextEquiv>
+                    <Unicode>Absicht hat zu kommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="662,2954 1364,3038 2037,2950 2311,3050 3134,2971 3489,3071 3780,2978 3781,2867 3233,2779 2950,2924 662,2864"/>
+                <Baseline points="684,2954 837,2952 991,2950 1145,2950 1299,2950 1453,2951 1607,2952 1760,2954 1914,2955 2068,2958 2222,2959 2376,2961 2530,2963 2684,2963 2837,2964 2991,2964 3145,2963 3299,2961 3453,2958 3607,2954 3761,2949"/>
+                <TextEquiv>
+                    <Unicode>24.VI. Mittags Janensch zurück, Funde in Niongala gut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="577,3125 753,3220 1122,3124 1520,3215 1691,3126 3765,3152 3740,2968 2951,3076 2030,2952 1392,3060 578,2975"/>
+                <Baseline points="601,3121 758,3116 915,3112 1072,3109 1229,3107 1386,3106 1543,3106 1701,3107 1858,3109 2015,3110 2172,3112 2329,3115 2486,3117 2643,3119 2801,3121 2958,3122 3115,3123 3272,3122 3429,3121 3586,3119 3744,3116"/>
+                <TextEquiv>
+                    <Unicode>Nach Tisch Poscho-Zahlung. Währenddessen kam Furtwängler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="562,3343 952,3286 1081,3397 1175,3311 1693,3343 2014,3269 2456,3374 2601,3283 2837,3317 2836,3184 2708,3240 2412,3121 2142,3208 1688,3129 1294,3220 1140,3127 952,3222 562,3223"/>
+                <Baseline points="583,3291 694,3288 806,3284 918,3281 1029,3277 1141,3274 1253,3270 1364,3268 1476,3265 1588,3263 1700,3262 1811,3261 1923,3261 2035,3261 2146,3263 2258,3265 2370,3268 2481,3272 2593,3277 2705,3284 2817,3291"/>
+                <TextEquiv>
+                    <Unicode>an. Also zu Viert am Tendaguru!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;} textStyle {offset:0; length:17;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="695,3520 3835,3507 3834,3323 3659,3293 2871,3397 2001,3279 1076,3400 930,3293 694,3332"/>
+                <Baseline points="715,3445 869,3448 1024,3451 1179,3452 1334,3453 1489,3453 1644,3452 1798,3451 1953,3449 2108,3447 2263,3446 2418,3444 2573,3443 2728,3442 2882,3442 3037,3442 3192,3443 3347,3445 3502,3449 3657,3453 3812,3460"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 25.VI. Um uns mit genügend Fleisch zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="555,3658 1335,3728 1759,3621 1879,3723 2315,3608 3246,3707 3399,3603 3777,3693 3917,3499 554,3568"/>
+                <Baseline points="577,3620 743,3621 909,3621 1075,3621 1241,3621 1407,3620 1573,3619 1739,3618 1905,3617 2071,3615 2237,3614 2403,3612 2569,3610 2735,3608 2901,3606 3067,3604 3233,3602 3399,3600 3565,3597 3731,3596 3898,3594"/>
+                <TextEquiv>
+                    <Unicode>versehen, früh auf Jagd in dem niedrigen Gras längs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:23;}">
+                <Coords points="586,3825 3803,3809 3712,3660 1862,3717 1758,3619 834,3742 585,3650"/>
+                <Baseline points="608,3788 766,3781 925,3776 1083,3772 1242,3767 1401,3764 1559,3762 1718,3760 1876,3759 2035,3758 2194,3757 2352,3757 2511,3757 2669,3757 2828,3757 2987,3757 3145,3757 3304,3756 3462,3756 3621,3755 3780,3753"/>
+                <TextEquiv>
+                    <Unicode>des Lipogiro, nichts gesehen; die Andern in der Gemüse-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570538912856_557" custom="readingOrder {index:24;}">
+                <Coords points="613,3931 1787,3920 1954,4022 2502,3914 2819,4012 3672,3954 3766,3804 613,3824"/>
+                <Baseline points="633,3924 659,3922 685,3920 712,3919 738,3919 764,3919 791,3919 817,3919 843,3920 870,3921 896,3922 922,3922 949,3922 975,3921 1001,3920 1028,3917 1054,3914 1081,3910 1190,3898 1317,3901 1445,3903 1572,3904 1700,3905 1828,3905 1955,3905 2083,3905 2211,3905 2338,3904 2466,3904 2594,3903 2721,3903 2849,3903 2977,3903 3104,3903 3232,3904 3360,3906 3487,3908 3615,3911 3743,3915"/>
+                <TextEquiv>
+                    <Unicode>Schamba. Las Dr. v. Staff's Separata u. habe wieder das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570538908395_552" custom="readingOrder {index:25;}">
+                <Coords points="617,4137 1182,4163 1318,4042 1829,4162 2419,4041 3225,4125 3872,4059 3871,3956 615,3932"/>
+                <Baseline points="639,4078 721,4075 804,4071 886,4069 969,4066 1051,4063 1134,4061 1216,4059 1299,4056 1381,4054 1464,4053 1547,4051 1629,4051 1712,4050 1794,4049 1877,4048 1959,4048 2042,4049 2124,4049 2207,4050 2290,4051 2318,4034 2394,4038 2471,4042 2547,4045 2624,4047 2701,4047 2777,4048 2854,4048 2930,4048 3007,4047 3084,4047 3160,4046 3237,4045 3313,4044 3390,4043 3467,4042 3543,4042 3620,4042 3696,4042 3773,4043 3850,4044"/>
+                <TextEquiv>
+                    <Unicode>Gefühl, daß ich mit ihm nicht konkurrieren kann. Ich redete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:26;}">
+                <Coords points="624,4225 2586,4298 2825,4181 3790,4288 3934,4107 2139,4060 1793,4164 1338,4055 1184,4163 623,4144"/>
+                <Baseline points="643,4213 806,4212 969,4211 1133,4210 1296,4208 1460,4206 1623,4204 1787,4201 1950,4199 2114,4197 2277,4195 2440,4193 2604,4192 2767,4192 2931,4192 3094,4192 3258,4194 3421,4196 3585,4200 3748,4205 3912,4211"/>
+                <TextEquiv>
+                    <Unicode>mir in Berlin ein, die Lage sei für geolog. Arbeiten zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:27;}">
+                <Coords points="607,4363 1005,4454 1399,4331 1767,4444 2474,4335 2907,4439 3040,4345 3794,4395 3657,4275 2835,4186 2376,4300 607,4217"/>
+                <Baseline points="626,4341 783,4343 940,4344 1097,4344 1255,4343 1412,4342 1569,4340 1726,4339 1884,4337 2041,4335 2198,4334 2355,4333 2513,4333 2670,4333 2827,4335 2984,4337 3142,4342 3299,4347 3456,4354 3613,4362 3771,4373"/>
+                <TextEquiv>
+                    <Unicode>ungünstig, jetzt sehe ich diese seine wirklich bedeutenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:28;} unclear {offset:49; length:3;}">
+                <Coords points="599,4526 3705,4544 3658,4437 3186,4371 1241,4356 1006,4451 599,4363"/>
+                <Baseline points="619,4513 772,4505 925,4498 1078,4492 1232,4487 1385,4483 1538,4480 1692,4477 1845,4476 1998,4475 2152,4474 2305,4475 2458,4476 2611,4477 2765,4479 2918,4481 3071,4483 3225,4486 3378,4488 3531,4491 3685,4494"/>
+                <TextEquiv>
+                    <Unicode>Arbeiten selbst über Gegenden, die er nicht nach den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:29;}">
+                <Coords points="593,4725 1389,4642 1677,4742 2254,4622 2431,4728 2862,4618 3694,4723 3839,4567 2347,4467 1796,4592 591,4524"/>
+                <Baseline points="615,4660 775,4657 935,4652 1095,4647 1255,4643 1415,4638 1575,4633 1735,4629 1895,4624 2055,4620 2215,4618 2375,4615 2535,4614 2695,4614 2855,4615 3015,4617 3175,4621 3335,4627 3495,4634 3655,4643 3816,4655"/>
+                <TextEquiv>
+                    <Unicode>Augenschein kennt. Er ist auf der Höhe in den großen Fort„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:30;}">
+                <Coords points="573,4901 1232,4827 1541,4923 1994,4796 2346,4913 3288,4816 3841,4906 4033,4810 4032,4660 3819,4752 572,4738"/>
+                <Baseline points="592,4826 771,4820 951,4814 1131,4809 1311,4804 1491,4800 1671,4796 1851,4794 2031,4791 2211,4789 2391,4788 2571,4788 2751,4787 2931,4788 3111,4788 3291,4790 3471,4791 3651,4793 3831,4796 4011,4799"/>
+                <TextEquiv>
+                    <Unicode>schritten, die die Geologie der ach so oft geschmähten Geographie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>143&#xD;
+20.VI: Janensch u. Staff kommen mittags zurück, ersterer weil in&#xD;
+Mchuya bisher wenig zu holen. Staff vom Fieber wieder her„&#xD;
+gestellt. Von Hrn. Furtwängler noch immer kein endgiltiger Bescheid.&#xD;
+21.VI. Janensch geht auf einige Tage nach Mtapaia u. Niongala,&#xD;
+dortige Knochenfunde zu besichtigen.&#xD;
+Mit Dr. v. Staff mehrfach Schach gespielt. Zu meinem Ent„&#xD;
+setzen fast regelmäßig verloren, obwohl er wenig bei der&#xD;
+Sache u. obwohl ich eigentlich nicht sagen kann, daß er besser&#xD;
+spielt, aber darauf kommt's schließlich im Kriege nicht an.&#xD;
+Durch gemeinsame Analyse kamen wir dahinter, daß ich alle&#xD;
+Kraft auf Mittelspiel u. Offiziere verlege, er aber es garnicht&#xD;
+dazu kommen läßt, sondern von Anfang an auf Bauern-&#xD;
+Endspiel ausgeht u. zu diesem Zweck schonungslos weg„&#xD;
+tauscht.&#xD;
+Ein Einschreibebrief für Furtwängler kommt aus Lindi hier&#xD;
+an, für uns wohl ein Zeichen, daß er mindestens die&#xD;
+Absicht hat zu kommen.&#xD;
+24.VI. Mittags Janensch zurück, Funde in Niongala gut.&#xD;
+Nach Tisch Poscho-Zahlung. Währenddessen kam Furtwängler&#xD;
+an. Also zu Viert am Tendaguru!&#xD;
+Sonntag d. 25.VI. Um uns mit genügend Fleisch zu&#xD;
+versehen, früh auf Jagd in dem niedrigen Gras längs&#xD;
+des Lipogiro, nichts gesehen; die Andern in der Gemüse-&#xD;
+Schamba. Las Dr. v. Staff's Separata u. habe wieder das&#xD;
+Gefühl, daß ich mit ihm nicht konkurrieren kann. Ich redete&#xD;
+mir in Berlin ein, die Lage sei für geolog. Arbeiten zu&#xD;
+ungünstig, jetzt sehe ich diese seine wirklich bedeutenden&#xD;
+Arbeiten selbst über Gegenden, die er nicht nach den&#xD;
+Augenschein kennt. Er ist auf der Höhe in den großen Fort„&#xD;
+schritten, die die Geologie der ach so oft geschmähten Geographie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

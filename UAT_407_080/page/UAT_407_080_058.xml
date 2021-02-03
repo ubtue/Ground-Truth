@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:55.772+02:00</Created>
+        <LastChange>2020-03-20T12:08:07.606+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550756" pageNr="58" tsid="25903450" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=ZLTKZODGQQJXVLICALDSGWQD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JMWSRGGYBRJGYLJTMJPUWUBP" imageId="4551634"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_058.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255548420" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582888371441_2122"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582888371441_2122" custom="readingOrder {index:0;}">
+            <Coords points="396,231 455,231 3972,304 3972,4463 435,4463 396,394"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="384,392 409,386 436,403 490,386 459,245 438,249 427,243 395,259 385,275 379,271 358,276"/>
+                <Baseline points="396,344 425,338 455,331 499,339"/>
+                <TextEquiv>
+                    <Unicode>54</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="461,439 3742,463 3740,323 3459,264 1447,240 460,364"/>
+                <Baseline points="483,413 644,411 806,407 968,405 1129,402 1291,399 1453,396 1614,393 1776,390 1938,388 2100,386 2261,384 2423,382 2585,381 2746,380 2908,380 3070,380 3231,381 3393,382 3555,384 3717,387"/>
+                <TextEquiv>
+                    <Unicode>nun warten, bis er selbst dazu gekommen ist; ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="437,610 951,573 1180,689 1328,564 1602,662 1916,531 3744,629 3818,496 3215,398 1934,496 1809,379 436,531"/>
+                <Baseline points="458,584 624,577 791,571 958,566 1125,560 1292,554 1459,549 1626,545 1793,541 1960,538 2127,535 2293,532 2460,531 2627,530 2794,531 2961,532 3128,534 3295,537 3462,541 3629,546 3796,552"/>
+                <TextEquiv>
+                    <Unicode>vermag nicht abzusehen, wann das sein kann. Und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="430,810 1702,725 2174,845 3709,703 3930,809 3927,643 3483,570 427,608"/>
+                <Baseline points="451,752 623,747 796,742 969,737 1142,732 1315,727 1487,722 1660,717 1833,712 2006,708 2179,705 2351,702 2524,699 2697,697 2870,696 3043,696 3215,696 3388,698 3561,701 3734,704 3907,709"/>
+                <TextEquiv>
+                    <Unicode>doch gäbe es so viel in Erfahrung zu bringen, so wenig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="423,951 3862,937 3858,717 421,832"/>
+                <Baseline points="444,926 613,917 783,910 953,904 1123,897 1293,892 1463,888 1632,883 1802,880 1972,877 2142,874 2312,872 2482,870 2652,869 2821,868 2991,868 3161,867 3331,867 3501,867 3671,868 3841,868"/>
+                <TextEquiv>
+                    <Unicode>im Lager zu versäumen, da wir zu zweit sind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888379659_2127" custom="readingOrder {index:5;}">
+                <Coords points="416,1215 999,1097 1220,1213 1495,1064 2019,1206 2285,1075 2502,1191 2650,1070 3073,1174 3757,1108 3755,972 3503,874 2596,1010 412,939"/>
+                <Baseline points="435,1106 513,1103 591,1100 669,1098 747,1095 825,1092 903,1089 982,1086 1060,1083 1138,1080 1216,1078 1294,1075 1372,1073 1450,1071 1529,1069 1607,1068 1685,1067 1763,1066 1841,1066 1919,1067 1998,1068 2178,1057 2255,1058 2333,1058 2411,1058 2489,1058 2566,1057 2644,1057 2722,1056 2800,1056 2877,1055 2955,1055 3033,1054 3111,1054 3188,1054 3266,1055 3344,1055 3422,1056 3499,1058 3577,1059 3655,1062 3733,1065"/>
+                <TextEquiv>
+                    <Unicode>Ich muß mich nun noch mehr zurückhalten u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="419,1427 1610,1268 2556,1348 2760,1242 3079,1354 3261,1235 3920,1278 3918,1155 3209,1083 2487,1200 2260,1087 2021,1211 1724,1064 1389,1212 414,1216"/>
+                <Baseline points="436,1314 609,1302 782,1292 955,1284 1128,1276 1301,1268 1474,1262 1648,1256 1821,1251 1994,1247 2167,1243 2340,1239 2513,1236 2686,1234 2860,1233 3033,1231 3206,1231 3379,1230 3552,1230 3725,1230 3899,1230"/>
+                <TextEquiv>
+                    <Unicode>gäbe so gern etwas Volldampf! Indessen kommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="440,1505 3764,1457 3804,1302 3037,1365 2802,1273 2264,1387 1651,1287 1509,1392 992,1285 438,1435"/>
+                <Baseline points="459,1484 625,1476 791,1468 957,1461 1123,1455 1290,1448 1456,1443 1622,1438 1788,1434 1954,1429 2121,1426 2287,1422 2453,1419 2619,1416 2785,1414 2952,1411 3118,1409 3284,1407 3450,1405 3616,1403 3783,1401"/>
+                <TextEquiv>
+                    <Unicode>wir als ruhige Naturen gut miteinander aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="439,1679 1029,1745 1474,1614 1688,1713 1960,1569 2183,1690 3996,1630 3991,1463 3181,1416 1415,1559 1289,1452 437,1600"/>
+                <Baseline points="460,1664 635,1652 811,1641 986,1630 1162,1620 1338,1610 1513,1601 1689,1593 1864,1585 2040,1579 2216,1572 2391,1567 2567,1563 2742,1560 2918,1558 3094,1557 3269,1557 3445,1559 3620,1561 3796,1565 3972,1570"/>
+                <TextEquiv>
+                    <Unicode>u. ich besonders fühle mich verpflichtet ferner darauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="436,1927 1635,1775 1858,1882 2219,1759 3364,1847 3692,1660 1235,1657 1019,1753 893,1669 431,1778"/>
+                <Baseline points="454,1833 623,1820 792,1809 962,1799 1131,1790 1301,1782 1470,1775 1639,1769 1809,1763 1978,1758 2148,1754 2317,1749 2487,1745 2656,1740 2825,1736 2995,1731 3164,1726 3334,1720 3503,1713 3673,1706"/>
+                <TextEquiv>
+                    <Unicode>zu halten. Ich will auch keineswegs seien großen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="439,2011 1117,2102 1795,1942 2864,2046 3939,1966 3935,1817 3693,1795 437,1923"/>
+                <Baseline points="462,2001 634,1994 807,1987 980,1981 1153,1976 1325,1971 1498,1967 1671,1964 1844,1961 2016,1958 2189,1955 2362,1952 2535,1950 2707,1947 2880,1944 3053,1940 3226,1936 3398,1931 3571,1926 3744,1920 3917,1913"/>
+                <TextEquiv>
+                    <Unicode>Verdienste schmälern, nur etwas raschere Tatkraft ihm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="419,2190 2152,2125 2364,2219 2543,2120 2782,2240 3136,2134 3348,2228 3883,2151 3881,2002 417,2098"/>
+                <Baseline points="439,2169 610,2163 781,2159 952,2154 1123,2148 1294,2143 1465,2139 1636,2135 1807,2130 1978,2127 2150,2124 2321,2121 2492,2120 2663,2118 2834,2118 3005,2118 3176,2119 3347,2122 3518,2124 3689,2128 3861,2134"/>
+                <TextEquiv>
+                    <Unicode>wünschen. Denn unser Unternehmen ist so ungewöhn„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="437,2415 3932,2333 3928,2162 3756,2144 434,2270"/>
+                <Baseline points="459,2352 631,2348 804,2343 976,2336 1149,2329 1321,2322 1494,2315 1666,2307 1839,2300 2011,2293 2184,2287 2356,2282 2529,2278 2701,2275 2874,2274 3046,2274 3219,2276 3391,2280 3564,2287 3736,2295 3909,2307"/>
+                <TextEquiv>
+                    <Unicode>lich großartig, daß nicht das Geringste ungetan blei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="422,2549 1676,2477 2017,2617 2493,2465 2917,2594 3087,2499 3601,2562 3765,2375 2427,2417 2241,2319 420,2457"/>
+                <Baseline points="443,2526 608,2516 773,2508 938,2501 1103,2494 1269,2489 1434,2484 1599,2481 1764,2477 1929,2474 2095,2472 2260,2470 2425,2469 2590,2468 2755,2467 2921,2467 3086,2467 3251,2467 3416,2467 3581,2466 3747,2466"/>
+                <TextEquiv>
+                    <Unicode>ben darf und - aufgeschoben kann hier so leicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="433,2788 606,2695 868,2794 1168,2677 1523,2660 1613,2719 1927,2659 2038,2704 2034,2520 1899,2594 1761,2518 1662,2591 1089,2525 1012,2593 892,2543 723,2618 427,2546"/>
+                <Baseline points="452,2671 530,2672 608,2671 686,2671 764,2669 842,2667 920,2665 998,2662 1076,2659 1154,2657 1232,2653 1310,2651 1388,2648 1466,2646 1544,2644 1622,2642 1700,2642 1778,2641 1856,2642 1934,2643 2013,2646"/>
+                <TextEquiv>
+                    <Unicode>zu aufgehoben werden!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;} textStyle {offset:41; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="631,2949 979,2997 1160,2864 1352,2982 1559,2854 2160,2812 3046,2929 3417,2819 3569,2924 3891,2811 3888,2718 3163,2702 2963,2593 2395,2736 626,2760"/>
+                <Baseline points="651,2889 811,2879 972,2870 1133,2861 1294,2853 1455,2845 1616,2837 1777,2830 1938,2825 2099,2818 2260,2814 2420,2810 2581,2806 2742,2804 2903,2802 3064,2800 3225,2800 3386,2801 3547,2803 3708,2806 3869,2809"/>
+                <TextEquiv>
+                    <Unicode>4. August. Wohl der erfolgreichste bisherige Tag unserer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="504,3100 3873,3062 3870,2961 3423,2847 3123,2966 2165,2809 1770,2821 1380,3008 501,2977"/>
+                <Baseline points="528,3097 702,3088 877,3079 1052,3070 1226,3061 1401,3054 1576,3045 1750,3038 1925,3031 2100,3025 2274,3019 2449,3014 2624,3010 2798,3007 2973,3004 3148,3003 3322,3002 3497,3002 3672,3003 3847,3005"/>
+                <TextEquiv>
+                    <Unicode>Grabungen. In Graben VII wird eine längere Schwanz„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="510,3305 1435,3243 1605,3339 1908,3210 2777,3177 3128,3310 3615,3294 3828,3076 743,3183 503,3103"/>
+                <Baseline points="530,3245 694,3248 858,3249 1022,3249 1186,3246 1350,3242 1514,3236 1678,3230 1842,3222 2006,3215 2170,3206 2334,3199 2498,3191 2662,3184 2826,3177 2990,3172 3154,3168 3318,3165 3482,3165 3646,3166 3810,3170"/>
+                <TextEquiv>
+                    <Unicode>wirbelsäule aufgedeckt u. erweckt beste Hoffnungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="501,3465 3776,3371 3664,3264 2056,3224 499,3355"/>
+                <Baseline points="523,3416 684,3411 845,3405 1007,3400 1168,3396 1330,3391 1491,3386 1653,3382 1814,3378 1976,3374 2137,3371 2298,3368 2460,3365 2621,3363 2783,3360 2944,3359 3106,3358 3267,3357 3429,3356 3590,3356 3752,3357"/>
+                <TextEquiv>
+                    <Unicode>auf ein „August-Skelett.“ In Graben II werden zwei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="485,3699 1219,3543 1933,3656 2211,3530 3325,3624 3884,3486 3732,3389 2558,3376 2271,3476 1443,3379 1319,3506 995,3409 479,3471"/>
+                <Baseline points="503,3576 670,3571 838,3565 1006,3559 1174,3553 1342,3547 1510,3541 1678,3535 1846,3530 2014,3524 2182,3519 2349,3514 2517,3510 2685,3506 2853,3502 3021,3499 3189,3497 3357,3495 3525,3494 3693,3494 3861,3494"/>
+                <TextEquiv>
+                    <Unicode>sehr gute u. interessante Extremitätenknochen gefunden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="516,3763 2375,3810 2514,3702 3721,3683 3719,3591 3499,3569 2165,3639 1597,3540 515,3679"/>
+                <Baseline points="537,3728 695,3724 853,3720 1011,3715 1169,3710 1327,3705 1485,3699 1643,3694 1801,3689 1959,3684 2117,3679 2275,3676 2433,3672 2591,3670 2749,3668 2907,3667 3065,3668 3223,3669 3381,3672 3539,3676 3697,3682"/>
+                <TextEquiv>
+                    <Unicode>bei Skelett B mehrere hübsche Zähne u. ein neuartiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="519,3946 2515,3857 2992,3957 3239,3837 3837,3841 3878,3700 516,3814"/>
+                <Baseline points="539,3896 713,3892 888,3888 1063,3884 1237,3880 1412,3876 1587,3871 1761,3867 1936,3863 2111,3859 2285,3855 2460,3851 2635,3847 2809,3843 2984,3839 3159,3836 3333,3832 3508,3830 3683,3827 3858,3824"/>
+                <TextEquiv>
+                    <Unicode>kurzer Oberschenkelknochen, in Graben VI auf der Nordseite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="477,4119 2763,3996 3438,4109 3716,3994 3714,3866 475,3996"/>
+                <Baseline points="497,4053 665,4046 833,4039 1002,4033 1170,4028 1338,4022 1507,4017 1675,4013 1843,4009 2012,4005 2180,4002 2349,3999 2517,3996 2685,3993 2854,3991 3022,3989 3190,3988 3359,3986 3527,3985 3696,3984"/>
+                <TextEquiv>
+                    <Unicode>ein gut erhaltener Wirbel u. andere kleinere Reste.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888392272_2132" custom="readingOrder {index:23;}">
+                <Coords points="1010,4442 1466,4513 1789,4375 3751,4389 3740,4161 3520,4145 3041,4260 2588,4153 2065,4256 1470,4222 1006,4354"/>
+                <Baseline points="1033,4423 1106,4421 1179,4417 1253,4413 1326,4408 1400,4403 1473,4398 1547,4391 1620,4385 1694,4379 1767,4372 1840,4366 1914,4360 1987,4354 2061,4349 2134,4344 2208,4340 2281,4336 2355,4333 2428,4331 2502,4330 2528,4346 2587,4340 2647,4335 2707,4330 2767,4327 2827,4324 2887,4322 2946,4321 3006,4319 3066,4318 3126,4317 3186,4316 3246,4315 3306,4313 3365,4312 3425,4310 3485,4306 3545,4304 3605,4299 3665,4294 3725,4288"/>
+                <TextEquiv>
+                    <Unicode>Die Zahnfunde bei Skelett S mehren sich täglich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>54&#xD;
+nun warten, bis er selbst dazu gekommen ist; ich&#xD;
+vermag nicht abzusehen, wann das sein kann. Und&#xD;
+doch gäbe es so viel in Erfahrung zu bringen, so wenig&#xD;
+im Lager zu versäumen, da wir zu zweit sind.&#xD;
+Ich muß mich nun noch mehr zurückhalten u.&#xD;
+gäbe so gern etwas Volldampf! Indessen kommen&#xD;
+wir als ruhige Naturen gut miteinander aus&#xD;
+u. ich besonders fühle mich verpflichtet ferner darauf&#xD;
+zu halten. Ich will auch keineswegs seien großen&#xD;
+Verdienste schmälern, nur etwas raschere Tatkraft ihm&#xD;
+wünschen. Denn unser Unternehmen ist so ungewöhn„&#xD;
+lich großartig, daß nicht das Geringste ungetan blei„&#xD;
+ben darf und - aufgeschoben kann hier so leicht&#xD;
+zu aufgehoben werden!&#xD;
+4. August. Wohl der erfolgreichste bisherige Tag unserer&#xD;
+Grabungen. In Graben VII wird eine längere Schwanz„&#xD;
+wirbelsäule aufgedeckt u. erweckt beste Hoffnungen&#xD;
+auf ein „August-Skelett.“ In Graben II werden zwei&#xD;
+sehr gute u. interessante Extremitätenknochen gefunden,&#xD;
+bei Skelett B mehrere hübsche Zähne u. ein neuartiger&#xD;
+kurzer Oberschenkelknochen, in Graben VI auf der Nordseite&#xD;
+ein gut erhaltener Wirbel u. andere kleinere Reste.&#xD;
+Die Zahnfunde bei Skelett S mehren sich täglich.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:55.678+02:00</Created>
+        <LastChange>2020-04-01T09:16:32.118+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550754" pageNr="56" tsid="26820434" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=CKTYJSETGXJIMXRUETLGDAFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXYDXNVNXQDIXBEDKVDKEXLT" imageId="4551632"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_056.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255548220" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582888036036_2079"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582888036036_2079" custom="readingOrder {index:0;}">
+            <Coords points="233,230 337,230 4029,320 4029,4826 437,4826 233,386"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="209,341 240,342 257,356 301,357 328,345 359,350 363,218 310,225 288,238 261,242 248,228 213,222"/>
+                <Baseline points="233,330 259,334 285,336 311,335 337,334"/>
+                <TextEquiv>
+                    <Unicode>52</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="565,482 1617,421 1758,522 1863,416 2286,415 2717,515 3060,403 3593,494 3870,326 2289,225 992,366 564,231"/>
+                <Baseline points="586,404 749,408 912,411 1075,412 1238,413 1401,413 1564,412 1728,411 1891,409 2054,407 2217,405 2380,403 2543,401 2706,400 2870,399 3033,399 3196,399 3359,401 3522,403 3685,407 3849,412"/>
+                <TextEquiv>
+                    <Unicode>Sprache immer noch wenig beherrscht, u. verurteilte zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="533,697 1658,562 2293,651 2781,547 2998,645 3141,538 3762,560 3760,406 3607,492 530,464"/>
+                <Baseline points="553,585 712,578 871,572 1031,567 1190,562 1350,557 1509,553 1668,550 1828,547 1987,545 2147,543 2306,541 2465,540 2625,539 2784,538 2944,537 3103,537 3262,537 3422,536 3581,536 3741,537"/>
+                <TextEquiv>
+                    <Unicode>Entlassung u. Prügel (eine Strafe, die mir zu Haus als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="540,767 968,839 1494,717 1654,812 2511,689 3049,791 3867,739 4050,595 1511,655 1315,539 539,696"/>
+                <Baseline points="560,736 733,730 906,724 1080,719 1253,714 1427,709 1600,705 1774,702 1947,699 2121,696 2294,694 2467,692 2641,690 2814,688 2988,687 3161,686 3335,684 3508,683 3682,682 3855,681 4029,679"/>
+                <TextEquiv>
+                    <Unicode>verabscheuenswürdiger Sadismus vorkam, hier aber etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="497,937 1066,989 1266,857 1650,943 2388,828 2795,957 3123,837 3314,948 3819,837 3671,708 3100,758 3005,667 2810,790 494,797"/>
+                <Baseline points="520,889 683,880 847,872 1011,865 1175,859 1339,853 1503,849 1666,844 1830,841 1994,838 2158,836 2322,834 2486,832 2650,830 2813,829 2977,828 3141,826 3305,825 3469,824 3633,822 3797,820"/>
+                <TextEquiv>
+                    <Unicode>Selbstverständliches, wenn auch unsrerseits nicht eben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="479,1153 1220,1021 1601,1133 1991,1020 2388,1114 2628,991 2864,1106 2989,993 3924,1051 3696,862 2791,953 2388,828 476,982"/>
+                <Baseline points="500,1060 678,1049 857,1040 1036,1031 1215,1024 1394,1017 1573,1011 1752,1005 1931,1001 2110,998 2288,995 2467,993 2646,991 2825,990 3004,990 3183,990 3362,990 3541,991 3720,992 3899,993"/>
+                <TextEquiv>
+                    <Unicode>gern Angewandtes ist). Damit hatte ich meine Befug„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888053407_2089" custom="readingOrder {index:6;}">
+                <Coords points="491,1272 3456,1159 3928,1283 3993,1093 956,1136 770,1045 490,1153"/>
+                <Baseline points="511,1197 682,1194 853,1190 1024,1187 1196,1183 1367,1180 1538,1177 1709,1174 1881,1171 2052,1168 2223,1166 2394,1164 2566,1162 2737,1161 2908,1160 3079,1160 3251,1160 3422,1161 3593,1163 3764,1165 3936,1168 3954,1224 3972,1225"/>
+                <TextEquiv>
+                    <Unicode>nisse überschritten u. Janensch unterließ auch verstän„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="471,1462 877,1350 1052,1469 1198,1337 1431,1472 2149,1307 2438,1436 2959,1298 3327,1412 3786,1285 3783,1188 1889,1155 1057,1306 466,1269"/>
+                <Baseline points="491,1380 654,1367 818,1357 982,1347 1145,1338 1309,1331 1473,1323 1636,1317 1800,1312 1964,1307 2128,1304 2291,1300 2455,1297 2619,1295 2782,1293 2946,1291 3110,1289 3273,1287 3437,1285 3601,1283 3765,1281"/>
+                <TextEquiv>
+                    <Unicode>digerweise nicht, mir das vorzuhalten. Ich fürchte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="451,1575 2225,1567 2513,1461 2639,1563 2794,1443 2978,1556 3336,1452 3630,1557 3834,1485 3829,1322 447,1452"/>
+                <Baseline points="471,1551 638,1542 805,1533 972,1525 1139,1516 1306,1508 1473,1501 1640,1494 1807,1487 1974,1481 2141,1475 2308,1470 2475,1465 2642,1461 2809,1458 2976,1454 3143,1451 3310,1449 3477,1448 3644,1447 3811,1446"/>
+                <TextEquiv>
+                    <Unicode>ich hätte es in ähnlicher Lage nicht fertig gebracht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="444,1734 820,1797 1370,1660 1955,1760 2909,1592 3112,1731 3592,1601 3943,1695 3936,1480 3631,1560 3297,1452 3137,1559 2421,1480 1545,1615 439,1589"/>
+                <Baseline points="467,1714 639,1705 812,1695 984,1685 1157,1675 1330,1665 1502,1655 1675,1645 1847,1637 2020,1628 2193,1621 2365,1615 2538,1609 2710,1605 2883,1602 3056,1600 3228,1601 3401,1603 3573,1607 3746,1613 3919,1621"/>
+                <TextEquiv>
+                    <Unicode>Da ich mein Unrecht ohne Weiteres einsah, stand ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="463,1934 1345,1850 1639,1975 2343,1794 3193,1786 3848,1911 3970,1868 3965,1687 459,1807"/>
+                <Baseline points="483,1866 656,1864 829,1861 1002,1856 1175,1851 1348,1845 1521,1839 1694,1832 1867,1825 2040,1817 2214,1811 2387,1804 2560,1799 2733,1794 2906,1791 3079,1789 3252,1788 3425,1789 3598,1793 3771,1799 3945,1807"/>
+                <TextEquiv>
+                    <Unicode>nicht an um Verzeihung zu bitten. Der Urteilsspruch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="468,2079 1063,2121 1408,2011 1679,2110 2072,1989 2299,2089 3049,1946 3330,2084 3534,1973 3869,2018 3729,1858 3054,1819 465,1960"/>
+                <Baseline points="491,2052 658,2045 826,2037 994,2028 1162,2020 1329,2013 1497,2004 1665,1997 1833,1989 2000,1983 2168,1977 2336,1972 2504,1968 2671,1964 2839,1963 3007,1962 3175,1962 3342,1965 3510,1968 3678,1974 3846,1981"/>
+                <TextEquiv>
+                    <Unicode>wäre auch J's Hand nicht anders ausgefallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="468,2215 1065,2295 1734,2135 2059,2262 2843,2112 3014,2235 3331,2102 3654,2142 3548,1973 3348,2067 3090,1986 464,2083"/>
+                <Baseline points="489,2197 646,2191 803,2185 960,2179 1117,2173 1274,2167 1431,2161 1588,2156 1745,2150 1902,2144 2060,2139 2217,2134 2374,2130 2531,2126 2688,2123 2845,2119 3002,2117 3159,2115 3316,2114 3473,2114 3631,2114"/>
+                <TextEquiv>
+                    <Unicode>u. dadurch hatte ich mich verleiten lassen. Nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="504,2441 2454,2301 2823,2408 2969,2284 3892,2355 3886,2197 3016,2234 2739,2133 1723,2286 498,2278"/>
+                <Baseline points="525,2372 692,2367 859,2361 1026,2355 1193,2348 1360,2341 1527,2333 1694,2326 1861,2318 2028,2311 2195,2304 2362,2298 2529,2291 2696,2287 2863,2282 3030,2278 3197,2275 3364,2274 3531,2274 3698,2275 3866,2278"/>
+                <TextEquiv>
+                    <Unicode>sollte Dr. Janensch als oberster Richter, wenn auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="473,2534 2310,2587 2843,2439 3304,2566 3752,2539 3912,2394 2937,2301 2825,2405 2497,2306 1857,2430 470,2389"/>
+                <Baseline points="493,2508 662,2503 832,2499 1002,2494 1172,2489 1342,2484 1511,2480 1681,2476 1851,2471 2021,2468 2191,2464 2360,2459 2530,2456 2700,2453 2870,2450 3040,2447 3209,2444 3379,2442 3549,2440 3719,2439 3889,2438"/>
+                <TextEquiv>
+                    <Unicode>nicht d. Verhandlung selbst führen, so doch ihr mög„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="445,2782 945,2683 1203,2801 1504,2658 2272,2757 2771,2623 3007,2764 3238,2631 3548,2752 3873,2701 3870,2552 3661,2477 2260,2599 933,2512 443,2650"/>
+                <Baseline points="465,2701 634,2693 803,2685 972,2678 1141,2671 1311,2666 1480,2660 1649,2655 1818,2650 1987,2646 2157,2642 2326,2639 2495,2636 2664,2634 2833,2632 3003,2630 3172,2629 3341,2629 3510,2629 3679,2629 3849,2630"/>
+                <TextEquiv>
+                    <Unicode>lichst beiwohnen oder wenigstens nicht, wie heut,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="453,2927 2876,2824 3292,2934 3545,2814 4017,2879 4013,2663 3777,2770 2507,2664 450,2817"/>
+                <Baseline points="475,2893 651,2884 827,2874 1003,2866 1179,2857 1355,2849 1531,2841 1707,2833 1883,2827 2059,2821 2235,2816 2411,2812 2587,2809 2763,2807 2939,2806 3115,2806 3291,2808 3467,2812 3643,2817 3819,2824 3995,2832"/>
+                <TextEquiv>
+                    <Unicode>mitten darin davongehen u. dadurch d. Anschein der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="453,3116 811,3174 1292,3044 1461,3137 1595,3015 1932,3122 2325,2994 3341,3113 3765,3011 3762,2879 448,2926"/>
+                <Baseline points="474,3069 637,3057 801,3046 964,3036 1128,3027 1291,3019 1455,3013 1618,3007 1782,3001 1945,2997 2109,2994 2272,2991 2436,2989 2599,2987 2763,2986 2926,2986 3090,2986 3253,2986 3417,2987 3580,2988 3744,2989"/>
+                <TextEquiv>
+                    <Unicode>Interesselosigkeit hervorrufen, der vielleicht auch bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="416,3275 3963,3178 3827,3040 3272,3004 2860,3106 1310,3052 415,3204"/>
+                <Baseline points="437,3246 612,3232 787,3219 962,3208 1137,3196 1313,3187 1488,3178 1663,3170 1838,3163 2013,3158 2189,3153 2364,3150 2539,3147 2714,3146 2889,3146 3065,3147 3240,3149 3415,3153 3590,3157 3765,3162 3941,3169"/>
+                <TextEquiv>
+                    <Unicode>meinem Verhalten mitsprach. Indessen ich habe ihm von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="439,3466 859,3499 1167,3362 1993,3450 2245,3324 2905,3455 3253,3318 3941,3365 3938,3250 3298,3180 436,3334"/>
+                <Baseline points="460,3416 632,3405 805,3394 978,3383 1151,3374 1324,3365 1497,3357 1669,3349 1842,3343 2015,3337 2188,3331 2361,3327 2534,3323 2707,3320 2879,3318 3052,3317 3225,3316 3398,3316 3571,3317 3744,3319 3917,3322"/>
+                <TextEquiv>
+                    <Unicode>anfang an versprochen, seine Leiterschaft stets anzuer„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="422,3623 1027,3563 1238,3675 1819,3523 2645,3619 3085,3472 3420,3606 3977,3539 3972,3402 3622,3317 3282,3426 3125,3338 416,3465"/>
+                <Baseline points="443,3590 618,3581 794,3572 969,3562 1145,3553 1321,3544 1496,3534 1672,3526 1847,3517 2023,3510 2199,3502 2374,3497 2550,3491 2725,3486 2901,3482 3077,3479 3252,3477 3428,3477 3603,3478 3779,3480 3955,3483"/>
+                <TextEquiv>
+                    <Unicode>kennen u. halte das natürlich auch jetzt noch für das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="449,3878 1250,3724 1456,3832 1726,3726 1979,3810 2443,3702 2600,3812 3979,3683 3820,3529 3452,3612 3255,3508 2493,3635 2001,3532 1222,3690 441,3627"/>
+                <Baseline points="467,3759 641,3755 815,3750 990,3745 1164,3739 1339,3733 1513,3726 1687,3720 1862,3713 2036,3707 2211,3699 2385,3693 2559,3687 2734,3681 2908,3675 3083,3670 3257,3666 3431,3662 3606,3659 3780,3657 3955,3656"/>
+                <TextEquiv>
+                    <Unicode>Gegebene u. unserer Sache Dienlichste. Freilich werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="501,3964 1141,4017 2307,3849 2764,3957 3358,3814 3925,3900 3874,3708 497,3850"/>
+                <Baseline points="521,3921 689,3918 858,3913 1027,3908 1196,3902 1365,3896 1534,3889 1703,3882 1872,3875 2041,3867 2210,3861 2378,3853 2547,3847 2716,3841 2885,3835 3054,3831 3223,3827 3392,3824 3561,3822 3730,3822 3899,3822"/>
+                <TextEquiv>
+                    <Unicode>mir dadurch ein wenig die Hände gebunden u. mei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="437,4121 1095,4179 1425,4045 1565,4151 1851,4018 2273,4132 2854,3986 3797,4013 3838,3906 2756,3958 2308,3849 2056,3959 433,4011"/>
+                <Baseline points="457,4086 625,4079 793,4070 961,4062 1129,4055 1297,4047 1465,4040 1633,4033 1801,4026 1969,4020 2137,4014 2305,4009 2473,4004 2641,3999 2809,3995 2977,3991 3145,3988 3313,3986 3481,3984 3649,3983 3817,3982"/>
+                <TextEquiv>
+                    <Unicode>ne Unternehmungslust gelähmt, auch da wo ich der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="433,4303 3807,4177 3801,4037 3367,3975 2781,4088 2016,4119 1831,4012 1589,4141 426,4123"/>
+                <Baseline points="453,4249 619,4239 785,4229 952,4220 1118,4211 1284,4201 1451,4192 1617,4184 1783,4176 1950,4168 2116,4161 2282,4153 2449,4147 2615,4141 2781,4135 2948,4130 3114,4126 3280,4123 3447,4120 3613,4118 3780,4116"/>
+                <TextEquiv>
+                    <Unicode>Expedition mehr leisten zu können glaube. Denn ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="443,4466 3944,4332 3814,4175 2620,4273 2290,4181 440,4391"/>
+                <Baseline points="463,4444 635,4431 808,4418 981,4405 1154,4394 1327,4383 1499,4373 1672,4363 1845,4354 2018,4346 2191,4337 2363,4331 2536,4324 2709,4319 2882,4314 3055,4310 3227,4306 3400,4304 3573,4302 3746,4301 3919,4300"/>
+                <TextEquiv>
+                    <Unicode>bemerkte bald an Janensch eine auffallende Un„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="440,4674 982,4552 1413,4672 1915,4542 2394,4621 2535,4514 2988,4611 3962,4512 3957,4384 3559,4333 434,4520"/>
+                <Baseline points="459,4599 633,4588 807,4578 981,4567 1155,4558 1329,4550 1503,4541 1677,4534 1851,4527 2025,4520 2199,4513 2373,4507 2547,4501 2721,4495 2895,4490 3069,4485 3243,4480 3417,4474 3591,4470 3765,4465 3939,4460"/>
+                <TextEquiv>
+                    <Unicode>fähigkeit in Entschlüssen. Wie oft lege ich ihm nahe die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="451,4871 979,4757 1850,4840 2044,4726 2599,4823 3011,4669 3425,4789 3953,4661 3489,4513 2899,4625 2613,4522 2283,4646 1917,4542 1720,4669 446,4743"/>
+                <Baseline points="471,4787 644,4779 817,4771 990,4762 1163,4753 1336,4744 1509,4735 1682,4726 1855,4717 2028,4708 2202,4700 2375,4692 2548,4685 2721,4678 2894,4672 3067,4667 3240,4664 3413,4660 3586,4658 3759,4657 3933,4658"/>
+                <TextEquiv>
+                    <Unicode>Knochen im Graben abheben zu lassen u. zu signieren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>52&#xD;
+Sprache immer noch wenig beherrscht, u. verurteilte zu&#xD;
+Entlassung u. Prügel (eine Strafe, die mir zu Haus als&#xD;
+verabscheuenswürdiger Sadismus vorkam, hier aber etwas&#xD;
+Selbstverständliches, wenn auch unsrerseits nicht eben&#xD;
+gern Angewandtes ist). Damit hatte ich meine Befug„&#xD;
+nisse überschritten u. Janensch unterließ auch verstän„&#xD;
+digerweise nicht, mir das vorzuhalten. Ich fürchte,&#xD;
+ich hätte es in ähnlicher Lage nicht fertig gebracht.&#xD;
+Da ich mein Unrecht ohne Weiteres einsah, stand ich&#xD;
+nicht an um Verzeihung zu bitten. Der Urteilsspruch&#xD;
+wäre auch J's Hand nicht anders ausgefallen&#xD;
+u. dadurch hatte ich mich verleiten lassen. Nur&#xD;
+sollte Dr. Janensch als oberster Richter, wenn auch&#xD;
+nicht d. Verhandlung selbst führen, so doch ihr mög„&#xD;
+lichst beiwohnen oder wenigstens nicht, wie heut,&#xD;
+mitten darin davongehen u. dadurch d. Anschein der&#xD;
+Interesselosigkeit hervorrufen, der vielleicht auch bei&#xD;
+meinem Verhalten mitsprach. Indessen ich habe ihm von&#xD;
+anfang an versprochen, seine Leiterschaft stets anzuer„&#xD;
+kennen u. halte das natürlich auch jetzt noch für das&#xD;
+Gegebene u. unserer Sache Dienlichste. Freilich werden&#xD;
+mir dadurch ein wenig die Hände gebunden u. mei„&#xD;
+ne Unternehmungslust gelähmt, auch da wo ich der&#xD;
+Expedition mehr leisten zu können glaube. Denn ich&#xD;
+bemerkte bald an Janensch eine auffallende Un„&#xD;
+fähigkeit in Entschlüssen. Wie oft lege ich ihm nahe die&#xD;
+Knochen im Graben abheben zu lassen u. zu signieren,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:15.013+02:00</Created>
+        <LastChange>2020-04-02T08:58:40.327+02:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581497" pageNr="49" tsid="26873341" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=XBDVKOQKIANEODJBOHDDDPOR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZYVZTLGUKKUNFJKYSKCHZJH" imageId="4579386"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_49.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255753615" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:0;}">
+            <Coords points="292,272 292,4656 4046,4656 4046,272"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="3638,379 3675,379 3685,388 3717,379 3740,393 3792,370 3820,394 3847,394 3848,245 3815,245 3806,254 3755,244 3732,221 3690,244 3639,235"/>
+                <Baseline points="3663,332 3690,334 3717,334 3744,333 3771,332 3798,333 3825,336"/>
+                <TextEquiv>
+                    <Unicode>47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="274,784 3928,729 3928,599 2700,530 2350,644 275,598"/>
+                <Baseline points="300,692 480,692 660,693 840,694 1021,696 1201,698 1381,700 1562,702 1742,705 1922,707 2103,709 2283,712 2463,713 2643,715 2824,715 3004,715 3184,715 3365,714 3545,712 3725,708 3906,705"/>
+                <TextEquiv>
+                    <Unicode>pis pour moi! Ob ich den Monumentalkirchhof schon besucht hätte? Noch nicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:2;}">
+                <Coords points="267,848 4028,896 4028,775 3772,704 268,778"/>
+                <Baseline points="292,821 477,821 663,821 848,822 1034,822 1220,823 1405,823 1591,824 1776,824 1962,825 2148,825 2333,826 2519,826 2704,827 2890,827 3076,828 3261,829 3447,829 3632,830 3818,831 4004,832"/>
+                <TextEquiv>
+                    <Unicode>Ob es mir recht sei, wenn er mitkäme? Ich müsse erst zu Cook, Geldwechseln</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:3;}">
+                <Coords points="289,941 3449,1007 4044,985 4059,861 289,872"/>
+                <Baseline points="314,915 500,919 686,923 872,926 1058,928 1244,929 1430,931 1616,931 1802,932 1988,932 2175,932 2361,932 2547,932 2733,932 2919,932 3105,933 3291,934 3477,935 3663,937 3849,940 4039,944"/>
+                <TextEquiv>
+                    <Unicode>u. s. w. u. wolle ihn nicht aufhalten. Er zeigte mir ein gutes nahe gelegenes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:4;}">
+                <Coords points="275,1076 3928,1082 3928,961 3593,927 275,941"/>
+                <Baseline points="300,1020 480,1031 660,1039 840,1046 1021,1050 1201,1053 1381,1055 1562,1055 1742,1055 1922,1054 2103,1052 2283,1051 2463,1049 2643,1048 2824,1047 3004,1047 3184,1048 3365,1050 3545,1054 3725,1059 3906,1066"/>
+                <TextEquiv>
+                    <Unicode>Wechselgeschäft, dann fuhren wir zusammen in d. Elektrischen zum Kirchhof.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:5;}">
+                <Coords points="288,1210 3908,1254 3811,1064 288,1126"/>
+                <Baseline points="309,1186 487,1187 666,1188 845,1189 1024,1190 1202,1191 1381,1192 1560,1192 1739,1193 1917,1193 2096,1193 2275,1193 2454,1193 2632,1193 2811,1193 2990,1192 3169,1192 3347,1191 3526,1190 3705,1189 3884,1187"/>
+                <TextEquiv>
+                    <Unicode>Er wollte einen Führer nehmen, ich ließ mich beschwatzen, Kostenpunkt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l7" custom="readingOrder {index:6;}">
+                <Coords points="313,1340 3585,1379 3859,1336 3859,1229 313,1266"/>
+                <Baseline points="338,1306 513,1309 688,1312 863,1313 1038,1315 1213,1316 1388,1316 1563,1317 1738,1317 1913,1316 2088,1316 2263,1315 2438,1314 2613,1313 2788,1312 2963,1311 3138,1311 3313,1310 3488,1309 3663,1309 3838,1309"/>
+                <TextEquiv>
+                    <Unicode>laut Baedecker 1,50 Lre über meine Verhältnisse bei solchem Ergebnis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l8" custom="readingOrder {index:7;}">
+                <Coords points="329,1467 3903,1413 329,1337"/>
+                <Baseline points="350,1404 526,1409 702,1413 879,1418 1055,1421 1232,1425 1408,1428 1584,1430 1761,1432 1937,1434 2114,1435 2290,1436 2466,1436 2643,1435 2819,1435 2996,1433 3172,1431 3348,1428 3525,1426 3701,1422 3878,1417 3912,1433"/>
+                <TextEquiv>
+                    <Unicode>Nachher wollte er Kaffee trinken, ich lehnte ab, wollte das „Abend„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:8;}">
+                <Coords points="337,1592 3949,1639 3949,1467 3288,1424 338,1499"/>
+                <Baseline points="360,1547 538,1548 716,1550 894,1551 1073,1552 1251,1553 1429,1554 1608,1555 1786,1556 1964,1556 2143,1557 2321,1557 2499,1557 2677,1557 2856,1557 3034,1557 3212,1556 3391,1555 3569,1553 3747,1552 3926,1550"/>
+                <TextEquiv>
+                    <Unicode>mahl besichtigen. Er wolle auch dorthin, müsse aber austreten, ich möchte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:9;}">
+                <Coords points="340,1709 3239,1777 3849,1639 992,1548 340,1644"/>
+                <Baseline points="364,1684 537,1682 710,1680 883,1679 1056,1678 1229,1678 1402,1677 1575,1678 1748,1678 1921,1678 2094,1679 2267,1680 2440,1681 2613,1682 2786,1683 2959,1684 3132,1685 3305,1686 3478,1687 3651,1688 3824,1688"/>
+                <TextEquiv>
+                    <Unicode>doch einen Augenblick in einem Kafe Platz nehmen. Dort mischte sich in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:10;}">
+                <Coords points="348,1895 3899,1835 3783,1719 349,1765"/>
+                <Baseline points="374,1816 549,1817 724,1819 899,1821 1074,1823 1249,1825 1424,1826 1599,1828 1774,1829 1949,1830 2125,1831 2300,1831 2475,1832 2650,1832 2825,1832 3000,1831 3175,1830 3350,1829 3525,1827 3700,1825 3876,1822"/>
+                <TextEquiv>
+                    <Unicode>unsere Unterhaltung ein andrer Landsmann ein, Kaufmann Jansen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l12" custom="readingOrder {index:11;}">
+                <Coords points="364,1965 3700,2041 3900,2014 3901,1869 364,1909"/>
+                <Baseline points="387,1948 561,1950 736,1952 910,1952 1085,1953 1259,1953 1434,1953 1608,1952 1783,1952 1957,1951 2132,1951 2306,1951 2481,1950 2655,1951 2830,1951 3004,1952 3179,1953 3353,1955 3528,1958 3702,1961 3877,1966"/>
+                <TextEquiv>
+                    <Unicode>aus Köln (Konserven für holländer Firma), der erste war Ingenieur Meyer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:12;}">
+                <Coords points="355,2154 3878,2091 3878,2003 3152,1952 355,1996"/>
+                <Baseline points="379,2077 552,2073 726,2070 900,2067 1074,2064 1248,2062 1422,2060 1596,2059 1770,2058 1944,2058 2118,2058 2291,2058 2465,2058 2639,2059 2813,2060 2987,2062 3161,2063 3335,2065 3509,2067 3683,2070 3857,2072"/>
+                <TextEquiv>
+                    <Unicode>für Kalkutta. Wir verließen das Lokal zu dritt. Es war nun am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:13;}">
+                <Coords points="357,2279 4038,2243 3893,2086 356,2153"/>
+                <Baseline points="381,2194 562,2195 744,2196 926,2196 1108,2196 1289,2195 1471,2194 1653,2192 1835,2190 2016,2188 2198,2187 2380,2185 2562,2184 2743,2183 2925,2182 3107,2182 3289,2183 3470,2185 3652,2187 3834,2191 4016,2196"/>
+                <TextEquiv>
+                    <Unicode>frühen Nachmittag schon zu finster für Bilderbesichtigung, das trübselige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:14;}">
+                <Coords points="348,2402 2455,2300 3424,2387 3776,2271 2975,2182 346,2295"/>
+                <Baseline points="370,2335 539,2333 708,2331 877,2327 1046,2324 1215,2320 1384,2315 1554,2311 1723,2307 1892,2303 2061,2299 2230,2296 2399,2294 2568,2292 2738,2292 2907,2292 3076,2294 3245,2297 3414,2302 3583,2309 3753,2317"/>
+                <TextEquiv>
+                    <Unicode>Hotelsitzen u. Zeitungslesen zum Zeitvertreib ist mir auf der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l16" custom="readingOrder {index:15;}">
+                <Coords points="362,2484 2815,2550 3676,2463 3629,2370 362,2386"/>
+                <Baseline points="385,2467 548,2466 711,2466 875,2466 1038,2466 1202,2466 1365,2467 1528,2467 1692,2467 1855,2467 2019,2467 2182,2467 2345,2466 2509,2465 2672,2465 2836,2463 2999,2461 3162,2459 3326,2457 3489,2454 3653,2450"/>
+                <TextEquiv>
+                    <Unicode>Reise doppelt unsympathisch, deshalb ging ich gern in einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l17" custom="readingOrder {index:16;}">
+                <Coords points="400,2663 3309,2665 3899,2593 3897,2403 3284,2535 399,2542"/>
+                <Baseline points="423,2608 595,2606 768,2604 940,2602 1113,2601 1286,2599 1458,2599 1631,2598 1803,2597 1976,2596 2149,2595 2321,2594 2494,2593 2666,2591 2839,2589 3012,2586 3184,2583 3357,2579 3529,2574 3702,2569 3875,2562"/>
+                <TextEquiv>
+                    <Unicode>kleinen echt-italienischen Weinkeller. Der Ingenieur erzählte von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l18" custom="readingOrder {index:17;} textStyle {offset:21; length:2;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="396,2816 1125,2709 3331,2693 3523,2788 3903,2621 394,2662"/>
+                <Baseline points="417,2738 590,2733 763,2728 936,2725 1109,2722 1283,2720 1456,2719 1629,2718 1802,2717 1975,2717 2149,2716 2322,2715 2495,2715 2668,2713 2841,2711 3015,2708 3188,2705 3361,2700 3534,2694 3707,2688 3881,2679"/>
+                <TextEquiv>
+                    <Unicode>seinen Reisen, auch Mte Carlo, der Kaufmann wollte dorthin u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l19" custom="readingOrder {index:18;}">
+                <Coords points="384,2890 2920,2813 3293,2911 3939,2852 3937,2694 1126,2709 383,2825"/>
+                <Baseline points="409,2866 584,2860 759,2853 935,2847 1110,2842 1286,2837 1461,2833 1636,2829 1812,2826 1987,2823 2163,2821 2338,2819 2513,2818 2689,2817 2864,2816 3040,2816 3215,2817 3390,2818 3566,2819 3741,2821 3917,2823"/>
+                <TextEquiv>
+                    <Unicode>ließ sich die verschiedenen Spiele u. Klubs erklären. Ein Karten„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l20" custom="readingOrder {index:19;}">
+                <Coords points="354,3086 1089,2971 3821,2993 3819,2868 3433,2834 353,2928"/>
+                <Baseline points="378,3007 549,2996 720,2987 891,2979 1062,2973 1233,2967 1404,2962 1575,2959 1746,2956 1917,2954 2088,2952 2259,2952 2430,2951 2601,2952 2772,2952 2943,2953 3114,2954 3285,2956 3456,2957 3627,2958 3799,2959"/>
+                <TextEquiv>
+                    <Unicode>spiel ließ er sich vormachen (rouge et noir). Wollen wir's mal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l21" custom="readingOrder {index:20;}">
+                <Coords points="360,3191 3612,3138 3900,3091 3898,2965 358,3084"/>
+                <Baseline points="381,3131 555,3125 730,3119 905,3114 1079,3109 1254,3105 1429,3100 1603,3097 1778,3093 1953,3090 2128,3087 2302,3084 2477,3081 2652,3079 2826,3077 3001,3075 3176,3073 3350,3071 3525,3069 3700,3067 3875,3065"/>
+                <TextEquiv>
+                    <Unicode>probieren? Es war mir langweilig, aber ich fand wieder das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l22" custom="readingOrder {index:21;}">
+                <Coords points="393,3286 3836,3245 3654,3112 392,3165"/>
+                <Baseline points="414,3252 592,3251 771,3250 950,3249 1129,3248 1308,3246 1487,3244 1666,3242 1845,3240 2024,3238 2202,3235 2381,3233 2560,3231 2739,3229 2918,3227 3097,3225 3276,3224 3455,3222 3634,3221 3813,3221"/>
+                <TextEquiv>
+                    <Unicode>Nein nicht. Preis die gemeinsame Weinkanne. Das war mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l23" custom="readingOrder {index:22;}">
+                <Coords points="385,3422 3889,3376 3888,3279 3371,3232 384,3287"/>
+                <Baseline points="410,3380 582,3376 755,3372 928,3369 1101,3366 1274,3363 1447,3361 1619,3359 1792,3358 1965,3357 2138,3356 2311,3355 2484,3354 2657,3354 2829,3353 3002,3352 3175,3352 3348,3351 3521,3350 3694,3349 3867,3348"/>
+                <TextEquiv>
+                    <Unicode>lieb, um mich von Fremden nicht einladen zu lassen. Es war</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l24" custom="readingOrder {index:23;}">
+                <Coords points="362,3588 1567,3480 3754,3566 3824,3380 362,3439"/>
+                <Baseline points="386,3507 556,3500 727,3494 898,3490 1069,3486 1239,3483 1410,3482 1581,3481 1752,3480 1922,3481 2093,3481 2264,3482 2435,3484 2605,3485 2776,3486 2947,3488 3118,3489 3288,3490 3459,3491 3630,3491 3801,3490"/>
+                <TextEquiv>
+                    <Unicode>schon gegeben, da warf der Kaufmann hin „ein kleiner Anreiz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l25" custom="readingOrder {index:24;}">
+                <Coords points="398,3674 3735,3688 3804,3548 397,3563"/>
+                <Baseline points="423,3625 590,3623 758,3622 926,3620 1094,3619 1262,3618 1430,3617 1598,3616 1766,3615 1934,3615 2102,3614 2269,3613 2437,3613 2605,3612 2773,3611 2941,3610 3109,3609 3277,3608 3445,3606 3613,3604 3781,3602"/>
+                <TextEquiv>
+                    <Unicode>muß doch sein“. Und binnen nicht allzulanger Zeit hatte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l26" custom="readingOrder {index:25;}">
+                <Coords points="397,3837 3068,3726 3952,3828 4068,3669 1019,3615 396,3716"/>
+                <Baseline points="418,3768 599,3764 780,3759 962,3755 1143,3751 1325,3747 1506,3744 1687,3741 1869,3738 2050,3736 2232,3735 2413,3734 2594,3733 2776,3734 2957,3734 3139,3736 3320,3738 3501,3741 3683,3744 3864,3749 4046,3754"/>
+                <TextEquiv>
+                    <Unicode>mittels Streichhölzer zu meinem Entsetzen 300 M. verloren, meine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l27" custom="readingOrder {index:26;}">
+                <Coords points="420,3966 1861,3859 3724,3953 3983,3811 418,3826"/>
+                <Baseline points="442,3902 617,3894 793,3886 969,3880 1145,3873 1321,3869 1497,3865 1672,3861 1848,3859 2024,3857 2200,3856 2376,3855 2552,3854 2728,3854 2903,3855 3079,3855 3255,3856 3431,3857 3607,3859 3783,3860 3959,3861"/>
+                <TextEquiv>
+                    <Unicode>ganze Habe. Ich mußte den Kaufmann sogar für heut anpumpen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l28" custom="readingOrder {index:27;}">
+                <Coords points="423,4054 3323,4070 3825,4019 3884,3907 422,3971"/>
+                <Baseline points="445,4018 615,4012 786,4006 957,4001 1128,3996 1299,3993 1469,3990 1640,3988 1811,3987 1982,3985 2153,3985 2323,3984 2494,3983 2665,3983 2836,3983 3007,3982 3177,3982 3348,3981 3519,3980 3690,3979 3861,3977"/>
+                <TextEquiv>
+                    <Unicode>u. wollte ihn morgen in Lugano - auch dort diese Gesellschaft? -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l29" custom="readingOrder {index:28;}">
+                <Coords points="419,4155 3938,4145 3936,4024 3521,3983 418,4048"/>
+                <Baseline points="444,4145 617,4138 791,4132 964,4127 1138,4123 1311,4119 1485,4116 1658,4113 1832,4111 2005,4108 2179,4107 2353,4105 2526,4104 2700,4102 2873,4101 3047,4099 3220,4098 3394,4096 3567,4094 3741,4092 3915,4089"/>
+                <TextEquiv>
+                    <Unicode>wieder treffen. Keinen Augenblick kam mir ein Zweifel an der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l30" custom="readingOrder {index:29;}">
+                <Coords points="413,4259 3782,4256 3660,4127 412,4217"/>
+                <Baseline points="435,4261 601,4262 767,4262 933,4261 1099,4260 1265,4258 1431,4255 1597,4252 1763,4249 1929,4246 2096,4243 2262,4240 2428,4238 2594,4236 2760,4234 2926,4233 3092,4233 3258,4233 3424,4235 3590,4238 3757,4242"/>
+                <TextEquiv>
+                    <Unicode>Gentleman-Natur der Beiden, wieder ein böses Zeichen für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l31" custom="readingOrder {index:30;}">
+                <Coords points="444,4391 3357,4411 3915,4390 3915,4278 443,4284"/>
+                <Baseline points="465,4367 636,4367 807,4365 978,4364 1150,4362 1321,4359 1492,4357 1663,4355 1835,4352 2006,4350 2177,4348 2348,4346 2520,4344 2691,4344 2862,4343 3033,4344 3205,4345 3376,4348 3547,4351 3718,4355 3890,4361"/>
+                <TextEquiv>
+                    <Unicode>meinen Mangel an Lebensschliff, ich gab sogar meine Visitenkarte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l32" custom="readingOrder {index:31;}">
+                <Coords points="433,4491 3956,4560 3859,4373 434,4394"/>
+                <Baseline points="459,4479 632,4477 806,4475 980,4473 1154,4472 1327,4470 1501,4469 1675,4467 1849,4467 2022,4466 2196,4466 2370,4466 2544,4466 2717,4467 2891,4468 3065,4470 3239,4472 3412,4475 3586,4478 3760,4481 3934,4486"/>
+                <TextEquiv>
+                    <Unicode>Ich wüßte auch nicht, wie Betrug durch Kartenzeichnen möglich gewe„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l33" custom="readingOrder {index:32;}">
+                <Coords points="435,4682 1324,4595 1477,4707 2957,4705 4000,4567 1501,4470 435,4580"/>
+                <Baseline points="460,4620 635,4615 811,4612 987,4608 1163,4605 1339,4602 1515,4600 1691,4598 1867,4597 2043,4597 2219,4597 2394,4597 2570,4598 2746,4600 2922,4602 3098,4605 3274,4608 3450,4611 3626,4616 3802,4620 3978,4626"/>
+                <TextEquiv>
+                    <Unicode>sen wäre, erst die spätere Erfahrung ließ die Ahnung dämmern,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>47&#xD;
+pis pour moi! Ob ich den Monumentalkirchhof schon besucht hätte? Noch nicht.&#xD;
+Ob es mir recht sei, wenn er mitkäme? Ich müsse erst zu Cook, Geldwechseln&#xD;
+u. s. w. u. wolle ihn nicht aufhalten. Er zeigte mir ein gutes nahe gelegenes&#xD;
+Wechselgeschäft, dann fuhren wir zusammen in d. Elektrischen zum Kirchhof.&#xD;
+Er wollte einen Führer nehmen, ich ließ mich beschwatzen, Kostenpunkt&#xD;
+laut Baedecker 1,50 Lre über meine Verhältnisse bei solchem Ergebnis.&#xD;
+Nachher wollte er Kaffee trinken, ich lehnte ab, wollte das „Abend„&#xD;
+mahl besichtigen. Er wolle auch dorthin, müsse aber austreten, ich möchte&#xD;
+doch einen Augenblick in einem Kafe Platz nehmen. Dort mischte sich in&#xD;
+unsere Unterhaltung ein andrer Landsmann ein, Kaufmann Jansen&#xD;
+aus Köln (Konserven für holländer Firma), der erste war Ingenieur Meyer&#xD;
+für Kalkutta. Wir verließen das Lokal zu dritt. Es war nun am&#xD;
+frühen Nachmittag schon zu finster für Bilderbesichtigung, das trübselige&#xD;
+Hotelsitzen u. Zeitungslesen zum Zeitvertreib ist mir auf der&#xD;
+Reise doppelt unsympathisch, deshalb ging ich gern in einen&#xD;
+kleinen echt-italienischen Weinkeller. Der Ingenieur erzählte von&#xD;
+seinen Reisen, auch Mte Carlo, der Kaufmann wollte dorthin u.&#xD;
+ließ sich die verschiedenen Spiele u. Klubs erklären. Ein Karten„&#xD;
+spiel ließ er sich vormachen (rouge et noir). Wollen wir's mal&#xD;
+probieren? Es war mir langweilig, aber ich fand wieder das&#xD;
+Nein nicht. Preis die gemeinsame Weinkanne. Das war mir&#xD;
+lieb, um mich von Fremden nicht einladen zu lassen. Es war&#xD;
+schon gegeben, da warf der Kaufmann hin „ein kleiner Anreiz&#xD;
+muß doch sein“. Und binnen nicht allzulanger Zeit hatte ich&#xD;
+mittels Streichhölzer zu meinem Entsetzen 300 M. verloren, meine&#xD;
+ganze Habe. Ich mußte den Kaufmann sogar für heut anpumpen&#xD;
+u. wollte ihn morgen in Lugano - auch dort diese Gesellschaft? -&#xD;
+wieder treffen. Keinen Augenblick kam mir ein Zweifel an der&#xD;
+Gentleman-Natur der Beiden, wieder ein böses Zeichen für&#xD;
+meinen Mangel an Lebensschliff, ich gab sogar meine Visitenkarte.&#xD;
+Ich wüßte auch nicht, wie Betrug durch Kartenzeichnen möglich gewe„&#xD;
+sen wäre, erst die spätere Erfahrung ließ die Ahnung dämmern,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

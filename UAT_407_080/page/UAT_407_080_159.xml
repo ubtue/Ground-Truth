@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:48:00.880+02:00</Created>
+        <LastChange>2020-04-01T12:47:04.011+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550861" pageNr="159" tsid="26834733" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=COPURUIIZADZYDSXPNVALZWL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYLXMFOQRLPBZBDFEPXCJVCQ" imageId="4551739"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_159.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255577842" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="455,163 455,4913 4113,4913 4113,163"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="3680,227 3801,239 3818,258 3845,255 3902,290 3952,279 3961,113 3926,102 3853,116 3836,97 3804,104 3796,94 3768,111 3732,100 3687,106"/>
+                <Baseline points="3704,219 3729,219 3755,219 3780,221 3806,223 3831,225 3857,227 3882,228 3908,229 3934,229"/>
+                <TextEquiv>
+                    <Unicode>155</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="433,399 3935,434 4016,227 432,269"/>
+                <Baseline points="455,383 631,368 808,356 985,347 1162,341 1339,336 1516,334 1693,334 1870,335 2047,337 2224,340 2400,343 2577,346 2754,348 2931,350 3108,351 3285,351 3462,349 3639,344 3816,338 3993,329"/>
+                <TextEquiv>
+                    <Unicode>17.III. Rückfahrt nach Mikesse, Jan. bleibt in Mrogoro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="467,631 1172,509 3889,554 3851,383 3280,365 1334,472 875,354 466,456"/>
+                <Baseline points="488,544 665,536 843,531 1021,526 1199,522 1377,519 1555,517 1732,516 1910,516 2088,515 2266,515 2444,515 2622,515 2799,515 2977,515 3155,515 3333,514 3511,512 3689,510 3867,507"/>
+                <TextEquiv>
+                    <Unicode>wo Sattler, der Fieber hat, an der Bahn. Längs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="446,763 3314,662 3931,770 4088,719 4086,535 444,610"/>
+                <Baseline points="469,716 648,710 828,704 1008,699 1188,695 1368,691 1547,688 1727,686 1907,684 2087,682 2267,680 2446,678 2626,677 2806,675 2986,674 3166,672 3345,670 3525,667 3705,665 3885,662 4065,658"/>
+                <TextEquiv>
+                    <Unicode>der Bahn viel Mandelkrähen, die nicht das ganze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583142117864_415" custom="readingOrder {index:4;}">
+                <Coords points="530,1005 1019,863 1366,985 1999,860 2468,979 2669,860 3066,967 4063,850 4061,734 3098,683 527,762"/>
+                <Baseline points="553,890 637,885 721,879 805,875 889,870 973,866 1057,863 1141,860 1225,858 1309,856 1394,854 1478,853 1562,852 1646,852 1730,852 1814,852 1898,852 1982,853 2066,854 2150,855 2235,857 2379,840 2462,840 2545,840 2628,840 2711,840 2794,839 2877,839 2961,837 3044,837 3127,836 3210,835 3293,834 3376,833 3459,833 3543,832 3626,832 3709,833 3792,833 3875,835 3958,836 4042,839"/>
+                <TextEquiv>
+                    <Unicode>Jahr sichtbar sein sollen. Sehr viel Raubvögel im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="474,1167 551,1169 608,1114 717,1161 865,1148 909,1102 1089,1106 1151,1060 1366,1037 1493,1087 1614,1048 1612,985 1499,948 1413,936 1365,983 1228,905 1161,943 1024,861 870,981 775,952 592,1011 469,973"/>
+                <Baseline points="494,1048 548,1049 603,1049 658,1049 713,1048 768,1047 823,1045 878,1043 933,1040 988,1037 1043,1035 1097,1032 1152,1030 1207,1028 1262,1027 1317,1026 1372,1026 1427,1027 1482,1029 1537,1032 1592,1035"/>
+                <TextEquiv>
+                    <Unicode>ganzen Lande.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="514,1270 4098,1253 4097,1100 2784,1066 1152,1056 514,1180"/>
+                <Baseline points="538,1230 714,1223 891,1217 1068,1212 1245,1208 1422,1204 1599,1201 1775,1198 1952,1197 2129,1195 2306,1194 2483,1194 2660,1194 2837,1195 3013,1196 3190,1197 3367,1199 3544,1201 3721,1203 3898,1206 4075,1209"/>
+                <TextEquiv>
+                    <Unicode>18.III. Im Lager. Vorbereitungen zur Abreise. Gelesen. Janensch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="649,1491 761,1475 842,1495 1009,1372 1078,1402 1140,1373 1285,1422 1282,1315 1197,1317 982,1220 867,1269 642,1280"/>
+                <Baseline points="667,1379 696,1378 726,1377 756,1377 786,1375 815,1374 845,1372 875,1371 905,1370 934,1368 964,1367 994,1366 1024,1365 1053,1364 1083,1363 1113,1363 1143,1362 1172,1362 1202,1363 1232,1364 1262,1365"/>
+                <TextEquiv>
+                    <Unicode>trifft ein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="518,1613 2694,1528 3172,1644 3543,1505 4070,1602 4136,1417 2086,1459 1504,1331 516,1442"/>
+                <Baseline points="540,1570 718,1561 897,1553 1075,1546 1254,1541 1433,1536 1611,1532 1790,1529 1969,1526 2147,1524 2326,1523 2505,1522 2683,1521 2862,1521 3041,1521 3219,1520 3398,1520 3577,1519 3755,1518 3934,1517 4113,1516"/>
+                <TextEquiv>
+                    <Unicode>19.III. Mit d. Bahn bis Kisserawe. Unterwegs starke Grasbrände,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="555,1756 1661,1671 2062,1770 2402,1654 2790,1771 3086,1664 4053,1707 4124,1598 1708,1522 554,1662"/>
+                <Baseline points="577,1709 753,1701 929,1694 1105,1687 1282,1682 1458,1678 1634,1674 1810,1671 1987,1669 2163,1667 2339,1666 2515,1665 2692,1665 2868,1664 3044,1664 3220,1663 3397,1662 3573,1661 3749,1660 3925,1658 4102,1656"/>
+                <TextEquiv>
+                    <Unicode>während im S. Regenzeit. Rauch schlug in d. Coupé's, Flam„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="558,1893 2394,1924 2931,1789 3797,1919 3900,1890 3896,1674 1216,1688 557,1830"/>
+                <Baseline points="581,1868 745,1858 910,1849 1075,1841 1239,1834 1404,1828 1569,1822 1733,1817 1898,1813 2063,1810 2228,1807 2392,1805 2557,1803 2722,1802 2886,1802 3051,1802 3216,1802 3380,1803 3545,1804 3710,1805 3875,1807"/>
+                <TextEquiv>
+                    <Unicode>men dicht am Fenster. Sehr heiß u. stille Luft. Auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583142127124_420" custom="readingOrder {index:11;}">
+                <Coords points="542,2025 2871,1991 2919,1896 1893,1852 1282,1929 1079,1846 797,1954 540,1930"/>
+                <Baseline points="565,2003 734,1995 904,1988 1074,1983 1244,1978 1414,1974 1584,1971 1754,1969 1924,1967 2094,1966 2264,1965 2433,1965 2603,1965 2773,1966 2899,1966"/>
+                <TextEquiv>
+                    <Unicode>den Stationen ermüdend. Kisserawe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="2624,1903 2705,1908 2754,1936 2880,1897 2951,1951 3011,1893 3190,1886 3191,1801 3065,1822 3025,1799 2989,1835 2926,1789 2845,1833 2791,1806 2719,1841 2624,1849"/>
+                <Baseline points="2648,1875 2674,1876 2700,1877 2726,1879 2752,1880 2778,1880 2804,1881 2830,1881 2856,1882 2882,1883 2908,1883 2934,1883 2960,1883 2986,1883 3012,1883 3038,1883 3064,1883 3090,1882 3116,1882 3142,1881 3168,1881"/>
+                <TextEquiv>
+                    <Unicode>Haltestelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583142127124_419" custom="readingOrder {index:13;}">
+                <Coords points="2876,2058 2984,2072 3110,1988 3195,2065 3286,1989 3672,1978 3735,2024 3803,1979 3987,1994 3988,1918 3884,1886 3722,1925 3592,1874 3524,1923 3237,1849 3115,1902 2877,1914"/>
+                <Baseline points="2899,1966 2943,1967 3113,1968 3283,1969 3453,1970 3623,1972 3793,1973 3963,1974"/>
+                <TextEquiv>
+                    <Unicode>ohne Gebäude im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="578,2190 3104,2109 3743,2231 4026,2179 4025,2053 576,2033"/>
+                <Baseline points="602,2154 772,2146 942,2139 1112,2133 1282,2128 1452,2124 1622,2120 1793,2118 1963,2115 2133,2114 2303,2113 2473,2112 2643,2112 2813,2113 2984,2114 3154,2115 3324,2116 3494,2118 3664,2119 3834,2121 4005,2123"/>
+                <TextEquiv>
+                    <Unicode>Tal des bei Daressalaam mündenden Simbasi(?). Ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="555,2398 1938,2266 2821,2380 4061,2282 4001,2161 3407,2133 552,2214"/>
+                <Baseline points="577,2316 750,2309 923,2301 1096,2296 1269,2291 1442,2286 1615,2282 1788,2279 1961,2275 2134,2273 2307,2271 2480,2269 2653,2267 2826,2266 2999,2265 3172,2264 3345,2264 3518,2263 3691,2263 3864,2263 4038,2262"/>
+                <TextEquiv>
+                    <Unicode>thüringer Charakter. Nur unten am Fluß, wo wir neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="555,2533 864,2453 1391,2563 1686,2415 1935,2542 2622,2421 3032,2519 3440,2401 3788,2532 4110,2437 4109,2320 1232,2394 1073,2306 553,2407"/>
+                <Baseline points="575,2485 750,2468 926,2454 1101,2443 1277,2433 1453,2425 1628,2420 1804,2416 1980,2413 2155,2412 2331,2412 2507,2412 2682,2413 2858,2414 3034,2415 3209,2416 3385,2416 3561,2416 3736,2415 3912,2413 4088,2410"/>
+                <TextEquiv>
+                    <Unicode>der Brücke d. Zelte aufschlugen, Lianengewirr u. jenseits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="566,2710 1978,2703 2188,2587 2747,2707 3028,2567 3673,2685 4072,2584 4070,2494 3489,2419 563,2549"/>
+                <Baseline points="586,2646 759,2633 932,2621 1105,2612 1278,2603 1451,2596 1624,2591 1797,2586 1970,2582 2143,2579 2317,2576 2490,2575 2663,2574 2836,2573 3009,2572 3182,2572 3355,2571 3528,2571 3701,2570 3874,2569 4048,2568"/>
+                <TextEquiv>
+                    <Unicode>dichter Busch. Durch ihn führte ein prächtiger laubengang„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="557,2923 1004,2795 1276,2879 2073,2760 2260,2864 2442,2738 3627,2857 4065,2748 4063,2640 552,2726"/>
+                <Baseline points="575,2820 748,2809 921,2798 1095,2788 1268,2780 1442,2773 1615,2767 1788,2762 1962,2757 2135,2753 2309,2750 2482,2747 2655,2745 2829,2742 3002,2740 3176,2738 3349,2735 3522,2732 3696,2729 3869,2725 4043,2721"/>
+                <TextEquiv>
+                    <Unicode>ähnlicher ausgehauener Weg in der üppigsten Vegetation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="543,2997 1194,2956 1690,3035 2146,2921 2644,3041 2835,2919 3025,2992 3021,2830 2764,2773 2386,2776 2294,2864 1775,2803 1628,2883 1006,2793 811,2914 541,2920"/>
+                <Baseline points="566,2971 687,2964 809,2957 931,2952 1053,2946 1175,2942 1297,2938 1418,2934 1540,2931 1662,2928 1784,2925 1906,2923 2028,2921 2150,2920 2271,2918 2393,2917 2515,2916 2637,2915 2759,2914 2881,2914 3003,2913"/>
+                <TextEquiv>
+                    <Unicode>ein Nebental aufwärts zur Mission.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="642,3133 1104,3230 1725,3084 2205,3194 2480,3066 2748,3163 2934,3059 4073,3077 4070,2946 3327,2919 639,3002"/>
+                <Baseline points="665,3108 834,3109 1003,3109 1172,3108 1341,3105 1511,3101 1680,3097 1849,3092 2018,3088 2187,3082 2357,3076 2526,3071 2695,3065 2864,3060 3033,3055 3203,3051 3372,3048 3541,3046 3710,3045 3879,3045 4049,3047"/>
+                <TextEquiv>
+                    <Unicode>20.III. Janensch n. Westen, ich an d. Bahn entlang durch den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="517,3299 2263,3347 3191,3210 3818,3304 4087,3285 4083,3073 1059,3220 512,3106"/>
+                <Baseline points="537,3265 713,3263 889,3260 1065,3258 1242,3255 1418,3251 1594,3248 1771,3244 1947,3241 2123,3237 2300,3233 2476,3228 2652,3224 2828,3220 3005,3216 3181,3212 3357,3208 3534,3203 3710,3200 3886,3196 4063,3192"/>
+                <TextEquiv>
+                    <Unicode>Pugu-Tunnel bis Pugu. Der Eindruck der Saurierschichten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="511,3479 2303,3362 2625,3491 2946,3376 3389,3453 3544,3355 4103,3411 4101,3290 3276,3217 509,3372"/>
+                <Baseline points="531,3434 708,3422 885,3412 1063,3403 1240,3396 1418,3389 1595,3384 1772,3379 1950,3376 2127,3373 2305,3370 2482,3368 2659,3366 2837,3365 3014,3363 3192,3361 3369,3359 3546,3356 3724,3353 3901,3350 4079,3345"/>
+                <TextEquiv>
+                    <Unicode>noch verstärkt, aber weder Knochen noch Versteinerun„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="517,3681 1476,3539 2063,3634 4066,3514 3276,3369 2639,3482 512,3479"/>
+                <Baseline points="538,3583 713,3573 888,3565 1063,3556 1239,3550 1414,3544 1589,3539 1764,3535 1940,3531 2115,3527 2290,3524 2465,3522 2641,3519 2816,3517 2991,3514 3166,3512 3342,3509 3517,3506 3692,3502 3867,3498 4043,3494"/>
+                <TextEquiv>
+                    <Unicode>gen. Schöne Täler. Von Pugu auf anderm Wege nach dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="510,3779 2699,3701 3042,3804 3423,3686 3613,3796 4080,3721 4077,3555 509,3689"/>
+                <Baseline points="533,3736 709,3730 885,3724 1061,3720 1237,3715 1413,3710 1589,3706 1765,3703 1941,3699 2117,3696 2294,3694 2470,3691 2646,3689 2822,3688 2998,3686 3174,3685 3350,3684 3526,3683 3702,3683 3878,3682 4055,3682"/>
+                <TextEquiv>
+                    <Unicode>Dorf Kisserawe zum Akiden. Ständig durch aller dichtesten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="545,3944 1106,3894 1265,4000 1686,3881 2074,3987 2410,3855 2856,3956 3448,3857 3598,3953 3745,3856 4021,3955 4017,3721 542,3796"/>
+                <Baseline points="565,3903 736,3895 908,3889 1079,3883 1251,3878 1422,3874 1594,3870 1765,3867 1937,3865 2108,3863 2280,3861 2451,3859 2623,3858 2794,3856 2966,3854 3137,3853 3309,3850 3480,3847 3652,3843 3823,3839 3995,3834"/>
+                <TextEquiv>
+                    <Unicode>Busch, wie ich ihn in solcher Ausdehnung u. Undurchdring„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="543,4184 1160,4049 1662,4168 2077,4028 2404,4143 2797,4017 3060,4137 3269,4015 3934,3992 3742,3852 3591,3959 3027,3868 2391,3972 2191,3882 2072,3988 538,3950"/>
+                <Baseline points="563,4081 730,4071 897,4063 1065,4055 1232,4049 1400,4043 1567,4038 1735,4034 1902,4031 2070,4027 2237,4025 2404,4022 2572,4020 2739,4017 2907,4014 3074,4012 3242,4009 3409,4006 3577,4002 3744,3998 3912,3993"/>
+                <TextEquiv>
+                    <Unicode>lichkeit noch nicht gesehen habe. Etwas Regen. D. Akide,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="579,4275 1788,4223 1989,4325 2312,4167 2931,4263 3662,4156 3953,4270 3948,4108 3707,4025 2428,4133 2043,4031 1678,4163 1126,4052 577,4198"/>
+                <Baseline points="599,4242 765,4237 932,4231 1098,4225 1265,4219 1431,4213 1598,4206 1764,4200 1931,4194 2097,4188 2264,4182 2430,4177 2597,4172 2763,4168 2930,4164 3096,4161 3263,4159 3429,4157 3596,4157 3762,4157 3929,4159"/>
+                <TextEquiv>
+                    <Unicode>ein Araber, bot mir Kaffee an, den ich aber ausschlug.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="565,4427 917,4492 1449,4354 1672,4476 2110,4354 2257,4464 3162,4319 3605,4431 4057,4327 4055,4210 2215,4181 2073,4301 563,4324"/>
+                <Baseline points="587,4385 759,4380 931,4376 1104,4371 1276,4366 1449,4361 1621,4357 1794,4353 1966,4349 2139,4345 2311,4341 2483,4337 2656,4334 2828,4331 3001,4328 3173,4325 3346,4322 3518,4320 3691,4318 3863,4316 4036,4314"/>
+                <TextEquiv>
+                    <Unicode>Er begleitete mich zur Mission. Die „bibi“ des Missionars</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="570,4619 1137,4641 1323,4515 1968,4621 2226,4480 2998,4597 4035,4527 4031,4378 3166,4318 2823,4430 565,4426"/>
+                <Baseline points="589,4542 760,4536 931,4531 1102,4525 1273,4520 1445,4515 1616,4510 1787,4505 1958,4500 2129,4496 2301,4492 2472,4487 2643,4484 2814,4480 2985,4476 3157,4473 3328,4470 3499,4468 3670,4465 3841,4463 4013,4461"/>
+                <TextEquiv>
+                    <Unicode>hielt ich für eine Schwester, wie am Mgeta, fand aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="584,4750 1982,4666 3255,4763 3807,4684 3806,4558 583,4629"/>
+                <Baseline points="606,4687 765,4689 924,4689 1083,4689 1242,4688 1401,4686 1560,4684 1719,4682 1878,4680 2037,4677 2196,4674 2355,4672 2514,4669 2673,4667 2832,4664 2991,4662 3150,4660 3309,4659 3468,4659 3627,4659 3786,4659"/>
+                <TextEquiv>
+                    <Unicode>zu meiner Freude ein evangelisches Ehepaar mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583142156595_431" custom="readingOrder {index:31;}">
+                <Coords points="546,4934 3289,4961 3801,4855 3801,4769 545,4723"/>
+                <Baseline points="570,4857 609,4855 590,4877 728,4870 867,4865 1006,4860 1144,4856 1283,4854 1422,4852 1560,4851 1699,4850 1838,4850 1977,4851 2115,4851 2254,4852 2393,4853 2531,4855 2670,4856 2809,4856 2947,4857 3086,4857 3225,4856 3364,4855 3537,4837 3563,4838 3590,4838 3617,4839 3644,4839 3671,4839 3698,4839 3725,4839 3752,4839 3779,4839"/>
+                <TextEquiv>
+                    <Unicode>Söhnchen, freundliche Leute, die Janensch u. mich zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>155&#xD;
+17.III. Rückfahrt nach Mikesse, Jan. bleibt in Mrogoro,&#xD;
+wo Sattler, der Fieber hat, an der Bahn. Längs&#xD;
+der Bahn viel Mandelkrähen, die nicht das ganze&#xD;
+Jahr sichtbar sein sollen. Sehr viel Raubvögel im&#xD;
+ganzen Lande.&#xD;
+18.III. Im Lager. Vorbereitungen zur Abreise. Gelesen. Janensch&#xD;
+trifft ein.&#xD;
+19.III. Mit d. Bahn bis Kisserawe. Unterwegs starke Grasbrände,&#xD;
+während im S. Regenzeit. Rauch schlug in d. Coupé's, Flam„&#xD;
+men dicht am Fenster. Sehr heiß u. stille Luft. Auf&#xD;
+den Stationen ermüdend. Kisserawe&#xD;
+Haltestelle&#xD;
+ohne Gebäude im&#xD;
+Tal des bei Daressalaam mündenden Simbasi(?). Ganz&#xD;
+thüringer Charakter. Nur unten am Fluß, wo wir neben&#xD;
+der Brücke d. Zelte aufschlugen, Lianengewirr u. jenseits&#xD;
+dichter Busch. Durch ihn führte ein prächtiger laubengang„&#xD;
+ähnlicher ausgehauener Weg in der üppigsten Vegetation&#xD;
+ein Nebental aufwärts zur Mission.&#xD;
+20.III. Janensch n. Westen, ich an d. Bahn entlang durch den&#xD;
+Pugu-Tunnel bis Pugu. Der Eindruck der Saurierschichten&#xD;
+noch verstärkt, aber weder Knochen noch Versteinerun„&#xD;
+gen. Schöne Täler. Von Pugu auf anderm Wege nach dem&#xD;
+Dorf Kisserawe zum Akiden. Ständig durch aller dichtesten&#xD;
+Busch, wie ich ihn in solcher Ausdehnung u. Undurchdring„&#xD;
+lichkeit noch nicht gesehen habe. Etwas Regen. D. Akide,&#xD;
+ein Araber, bot mir Kaffee an, den ich aber ausschlug.&#xD;
+Er begleitete mich zur Mission. Die „bibi“ des Missionars&#xD;
+hielt ich für eine Schwester, wie am Mgeta, fand aber&#xD;
+zu meiner Freude ein evangelisches Ehepaar mit&#xD;
+Söhnchen, freundliche Leute, die Janensch u. mich zum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

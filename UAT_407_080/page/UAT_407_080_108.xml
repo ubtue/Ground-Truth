@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:58.193+02:00</Created>
+        <LastChange>2020-03-25T17:11:29.678+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550810" pageNr="108" tsid="26367403" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=VMNLYLRLDHVYDWGQMWGNURKI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KCSLDBAQHWZFSYATRKVZAAMX" imageId="4551688"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_108.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255564684" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582894789395_3256"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582894789395_3256" custom="readingOrder {index:0;}">
+            <Coords points="287,271 401,271 4050,295 4050,4876 477,4876 287,430"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="266,418 288,417 314,397 337,413 376,393 397,373 423,371 414,243 392,244 346,288 324,289 311,304 289,296 258,303"/>
+                <Baseline points="287,379 315,380 344,379 372,376 401,371 458,372"/>
+                <TextEquiv>
+                    <Unicode>104</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="522,441 1335,551 2347,469 2443,374 3761,391 3607,275 2916,242 519,326"/>
+                <Baseline points="544,443 703,438 863,433 1023,428 1183,422 1343,418 1502,412 1662,407 1822,402 1982,397 2142,392 2301,387 2461,384 2621,380 2781,378 2941,375 3100,374 3260,373 3420,373 3580,374 3740,376"/>
+                <TextEquiv>
+                    <Unicode>8 Dez. Früh aufgebrochen, rechts aus d. Tal heraus u. etwa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="542,742 819,621 2325,555 2497,643 3001,527 3651,647 3826,583 3820,387 1324,555 893,472 536,573"/>
+                <Baseline points="561,625 723,620 885,615 1047,609 1209,603 1371,596 1533,589 1695,582 1857,575 2019,568 2181,562 2343,555 2505,549 2667,544 2829,539 2991,534 3153,530 3315,527 3477,525 3639,524 3801,524"/>
+                <TextEquiv>
+                    <Unicode>parallel dem Rondo-Plateaurand nach N über all die Flüsse,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="591,787 971,874 1440,728 2336,816 3255,699 3412,794 3837,645 3479,548 3019,672 2687,548 2551,648 1629,574 1524,665 589,676"/>
+                <Baseline points="614,770 774,761 934,752 1094,745 1254,738 1414,733 1574,729 1735,725 1895,721 2055,718 2215,717 2375,715 2535,714 2695,713 2856,712 3016,711 3176,711 3336,710 3496,710 3656,709 3817,708"/>
+                <TextEquiv>
+                    <Unicode>die nach W. in d. Mbenkuru laufen (Mikomani, Mandawa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="533,1012 1988,1000 2292,879 4025,961 4019,734 528,848"/>
+                <Baseline points="556,982 728,970 900,957 1072,946 1245,935 1417,925 1589,915 1761,906 1934,898 2106,892 2278,885 2450,881 2623,877 2795,874 2967,872 3139,871 3312,871 3484,873 3656,875 3828,879 4001,884"/>
+                <TextEquiv>
+                    <Unicode>Nahangi, Namyura, Nebenfluß des Mandawa) Von meinem Lager„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="551,1263 1143,1127 1493,1231 1939,1104 2760,1183 2908,1062 3098,1167 3370,1037 4021,1073 4049,974 543,1045"/>
+                <Baseline points="571,1140 743,1137 916,1133 1089,1129 1262,1124 1435,1118 1607,1112 1780,1105 1953,1098 2126,1092 2299,1084 2471,1077 2644,1071 2817,1064 2990,1058 3163,1052 3335,1047 3508,1043 3681,1039 3854,1037 4027,1035"/>
+                <TextEquiv>
+                    <Unicode>platz Chirombwe ging es noch lange durch gleichen Wald wie der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="563,1431 2750,1219 3893,1317 3921,1106 3100,1167 2909,1062 2758,1179 1852,1122 557,1262"/>
+                <Baseline points="581,1303 747,1302 913,1299 1079,1295 1245,1290 1411,1285 1577,1278 1743,1272 1909,1264 2075,1258 2241,1250 2407,1243 2573,1235 2739,1229 2905,1222 3071,1217 3237,1212 3403,1208 3569,1205 3735,1204 3902,1204"/>
+                <TextEquiv>
+                    <Unicode>gestrige, doch sah ich nichts von Wild, vor allem bedauerte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="549,1519 3969,1427 3964,1298 3404,1213 546,1444"/>
+                <Baseline points="571,1486 739,1483 908,1477 1077,1471 1246,1462 1414,1453 1583,1443 1752,1434 1921,1423 2089,1414 2258,1404 2427,1395 2596,1387 2764,1381 2933,1376 3102,1372 3271,1371 3439,1372 3608,1375 3777,1381 3946,1390"/>
+                <TextEquiv>
+                    <Unicode>nicht Zeit zu haben, um Zebras zu beobachten. Nachher durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:8;}">
+                <Coords points="552,1689 3762,1570 3758,1455 3213,1422 1389,1574 546,1516"/>
+                <Baseline points="575,1654 733,1648 891,1640 1049,1633 1207,1625 1365,1616 1523,1607 1682,1598 1840,1589 1998,1581 2156,1573 2314,1566 2472,1559 2630,1554 2789,1550 2947,1547 3105,1546 3263,1546 3421,1549 3579,1553 3738,1560"/>
+                <TextEquiv>
+                    <Unicode>besiedeltes Land, wo auch der vielen Wege halber ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:9;}">
+                <Coords points="565,1893 1403,1759 3931,1787 3968,1648 3570,1567 3092,1671 2343,1584 1949,1699 560,1684"/>
+                <Baseline points="585,1789 753,1782 921,1775 1089,1770 1257,1764 1425,1759 1593,1754 1761,1750 1929,1746 2097,1743 2265,1739 2433,1736 2601,1734 2769,1731 2937,1728 3105,1726 3273,1723 3441,1721 3609,1719 3777,1717 3945,1714"/>
+                <TextEquiv>
+                    <Unicode>Führer von nöten war. Der Nahanga od. Nahangi soll weiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:10;}">
+                <Coords points="563,2002 1038,1958 1250,2060 1643,1938 1876,2017 2251,1896 3479,1882 3660,1989 3748,1773 785,1813 561,1921"/>
+                <Baseline points="586,1964 743,1957 900,1951 1057,1944 1214,1938 1371,1932 1528,1926 1685,1921 1842,1916 1999,1911 2157,1906 2314,1903 2471,1899 2628,1896 2785,1893 2942,1891 3099,1889 3256,1887 3413,1886 3570,1886 3728,1886"/>
+                <TextEquiv>
+                    <Unicode>aufwärts fließendes Wasser führen, im Mandawa fand ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:11;}">
+                <Coords points="562,2218 1222,2092 1871,2207 2290,2093 2440,2191 2828,2059 3467,2161 3588,2042 3856,2083 3852,1932 2363,1993 2253,1893 1675,2048 774,1980 558,2071"/>
+                <Baseline points="584,2122 746,2118 908,2114 1071,2109 1233,2104 1396,2098 1558,2093 1721,2087 1883,2081 2046,2075 2208,2069 2370,2065 2533,2059 2695,2054 2858,2050 3020,2046 3183,2044 3345,2041 3508,2040 3670,2039 3833,2040"/>
+                <TextEquiv>
+                    <Unicode>anstehenden Gneiß mit Graphit u. Granaten, während ich des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:12;}">
+                <Coords points="565,2328 3910,2261 3931,2061 563,2248"/>
+                <Baseline points="585,2298 751,2293 918,2287 1084,2280 1251,2274 1417,2266 1584,2260 1750,2253 1917,2245 2083,2239 2250,2233 2416,2226 2583,2221 2749,2217 2916,2212 3082,2209 3249,2207 3415,2206 3582,2206 3748,2208 3915,2211"/>
+                <TextEquiv>
+                    <Unicode>roten Bodens wegen noch immer wähnte in d. Makonde-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:13;}">
+                <Coords points="516,2498 674,2579 1396,2419 2252,2515 2873,2394 3489,2482 3948,2338 3478,2224 2898,2336 2419,2235 2039,2351 512,2324"/>
+                <Baseline points="538,2451 707,2445 876,2439 1046,2432 1215,2426 1385,2419 1554,2412 1724,2406 1893,2400 2063,2394 2232,2388 2401,2383 2571,2379 2740,2376 2910,2374 3079,2373 3249,2373 3418,2374 3588,2377 3757,2381 3927,2387"/>
+                <TextEquiv>
+                    <Unicode>Schichten zu sein. Der „Führer“ fand leider nicht d. Weg, der in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:14;}">
+                <Coords points="518,2699 3007,2563 3717,2660 3987,2610 3985,2499 2929,2427 1543,2540 1216,2445 515,2548"/>
+                <Baseline points="541,2635 712,2627 883,2620 1054,2613 1225,2606 1396,2600 1567,2595 1738,2589 1909,2585 2080,2580 2252,2576 2423,2572 2594,2569 2765,2567 2936,2565 3107,2564 3278,2563 3449,2563 3620,2564 3791,2565 3963,2567"/>
+                <TextEquiv>
+                    <Unicode>die Einsattelung zwischen Namyura u. Namunda führt, son„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:15;}">
+                <Coords points="506,2846 812,2796 1034,2918 1386,2781 2274,2851 2608,2733 3311,2848 3871,2701 3568,2555 3429,2662 3226,2570 2838,2681 502,2708"/>
+                <Baseline points="527,2813 693,2806 859,2798 1025,2790 1191,2782 1357,2774 1523,2767 1689,2759 1855,2752 2021,2745 2188,2739 2354,2733 2520,2727 2686,2722 2852,2719 3018,2716 3184,2714 3350,2712 3516,2712 3682,2714 3849,2716"/>
+                <TextEquiv>
+                    <Unicode>dere brachte mich zu weit nach W. u. mußte sich schließlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:16;}">
+                <Coords points="495,2972 752,3094 1566,2924 3381,2880 3593,2986 4063,2945 4057,2727 3272,2835 797,2799 493,2910"/>
+                <Baseline points="519,2969 695,2963 871,2956 1047,2948 1223,2941 1399,2933 1575,2925 1751,2917 1927,2910 2103,2902 2279,2896 2455,2890 2631,2884 2807,2881 2983,2877 3159,2875 3335,2874 3511,2874 3687,2876 3863,2880 4039,2885"/>
+                <TextEquiv>
+                    <Unicode>ablösen lassen; Jeder kannte immer nur eine kurze Strecke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:17;}">
+                <Coords points="492,3173 2193,3211 2426,3098 2683,3220 2986,3060 3599,3177 4072,3070 4069,2968 2821,2900 1980,3048 1220,2939 753,3095 487,2986"/>
+                <Baseline points="516,3151 692,3144 869,3137 1046,3130 1222,3122 1399,3114 1576,3107 1752,3100 1929,3092 2106,3086 2283,3079 2459,3074 2636,3069 2813,3064 2989,3061 3166,3059 3343,3058 3519,3059 3696,3060 3873,3064 4050,3069"/>
+                <TextEquiv>
+                    <Unicode>In halber Höhe des Namyura schöner Rückblick: Die anscheinend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:18;}">
+                <Coords points="469,3461 852,3320 1029,3435 1377,3313 1736,3408 1915,3296 3160,3248 3373,3366 3912,3256 3876,3101 2682,3219 2376,3112 1864,3249 460,3164"/>
+                <Baseline points="489,3343 659,3336 829,3330 999,3323 1169,3316 1339,3310 1509,3303 1679,3297 1849,3290 2019,3284 2190,3279 2360,3273 2530,3268 2700,3263 2870,3258 3040,3254 3210,3250 3380,3247 3550,3245 3720,3243 3891,3241"/>
+                <TextEquiv>
+                    <Unicode>sämtlich zusammenhängenden Plateaus, daran anschließend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:19;}">
+                <Coords points="458,3560 1079,3492 1403,3606 2684,3433 2954,3527 3092,3402 3555,3535 3998,3468 4056,3328 2292,3285 455,3462"/>
+                <Baseline points="477,3511 654,3508 832,3503 1010,3497 1188,3490 1366,3482 1544,3474 1722,3466 1900,3457 2078,3448 2256,3440 2433,3432 2611,3426 2789,3421 2967,3416 3145,3413 3323,3412 3501,3413 3679,3417 3857,3423 4035,3431"/>
+                <TextEquiv>
+                    <Unicode>im S. der Nabrunga, der d. Plateau überragt, vielleicht bereits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:20;}">
+                <Coords points="470,3696 4011,3634 3971,3480 3270,3536 3102,3402 2963,3535 2120,3457 468,3611"/>
+                <Baseline points="493,3656 667,3653 842,3649 1017,3643 1191,3637 1366,3631 1541,3624 1715,3617 1890,3610 2065,3604 2240,3598 2414,3592 2589,3588 2764,3584 2938,3581 3113,3579 3288,3579 3462,3581 3637,3584 3812,3589 3987,3597"/>
+                <TextEquiv>
+                    <Unicode>einer der Inselberge, die sich in weitem Kranz nach W. hin„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:21;} textStyle {offset:8; length:5;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:47; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="512,3885 1378,3809 1865,3912 2383,3782 2986,3864 4007,3793 4048,3663 2030,3738 1849,3623 508,3752"/>
+                <Baseline points="532,3838 706,3829 881,3822 1056,3814 1231,3807 1406,3801 1581,3795 1755,3789 1930,3784 2105,3779 2280,3773 2455,3770 2630,3766 2805,3762 2979,3758 3154,3755 3329,3753 3504,3750 3679,3748 3854,3746 4029,3744"/>
+                <TextEquiv>
+                    <Unicode>ziehen: Ilulu, als breiter Rücken erscheinend, Ndinga, aus vielen kleinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:22;} textStyle {offset:19; length:4;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="535,4116 1895,4059 2065,3950 3011,4026 3243,3901 3847,3887 3843,3767 526,3884"/>
+                <Baseline points="554,4008 717,4000 881,3992 1044,3984 1208,3977 1371,3969 1535,3962 1698,3955 1862,3948 2025,3942 2189,3935 2353,3930 2516,3924 2680,3918 2843,3913 3007,3907 3170,3902 3334,3897 3497,3892 3661,3888 3825,3883"/>
+                <TextEquiv>
+                    <Unicode>Spitzen bestehend, Enje auffallend spitz. Auf d. Höhe ein Stück d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:23;}">
+                <Coords points="545,4248 903,4172 1241,4270 1573,4119 2276,4207 2458,4088 4035,4111 4029,3964 2978,3943 540,4110"/>
+                <Baseline points="567,4186 739,4176 911,4166 1083,4156 1255,4145 1428,4135 1600,4125 1772,4116 1944,4107 2116,4099 2289,4090 2461,4083 2633,4077 2805,4071 2977,4066 3150,4062 3322,4060 3494,4058 3666,4058 3838,4060 4011,4062"/>
+                <TextEquiv>
+                    <Unicode>barrabarra gefolgt, dann links hinunter und noch eine ewige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:24;}">
+                <Coords points="575,4382 3638,4268 3672,4084 570,4231"/>
+                <Baseline points="595,4337 748,4327 901,4318 1054,4308 1207,4298 1360,4289 1513,4280 1666,4271 1819,4263 1972,4255 2125,4248 2278,4242 2431,4237 2584,4232 2737,4229 2890,4228 3043,4227 3196,4228 3349,4231 3502,4236 3655,4243"/>
+                <TextEquiv>
+                    <Unicode>Strecke im Tal bis zum alten Lagerplatz in Ubolelo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:25;}">
+                <Coords points="758,4574 3315,4374 3635,4478 4054,4382 4048,4226 749,4343"/>
+                <Baseline points="777,4478 939,4468 1102,4460 1264,4450 1427,4442 1590,4434 1752,4427 1915,4420 2077,4413 2240,4406 2403,4399 2565,4394 2728,4388 2890,4382 3053,4377 3216,4373 3378,4368 3541,4364 3703,4360 3866,4356 4029,4353"/>
+                <TextEquiv>
+                    <Unicode>Hier war großes Volksfest, Tanz u. Pombe. Wie ich erfuhr, wurde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:26;}">
+                <Coords points="464,4786 1401,4606 1561,4712 3167,4568 3420,4665 3589,4547 3898,4611 3892,4438 3542,4500 3261,4373 3030,4503 2782,4423 2377,4533 1701,4443 826,4593 450,4435"/>
+                <Baseline points="482,4682 651,4668 821,4655 990,4643 1160,4633 1329,4622 1499,4613 1668,4605 1838,4598 2007,4591 2177,4585 2347,4579 2516,4573 2686,4569 2855,4564 3025,4560 3194,4556 3364,4552 3533,4548 3703,4544 3873,4540"/>
+                <TextEquiv>
+                    <Unicode>(k)oniago“ gefeiert, d. h. Pubertätsfeier für 6 junge Mädchen, die,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:27;}">
+                <Coords points="510,4885 3783,4770 3685,4617 2450,4712 2309,4613 2081,4723 1397,4605 1072,4757 507,4783"/>
+                <Baseline points="530,4837 691,4823 853,4811 1014,4801 1176,4793 1337,4785 1499,4779 1660,4774 1822,4770 1983,4766 2145,4763 2307,4760 2468,4757 2630,4754 2791,4751 2953,4747 3114,4744 3276,4738 3437,4733 3599,4726 3761,4717"/>
+                <TextEquiv>
+                    <Unicode>wie mir erzählt wurde, einen Bauchtanz auf erhöhter Bühne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>104&#xD;
+8 Dez. Früh aufgebrochen, rechts aus d. Tal heraus u. etwa&#xD;
+parallel dem Rondo-Plateaurand nach N über all die Flüsse,&#xD;
+die nach W. in d. Mbenkuru laufen (Mikomani, Mandawa,&#xD;
+Nahangi, Namyura, Nebenfluß des Mandawa) Von meinem Lager„&#xD;
+platz Chirombwe ging es noch lange durch gleichen Wald wie der&#xD;
+gestrige, doch sah ich nichts von Wild, vor allem bedauerte ich&#xD;
+nicht Zeit zu haben, um Zebras zu beobachten. Nachher durch&#xD;
+besiedeltes Land, wo auch der vielen Wege halber ein&#xD;
+Führer von nöten war. Der Nahanga od. Nahangi soll weiter&#xD;
+aufwärts fließendes Wasser führen, im Mandawa fand ich&#xD;
+anstehenden Gneiß mit Graphit u. Granaten, während ich des&#xD;
+roten Bodens wegen noch immer wähnte in d. Makonde-&#xD;
+Schichten zu sein. Der „Führer“ fand leider nicht d. Weg, der in&#xD;
+die Einsattelung zwischen Namyura u. Namunda führt, son„&#xD;
+dere brachte mich zu weit nach W. u. mußte sich schließlich&#xD;
+ablösen lassen; Jeder kannte immer nur eine kurze Strecke.&#xD;
+In halber Höhe des Namyura schöner Rückblick: Die anscheinend&#xD;
+sämtlich zusammenhängenden Plateaus, daran anschließend&#xD;
+im S. der Nabrunga, der d. Plateau überragt, vielleicht bereits&#xD;
+einer der Inselberge, die sich in weitem Kranz nach W. hin„&#xD;
+ziehen: Ilulu, als breiter Rücken erscheinend, Ndinga, aus vielen kleinen&#xD;
+Spitzen bestehend, Enje auffallend spitz. Auf d. Höhe ein Stück d.&#xD;
+barrabarra gefolgt, dann links hinunter und noch eine ewige&#xD;
+Strecke im Tal bis zum alten Lagerplatz in Ubolelo.&#xD;
+Hier war großes Volksfest, Tanz u. Pombe. Wie ich erfuhr, wurde&#xD;
+(k)oniago“ gefeiert, d. h. Pubertätsfeier für 6 junge Mädchen, die,&#xD;
+wie mir erzählt wurde, einen Bauchtanz auf erhöhter Bühne</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

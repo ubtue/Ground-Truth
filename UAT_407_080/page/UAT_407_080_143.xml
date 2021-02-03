@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:48:00.100+02:00</Created>
+        <LastChange>2020-03-27T09:08:21.718+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550845" pageNr="143" tsid="26517394" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=PMEYLCTGXAQIWCRXPUKJXRIL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LITLZRCZMHDPWADMGYJSUJUI" imageId="4551723"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_143.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255573040" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="522,183 522,4880 4079,4880 4079,183"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3691,275 3798,261 3862,280 3882,303 3909,296 3925,311 3969,310 3979,188 3945,176 3927,184 3844,173 3812,188 3777,185 3749,209 3698,192"/>
+                <Baseline points="3716,262 3742,261 3768,261 3794,262 3820,264 3846,266 3872,269 3898,272 3924,276 3950,279"/>
+                <TextEquiv>
+                    <Unicode>139</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="526,376 1987,389 2481,507 3541,389 3986,524 3988,301 3861,278 1690,347 528,206"/>
+                <Baseline points="548,348 718,360 889,369 1060,377 1231,384 1402,389 1573,394 1744,397 1915,398 2086,399 2257,400 2427,400 2598,399 2769,398 2940,397 3111,396 3282,395 3453,394 3624,394 3795,394 3966,395"/>
+                <TextEquiv>
+                    <Unicode>Bananen, aber in all der tropischen Vegetation u. trotz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="556,611 2985,566 3106,668 3593,565 3863,691 4054,497 558,463"/>
+                <Baseline points="578,523 750,528 923,532 1096,535 1268,538 1441,541 1614,544 1786,546 1959,548 2132,550 2305,552 2477,554 2650,556 2823,557 2995,559 3168,562 3341,564 3513,567 3686,570 3859,573 4032,577"/>
+                <TextEquiv>
+                    <Unicode>eifriger Feldarbeit ein erschreckender Nahrungsmangel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="520,740 1636,717 2094,831 2573,721 2820,848 3670,763 3966,869 4041,621 522,640"/>
+                <Baseline points="544,701 717,701 891,701 1064,702 1238,703 1412,705 1585,707 1759,710 1933,712 2106,715 2280,718 2454,722 2627,726 2801,730 2975,734 3148,738 3322,743 3496,747 3669,752 3843,757 4017,762"/>
+                <TextEquiv>
+                    <Unicode>Alles vertrocknet u. das scheint die Regel zu sein. Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="528,903 3773,1005 3710,825 2786,854 2625,747 529,815"/>
+                <Baseline points="552,864 712,870 872,875 1032,880 1192,884 1352,886 1512,888 1672,890 1832,892 1992,893 2153,894 2313,894 2473,895 2633,896 2793,897 2953,899 3113,900 3273,903 3433,905 3593,909 3754,913"/>
+                <TextEquiv>
+                    <Unicode>wurde allenthalben geklagt, freilich glaubte ich nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="558,1084 1078,1179 1280,1098 1826,1194 2242,1112 2499,1212 2916,1139 2878,1029 2406,948 1832,1019 1370,920 1193,1032 560,970"/>
+                <Baseline points="580,1066 695,1067 811,1068 927,1070 1042,1072 1158,1074 1274,1076 1389,1079 1505,1081 1621,1084 1737,1086 1852,1088 1968,1090 2084,1092 2199,1093 2315,1094 2431,1094 2546,1094 2662,1093 2778,1092 2894,1090"/>
+                <TextEquiv>
+                    <Unicode>immer. Abends Gewitter, Regen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;} textStyle {offset:0; length:17;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="766,1411 2914,1418 3453,1318 4039,1398 4071,1214 768,1166"/>
+                <Baseline points="791,1288 953,1290 1116,1292 1279,1294 1442,1297 1604,1299 1767,1302 1930,1305 2093,1307 2255,1310 2418,1312 2581,1314 2744,1316 2906,1317 3069,1318 3232,1318 3395,1318 3557,1317 3720,1315 3883,1313 4046,1309"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 20.II: Marsch durch prachtvollen Wald zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="541,1656 1205,1529 2094,1637 4010,1543 3946,1364 538,1411"/>
+                <Baseline points="561,1523 732,1523 903,1521 1074,1520 1246,1518 1417,1515 1588,1512 1760,1510 1931,1507 2102,1504 2274,1501 2445,1498 2616,1496 2787,1493 2959,1491 3130,1490 3301,1489 3473,1488 3644,1488 3815,1488 3987,1490"/>
+                <TextEquiv>
+                    <Unicode>Jumben Dimiri, da noch sehr früh, weiter marschiert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="584,1770 3795,1703 3793,1537 3597,1618 3255,1508 3094,1615 582,1586"/>
+                <Baseline points="604,1703 762,1701 920,1699 1079,1697 1237,1696 1396,1694 1554,1691 1713,1689 1871,1687 2030,1685 2188,1683 2346,1681 2505,1679 2663,1677 2822,1676 2980,1674 3139,1673 3297,1672 3456,1671 3614,1671 3773,1671"/>
+                <TextEquiv>
+                    <Unicode>Ziemlich großer, angeblich schlangenfressender Vogel mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="527,1968 1366,1872 1673,1965 2040,1879 2356,1976 2552,1860 3034,1908 3032,1742 2367,1775 2261,1693 1926,1810 1811,1736 989,1801 818,1711 525,1802"/>
+                <Baseline points="548,1872 671,1871 794,1870 917,1869 1041,1867 1164,1866 1287,1864 1410,1862 1534,1861 1657,1859 1780,1858 1903,1856 2027,1854 2150,1853 2273,1852 2396,1851 2520,1851 2643,1851 2766,1851 2889,1851 3013,1852"/>
+                <TextEquiv>
+                    <Unicode>Schopf auf Bäumen sitzend (nicht Sekretär!)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="737,2047 2728,2049 3270,2166 3707,2107 3708,1906 737,1973"/>
+                <Baseline points="757,2030 903,2031 1050,2031 1196,2032 1343,2032 1489,2033 1636,2033 1782,2034 1929,2034 2075,2035 2222,2035 2369,2036 2515,2037 2662,2038 2808,2039 2955,2040 3101,2041 3248,2042 3394,2044 3541,2046 3688,2048"/>
+                <TextEquiv>
+                    <Unicode>Am Morgen die braunen Letten als Griffelschiefer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="551,2247 1518,2201 1727,2305 2025,2216 2160,2319 2406,2216 3687,2337 3893,2282 3895,2121 552,2120"/>
+                <Baseline points="574,2199 747,2196 921,2194 1094,2193 1268,2193 1442,2194 1615,2196 1789,2198 1963,2201 2136,2204 2310,2207 2483,2211 2657,2214 2831,2217 3004,2220 3178,2222 3352,2224 3525,2225 3699,2224 3873,2223"/>
+                <TextEquiv>
+                    <Unicode>darüber (?) bröckelige, weiße Kalke, an einem Bachriß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="597,2448 3931,2403 3459,2278 2177,2329 1832,2218 1114,2328 598,2225"/>
+                <Baseline points="619,2383 783,2379 948,2376 1112,2374 1277,2373 1441,2372 1606,2373 1770,2373 1935,2375 2099,2376 2264,2378 2429,2380 2593,2382 2758,2384 2922,2385 3087,2386 3251,2387 3416,2388 3580,2387 3745,2386 3910,2384"/>
+                <TextEquiv>
+                    <Unicode>Tone angeschnitten (tief), am Wege auch feste Sandsteine in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="595,2585 3653,2628 3772,2511 3116,2397 2919,2479 1393,2372 1208,2480 596,2454"/>
+                <Baseline points="618,2534 774,2530 931,2526 1087,2524 1244,2522 1401,2520 1557,2519 1714,2518 1871,2518 2027,2518 2184,2519 2341,2521 2497,2523 2654,2525 2811,2528 2967,2531 3124,2535 3281,2539 3437,2544 3594,2548 3751,2554"/>
+                <TextEquiv>
+                    <Unicode>Blöcken. Nach 1 Std. Marsch großschalige Muscheln wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="518,2784 1458,2804 1621,2686 1931,2788 2272,2697 3895,2784 3966,2600 518,2604"/>
+                <Baseline points="541,2708 711,2702 881,2697 1051,2693 1221,2690 1391,2687 1561,2686 1731,2685 1901,2685 2071,2686 2241,2687 2411,2689 2581,2690 2751,2692 2921,2695 3091,2697 3261,2699 3431,2701 3601,2703 3771,2705 3942,2706"/>
+                <TextEquiv>
+                    <Unicode>km. 121,7-8. Hinter Jumbe Dimiri (Nachfolger v. Kibendela)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="566,2927 1563,3001 1716,2900 2967,2864 3409,2991 3589,2869 4030,2917 4030,2768 565,2787"/>
+                <Baseline points="588,2884 759,2879 930,2874 1101,2870 1272,2866 1443,2863 1614,2860 1785,2858 1956,2857 2127,2856 2299,2855 2470,2855 2641,2856 2812,2857 2983,2859 3154,2862 3325,2865 3496,2869 3667,2873 3838,2878 4010,2884"/>
+                <TextEquiv>
+                    <Unicode>Fossilien, aber schlecht, ein Sandstein mit ziemlich großen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="557,3159 2704,3012 4100,3125 4099,2941 555,2962"/>
+                <Baseline points="580,3064 764,3055 948,3048 1132,3041 1316,3036 1500,3032 1684,3028 1869,3025 2053,3023 2237,3022 2421,3021 2605,3021 2789,3021 2974,3022 3158,3023 3342,3024 3526,3026 3710,3027 3894,3029 4079,3031"/>
+                <TextEquiv>
+                    <Unicode>Geröllen darin, am Westabhange des Lutari (bezw. Weg durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="598,3268 2247,3187 2645,3301 3923,3282 3923,3147 3678,3081 598,3114"/>
+                <Baseline points="618,3212 782,3208 946,3204 1110,3200 1274,3197 1438,3194 1602,3191 1766,3189 1930,3188 2094,3187 2259,3186 2423,3186 2587,3186 2751,3187 2915,3189 3079,3191 3243,3194 3407,3197 3571,3202 3735,3207 3900,3212"/>
+                <TextEquiv>
+                    <Unicode>denselben; bei Bornhardt Utari) auch die langen turm„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:18;}">
+                <Coords points="565,3454 2284,3390 2744,3489 3251,3378 3851,3471 3890,3301 564,3275"/>
+                <Baseline points="585,3407 749,3404 913,3402 1077,3399 1242,3397 1406,3396 1570,3395 1734,3393 1899,3393 2063,3392 2227,3392 2391,3391 2556,3391 2720,3391 2884,3391 3048,3391 3213,3391 3377,3391 3541,3391 3705,3390 3870,3390"/>
+                <TextEquiv>
+                    <Unicode>förmigen Schnecken wieder. Köstlicher Lagerplatz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:19;}">
+                <Coords points="532,3592 786,3694 1739,3585 2195,3659 2395,3539 3372,3640 3857,3596 3856,3487 928,3404 531,3535"/>
+                <Baseline points="552,3582 716,3581 880,3579 1044,3576 1208,3574 1372,3570 1536,3567 1701,3563 1865,3559 2029,3556 2193,3553 2357,3550 2521,3548 2685,3547 2850,3546 3014,3547 3178,3549 3342,3552 3506,3556 3670,3562 3835,3570"/>
+                <TextEquiv>
+                    <Unicode>in Nghesse an der Übergangsstelle der alten Barrabarra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:20;}">
+                <Coords points="521,3809 1294,3739 1602,3876 1767,3773 3062,3745 3186,3844 4007,3773 4005,3594 519,3652"/>
+                <Baseline points="542,3768 714,3762 886,3757 1058,3753 1231,3749 1403,3745 1575,3742 1747,3739 1920,3737 2092,3735 2264,3733 2436,3731 2609,3730 2781,3729 2953,3728 3125,3727 3298,3726 3470,3726 3642,3725 3814,3725 3987,3724"/>
+                <TextEquiv>
+                    <Unicode>Daressalaam-Mrogoro (jetzt Telegraphenlinie) über den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:21;}">
+                <Coords points="521,4056 2493,3916 3483,4008 3871,3952 3871,3843 3590,3749 3184,3844 3060,3745 2436,3864 2089,3771 1648,3875 519,3841"/>
+                <Baseline points="540,3947 705,3943 871,3938 1036,3934 1202,3930 1367,3926 1533,3922 1698,3919 1864,3916 2029,3913 2195,3911 2360,3909 2526,3908 2691,3908 2857,3908 3022,3909 3188,3910 3353,3912 3519,3916 3684,3920 3850,3924"/>
+                <TextEquiv>
+                    <Unicode>Ngerengere. Schöne große Bäume, deren Laub jedoch bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:22;}">
+                <Coords points="538,4236 900,4128 1592,4228 1758,4117 2200,4202 2545,4099 3775,4138 3774,4042 2968,3938 537,4052"/>
+                <Baseline points="557,4127 716,4123 876,4119 1036,4115 1195,4112 1355,4109 1515,4106 1674,4104 1834,4102 1994,4100 2154,4099 2313,4098 2473,4097 2633,4097 2792,4097 2952,4097 3112,4098 3271,4099 3431,4101 3591,4102 3751,4105"/>
+                <TextEquiv>
+                    <Unicode>jedem Windstoß fiel. Fluß 3-10 m. breit u. kaum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:23;}">
+                <Coords points="515,4337 1578,4290 2336,4412 2785,4282 3338,4392 3980,4339 3979,4164 515,4258"/>
+                <Baseline points="535,4302 706,4301 877,4299 1048,4298 1219,4297 1390,4295 1561,4294 1732,4292 1903,4291 2074,4289 2245,4288 2416,4287 2587,4285 2758,4284 2929,4283 3100,4283 3271,4282 3442,4281 3613,4281 3784,4281 3956,4281"/>
+                <TextEquiv>
+                    <Unicode>knietief, doch ziemlich heftig strömend; zur Regenzeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:24;}">
+                <Coords points="524,4524 4046,4498 4046,4376 3805,4323 3206,4437 1644,4305 1382,4410 524,4362"/>
+                <Baseline points="545,4471 719,4470 893,4469 1067,4469 1241,4468 1415,4468 1589,4468 1763,4468 1937,4468 2111,4468 2285,4469 2459,4469 2633,4469 2807,4470 2981,4470 3155,4470 3329,4470 3503,4470 3677,4469 3851,4469 4026,4468"/>
+                <TextEquiv>
+                    <Unicode>soll er die hohen Steilufer überfluten u. in d. Tat ist ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:25;}">
+                <Coords points="499,4668 3868,4712 3868,4559 3185,4476 499,4563"/>
+                <Baseline points="522,4640 688,4643 854,4645 1020,4646 1186,4646 1353,4645 1519,4644 1685,4642 1851,4639 2017,4637 2184,4635 2350,4633 2516,4632 2682,4631 2848,4632 3015,4633 3181,4636 3347,4641 3513,4647 3679,4655 3846,4666"/>
+                <TextEquiv>
+                    <Unicode>kleineres u. ein größeres Bett erkennbar (dann nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:26;}">
+                <Coords points="515,4912 1103,4803 1736,4926 2236,4806 3153,4968 3933,4896 3935,4717 3813,4680 3401,4775 2584,4649 1747,4760 519,4659"/>
+                <Baseline points="539,4808 707,4803 876,4799 1044,4797 1213,4796 1381,4795 1550,4796 1718,4798 1887,4800 2055,4804 2224,4807 2393,4811 2561,4815 2730,4819 2898,4823 3067,4827 3235,4831 3404,4834 3572,4837 3741,4839 3910,4841"/>
+                <TextEquiv>
+                    <Unicode>Übersetzen im Boot möglich, da Brücke natürlich zerfallen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>139&#xD;
+Bananen, aber in all der tropischen Vegetation u. trotz&#xD;
+eifriger Feldarbeit ein erschreckender Nahrungsmangel.&#xD;
+Alles vertrocknet u. das scheint die Regel zu sein. Es&#xD;
+wurde allenthalben geklagt, freilich glaubte ich nicht&#xD;
+immer. Abends Gewitter, Regen.&#xD;
+Sonntag d. 20.II: Marsch durch prachtvollen Wald zum&#xD;
+Jumben Dimiri, da noch sehr früh, weiter marschiert.&#xD;
+Ziemlich großer, angeblich schlangenfressender Vogel mit&#xD;
+Schopf auf Bäumen sitzend (nicht Sekretär!)&#xD;
+Am Morgen die braunen Letten als Griffelschiefer,&#xD;
+darüber (?) bröckelige, weiße Kalke, an einem Bachriß&#xD;
+Tone angeschnitten (tief), am Wege auch feste Sandsteine in&#xD;
+Blöcken. Nach 1 Std. Marsch großschalige Muscheln wie&#xD;
+km. 121,7-8. Hinter Jumbe Dimiri (Nachfolger v. Kibendela)&#xD;
+Fossilien, aber schlecht, ein Sandstein mit ziemlich großen&#xD;
+Geröllen darin, am Westabhange des Lutari (bezw. Weg durch&#xD;
+denselben; bei Bornhardt Utari) auch die langen turm„&#xD;
+förmigen Schnecken wieder. Köstlicher Lagerplatz&#xD;
+in Nghesse an der Übergangsstelle der alten Barrabarra&#xD;
+Daressalaam-Mrogoro (jetzt Telegraphenlinie) über den&#xD;
+Ngerengere. Schöne große Bäume, deren Laub jedoch bei&#xD;
+jedem Windstoß fiel. Fluß 3-10 m. breit u. kaum&#xD;
+knietief, doch ziemlich heftig strömend; zur Regenzeit&#xD;
+soll er die hohen Steilufer überfluten u. in d. Tat ist ein&#xD;
+kleineres u. ein größeres Bett erkennbar (dann nur&#xD;
+Übersetzen im Boot möglich, da Brücke natürlich zerfallen)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

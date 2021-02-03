@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:58.459+02:00</Created>
+        <LastChange>2020-04-01T10:10:05.366+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550815" pageNr="113" tsid="26823999" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=NNSKIZDOSYXLJQPXJKSNJPWL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YQGXPNIQUDTKOZNOGYEPUKLD" imageId="4551693"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_113.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255565755" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:0;}">
+            <Coords points="425,192 425,4848 4092,4848 4092,192"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="3708,292 3804,289 3857,320 3881,303 3902,327 3926,319 3980,336 3992,140 3946,147 3914,135 3862,160 3717,137"/>
+                <Baseline points="3730,277 3755,276 3780,276 3806,278 3831,279 3856,282 3882,284 3907,286 3932,287 3958,287"/>
+                <TextEquiv>
+                    <Unicode>109</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895071643_3409" custom="readingOrder {index:1;} textStyle {offset:22; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="449,393 1130,364 1410,505 2050,363 2205,472 2740,352 4058,455 4057,263 3659,237 828,218 449,324"/>
+                <Baseline points="473,379 650,375 827,371 1004,368 1181,365 1358,362 1535,359 1713,357 1890,355 2067,354 2244,353 2421,352 2598,352 2775,352 2953,352 3130,353 3307,355 3484,356 3661,359 3838,362 4016,365 3975,420 4005,426 4035,428"/>
+                <TextEquiv>
+                    <Unicode>nicht über die halsbrescherische u. seiltänzerische Lianen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:2;}">
+                <Coords points="468,702 1102,569 1931,681 2670,528 2836,654 3000,560 3673,628 3951,565 3949,437 3177,480 2978,355 2687,478 464,478"/>
+                <Baseline points="489,580 661,574 833,567 1005,562 1177,555 1349,550 1521,545 1693,541 1865,536 2037,533 2209,530 2381,527 2553,525 2725,523 2897,523 3069,523 3241,524 3413,525 3585,528 3757,531 3929,535"/>
+                <TextEquiv>
+                    <Unicode>hängebrücke, die die Eingebornen für d. Regenzeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:3;}">
+                <Coords points="402,819 1455,885 1609,751 2360,820 2748,711 3504,835 4034,774 4092,636 3002,561 1933,683 1644,567 1334,690 1109,564 401,718"/>
+                <Baseline points="425,768 607,761 789,755 971,749 1153,744 1336,739 1518,734 1700,729 1882,725 2064,721 2247,718 2429,716 2611,714 2793,714 2975,714 3158,715 3340,717 3522,719 3704,723 3886,729 4069,735"/>
+                <TextEquiv>
+                    <Unicode>hier geschlagen haben. Wir gerieten in ganz schlimmes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:4;}">
+                <Coords points="437,960 818,1069 2115,907 2368,1019 3460,909 4061,1021 4112,727 3464,850 2200,764 436,882"/>
+                <Baseline points="461,957 642,953 824,948 1005,943 1187,938 1368,932 1550,926 1731,921 1913,915 2094,910 2276,906 2458,903 2639,900 2821,899 3002,899 3184,900 3365,903 3547,908 3728,914 3910,923 4092,934"/>
+                <TextEquiv>
+                    <Unicode>hohes, hartes Gras, nur Wildpfade u. Elephantenstraßen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l7" custom="readingOrder {index:5;}">
+                <Coords points="521,1251 1172,1118 1628,1260 2229,1100 2900,1232 3832,1176 3827,956 3595,1030 3332,921 3197,1034 2276,957 517,1064"/>
+                <Baseline points="541,1157 704,1148 867,1139 1030,1131 1194,1125 1357,1118 1520,1113 1684,1108 1847,1105 2010,1101 2174,1098 2337,1095 2500,1093 2663,1091 2827,1089 2990,1087 3153,1086 3317,1084 3480,1082 3643,1080 3807,1078"/>
+                <TextEquiv>
+                    <Unicode>(es sollten einige Elephanten auch jetzt hier täglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l8" custom="readingOrder {index:6;}">
+                <Coords points="473,1401 1816,1304 2532,1420 2968,1284 3126,1400 3568,1287 3753,1407 3863,1181 1813,1158 1632,1266 1251,1163 471,1282"/>
+                <Baseline points="495,1343 662,1339 829,1334 996,1329 1164,1324 1331,1319 1498,1314 1666,1310 1833,1305 2000,1301 2168,1297 2335,1294 2502,1291 2669,1289 2837,1287 3004,1286 3171,1286 3339,1286 3506,1288 3673,1290 3841,1293"/>
+                <TextEquiv>
+                    <Unicode>durchgehen) machten es überhaupt passierbar. Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:7;}">
+                <Coords points="451,1649 984,1503 2070,1587 2425,1462 2834,1593 3133,1451 3776,1564 4081,1518 4079,1349 447,1384"/>
+                <Baseline points="473,1526 652,1514 831,1504 1010,1495 1189,1486 1369,1479 1548,1473 1727,1468 1906,1463 2085,1460 2265,1457 2444,1455 2623,1454 2802,1453 2981,1453 3161,1454 3340,1455 3519,1456 3698,1458 3877,1460 4057,1463"/>
+                <TextEquiv>
+                    <Unicode>sah eine ganze Schar Schweine leicht erreichbar, hatte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:8;}">
+                <Coords points="450,1746 2168,1640 2876,1787 3206,1633 3953,1669 4012,1499 448,1659"/>
+                <Baseline points="472,1719 648,1708 824,1698 1000,1689 1176,1680 1352,1672 1528,1666 1704,1659 1880,1654 2056,1648 2232,1644 2408,1640 2584,1637 2760,1634 2936,1633 3112,1631 3288,1630 3464,1629 3640,1629 3816,1629 3993,1629"/>
+                <TextEquiv>
+                    <Unicode>aber bereits morgens eins geschossen und wollte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:9;}">
+                <Coords points="470,1908 4037,1870 4034,1728 3750,1674 467,1757"/>
+                <Baseline points="492,1900 668,1884 844,1870 1020,1857 1196,1846 1372,1838 1548,1832 1725,1826 1901,1822 2077,1819 2253,1817 2429,1816 2605,1816 2781,1816 2958,1816 3134,1816 3310,1816 3486,1816 3662,1816 3838,1815 4015,1813"/>
+                <TextEquiv>
+                    <Unicode>die „Ndogolo“ nicht verscheuchen, sah dann aber sogleich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l12" custom="readingOrder {index:10;}">
+                <Coords points="487,2072 1715,2141 1896,2032 2200,2150 2938,2012 3863,2050 3861,1954 3521,1869 1977,1971 1028,1852 779,2016 486,1990"/>
+                <Baseline points="512,2071 678,2066 844,2060 1010,2054 1177,2048 1343,2042 1509,2037 1676,2031 1842,2026 2008,2021 2175,2017 2341,2013 2507,2010 2673,2008 2840,2006 3006,2006 3172,2006 3339,2008 3505,2011 3671,2014 3838,2020"/>
+                <TextEquiv>
+                    <Unicode>ein Puduka, das ich erlegte. Dicht bei ihm fanden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:11;}">
+                <Coords points="520,2249 2660,2202 2999,2299 3469,2161 4097,2272 4094,2071 3340,2130 3193,2008 519,2171"/>
+                <Baseline points="540,2233 716,2223 893,2214 1069,2206 1246,2199 1422,2192 1599,2187 1775,2182 1952,2179 2128,2176 2305,2173 2482,2172 2658,2171 2835,2171 3011,2172 3188,2173 3364,2175 3541,2178 3717,2182 3894,2186 4071,2191"/>
+                <TextEquiv>
+                    <Unicode>wir zu meinem Bedauern einen Embryo, der durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:12;}">
+                <Coords points="491,2426 1133,2521 1259,2409 2538,2330 3456,2480 3920,2363 3918,2231 489,2307"/>
+                <Baseline points="514,2404 683,2392 852,2382 1021,2374 1190,2365 1359,2359 1528,2354 1697,2350 1866,2346 2035,2344 2204,2342 2373,2340 2542,2339 2711,2339 2880,2338 3049,2338 3218,2339 3387,2339 3556,2339 3725,2339 3895,2339"/>
+                <TextEquiv>
+                    <Unicode>d. Schuß hinausgetrieben war aber unverletzt , daher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:13;}">
+                <Coords points="552,2630 3973,2559 3778,2393 3450,2472 2903,2362 1145,2515 549,2443"/>
+                <Baseline points="572,2582 740,2574 909,2566 1078,2559 1247,2552 1415,2545 1584,2540 1753,2535 1922,2530 2090,2526 2259,2522 2428,2520 2597,2518 2765,2516 2934,2516 3103,2516 3272,2517 3440,2518 3609,2521 3778,2524 3947,2528"/>
+                <TextEquiv>
+                    <Unicode>mitgenommen wurde, um des Skelettes willen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895081795_3414" custom="readingOrder {index:14;}">
+                <Coords points="533,2812 1382,2767 1783,2874 1963,2742 2722,2722 3365,2846 3523,2733 3880,2763 3877,2589 529,2629"/>
+                <Baseline points="555,2770 617,2771 680,2771 743,2770 806,2769 869,2766 932,2763 994,2760 1057,2757 1120,2753 1183,2750 1246,2746 1309,2744 1372,2742 1434,2740 1497,2740 1560,2741 1623,2744 1686,2747 1749,2752 1812,2759 1833,2741 1934,2737 2035,2733 2136,2730 2237,2728 2338,2726 2439,2724 2540,2722 2641,2720 2742,2719 2843,2718 2944,2717 3045,2716 3146,2714 3247,2713 3348,2712 3449,2711 3550,2710 3651,2708 3752,2706 3854,2704"/>
+                <TextEquiv>
+                    <Unicode>Bald traf ich auch Janensch, der ein angeschossenes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l18" custom="readingOrder {index:15;}">
+                <Coords points="556,2999 1298,3075 1479,2962 1909,2939 2066,3046 2293,2936 2743,3050 3203,2935 3502,3030 3861,2913 3858,2748 1587,2886 1343,2781 1080,2906 552,2811"/>
+                <Baseline points="577,2947 740,2951 903,2953 1066,2953 1229,2952 1392,2949 1555,2945 1718,2941 1881,2936 2044,2930 2207,2924 2370,2918 2533,2913 2696,2908 2859,2905 3022,2902 3185,2900 3348,2900 3511,2902 3674,2905 3837,2911"/>
+                <TextEquiv>
+                    <Unicode>Tier verfolgte. Da ich ihm nicht hinderlich sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l19" custom="readingOrder {index:16;}">
+                <Coords points="515,3158 1009,3119 1358,3238 1919,3097 3197,3217 3520,3102 3718,3186 3830,3029 513,2984"/>
+                <Baseline points="538,3136 701,3131 865,3126 1028,3122 1192,3118 1355,3115 1519,3111 1682,3109 1846,3106 2009,3103 2173,3101 2337,3099 2500,3097 2664,3095 2827,3094 2991,3093 3154,3092 3318,3090 3481,3089 3645,3089 3809,3088"/>
+                <TextEquiv>
+                    <Unicode>wollte u. auch recht ermüdet war, schwenkte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l20" custom="readingOrder {index:17;}">
+                <Coords points="504,3314 1094,3386 1455,3280 1634,3412 2022,3260 2338,3405 3234,3247 3605,3397 3838,3323 3838,3126 3568,3214 2978,3120 2822,3216 503,3159"/>
+                <Baseline points="525,3296 689,3288 854,3281 1018,3276 1183,3271 1348,3266 1512,3263 1677,3260 1841,3259 2006,3258 2171,3257 2335,3258 2500,3258 2664,3260 2829,3262 2994,3264 3158,3267 3323,3269 3487,3273 3652,3277 3817,3280"/>
+                <TextEquiv>
+                    <Unicode>links ab, um mich zum Flusse u. Lager durchzu„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895089358_3419" custom="readingOrder {index:18;}">
+                <Coords points="477,3626 768,3476 1298,3447 2956,3570 3105,3444 3308,3556 3851,3468 2984,3272 1714,3397 473,3311"/>
+                <Baseline points="497,3505 529,3499 562,3494 595,3490 628,3487 660,3484 693,3481 726,3479 759,3478 791,3477 824,3476 857,3475 890,3474 922,3474 955,3474 988,3473 1021,3473 1053,3471 1086,3470 1119,3469 1152,3466 1177,3450 1243,3450 1309,3450 1376,3449 1442,3448 1509,3447 1575,3444 1642,3443 1708,3441 1775,3440 1841,3438 1907,3437 1974,3436 2040,3436 2107,3436 2173,3436 2240,3437 2306,3439 2373,3442 2439,3445 2506,3450 2530,3434 2594,3437 2659,3441 2724,3442 2789,3443 2854,3443 2919,3443 2984,3442 3049,3441 3114,3440 3179,3439 3243,3439 3308,3438 3373,3437 3438,3438 3503,3438 3568,3440 3633,3442 3698,3446 3763,3449 3828,3455"/>
+                <TextEquiv>
+                    <Unicode>schlagen. Aber unmittelbar darauf sah ich eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895093233_3424" custom="readingOrder {index:19;}">
+                <Coords points="505,3766 833,3688 1137,3835 1921,3644 2092,3770 2474,3654 2609,3758 3391,3751 3829,3721 3919,3587 3112,3444 2963,3574 784,3478 502,3602"/>
+                <Baseline points="526,3715 670,3702 814,3691 958,3681 1102,3672 1247,3665 1391,3658 1535,3653 1679,3648 1823,3645 1968,3642 2112,3640 2256,3639 2400,3639 2544,3640 2689,3641 2833,3643 2977,3645 3121,3648 3265,3652 3410,3655 3428,3638 3454,3639 3480,3640 3506,3640 3532,3639 3558,3639 3584,3638 3610,3637 3636,3636 3662,3635 3688,3635 3714,3635 3740,3636 3766,3638 3792,3640 3818,3644 3844,3649 3870,3655 3897,3663"/>
+                <TextEquiv>
+                    <Unicode>Ndogolo-Herde, vielleicht 10 Köpfe stark. Jetzt er„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l26" custom="readingOrder {index:20;}">
+                <Coords points="554,3958 1750,3845 2017,3929 2317,3806 4029,3887 4027,3782 3606,3719 2097,3772 1199,3652 551,3757"/>
+                <Baseline points="577,3891 748,3881 920,3873 1091,3864 1263,3856 1434,3849 1606,3841 1777,3835 1949,3830 2120,3825 2292,3821 2463,3819 2635,3817 2806,3817 2978,3818 3149,3820 3321,3823 3492,3828 3664,3835 3835,3844 4007,3854"/>
+                <TextEquiv>
+                    <Unicode>folgte zu meinem Ärger wieder eine Kanona„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l27" custom="readingOrder {index:21;}">
+                <Coords points="469,4151 4007,4018 3921,3892 2657,3834 2148,3966 465,4005"/>
+                <Baseline points="492,4085 666,4074 841,4064 1015,4054 1190,4045 1365,4037 1539,4030 1714,4022 1889,4016 2063,4011 2238,4006 2413,4002 2587,3999 2762,3996 2937,3993 3111,3992 3286,3991 3461,3991 3635,3991 3810,3992 3985,3993"/>
+                <TextEquiv>
+                    <Unicode>de, ohne daß ich einen Erfolg beobachten konnte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l28" custom="readingOrder {index:22;}">
+                <Coords points="476,4360 1067,4233 1980,4326 2254,4171 2619,4284 3051,4175 3859,4280 3899,4082 2726,4020 1751,4163 1550,4022 1202,4179 469,4150"/>
+                <Baseline points="496,4257 665,4251 834,4243 1003,4236 1173,4228 1342,4220 1511,4212 1680,4205 1850,4198 2019,4191 2188,4184 2357,4179 2527,4174 2696,4170 2865,4166 3034,4164 3204,4163 3373,4163 3542,4165 3711,4168 3881,4173"/>
+                <TextEquiv>
+                    <Unicode>Schließlich verlor ich sie bei schwerer Verfolgung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l29" custom="readingOrder {index:23;}">
+                <Coords points="501,4442 2105,4514 2380,4382 2680,4479 2860,4354 3756,4333 3327,4222 1335,4331 1094,4232 500,4396"/>
+                <Baseline points="522,4432 682,4423 842,4415 1003,4407 1163,4400 1324,4393 1484,4386 1645,4380 1805,4375 1966,4370 2126,4365 2286,4360 2447,4357 2607,4353 2768,4350 2928,4347 3089,4344 3249,4341 3410,4339 3570,4337 3731,4336"/>
+                <TextEquiv>
+                    <Unicode>u. mußte mich ausruhen. Ali ging indes um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l30" custom="readingOrder {index:24;}">
+                <Coords points="451,4642 994,4592 1258,4705 1831,4567 2232,4686 2924,4541 3412,4662 3894,4549 3890,4394 3555,4343 3032,4493 2449,4406 2159,4514 448,4509"/>
+                <Baseline points="475,4612 644,4603 814,4595 984,4589 1153,4582 1323,4577 1493,4573 1662,4569 1832,4566 2002,4562 2172,4560 2341,4557 2511,4554 2681,4551 2850,4547 3020,4544 3190,4539 3359,4534 3529,4528 3699,4522 3869,4513"/>
+                <TextEquiv>
+                    <Unicode>etwaige Blutspuren oder gefallene Tiere zu suchen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l31" custom="readingOrder {index:25;}">
+                <Coords points="452,4873 938,4924 1484,4782 1729,4910 2588,4895 3231,4751 3718,4866 3951,4610 1455,4713 991,4607 450,4745"/>
+                <Baseline points="472,4806 644,4795 817,4787 990,4779 1163,4773 1336,4769 1509,4765 1681,4763 1854,4760 2027,4759 2200,4758 2373,4757 2546,4755 2719,4754 2891,4752 3064,4749 3237,4746 3410,4742 3583,4736 3756,4729 3929,4720"/>
+                <TextEquiv>
+                    <Unicode>denn ich hatte in d. Gras nichts sehen können. Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>109&#xD;
+nicht über die halsbrescherische u. seiltänzerische Lianen„&#xD;
+hängebrücke, die die Eingebornen für d. Regenzeit&#xD;
+hier geschlagen haben. Wir gerieten in ganz schlimmes,&#xD;
+hohes, hartes Gras, nur Wildpfade u. Elephantenstraßen&#xD;
+(es sollten einige Elephanten auch jetzt hier täglich&#xD;
+durchgehen) machten es überhaupt passierbar. Ich&#xD;
+sah eine ganze Schar Schweine leicht erreichbar, hatte&#xD;
+aber bereits morgens eins geschossen und wollte&#xD;
+die „Ndogolo“ nicht verscheuchen, sah dann aber sogleich&#xD;
+ein Puduka, das ich erlegte. Dicht bei ihm fanden&#xD;
+wir zu meinem Bedauern einen Embryo, der durch&#xD;
+d. Schuß hinausgetrieben war aber unverletzt , daher&#xD;
+mitgenommen wurde, um des Skelettes willen.&#xD;
+Bald traf ich auch Janensch, der ein angeschossenes&#xD;
+Tier verfolgte. Da ich ihm nicht hinderlich sein&#xD;
+wollte u. auch recht ermüdet war, schwenkte ich&#xD;
+links ab, um mich zum Flusse u. Lager durchzu„&#xD;
+schlagen. Aber unmittelbar darauf sah ich eine&#xD;
+Ndogolo-Herde, vielleicht 10 Köpfe stark. Jetzt er„&#xD;
+folgte zu meinem Ärger wieder eine Kanona„&#xD;
+de, ohne daß ich einen Erfolg beobachten konnte.&#xD;
+Schließlich verlor ich sie bei schwerer Verfolgung&#xD;
+u. mußte mich ausruhen. Ali ging indes um&#xD;
+etwaige Blutspuren oder gefallene Tiere zu suchen,&#xD;
+denn ich hatte in d. Gras nichts sehen können. Es</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

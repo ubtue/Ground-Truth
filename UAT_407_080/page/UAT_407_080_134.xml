@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:59.660+02:00</Created>
+        <LastChange>2020-03-26T15:37:14.685+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550836" pageNr="134" tsid="26477741" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=PGRNIUDWYDLFWRQLCVFHYEVA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QQWEOSKBDLTZSXZOIFHDRWSP" imageId="4551714"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_134.jpg" imageWidth="4324" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255570435" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582896635779_3872"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582896635779_3872" custom="readingOrder {index:0;}">
+            <Coords points="372,302 504,302 4073,384 4073,4791 663,4791 372,460"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="350,434 379,437 431,478 448,465 499,485 529,476 524,281 503,282 487,295 465,282 452,287 418,266 393,288 346,294"/>
+                <Baseline points="372,410 398,405 424,403 451,402 477,404 504,406 570,374"/>
+                <TextEquiv>
+                    <Unicode>130</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582896651981_3882" custom="readingOrder {index:1;}">
+                <Coords points="642,550 1478,477 1941,577 2200,475 2820,597 3622,463 4081,547 4080,386 3660,272 2654,427 1389,277 1198,363 883,236 642,309"/>
+                <Baseline points="663,478 704,475 746,473 788,472 830,471 872,471 914,471 955,471 997,471 1039,472 1081,472 1123,473 1165,474 1207,474 1248,475 1290,476 1332,476 1374,476 1416,476 1458,476 1500,475 1701,483 1733,480 1765,481 1834,463 1945,470 2056,475 2167,478 2278,480 2390,480 2501,479 2612,477 2723,475 2834,472 2946,469 3057,466 3168,464 3279,462 3390,461 3502,462 3613,463 3724,466 3835,472 3946,478 4058,488"/>
+                <TextEquiv>
+                    <Unicode>Bei km. 142,6-7. Schieferletten mit starker Verwitt.-Decke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="1150,675 4032,689 4032,571 3642,473 2891,583 2483,485 1948,574 1150,527"/>
+                <Baseline points="1173,618 1322,620 1471,622 1621,623 1770,624 1920,625 2069,625 2218,626 2368,625 2517,625 2667,625 2816,625 2966,624 3115,624 3264,623 3414,623 3563,623 3713,623 3862,623 4012,624"/>
+                <TextEquiv>
+                    <Unicode>142,4 wieder feste Bänke mit Einschlüssen; von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="954,804 1157,906 1875,789 2057,887 2550,790 2864,880 3501,796 3721,907 4006,827 3896,678 954,660"/>
+                <Baseline points="976,791 1126,789 1276,787 1427,786 1577,785 1728,784 1878,784 2029,784 2179,784 2330,785 2480,785 2630,786 2781,787 2931,788 3082,789 3232,789 3383,790 3533,791 3684,791 3834,792 3985,792"/>
+                <TextEquiv>
+                    <Unicode>Tonschmitzen (und Quarzit??) Grünliche Tone, sehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="917,1083 1409,958 1868,1054 2020,943 3493,959 3786,1077 3986,1000 3943,868 3437,798 1158,913 916,841"/>
+                <Baseline points="939,968 1090,964 1241,960 1392,956 1544,952 1695,948 1846,944 1998,940 2149,937 2300,934 2452,933 2603,931 2754,931 2905,931 3057,933 3208,936 3359,939 3511,945 3662,953 3813,960 3965,971"/>
+                <TextEquiv>
+                    <Unicode>feinblättrige Schieferletten u. grobe Geröllbänke wech„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="885,1242 1104,1142 1436,1223 1567,1124 1838,1099 2553,1218 2738,1110 3040,1141 3132,991 2496,1054 2321,975 1727,1046 1608,983 1277,1059 1064,998 883,1068"/>
+                <Baseline points="906,1135 1016,1129 1126,1124 1236,1120 1346,1116 1457,1113 1567,1110 1677,1107 1787,1106 1897,1104 2008,1103 2118,1102 2228,1101 2338,1101 2448,1101 2559,1101 2669,1102 2779,1103 2889,1103 2999,1105 3110,1106"/>
+                <TextEquiv>
+                    <Unicode>selnd. Rote Farbe vorherrschend bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="1168,1387 2971,1277 3987,1347 4047,1137 1165,1201"/>
+                <Baseline points="1187,1311 1329,1309 1471,1307 1613,1304 1755,1301 1897,1298 2039,1294 2181,1291 2323,1288 2465,1284 2607,1281 2749,1278 2891,1274 3033,1272 3175,1269 3317,1267 3459,1266 3601,1265 3743,1264 3885,1264 4027,1265"/>
+                <TextEquiv>
+                    <Unicode>141,9. Winzige Muschelspuren in den Sandsteinletten?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="1156,1506 1629,1584 1839,1473 2177,1584 2603,1494 2771,1583 3041,1496 4094,1519 4091,1366 3563,1293 3395,1374 2909,1296 1153,1404"/>
+                <Baseline points="1175,1495 1319,1492 1464,1489 1609,1485 1754,1480 1899,1474 2044,1468 2189,1463 2334,1457 2479,1451 2624,1446 2768,1441 2913,1437 3058,1434 3203,1432 3348,1431 3493,1431 3638,1433 3783,1437 3928,1442 4073,1450"/>
+                <TextEquiv>
+                    <Unicode>138,7 (nach Taleinschnitt) neues Gestein (Kalk?), Einfallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="976,1691 1205,1661 1253,1694 1429,1649 1477,1677 1621,1651 1723,1677 1720,1567 1631,1583 1532,1539 1414,1582 1329,1568 1279,1604 1227,1580 1074,1581 1037,1612 973,1597"/>
+                <Baseline points="995,1669 1030,1667 1065,1665 1100,1663 1136,1661 1171,1659 1206,1657 1242,1656 1277,1654 1312,1653 1348,1652 1383,1650 1418,1649 1453,1648 1489,1647 1524,1647 1559,1646 1595,1646 1630,1645 1665,1645 1701,1645"/>
+                <TextEquiv>
+                    <Unicode>unverändert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="1157,1813 2565,1765 2839,1861 3185,1768 3425,1865 3559,1751 4039,1779 4037,1673 2910,1600 2229,1709 1925,1613 1698,1712 1154,1673"/>
+                <Baseline points="1178,1801 1327,1794 1476,1789 1626,1784 1775,1779 1925,1776 2074,1772 2223,1768 2373,1766 2522,1763 2672,1760 2821,1757 2971,1755 3120,1752 3269,1749 3419,1746 3568,1743 3718,1739 3867,1735 4017,1730"/>
+                <TextEquiv>
+                    <Unicode>138,2 nach beiden Seiten Schotterbruchgraben in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="929,2062 1473,2095 1745,1966 2806,2049 2971,1933 3675,2023 4021,1931 3825,1797 3501,1889 3230,1792 923,1909"/>
+                <Baseline points="949,2009 1101,2006 1254,2002 1406,1996 1559,1992 1711,1986 1864,1980 2016,1974 2169,1968 2321,1961 2474,1955 2626,1950 2779,1944 2931,1938 3084,1933 3236,1929 3389,1925 3541,1921 3694,1919 3846,1917 3999,1916"/>
+                <TextEquiv>
+                    <Unicode>einer festen Bank von bläulich-hellem Sandstein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="934,2291 1808,2138 2058,2246 2505,2139 3505,2199 4075,2097 4071,1970 3288,2048 2970,1934 2816,2045 2470,1970 928,2105"/>
+                <Baseline points="951,2177 1106,2169 1261,2161 1416,2154 1571,2147 1727,2141 1882,2135 2037,2130 2192,2125 2347,2120 2503,2116 2658,2111 2813,2108 2968,2104 3123,2100 3279,2097 3434,2094 3589,2091 3744,2088 3899,2085 4055,2082"/>
+                <TextEquiv>
+                    <Unicode>Einfallen wie bisher. Merkte erst hier, daß ich bereits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="951,2391 2710,2424 3228,2284 3787,2347 4007,2191 1692,2184 948,2302"/>
+                <Baseline points="969,2348 1119,2347 1270,2345 1421,2343 1572,2340 1723,2337 1874,2333 2025,2328 2176,2324 2327,2319 2478,2314 2628,2309 2779,2303 2930,2297 3081,2291 3232,2285 3383,2280 3534,2274 3685,2269 3836,2264 3987,2259"/>
+                <TextEquiv>
+                    <Unicode>in Kitugallo, also längst im Jura war u. begann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="940,2555 2127,2607 2348,2496 3361,2431 3527,2535 3740,2451 3733,2285 3496,2396 2999,2309 2719,2414 1274,2393 938,2491"/>
+                <Baseline points="960,2530 1098,2529 1236,2527 1374,2524 1512,2520 1650,2516 1788,2511 1926,2506 2064,2500 2202,2494 2340,2488 2478,2482 2616,2475 2754,2469 2892,2463 3030,2457 3168,2452 3306,2447 3444,2442 3582,2438 3720,2435"/>
+                <TextEquiv>
+                    <Unicode>am Karoo zu zweifeln. An der Station große</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="950,2733 3938,2653 3932,2496 3621,2571 3391,2447 3183,2573 2527,2514 1163,2632 944,2546"/>
+                <Baseline points="970,2707 1117,2701 1264,2696 1412,2690 1559,2685 1706,2679 1854,2674 2001,2668 2148,2662 2296,2657 2443,2652 2590,2646 2738,2641 2885,2636 3032,2631 3180,2627 3327,2623 3474,2620 3622,2617 3769,2614 3917,2612"/>
+                <TextEquiv>
+                    <Unicode>Steinbrüche (1. Smlg. Lettre-Sattler u. eigene) in blau„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="943,2969 2111,2817 2279,2905 2628,2801 3332,2889 3494,2773 3937,2815 3933,2709 3431,2661 937,2765"/>
+                <Baseline points="963,2866 1110,2857 1258,2849 1405,2841 1553,2834 1701,2827 1848,2821 1996,2815 2143,2810 2291,2806 2439,2801 2586,2797 2734,2793 2881,2790 3029,2786 3177,2783 3324,2780 3472,2776 3619,2774 3767,2771 3915,2767"/>
+                <TextEquiv>
+                    <Unicode>grauem oolithischen Kalksandstein mit großen ein„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="907,3138 2250,2982 2494,3087 3604,2958 4035,3063 3975,2860 3394,2908 3091,2814 2762,2923 2594,2817 2304,2934 1937,2858 903,2968"/>
+                <Baseline points="925,3020 1079,3019 1233,3016 1387,3012 1542,3008 1696,3003 1850,2997 2005,2991 2159,2986 2313,2979 2468,2973 2622,2969 2776,2964 2930,2960 3085,2957 3239,2956 3393,2955 3548,2956 3702,2959 3856,2963 4011,2969"/>
+                <TextEquiv>
+                    <Unicode>gesprengten Feldspäthen u. Quarzen (höchst eigentümliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:17;}">
+                <Coords points="919,3241 1350,3323 1580,3189 1711,3288 2522,3155 3794,3236 4047,3153 3376,3001 917,3143"/>
+                <Baseline points="939,3206 1093,3201 1247,3196 1402,3190 1556,3184 1711,3176 1865,3169 2019,3162 2174,3155 2328,3148 2483,3142 2637,3137 2791,3132 2946,3128 3100,3126 3255,3125 3409,3125 3563,3127 3718,3131 3872,3137 4027,3146"/>
+                <TextEquiv>
+                    <Unicode>Fazies!) sowie sehr spärlichen, aber auf d. Halden unschwer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;}">
+                <Coords points="903,3446 3039,3310 3323,3429 4037,3321 4033,3190 898,3306"/>
+                <Baseline points="923,3396 1077,3384 1232,3373 1386,3362 1541,3353 1696,3344 1850,3336 2005,3328 2159,3322 2314,3315 2469,3310 2623,3305 2778,3302 2932,3299 3087,3296 3242,3295 3396,3294 3551,3294 3705,3295 3860,3297 4015,3299"/>
+                <TextEquiv>
+                    <Unicode>sichtbaren Fossilien von deutlicher Struktur. Schwer heraus„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="947,3643 1347,3521 1770,3611 2264,3491 2568,3585 3138,3462 3993,3536 3987,3320 3323,3415 3219,3324 2521,3420 1844,3358 1715,3455 943,3494"/>
+                <Baseline points="966,3552 1116,3541 1266,3530 1416,3520 1567,3511 1717,3503 1867,3495 2017,3488 2168,3483 2318,3478 2468,3473 2618,3469 2769,3467 2919,3464 3069,3463 3219,3462 3370,3461 3520,3462 3670,3462 3820,3464 3971,3466"/>
+                <TextEquiv>
+                    <Unicode>zuholen u. vielfach bereits zerschlagen (Pecten, Ostreen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="954,3769 1189,3699 1473,3814 2153,3684 2428,3790 2836,3660 3276,3745 3438,3642 3696,3741 4021,3668 4017,3528 3323,3480 2813,3597 2458,3518 2325,3628 1083,3536 950,3642"/>
+                <Baseline points="973,3703 1124,3704 1275,3704 1426,3702 1578,3699 1729,3695 1880,3691 2032,3685 2183,3679 2334,3673 2486,3667 2637,3662 2788,3655 2939,3650 3091,3645 3242,3641 3393,3638 3545,3636 3696,3636 3847,3637 3999,3639"/>
+                <TextEquiv>
+                    <Unicode>Höchst auffallend ferner häckselartig zersplitterte, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="940,3924 1714,3972 1864,3862 2181,3951 2353,3862 2886,3954 3176,3831 3318,3934 3995,3823 3992,3704 3431,3685 3331,3768 3002,3683 2601,3774 1585,3729 1477,3813 935,3725"/>
+                <Baseline points="959,3896 1109,3887 1260,3878 1411,3869 1561,3861 1712,3854 1863,3847 2013,3841 2164,3836 2315,3832 2466,3828 2616,3824 2767,3821 2918,3818 3068,3816 3219,3815 3370,3814 3520,3814 3671,3814 3822,3814 3973,3815"/>
+                <TextEquiv>
+                    <Unicode>lokal angehäuft Holzkohle-Einschlüsse, die schon längs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="910,4071 1396,4162 1571,4047 1841,4134 2008,4032 2963,3996 3454,4112 3927,4007 3924,3880 907,3970"/>
+                <Baseline points="932,4071 1080,4063 1229,4055 1377,4047 1526,4039 1675,4033 1823,4026 1972,4020 2120,4015 2269,4011 2418,4006 2566,4003 2715,4000 2863,3997 3012,3996 3161,3995 3309,3995 3458,3996 3606,3997 3755,4000 3904,4003"/>
+                <TextEquiv>
+                    <Unicode>der Bahn im Schotter bis über Mikesse hinauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;} textStyle {offset:47; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="939,4293 1145,4338 1315,4223 1785,4303 2337,4164 3936,4230 3930,4035 3637,4018 3461,4108 3319,4022 2603,4115 2074,4023 1848,4136 936,4165"/>
+                <Baseline points="958,4246 1105,4233 1253,4222 1400,4212 1548,4203 1696,4195 1843,4188 1991,4182 2139,4177 2286,4172 2434,4169 2582,4166 2729,4163 2877,4161 3025,4159 3172,4158 3320,4157 3468,4156 3615,4155 3763,4155 3911,4154"/>
+                <TextEquiv>
+                    <Unicode>auffallen. Einfallen unverändert östlich, hier S.S.O.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="1071,4463 1587,4405 1782,4509 2066,4375 2435,4471 2834,4329 3029,4445 3132,4360 3850,4363 3738,4219 3334,4200 3185,4291 2892,4183 1067,4336"/>
+                <Baseline points="1092,4420 1228,4414 1365,4407 1502,4400 1639,4393 1776,4387 1912,4380 2049,4373 2186,4367 2323,4361 2460,4356 2596,4350 2733,4345 2870,4341 3007,4337 3144,4333 3280,4330 3417,4327 3554,4326 3691,4324 3828,4324"/>
+                <TextEquiv>
+                    <Unicode>137,4 Sandige, bräunliche, im Bruch glänzende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="914,4579 1222,4668 1368,4570 2233,4526 3446,4633 3971,4559 3842,4355 1804,4508 911,4464"/>
+                <Baseline points="934,4565 1084,4564 1235,4563 1386,4560 1537,4556 1687,4551 1838,4546 1989,4541 2140,4535 2290,4529 2441,4523 2592,4517 2743,4513 2893,4507 3044,4504 3195,4501 3346,4499 3496,4498 3647,4499 3798,4501 3949,4505"/>
+                <TextEquiv>
+                    <Unicode>Sandsteinletten, über d. blauen Kalken, Einfallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:26;} textStyle {offset:0; length:15;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="986,4878 1228,4789 1699,4843 1807,4795 1993,4790 1984,4599 1907,4582 1821,4650 1628,4608 1482,4666 1342,4669 1289,4633 1227,4670 972,4589"/>
+                <Baseline points="1002,4742 1077,4753 1121,4744 1166,4737 1210,4732 1255,4727 1300,4723 1344,4721 1389,4718 1433,4717 1478,4715 1523,4714 1567,4714 1612,4713 1656,4712 1701,4711 1746,4710 1790,4709 1835,4707 1879,4704 1924,4700 1969,4696"/>
+                <TextEquiv>
+                    <Unicode>S, ein wenig W!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>130&#xD;
+Bei km. 142,6-7. Schieferletten mit starker Verwitt.-Decke&#xD;
+142,4 wieder feste Bänke mit Einschlüssen; von&#xD;
+Tonschmitzen (und Quarzit??) Grünliche Tone, sehr&#xD;
+feinblättrige Schieferletten u. grobe Geröllbänke wech„&#xD;
+selnd. Rote Farbe vorherrschend bis&#xD;
+141,9. Winzige Muschelspuren in den Sandsteinletten?&#xD;
+138,7 (nach Taleinschnitt) neues Gestein (Kalk?), Einfallen&#xD;
+unverändert&#xD;
+138,2 nach beiden Seiten Schotterbruchgraben in&#xD;
+einer festen Bank von bläulich-hellem Sandstein,&#xD;
+Einfallen wie bisher. Merkte erst hier, daß ich bereits&#xD;
+in Kitugallo, also längst im Jura war u. begann&#xD;
+am Karoo zu zweifeln. An der Station große&#xD;
+Steinbrüche (1. Smlg. Lettre-Sattler u. eigene) in blau„&#xD;
+grauem oolithischen Kalksandstein mit großen ein„&#xD;
+gesprengten Feldspäthen u. Quarzen (höchst eigentümliche&#xD;
+Fazies!) sowie sehr spärlichen, aber auf d. Halden unschwer&#xD;
+sichtbaren Fossilien von deutlicher Struktur. Schwer heraus„&#xD;
+zuholen u. vielfach bereits zerschlagen (Pecten, Ostreen)&#xD;
+Höchst auffallend ferner häckselartig zersplitterte, aber&#xD;
+lokal angehäuft Holzkohle-Einschlüsse, die schon längs&#xD;
+der Bahn im Schotter bis über Mikesse hinauf&#xD;
+auffallen. Einfallen unverändert östlich, hier S.S.O.&#xD;
+137,4 Sandige, bräunliche, im Bruch glänzende&#xD;
+Sandsteinletten, über d. blauen Kalken, Einfallen&#xD;
+S, ein wenig W!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

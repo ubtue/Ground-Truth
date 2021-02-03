@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:41.282+02:00</Created>
+        <LastChange>2020-04-02T17:09:01.387+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551045" pageNr="156" tsid="26900184" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=ROQGIDDPSPWETAGWXOMIUCRV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HXCKXWDRNNQXVCIVGJHULSSE" imageId="4551923"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_156.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256514838" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1570537655268_106"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1570537655268_106" custom="readingOrder {index:0;}">
+            <Coords points="286,238 406,238 3942,377 3942,4750 428,4750 286,408"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="273,404 298,396 379,414 407,396 461,406 480,390 559,386 534,224 497,243 418,237 380,252 326,238 296,274 276,259 251,267"/>
+                <Baseline points="286,358 316,353 346,349 376,343 526,321"/>
+                <TextEquiv>
+                    <Unicode>154</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l1" custom="readingOrder {index:1;}">
+                <Coords points="523,546 1245,512 1377,618 1751,501 1909,610 2805,447 3780,524 3776,346 3213,303 520,429"/>
+                <Baseline points="542,507 702,509 863,510 1024,509 1185,506 1346,502 1506,498 1667,492 1828,487 1989,480 2150,475 2310,469 2471,464 2632,459 2793,455 2954,452 3114,451 3275,451 3436,453 3597,457 3758,464"/>
+                <TextEquiv>
+                    <Unicode>nach N ein wichtiger Anhaltspunkt sind. Dann links ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:2;}">
+                <Coords points="445,704 1794,627 2150,740 2438,619 3387,707 3706,608 3863,719 3899,476 3632,575 3419,486 2715,590 1935,478 1534,596 443,535"/>
+                <Baseline points="467,660 637,656 808,652 978,648 1149,645 1319,642 1490,640 1660,638 1831,636 2001,634 2172,633 2342,631 2513,630 2683,628 2854,627 3024,625 3195,623 3365,621 3536,618 3706,615 3877,612"/>
+                <TextEquiv>
+                    <Unicode>Weg in ein Gnu-reiches Tal hinab, aber nichts als Spuren, auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:3;}">
+                <Coords points="471,869 1164,892 1660,762 1994,880 2187,757 2340,863 2914,762 3170,872 3437,757 3629,855 3896,714 470,722"/>
+                <Baseline points="492,810 661,802 830,794 999,788 1168,782 1337,777 1506,772 1676,768 1845,766 2014,763 2183,762 2352,761 2521,760 2690,760 2860,761 3029,762 3198,763 3367,765 3536,767 3705,769 3875,772"/>
+                <TextEquiv>
+                    <Unicode>von Büffel, gesehen. Am Mavudyi durch den blödsinnigsten Weg, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:4;}">
+                <Coords points="500,976 775,1057 2593,898 2872,1018 3090,901 3925,905 3923,797 3714,749 3189,860 2918,753 499,898"/>
+                <Baseline points="522,958 691,951 860,944 1029,938 1198,933 1367,928 1536,923 1706,919 1875,915 2044,912 2213,909 2382,906 2551,903 2720,900 2890,898 3059,895 3228,893 3397,890 3566,888 3735,885 3905,883"/>
+                <TextEquiv>
+                    <Unicode>mir je vorgekommen ist, ein kleines Stückchen mit beträchtlicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:5;}">
+                <Coords points="497,1120 2727,1039 3023,1137 3878,1048 3876,948 494,973"/>
+                <Baseline points="520,1099 686,1092 853,1086 1020,1081 1187,1076 1353,1073 1520,1069 1687,1067 1854,1064 2020,1061 2187,1059 2354,1057 2521,1055 2687,1052 2854,1050 3021,1047 3188,1043 3354,1040 3521,1035 3688,1030 3855,1024"/>
+                <TextEquiv>
+                    <Unicode>Anstrengung abwärts (stark maeandernd, aber senkrecht zu den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:6;}">
+                <Coords points="410,1327 1838,1191 2075,1323 2314,1183 3578,1221 3794,1193 3790,1038 406,1179"/>
+                <Baseline points="428,1251 595,1243 762,1236 929,1229 1096,1222 1263,1216 1430,1210 1597,1204 1764,1199 1931,1194 2099,1189 2266,1185 2433,1181 2600,1178 2767,1176 2934,1173 3101,1171 3268,1170 3435,1168 3602,1168 3770,1168"/>
+                <TextEquiv>
+                    <Unicode>Windungen des Flusses u. seines unten schmalen Tales!)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:7;}">
+                <Coords points="557,1396 729,1482 1967,1362 2307,1455 2584,1324 2852,1437 3849,1364 3843,1187 3739,1182 2026,1309 1628,1201 1510,1300 553,1267"/>
+                <Baseline points="579,1382 741,1381 903,1380 1066,1377 1228,1375 1391,1370 1553,1365 1715,1360 1878,1355 2040,1348 2203,1342 2365,1335 2527,1329 2690,1322 2852,1316 3015,1310 3177,1304 3339,1299 3502,1294 3664,1290 3827,1287"/>
+                <TextEquiv>
+                    <Unicode>Lager auf linker Berglehne in halber Höhe. Guter Überblick</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:8;}">
+                <Coords points="531,1559 3305,1562 3739,1463 3735,1320 529,1468"/>
+                <Baseline points="552,1548 707,1544 863,1541 1018,1536 1174,1532 1330,1527 1485,1522 1641,1516 1797,1510 1952,1505 2108,1499 2264,1493 2419,1488 2575,1483 2731,1478 2886,1473 3042,1470 3198,1466 3353,1463 3563,1468 3719,1467"/>
+                <TextEquiv>
+                    <Unicode>über d. Mavudyi-Tal, das hier in d. Plateau wohl antyzedent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:9;}">
+                <Coords points="554,1719 707,1807 883,1712 1092,1799 1462,1692 1611,1784 1968,1677 3871,1673 3795,1514 2114,1627 551,1563"/>
+                <Baseline points="576,1698 739,1695 903,1691 1066,1688 1230,1685 1394,1682 1557,1679 1721,1675 1885,1672 2048,1669 2212,1666 2376,1663 2539,1659 2703,1656 2867,1652 3030,1649 3194,1645 3358,1641 3521,1638 3685,1634 3849,1630"/>
+                <TextEquiv>
+                    <Unicode>eingesenkt ist u. d. offenbar enge Kihendye-Tal erzwungen hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:10;}">
+                <Coords points="534,1887 1138,1843 1353,1940 1834,1817 2356,1914 2850,1782 3511,1874 3729,1807 3724,1634 3433,1729 2634,1663 2157,1760 1999,1674 531,1788"/>
+                <Baseline points="554,1868 711,1861 869,1854 1026,1848 1184,1842 1342,1835 1499,1829 1657,1824 1814,1818 1972,1813 2130,1807 2287,1802 2445,1797 2602,1793 2760,1790 2918,1786 3075,1782 3233,1780 3390,1777 3548,1775 3706,1774"/>
+                <TextEquiv>
+                    <Unicode>als tributären Zufluß. Leider verhüllt der lückenlose dichte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:11;}">
+                <Coords points="523,2074 1199,2130 1594,1983 1985,2083 2467,1961 3369,2050 3791,1972 3788,1816 519,1897"/>
+                <Baseline points="542,2028 702,2018 862,2009 1023,2002 1183,1994 1343,1988 1504,1982 1664,1977 1824,1972 1985,1968 2145,1964 2305,1961 2466,1959 2626,1957 2786,1956 2947,1955 3107,1955 3267,1955 3428,1956 3588,1957 3749,1958 3768,1969"/>
+                <TextEquiv>
+                    <Unicode>Busch alle Einzelheiten, in Europa gäbe das ein andres Land„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:12;}">
+                <Coords points="539,2288 1155,2159 1421,2274 1790,2143 1987,2246 2162,2120 2472,2247 2703,2124 3893,2167 3888,1976 3715,1964 534,2080"/>
+                <Baseline points="557,2175 722,2170 888,2165 1054,2159 1219,2154 1385,2148 1551,2143 1716,2137 1882,2132 2048,2127 2214,2122 2379,2118 2545,2113 2711,2109 2876,2106 3042,2103 3208,2100 3373,2098 3539,2097 3705,2096 3871,2096"/>
+                <TextEquiv>
+                    <Unicode>schaftsbild! Interessanterweise in diesem verlorenen Schlupf„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:13;}">
+                <Coords points="530,2379 1604,2411 2950,2271 3169,2374 3426,2254 3614,2353 3787,2193 2903,2117 2504,2240 1476,2155 527,2275"/>
+                <Baseline points="550,2336 719,2331 888,2326 1058,2320 1227,2316 1397,2311 1566,2306 1735,2301 1905,2297 2074,2293 2244,2288 2413,2284 2583,2280 2752,2276 2921,2271 3091,2267 3260,2263 3430,2258 3599,2254 3769,2250"/>
+                <TextEquiv>
+                    <Unicode>winkel zahlreiche Büffel, an die aber in d. Busch nicht heranzu„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:14;}">
+                <Coords points="537,2526 1103,2474 1240,2583 2045,2438 2316,2561 2750,2421 3514,2528 3879,2406 3810,2270 3359,2376 2867,2271 2554,2387 534,2397"/>
+                <Baseline points="556,2489 729,2485 903,2479 1076,2475 1250,2470 1424,2464 1597,2459 1771,2455 1945,2449 2118,2445 2292,2440 2465,2436 2639,2432 2813,2428 2986,2424 3160,2421 3334,2419 3507,2416 3681,2415 3855,2414"/>
+                <TextEquiv>
+                    <Unicode>kommen. Ging nachm. auf d. Manganya-Plateau auf vergebliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:15;}">
+                <Coords points="514,2734 3851,2601 3848,2502 3227,2428 1237,2585 1070,2472 510,2587"/>
+                <Baseline points="532,2643 696,2644 861,2644 1026,2641 1191,2638 1356,2633 1521,2628 1686,2622 1851,2615 2016,2608 2181,2601 2345,2595 2510,2588 2675,2583 2840,2579 3005,2576 3170,2574 3335,2574 3500,2575 3665,2579 3830,2585"/>
+                <TextEquiv>
+                    <Unicode>Pürsche (dort lichter Wald: Liwiti), so wie an eine Stelle, wo sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:16;}">
+                <Coords points="514,2908 982,2801 2240,2875 2374,2762 2693,2830 2871,2737 3558,2835 3832,2730 3464,2604 509,2739"/>
+                <Baseline points="534,2808 697,2808 861,2806 1025,2803 1189,2800 1352,2796 1516,2790 1680,2785 1844,2779 2007,2773 2171,2766 2335,2759 2499,2753 2662,2746 2826,2740 2990,2734 3154,2728 3317,2722 3481,2718 3645,2714 3809,2711"/>
+                <TextEquiv>
+                    <Unicode>Rand in roten Steilabbrüchen angenagt ist u. mein Aufseher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:17;}">
+                <Coords points="517,3002 2822,2997 3716,2926 3786,2794 3247,2852 2872,2740 2231,2879 514,2907"/>
+                <Baseline points="535,2961 692,2962 850,2961 1008,2959 1166,2956 1324,2951 1482,2947 1639,2941 1797,2935 1955,2929 2113,2923 2271,2917 2429,2911 2587,2907 2744,2903 2902,2899 3060,2897 3218,2897 3376,2898 3608,2891 3766,2896"/>
+                <TextEquiv>
+                    <Unicode>mir ein im Januar gefundenes Stück Kieselholz in Newala-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:18;}">
+                <Coords points="521,3193 1024,3229 1453,3111 2005,3210 2366,3089 2662,3182 3066,3056 3694,3101 3692,2993 3062,2900 1897,3049 516,3003"/>
+                <Baseline points="539,3107 695,3109 852,3110 1009,3110 1165,3108 1322,3105 1479,3102 1635,3098 1792,3092 1949,3087 2106,3082 2262,3076 2419,3071 2576,3066 2732,3061 2889,3058 3046,3055 3202,3053 3359,3053 3516,3054 3673,3056"/>
+                <TextEquiv>
+                    <Unicode>Sandstein zeigte, augenscheinlich ein verzweigter Stamm, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:19;} textStyle {offset:27; length:4;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="475,3396 680,3295 1340,3390 1587,3270 2360,3366 2737,3234 3398,3337 3685,3234 3682,3135 470,3245"/>
+                <Baseline points="495,3300 653,3296 811,3292 969,3287 1128,3284 1286,3281 1444,3278 1603,3274 1761,3271 1919,3268 2078,3264 2236,3261 2394,3257 2552,3252 2711,3247 2869,3242 3027,3235 3186,3229 3344,3221 3502,3212 3661,3202"/>
+                <TextEquiv>
+                    <Unicode>schwerlich im Zusammenhang nach der Fossilisierung in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:20;}">
+                <Coords points="455,3536 880,3574 1080,3465 1628,3564 1768,3469 3026,3434 3024,3343 2789,3267 2381,3390 1699,3302 1222,3414 899,3301 452,3415"/>
+                <Baseline points="474,3471 600,3469 726,3467 853,3465 979,3463 1106,3461 1232,3458 1359,3455 1485,3453 1612,3449 1738,3446 1864,3443 1991,3440 2117,3436 2244,3433 2370,3429 2497,3425 2623,3422 2750,3417 2876,3414 3003,3409"/>
+                <TextEquiv>
+                    <Unicode>diese hohe Lage gebracht worden sein kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:21;}">
+                <Coords points="751,3712 1324,3773 1529,3667 1657,3763 2565,3610 2750,3713 3019,3596 3667,3690 3662,3525 3426,3463 3148,3554 2717,3458 2248,3568 1030,3500 747,3586"/>
+                <Baseline points="772,3681 913,3670 1071,3661 1213,3654 1355,3646 1496,3640 1638,3634 1780,3629 1922,3624 2063,3620 2205,3617 2347,3613 2489,3610 2630,3607 2772,3604 2914,3602 3056,3599 3197,3596 3339,3593 3499,3589 3641,3586"/>
+                <TextEquiv>
+                    <Unicode>21.VII. Durch die schöne Liwiti-Yangwa nach N. ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:22;}">
+                <Coords points="518,3872 780,3965 1443,3835 1761,3940 2161,3817 2379,3911 3004,3809 3244,3889 3765,3798 3762,3681 2755,3720 2562,3608 2203,3769 2028,3686 515,3760"/>
+                <Baseline points="537,3836 697,3839 857,3840 1017,3840 1177,3839 1338,3837 1498,3834 1658,3830 1818,3826 1978,3821 2139,3816 2299,3810 2459,3804 2619,3799 2779,3793 2940,3788 3100,3784 3260,3780 3420,3776 3580,3774 3741,3772"/>
+                <TextEquiv>
+                    <Unicode>allmählich abwärts ohne jeden Aufschluß, über weiße Sande.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:23;}">
+                <Coords points="488,4124 690,4009 1020,4126 1209,4006 1384,4121 1992,4017 2460,4106 2878,3979 3398,4072 3894,3922 2945,3831 2026,3948 485,3899"/>
+                <Baseline points="507,4016 675,4016 843,4015 1011,4014 1180,4013 1348,4010 1516,4008 1685,4005 1853,4002 2021,3999 2190,3996 2358,3993 2526,3990 2694,3987 2863,3985 3031,3983 3199,3981 3368,3980 3536,3980 3704,3980 3873,3981"/>
+                <TextEquiv>
+                    <Unicode>Erst am Fuß des Plateaus ein seitlicher Erosionsrand, der dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:24;}">
+                <Coords points="482,4227 1538,4273 1988,4161 2398,4283 2952,4185 3787,4278 3787,4097 3043,4108 2879,3982 2710,4120 1936,4023 1049,4124 695,4011 483,4127"/>
+                <Baseline points="505,4170 668,4169 831,4168 994,4167 1157,4167 1320,4167 1483,4166 1646,4166 1809,4167 1972,4167 2135,4167 2298,4168 2461,4168 2624,4169 2787,4170 2950,4171 3113,4172 3276,4173 3439,4175 3602,4176 3766,4177"/>
+                <TextEquiv>
+                    <Unicode>Lipogiro genau entspricht u. d. liegende Saurierschicht noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:25;}">
+                <Coords points="496,4376 1240,4454 1863,4345 1966,4441 2529,4336 3299,4445 3675,4356 3676,4214 2694,4303 1903,4181 497,4246"/>
+                <Baseline points="520,4346 676,4338 833,4331 989,4327 1146,4324 1303,4322 1459,4321 1616,4322 1772,4323 1929,4325 2086,4328 2242,4330 2399,4333 2555,4336 2712,4339 2869,4342 3025,4344 3182,4345 3338,4345 3495,4345 3652,4343"/>
+                <TextEquiv>
+                    <Unicode>mit betroffen hat. In Manyunyu am oberen Linganla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:26;}">
+                <Coords points="481,4607 2079,4504 3112,4528 3297,4638 3726,4569 3727,4427 3173,4486 2872,4370 2460,4465 484,4374"/>
+                <Baseline points="505,4507 665,4508 825,4509 985,4509 1145,4509 1305,4508 1465,4508 1625,4508 1785,4508 1945,4508 2105,4509 2265,4510 2425,4512 2585,4514 2745,4517 2905,4520 3065,4525 3225,4531 3385,4538 3545,4545 3705,4555"/>
+                <TextEquiv>
+                    <Unicode>Schamben, wo ich zu bleiben gedachte, da bis Mbate noch weit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:27;}">
+                <Coords points="460,4806 2778,4686 3570,4822 3964,4650 2186,4525 1611,4640 460,4603"/>
+                <Baseline points="483,4685 653,4688 880,4687 1050,4688 1220,4689 1390,4688 1560,4688 1730,4687 1900,4686 2070,4685 2241,4684 2411,4683 2581,4682 2751,4682 2921,4683 3091,4685 3261,4687 3431,4691 3601,4696 3771,4703 3942,4711"/>
+                <TextEquiv>
+                    <Unicode>Erfuhr aber, daß Janensch's Leute u. meine vorangegangenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>154&#xD;
+nach N ein wichtiger Anhaltspunkt sind. Dann links ohne&#xD;
+Weg in ein Gnu-reiches Tal hinab, aber nichts als Spuren, auch&#xD;
+von Büffel, gesehen. Am Mavudyi durch den blödsinnigsten Weg, der&#xD;
+mir je vorgekommen ist, ein kleines Stückchen mit beträchtlicher&#xD;
+Anstrengung abwärts (stark maeandernd, aber senkrecht zu den&#xD;
+Windungen des Flusses u. seines unten schmalen Tales!)&#xD;
+Lager auf linker Berglehne in halber Höhe. Guter Überblick&#xD;
+über d. Mavudyi-Tal, das hier in d. Plateau wohl antyzedent&#xD;
+eingesenkt ist u. d. offenbar enge Kihendye-Tal erzwungen hat&#xD;
+als tributären Zufluß. Leider verhüllt der lückenlose dichte&#xD;
+Busch alle Einzelheiten, in Europa gäbe das ein andres Land„&#xD;
+schaftsbild! Interessanterweise in diesem verlorenen Schlupf„&#xD;
+winkel zahlreiche Büffel, an die aber in d. Busch nicht heranzu„&#xD;
+kommen. Ging nachm. auf d. Manganya-Plateau auf vergebliche&#xD;
+Pürsche (dort lichter Wald: Liwiti), so wie an eine Stelle, wo sein&#xD;
+Rand in roten Steilabbrüchen angenagt ist u. mein Aufseher&#xD;
+mir ein im Januar gefundenes Stück Kieselholz in Newala-&#xD;
+Sandstein zeigte, augenscheinlich ein verzweigter Stamm, der&#xD;
+schwerlich im Zusammenhang nach der Fossilisierung in&#xD;
+diese hohe Lage gebracht worden sein kann.&#xD;
+21.VII. Durch die schöne Liwiti-Yangwa nach N. ganz&#xD;
+allmählich abwärts ohne jeden Aufschluß, über weiße Sande.&#xD;
+Erst am Fuß des Plateaus ein seitlicher Erosionsrand, der dem&#xD;
+Lipogiro genau entspricht u. d. liegende Saurierschicht noch&#xD;
+mit betroffen hat. In Manyunyu am oberen Linganla&#xD;
+Schamben, wo ich zu bleiben gedachte, da bis Mbate noch weit.&#xD;
+Erfuhr aber, daß Janensch's Leute u. meine vorangegangenen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

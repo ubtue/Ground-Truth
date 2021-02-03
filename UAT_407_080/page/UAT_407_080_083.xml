@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:56.990+02:00</Created>
+        <LastChange>2020-03-24T13:36:36.541+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550785" pageNr="83" tsid="26229950" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=TCQCZRXAFSCXWWKBKJXGNBMA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZAKEUJRMGHGYPQNWQDYWGYWI" imageId="4551663"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_083.jpg" imageWidth="4325" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255556489" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="380,201 384,4877 4070,4877 4066,201"/>
+            <TextLine id="line_1582889756521_2624" custom="readingOrder {index:0;}">
+                <Coords points="3799,330 3836,323 3859,333 3897,307 3960,319 3968,154 3931,152 3869,200 3856,195 3842,204 3805,202"/>
+                <Baseline points="3826,274 3885,279 3940,279"/>
+                <TextEquiv>
+                    <Unicode>79</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="467,418 1773,458 2218,331 2443,455 3365,361 3988,505 3988,321 3736,238 467,272"/>
+                <Baseline points="492,371 665,364 839,359 1013,354 1186,350 1360,348 1534,346 1707,345 1881,345 2055,346 2229,347 2402,348 2576,350 2750,352 2923,354 3097,357 3271,359 3444,362 3618,364 3792,367 3966,368"/>
+                <TextEquiv>
+                    <Unicode>16. Oct: Nachm. Poscho-Zahlung nur z. T., da Geldlasten-Träger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582889764415_2630" custom="readingOrder {index:2;}">
+                <Coords points="398,587 1668,493 2269,603 3897,564 3360,357 398,477"/>
+                <Baseline points="422,542 477,540 533,539 589,537 644,536 700,535 756,534 812,532 867,532 923,531 979,530 1035,528 1090,527 1146,526 1202,523 1258,522 1313,520 1369,517 1425,515 1481,511 1818,505 1920,505 2023,505 2126,506 2229,506 2332,507 2434,508 2537,510 2640,512 2743,514 2846,516 2948,519 3051,521 3154,525 3257,528 3360,531 3462,534 3565,538 3668,542 3771,545 3874,549"/>
+                <TextEquiv>
+                    <Unicode>ausgeblieben sind. Abd. Mit Janensch auf d. Tendaguru.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="400,834 854,705 1844,818 2747,702 3807,760 3935,581 400,591"/>
+                <Baseline points="423,714 597,708 772,704 946,700 1121,697 1295,695 1470,694 1644,693 1819,693 1993,693 2168,693 2343,694 2517,695 2692,696 2866,697 3041,698 3215,698 3390,699 3564,699 3739,698 3914,698"/>
+                <TextEquiv>
+                    <Unicode>Ende des Ramathan-Fastens, da gestern der neue Mond</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="409,1014 560,1021 667,952 785,1011 1060,906 1108,946 1166,911 1226,926 1285,905 1278,750 1195,749 1152,797 776,717 516,844 401,849"/>
+                <Baseline points="425,891 466,891 508,891 550,889 592,888 634,886 675,883 717,880 759,877 801,874 843,870 884,868 926,866 968,864 1010,862 1052,861 1093,860 1135,860 1177,861 1219,863 1261,866"/>
+                <TextEquiv>
+                    <Unicode>nicht sichtbar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;} textStyle {offset:0; length:19;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="611,1201 1619,1166 1906,1024 2495,1147 3874,1061 3871,914 3481,889 1037,914 759,1020 607,939"/>
+                <Baseline points="632,1074 792,1068 953,1062 1114,1056 1275,1050 1436,1044 1596,1039 1757,1034 1918,1029 2079,1025 2240,1021 2400,1018 2561,1016 2722,1014 2883,1014 3044,1014 3204,1015 3365,1018 3526,1021 3687,1026 3848,1032"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 17. Oct. Ich wollte ursprünglich nicht weit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="429,1348 938,1374 1120,1234 3908,1238 3906,1137 2856,1085 427,1178"/>
+                <Baseline points="452,1254 623,1248 795,1242 966,1237 1138,1232 1310,1227 1481,1223 1653,1219 1824,1215 1996,1213 2168,1210 2339,1208 2511,1207 2682,1206 2854,1205 3026,1206 3197,1206 3369,1208 3540,1210 3712,1213 3884,1216"/>
+                <TextEquiv>
+                    <Unicode>gehen, höchstens den Mbawala-Bock aufspüren, ging dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="436,1476 3851,1396 3813,1300 2616,1246 435,1370"/>
+                <Baseline points="456,1423 624,1417 793,1410 962,1404 1130,1398 1299,1391 1468,1386 1636,1381 1805,1376 1974,1372 2143,1368 2311,1366 2480,1364 2649,1363 2817,1363 2986,1365 3155,1367 3323,1371 3492,1377 3661,1384 3830,1393"/>
+                <TextEquiv>
+                    <Unicode>aber, als Janensch sich aufmachte d. Knochen in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="417,1641 883,1565 1311,1697 1644,1546 2570,1538 3260,1666 4034,1610 4032,1463 414,1471"/>
+                <Baseline points="441,1588 619,1583 798,1578 976,1572 1155,1566 1333,1561 1512,1555 1690,1550 1869,1546 2047,1541 2226,1537 2404,1534 2583,1532 2761,1530 2940,1530 3118,1530 3297,1532 3475,1536 3654,1540 3832,1546 4011,1553"/>
+                <TextEquiv>
+                    <Unicode>tiefsten Saurierschicht an d. barrabarra zu besichtigen, mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="412,1815 2048,1736 2458,1868 2759,1745 3846,1778 3913,1671 1968,1558 1520,1683 410,1669"/>
+                <Baseline points="433,1766 605,1762 778,1757 951,1752 1124,1749 1297,1744 1469,1740 1642,1736 1815,1732 1988,1729 2161,1726 2333,1724 2506,1722 2679,1720 2852,1719 3025,1719 3197,1720 3370,1722 3543,1724 3716,1727 3889,1731"/>
+                <TextEquiv>
+                    <Unicode>Ali gleichfalls in's Mbenkuru-Tal hinab u. zwar üb. die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="408,2043 1077,1944 1486,2047 1802,1904 2183,2039 2577,1932 2692,2028 3998,1962 3887,1775 407,1814"/>
+                <Baseline points="429,1922 606,1921 783,1920 960,1918 1138,1916 1315,1914 1492,1912 1670,1910 1847,1908 2024,1906 2202,1905 2379,1904 2556,1903 2733,1902 2911,1902 3088,1902 3265,1903 3443,1905 3620,1907 3797,1910 3975,1914"/>
+                <TextEquiv>
+                    <Unicode>Quelle am N-Fuß d. Tendaguru. Folgte einem in den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="417,2202 610,2092 1522,2213 1815,2109 4039,2150 4085,1995 417,2032"/>
+                <Baseline points="438,2083 619,2085 800,2087 981,2089 1162,2090 1343,2092 1524,2093 1705,2094 1886,2094 2067,2095 2249,2095 2430,2095 2611,2096 2792,2096 2973,2095 3154,2095 3335,2095 3516,2094 3697,2094 3878,2093 4060,2093"/>
+                <TextEquiv>
+                    <Unicode>Plateaurand eingesenkten Bache, um zu sehen, ob die Saurier„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="423,2408 1381,2286 1656,2401 1876,2263 2055,2374 2573,2278 3256,2376 3921,2294 3921,2175 423,2206"/>
+                <Baseline points="447,2290 619,2284 792,2278 964,2273 1137,2269 1310,2267 1482,2265 1655,2264 1828,2264 2000,2264 2173,2265 2346,2266 2518,2268 2691,2270 2864,2272 3036,2275 3209,2277 3382,2279 3554,2282 3727,2283 3900,2285"/>
+                <TextEquiv>
+                    <Unicode>schicht hier vorkäme, fand Fossilien u. sah Konglomerate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="398,2501 4043,2515 4075,2349 1654,2403 1264,2291 398,2396"/>
+                <Baseline points="419,2467 600,2463 782,2458 964,2455 1145,2452 1327,2450 1509,2448 1690,2446 1872,2444 2054,2443 2236,2443 2417,2442 2599,2442 2781,2442 2962,2442 3144,2442 3326,2442 3507,2443 3689,2443 3871,2444 4053,2444"/>
+                <TextEquiv>
+                    <Unicode>weit in's Tal hinaus als niedrige Wellen laufen. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="386,2662 667,2761 996,2626 1483,2766 2266,2633 2459,2760 2660,2649 3564,2736 3871,2619 2976,2473 1417,2583 908,2489 386,2602"/>
+                <Baseline points="410,2651 582,2646 754,2642 926,2638 1098,2634 1270,2631 1442,2628 1614,2625 1786,2623 1958,2621 2130,2619 2302,2618 2474,2618 2646,2618 2818,2619 2990,2620 3162,2622 3334,2624 3506,2627 3678,2630 3850,2634"/>
+                <TextEquiv>
+                    <Unicode>unterste Saurierschicht müßte noch darunter liegen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="366,2873 687,2949 1136,2831 1288,2936 1475,2806 2080,2807 2466,2915 3314,2800 3502,2918 3914,2842 3913,2627 3194,2750 365,2758"/>
+                <Baseline points="389,2836 564,2833 739,2830 914,2826 1089,2824 1265,2820 1440,2818 1615,2815 1790,2812 1965,2810 2141,2808 2316,2807 2491,2806 2666,2806 2841,2806 3017,2806 3192,2808 3367,2810 3542,2813 3717,2818 3893,2822"/>
+                <TextEquiv>
+                    <Unicode>die Gneißgrenze rückt weiter zurück. In d. Bucht am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="383,3104 1107,2976 1286,3100 2249,2986 2529,3106 2905,2973 4065,3070 3973,2882 3074,2822 2616,2927 383,2866"/>
+                <Baseline points="407,3006 588,2998 770,2992 952,2986 1134,2982 1316,2978 1498,2976 1679,2974 1861,2973 2043,2972 2225,2973 2407,2974 2589,2975 2771,2977 2952,2980 3134,2983 3316,2986 3498,2990 3680,2993 3862,2997 4044,3002"/>
+                <TextEquiv>
+                    <Unicode>Plateaufuß dichtes grünes Gesträuch, sah Mbawala-Familie,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="361,3188 655,3282 1704,3145 1999,3271 2190,3155 4075,3199 4074,3093 3711,3014 360,3106"/>
+                <Baseline points="384,3188 567,3182 750,3176 934,3172 1117,3167 1300,3164 1484,3160 1667,3157 1850,3155 2034,3153 2217,3152 2400,3151 2584,3150 2767,3149 2950,3149 3134,3150 3317,3150 3500,3151 3684,3152 3867,3153 4051,3155"/>
+                <TextEquiv>
+                    <Unicode>Vater, Mutter u. Kind, machte aber keine Angriffe. Weiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="381,3419 2421,3333 2637,3442 2957,3321 3173,3440 3709,3346 4012,3445 4062,3193 3782,3295 380,3277"/>
+                <Baseline points="405,3363 586,3362 768,3360 949,3357 1131,3353 1313,3351 1494,3347 1676,3344 1858,3341 2039,3338 2221,3336 2403,3334 2584,3333 2766,3333 2948,3334 3129,3336 3311,3339 3493,3343 3674,3349 3856,3356 4038,3365"/>
+                <TextEquiv>
+                    <Unicode>draußen stellenweis noch viel Gras, nirgends Deckung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="370,3600 1910,3509 2485,3654 3001,3525 3186,3647 3460,3529 3878,3621 3927,3446 368,3421"/>
+                <Baseline points="393,3538 568,3538 744,3538 919,3536 1095,3534 1270,3532 1446,3529 1621,3525 1797,3522 1972,3518 2148,3514 2324,3511 2499,3509 2675,3506 2850,3504 3026,3504 3201,3504 3377,3505 3552,3508 3728,3512 3904,3517"/>
+                <TextEquiv>
+                    <Unicode>u. keine Spuren. Kehrte in's Gebüsch zurück u. fand Losung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="390,3722 1179,3831 1729,3698 4095,3772 4095,3653 3769,3571 390,3608"/>
+                <Baseline points="411,3701 603,3702 796,3702 988,3701 1181,3700 1373,3699 1566,3697 1759,3696 1951,3694 2144,3692 2336,3691 2529,3690 2721,3690 2914,3690 3107,3691 3299,3692 3492,3695 3684,3698 3877,3703 4070,3709"/>
+                <TextEquiv>
+                    <Unicode>u. Spur verdächtig für Bunju (Elen-Antilope), zweifelte dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="388,3971 934,3876 1392,4005 1906,3877 2580,3997 2736,3897 4047,3945 4047,3830 3438,3746 389,3756"/>
+                <Baseline points="410,3863 590,3868 771,3871 952,3874 1133,3876 1314,3877 1494,3878 1675,3878 1856,3878 2037,3877 2218,3876 2398,3875 2579,3875 2760,3874 2941,3873 3122,3873 3302,3874 3483,3875 3664,3877 3845,3879 4026,3883"/>
+                <TextEquiv>
+                    <Unicode>doch wieder u. folgte, es konnte auch Barappi, Ndogolo oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="386,4134 1611,4193 2608,4059 2831,4184 3245,4038 3583,4174 3958,4130 3867,3916 383,4015"/>
+                <Baseline points="408,4099 584,4100 760,4100 936,4098 1113,4096 1289,4093 1465,4090 1642,4086 1818,4081 1994,4077 2171,4072 2347,4067 2523,4063 2699,4059 2876,4055 3052,4052 3228,4050 3405,4048 3581,4047 3757,4048 3934,4050"/>
+                <TextEquiv>
+                    <Unicode>Ntandala (Ndope?) sein. Bald war ein helles Tier sichtbar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="379,4342 3208,4354 3786,4310 3953,4124 964,4219 376,4094"/>
+                <Baseline points="403,4277 579,4279 755,4279 932,4279 1108,4278 1285,4277 1461,4274 1638,4272 1814,4268 1991,4265 2167,4262 2343,4258 2520,4255 2696,4252 2873,4249 3049,4246 3226,4244 3402,4243 3579,4243 3755,4243 3932,4244"/>
+                <TextEquiv>
+                    <Unicode>Ali antwortete. Barappi sei es nicht, verschwieg aber, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="421,4489 876,4589 1484,4467 1743,4583 2158,4449 3034,4439 3324,4545 3717,4463 3716,4339 420,4392"/>
+                <Baseline points="443,4443 605,4451 768,4457 930,4461 1093,4464 1256,4466 1418,4466 1581,4465 1743,4463 1906,4461 2069,4457 2231,4454 2394,4450 2556,4446 2719,4441 2882,4437 3044,4433 3207,4430 3369,4427 3532,4425 3695,4424"/>
+                <TextEquiv>
+                    <Unicode>es Bunju war. Flucht war nur in's Freie hinaus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="407,4684 3827,4724 3771,4537 3106,4476 406,4564"/>
+                <Baseline points="431,4627 599,4631 768,4633 936,4634 1105,4634 1273,4633 1442,4631 1610,4629 1779,4626 1947,4623 2116,4621 2285,4618 2453,4616 2622,4614 2790,4613 2959,4613 3127,4614 3296,4616 3464,4620 3633,4625 3802,4631"/>
+                <TextEquiv>
+                    <Unicode>möglich, ich ging nach u. schoß auf große Entfernung die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="390,4913 1276,4795 3755,4935 3948,4876 3950,4624 3720,4783 1795,4647 391,4757"/>
+                <Baseline points="413,4808 588,4806 764,4805 939,4803 1115,4802 1291,4801 1466,4800 1642,4799 1818,4799 1993,4799 2169,4799 2345,4800 2520,4802 2696,4804 2872,4806 3047,4810 3223,4814 3399,4818 3574,4823 3750,4829 3926,4836"/>
+                <TextEquiv>
+                    <Unicode>rechte Schulter entzwei. Jetzt erst sah ich es ganz und erfuhr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>79&#xD;
+16. Oct: Nachm. Poscho-Zahlung nur z. T., da Geldlasten-Träger&#xD;
+ausgeblieben sind. Abd. Mit Janensch auf d. Tendaguru.&#xD;
+Ende des Ramathan-Fastens, da gestern der neue Mond&#xD;
+nicht sichtbar.&#xD;
+Sonntag d. 17. Oct. Ich wollte ursprünglich nicht weit&#xD;
+gehen, höchstens den Mbawala-Bock aufspüren, ging dann&#xD;
+aber, als Janensch sich aufmachte d. Knochen in der&#xD;
+tiefsten Saurierschicht an d. barrabarra zu besichtigen, mit&#xD;
+Ali gleichfalls in's Mbenkuru-Tal hinab u. zwar üb. die&#xD;
+Quelle am N-Fuß d. Tendaguru. Folgte einem in den&#xD;
+Plateaurand eingesenkten Bache, um zu sehen, ob die Saurier„&#xD;
+schicht hier vorkäme, fand Fossilien u. sah Konglomerate&#xD;
+weit in's Tal hinaus als niedrige Wellen laufen. Die&#xD;
+unterste Saurierschicht müßte noch darunter liegen;&#xD;
+die Gneißgrenze rückt weiter zurück. In d. Bucht am&#xD;
+Plateaufuß dichtes grünes Gesträuch, sah Mbawala-Familie,&#xD;
+Vater, Mutter u. Kind, machte aber keine Angriffe. Weiter&#xD;
+draußen stellenweis noch viel Gras, nirgends Deckung&#xD;
+u. keine Spuren. Kehrte in's Gebüsch zurück u. fand Losung&#xD;
+u. Spur verdächtig für Bunju (Elen-Antilope), zweifelte dann&#xD;
+doch wieder u. folgte, es konnte auch Barappi, Ndogolo oder&#xD;
+Ntandala (Ndope?) sein. Bald war ein helles Tier sichtbar,&#xD;
+Ali antwortete. Barappi sei es nicht, verschwieg aber, daß&#xD;
+es Bunju war. Flucht war nur in's Freie hinaus&#xD;
+möglich, ich ging nach u. schoß auf große Entfernung die&#xD;
+rechte Schulter entzwei. Jetzt erst sah ich es ganz und erfuhr</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

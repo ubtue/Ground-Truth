@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:48:00.150+02:00</Created>
+        <LastChange>2020-03-27T09:31:38.498+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550846" pageNr="144" tsid="26522614" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=EYDMCFUFVGHDMFZGEQDBMUBF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RIHANYIGXBLGTCQDJHYSFXAY" imageId="4551724"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_144.jpg" imageWidth="4324" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255573441" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1583137513815_74"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1583137513815_74" custom="readingOrder {index:0;}">
+            <Coords points="362,242 578,242 4031,375 4031,4768 561,4768 362,412"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="344,449 458,460 495,436 543,442 603,425 592,230 544,237 528,256 497,244 480,258 445,243 361,305 335,306"/>
+                <Baseline points="362,362 389,356 416,353 443,351 470,351 497,351 524,351 551,347 578,342"/>
+                <TextEquiv>
+                    <Unicode>140</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="609,566 1771,449 2002,568 2679,578 3389,454 3903,578 3900,318 3557,287 2959,410 2645,279 2386,404 2055,281 959,428 607,341"/>
+                <Baseline points="630,500 792,497 955,493 1117,489 1280,485 1442,480 1605,475 1767,471 1930,467 2092,463 2255,460 2418,457 2580,455 2743,454 2905,454 3068,455 3230,457 3393,461 3555,466 3718,473 3881,481"/>
+                <TextEquiv>
+                    <Unicode>Aquarelliert. Abend auf Jagd, ich schoß auf ein Puduka,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="549,708 1769,771 2301,616 3031,726 3156,628 3855,687 3936,586 2923,484 1780,611 1349,504 546,547"/>
+                <Baseline points="571,663 738,665 905,666 1072,665 1240,662 1407,658 1574,654 1741,649 1909,644 2076,639 2243,633 2410,629 2578,625 2745,621 2912,619 3079,618 3247,619 3414,622 3581,627 3748,634 3916,644"/>
+                <TextEquiv>
+                    <Unicode>das hoch aufsprang, sich überschlug u. liegen blieb, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="578,878 3905,782 3903,686 3619,614 2528,724 2291,616 1661,759 1029,655 576,773"/>
+                <Baseline points="601,833 765,826 929,820 1093,813 1257,806 1421,801 1585,795 1749,789 1913,785 2077,780 2241,776 2405,773 2569,770 2733,767 2897,766 3061,764 3225,764 3389,764 3553,765 3717,766 3882,769"/>
+                <TextEquiv>
+                    <Unicode>beim Näherkommen eiligst entfloh ohne eine Blutspur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="613,1078 1764,959 2205,1061 2956,907 3402,1005 3903,914 3901,828 2869,871 2606,760 609,914"/>
+                <Baseline points="633,980 795,979 957,976 1119,973 1282,970 1444,965 1606,960 1769,955 1931,949 2093,943 2256,938 2418,933 2580,928 2742,923 2905,920 3067,916 3229,914 3392,913 3554,913 3716,915 3879,918"/>
+                <TextEquiv>
+                    <Unicode>zu hinterlassen. Janensch schoß 2 Elen-Antilopen, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="594,1181 1608,1115 1849,1219 2111,1092 2400,1220 3213,1098 3746,1230 3742,1044 3046,972 591,1068"/>
+                <Baseline points="616,1170 771,1161 926,1153 1081,1145 1237,1137 1392,1129 1547,1123 1703,1117 1858,1111 2013,1107 2169,1102 2324,1099 2479,1096 2634,1094 2790,1093 2945,1093 3100,1094 3256,1097 3411,1100 3566,1104 3722,1110"/>
+                <TextEquiv>
+                    <Unicode>die Leute in Dunkelheit u. heftigem Gewitterregen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583137522078_79" custom="readingOrder {index:6;}">
+                <Coords points="586,1423 861,1319 1141,1406 1754,1270 2283,1401 2776,1356 3156,1284 3152,1145 579,1193"/>
+                <Baseline points="604,1321 707,1321 810,1318 914,1315 1017,1310 1121,1305 1224,1300 1327,1294 1431,1287 1534,1281 1638,1276 1741,1270 1844,1266 1948,1262 2051,1259 2155,1257 2258,1257 2361,1259 2465,1262 2568,1267 2672,1275 2716,1247 2742,1247 2768,1246 2794,1246 2820,1246 2846,1246 2873,1246 2899,1247 2925,1248 2951,1249 2977,1250 3004,1251 3030,1252 3056,1254 3082,1254 3108,1256 3135,1256"/>
+                <TextEquiv>
+                    <Unicode>heimbrachten. Mit „kalter Ente“ gefeiert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583137813177_84" custom="readingOrder {index:7;}">
+                <Coords points="856,1554 3950,1538 3793,1417 3225,1376 2965,1451 2513,1357 856,1363"/>
+                <Baseline points="877,1524 902,1526 927,1528 952,1531 977,1532 1002,1533 1027,1535 1052,1536 1077,1537 1102,1538 1127,1539 1152,1539 1177,1539 1202,1540 1227,1540 1252,1540 1277,1540 1303,1540 1323,1516 1453,1514 1583,1511 1713,1508 1843,1506 1974,1504 2104,1502 2234,1501 2364,1500 2494,1500 2625,1500 2755,1501 2885,1502 3015,1503 3145,1506 3275,1508 3406,1512 3536,1516 3666,1520 3796,1525 3927,1531"/>
+                <TextEquiv>
+                    <Unicode>21.II: Auf Jagd, Janensch jenseits wie gestern, an der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="547,1705 1264,1813 1601,1671 3932,1762 3930,1558 3548,1504 3271,1624 546,1571"/>
+                <Baseline points="570,1708 736,1702 903,1696 1070,1691 1237,1686 1404,1682 1571,1677 1738,1674 1905,1670 2072,1667 2239,1665 2405,1664 2572,1663 2739,1663 2906,1664 3073,1666 3240,1668 3407,1672 3574,1676 3741,1682 3908,1688"/>
+                <TextEquiv>
+                    <Unicode>Barrabarra, schoß ein Swalla; ich von unserm Lagerwirt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="562,1932 3833,1883 3767,1723 561,1771"/>
+                <Baseline points="583,1883 744,1876 905,1870 1067,1864 1228,1860 1390,1856 1551,1852 1712,1849 1874,1847 2035,1846 2197,1845 2358,1844 2519,1844 2681,1845 2842,1846 3004,1848 3165,1850 3326,1852 3488,1855 3649,1858 3811,1861"/>
+                <TextEquiv>
+                    <Unicode>dem Karani Mfaumbe geführt, an andrer Stelle über d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="549,2106 2999,2020 3369,2153 3963,2115 3962,1950 3593,1882 2943,1986 2773,1891 548,1937"/>
+                <Baseline points="572,2066 740,2057 909,2050 1077,2043 1246,2038 1414,2033 1583,2031 1751,2029 1920,2027 2088,2026 2257,2026 2426,2027 2594,2027 2763,2029 2931,2030 3100,2031 3268,2033 3437,2034 3605,2035 3774,2036 3943,2036"/>
+                <TextEquiv>
+                    <Unicode>Fluß in eine herrliche, weite Grasebene voll seltsamer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="551,2261 2695,2231 3645,2341 3979,2263 3979,2155 2066,2060 551,2166"/>
+                <Baseline points="572,2237 741,2236 910,2234 1079,2231 1249,2229 1418,2226 1587,2224 1757,2222 1926,2220 2095,2218 2265,2217 2434,2217 2603,2217 2772,2218 2942,2220 3111,2223 3280,2227 3450,2232 3619,2240 3788,2248 3958,2258"/>
+                <TextEquiv>
+                    <Unicode>niedriger Dorngewächse. Mir waren Giraffen, Gnuherden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="549,2546 906,2409 1061,2514 2615,2389 4050,2541 4051,2363 3748,2313 1358,2264 1049,2367 551,2264"/>
+                <Baseline points="570,2408 742,2411 915,2412 1088,2412 1261,2412 1434,2410 1607,2408 1780,2405 1953,2403 2126,2401 2299,2399 2471,2398 2644,2397 2817,2399 2990,2401 3163,2405 3336,2412 3509,2420 3682,2431 3855,2445 4028,2461"/>
+                <TextEquiv>
+                    <Unicode>Hartebeester, Swalla's u. a. m. in Mengen versprochen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="573,2610 1883,2564 2145,2682 2821,2583 3260,2678 3697,2590 3448,2437 3171,2518 2402,2410 573,2566"/>
+                <Baseline points="594,2612 748,2608 902,2603 1056,2599 1210,2594 1364,2589 1518,2584 1672,2579 1826,2575 1980,2571 2134,2568 2288,2565 2442,2563 2596,2562 2750,2562 2904,2563 3058,2566 3212,2570 3366,2575 3520,2583 3674,2591"/>
+                <TextEquiv>
+                    <Unicode>worden u. dies echt-afrikanische Land birgt auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="567,2854 1473,2751 2710,2848 3092,2747 3738,2876 3994,2698 2814,2592 2193,2698 1885,2564 1538,2678 566,2680"/>
+                <Baseline points="589,2787 758,2778 927,2770 1096,2764 1265,2757 1434,2753 1603,2748 1773,2745 1942,2743 2111,2741 2280,2741 2449,2741 2618,2742 2787,2744 2957,2747 3126,2750 3295,2754 3464,2758 3633,2763 3802,2769 3972,2775"/>
+                <TextEquiv>
+                    <Unicode>sicher deren die Menge. Allein ich habe in all diesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="572,2985 3921,3038 3921,2826 572,2851"/>
+                <Baseline points="592,2960 757,2953 922,2946 1088,2941 1253,2937 1419,2934 1584,2932 1750,2931 1915,2931 2081,2931 2246,2932 2411,2933 2577,2934 2742,2936 2908,2938 3073,2940 3239,2942 3404,2944 3570,2946 3735,2948 3901,2949"/>
+                <TextEquiv>
+                    <Unicode>Tagen kein Glück. Ein Hartebeest konnte ich nur bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="571,3242 1483,3128 3686,3238 3766,3078 2750,3087 2322,2962 2139,3073 572,3055"/>
+                <Baseline points="592,3126 749,3125 907,3124 1064,3123 1222,3123 1379,3123 1537,3123 1694,3123 1852,3123 2009,3124 2167,3125 2324,3126 2482,3128 2639,3130 2797,3132 2954,3135 3112,3138 3269,3142 3427,3146 3584,3151 3742,3156"/>
+                <TextEquiv>
+                    <Unicode>auf mehr als 120 m. anschleichen wegen des ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:17;}">
+                <Coords points="550,3334 2312,3311 2424,3407 3106,3315 3387,3420 3756,3326 3757,3239 3198,3150 2963,3253 1965,3254 1518,3135 551,3213"/>
+                <Baseline points="572,3295 730,3293 888,3292 1046,3291 1204,3292 1362,3293 1520,3294 1678,3295 1836,3297 1994,3299 2153,3301 2311,3303 2469,3304 2627,3305 2785,3306 2943,3306 3101,3305 3259,3304 3417,3301 3575,3298 3734,3294"/>
+                <TextEquiv>
+                    <Unicode>ungedeckten Geländes, dann schoß ich mit Stechen u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;}">
+                <Coords points="551,3531 2559,3567 2751,3470 3405,3618 3900,3538 3902,3394 1968,3316 1841,3410 1365,3290 1077,3404 553,3366"/>
+                <Baseline points="572,3463 737,3461 902,3459 1068,3458 1233,3458 1399,3458 1564,3459 1729,3460 1895,3462 2060,3464 2226,3467 2391,3469 2556,3472 2722,3476 2887,3479 3053,3483 3218,3487 3383,3491 3549,3495 3714,3499 3880,3503"/>
+                <TextEquiv>
+                    <Unicode>Auflagen. Es ging ab, hinterließ aber von Zeit zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="539,3720 1715,3633 2404,3752 4054,3593 539,3525"/>
+                <Baseline points="561,3634 734,3634 908,3634 1081,3635 1255,3636 1428,3637 1602,3638 1775,3639 1949,3641 2122,3642 2296,3643 2469,3644 2643,3645 2816,3646 2990,3646 3163,3646 3337,3645 3510,3644 3684,3643 3857,3641 4031,3638"/>
+                <TextEquiv>
+                    <Unicode>Zeit reichlich Blut u. Fleischstückchen. Immer wieder verloren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="581,3818 804,3916 1423,3798 2057,3893 2577,3785 3693,3828 3692,3719 3401,3674 581,3709"/>
+                <Baseline points="604,3817 757,3813 910,3810 1064,3806 1217,3804 1370,3801 1524,3799 1677,3797 1830,3795 1984,3794 2137,3793 2290,3792 2444,3791 2597,3790 2750,3790 2904,3790 3057,3790 3210,3790 3364,3790 3517,3790 3671,3790"/>
+                <TextEquiv>
+                    <Unicode>u. fanden wir d. Spur, bis wir's endlich in einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="620,4045 1089,4112 1557,3966 2482,4091 2902,3972 3202,4075 3540,3977 3783,4102 3939,4045 3938,3845 619,3854"/>
+                <Baseline points="641,3999 804,3994 968,3990 1132,3985 1296,3982 1459,3978 1623,3974 1787,3971 1951,3968 2114,3967 2278,3965 2442,3964 2606,3963 2769,3964 2933,3965 3097,3967 3261,3969 3424,3972 3588,3976 3752,3981 3916,3988"/>
+                <TextEquiv>
+                    <Unicode>Niederung voll hohen Grases aufgeben mußten. Wäh„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="578,4202 3789,4226 3789,4096 3385,4037 1823,4107 1398,3983 1133,4096 578,4076"/>
+                <Baseline points="600,4181 758,4175 916,4171 1075,4167 1233,4164 1392,4162 1550,4160 1709,4159 1867,4158 2026,4158 2184,4158 2342,4159 2501,4159 2659,4160 2818,4160 2976,4161 3135,4161 3293,4162 3452,4161 3610,4161 3769,4160"/>
+                <TextEquiv>
+                    <Unicode>rend der Verfolgung wurde mir hier u. da ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;}">
+                <Coords points="609,4362 1711,4465 2931,4346 3676,4474 4019,4410 3977,4214 610,4236"/>
+                <Baseline points="629,4358 797,4353 965,4347 1134,4343 1302,4340 1471,4336 1639,4333 1808,4331 1976,4330 2145,4329 2313,4329 2481,4329 2650,4330 2818,4332 2987,4335 3155,4339 3324,4343 3492,4348 3661,4355 3829,4362 3998,4371"/>
+                <TextEquiv>
+                    <Unicode>Swalla gezeigt, ich sah auch flüchtig eine kleine Herde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="609,4559 1213,4635 1534,4530 1929,4616 2488,4550 3031,4653 3273,4535 3755,4569 3755,4456 3078,4397 609,4454"/>
+                <Baseline points="633,4553 788,4547 943,4542 1098,4537 1253,4533 1408,4530 1563,4528 1718,4526 1873,4525 2028,4524 2184,4524 2339,4524 2494,4525 2649,4526 2804,4527 2959,4529 3114,4531 3269,4533 3424,4535 3579,4538 3735,4541"/>
+                <TextEquiv>
+                    <Unicode>davon, wollte mich aber zunächst nicht darauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="617,4742 1239,4840 2127,4711 2987,4813 3902,4714 3866,4562 2591,4651 1362,4557 617,4672"/>
+                <Baseline points="637,4729 799,4721 961,4714 1123,4708 1285,4703 1447,4699 1609,4695 1771,4693 1933,4692 2095,4690 2258,4690 2420,4689 2582,4689 2744,4689 2906,4690 3068,4690 3230,4691 3392,4691 3554,4691 3716,4691 3879,4690"/>
+                <TextEquiv>
+                    <Unicode>einlassen. Hernach streiften wir lange Zeit vergeblich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>140&#xD;
+Aquarelliert. Abend auf Jagd, ich schoß auf ein Puduka,&#xD;
+das hoch aufsprang, sich überschlug u. liegen blieb, aber&#xD;
+beim Näherkommen eiligst entfloh ohne eine Blutspur&#xD;
+zu hinterlassen. Janensch schoß 2 Elen-Antilopen, die&#xD;
+die Leute in Dunkelheit u. heftigem Gewitterregen&#xD;
+heimbrachten. Mit „kalter Ente“ gefeiert.&#xD;
+21.II: Auf Jagd, Janensch jenseits wie gestern, an der&#xD;
+Barrabarra, schoß ein Swalla; ich von unserm Lagerwirt,&#xD;
+dem Karani Mfaumbe geführt, an andrer Stelle über d.&#xD;
+Fluß in eine herrliche, weite Grasebene voll seltsamer&#xD;
+niedriger Dorngewächse. Mir waren Giraffen, Gnuherden,&#xD;
+Hartebeester, Swalla's u. a. m. in Mengen versprochen&#xD;
+worden u. dies echt-afrikanische Land birgt auch&#xD;
+sicher deren die Menge. Allein ich habe in all diesen&#xD;
+Tagen kein Glück. Ein Hartebeest konnte ich nur bis&#xD;
+auf mehr als 120 m. anschleichen wegen des ganz&#xD;
+ungedeckten Geländes, dann schoß ich mit Stechen u.&#xD;
+Auflagen. Es ging ab, hinterließ aber von Zeit zu&#xD;
+Zeit reichlich Blut u. Fleischstückchen. Immer wieder verloren&#xD;
+u. fanden wir d. Spur, bis wir's endlich in einer&#xD;
+Niederung voll hohen Grases aufgeben mußten. Wäh„&#xD;
+rend der Verfolgung wurde mir hier u. da ein&#xD;
+Swalla gezeigt, ich sah auch flüchtig eine kleine Herde&#xD;
+davon, wollte mich aber zunächst nicht darauf&#xD;
+einlassen. Hernach streiften wir lange Zeit vergeblich,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

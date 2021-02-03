@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:58.829+02:00</Created>
+        <LastChange>2020-04-01T10:13:59.247+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550820" pageNr="118" tsid="26824251" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=TTIAJIQIDARKLLAIVZIEJGRS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FBRQDFYJPUZOETMZLPQYMTBH" imageId="4551698"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_118.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255567027" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582895243367_3482"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582895243367_3482" custom="readingOrder {index:0;}">
+            <Coords points="323,266 513,266 4060,281 4060,4850 635,4850 323,431"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="301,394 356,399 368,389 443,435 451,426 485,437 493,428 539,425 529,269 461,261 413,239 376,262 321,321 296,322"/>
+                <Baseline points="323,381 350,375 377,370 404,368 431,366 458,366 485,366 513,367"/>
+                <TextEquiv>
+                    <Unicode>114</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895249019_3487" custom="readingOrder {index:1;}">
+                <Coords points="679,469 1235,449 1373,563 1672,421 1903,502 2173,395 2384,527 2977,349 3930,370 3473,188 1943,336 1695,243 1261,377 673,313"/>
+                <Baseline points="698,450 723,449 748,447 773,445 798,443 823,441 849,439 874,437 899,435 924,433 949,432 974,431 1000,431 1025,431 1050,432 1075,435 1100,438 1126,442 1412,402 1536,396 1661,391 1786,385 1911,379 2036,373 2161,367 2285,362 2410,357 2535,352 2660,347 2785,344 2910,340 3035,338 3159,337 3284,337 3409,338 3534,340 3659,344 3784,350 3909,356"/>
+                <TextEquiv>
+                    <Unicode>26. Dez. Zu Bett geblieben. Begonnen Frenssen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895254580_3492" custom="readingOrder {index:2;}">
+                <Coords points="605,698 876,631 1188,722 1311,632 1611,648 1685,594 1868,645 2059,582 2055,489 1910,534 1750,452 1568,439 1358,554 1222,438 1023,515 595,471"/>
+                <Baseline points="623,651 714,633 739,629 764,628 789,625 814,624 840,624 865,624 890,624 915,624 940,624 966,625 991,625 1016,626 1041,626 1066,626 1092,625 1117,624 1142,623 1167,621 1193,618 1245,603 1284,603 1324,603 1363,603 1403,602 1443,601 1482,601 1522,600 1562,599 1601,598 1641,596 1681,594 1720,592 1760,591 1800,588 1839,585 1879,583 1919,580 1958,577 1998,573 2038,570"/>
+                <TextEquiv>
+                    <Unicode>„Klaus Hinrich Baas“.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:3;}">
+                <Coords points="735,845 1346,944 1972,759 2473,861 2620,730 2869,861 3030,755 4024,850 4017,643 3184,560 2956,673 731,706"/>
+                <Baseline points="756,825 918,819 1080,813 1242,806 1404,798 1567,790 1729,783 1891,775 2053,767 2215,761 2378,754 2540,747 2702,741 2864,737 3026,733 3189,730 3351,729 3513,729 3675,731 3837,735 4000,740"/>
+                <TextEquiv>
+                    <Unicode>27 Dez. Aufgestanden, aber noch geruht. Appetit gering,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;}">
+                <Coords points="624,1106 1398,966 1783,1088 2311,912 3341,937 3370,834 2657,744 2456,859 1962,767 1649,917 613,879"/>
+                <Baseline points="639,976 774,980 910,981 1045,979 1181,976 1316,971 1452,964 1587,957 1723,948 1858,939 1994,929 2130,920 2265,912 2401,904 2536,897 2672,892 2807,888 2943,885 3078,885 3214,888 3350,893"/>
+                <TextEquiv>
+                    <Unicode>zuweilen innere Hitze, aber kein Fieber.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="786,1186 2019,1120 2266,1205 2583,1090 2865,1204 3405,1078 3891,1119 3942,982 2595,930 1812,1088 1413,999 1298,1099 780,997"/>
+                <Baseline points="808,1154 963,1154 1119,1151 1275,1148 1431,1143 1587,1136 1743,1130 1898,1123 2054,1116 2210,1108 2366,1100 2522,1094 2678,1088 2834,1082 2989,1079 3145,1076 3301,1075 3457,1076 3613,1079 3769,1084 3925,1092"/>
+                <TextEquiv>
+                    <Unicode>28 Dez: Frenssen beendigt. Mir gefällt sein starker,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:6;}">
+                <Coords points="656,1438 749,1362 928,1481 1203,1333 1949,1409 2071,1302 2257,1395 2807,1261 3937,1332 3930,1184 3491,1074 1900,1260 646,1215"/>
+                <Baseline points="672,1370 842,1364 1012,1357 1183,1348 1353,1339 1524,1328 1694,1317 1865,1306 2035,1296 2206,1285 2376,1275 2547,1266 2717,1258 2888,1251 3058,1246 3229,1242 3399,1241 3570,1242 3740,1245 3911,1252"/>
+                <TextEquiv>
+                    <Unicode>schlichter Stil, seine zahlreichen gut beobachteten Por„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:7;}">
+                <Coords points="649,1587 3334,1446 3780,1548 4016,1430 4012,1320 3056,1359 2800,1263 2358,1410 644,1456"/>
+                <Baseline points="667,1534 833,1531 999,1526 1166,1521 1332,1514 1499,1506 1665,1499 1832,1490 1998,1482 2165,1473 2331,1465 2497,1457 2664,1449 2830,1443 2997,1438 3163,1434 3330,1431 3496,1430 3663,1430 3829,1433 3996,1438"/>
+                <TextEquiv>
+                    <Unicode>träts u. manche wundervolle Landschafts-Stimmungs-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:8;}">
+                <Coords points="630,1775 2310,1717 2972,1580 3760,1705 3983,1558 3283,1447 624,1606"/>
+                <Baseline points="650,1709 815,1698 981,1687 1147,1675 1313,1663 1478,1651 1644,1640 1810,1629 1976,1619 2141,1609 2307,1600 2473,1594 2639,1588 2804,1584 2970,1582 3136,1583 3302,1585 3467,1590 3633,1598 3799,1608 3965,1622"/>
+                <TextEquiv>
+                    <Unicode>Malerei. Er hat sich gehörig in Welt und Leben umge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:9;}">
+                <Coords points="650,1861 1180,1943 1352,1814 1933,1785 2237,1917 3121,1758 3399,1862 3823,1804 3816,1606 646,1764"/>
+                <Baseline points="671,1849 827,1843 983,1836 1140,1828 1296,1820 1453,1813 1609,1804 1765,1796 1922,1789 2078,1781 2235,1774 2391,1768 2547,1762 2704,1757 2860,1752 3017,1749 3173,1746 3329,1745 3486,1745 3642,1747 3799,1750"/>
+                <TextEquiv>
+                    <Unicode>tan. Mich stört ein wenig, wie schon in Hilligenlei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:10;}">
+                <Coords points="627,2043 888,2131 1547,1955 1893,2064 2386,1941 3492,1989 3869,1920 3865,1790 623,1917"/>
+                <Baseline points="647,2023 807,2012 967,2001 1127,1992 1287,1983 1447,1975 1607,1967 1767,1960 1927,1953 2087,1947 2248,1942 2408,1937 2568,1932 2728,1927 2888,1923 3048,1918 3208,1915 3368,1911 3528,1907 3688,1904 3849,1900"/>
+                <TextEquiv>
+                    <Unicode>das sehr stark sinnliche Beiwerk, obwohl es bei ihm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:11;}">
+                <Coords points="665,2228 1460,2158 1678,2264 2002,2121 2153,2221 2853,2218 3270,2076 3505,2173 3861,2097 3855,1942 3668,1902 3470,2006 2309,1967 1933,2082 1537,1969 1281,2109 659,2047"/>
+                <Baseline points="685,2175 842,2169 1000,2162 1158,2155 1315,2148 1473,2140 1631,2133 1788,2125 1946,2118 2104,2111 2262,2104 2419,2097 2577,2092 2735,2087 2892,2082 3050,2078 3208,2076 3365,2074 3523,2073 3681,2074 3839,2076"/>
+                <TextEquiv>
+                    <Unicode>durchaus natürlich u. nicht gemacht ist, u. obwohl er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:12;}">
+                <Coords points="633,2469 1005,2348 1551,2429 1906,2296 2216,2401 2348,2300 2696,2378 3903,2267 3898,2103 3307,2217 627,2245"/>
+                <Baseline points="653,2356 814,2347 975,2339 1137,2330 1298,2322 1460,2315 1621,2308 1782,2302 1944,2295 2105,2290 2267,2284 2428,2280 2589,2276 2751,2272 2912,2269 3074,2266 3235,2264 3396,2263 3558,2263 3719,2263 3881,2263"/>
+                <TextEquiv>
+                    <Unicode>sich damit nur gegen die ihm ganz, mir mindestens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:13;}">
+                <Coords points="678,2625 1341,2531 1453,2616 1954,2465 2686,2554 2825,2427 3424,2551 3893,2455 3890,2366 3583,2259 3090,2385 1887,2340 1342,2443 1010,2348 672,2452"/>
+                <Baseline points="695,2535 853,2523 1012,2511 1171,2500 1330,2490 1489,2480 1648,2471 1807,2462 1966,2454 2125,2447 2284,2442 2442,2436 2601,2432 2760,2429 2919,2426 3078,2425 3237,2424 3396,2425 3555,2427 3714,2430 3873,2434"/>
+                <TextEquiv>
+                    <Unicode>halb falsch erscheinende Behandlung der geschlechtlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:14;}">
+                <Coords points="644,2778 1538,2683 2006,2782 2254,2662 2954,2748 3281,2608 3915,2646 3911,2532 2900,2468 2605,2577 1007,2671 805,2582 640,2673"/>
+                <Baseline points="663,2734 824,2728 986,2720 1147,2712 1309,2702 1470,2692 1632,2682 1793,2672 1955,2662 2116,2653 2278,2644 2439,2635 2601,2629 2762,2622 2924,2617 3085,2615 3247,2613 3408,2614 3570,2617 3731,2623 3893,2631"/>
+                <TextEquiv>
+                    <Unicode>Beziehungen in der heutigen Gesellschaft auflehnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:15;}">
+                <Coords points="649,2925 1519,2851 1735,2986 1865,2862 2054,2955 3900,2718 3652,2623 3500,2727 2304,2675 2001,2780 1807,2683 645,2845"/>
+                <Baseline points="668,2892 828,2885 989,2878 1149,2870 1310,2863 1471,2854 1631,2845 1792,2837 1953,2828 2113,2820 2274,2812 2435,2805 2595,2798 2756,2791 2917,2785 3077,2780 3238,2777 3399,2774 3559,2772 3720,2772 3881,2773"/>
+                <TextEquiv>
+                    <Unicode>will. Aber bei ihm ist schon das ganze Kinderleben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:16;}">
+                <Coords points="651,3090 1866,3006 2111,3110 2960,2956 3303,3090 3538,2949 3871,2957 3867,2843 647,3014"/>
+                <Baseline points="671,3070 829,3061 988,3052 1147,3042 1306,3033 1465,3023 1624,3013 1783,3005 1942,2995 2101,2987 2260,2979 2418,2971 2577,2965 2736,2959 2895,2955 3054,2951 3213,2948 3372,2947 3531,2948 3690,2950 3849,2953"/>
+                <TextEquiv>
+                    <Unicode>voll davon, u. das erscheint mir unwahrscheinlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:17;}">
+                <Coords points="677,3355 1056,3226 1393,3335 2033,3183 2234,3272 2559,3171 3947,3175 4007,2983 669,3157"/>
+                <Baseline points="694,3234 858,3228 1023,3221 1188,3213 1353,3205 1517,3197 1682,3189 1847,3181 2012,3172 2176,3164 2341,3156 2506,3149 2671,3141 2835,3135 3000,3130 3165,3125 3330,3121 3494,3119 3659,3117 3824,3117 3989,3118"/>
+                <TextEquiv>
+                    <Unicode>zumal bei seinen kernechten Norddeutschen. Und dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:18;}">
+                <Coords points="689,3434 944,3510 1626,3356 1989,3488 2756,3356 3168,3440 3820,3262 1815,3207 1360,3327 1053,3228 686,3358"/>
+                <Baseline points="708,3414 862,3408 1017,3402 1172,3396 1326,3390 1481,3384 1636,3377 1790,3371 1945,3365 2100,3359 2255,3353 2409,3347 2564,3342 2719,3337 2873,3332 3028,3328 3183,3325 3337,3322 3492,3320 3647,3318 3802,3318"/>
+                <TextEquiv>
+                    <Unicode>erregt meinen Widerspruch sein Feldzug gegen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:19;}">
+                <Coords points="656,3633 2185,3548 2714,3656 3955,3552 3951,3371 3587,3479 2734,3390 654,3532"/>
+                <Baseline points="676,3574 847,3570 1019,3566 1190,3563 1362,3559 1533,3555 1705,3551 1876,3547 2048,3544 2219,3540 2391,3536 2562,3533 2734,3530 2905,3526 3077,3524 3248,3521 3420,3519 3591,3516 3763,3515 3935,3513"/>
+                <TextEquiv>
+                    <Unicode>unpraktischen „Idealismus des Deutschen“, der dem Men„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:20;}">
+                <Coords points="669,3865 1792,3734 2140,3835 3988,3749 3984,3576 2527,3665 2174,3547 1474,3671 1282,3588 1049,3720 663,3633"/>
+                <Baseline points="688,3776 851,3768 1015,3761 1179,3755 1343,3748 1507,3743 1671,3737 1834,3732 1998,3727 2162,3723 2326,3719 2490,3715 2654,3711 2818,3708 2981,3704 3145,3701 3309,3698 3473,3696 3637,3693 3801,3690 3965,3688"/>
+                <TextEquiv>
+                    <Unicode>schen nicht schon in der Schule graue Alltagsbilder bie„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:21;}">
+                <Coords points="677,3982 3724,3987 3722,3819 2925,3758 2711,3870 2360,3769 2193,3881 1429,3795 1287,3868 1104,3765 676,3868"/>
+                <Baseline points="699,3954 849,3945 999,3937 1149,3931 1299,3926 1449,3922 1599,3920 1749,3918 1899,3916 2049,3915 2200,3915 2350,3915 2500,3914 2650,3914 2800,3913 2950,3912 3100,3910 3250,3907 3400,3903 3550,3899 3701,3892"/>
+                <TextEquiv>
+                    <Unicode>tet. Muß denn immer Alles in Realismus u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:22;}">
+                <Coords points="668,4174 4082,4186 3925,3993 3487,3960 668,4052"/>
+                <Baseline points="690,4139 858,4132 1027,4126 1195,4120 1364,4116 1532,4112 1701,4109 1869,4106 2038,4104 2206,4103 2375,4102 2543,4102 2712,4103 2880,4104 3049,4106 3217,4109 3386,4111 3554,4115 3723,4118 3891,4123 4060,4128"/>
+                <TextEquiv>
+                    <Unicode>Idealismus als feindliche Welten gespalten werden?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:23;}">
+                <Coords points="654,4436 1438,4421 1670,4303 3208,4299 3473,4434 3966,4361 3966,4243 3705,4176 654,4200"/>
+                <Baseline points="674,4332 837,4321 1001,4311 1164,4303 1328,4298 1491,4293 1655,4290 1818,4288 1982,4287 2145,4287 2309,4288 2473,4289 2636,4291 2800,4293 2963,4296 3127,4298 3290,4300 3454,4303 3617,4304 3781,4305 3945,4306"/>
+                <TextEquiv>
+                    <Unicode>Gewiß sie streben auseinander, aber sie gehören</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:24;}">
+                <Coords points="630,4578 2536,4446 3187,4521 3219,4314 2635,4388 2346,4291 626,4439"/>
+                <Baseline points="649,4505 776,4499 904,4492 1032,4486 1159,4480 1287,4474 1415,4468 1542,4462 1670,4457 1798,4452 1926,4448 2053,4445 2181,4441 2309,4439 2436,4437 2564,4436 2692,4435 2819,4436 2947,4437 3075,4440 3203,4444"/>
+                <TextEquiv>
+                    <Unicode>auch zu einander wie Mann u. Weib.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:25;}">
+                <Coords points="951,4713 1386,4743 1670,4639 1841,4752 2598,4661 3300,4748 3814,4607 3811,4490 3477,4435 3223,4556 2863,4477 2237,4561 2074,4476 948,4599"/>
+                <Baseline points="973,4691 1114,4681 1255,4671 1396,4663 1537,4656 1678,4649 1819,4644 1960,4639 2101,4635 2242,4631 2383,4628 2524,4626 2665,4623 2806,4621 2947,4619 3088,4617 3229,4615 3370,4613 3511,4611 3652,4608 3794,4606"/>
+                <TextEquiv>
+                    <Unicode>„Peter Moor's Fahrt nach Südwest“ vom selben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:26;}">
+                <Coords points="617,4889 993,4887 1051,4851 1166,4915 1408,4811 1665,4821 1663,4737 1220,4749 1130,4680 1035,4738 892,4755 806,4698 612,4704"/>
+                <Baseline points="635,4813 685,4815 735,4817 786,4818 836,4817 887,4816 937,4814 988,4812 1038,4809 1089,4807 1139,4803 1189,4801 1240,4798 1290,4796 1341,4794 1391,4793 1442,4793 1492,4793 1543,4795 1593,4798 1644,4802"/>
+                <TextEquiv>
+                    <Unicode>Autor begonnen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>114&#xD;
+26. Dez. Zu Bett geblieben. Begonnen Frenssen:&#xD;
+„Klaus Hinrich Baas“.&#xD;
+27 Dez. Aufgestanden, aber noch geruht. Appetit gering,&#xD;
+zuweilen innere Hitze, aber kein Fieber.&#xD;
+28 Dez: Frenssen beendigt. Mir gefällt sein starker,&#xD;
+schlichter Stil, seine zahlreichen gut beobachteten Por„&#xD;
+träts u. manche wundervolle Landschafts-Stimmungs-&#xD;
+Malerei. Er hat sich gehörig in Welt und Leben umge„&#xD;
+tan. Mich stört ein wenig, wie schon in Hilligenlei&#xD;
+das sehr stark sinnliche Beiwerk, obwohl es bei ihm&#xD;
+durchaus natürlich u. nicht gemacht ist, u. obwohl er&#xD;
+sich damit nur gegen die ihm ganz, mir mindestens&#xD;
+halb falsch erscheinende Behandlung der geschlechtlichen&#xD;
+Beziehungen in der heutigen Gesellschaft auflehnen&#xD;
+will. Aber bei ihm ist schon das ganze Kinderleben&#xD;
+voll davon, u. das erscheint mir unwahrscheinlich&#xD;
+zumal bei seinen kernechten Norddeutschen. Und dann&#xD;
+erregt meinen Widerspruch sein Feldzug gegen den&#xD;
+unpraktischen „Idealismus des Deutschen“, der dem Men„&#xD;
+schen nicht schon in der Schule graue Alltagsbilder bie„&#xD;
+tet. Muß denn immer Alles in Realismus u.&#xD;
+Idealismus als feindliche Welten gespalten werden?&#xD;
+Gewiß sie streben auseinander, aber sie gehören&#xD;
+auch zu einander wie Mann u. Weib.&#xD;
+„Peter Moor's Fahrt nach Südwest“ vom selben&#xD;
+Autor begonnen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

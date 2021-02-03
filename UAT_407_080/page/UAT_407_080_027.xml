@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:54.272+02:00</Created>
+        <LastChange>2020-03-31T10:03:54.700+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550725" pageNr="27" tsid="26743963" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=TJHGCMJEPFUSPCVMMUKUOIGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NNAEWNEOJHVDVIFPDXKRKSHX" imageId="4551603"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_027.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255539605" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="365,276 365,4897 4090,4897 4090,276"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3779,344 3811,347 3840,335 3862,351 3882,339 3941,354 3953,225 3920,226 3908,211 3898,220 3894,215 3865,226 3856,216 3792,210"/>
+                <Baseline points="3805,324 3833,324 3862,327 3890,330 3919,334"/>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="356,488 4086,456 4086,354 3084,260 802,340 640,237 357,339"/>
+                <Baseline points="382,415 566,414 750,412 934,410 1118,408 1302,406 1486,403 1670,401 1854,399 2038,397 2222,396 2406,395 2590,395 2774,396 2958,398 3142,401 3326,405 3510,411 3694,418 3878,426 4062,436"/>
+                <TextEquiv>
+                    <Unicode>Maimbui. D. Liegende dieser Schicht hier also anders</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="381,595 1178,552 1430,666 1517,595 1559,628 1795,575 1795,482 1549,502 1344,407 844,499 742,504 662,431 380,493"/>
+                <Baseline points="402,568 470,563 539,559 607,556 676,553 744,550 813,548 881,546 950,544 1018,543 1087,542 1156,542 1224,542 1293,542 1361,543 1430,544 1498,546 1567,548 1635,550 1704,554 1773,557"/>
+                <TextEquiv>
+                    <Unicode>als am Namyura.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="652,754 4108,711 3973,590 2423,544 651,624"/>
+                <Baseline points="677,729 847,726 1017,723 1188,720 1358,717 1528,714 1699,711 1869,709 2039,707 2210,705 2380,704 2550,703 2721,703 2891,703 3061,704 3232,706 3402,708 3572,711 3743,715 3913,719 4084,725"/>
+                <TextEquiv>
+                    <Unicode>Mittags plötzlicher, starker Durchfall mit vorüber„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="424,983 739,871 4112,944 4111,828 3490,741 424,820"/>
+                <Baseline points="446,871 628,871 810,870 992,869 1174,868 1357,867 1539,866 1721,865 1903,863 2085,862 2268,861 2450,860 2632,859 2814,859 2996,859 3179,860 3361,861 3543,863 3725,866 3907,869 4090,873"/>
+                <TextEquiv>
+                    <Unicode>gehender Übelkeit. Nachm. zu Bett gelegen, aber wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="406,1160 1815,1030 2929,1135 3151,1026 3819,1066 3818,913 404,993"/>
+                <Baseline points="429,1057 597,1053 765,1048 934,1045 1102,1041 1271,1038 1439,1036 1607,1034 1776,1032 1944,1030 2113,1029 2281,1027 2449,1026 2618,1026 2786,1025 2955,1024 3123,1023 3291,1022 3460,1021 3628,1020 3797,1019"/>
+                <TextEquiv>
+                    <Unicode>ganz wohl. Buch v. Plehn üb. Tropenhygiene mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="437,1265 3893,1263 3988,1090 435,1162"/>
+                <Baseline points="459,1223 634,1225 809,1226 984,1226 1160,1226 1335,1224 1510,1222 1686,1220 1861,1217 2036,1214 2212,1210 2387,1206 2562,1203 2737,1199 2913,1195 3088,1192 3263,1189 3439,1186 3614,1184 3789,1183 3965,1182"/>
+                <TextEquiv>
+                    <Unicode>Interesse gelesen. Dr. J. steht zum ersten Mal auf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="419,1407 1055,1490 1263,1405 1449,1488 1857,1392 2274,1398 2273,1259 2070,1325 1916,1215 1605,1231 1448,1330 1276,1229 1058,1314 826,1223 418,1268"/>
+                <Baseline points="443,1390 533,1387 623,1384 714,1382 804,1380 895,1379 985,1378 1075,1377 1166,1377 1256,1377 1347,1377 1437,1377 1527,1377 1618,1376 1708,1376 1799,1376 1889,1375 1979,1374 2070,1373 2160,1371 2251,1368"/>
+                <TextEquiv>
+                    <Unicode>Abds. Schach m. Hrn. Besser.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582881478115_1147" custom="readingOrder {index:8;}">
+                <Coords points="565,1569 1691,1650 2100,1525 2404,1618 2916,1490 3998,1534 3955,1336 2919,1448 2414,1348 1464,1513 1307,1406 1125,1519 561,1449"/>
+                <Baseline points="590,1565 620,1571 650,1575 680,1578 711,1581 741,1583 771,1583 801,1585 832,1585 862,1585 892,1584 922,1584 953,1582 983,1581 1013,1580 1043,1579 1074,1578 1104,1576 1134,1575 1164,1574 1195,1574 1298,1565 1431,1556 1565,1547 1699,1538 1833,1531 1966,1525 2100,1519 2234,1514 2368,1509 2501,1505 2635,1502 2769,1499 2903,1497 3036,1495 3170,1494 3304,1493 3438,1493 3571,1493 3705,1494 3839,1495 3973,1496"/>
+                <TextEquiv>
+                    <Unicode>12. Mai: Vorm. Größten bisherigen Knochen (im Pori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582881482538_1152" custom="readingOrder {index:9;}">
+                <Coords points="411,1766 3936,1686 3802,1546 3149,1597 3007,1503 1688,1638 406,1594"/>
+                <Baseline points="432,1738 526,1733 621,1729 716,1724 811,1720 905,1715 1000,1711 1095,1706 1190,1702 1284,1698 1379,1694 1474,1689 1569,1685 1663,1681 1758,1676 1853,1672 1948,1668 2042,1664 2137,1659 2232,1654 2327,1649 2655,1644 2717,1644 2780,1643 2843,1643 2906,1643 2969,1642 3031,1642 3094,1642 3157,1641 3220,1641 3283,1641 3345,1642 3408,1642 3471,1643 3534,1644 3597,1646 3659,1647 3722,1650 3785,1653 3848,1656 3911,1660"/>
+                <TextEquiv>
+                    <Unicode>unweit des Lagers geborgen. Zum Sonnenuntergang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:10;}">
+                <Coords points="572,1911 3134,1912 3870,1852 3918,1744 569,1786"/>
+                <Baseline points="596,1888 761,1884 926,1880 1091,1875 1256,1871 1421,1866 1586,1861 1751,1857 1916,1852 2081,1847 2246,1843 2411,1838 2576,1834 2741,1830 2906,1826 3071,1822 3236,1819 3401,1817 3566,1814 3731,1812 3897,1811"/>
+                <TextEquiv>
+                    <Unicode>13. Mai: Nachm. Schach m. Dr. Janensch. Zum Sonnen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582881488120_1157" custom="readingOrder {index:11;}">
+                <Coords points="425,2099 2391,2015 3001,2116 3342,1994 3599,2110 3950,2030 3948,1891 424,1997"/>
+                <Baseline points="449,2054 481,2055 513,2055 545,2055 578,2055 610,2054 642,2054 675,2053 707,2052 739,2051 772,2049 804,2048 836,2047 868,2045 901,2043 933,2041 965,2039 998,2037 1030,2034 1062,2032 1095,2029 1615,2057 1730,2049 1846,2042 1961,2036 2077,2031 2193,2027 2308,2023 2424,2020 2539,2018 2655,2016 2771,2014 2886,2013 3002,2012 3117,2010 3233,2009 3349,2008 3464,2006 3580,2004 3695,2001 3811,1998 3927,1994"/>
+                <TextEquiv>
+                    <Unicode>untergang. Mollusken aus d. Saurierschichten verpackt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:12;}">
+                <Coords points="592,2213 4058,2212 3983,1978 3869,2078 589,2106"/>
+                <Baseline points="614,2217 785,2208 956,2200 1127,2193 1298,2186 1469,2180 1640,2173 1811,2168 1982,2163 2153,2158 2324,2154 2495,2150 2666,2146 2837,2143 3008,2141 3179,2139 3350,2137 3521,2135 3692,2134 3863,2133 4035,2132"/>
+                <TextEquiv>
+                    <Unicode>14 Mai: Mittags Post aus Europa durch Zwischendampfer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:13;}">
+                <Coords points="438,2385 1756,2438 1889,2342 2141,2435 2329,2319 2424,2401 3749,2319 3161,2168 2987,2260 435,2246"/>
+                <Baseline points="459,2362 622,2358 785,2354 948,2349 1112,2345 1275,2341 1438,2337 1602,2332 1765,2328 1928,2325 2092,2322 2255,2318 2418,2315 2581,2312 2745,2309 2908,2307 3071,2305 3235,2303 3398,2301 3561,2300 3725,2299"/>
+                <TextEquiv>
+                    <Unicode>Abends nach d. Schach nach mehrtägiger Verstopfung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:14;}">
+                <Coords points="454,2555 3984,2508 3942,2300 451,2429"/>
+                <Baseline points="475,2505 649,2504 823,2502 997,2499 1171,2495 1345,2490 1519,2484 1693,2477 1867,2471 2041,2465 2216,2459 2390,2452 2564,2447 2738,2442 2912,2438 3086,2435 3260,2433 3434,2433 3608,2434 3782,2437 3957,2441"/>
+                <TextEquiv>
+                    <Unicode>wieder starker Durchfall, böse Nacht. Offenbar starke Er„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:15;}">
+                <Coords points="437,2702 2256,2704 2378,2613 2511,2711 2846,2571 3841,2639 3837,2514 2874,2431 2566,2538 2313,2443 2140,2555 432,2563"/>
+                <Baseline points="459,2674 626,2663 794,2653 962,2644 1130,2635 1298,2628 1465,2621 1633,2614 1801,2608 1969,2603 2137,2598 2304,2593 2472,2589 2640,2585 2808,2582 2976,2580 3143,2578 3311,2576 3479,2574 3647,2573 3815,2573"/>
+                <TextEquiv>
+                    <Unicode>kältung, denn gleichzeitig Schnupfen. Vorher wieder,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582881495185_1162" custom="readingOrder {index:16;}">
+                <Coords points="420,2830 1315,2790 1499,2895 1963,2757 2598,2851 3484,2713 3766,2815 4038,2763 4032,2587 417,2752"/>
+                <Baseline points="445,2816 504,2816 563,2815 622,2813 681,2811 740,2809 799,2806 858,2804 917,2801 976,2798 1035,2795 1094,2793 1153,2791 1212,2789 1271,2788 1330,2787 1389,2787 1448,2788 1507,2789 1566,2791 1625,2794 1753,2784 1866,2774 1979,2765 2092,2757 2205,2750 2318,2743 2431,2737 2544,2732 2657,2728 2770,2723 2884,2720 2997,2717 3110,2715 3223,2713 3336,2712 3449,2711 3562,2711 3675,2711 3788,2712 3901,2713 4015,2714"/>
+                <TextEquiv>
+                    <Unicode>wie auch neulich, sehr empfindlich für Wärme u. Kühle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:17;}">
+                <Coords points="530,3028 3758,2940 3927,2891 3923,2776 2631,2862 2302,2773 1523,2899 924,2798 525,2898"/>
+                <Baseline points="554,2997 721,2991 888,2985 1056,2978 1223,2972 1391,2965 1558,2958 1726,2951 1893,2943 2061,2935 2228,2927 2395,2920 2563,2913 2730,2906 2898,2899 3065,2892 3233,2885 3400,2880 3568,2874 3735,2869 3903,2864"/>
+                <TextEquiv>
+                    <Unicode>15. Mai. Vorm. zu Bett geblieben, bis es im Zelt zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:18;} textStyle {offset:0; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="477,3168 3105,3052 3437,3139 3926,3030 3419,2880 3196,2994 3030,2906 2097,3040 471,3001"/>
+                <Baseline points="501,3138 671,3131 841,3125 1011,3119 1181,3114 1351,3109 1521,3105 1691,3100 1861,3096 2031,3091 2202,3087 2372,3082 2542,3077 2712,3071 2882,3065 3052,3059 3222,3051 3392,3042 3562,3033 3732,3023 3903,3011"/>
+                <TextEquiv>
+                    <Unicode>H heiß wurde. Bornhardt u. Karten studiert. Ganzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:19;}">
+                <Coords points="393,3376 4055,3235 4051,3105 3094,3058 2749,3180 2422,3091 672,3243 567,3144 390,3261"/>
+                <Baseline points="416,3319 596,3303 777,3289 958,3278 1139,3268 1319,3261 1500,3254 1681,3249 1862,3245 2042,3242 2223,3240 2404,3237 2585,3234 2765,3231 2946,3228 3127,3224 3308,3219 3488,3213 3669,3205 3850,3195 4031,3182"/>
+                <TextEquiv>
+                    <Unicode>Tag nicht fortgegangen. Nachm. Fontane's „L'Adultera“ begon„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582881502474_1166" custom="readingOrder {index:20;} textStyle {offset:25; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="409,3510 1110,3411 1235,3494 1787,3384 2135,3479 2709,3428 2702,3289 2272,3226 1563,3362 1044,3285 781,3427 405,3422"/>
+                <Baseline points="433,3489 458,3486 483,3484 508,3481 533,3480 558,3478 583,3477 608,3475 633,3474 658,3472 683,3471 708,3471 733,3470 758,3469 783,3468 808,3468 834,3467 897,3426 986,3424 1075,3422 1165,3419 1254,3417 1344,3415 1433,3412 1522,3410 1612,3406 1701,3404 1791,3401 1880,3398 1969,3395 2059,3392 2148,3389 2238,3385 2327,3383 2416,3379 2506,3376 2595,3373 2685,3370"/>
+                <TextEquiv>
+                    <Unicode>nen. Früh zu Bett. Posho-Lohn-Zahlung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:21;} textStyle {offset:0; length:17;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="489,3671 1465,3701 2143,3566 2531,3667 3103,3554 3222,3648 3966,3526 3558,3393 2100,3512 1754,3414 1525,3523 1109,3409 486,3532"/>
+                <Baseline points="513,3629 684,3617 856,3605 1027,3595 1199,3587 1370,3581 1542,3575 1713,3570 1885,3565 2056,3562 2228,3559 2399,3556 2571,3553 2742,3550 2914,3547 3085,3544 3257,3540 3428,3535 3600,3529 3771,3523 3943,3514"/>
+                <TextEquiv>
+                    <Unicode>16. Mai, Sonntag. Vorm. m. Dr. Janensch auf d. barra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:22;}">
+                <Coords points="342,3833 3745,3717 3741,3591 2822,3576 2625,3670 2242,3574 1902,3695 338,3694"/>
+                <Baseline points="365,3784 532,3780 700,3776 868,3772 1036,3767 1204,3762 1371,3756 1539,3751 1707,3746 1875,3740 2043,3734 2210,3729 2378,3723 2546,3718 2714,3714 2882,3709 3049,3706 3217,3703 3385,3700 3553,3698 3721,3697"/>
+                <TextEquiv>
+                    <Unicode>barra um d. Tendaguru. Taube geschossen, meine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:23;}">
+                <Coords points="349,3983 1377,3890 1523,4003 1739,3892 2283,3989 2861,3857 3007,3975 3473,3864 3753,3952 4103,3778 3136,3694 2832,3816 1133,3760 347,3895"/>
+                <Baseline points="371,3940 556,3928 742,3917 927,3907 1113,3898 1298,3891 1484,3884 1669,3879 1855,3874 2040,3871 2226,3868 2411,3865 2597,3864 2782,3862 2968,3861 3153,3861 3339,3861 3524,3860 3710,3860 3895,3860 4081,3860"/>
+                <TextEquiv>
+                    <Unicode>erste Jagdbeute. Versteinerungsfunde. Frische Leopard-Spuren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:24;}">
+                <Coords points="546,4156 1500,4041 3181,4130 4070,4053 4069,3956 1499,4008 1237,3893 544,4017"/>
+                <Baseline points="567,4084 740,4077 914,4071 1088,4065 1262,4059 1436,4053 1610,4049 1784,4045 1958,4040 2132,4037 2306,4033 2479,4030 2653,4028 2827,4025 3001,4024 3175,4022 3349,4020 3523,4019 3697,4019 3871,4018 4045,4018"/>
+                <TextEquiv>
+                    <Unicode>Gelesen, Fontane beendet; manches Gute, doch im Ganzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582881509000_1171" custom="readingOrder {index:25;}">
+                <Coords points="388,4267 2389,4291 3146,4152 3664,4257 3903,4199 3900,4074 1593,4050 780,4177 619,4079 386,4202"/>
+                <Baseline points="410,4247 454,4245 498,4242 542,4239 586,4237 630,4234 674,4231 718,4228 762,4225 806,4223 850,4221 894,4218 938,4217 982,4216 1026,4216 1070,4216 1114,4217 1158,4218 1202,4221 1246,4224 1290,4229 1355,4208 1481,4207 1607,4206 1733,4203 1859,4200 1985,4196 2111,4192 2238,4187 2364,4182 2490,4177 2616,4172 2742,4167 2868,4162 2994,4158 3121,4154 3247,4151 3373,4148 3499,4147 3625,4146 3751,4146 3878,4148"/>
+                <TextEquiv>
+                    <Unicode>anspruchslos. In Plehn's Tropenhygiene üb. klimatische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:26;}">
+                <Coords points="383,4422 622,4471 764,4418 875,4506 1142,4364 1361,4475 1565,4368 1693,4422 1687,4302 1484,4227 1164,4326 1002,4245 854,4247 773,4316 683,4278 621,4337 525,4276 380,4357"/>
+                <Baseline points="408,4405 474,4405 540,4404 606,4402 673,4399 739,4395 805,4391 871,4386 938,4381 1004,4377 1070,4373 1136,4368 1203,4365 1269,4361 1335,4359 1401,4358 1468,4358 1534,4359 1600,4362 1667,4366"/>
+                <TextEquiv>
+                    <Unicode>Verhältnisse gelesen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l34" custom="readingOrder {index:27;}">
+                <Coords points="598,4553 1138,4582 1252,4536 1400,4628 1558,4519 1674,4519 1979,4599 2130,4551 2123,4375 1844,4363 1722,4457 1526,4427 1366,4476 1143,4364 595,4488"/>
+                <Baseline points="622,4552 696,4549 770,4546 844,4543 918,4541 993,4539 1067,4537 1141,4533 1215,4532 1289,4529 1364,4526 1438,4524 1512,4521 1586,4518 1660,4515 1735,4511 1809,4507 1883,4502 1957,4498 2031,4492 2106,4486"/>
+                <TextEquiv>
+                    <Unicode>Abend. Schach m. Dr. J.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l35" custom="readingOrder {index:28;}">
+                <Coords points="444,4767 2950,4741 2945,4597 2554,4548 1902,4637 1673,4560 1258,4665 1070,4577 947,4660 439,4582"/>
+                <Baseline points="468,4733 590,4733 713,4731 836,4729 959,4725 1082,4721 1205,4717 1327,4712 1450,4707 1573,4702 1696,4697 1819,4693 1942,4688 2065,4684 2187,4680 2310,4678 2433,4676 2556,4675 2679,4675 2802,4677 2925,4680"/>
+                <TextEquiv>
+                    <Unicode>17. Mai: Nachm. Noch einmal etwas Regen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582881516056_1176" custom="readingOrder {index:29;}">
+                <Coords points="740,4916 2299,4885 2438,4972 3017,4842 3342,4872 3341,4774 3058,4716 2739,4802 2497,4698 2047,4794 1750,4704 1268,4805 739,4749"/>
+                <Baseline points="763,4849 865,4854 967,4858 1069,4859 1171,4860 1273,4859 1375,4857 1478,4854 1580,4851 1682,4848 1784,4845 1886,4842 1988,4839 2090,4837 2193,4836 2295,4837 2397,4838 2499,4841 2601,4847 2703,4854 2806,4864 2826,4853 2852,4848 2878,4844 2904,4841 2930,4839 2956,4836 2982,4835 3008,4835 3034,4834 3060,4834 3086,4834 3112,4835 3138,4835 3164,4836 3190,4836 3216,4837 3242,4838 3268,4838 3294,4837 3320,4837"/>
+                <TextEquiv>
+                    <Unicode>Jonas Lie: „Eine Ehe“ begonnen. Schach m. Hrn. Besser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>23&#xD;
+Maimbui. D. Liegende dieser Schicht hier also anders&#xD;
+als am Namyura.&#xD;
+Mittags plötzlicher, starker Durchfall mit vorüber„&#xD;
+gehender Übelkeit. Nachm. zu Bett gelegen, aber wieder&#xD;
+ganz wohl. Buch v. Plehn üb. Tropenhygiene mit&#xD;
+Interesse gelesen. Dr. J. steht zum ersten Mal auf.&#xD;
+Abds. Schach m. Hrn. Besser.&#xD;
+12. Mai: Vorm. Größten bisherigen Knochen (im Pori&#xD;
+unweit des Lagers geborgen. Zum Sonnenuntergang.&#xD;
+13. Mai: Nachm. Schach m. Dr. Janensch. Zum Sonnen„&#xD;
+untergang. Mollusken aus d. Saurierschichten verpackt.&#xD;
+14 Mai: Mittags Post aus Europa durch Zwischendampfer.&#xD;
+Abends nach d. Schach nach mehrtägiger Verstopfung&#xD;
+wieder starker Durchfall, böse Nacht. Offenbar starke Er„&#xD;
+kältung, denn gleichzeitig Schnupfen. Vorher wieder,&#xD;
+wie auch neulich, sehr empfindlich für Wärme u. Kühle.&#xD;
+15. Mai. Vorm. zu Bett geblieben, bis es im Zelt zu&#xD;
+H heiß wurde. Bornhardt u. Karten studiert. Ganzen&#xD;
+Tag nicht fortgegangen. Nachm. Fontane's „L'Adultera“ begon„&#xD;
+nen. Früh zu Bett. Posho-Lohn-Zahlung&#xD;
+16. Mai, Sonntag. Vorm. m. Dr. Janensch auf d. barra-&#xD;
+barra um d. Tendaguru. Taube geschossen, meine&#xD;
+erste Jagdbeute. Versteinerungsfunde. Frische Leopard-Spuren.&#xD;
+Gelesen, Fontane beendet; manches Gute, doch im Ganzen&#xD;
+anspruchslos. In Plehn's Tropenhygiene üb. klimatische&#xD;
+Verhältnisse gelesen.&#xD;
+Abend. Schach m. Dr. J.&#xD;
+17. Mai: Nachm. Noch einmal etwas Regen.&#xD;
+Jonas Lie: „Eine Ehe“ begonnen. Schach m. Hrn. Besser</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:15.633+02:00</Created>
+        <LastChange>2020-03-16T14:46:07.035+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581508" pageNr="60" tsid="25740676" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=VKDRCWXSFMAURNHLFKRNORAC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UFUTQNJSRBRHZBETJPJRZZWB" imageId="4579397"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_60.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255757154" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="368,270 368,4558 4007,4558 4007,270"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="348,393 374,391 426,358 461,356 493,376 510,358 532,357 524,202 493,204 480,218 462,201 448,202 376,250 366,242 340,243"/>
+                <Baseline points="368,346 395,342 423,341 451,339 479,339 507,337"/>
+                <TextEquiv>
+                    <Unicode>58</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="504,750 2239,815 2685,718 3060,815 3820,748 3890,602 504,604"/>
+                <Baseline points="526,698 693,702 860,705 1027,707 1194,708 1361,708 1528,708 1695,708 1862,707 2029,706 2197,705 2364,704 2531,703 2698,702 2865,701 3032,701 3199,701 3366,702 3533,704 3700,706 3868,710"/>
+                <TextEquiv>
+                    <Unicode>22. Dez. Einkäufe gemacht, obwohl das meiste noch von der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="774,937 1139,867 1356,940 1541,872 1652,937 1815,860 1813,732 1615,747 1535,708 1364,794 1173,730 1041,758 970,710 772,756"/>
+                <Baseline points="795,839 844,840 894,841 944,842 994,842 1044,842 1094,842 1144,841 1194,841 1244,840 1294,839 1343,838 1393,837 1443,836 1493,835 1543,835 1593,834 1643,834 1693,833 1743,833 1793,834"/>
+                <TextEquiv>
+                    <Unicode>Reise mitgebracht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="427,1058 3151,1103 3314,1005 3602,1101 4003,1051 4003,906 2882,936 2418,822 2021,952 427,961"/>
+                <Baseline points="448,1008 624,1006 801,1005 977,1003 1154,1002 1330,1001 1507,1001 1683,1001 1860,1001 2036,1001 2213,1001 2390,1001 2566,1000 2743,1000 2919,1000 3096,999 3272,998 3449,997 3625,995 3802,993 3979,990"/>
+                <TextEquiv>
+                    <Unicode>23. Abends mit Bruno u. Bekannten im Kafe des Westens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582816146498_1026" custom="readingOrder {index:4;} textStyle {offset:0; length:19;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="380,1360 3651,1324 3651,1183 3002,1060 2472,1183 380,1073"/>
+                <Baseline points="402,1245 457,1244 513,1241 569,1240 624,1238 680,1237 736,1235 791,1235 847,1234 903,1234 959,1233 1014,1234 1070,1234 1126,1234 1181,1235 1237,1236 1293,1238 1348,1239 1404,1241 1460,1243 1516,1245 1697,1259 1793,1258 1890,1257 1986,1256 2083,1255 2179,1253 2276,1252 2372,1251 2469,1249 2565,1248 2662,1247 2759,1245 2855,1244 2952,1242 3048,1240 3145,1239 3241,1237 3338,1235 3434,1233 3531,1231 3628,1229 3694,1230"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 24. Dez: Vormittag gemalt (Lutamba-See)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:0; length:11;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="788,1562 3923,1619 3923,1514 3737,1448 2752,1405 2567,1502 1878,1401 1521,1495 1150,1372 788,1407"/>
+                <Baseline points="810,1568 964,1570 1119,1571 1273,1572 1428,1573 1583,1573 1737,1573 1892,1572 2046,1572 2201,1572 2356,1571 2510,1570 2665,1570 2819,1569 2974,1569 3129,1568 3283,1568 3438,1568 3592,1568 3747,1569 3902,1570"/>
+                <TextEquiv>
+                    <Unicode>Heiligabend! O schönes deutsches Fest in deutscher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="503,1843 1159,1741 1647,1844 1919,1726 3955,1768 3953,1622 500,1627"/>
+                <Baseline points="526,1758 696,1754 866,1750 1036,1746 1206,1743 1377,1739 1547,1736 1717,1733 1887,1730 2057,1727 2228,1725 2398,1722 2568,1720 2738,1718 2908,1716 3079,1715 3249,1714 3419,1712 3589,1712 3759,1711 3930,1710"/>
+                <TextEquiv>
+                    <Unicode>Heimat und im Schoße der Familie. Die 2 Tage 1909 u. 1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="449,1915 2868,1881 2966,1973 3707,1923 3791,1822 1919,1728 1667,1834 449,1823"/>
+                <Baseline points="472,1890 636,1886 801,1884 966,1881 1131,1879 1295,1877 1460,1876 1625,1875 1790,1874 1954,1874 2119,1874 2284,1874 2449,1874 2613,1875 2778,1875 2943,1876 3108,1877 3272,1878 3437,1879 3602,1880 3767,1881"/>
+                <TextEquiv>
+                    <Unicode>rechne ich als ewige Verluste. Nachm. bei Großmama, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="503,2047 3929,2077 3844,1896 502,1918"/>
+                <Baseline points="524,2028 693,2020 862,2014 1031,2009 1200,2004 1370,2001 1539,1998 1708,1996 1877,1995 2046,1995 2216,1995 2385,1995 2554,1995 2723,1996 2892,1998 3062,1999 3231,2000 3400,2001 3569,2002 3738,2003 3908,2003"/>
+                <TextEquiv>
+                    <Unicode>leider ständig recht apathisch, wenn auch sonst körperlich wohl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="509,2250 3701,2247 3935,2211 3935,2083 509,2109"/>
+                <Baseline points="533,2165 702,2170 871,2174 1040,2176 1209,2178 1378,2179 1547,2179 1716,2178 1885,2177 2054,2176 2223,2174 2392,2172 2561,2170 2730,2169 2899,2168 3068,2167 3237,2167 3406,2167 3575,2168 3744,2170 3914,2173"/>
+                <TextEquiv>
+                    <Unicode>ist. Nachher Bescherung bei uns. Tante Lisbeth anwesend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582816159706_1031" custom="readingOrder {index:10;}">
+                <Coords points="529,2434 1049,2306 1557,2413 2506,2301 3376,2401 3879,2256 3180,2168 527,2226"/>
+                <Baseline points="550,2312 575,2313 600,2315 625,2316 651,2318 676,2319 701,2321 726,2322 752,2324 777,2325 802,2326 827,2326 853,2327 878,2327 903,2327 928,2326 954,2323 979,2322 1004,2318 1029,2315 1055,2311 1074,2301 1213,2304 1352,2305 1491,2306 1630,2305 1769,2305 1908,2303 2047,2302 2186,2300 2325,2298 2465,2296 2604,2295 2743,2293 2882,2292 3021,2292 3160,2293 3299,2294 3438,2296 3577,2300 3716,2305 3856,2310"/>
+                <TextEquiv>
+                    <Unicode>Schenkte Mama u. Erna Stoffe u. Decken u. s. w. als Reisean„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="541,2482 3848,2502 3566,2347 2003,2421 1729,2319 1557,2421 541,2336"/>
+                <Baseline points="563,2460 726,2463 889,2465 1052,2466 1215,2467 1379,2468 1542,2468 1705,2468 1868,2468 2031,2468 2195,2468 2358,2467 2521,2467 2684,2466 2847,2466 3011,2466 3174,2466 3337,2466 3500,2467 3663,2468 3827,2470"/>
+                <TextEquiv>
+                    <Unicode>denken. Erhielt von Bruno prächtige Amateur-Photographieen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="545,2646 3376,2651 3378,2523 3152,2576 3003,2481 548,2487"/>
+                <Baseline points="568,2573 703,2573 839,2574 975,2574 1111,2575 1247,2576 1382,2577 1518,2578 1654,2579 1790,2581 1926,2583 2061,2585 2197,2588 2333,2591 2469,2594 2605,2597 2740,2602 2876,2606 3012,2611 3148,2616 3284,2622 3353,2619"/>
+                <TextEquiv>
+                    <Unicode>Sammlung aus Italien. Fröhlich gespielt („Schnapp“)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="588,2802 3992,2814 3992,2672 3820,2633 588,2670"/>
+                <Baseline points="608,2774 776,2770 944,2767 1112,2764 1280,2762 1448,2760 1616,2758 1784,2758 1952,2757 2120,2757 2288,2757 2456,2757 2624,2757 2792,2758 2960,2759 3128,2759 3296,2760 3464,2761 3632,2761 3800,2762 3969,2762"/>
+                <TextEquiv>
+                    <Unicode>25. Dez. Meine Reise-Photographieen in neue Albums ein„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="560,3013 631,2982 697,3000 754,2960 776,2978 887,2961 940,2917 1174,2944 1174,2790 1011,2838 945,2802 856,2837 803,2819 706,2859 636,2819 561,2823"/>
+                <Baseline points="581,2910 609,2910 638,2910 666,2910 695,2909 723,2909 752,2909 780,2909 809,2909 837,2910 866,2910 894,2910 923,2910 951,2910 980,2910 1008,2910 1037,2911 1065,2911 1094,2911 1122,2911 1151,2912"/>
+                <TextEquiv>
+                    <Unicode>geordnet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="775,3120 3839,3086 3839,2980 3504,2891 2466,2998 775,2956"/>
+                <Baseline points="798,3044 956,3044 1115,3045 1274,3045 1433,3046 1592,3047 1751,3048 1910,3049 2069,3049 2228,3050 2386,3051 2545,3052 2704,3052 2863,3053 3022,3053 3181,3053 3340,3053 3499,3053 3658,3053 3817,3052"/>
+                <TextEquiv>
+                    <Unicode>Abend: Alle bei Richard u. Lisbeth in Friedenau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="632,3277 3223,3249 3143,3082 1973,3186 1818,3089 631,3083"/>
+                <Baseline points="653,3223 780,3223 907,3224 1035,3224 1162,3224 1290,3224 1417,3224 1544,3223 1672,3223 1799,3222 1927,3221 2054,3220 2181,3219 2309,3218 2436,3217 2564,3216 2691,3215 2818,3214 2946,3213 3073,3212 3201,3210"/>
+                <TextEquiv>
+                    <Unicode>26. Dez. Photographieen weiter geordnet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="739,3431 4028,3391 3987,3237 738,3273"/>
+                <Baseline points="761,3388 923,3387 1085,3386 1247,3384 1410,3382 1572,3380 1734,3378 1897,3376 2059,3374 2221,3372 2384,3369 2546,3367 2708,3365 2870,3363 3033,3362 3195,3360 3357,3359 3520,3358 3682,3358 3844,3358 4007,3358"/>
+                <TextEquiv>
+                    <Unicode>Besuch bei Trendelenburg's gemacht. Eltern u. Schwestern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="589,3536 844,3514 983,3622 1219,3503 3313,3553 3635,3516 3633,3366 1041,3383 588,3483"/>
+                <Baseline points="612,3527 760,3519 909,3512 1057,3505 1206,3500 1354,3495 1503,3490 1651,3486 1800,3483 1948,3480 2097,3478 2246,3476 2394,3474 2543,3473 2691,3472 2840,3472 2988,3471 3137,3471 3285,3472 3434,3472 3583,3473 3614,3466"/>
+                <TextEquiv>
+                    <Unicode>nebst Heim kennen gelernt. Sie öffnete die Tür,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="619,3729 2332,3636 3793,3739 3868,3553 618,3579"/>
+                <Baseline points="642,3650 802,3646 962,3643 1122,3640 1282,3638 1442,3637 1602,3636 1762,3635 1922,3635 2082,3635 2243,3635 2403,3635 2563,3635 2723,3636 2883,3636 3043,3636 3203,3636 3363,3636 3523,3636 3683,3635 3844,3634"/>
+                <TextEquiv>
+                    <Unicode>sei's glückliche Vorbedeutung. Von der Treppe hatte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="617,3802 3743,3785 3742,3675 3618,3662 1380,3638 617,3735"/>
+                <Baseline points="640,3784 802,3781 964,3778 1126,3775 1288,3771 1450,3769 1612,3766 1774,3764 1936,3762 2098,3760 2260,3759 2422,3758 2584,3757 2746,3757 2908,3757 3070,3758 3232,3760 3394,3762 3556,3764 3719,3767"/>
+                <TextEquiv>
+                    <Unicode>reichlich lautes Lachen der Mädchen gehört, finde alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="623,3998 3762,3970 3660,3820 2375,3868 2043,3772 1236,3877 984,3776 622,3861"/>
+                <Baseline points="645,3932 799,3928 954,3924 1108,3921 1263,3919 1418,3918 1572,3916 1727,3916 1882,3916 2036,3916 2191,3916 2346,3916 2500,3917 2655,3917 2810,3917 2964,3917 3119,3917 3274,3916 3428,3915 3583,3914 3738,3911"/>
+                <TextEquiv>
+                    <Unicode>frisch und natürlich. Möchte gern hier ein und aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="626,4166 1658,4093 1880,4171 2223,4074 3641,4153 3747,4134 3745,3957 624,4029"/>
+                <Baseline points="648,4086 801,4083 955,4080 1109,4078 1262,4076 1416,4075 1570,4073 1723,4072 1877,4072 2031,4071 2185,4070 2338,4069 2492,4068 2646,4067 2799,4065 2953,4063 3107,4061 3260,4058 3414,4054 3568,4050 3722,4044"/>
+                <TextEquiv>
+                    <Unicode>gehen. Die Schwestern gefallen mir freilich weniger, sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="606,4270 941,4228 1180,4275 1232,4226 1338,4225 1529,4273 1603,4241 1603,4158 1457,4105 1360,4159 1250,4164 1139,4094 949,4126 875,4180 791,4154 680,4190 605,4146"/>
+                <Baseline points="627,4227 674,4228 722,4229 770,4229 818,4229 866,4228 913,4228 961,4227 1009,4226 1057,4225 1105,4224 1152,4223 1200,4222 1248,4222 1296,4221 1344,4222 1391,4222 1439,4223 1487,4224 1535,4227 1583,4229"/>
+                <TextEquiv>
+                    <Unicode>mir desto mehr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582816177396_1038" custom="readingOrder {index:24;}">
+                <Coords points="775,4470 3958,4366 3428,4169 2289,4314 775,4271"/>
+                <Baseline points="796,4363 873,4362 951,4362 1029,4361 1107,4360 1185,4359 1263,4358 1341,4357 1419,4356 1497,4355 1575,4354 1652,4353 1730,4353 1808,4352 1886,4351 1964,4351 2042,4351 2120,4351 2198,4352 2276,4352 2354,4353 2372,4337 2450,4341 2528,4344 2606,4346 2685,4348 2763,4349 2841,4350 2919,4350 2998,4350 3076,4349 3154,4349 3232,4349 3311,4348 3389,4348 3467,4348 3545,4348 3624,4349 3702,4350 3780,4352 3858,4355 3937,4359"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Pfennig's, die Tanten, Rich. u. Lisbeth nebst Kindern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:25;}">
+                <Coords points="628,4542 1100,4551 1215,4621 1740,4537 2540,4558 2539,4456 2398,4408 2067,4457 1100,4414 906,4471 782,4392 628,4458"/>
+                <Baseline points="650,4525 743,4521 836,4519 930,4516 1023,4514 1117,4512 1210,4511 1304,4510 1397,4510 1491,4509 1584,4509 1677,4510 1771,4510 1864,4511 1958,4512 2051,4513 2145,4514 2238,4515 2332,4516 2425,4518 2519,4519"/>
+                <TextEquiv>
+                    <Unicode>bei uns, auch zum Abendbrot.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>58&#xD;
+22. Dez. Einkäufe gemacht, obwohl das meiste noch von der&#xD;
+Reise mitgebracht.&#xD;
+23. Abends mit Bruno u. Bekannten im Kafe des Westens.&#xD;
+Sonntag d. 24. Dez: Vormittag gemalt (Lutamba-See)&#xD;
+Heiligabend! O schönes deutsches Fest in deutscher&#xD;
+Heimat und im Schoße der Familie. Die 2 Tage 1909 u. 1910&#xD;
+rechne ich als ewige Verluste. Nachm. bei Großmama, die&#xD;
+leider ständig recht apathisch, wenn auch sonst körperlich wohl&#xD;
+ist. Nachher Bescherung bei uns. Tante Lisbeth anwesend.&#xD;
+Schenkte Mama u. Erna Stoffe u. Decken u. s. w. als Reisean„&#xD;
+denken. Erhielt von Bruno prächtige Amateur-Photographieen-&#xD;
+Sammlung aus Italien. Fröhlich gespielt („Schnapp“)&#xD;
+25. Dez. Meine Reise-Photographieen in neue Albums ein„&#xD;
+geordnet.&#xD;
+Abend: Alle bei Richard u. Lisbeth in Friedenau.&#xD;
+26. Dez. Photographieen weiter geordnet.&#xD;
+Besuch bei Trendelenburg's gemacht. Eltern u. Schwestern&#xD;
+nebst Heim kennen gelernt. Sie öffnete die Tür,&#xD;
+sei's glückliche Vorbedeutung. Von der Treppe hatte ich&#xD;
+reichlich lautes Lachen der Mädchen gehört, finde alle&#xD;
+frisch und natürlich. Möchte gern hier ein und aus&#xD;
+gehen. Die Schwestern gefallen mir freilich weniger, sie&#xD;
+mir desto mehr.&#xD;
+Nachm. Pfennig's, die Tanten, Rich. u. Lisbeth nebst Kindern&#xD;
+bei uns, auch zum Abendbrot.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

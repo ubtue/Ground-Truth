@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:11.863+02:00</Created>
+        <LastChange>2020-03-02T11:59:08.867+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581423" pageNr="1" tsid="24612272" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=CNNGMCWMVUKMMENWSJCNLBSA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TIAVHETCLWYBDNONVOHSBRGE" imageId="4579334"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_01.jpg" imageWidth="4305" imageHeight="5234">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255740073" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582812417212_250"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582812417212_250" custom="readingOrder {index:0;}">
+            <Coords points="1695,1926 2133,1930 2693,1919 2668,2036 2142,2325 1765,2325"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="1711,2089 1813,2123 2049,2039 2624,2045 2621,1931 2409,1972 2321,1926 2188,1944 2109,1996 2008,1936 1952,1966 1839,1939 1708,1966"/>
+                <Baseline points="1715,2044 1747,2044 1791,2046 1829,2047 1870,2044 1902,2042 1948,2054 1982,2047 2063,2041 2133,2034 2158,2032 2183,2030 2209,2030 2234,2031 2259,2031 2285,2031 2325,2038 2387,2046 2418,2028 2454,2019 2513,2025 2571,2023 2618,2022"/>
+                <TextEquiv>
+                    <Unicode>22. Juli - 31. Dez. 1911</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l1" custom="readingOrder {index:1;}">
+                <Coords points="1760,2291 1903,2310 1937,2297 2006,2332 2105,2340 2165,2279 2220,2282 2216,2190 2087,2218 2057,2196 2008,2203 1946,2157 1931,2169 1884,2154 1837,2166 1757,2223"/>
+                <Baseline points="1765,2271 1790,2272 1815,2274 1840,2275 1865,2275 1890,2275 1915,2275 1940,2274 1966,2273 1991,2271 2016,2269 2041,2268 2066,2266 2091,2263 2116,2261 2142,2259 2176,2259 2213,2258"/>
+                <TextEquiv>
+                    <Unicode>Makangaga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22. Juli - 31. Dez. 1911&#xD;
+Makangaga</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

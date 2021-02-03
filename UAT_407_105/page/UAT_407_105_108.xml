@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M5(htr_id=20484)::::v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.3
+Transkribus</Creator>
+        <Created>2019-12-18T08:33:27.099+01:00</Created>
+        <LastChange>2020-01-16T12:45:36.309+01:00</LastChange>
+        <TranskribusMetadata docId="296974" pageId="11822286" pageNr="108" tsid="22424837" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=BXOQQSPOFDVYSNRMQDMXTBIX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HXQRONCYLZXAAXYLLAKMRBIV" imageId="8187593"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_105_108.jpg" imageWidth="3807" imageHeight="5349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613474328722" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1579074167465_694"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1579074167465_694" custom="readingOrder {index:0;}">
+            <Coords points="113,66 222,66 1765,173 1765,2389 309,2389 113,219"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="104,194 163,202 171,193 182,199 196,191 202,197 232,194 231,120 212,125 192,120 183,128 176,122 153,137 139,135 118,151 103,152"/>
+                <Baseline points="113,167 140,169 167,169 194,168 222,166"/>
+                <TextEquiv>
+                    <Unicode>101</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="377,221 475,271 651,206 1375,216 1476,267 1560,219 1650,264 1741,230 1741,165 1545,194 1417,136 1069,192 989,153 377,186"/>
+                <Baseline points="386,215 453,214 520,213 588,212 655,211 722,210 790,209 857,209 924,209 992,208 1059,208 1126,208 1194,208 1261,209 1328,210 1396,210 1463,212 1530,213 1598,215 1665,216 1733,219"/>
+                <TextEquiv>
+                    <Unicode>wie Prof. Haeckel können die Natur garnicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="373,304 664,294 757,338 873,307 932,349 1091,282 1247,346 1424,289 1513,349 1602,291 1711,308 1730,251 1475,266 1343,222 1285,262 696,234 652,271 373,272"/>
+                <Baseline points="381,296 448,297 515,296 582,295 649,294 716,293 783,292 850,290 917,288 984,287 1051,285 1118,284 1185,283 1252,282 1319,282 1386,282 1453,283 1520,285 1587,287 1654,290 1721,294"/>
+                <TextEquiv>
+                    <Unicode>mehr kindlich genießen, wenigstens nicht als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="382,444 458,386 731,428 1079,381 1156,428 1288,364 1700,389 1733,321 381,359"/>
+                <Baseline points="391,382 457,381 524,381 590,380 657,378 724,377 790,375 857,374 924,372 990,370 1057,368 1124,367 1190,365 1257,364 1324,363 1390,363 1457,363 1524,363 1590,364 1657,366 1724,368"/>
+                <TextEquiv>
+                    <Unicode>Harmonie: ihnen zerfällt sie unter den Fin„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="391,482 811,451 949,504 1120,456 1200,508 1273,454 1693,460 1693,407 391,434"/>
+                <Baseline points="400,450 464,450 528,450 592,450 657,450 721,450 785,450 849,450 914,450 978,450 1042,451 1106,451 1171,451 1235,451 1299,451 1363,451 1428,451 1492,451 1556,451 1620,450 1685,449"/>
+                <TextEquiv>
+                    <Unicode>gern in die vorgeschriebene Einteilung, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="385,527 917,564 995,526 1262,561 1326,524 1680,523 1517,453 874,509 808,472 634,511 384,479"/>
+                <Baseline points="393,526 456,527 520,527 584,528 648,528 712,527 776,527 839,526 903,526 967,525 1031,524 1095,523 1159,522 1223,521 1286,521 1350,520 1414,520 1478,520 1542,520 1606,521 1670,521"/>
+                <TextEquiv>
+                    <Unicode>Gattung, Ordnung, Familie u. s. w. Wie die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="361,633 1023,613 1217,664 1300,606 1470,657 1549,612 1701,632 1700,546 1508,580 1321,531 1097,589 876,534 750,587 577,531 482,571 360,538"/>
+                <Baseline points="370,618 436,616 502,614 568,613 634,612 700,610 766,609 832,609 898,608 964,607 1031,606 1097,606 1163,605 1229,605 1295,604 1361,604 1427,603 1493,603 1559,602 1625,601 1692,601"/>
+                <TextEquiv>
+                    <Unicode>Kenntnis der Natur den Genuß unterstützt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="360,751 560,691 854,740 976,692 1151,752 1234,690 1675,703 1703,630 1515,666 1299,607 1221,669 957,625 702,678 516,626 359,680"/>
+                <Baseline points="367,698 433,698 499,698 566,697 632,696 698,695 765,694 831,693 897,691 964,689 1030,688 1096,686 1163,685 1229,684 1295,683 1362,682 1428,682 1494,682 1561,683 1627,684 1694,685"/>
+                <TextEquiv>
+                    <Unicode>so auch umgekehrt. Ich sah neulich ein Bild</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:8;}">
+                <Coords points="366,806 710,825 1020,779 1150,816 1212,772 1416,798 1620,764 1370,682 1265,749 1188,715 1151,752 776,763 722,730 673,766 555,691 484,757 365,765"/>
+                <Baseline points="374,792 435,791 497,789 559,787 621,785 683,783 744,781 806,779 868,777 930,775 992,773 1053,770 1115,769 1177,767 1239,765 1301,764 1362,762 1424,762 1486,761 1548,761 1610,761"/>
+                <TextEquiv>
+                    <Unicode>Anakreons, wie er mit seiner Lyra an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:9;}">
+                <Coords points="368,879 656,866 775,918 855,864 1015,849 1405,841 1472,884 1659,854 1658,802 1331,772 1114,832 991,801 712,841 613,796 486,842 367,826"/>
+                <Baseline points="377,856 440,859 504,861 567,862 631,863 695,862 758,861 822,859 886,856 949,853 1013,851 1077,848 1140,844 1204,842 1268,839 1331,837 1395,835 1459,834 1522,834 1586,834 1650,836"/>
+                <TextEquiv>
+                    <Unicode>einen Baum gelehnt dem Waldesrauschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:10;}">
+                <Coords points="366,1002 564,937 791,977 1021,932 1221,983 1318,929 1744,950 1742,879 1610,862 1013,908 874,861 782,915 441,872 364,915"/>
+                <Baseline points="374,941 442,940 510,939 578,938 646,937 714,935 782,934 850,932 918,931 986,929 1054,927 1122,926 1190,924 1258,922 1326,921 1394,919 1462,917 1530,916 1598,915 1666,913 1734,912"/>
+                <TextEquiv>
+                    <Unicode>horcht. Das ist wahres Künstlerglück, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:11;}">
+                <Coords points="359,1058 748,1013 1017,1063 1291,1020 1525,1075 1716,995 1471,939 1248,994 1110,944 1036,986 685,966 358,1009"/>
+                <Baseline points="368,1026 438,1027 508,1027 579,1026 649,1025 720,1024 790,1023 861,1021 931,1020 1002,1018 1072,1016 1143,1014 1213,1013 1284,1012 1354,1011 1425,1011 1495,1011 1566,1011 1636,1012 1707,1014"/>
+                <TextEquiv>
+                    <Unicode>er die Saiten seines Instruments so zu stim„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:12;}">
+                <Coords points="368,1116 606,1158 668,1109 743,1141 853,1102 1076,1104 1154,1160 1218,1111 1316,1153 1506,1102 1588,1149 1679,1130 1660,1052 1518,1082 1379,1040 816,1071 755,1018 576,1089 367,1082"/>
+                <Baseline points="376,1110 440,1109 505,1107 570,1106 634,1105 699,1104 764,1103 828,1102 893,1101 958,1100 1023,1100 1087,1099 1152,1099 1217,1098 1281,1098 1346,1098 1411,1098 1475,1098 1540,1098 1605,1098 1670,1098"/>
+                <TextEquiv>
+                    <Unicode>men versteht, bis die Naturseele harmonisch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:13;}">
+                <Coords points="353,1206 618,1237 708,1189 1073,1182 1347,1229 1416,1182 1540,1234 1680,1191 1490,1121 1162,1161 1040,1113 941,1166 688,1106 608,1160 352,1158"/>
+                <Baseline points="362,1190 427,1191 492,1192 558,1191 623,1191 689,1190 754,1188 820,1187 885,1185 951,1183 1016,1182 1081,1180 1147,1179 1212,1178 1278,1177 1343,1177 1409,1178 1474,1179 1540,1181 1605,1184 1671,1188"/>
+                <TextEquiv>
+                    <Unicode>mitklingt. Und die Kenntnis der Gattungen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:14;}">
+                <Coords points="347,1298 635,1290 712,1337 782,1279 1162,1262 1432,1318 1518,1265 1718,1282 1734,1198 1575,1248 1108,1202 819,1257 346,1236"/>
+                <Baseline points="355,1279 423,1280 492,1281 560,1280 629,1280 697,1278 766,1277 834,1274 903,1272 971,1270 1040,1268 1109,1265 1177,1263 1246,1262 1314,1261 1383,1261 1451,1261 1520,1262 1588,1264 1657,1267 1726,1271"/>
+                <TextEquiv>
+                    <Unicode>Familien u. s. w. bedeutet dabei doch nur den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:15;}">
+                <Coords points="344,1372 642,1417 812,1370 898,1417 970,1373 1070,1406 1363,1348 1464,1405 1692,1363 1692,1323 343,1310"/>
+                <Baseline points="353,1353 419,1356 486,1359 552,1360 619,1361 685,1362 752,1362 818,1361 885,1360 951,1359 1018,1357 1084,1355 1151,1353 1217,1351 1284,1349 1350,1347 1417,1346 1483,1345 1550,1344 1616,1343 1683,1343"/>
+                <TextEquiv>
+                    <Unicode>unterstützenden theoretischen Unterricht, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:16;}">
+                <Coords points="330,1475 1769,1459 1740,1374 329,1423"/>
+                <Baseline points="338,1451 409,1452 480,1452 551,1451 622,1450 693,1449 764,1447 835,1445 906,1443 977,1441 1049,1439 1120,1437 1191,1435 1262,1433 1333,1431 1404,1429 1475,1428 1546,1427 1617,1427 1688,1427 1760,1428"/>
+                <TextEquiv>
+                    <Unicode>nie ein Selbstzweck sein darf. Es gehört daher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:17;}">
+                <Coords points="321,1565 465,1541 583,1583 641,1541 716,1584 861,1533 1229,1525 1365,1565 1510,1525 1655,1567 1724,1539 1723,1471 320,1504"/>
+                <Baseline points="329,1539 398,1538 467,1537 536,1535 606,1534 675,1533 744,1531 813,1530 883,1529 952,1527 1021,1526 1090,1525 1160,1523 1229,1522 1298,1521 1367,1520 1437,1518 1506,1517 1575,1516 1644,1515 1714,1514"/>
+                <TextEquiv>
+                    <Unicode>kein Künstler, sondern einfach ein, wenn ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:18;}">
+                <Coords points="302,1666 491,1610 716,1659 811,1610 1104,1671 1165,1618 1520,1662 1583,1602 1713,1608 1712,1544 300,1575"/>
+                <Baseline points="309,1632 378,1627 448,1622 518,1618 588,1615 657,1612 727,1610 797,1608 867,1607 936,1606 1006,1605 1076,1604 1146,1603 1215,1603 1285,1602 1355,1601 1425,1600 1494,1599 1564,1597 1634,1595 1704,1592"/>
+                <TextEquiv>
+                    <Unicode>so sagen darf, Seelenmusiker dazu, sich mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:19;}">
+                <Coords points="313,1724 627,1712 719,1753 855,1705 947,1756 1118,1702 1248,1749 1369,1690 1638,1719 1720,1701 1719,1661 1018,1676 891,1638 603,1675 492,1614 312,1692"/>
+                <Baseline points="322,1717 391,1714 460,1710 530,1707 599,1704 669,1702 738,1699 807,1697 877,1695 946,1694 1016,1692 1085,1691 1154,1689 1224,1688 1293,1687 1363,1686 1432,1685 1501,1684 1571,1683 1640,1681 1710,1680"/>
+                <TextEquiv>
+                    <Unicode>der Natur in Einklang zu bringen und so sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:20;}">
+                <Coords points="324,1822 632,1801 720,1849 881,1804 985,1843 1101,1794 1337,1828 1400,1784 1676,1775 1651,1731 1479,1754 1406,1715 1254,1763 874,1728 323,1754"/>
+                <Baseline points="332,1797 398,1796 465,1795 532,1794 598,1793 665,1792 732,1790 798,1789 865,1787 932,1785 999,1784 1065,1782 1132,1780 1199,1779 1265,1777 1332,1776 1399,1775 1465,1773 1532,1772 1599,1771 1666,1771"/>
+                <TextEquiv>
+                    <Unicode>Seelenglück selbst zu schmieden. Zu einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:21;}">
+                <Coords points="317,1901 681,1881 757,1935 989,1866 1257,1866 1321,1918 1490,1867 1616,1907 1725,1853 1724,1798 1089,1802 974,1852 900,1809 853,1855 539,1802 316,1864"/>
+                <Baseline points="326,1882 395,1882 465,1881 534,1880 604,1878 673,1877 743,1876 812,1874 882,1873 951,1872 1021,1870 1091,1869 1160,1867 1230,1866 1299,1864 1369,1863 1438,1861 1508,1860 1577,1859 1647,1858 1717,1856"/>
+                <TextEquiv>
+                    <Unicode>volltönenden, guten Musik (ich denke haupt„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:22;}">
+                <Coords points="322,2002 427,2025 625,1958 818,1997 938,1943 1478,1995 1544,1946 1659,1967 1691,1909 1379,1876 1323,1920 1256,1867 1117,1925 1036,1891 585,1934 502,1886 320,1925"/>
+                <Baseline points="329,1967 396,1962 464,1959 531,1956 599,1953 667,1951 734,1949 802,1948 870,1947 937,1945 1005,1944 1073,1944 1140,1943 1208,1942 1276,1941 1343,1940 1411,1939 1479,1937 1546,1936 1614,1933 1682,1931"/>
+                <TextEquiv>
+                    <Unicode>sächlich an Wagner od. Beethoven) gehören</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:23;}">
+                <Coords points="315,2066 471,2058 542,2113 678,2049 880,2031 992,2081 1090,2027 1268,2093 1674,2029 1672,1970 1470,2006 1159,1964 1007,2008 772,1973 314,2036"/>
+                <Baseline points="324,2062 391,2057 458,2051 525,2047 592,2044 659,2041 726,2038 793,2035 860,2034 927,2032 994,2031 1061,2029 1128,2028 1195,2027 1262,2026 1329,2025 1396,2024 1463,2023 1530,2022 1597,2020 1664,2018"/>
+                <TextEquiv>
+                    <Unicode>aber auch die Dissonanzen! Auch der wilde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:24;}">
+                <Coords points="325,2162 812,2125 970,2179 1080,2114 1537,2102 1739,2140 1737,2061 1590,2081 1496,2037 928,2093 806,2031 593,2107 323,2088"/>
+                <Baseline points="333,2137 402,2134 472,2132 542,2129 612,2126 682,2124 751,2121 821,2119 891,2117 961,2115 1031,2113 1100,2111 1170,2110 1240,2108 1310,2107 1380,2105 1449,2104 1519,2103 1589,2102 1659,2102 1729,2101"/>
+                <TextEquiv>
+                    <Unicode>Sturm im Naturreich neben der Stille eines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:25;}">
+                <Coords points="327,2238 456,2213 596,2268 710,2211 1091,2192 1247,2247 1368,2184 1609,2226 1622,2165 1358,2129 1152,2168 1103,2128 969,2179 712,2134 615,2172 325,2160"/>
+                <Baseline points="334,2208 398,2207 462,2207 526,2206 590,2205 654,2203 718,2202 782,2200 846,2198 910,2196 974,2194 1038,2192 1102,2191 1166,2189 1230,2188 1294,2187 1358,2186 1422,2186 1486,2186 1550,2186 1614,2187"/>
+                <TextEquiv>
+                    <Unicode>Waldidylls und dann ferner jede trübe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:26;}">
+                <Coords points="351,2305 638,2354 782,2285 1273,2260 1427,2317 1513,2265 1650,2324 1773,2286 1772,2234 1437,2204 1096,2244 1030,2199 906,2259 840,2218 750,2259 349,2248"/>
+                <Baseline points="359,2285 429,2287 499,2287 569,2287 640,2286 710,2284 780,2281 851,2279 921,2276 991,2273 1062,2271 1132,2268 1202,2265 1272,2263 1343,2262 1413,2261 1483,2261 1554,2261 1624,2263 1694,2266 1765,2270"/>
+                <TextEquiv>
+                    <Unicode>stürmische Zeit im Leben des Menschen müssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:27;}">
+                <Coords points="310,2432 716,2365 921,2422 1056,2367 1272,2413 1522,2356 1570,2398 1685,2314 1487,2280 1305,2293 1262,2337 1081,2285 641,2349 348,2293 308,2325"/>
+                <Baseline points="318,2369 389,2369 461,2369 532,2369 604,2368 675,2367 747,2366 818,2365 890,2364 961,2362 1033,2361 1104,2359 1176,2358 1247,2357 1319,2355 1390,2354 1462,2353 1533,2352 1605,2351 1677,2350"/>
+                <TextEquiv>
+                    <Unicode>ihr Teil zur Weltanschauung thun. Wie sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>101&#xD;
+wie Prof. Haeckel können die Natur garnicht&#xD;
+mehr kindlich genießen, wenigstens nicht als&#xD;
+Harmonie: ihnen zerfällt sie unter den Fin„&#xD;
+gern in die vorgeschriebene Einteilung, wie&#xD;
+Gattung, Ordnung, Familie u. s. w. Wie die&#xD;
+Kenntnis der Natur den Genuß unterstützt,&#xD;
+so auch umgekehrt. Ich sah neulich ein Bild&#xD;
+Anakreons, wie er mit seiner Lyra an&#xD;
+einen Baum gelehnt dem Waldesrauschen&#xD;
+horcht. Das ist wahres Künstlerglück, daß&#xD;
+er die Saiten seines Instruments so zu stim„&#xD;
+men versteht, bis die Naturseele harmonisch&#xD;
+mitklingt. Und die Kenntnis der Gattungen,&#xD;
+Familien u. s. w. bedeutet dabei doch nur den&#xD;
+unterstützenden theoretischen Unterricht, der&#xD;
+nie ein Selbstzweck sein darf. Es gehört daher&#xD;
+kein Künstler, sondern einfach ein, wenn ich&#xD;
+so sagen darf, Seelenmusiker dazu, sich mit&#xD;
+der Natur in Einklang zu bringen und so sein&#xD;
+Seelenglück selbst zu schmieden. Zu einer&#xD;
+volltönenden, guten Musik (ich denke haupt„&#xD;
+sächlich an Wagner od. Beethoven) gehören&#xD;
+aber auch die Dissonanzen! Auch der wilde&#xD;
+Sturm im Naturreich neben der Stille eines&#xD;
+Waldidylls und dann ferner jede trübe,&#xD;
+stürmische Zeit im Leben des Menschen müssen&#xD;
+ihr Teil zur Weltanschauung thun. Wie sich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

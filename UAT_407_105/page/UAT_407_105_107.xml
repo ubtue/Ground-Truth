@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M5(htr_id=20484)::::v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.3
+Transkribus</Creator>
+        <Created>2019-12-18T08:33:27.052+01:00</Created>
+        <LastChange>2020-01-16T12:40:31.737+01:00</LastChange>
+        <TranskribusMetadata docId="296974" pageId="11822284" pageNr="107" tsid="22424014" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=GFROKXICMSINRTYLQOXBERDH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YMEOJQTXUFYZKCPDRFPHXGVZ" imageId="8187591"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_105_107.jpg" imageWidth="3808" imageHeight="5349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613474328135" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="163,95 163,2449 1778,2449 1778,95"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1653,160 1665,161 1683,150 1695,157 1701,153 1715,156 1733,174 1745,171 1753,175 1764,168 1775,169 1780,110 1764,109 1753,102 1728,114 1699,100 1668,115 1657,112"/>
+                <Baseline points="1664,135 1690,139 1716,141 1742,143 1768,143"/>
+                <TextEquiv>
+                    <Unicode>100</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} textStyle {offset:34; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="188,242 324,195 469,239 590,188 877,240 1236,196 1513,234 1630,203 1630,149 188,157"/>
+                <Baseline points="197,190 268,189 339,189 410,189 481,189 552,189 623,189 695,190 766,191 837,191 908,192 979,192 1050,193 1121,193 1193,193 1264,193 1335,193 1406,193 1477,192 1548,191 1620,189"/>
+                <TextEquiv>
+                    <Unicode>harmonisch als einheitliches Ganzes erkennt. Dazu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="184,315 356,263 534,304 1319,279 1400,321 1684,284 1577,219 832,243 735,190 184,241"/>
+                <Baseline points="193,258 267,258 341,259 415,260 489,261 563,262 637,263 711,263 785,264 859,265 933,266 1007,266 1081,267 1155,268 1229,268 1303,268 1377,269 1451,269 1525,269 1599,269 1674,269"/>
+                <TextEquiv>
+                    <Unicode>gehörte in erster Linie auch die Verwandtschaft von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} textStyle {offset:0; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="169,372 1624,354 1623,299 1548,281 169,307"/>
+                <Baseline points="180,337 251,337 323,336 395,335 466,335 538,335 610,334 681,334 753,334 825,334 897,334 968,334 1040,334 1112,334 1183,334 1255,334 1327,333 1398,333 1470,333 1542,332 1614,331"/>
+                <TextEquiv>
+                    <Unicode>zwischen Wissenschaft und Kunst, die Sie so glücklich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="172,452 265,411 594,455 911,410 988,473 1125,414 1521,459 1620,421 1620,372 913,390 772,344 683,386 172,389"/>
+                <Baseline points="182,407 253,409 324,411 396,412 467,413 538,413 610,414 681,413 752,413 824,413 895,412 966,412 1038,411 1109,411 1180,411 1252,411 1323,412 1394,412 1466,414 1537,415 1609,417"/>
+                <TextEquiv>
+                    <Unicode>zu einem abgerundeten, inhaltsreichen Leben zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="166,497 406,541 592,485 989,547 1096,493 1345,499 1438,551 1522,492 1613,515 1613,436 1399,420 1010,470 790,428 713,470 664,430 483,472 166,448"/>
+                <Baseline points="177,490 248,490 319,490 390,490 462,490 533,490 604,490 675,490 747,490 818,490 889,490 960,490 1032,490 1103,490 1174,490 1245,490 1317,490 1388,490 1459,490 1530,490 1602,491"/>
+                <TextEquiv>
+                    <Unicode>vereinigen wissen. Schon oft hatte ich das Gefühl,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="173,626 843,572 1340,630 1572,575 1572,514 1521,492 1416,551 1210,491 1073,553 863,546 788,489 671,544 594,484 449,546 173,539"/>
+                <Baseline points="184,569 256,569 329,569 401,569 474,570 546,570 619,570 692,570 764,570 837,571 909,571 982,571 1054,571 1127,571 1200,571 1272,571 1345,571 1417,571 1490,571 1563,571"/>
+                <TextEquiv>
+                    <Unicode>daß der Materialismus eines Prof. Haeckel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="178,664 645,650 821,708 934,667 1100,710 1160,667 1580,690 1581,628 178,600"/>
+                <Baseline points="188,641 257,642 326,643 395,644 464,645 533,646 602,647 671,648 740,649 809,650 879,651 948,652 1017,653 1086,653 1155,654 1224,654 1293,654 1362,654 1431,654 1500,653 1570,653"/>
+                <TextEquiv>
+                    <Unicode>und anderer eine unzeitige Geburt der Dar„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="159,755 271,785 413,739 470,785 603,737 660,783 787,725 902,782 1047,744 1258,791 1488,744 1551,796 1647,752 1647,702 1340,681 1152,721 724,671 670,710 497,671 159,699"/>
+                <Baseline points="169,730 242,729 315,728 389,728 462,728 536,729 609,729 683,730 756,731 830,733 903,734 976,735 1050,737 1123,738 1197,738 1270,739 1344,740 1417,740 1491,739 1564,739 1638,737"/>
+                <TextEquiv>
+                    <Unicode>win'schen Theorie sei, an sich berechtigt, aber nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="169,854 258,807 486,866 603,817 825,857 1328,808 1526,856 1616,832 1616,759 1550,797 1429,761 1146,796 1077,750 877,794 574,738 465,785 413,740 169,781"/>
+                <Baseline points="180,811 251,810 322,810 393,810 465,810 536,810 607,810 679,810 750,811 821,811 893,812 964,812 1035,813 1106,813 1178,813 1249,813 1320,813 1392,812 1463,811 1534,810 1606,808"/>
+                <TextEquiv>
+                    <Unicode>zu voller Entwicklung des Monismus gelangt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="191,939 289,890 584,882 788,943 899,890 978,936 1347,876 1614,941 1719,906 1720,839 192,855"/>
+                <Baseline points="202,879 277,879 352,880 428,880 503,880 578,880 654,881 729,881 804,881 880,881 955,882 1030,882 1106,883 1181,883 1256,884 1332,885 1407,886 1482,887 1558,889 1633,890 1709,892"/>
+                <TextEquiv>
+                    <Unicode>Es wundert mich nicht, daß d. Wort: „Materialist“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="172,992 687,964 1014,1023 1220,971 1380,1022 1608,965 1608,919 1475,947 1277,898 1172,940 1115,902 792,948 512,889 172,947"/>
+                <Baseline points="182,969 252,967 323,966 394,965 465,964 536,963 606,963 677,963 748,963 819,963 890,963 960,963 1031,963 1102,964 1173,964 1244,964 1314,964 1385,964 1456,964 1527,964 1598,964"/>
+                <TextEquiv>
+                    <Unicode>in Vieler Munde einen gewissen Beigeschmack</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="184,1099 539,1038 868,1092 1001,1044 1559,1098 1787,1052 1532,984 1399,1027 841,979 185,1010"/>
+                <Baseline points="194,1043 273,1041 352,1040 431,1040 510,1039 590,1039 669,1038 748,1038 827,1039 906,1039 986,1039 1065,1040 1144,1041 1223,1042 1302,1043 1382,1045 1461,1046 1540,1048 1619,1050 1698,1052 1778,1054"/>
+                <TextEquiv>
+                    <Unicode>gewonnen hat, nämlich den des Trockenen, Nüchternen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="168,1174 265,1131 306,1173 588,1140 647,1184 707,1148 1035,1187 1133,1128 1299,1189 1404,1132 1537,1139 1383,1062 1299,1107 881,1100 832,1062 604,1104 466,1061 168,1087"/>
+                <Baseline points="178,1118 245,1118 313,1119 380,1120 448,1120 515,1120 583,1121 650,1121 718,1121 785,1121 853,1122 920,1122 988,1122 1055,1123 1123,1123 1190,1124 1258,1125 1325,1126 1393,1127 1460,1129 1528,1131"/>
+                <TextEquiv>
+                    <Unicode>Philisterhaften. Gewiß, auch ich neige seinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="166,1258 313,1216 380,1262 455,1212 733,1210 778,1251 1432,1228 1555,1210 1555,1173 646,1190 562,1156 513,1190 333,1153 166,1187"/>
+                <Baseline points="177,1211 245,1211 313,1210 382,1210 450,1209 519,1209 587,1209 655,1208 724,1208 792,1208 861,1208 929,1208 997,1208 1066,1208 1134,1208 1203,1208 1271,1208 1339,1208 1408,1209 1476,1209 1545,1209"/>
+                <TextEquiv>
+                    <Unicode>Grundgedanken von ganzer Seele zu, aber er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="182,1319 939,1289 1084,1338 1248,1290 1484,1337 1595,1303 1595,1232 1391,1264 1180,1205 808,1264 632,1213 475,1265 285,1220 182,1262"/>
+                <Baseline points="193,1291 262,1289 332,1286 401,1285 471,1283 541,1282 610,1282 680,1281 749,1281 819,1281 889,1281 958,1281 1028,1281 1097,1282 1167,1282 1237,1282 1306,1282 1376,1283 1445,1283 1515,1283 1585,1282"/>
+                <TextEquiv>
+                    <Unicode>darf nur ein Stück der Weltanschauung, nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="167,1411 1548,1359 1533,1309 1046,1339 996,1296 850,1347 610,1304 167,1339"/>
+                <Baseline points="177,1371 245,1370 313,1369 381,1368 449,1367 517,1367 585,1366 653,1365 721,1365 789,1364 857,1363 925,1362 993,1362 1061,1361 1129,1360 1197,1359 1265,1358 1333,1357 1401,1356 1469,1355 1537,1353"/>
+                <TextEquiv>
+                    <Unicode>diese allein ausmachen, falls nicht Monismus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="161,1467 318,1501 480,1452 536,1495 597,1450 689,1505 775,1453 1037,1497 1207,1452 1336,1491 1540,1449 1539,1366 702,1424 345,1384 161,1431"/>
+                <Baseline points="170,1450 238,1449 306,1447 374,1446 442,1445 510,1444 578,1444 646,1443 714,1442 782,1442 850,1441 918,1440 986,1440 1054,1439 1122,1439 1190,1438 1258,1438 1326,1437 1394,1436 1462,1436 1530,1435"/>
+                <TextEquiv>
+                    <Unicode>mit Einseitigkeit statt mit Einheitlichkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="173,1546 298,1595 763,1516 1352,1578 1471,1523 1628,1570 1627,1497 1464,1462 1116,1500 828,1456 720,1505 173,1467"/>
+                <Baseline points="182,1535 253,1532 325,1529 397,1527 469,1525 541,1524 612,1523 684,1522 756,1521 828,1521 900,1521 971,1521 1043,1521 1115,1521 1187,1521 1259,1522 1330,1522 1402,1521 1474,1521 1546,1520 1618,1519"/>
+                <TextEquiv>
+                    <Unicode>übersetzt werden soll. Um der Weltanschauung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="176,1639 293,1626 383,1679 483,1625 614,1661 955,1613 1100,1665 1272,1616 1616,1629 1582,1566 1368,1589 1269,1545 717,1593 176,1572"/>
+                <Baseline points="186,1623 257,1621 328,1620 399,1618 470,1616 541,1615 612,1614 683,1613 754,1612 825,1611 896,1610 967,1610 1038,1609 1109,1609 1180,1609 1251,1609 1322,1609 1393,1610 1464,1610 1535,1611 1607,1611"/>
+                <TextEquiv>
+                    <Unicode>den rechten Saft, den Lebensgehalt, eine rechte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="162,1724 717,1756 889,1692 1024,1752 1529,1703 1562,1633 161,1667"/>
+                <Baseline points="172,1701 241,1701 310,1701 379,1700 448,1700 517,1699 586,1699 655,1698 724,1697 793,1696 862,1696 931,1695 1000,1694 1069,1693 1138,1692 1207,1691 1276,1690 1345,1689 1414,1689 1483,1688 1553,1687"/>
+                <TextEquiv>
+                    <Unicode>Dauer zu gewährleisten, um ihr erst die volle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="175,1857 360,1855 427,1803 524,1842 599,1794 766,1853 914,1807 984,1849 1084,1789 1180,1840 1241,1794 1598,1808 1639,1762 175,1766"/>
+                <Baseline points="184,1793 256,1794 328,1795 400,1795 473,1795 545,1795 617,1795 689,1795 762,1794 834,1794 906,1793 978,1792 1051,1791 1123,1790 1195,1789 1267,1788 1340,1787 1412,1785 1484,1784 1556,1783 1629,1782"/>
+                <TextEquiv>
+                    <Unicode>Gesundheit zu verleihen, muß, auch nach meiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="171,1908 330,1946 407,1885 665,1936 744,1895 911,1941 1323,1936 1427,1877 1556,1880 1556,1834 783,1869 446,1825 171,1866"/>
+                <Baseline points="181,1891 249,1890 317,1889 385,1888 454,1887 522,1886 590,1886 659,1885 727,1885 795,1885 864,1884 932,1884 1000,1883 1068,1883 1137,1882 1205,1881 1273,1879 1342,1877 1410,1875 1478,1873 1547,1870"/>
+                <TextEquiv>
+                    <Unicode>Ansicht unbedingt ein poetisches Empfinden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="184,2028 427,1974 691,2018 1035,1967 1335,2019 1683,1947 1682,1901 1522,1893 1140,1946 183,1921"/>
+                <Baseline points="193,1969 270,1970 348,1970 426,1970 504,1970 582,1970 660,1970 737,1969 815,1969 893,1968 971,1967 1049,1966 1127,1965 1204,1963 1282,1961 1360,1959 1438,1957 1516,1954 1594,1951 1672,1948"/>
+                <TextEquiv>
+                    <Unicode>hinzutreten. Goethe ist ja der glänzendste Beweis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="169,2107 291,2060 592,2063 670,2114 1161,2053 1496,2105 1674,2058 1674,2001 745,2034 595,1966 414,2039 229,1993 168,2041"/>
+                <Baseline points="178,2057 252,2057 326,2057 401,2057 475,2057 549,2057 624,2056 698,2056 772,2055 847,2055 921,2054 995,2054 1070,2053 1144,2052 1218,2051 1293,2050 1367,2049 1441,2048 1516,2047 1590,2046 1665,2044"/>
+                <TextEquiv>
+                    <Unicode>für ein vollständig ausgestaltetes, harmonisches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="171,2161 347,2190 434,2150 510,2199 617,2151 1209,2143 1294,2196 1407,2142 1675,2163 1674,2101 1542,2086 846,2127 773,2077 622,2116 517,2053 395,2110 287,2069 171,2103"/>
+                <Baseline points="181,2138 255,2140 329,2142 403,2143 477,2144 551,2145 625,2145 700,2145 774,2144 848,2144 922,2143 996,2142 1070,2141 1144,2140 1219,2140 1293,2139 1367,2138 1441,2138 1515,2138 1589,2138 1664,2138"/>
+                <TextEquiv>
+                    <Unicode>Leben, und sein Leben war wirklich, wie der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="153,2244 321,2274 694,2215 804,2279 1037,2229 1185,2274 1256,2233 1591,2264 1591,2209 1475,2163 1308,2211 1104,2166 153,2168"/>
+                <Baseline points="163,2229 237,2227 312,2224 387,2223 461,2221 536,2221 611,2220 685,2220 760,2221 835,2221 909,2222 984,2223 1059,2224 1133,2226 1208,2227 1283,2228 1357,2230 1432,2231 1507,2232 1582,2233"/>
+                <TextEquiv>
+                    <Unicode>Titel seiner Selbstbiographie besagt: „Dichtung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;} textStyle {offset:0; length:3;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:3;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="155,2353 330,2325 422,2369 516,2310 771,2367 932,2313 1048,2375 1403,2376 1473,2327 1526,2369 1639,2326 1640,2261 1499,2301 1366,2253 156,2256"/>
+                <Baseline points="165,2309 238,2310 311,2311 384,2312 457,2313 531,2313 604,2313 677,2314 750,2314 823,2314 897,2315 970,2315 1043,2315 1116,2316 1189,2316 1263,2317 1336,2318 1409,2319 1482,2320 1555,2321 1629,2323"/>
+                <TextEquiv>
+                    <Unicode>und Wahrheit“, Kunst und Wissenschaft, Genuß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;} textStyle {offset:0; length:3;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="155,2449 964,2420 1165,2483 1346,2438 1450,2471 1667,2447 1668,2372 516,2394 363,2344 156,2382"/>
+                <Baseline points="165,2408 239,2409 314,2410 388,2411 463,2412 538,2413 612,2414 687,2415 762,2417 836,2418 911,2419 986,2421 1060,2422 1135,2423 1210,2424 1284,2425 1359,2426 1434,2427 1508,2428 1583,2429 1658,2429"/>
+                <TextEquiv>
+                    <Unicode>und Studium der Natur. Aber ich glaube, Leute</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>100&#xD;
+harmonisch als einheitliches Ganzes erkennt. Dazu&#xD;
+gehörte in erster Linie auch die Verwandtschaft von&#xD;
+zwischen Wissenschaft und Kunst, die Sie so glücklich&#xD;
+zu einem abgerundeten, inhaltsreichen Leben zu&#xD;
+vereinigen wissen. Schon oft hatte ich das Gefühl,&#xD;
+daß der Materialismus eines Prof. Haeckel&#xD;
+und anderer eine unzeitige Geburt der Dar„&#xD;
+win'schen Theorie sei, an sich berechtigt, aber nicht&#xD;
+zu voller Entwicklung des Monismus gelangt.&#xD;
+Es wundert mich nicht, daß d. Wort: „Materialist“&#xD;
+in Vieler Munde einen gewissen Beigeschmack&#xD;
+gewonnen hat, nämlich den des Trockenen, Nüchternen,&#xD;
+Philisterhaften. Gewiß, auch ich neige seinen&#xD;
+Grundgedanken von ganzer Seele zu, aber er&#xD;
+darf nur ein Stück der Weltanschauung, nicht&#xD;
+diese allein ausmachen, falls nicht Monismus&#xD;
+mit Einseitigkeit statt mit Einheitlichkeit&#xD;
+übersetzt werden soll. Um der Weltanschauung&#xD;
+den rechten Saft, den Lebensgehalt, eine rechte&#xD;
+Dauer zu gewährleisten, um ihr erst die volle&#xD;
+Gesundheit zu verleihen, muß, auch nach meiner&#xD;
+Ansicht unbedingt ein poetisches Empfinden&#xD;
+hinzutreten. Goethe ist ja der glänzendste Beweis&#xD;
+für ein vollständig ausgestaltetes, harmonisches&#xD;
+Leben, und sein Leben war wirklich, wie der&#xD;
+Titel seiner Selbstbiographie besagt: „Dichtung&#xD;
+und Wahrheit“, Kunst und Wissenschaft, Genuß&#xD;
+und Studium der Natur. Aber ich glaube, Leute</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

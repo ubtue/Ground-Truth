@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:48:01.379+02:00</Created>
+        <LastChange>2020-03-31T09:31:27.460+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550870" pageNr="168" tsid="26740746" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=WXRNNPGQPJGBIZMAJSIBUAHJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JPNVWFNNVHVJETWTAGWQXRZF" imageId="4551748"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_168.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255580501" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1583142488649_555"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1583142488649_555" custom="readingOrder {index:0;}">
+            <Coords points="299,242 446,242 3667,284 3667,976 585,976 299,407"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="284,430 310,425 341,442 359,430 402,454 513,440 502,224 432,254 379,234 299,291 277,292"/>
+                <Baseline points="299,357 328,356 357,351 387,346 416,342 446,342 491,356"/>
+                <TextEquiv>
+                    <Unicode>164</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="582,515 696,448 1020,570 1446,432 2368,403 2747,498 3055,396 3607,516 3600,270 3312,229 1818,377 1557,250 1265,358 576,295"/>
+                <Baseline points="599,451 748,450 897,447 1046,444 1196,440 1345,436 1494,431 1644,426 1793,421 1942,416 2092,410 2241,405 2390,401 2539,396 2689,392 2838,389 2987,386 3137,385 3286,384 3435,385 3585,387"/>
+                <TextEquiv>
+                    <Unicode>holz mehr brennen wollte. Mit jähem Wechsel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="570,775 1289,606 1882,584 2299,748 2767,563 3582,581 3521,445 2063,413 1679,551 1288,468 563,566"/>
+                <Baseline points="585,661 733,649 882,638 1031,627 1180,618 1329,609 1478,601 1627,594 1776,587 1925,581 2074,576 2222,570 2371,566 2520,563 2669,559 2818,556 2967,553 3116,551 3265,549 3414,548 3563,546"/>
+                <TextEquiv>
+                    <Unicode>setzt vollkommenes Trockenheits-Wetter ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="867,979 1149,1048 1675,895 2277,1016 2777,905 3299,985 3430,868 3687,863 3680,654 3119,632 2781,808 861,811"/>
+                <Baseline points="882,926 899,926 1037,920 1175,915 1314,909 1452,902 1591,896 1729,889 1867,883 2006,877 2144,871 2283,865 2421,860 2559,855 2698,851 2836,847 2975,844 3113,841 3251,840 3390,839 3528,839 3667,841"/>
+                <TextEquiv>
+                    <Unicode>29. April 1910: Abmarsch zum Tendaguru</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>164&#xD;
+holz mehr brennen wollte. Mit jähem Wechsel&#xD;
+setzt vollkommenes Trockenheits-Wetter ein&#xD;
+29. April 1910: Abmarsch zum Tendaguru</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

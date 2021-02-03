@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:39.876+02:00</Created>
+        <LastChange>2020-04-02T16:56:22.207+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551014" pageNr="125" tsid="26899141" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=OYZSYWMDWCTKMBBTTQZNNUNN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MYQSCIVWRMMFLTJWHQZIBOQB" imageId="4551892"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_125.jpg" imageWidth="4292" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256505319" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="437,252 437,4844 4012,4844 4012,252"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="3729,362 3783,356 3847,406 3959,388 3952,228 3929,228 3886,253 3854,236 3831,237 3762,289 3726,295"/>
+                <Baseline points="3751,335 3777,331 3803,329 3829,328 3855,327 3881,327 3907,326 3933,325"/>
+                <TextEquiv>
+                    <Unicode>123</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="449,395 1121,487 2085,350 2842,441 3202,363 3201,247 448,301"/>
+                <Baseline points="472,390 607,387 742,383 878,380 1013,376 1149,371 1284,368 1419,365 1555,361 1690,358 1826,355 1961,353 2096,351 2232,349 2367,348 2503,347 2638,347 2773,347 2909,348 3044,350 3180,352"/>
+                <TextEquiv>
+                    <Unicode>Mit allen Trägern per Bahn nach Mikesse zurück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="562,573 2034,615 2430,480 3021,583 3422,475 4023,573 4020,395 3711,359 560,412"/>
+                <Baseline points="585,531 755,526 926,521 1096,517 1267,513 1438,509 1608,505 1779,502 1949,499 2120,496 2291,493 2461,491 2632,489 2802,487 2973,485 3144,484 3314,483 3485,483 3655,483 3826,483 3997,484"/>
+                <TextEquiv>
+                    <Unicode>Auch diesmal keine Post erhalten, aber wenigstens d. Auskunft,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="457,763 970,672 1114,764 1408,657 1690,757 1877,678 3317,718 3468,636 3466,506 455,602"/>
+                <Baseline points="478,666 626,662 774,659 923,656 1071,654 1220,651 1368,649 1517,647 1665,645 1814,643 1962,642 2110,640 2259,638 2407,637 2556,635 2704,634 2853,632 3001,631 3150,629 3298,627 3447,625"/>
+                <TextEquiv>
+                    <Unicode>daß sie nach Lindi gegangen ist u. zurückbeordert ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="587,936 731,948 795,990 1020,904 1366,947 1356,710 1249,733 1181,709 1098,766 1038,724 956,781 883,753 719,783 579,762"/>
+                <Baseline points="605,873 641,876 678,878 715,879 752,880 788,880 825,879 862,878 899,876 935,874 972,872 1009,869 1046,866 1082,864 1119,861 1156,859 1193,857 1229,854 1266,853 1303,852 1340,852"/>
+                <TextEquiv>
+                    <Unicode>12 Apr. Briefe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569574741141_736" custom="readingOrder {index:5;}">
+                <Coords points="585,1051 1095,1118 1922,989 2257,1110 3218,1025 3473,1128 3853,1057 3853,896 3030,829 585,975"/>
+                <Baseline points="606,1034 631,1033 656,1031 681,1031 706,1030 731,1029 756,1029 781,1029 806,1028 932,1027 971,1025 1010,1023 1050,1021 1089,1020 1128,1018 1168,1016 1207,1014 1246,1013 1286,1012 1325,1011 1364,1010 1404,1009 1443,1008 1482,1008 1522,1008 1561,1008 1600,1008 1640,1008 1679,1009 1719,1009 1931,997 2025,1005 2120,1011 2215,1015 2310,1019 2405,1021 2500,1022 2595,1022 2690,1022 2785,1021 2880,1020 2974,1019 3069,1018 3164,1017 3259,1017 3354,1017 3449,1017 3544,1019 3639,1021 3734,1025 3829,1030"/>
+                <TextEquiv>
+                    <Unicode>13 „ Aquarelliert. Zum Bahnhof, um Sattler zu holen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="498,1219 3936,1187 3936,1093 3632,1039 499,1045"/>
+                <Baseline points="511,1177 677,1170 921,1159 1087,1155 1254,1151 1420,1148 1586,1147 1752,1146 1919,1145 2085,1146 2251,1147 2417,1148 2584,1150 2750,1152 2916,1154 3082,1157 3249,1159 3415,1161 3581,1163 3747,1165 3914,1167"/>
+                <TextEquiv>
+                    <Unicode>Er kommt aber erst Mittag. Janenschs Aufsammlungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="553,1400 2515,1291 3240,1398 3780,1306 3780,1189 553,1235"/>
+                <Baseline points="577,1307 736,1305 895,1303 1054,1301 1213,1298 1372,1295 1531,1293 1690,1290 1849,1287 2008,1285 2167,1283 2326,1282 2485,1281 2644,1280 2803,1281 2962,1281 3121,1283 3280,1286 3439,1289 3598,1293 3758,1299"/>
+                <TextEquiv>
+                    <Unicode>besichtigt, meist nur Gesteinsproben, auf die ich nicht so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="548,1511 2193,1436 3968,1534 3966,1337 3783,1312 547,1399"/>
+                <Baseline points="571,1476 739,1469 908,1462 1076,1457 1245,1451 1414,1448 1582,1444 1751,1442 1920,1440 2088,1438 2257,1437 2426,1437 2594,1436 2763,1437 2932,1437 3100,1438 3269,1439 3438,1440 3606,1441 3775,1442 3944,1442"/>
+                <TextEquiv>
+                    <Unicode>viel Gewicht legen kann wie er; nach meiner Erfahrung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="565,1700 1819,1579 3237,1613 3235,1493 2659,1523 2542,1444 2158,1530 1697,1456 1452,1540 562,1503"/>
+                <Baseline points="585,1627 716,1618 847,1609 979,1603 1110,1596 1242,1591 1373,1587 1504,1584 1636,1581 1767,1579 1899,1578 2030,1577 2161,1577 2293,1577 2424,1577 2556,1577 2687,1578 2818,1579 2950,1579 3081,1580 3213,1580"/>
+                <TextEquiv>
+                    <Unicode>füllen sie die Museum als totes Material.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="601,1832 1545,1896 1973,1749 3793,1837 3796,1685 2848,1612 1968,1704 1748,1581 980,1717 599,1649"/>
+                <Baseline points="621,1810 778,1800 936,1791 1094,1783 1251,1776 1409,1769 1567,1764 1724,1760 1882,1757 2040,1754 2198,1752 2355,1751 2513,1751 2671,1752 2828,1754 2986,1757 3144,1760 3301,1765 3459,1769 3617,1776 3775,1782"/>
+                <TextEquiv>
+                    <Unicode>14. Sattler fährt schon wieder ab. Safari vorbereitet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="574,2051 3783,1962 3780,1864 3305,1822 2129,1807 1394,1928 569,1850"/>
+                <Baseline points="597,1993 755,1988 913,1984 1071,1978 1229,1973 1387,1966 1545,1960 1703,1954 1861,1948 2019,1942 2177,1936 2335,1932 2493,1928 2651,1924 2809,1921 2967,1920 3125,1919 3283,1920 3441,1922 3599,1924 3758,1930"/>
+                <TextEquiv>
+                    <Unicode>15. April. Vor einem vollen Monat hier angekommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="542,2191 1171,2140 1495,2246 1650,2141 1877,2128 2013,2229 2830,2121 3046,2216 2979,1962 2645,2066 2108,2003 1760,2076 1518,1995 1117,2096 540,2061"/>
+                <Baseline points="563,2159 685,2154 808,2150 931,2146 1054,2142 1177,2138 1300,2134 1423,2131 1546,2128 1669,2125 1792,2124 1914,2121 2037,2120 2160,2118 2283,2117 2406,2117 2529,2116 2652,2117 2775,2117 2898,2118 3021,2120"/>
+                <TextEquiv>
+                    <Unicode>Um 10½ mit Bahn nach Ngerengere (22 Mann)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;} unclear {offset:41; length:5;}">
+                <Coords points="625,2423 1492,2300 3982,2327 3981,2211 3408,2143 624,2190"/>
+                <Baseline points="646,2316 811,2311 977,2307 1142,2303 1308,2300 1474,2297 1639,2293 1805,2291 1970,2288 2136,2286 2302,2285 2467,2283 2633,2283 2798,2282 2964,2282 3130,2283 3295,2284 3461,2286 3626,2289 3792,2291 3958,2295"/>
+                <TextEquiv>
+                    <Unicode>Gegen Abend ein Stück der Barrabarra von Swate nach„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="527,2589 1800,2438 4000,2539 3998,2356 3806,2322 526,2437"/>
+                <Baseline points="547,2484 718,2478 889,2472 1061,2466 1232,2462 1404,2457 1575,2454 1746,2450 1918,2448 2089,2445 2261,2444 2432,2443 2603,2443 2775,2443 2946,2444 3118,2445 3289,2447 3460,2451 3632,2454 3803,2458 3975,2463"/>
+                <TextEquiv>
+                    <Unicode>gegangen, fand auch hier das v. Sattler östlicher entdeckte fossil„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="498,2645 724,2738 979,2737 1190,2611 1572,2701 1776,2589 2038,2704 2312,2586 3114,2639 3056,2470 2351,2522 2246,2444 497,2586"/>
+                <Baseline points="522,2638 650,2629 778,2621 907,2615 1035,2608 1164,2604 1292,2599 1421,2596 1549,2593 1678,2591 1806,2588 1934,2587 2063,2585 2191,2583 2320,2582 2448,2580 2577,2578 2705,2576 2834,2574 2962,2571 3091,2567"/>
+                <TextEquiv>
+                    <Unicode>reiche Gestein, muß daher hier weiter ziehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;} textStyle {offset:0; length:23;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="417,2912 1700,2908 2017,2750 3812,2793 4034,2750 4031,2638 2723,2585 2418,2693 2236,2596 2034,2701 1829,2595 411,2729"/>
+                <Baseline points="437,2808 615,2807 794,2804 973,2800 1152,2794 1330,2787 1509,2780 1688,2773 1867,2765 2045,2757 2224,2749 2403,2741 2582,2734 2760,2728 2939,2723 3118,2719 3297,2717 3475,2716 3654,2717 3833,2720 4012,2726"/>
+                <TextEquiv>
+                    <Unicode>Ostersonntag d. 16. Apr: Morgens Bagamoyo-Straße bis zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="501,3104 657,2972 1054,3074 1474,2946 3921,2926 3914,2757 3373,2746 492,2880"/>
+                <Baseline points="517,2972 686,2974 855,2973 1024,2970 1193,2966 1362,2961 1531,2953 1700,2946 1869,2938 2038,2929 2207,2920 2376,2912 2545,2903 2714,2896 2883,2889 3052,2883 3221,2878 3390,2875 3559,2874 3728,2875 3897,2878"/>
+                <TextEquiv>
+                    <Unicode>Jäger Fungafunga, der auf beträchtlicher Anhöhe ½ Std. v. d. Bahn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="494,3227 3969,3079 3965,2940 3495,2910 489,3031"/>
+                <Baseline points="513,3128 684,3124 856,3119 1027,3114 1199,3109 1371,3102 1542,3096 1714,3089 1885,3083 2057,3076 2229,3071 2400,3064 2572,3058 2743,3053 2915,3049 3087,3045 3258,3042 3430,3039 3601,3038 3773,3038 3945,3040"/>
+                <TextEquiv>
+                    <Unicode>sehr hübsch wohnt. D. fossilreiche Gestein hier nicht gesehen, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="520,3389 1357,3255 1909,3352 2576,3213 2991,3319 3760,3151 2925,3057 2696,3166 2068,3084 515,3228"/>
+                <Baseline points="539,3285 699,3281 859,3275 1019,3269 1179,3263 1339,3256 1499,3250 1659,3243 1819,3238 1979,3231 2139,3226 2299,3220 2459,3216 2619,3212 2779,3209 2939,3207 3099,3206 3259,3206 3419,3208 3579,3211 3740,3215"/>
+                <TextEquiv>
+                    <Unicode>offenbar tiefer als die festen braunen Sandsteine, die in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="534,3533 670,3444 982,3541 1296,3432 2362,3490 3812,3370 3808,3254 3610,3229 2545,3215 530,3395"/>
+                <Baseline points="554,3450 715,3441 877,3433 1039,3424 1200,3416 1362,3408 1524,3401 1685,3395 1847,3389 2009,3383 2171,3377 2332,3373 2494,3368 2656,3363 2817,3359 2979,3355 3141,3352 3302,3348 3464,3345 3626,3343 3788,3340"/>
+                <TextEquiv>
+                    <Unicode>großen Platten den Fuß der Höhe (Plateau) bilden. Obere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="498,3726 1644,3556 2689,3528 3001,3650 3248,3514 3791,3618 3995,3555 3993,3443 1506,3430 991,3545 671,3445 495,3561"/>
+                <Baseline points="520,3599 692,3595 865,3590 1038,3585 1210,3578 1383,3572 1556,3565 1728,3559 1901,3551 2074,3545 2247,3539 2419,3534 2592,3529 2765,3525 2937,3523 3110,3521 3283,3522 3455,3523 3628,3527 3801,3533 3974,3541"/>
+                <TextEquiv>
+                    <Unicode>Hälfte besteht scheinbar nur aus Sand. Schöner Blick auf's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="511,3895 1035,3762 1891,3844 2125,3731 3281,3815 3789,3722 3652,3618 2810,3580 739,3711 630,3629 507,3730"/>
+                <Baseline points="529,3775 690,3772 852,3768 1014,3763 1176,3758 1338,3754 1499,3749 1661,3743 1823,3738 1985,3732 2147,3728 2308,3723 2470,3719 2632,3715 2794,3712 2956,3709 3117,3707 3279,3706 3441,3705 3603,3706 3765,3708"/>
+                <TextEquiv>
+                    <Unicode>Gneißgebiet u. Uluguru-Geb. mit d. weißen Steinhäuschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="517,3941 700,3929 894,4014 1178,3905 2055,3976 2411,3888 2409,3785 1212,3855 1018,3761 855,3867 514,3834"/>
+                <Baseline points="538,3923 630,3920 722,3919 815,3917 907,3915 1000,3914 1092,3913 1185,3911 1277,3910 1370,3908 1462,3906 1554,3905 1647,3903 1739,3901 1832,3899 1924,3897 2017,3894 2109,3891 2202,3887 2294,3883 2387,3879"/>
+                <TextEquiv>
+                    <Unicode>von Ngerengere im Vordergrunde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:24;}">
+                <Coords points="739,4152 3911,4059 3987,3857 2510,3990 735,3960"/>
+                <Baseline points="761,4065 921,4064 1081,4063 1241,4061 1402,4059 1562,4056 1722,4054 1883,4050 2043,4047 2203,4043 2364,4040 2524,4036 2684,4032 2844,4029 3005,4024 3165,4021 3325,4017 3486,4014 3646,4010 3806,4007 3967,4004"/>
+                <TextEquiv>
+                    <Unicode>Zurück bis zur Bahnlinie, an dieser entlang bis zur Barrabarra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
+                <Coords points="505,4239 3312,4173 3479,4264 4005,4215 4003,4041 503,4122"/>
+                <Baseline points="529,4211 701,4206 874,4202 1047,4198 1219,4194 1392,4192 1565,4189 1737,4186 1910,4184 2083,4182 2256,4179 2428,4177 2601,4175 2774,4172 2946,4169 3119,4166 3292,4163 3464,4159 3637,4155 3810,4149 3983,4144"/>
+                <TextEquiv>
+                    <Unicode>von Swate. Bei 147,3 braune Sandsteine mit gröberen Gerölllagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:26;}">
+                <Coords points="476,4419 4030,4375 4027,4210 3280,4175 3014,4273 474,4272"/>
+                <Baseline points="497,4375 672,4364 848,4354 1023,4347 1199,4340 1374,4335 1550,4331 1725,4328 1901,4326 2076,4325 2252,4324 2427,4323 2603,4322 2778,4322 2954,4321 3129,4321 3305,4319 3480,4317 3656,4314 3831,4311 4007,4306"/>
+                <TextEquiv>
+                    <Unicode>(z.T. über faustgroße Gneißstücke); gleich darauf (47,4) plattiger, weicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:27;}">
+                <Coords points="482,4589 2050,4469 2418,4581 2680,4479 3732,4532 3496,4320 3060,4429 2088,4339 1960,4426 480,4406"/>
+                <Baseline points="504,4512 664,4508 824,4503 984,4499 1144,4494 1304,4491 1464,4486 1625,4483 1785,4479 1945,4476 2105,4473 2265,4470 2425,4468 2585,4467 2746,4466 2906,4466 3066,4466 3226,4467 3386,4469 3546,4472 3707,4475"/>
+                <TextEquiv>
+                    <Unicode>Sandstein mit einzelnen härteren herauswitternden Lagen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:28;}">
+                <Coords points="593,4690 3986,4679 3984,4540 3227,4470 1039,4604 755,4496 592,4601"/>
+                <Baseline points="613,4664 780,4662 947,4659 1115,4655 1282,4650 1450,4645 1617,4640 1784,4635 1952,4630 2119,4626 2287,4622 2454,4617 2621,4615 2789,4613 2956,4612 3124,4612 3291,4614 3458,4618 3626,4623 3793,4630 3961,4639"/>
+                <TextEquiv>
+                    <Unicode>Am Swateweg hatten 2 fundi's inzwischen reiches Material gesam„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:29;}">
+                <Coords points="437,4862 1283,4918 1509,4799 2591,4761 3080,4884 3937,4855 3935,4681 3488,4655 436,4760"/>
+                <Baseline points="460,4808 632,4805 805,4801 977,4797 1150,4792 1323,4788 1495,4784 1668,4779 1841,4775 2013,4772 2186,4768 2359,4765 2531,4763 2704,4761 2877,4760 3049,4759 3222,4760 3395,4761 3567,4764 3740,4768 3913,4773"/>
+                <TextEquiv>
+                    <Unicode>melt, das ich sichtete. Träger warteten in d. Nähe. Ein Weg führte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>123&#xD;
+Mit allen Trägern per Bahn nach Mikesse zurück&#xD;
+Auch diesmal keine Post erhalten, aber wenigstens d. Auskunft,&#xD;
+daß sie nach Lindi gegangen ist u. zurückbeordert ist.&#xD;
+12 Apr. Briefe&#xD;
+13 „ Aquarelliert. Zum Bahnhof, um Sattler zu holen.&#xD;
+Er kommt aber erst Mittag. Janenschs Aufsammlungen&#xD;
+besichtigt, meist nur Gesteinsproben, auf die ich nicht so&#xD;
+viel Gewicht legen kann wie er; nach meiner Erfahrung&#xD;
+füllen sie die Museum als totes Material.&#xD;
+14. Sattler fährt schon wieder ab. Safari vorbereitet.&#xD;
+15. April. Vor einem vollen Monat hier angekommen.&#xD;
+Um 10½ mit Bahn nach Ngerengere (22 Mann)&#xD;
+Gegen Abend ein Stück der Barrabarra von Swate nach„&#xD;
+gegangen, fand auch hier das v. Sattler östlicher entdeckte fossil„&#xD;
+reiche Gestein, muß daher hier weiter ziehen.&#xD;
+Ostersonntag d. 16. Apr: Morgens Bagamoyo-Straße bis zum&#xD;
+Jäger Fungafunga, der auf beträchtlicher Anhöhe ½ Std. v. d. Bahn&#xD;
+sehr hübsch wohnt. D. fossilreiche Gestein hier nicht gesehen, aber&#xD;
+offenbar tiefer als die festen braunen Sandsteine, die in&#xD;
+großen Platten den Fuß der Höhe (Plateau) bilden. Obere&#xD;
+Hälfte besteht scheinbar nur aus Sand. Schöner Blick auf's&#xD;
+Gneißgebiet u. Uluguru-Geb. mit d. weißen Steinhäuschen&#xD;
+von Ngerengere im Vordergrunde.&#xD;
+Zurück bis zur Bahnlinie, an dieser entlang bis zur Barrabarra&#xD;
+von Swate. Bei 147,3 braune Sandsteine mit gröberen Gerölllagen&#xD;
+(z.T. über faustgroße Gneißstücke); gleich darauf (47,4) plattiger, weicher&#xD;
+Sandstein mit einzelnen härteren herauswitternden Lagen.&#xD;
+Am Swateweg hatten 2 fundi's inzwischen reiches Material gesam„&#xD;
+melt, das ich sichtete. Träger warteten in d. Nähe. Ein Weg führte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

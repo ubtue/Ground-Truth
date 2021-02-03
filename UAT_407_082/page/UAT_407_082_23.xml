@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:13.362+02:00</Created>
+        <LastChange>2020-03-04T11:25:16.609+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581471" pageNr="23" tsid="24763088" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=EFKJTISUIJVLFCOOYKUSDQQW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HIGVUFFQOUJYOHYWSKLCUZEG" imageId="4579360"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_23.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255745206" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="374,244 374,4903 4037,4903 4037,244"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="3726,333 3753,332 3786,358 3831,342 3845,346 3863,331 3900,353 3932,351 3925,178 3884,189 3843,181 3754,249 3722,250"/>
+                <Baseline points="3747,317 3773,318 3800,316 3827,314 3853,313 3880,312 3907,313"/>
+                <TextEquiv>
+                    <Unicode>21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} textStyle {offset:28; length:3;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="381,595 3766,564 3736,367 384,343"/>
+                <Baseline points="404,493 570,491 737,489 904,488 1071,489 1238,490 1405,491 1571,494 1738,496 1905,499 2072,502 2239,505 2406,509 2573,512 2739,515 2906,517 3073,519 3240,521 3407,521 3574,521 3741,520"/>
+                <TextEquiv>
+                    <Unicode>schaft erst als technisches und architektonisches (d. h. in sich geschlossenes)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="377,770 2604,778 2901,673 3335,771 3815,745 3852,599 2051,638 1585,504 1411,622 377,600"/>
+                <Baseline points="400,661 571,662 742,664 914,666 1085,668 1257,669 1428,671 1599,672 1771,673 1942,675 2114,676 2285,676 2456,677 2628,677 2799,677 2971,677 3142,676 3313,675 3485,674 3656,672 3828,670"/>
+                <TextEquiv>
+                    <Unicode>Gebäude fertig zu stellen, ehe man über die Grenze einen Ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="403,862 3069,824 3827,928 3961,750 403,752"/>
+                <Baseline points="428,809 603,807 778,805 954,804 1129,804 1305,804 1480,805 1655,806 1831,808 2006,810 2182,812 2357,814 2532,815 2708,817 2883,818 3059,819 3234,819 3409,818 3585,817 3760,815 3936,812"/>
+                <TextEquiv>
+                    <Unicode>bindungsgang hin u. her aufrichtet: „Daher muß sie ihre Grenze nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="404,1044 4021,1055 3920,872 3066,824 2914,924 404,861"/>
+                <Baseline points="425,956 603,956 782,956 961,957 1140,957 1318,958 1497,959 1676,959 1855,960 2033,961 2212,962 2391,963 2570,963 2748,964 2927,964 3106,965 3285,965 3463,965 3642,965 3821,965 4000,964"/>
+                <TextEquiv>
+                    <Unicode>überspringen, um das, dessen Begriffe garkeine Erfahrung angemessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="414,1182 2170,1087 3798,1174 3798,1069 3076,964 415,1031"/>
+                <Baseline points="436,1098 602,1095 769,1092 936,1090 1103,1089 1270,1088 1437,1087 1604,1087 1771,1087 1938,1087 2105,1088 2271,1089 2438,1091 2605,1093 2772,1095 2939,1098 3106,1101 3273,1104 3440,1107 3607,1111 3774,1115"/>
+                <TextEquiv>
+                    <Unicode>sein kann, und woran man sich allererst nach Vollendung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="418,1324 3843,1333 3842,1169 3723,1147 418,1178"/>
+                <Baseline points="441,1249 610,1251 779,1251 948,1252 1117,1252 1286,1252 1455,1251 1624,1250 1793,1249 1962,1248 2131,1247 2300,1246 2469,1244 2638,1243 2807,1242 2976,1241 3145,1239 3314,1238 3483,1238 3652,1237 3821,1237"/>
+                <TextEquiv>
+                    <Unicode>Naturwissenschaft zu wagen befugt ist in sich selbst als einhei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;} textStyle {offset:8; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="417,1468 609,1502 720,1426 856,1492 1063,1416 1263,1506 1756,1520 1844,1435 2063,1515 2470,1492 2472,1337 2299,1284 1671,1359 1150,1330 1005,1242 844,1331 419,1336"/>
+                <Baseline points="443,1406 543,1405 643,1404 743,1403 844,1402 944,1402 1044,1403 1144,1403 1245,1404 1345,1405 1445,1407 1545,1408 1646,1410 1746,1412 1846,1414 1946,1416 2047,1418 2147,1420 2247,1422 2347,1424 2448,1426"/>
+                <TextEquiv>
+                    <Unicode>misches Produkt Prinzip hineinziehen.“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="644,1628 3589,1616 3616,1470 3095,1488 2793,1373 2295,1510 644,1491"/>
+                <Baseline points="669,1569 815,1572 961,1574 1107,1576 1253,1577 1399,1579 1545,1580 1691,1580 1837,1581 1983,1581 2130,1581 2276,1581 2422,1581 2568,1580 2714,1579 2860,1579 3006,1578 3152,1576 3298,1575 3444,1574 3591,1573"/>
+                <TextEquiv>
+                    <Unicode>(Grade in der Unersetzbarkeit des Fehlversuchs kommt die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="376,1714 3870,1730 3773,1598 376,1609"/>
+                <Baseline points="398,1697 570,1699 742,1701 915,1702 1087,1703 1260,1703 1432,1704 1604,1704 1777,1703 1949,1703 2122,1702 2294,1702 2466,1701 2639,1701 2811,1700 2984,1700 3156,1699 3328,1699 3501,1699 3673,1700 3846,1701"/>
+                <TextEquiv>
+                    <Unicode>Inferiorität der Natur gegenüber der menschlichen Intelligenz zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="356,1904 3786,1927 3784,1734 355,1717"/>
+                <Baseline points="380,1832 549,1840 718,1844 887,1848 1056,1850 1225,1850 1394,1849 1563,1847 1732,1845 1901,1842 2071,1839 2240,1835 2409,1832 2578,1829 2747,1827 2916,1825 3085,1825 3254,1826 3423,1828 3592,1832 3762,1838"/>
+                <TextEquiv>
+                    <Unicode>Ausdruck, womit die Möglichkeit der „höheren Intelligenz" schon fast</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="356,2023 442,2014 529,2079 584,2083 712,2002 863,2003 973,2072 1055,2004 1124,1995 1124,1885 1010,1939 932,1889 813,1888 731,1938 667,1887 594,1928 461,1886 429,1914 356,1904"/>
+                <Baseline points="378,1992 414,1991 450,1990 486,1990 522,1989 559,1989 595,1989 631,1989 667,1989 703,1990 740,1990 776,1990 812,1991 848,1991 884,1992 921,1992 957,1992 993,1993 1029,1993 1065,1993 1102,1993"/>
+                <TextEquiv>
+                    <Unicode>ausgestaltet ist.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;} textStyle {offset:20; length:8;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="570,2245 911,2143 1182,2220 1634,2134 1850,2213 1958,2119 2179,2202 2644,2126 2920,2203 2916,1965 567,2080"/>
+                <Baseline points="590,2148 705,2143 820,2138 936,2134 1051,2130 1166,2126 1282,2122 1397,2119 1512,2116 1628,2113 1743,2111 1858,2109 1974,2107 2089,2105 2204,2105 2320,2104 2435,2104 2550,2105 2666,2106 2781,2108 2897,2110"/>
+                <TextEquiv>
+                    <Unicode>Es besteht also nur Analogie nicht Kongruenz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="567,2314 2180,2234 2492,2330 2976,2231 3366,2321 3826,2226 3824,2117 1137,2223 930,2144 566,2246"/>
+                <Baseline points="588,2283 748,2275 909,2267 1070,2261 1231,2256 1391,2252 1552,2249 1713,2247 1874,2245 2034,2244 2195,2243 2356,2242 2517,2241 2677,2239 2838,2238 2999,2236 3160,2233 3320,2230 3481,2225 3642,2220 3803,2213"/>
+                <TextEquiv>
+                    <Unicode>Die Natur erreicht das Fliegen oder sonstige Zweckmäßigkeiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="428,2491 1136,2379 2220,2467 2366,2366 2586,2484 2933,2378 3912,2476 3912,2270 428,2326"/>
+                <Baseline points="450,2398 622,2391 794,2385 966,2381 1138,2377 1310,2374 1482,2373 1654,2371 1826,2371 1998,2371 2170,2371 2342,2372 2514,2372 2686,2373 2858,2374 3030,2375 3202,2376 3374,2376 3546,2376 3718,2376 3891,2375"/>
+                <TextEquiv>
+                    <Unicode>gleichsam nur durch Entdeckung, nicht durch Erfindung, also zufällig,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="415,2562 1061,2643 1384,2521 1902,2627 2134,2519 2483,2617 2788,2509 3127,2607 3808,2542 3807,2432 3432,2380 2116,2488 1877,2380 1576,2479 926,2393 415,2502"/>
+                <Baseline points="440,2549 607,2543 774,2537 941,2533 1109,2529 1276,2527 1443,2525 1610,2524 1778,2524 1945,2523 2112,2523 2279,2523 2447,2523 2614,2523 2781,2522 2948,2521 3116,2519 3283,2516 3450,2513 3617,2508 3785,2502"/>
+                <TextEquiv>
+                    <Unicode>daher oft auch auf mannigfachen Umwegen. Sie geht Schritt für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="426,2767 2963,2654 3174,2739 3864,2672 3926,2512 3589,2607 424,2561"/>
+                <Baseline points="446,2677 619,2675 792,2673 965,2671 1138,2669 1311,2667 1484,2665 1657,2663 1830,2662 2003,2660 2176,2658 2349,2656 2522,2654 2695,2653 2868,2651 3041,2650 3214,2648 3387,2646 3560,2645 3733,2643 3906,2642"/>
+                <TextEquiv>
+                    <Unicode>Schritt unter guter Ausnutzung aller Vorteile die das Gelände bietet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="439,2884 3342,2833 3899,2770 3898,2660 438,2765"/>
+                <Baseline points="460,2812 630,2813 801,2813 972,2813 1143,2812 1314,2811 1484,2809 1655,2807 1826,2805 1997,2803 2168,2800 2338,2798 2509,2795 2680,2791 2851,2788 3022,2785 3192,2781 3363,2778 3534,2774 3705,2770 3876,2767"/>
+                <TextEquiv>
+                    <Unicode>aber ganz gleich, welches Ziel sie dabei erreicht, wenn es eben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;} textStyle {offset:28; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="426,2980 863,3069 1583,2954 3121,3005 3655,2946 3702,2839 424,2907"/>
+                <Baseline points="447,2963 608,2964 770,2964 931,2963 1093,2961 1255,2958 1416,2954 1578,2949 1739,2944 1901,2939 2063,2934 2224,2928 2386,2923 2547,2917 2709,2912 2871,2907 3032,2903 3194,2900 3355,2897 3517,2896 3679,2895"/>
+                <TextEquiv>
+                    <Unicode>nur aussichtsreich ist. Vom Springen Klettern zum Springen, vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="383,3175 4044,3059 4041,2922 3747,2878 3156,3011 380,3015"/>
+                <Baseline points="403,3088 583,3094 764,3099 945,3102 1126,3103 1307,3103 1488,3101 1669,3099 1850,3095 2031,3090 2212,3085 2392,3079 2573,3073 2754,3067 2935,3060 3116,3053 3297,3046 3478,3040 3659,3034 3840,3029 4021,3025"/>
+                <TextEquiv>
+                    <Unicode>Springen zum Gleiten, vom Gleiten zum unterstützten Gleiten (fliegende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="369,3281 3812,3291 3870,3162 368,3189"/>
+                <Baseline points="393,3254 565,3256 738,3257 911,3258 1084,3259 1257,3259 1429,3259 1602,3258 1775,3258 1948,3257 2121,3255 2293,3254 2466,3252 2639,3251 2812,3249 2985,3247 3157,3244 3330,3242 3503,3240 3676,3237 3849,3235"/>
+                <TextEquiv>
+                    <Unicode>Fische, Nashornvögel, die sich immer wieder emporschnellen, um neue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;} textStyle {offset:46; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="358,3439 3464,3464 3998,3435 3997,3298 2889,3228 1112,3371 356,3270"/>
+                <Baseline points="379,3414 558,3412 738,3410 918,3408 1098,3406 1278,3404 1458,3401 1638,3399 1818,3397 1998,3394 2178,3392 2357,3390 2537,3388 2717,3386 2897,3384 3077,3383 3257,3381 3437,3380 3617,3378 3797,3377 3977,3376"/>
+                <TextEquiv>
+                    <Unicode>Gleitfläche zu erhalten), endlich zum Fliegen.) Nicht das Schwimmen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="350,3603 4053,3559 4051,3426 3049,3380 348,3453"/>
+                <Baseline points="374,3556 556,3553 739,3549 922,3545 1105,3541 1288,3538 1471,3534 1653,3530 1836,3527 2019,3523 2202,3520 2385,3517 2568,3515 2751,3513 2933,3511 3116,3510 3299,3510 3482,3510 3665,3511 3848,3512 4031,3515"/>
+                <TextEquiv>
+                    <Unicode>können ist Endabsicht bei den Wassersäugetieren, sondern das Fischen, jenes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;} textStyle {offset:56; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="382,3768 1172,3667 3788,3729 4043,3570 380,3594"/>
+                <Baseline points="403,3685 583,3682 764,3678 945,3675 1126,3672 1307,3668 1488,3665 1669,3661 1850,3658 2031,3655 2212,3652 2392,3650 2573,3648 2754,3646 2935,3645 3116,3644 3297,3644 3478,3644 3659,3645 3840,3647 4021,3650"/>
+                <TextEquiv>
+                    <Unicode>finden sie nur beiläufig auf dem Wege und nehmen es als g der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="386,3932 810,3820 1136,3926 3265,3780 3559,3886 4047,3829 4046,3728 384,3767"/>
+                <Baseline points="407,3823 587,3826 768,3828 949,3829 1130,3828 1311,3827 1492,3824 1673,3821 1854,3818 2035,3813 2216,3810 2396,3805 2577,3801 2758,3798 2939,3794 3120,3791 3301,3789 3482,3788 3663,3788 3844,3789 4025,3791"/>
+                <TextEquiv>
+                    <Unicode>Endabsicht günstig mit (Ablenken von der graden Linie; Rückkehren zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="408,4053 4034,3987 4030,3818 3270,3783 405,3911"/>
+                <Baseline points="431,3981 609,3983 788,3984 967,3983 1146,3981 1325,3978 1504,3974 1683,3969 1862,3964 2041,3959 2220,3954 2398,3948 2577,3943 2756,3939 2935,3935 3114,3932 3293,3930 3472,3929 3651,3930 3830,3932 4009,3936"/>
+                <TextEquiv>
+                    <Unicode>Lauf bei Vögeln, der scheinbare „Zweck“, das Fliegen bleibt unbenutzt)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:26;}">
+                <Coords points="690,4164 3589,4167 3826,4119 3825,4028 3632,3952 3473,4040 3143,3960 2847,4050 688,4041"/>
+                <Baseline points="711,4112 865,4112 1020,4112 1174,4111 1329,4110 1483,4108 1638,4106 1792,4104 1947,4102 2101,4100 2256,4098 2411,4096 2565,4094 2720,4092 2874,4091 3029,4090 3183,4090 3338,4090 3492,4092 3647,4093 3802,4096"/>
+                <TextEquiv>
+                    <Unicode>Als heuristisches Prinzip ist die Analogie angebracht, da der unsrer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:27;}">
+                <Coords points="407,4299 3325,4335 3832,4229 3277,4111 406,4189"/>
+                <Baseline points="431,4271 600,4271 769,4271 938,4271 1107,4270 1276,4269 1445,4268 1614,4267 1783,4266 1952,4264 2121,4263 2290,4261 2459,4259 2628,4257 2797,4254 2966,4252 3135,4250 3304,4247 3473,4245 3642,4243 3811,4240"/>
+                <TextEquiv>
+                    <Unicode>Betrachtungsweise geläufige „Zweck“ uns die Entwicklungsmöglichkeiten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:28;}">
+                <Coords points="372,4500 4061,4389 4059,4233 3821,4222 3470,4327 370,4312"/>
+                <Baseline points="393,4399 575,4402 757,4403 939,4403 1121,4402 1304,4401 1486,4398 1668,4395 1850,4392 2032,4389 2215,4385 2397,4381 2579,4378 2761,4375 2943,4373 3126,4371 3308,4370 3490,4370 3672,4371 3854,4373 4037,4376"/>
+                <TextEquiv>
+                    <Unicode>jene Vorteile des Geländes in helles Licht rückt u. so die Umwandlungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:29;}">
+                <Coords points="407,4580 926,4672 1143,4554 3992,4551 3990,4446 3578,4380 406,4502"/>
+                <Baseline points="428,4567 605,4566 782,4565 959,4563 1136,4560 1313,4557 1490,4554 1667,4550 1844,4547 2021,4542 2198,4539 2375,4535 2552,4531 2729,4528 2906,4525 3083,4522 3260,4520 3437,4518 3614,4517 3791,4517 3968,4518"/>
+                <TextEquiv>
+                    <Unicode>als Wirkungen erkennbarer Ursachen (nicht als Mittel zum Zweck!) erkennen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:30;}">
+                <Coords points="401,4740 1856,4804 2938,4681 3644,4775 3929,4597 912,4677 398,4580"/>
+                <Baseline points="424,4720 598,4718 772,4717 946,4715 1120,4713 1295,4710 1469,4707 1643,4704 1817,4701 1991,4698 2166,4694 2340,4691 2514,4688 2688,4685 2862,4682 3037,4679 3211,4677 3385,4674 3559,4673 3733,4671 3908,4670"/>
+                <TextEquiv>
+                    <Unicode>läßt (etwa wie man eine Elephantenfährte verfolgt und beobachtet, daß er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:31;}">
+                <Coords points="388,4965 1178,4886 1628,4958 1809,4873 2551,4945 2615,4930 2612,4724 2174,4799 2036,4723 1854,4804 1711,4714 1534,4794 1314,4733 1104,4828 628,4733 386,4819"/>
+                <Baseline points="411,4863 520,4866 629,4868 738,4869 847,4869 956,4868 1065,4867 1174,4865 1283,4863 1392,4861 1501,4858 1610,4855 1719,4853 1828,4850 1937,4848 2046,4847 2155,4845 2264,4845 2373,4845 2482,4846 2591,4848"/>
+                <TextEquiv>
+                    <Unicode>sich lediglich den bequemsten Weg aussucht).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>21&#xD;
+schaft erst als technisches und architektonisches (d. h. in sich geschlossenes)&#xD;
+Gebäude fertig zu stellen, ehe man über die Grenze einen Ver„&#xD;
+bindungsgang hin u. her aufrichtet: „Daher muß sie ihre Grenze nicht&#xD;
+überspringen, um das, dessen Begriffe garkeine Erfahrung angemessen&#xD;
+sein kann, und woran man sich allererst nach Vollendung der&#xD;
+Naturwissenschaft zu wagen befugt ist in sich selbst als einhei„&#xD;
+misches Produkt Prinzip hineinziehen.“&#xD;
+(Grade in der Unersetzbarkeit des Fehlversuchs kommt die&#xD;
+Inferiorität der Natur gegenüber der menschlichen Intelligenz zum&#xD;
+Ausdruck, womit die Möglichkeit der „höheren Intelligenz" schon fast&#xD;
+ausgestaltet ist.)&#xD;
+Es besteht also nur Analogie nicht Kongruenz.&#xD;
+Die Natur erreicht das Fliegen oder sonstige Zweckmäßigkeiten&#xD;
+gleichsam nur durch Entdeckung, nicht durch Erfindung, also zufällig,&#xD;
+daher oft auch auf mannigfachen Umwegen. Sie geht Schritt für&#xD;
+Schritt unter guter Ausnutzung aller Vorteile die das Gelände bietet,&#xD;
+aber ganz gleich, welches Ziel sie dabei erreicht, wenn es eben&#xD;
+nur aussichtsreich ist. Vom Springen Klettern zum Springen, vom&#xD;
+Springen zum Gleiten, vom Gleiten zum unterstützten Gleiten (fliegende&#xD;
+Fische, Nashornvögel, die sich immer wieder emporschnellen, um neue&#xD;
+Gleitfläche zu erhalten), endlich zum Fliegen.) Nicht das Schwimmen„&#xD;
+können ist Endabsicht bei den Wassersäugetieren, sondern das Fischen, jenes&#xD;
+finden sie nur beiläufig auf dem Wege und nehmen es als g der&#xD;
+Endabsicht günstig mit (Ablenken von der graden Linie; Rückkehren zum&#xD;
+Lauf bei Vögeln, der scheinbare „Zweck“, das Fliegen bleibt unbenutzt)&#xD;
+Als heuristisches Prinzip ist die Analogie angebracht, da der unsrer&#xD;
+Betrachtungsweise geläufige „Zweck“ uns die Entwicklungsmöglichkeiten,&#xD;
+jene Vorteile des Geländes in helles Licht rückt u. so die Umwandlungen&#xD;
+als Wirkungen erkennbarer Ursachen (nicht als Mittel zum Zweck!) erkennen&#xD;
+läßt (etwa wie man eine Elephantenfährte verfolgt und beobachtet, daß er&#xD;
+sich lediglich den bequemsten Weg aussucht).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

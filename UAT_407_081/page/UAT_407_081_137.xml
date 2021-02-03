@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:40.423+02:00</Created>
+        <LastChange>2019-10-15T15:21:37.648+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551026" pageNr="137" tsid="17128785" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=BWQSNQOVDPLCLTLGOFMHQIPJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DSHCDPZGYOFIIKSGQCSYOAVI" imageId="4551904"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_137.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256508795" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="425,254 425,4961 4060,4961 4060,254"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="3846,355 3887,349 3933,393 3956,375 3974,388 3992,373 4015,395 4060,385 4055,209 4032,209 4010,224 3960,225 3946,216 3842,224"/>
+                <Baseline points="3866,313 3897,317 3975,313 4006,312 4037,311"/>
+                <TextEquiv>
+                    <Unicode>135</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="402,498 931,412 1193,534 1442,399 1962,526 2224,408 4064,477 4064,319 3802,265 402,294"/>
+                <Baseline points="425,412 605,411 786,410 967,409 1148,408 1329,406 1509,405 1690,404 1871,403 2052,402 2233,401 2413,401 2594,401 2775,401 2956,402 3137,403 3317,406 3498,409 3679,413 3860,417 4041,422"/>
+                <TextEquiv>
+                    <Unicode>Ton, dann auf's rettende Plateau. Die aufgehende Sonne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="422,686 801,591 1132,694 1290,581 1507,693 2203,588 2357,700 3361,662 3749,594 3749,476 422,501"/>
+                <Baseline points="443,575 607,577 771,578 935,580 1099,581 1263,582 1427,583 1591,584 1755,584 1919,584 2084,584 2248,584 2412,583 2576,582 2740,581 2904,579 3068,577 3232,575 3396,573 3560,570 3725,568"/>
+                <TextEquiv>
+                    <Unicode>goß Kronengold auf die stattlichen frisch grünenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="472,756 3768,794 3769,676 3480,594 473,684"/>
+                <Baseline points="497,747 659,747 822,747 984,746 1147,746 1309,745 1472,744 1634,744 1797,743 1959,743 2122,743 2284,743 2447,743 2609,744 2772,745 2934,747 3097,749 3259,752 3422,755 3584,759 3747,764"/>
+                <TextEquiv>
+                    <Unicode>Bäume. Um 1 auf Noto. Neuer Jumbe (Ndonde), der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="483,1024 678,899 939,1022 1921,910 2332,1030 2975,902 3874,975 3875,844 484,762"/>
+                <Baseline points="508,891 675,895 842,899 1009,902 1176,903 1344,904 1511,904 1678,904 1845,904 2012,903 2180,902 2347,902 2514,902 2681,902 2848,903 3016,904 3183,907 3350,910 3517,915 3684,920 3852,928"/>
+                <TextEquiv>
+                    <Unicode>frühere jedoch noch als Wendt'scher Spion hierbelassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="477,1185 1558,1061 1996,1197 2964,1059 3570,1133 3719,1115 3719,975 2869,910 2625,1013 2462,900 1707,1012 1554,907 938,1019 654,910 477,1027"/>
+                <Baseline points="500,1066 659,1066 819,1066 979,1065 1139,1064 1299,1063 1459,1062 1619,1060 1779,1059 1939,1058 2099,1057 2258,1057 2418,1057 2578,1057 2738,1059 2898,1061 3058,1063 3218,1067 3378,1072 3538,1077 3698,1084"/>
+                <TextEquiv>
+                    <Unicode>Er plauderte wieder prächtig, der alte Mwindadi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="610,1314 2048,1256 2572,1367 3445,1266 3679,1353 3842,1286 3843,1146 3011,1219 2677,1105 1998,1197 809,1093 610,1192"/>
+                <Baseline points="632,1254 791,1253 950,1252 1110,1252 1269,1252 1429,1252 1588,1252 1747,1253 1907,1254 2066,1255 2226,1256 2385,1257 2544,1258 2704,1259 2863,1260 3023,1260 3182,1261 3341,1262 3501,1262 3660,1262 3820,1262"/>
+                <TextEquiv>
+                    <Unicode>Lasten bis auf 3 Stück um 3 Uhr, die andern erst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="517,1520 1119,1422 1711,1531 1973,1419 3863,1535 4021,1490 4022,1273 3646,1385 2842,1271 2502,1374 518,1312"/>
+                <Baseline points="539,1428 711,1426 884,1425 1057,1423 1230,1421 1403,1420 1576,1418 1749,1417 1922,1417 2095,1416 2268,1416 2440,1416 2613,1416 2786,1417 2959,1419 3132,1421 3305,1423 3478,1426 3651,1430 3824,1434 3997,1439"/>
+                <TextEquiv>
+                    <Unicode>nachts um 9, als ich bereits zu Bett lag. Kein Bettge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="477,1670 3751,1656 3625,1492 2938,1440 478,1526"/>
+                <Baseline points="498,1608 659,1605 821,1602 982,1600 1144,1600 1306,1600 1467,1601 1629,1603 1790,1605 1952,1607 2114,1610 2275,1612 2437,1614 2598,1615 2760,1616 2922,1616 3083,1615 3245,1613 3406,1610 3568,1606 3730,1600"/>
+                <TextEquiv>
+                    <Unicode>stell, daher auf der Erde, kein Zeltdach, daher ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="484,1809 1438,1904 1682,1786 2487,1872 3228,1782 3499,1904 3635,1773 3956,1827 3956,1700 1845,1727 1501,1623 484,1736"/>
+                <Baseline points="506,1782 677,1778 848,1776 1020,1775 1191,1774 1363,1775 1534,1776 1705,1777 1877,1779 2048,1781 2220,1783 2391,1784 2562,1785 2734,1786 2905,1786 3077,1785 3248,1782 3419,1779 3591,1774 3762,1769 3934,1761"/>
+                <TextEquiv>
+                    <Unicode>kräftiger plötzlicher Gewitterregen von oben herein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="621,2094 1406,1970 2868,2087 3012,1982 3916,1984 3915,1867 2970,1806 2111,1925 1640,1820 1506,1920 1102,1823 619,1913"/>
+                <Baseline points="644,1985 806,1980 968,1977 1131,1973 1293,1971 1455,1969 1618,1967 1780,1965 1942,1964 2105,1964 2267,1963 2429,1963 2592,1962 2754,1962 2916,1961 3079,1961 3241,1960 3403,1959 3566,1958 3728,1956 3891,1954"/>
+                <TextEquiv>
+                    <Unicode>11.V. Heut trocken, aber noch viel Gras. Um 12 am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="517,2211 952,2284 1266,2160 1585,2281 1927,2157 2440,2274 2686,2160 3683,2250 4057,2157 4054,2017 3818,1967 2835,2103 514,2048"/>
+                <Baseline points="538,2169 712,2173 887,2177 1062,2178 1237,2178 1412,2177 1587,2175 1761,2172 1936,2168 2111,2164 2286,2158 2461,2153 2636,2148 2811,2143 2985,2139 3160,2134 3335,2130 3510,2127 3685,2125 3860,2124 4035,2125"/>
+                <TextEquiv>
+                    <Unicode>Tendaguru, wo schon seit mehreren Tagen kein Regen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="476,2404 3926,2354 3924,2205 3458,2165 3296,2276 2897,2185 2130,2299 1984,2174 1619,2282 474,2237"/>
+                <Baseline points="499,2345 669,2348 839,2350 1009,2351 1179,2352 1349,2351 1519,2350 1689,2349 1859,2347 2029,2344 2200,2342 2370,2339 2540,2336 2710,2332 2880,2329 3050,2326 3220,2323 3390,2321 3560,2318 3730,2316 3901,2315"/>
+                <TextEquiv>
+                    <Unicode>mehr. Die alten Gräben im Gegensatz zum Vorjahr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539711217_911" custom="readingOrder {index:13;}">
+                <Coords points="467,2558 4052,2559 4052,2428 3324,2353 2886,2462 2194,2351 1579,2465 467,2418"/>
+                <Baseline points="491,2511 580,2512 670,2512 760,2512 850,2512 939,2512 1029,2511 1119,2511 1209,2510 1298,2509 1388,2508 1478,2507 1568,2506 1657,2504 1747,2503 1837,2502 1927,2501 2016,2500 2106,2499 2196,2498 2286,2498 2515,2497 2590,2499 2666,2500 2742,2500 2818,2501 2893,2501 2969,2501 3045,2500 3121,2500 3196,2500 3272,2499 3348,2499 3424,2500 3499,2500 3575,2501 3651,2503 3727,2505 3802,2508 3878,2511 3954,2516 4030,2520"/>
+                <TextEquiv>
+                    <Unicode>kein Wasser mehr haltend. Unsere Leutchen haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="490,2813 3863,2726 3741,2577 490,2591"/>
+                <Baseline points="514,2690 680,2690 846,2690 1012,2690 1178,2690 1345,2689 1511,2689 1677,2688 1843,2688 2009,2687 2176,2686 2342,2686 2508,2686 2674,2686 2840,2687 3007,2688 3173,2689 3339,2691 3505,2694 3671,2697 3838,2701"/>
+                <TextEquiv>
+                    <Unicode>herzlich wenig geleistet. Schöner frisch-klarer Tag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539694991_902" custom="readingOrder {index:15;}">
+                <Coords points="592,2953 3192,3038 3530,2868 2182,2768 1961,2873 1689,2780 591,2831"/>
+                <Baseline points="612,2929 716,2927 820,2925 924,2924 1028,2923 1132,2922 1236,2922 1341,2922 1445,2921 1549,2921 1653,2920 1757,2920 1861,2919 1966,2917 2070,2916 2174,2914 2278,2911 2382,2908 2486,2904 2591,2899 2614,2913 2670,2911 2726,2909 2782,2909 2838,2909 2894,2909 2950,2910 3007,2911 3063,2911 3119,2913 3175,2914 3231,2915 3287,2916 3343,2917 3400,2917 3456,2916 3508,2915"/>
+                <TextEquiv>
+                    <Unicode>12.V. Kindope-Graben besichtigt, seit 3 Tagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="3422,2826 3458,2822 3485,2850 3517,2819 3593,2834 3671,2822 3702,2854 3774,2851 3805,2874 3855,2866 3904,2890 3908,2723 3853,2735 3799,2716 3763,2742 3714,2705 3604,2735 3537,2702 3424,2736"/>
+                <Baseline points="3443,2816 3468,2814 3494,2812 3520,2811 3546,2811 3571,2810 3597,2809 3623,2809 3649,2810 3674,2810 3700,2811 3726,2812 3752,2814 3777,2815 3803,2817 3829,2819 3855,2821 3881,2824"/>
+                <TextEquiv>
+                    <Unicode>wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539694991_901" custom="readingOrder {index:17;}">
+                <Coords points="3491,2968 3537,2974 3584,2940 3704,2973 3721,2954 3761,2947 3753,2816 3658,2817 3610,2839 3581,2822 3546,2829 3508,2813 3481,2815"/>
+                <Baseline points="3508,2915 3512,2915 3568,2913 3624,2910 3680,2906 3737,2901"/>
+                <TextEquiv>
+                    <Unicode>in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;}">
+                <Coords points="487,3179 586,3189 690,3116 790,3121 830,3148 894,3130 894,2990 822,2995 745,2963 713,2981 645,2945 559,2985 487,2989"/>
+                <Baseline points="508,3121 534,3117 560,3114 586,3112 612,3110 638,3109 664,3109 690,3109 716,3109 742,3110 768,3112 794,3113 820,3115 846,3117 873,3119"/>
+                <TextEquiv>
+                    <Unicode>Arbeit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="674,3308 4042,3280 3996,3163 3376,3110 3029,3204 1730,3103 673,3186"/>
+                <Baseline points="697,3263 863,3263 1029,3262 1195,3261 1361,3260 1528,3259 1694,3258 1860,3257 2026,3255 2192,3254 2359,3252 2525,3250 2691,3249 2857,3247 3023,3245 3190,3243 3356,3241 3522,3238 3688,3236 3854,3234 4021,3232"/>
+                <TextEquiv>
+                    <Unicode>Der Akide auf Kilwa-Ufer ist vorgestern gestorben, nachdem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="490,3480 1123,3514 1534,3400 1955,3503 2230,3393 3361,3507 3804,3425 3804,3321 489,3308"/>
+                <Baseline points="514,3434 677,3423 840,3414 1004,3407 1167,3402 1331,3400 1494,3398 1658,3398 1821,3399 1985,3400 2148,3402 2311,3404 2475,3406 2638,3408 2802,3409 2965,3410 3129,3409 3292,3407 3456,3404 3619,3398 3783,3390"/>
+                <TextEquiv>
+                    <Unicode>sein Vorgänger vor'm Jahr ebenso plötzlich blühendes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="493,3632 3934,3583 3747,3421 492,3478"/>
+                <Baseline points="517,3578 686,3572 856,3567 1026,3563 1196,3559 1365,3557 1535,3554 1705,3553 1875,3552 2044,3551 2214,3550 2384,3550 2554,3550 2723,3550 2893,3550 3063,3550 3233,3550 3402,3550 3572,3549 3742,3548 3912,3547"/>
+                <TextEquiv>
+                    <Unicode>Leben gegen Tod eingetauscht hatte. Ich glaube an Ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="537,3832 1558,3716 3874,3821 3873,3663 3434,3610 536,3670"/>
+                <Baseline points="558,3744 722,3740 887,3737 1052,3734 1216,3730 1381,3728 1546,3726 1710,3724 1875,3723 2040,3722 2205,3721 2369,3721 2534,3721 2699,3721 2863,3722 3028,3723 3193,3725 3357,3726 3522,3728 3687,3730 3852,3733"/>
+                <TextEquiv>
+                    <Unicode>giftung u. traue dem Kilwa-Bezirk jeden Augen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;}">
+                <Coords points="563,3920 853,3889 1079,4020 1974,3907 2304,4021 2625,3908 2851,4021 2968,3908 3986,3913 3498,3718 2865,3858 1920,3754 563,3816"/>
+                <Baseline points="586,3889 754,3893 923,3897 1092,3899 1261,3901 1430,3901 1599,3901 1768,3901 1937,3900 2106,3899 2275,3898 2443,3897 2612,3896 2781,3895 2950,3894 3119,3895 3288,3895 3457,3897 3626,3899 3795,3903 3964,3907"/>
+                <TextEquiv>
+                    <Unicode>blick Aufstand zu, also Vorsicht dies Jahr! Erklärte mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="545,4137 4049,4116 4081,3971 545,3988"/>
+                <Baseline points="566,4075 740,4077 915,4079 1090,4081 1264,4082 1439,4083 1614,4083 1788,4084 1963,4084 2138,4084 2313,4083 2487,4083 2662,4083 2837,4082 3011,4082 3186,4081 3361,4081 3535,4081 3710,4081 3885,4081 4060,4081"/>
+                <TextEquiv>
+                    <Unicode>doch schon damals der Karani, das Klima von Nakihu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="467,4297 535,4256 707,4379 838,4284 1263,4272 1792,4382 1977,4278 2185,4283 2185,4220 2018,4161 1548,4200 1354,4127 1024,4122 716,4207 608,4134 467,4206"/>
+                <Baseline points="489,4261 572,4262 656,4263 739,4263 823,4264 907,4264 990,4264 1074,4264 1158,4264 1241,4264 1325,4264 1409,4264 1492,4264 1576,4264 1660,4264 1743,4265 1827,4265 1911,4266 1994,4267 2078,4268 2162,4269"/>
+                <TextEquiv>
+                    <Unicode>sei für Akiden ungesund!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:26;}">
+                <Coords points="707,4482 1855,4553 3867,4464 3822,4369 3266,4327 707,4351"/>
+                <Baseline points="728,4445 883,4446 1039,4446 1195,4446 1351,4445 1507,4444 1663,4443 1818,4442 1974,4441 2130,4440 2286,4439 2442,4438 2598,4438 2754,4439 2909,4440 3065,4442 3221,4445 3377,4449 3533,4454 3689,4460 3845,4467"/>
+                <TextEquiv>
+                    <Unicode>Nichts zu lesen u. zu tun, da Schreibmaterial noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:27;}">
+                <Coords points="496,4691 3783,4659 3856,4474 3607,4564 3255,4472 496,4519"/>
+                <Baseline points="520,4599 685,4599 851,4599 1017,4600 1182,4600 1348,4600 1514,4600 1679,4600 1845,4601 2011,4601 2177,4602 2342,4603 2508,4603 2674,4604 2839,4605 3005,4606 3171,4608 3336,4609 3502,4611 3668,4612 3834,4614"/>
+                <TextEquiv>
+                    <Unicode>nicht mitgekommen. Greife wieder zu Liliencron's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:28;}">
+                <Coords points="464,4869 2426,4784 2824,4892 3945,4809 4013,4687 2729,4626 2200,4730 2046,4595 464,4733"/>
+                <Baseline points="485,4778 656,4777 827,4776 998,4775 1169,4774 1341,4773 1512,4772 1683,4770 1854,4769 2025,4768 2197,4767 2368,4767 2539,4766 2710,4766 2881,4767 3053,4767 3224,4768 3395,4770 3566,4772 3737,4775 3909,4778 3992,4765"/>
+                <TextEquiv>
+                    <Unicode>prachtvollen Kriegsnovellen u. als Rahmen zu Bismarck's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:29;}">
+                <Coords points="742,4997 920,4904 1485,4915 1629,4994 1797,4897 2329,5003 2597,4961 2598,4853 2503,4838 745,4820"/>
+                <Baseline points="764,4904 854,4903 945,4902 1035,4901 1126,4901 1216,4901 1307,4901 1397,4901 1488,4902 1578,4902 1669,4903 1760,4905 1850,4906 1941,4908 2031,4910 2122,4912 2212,4915 2303,4917 2393,4920 2484,4923 2575,4927"/>
+                <TextEquiv>
+                    <Unicode>Gedanken u. Erinnerungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>135&#xD;
+Ton, dann auf's rettende Plateau. Die aufgehende Sonne&#xD;
+goß Kronengold auf die stattlichen frisch grünenden&#xD;
+Bäume. Um 1 auf Noto. Neuer Jumbe (Ndonde), der&#xD;
+frühere jedoch noch als Wendt'scher Spion hierbelassen.&#xD;
+Er plauderte wieder prächtig, der alte Mwindadi.&#xD;
+Lasten bis auf 3 Stück um 3 Uhr, die andern erst&#xD;
+nachts um 9, als ich bereits zu Bett lag. Kein Bettge„&#xD;
+stell, daher auf der Erde, kein Zeltdach, daher ein&#xD;
+kräftiger plötzlicher Gewitterregen von oben herein.&#xD;
+11.V. Heut trocken, aber noch viel Gras. Um 12 am&#xD;
+Tendaguru, wo schon seit mehreren Tagen kein Regen&#xD;
+mehr. Die alten Gräben im Gegensatz zum Vorjahr&#xD;
+kein Wasser mehr haltend. Unsere Leutchen haben&#xD;
+herzlich wenig geleistet. Schöner frisch-klarer Tag.&#xD;
+12.V. Kindope-Graben besichtigt, seit 3 Tagen&#xD;
+wieder&#xD;
+in&#xD;
+Arbeit.&#xD;
+Der Akide auf Kilwa-Ufer ist vorgestern gestorben, nachdem&#xD;
+sein Vorgänger vor'm Jahr ebenso plötzlich blühendes&#xD;
+Leben gegen Tod eingetauscht hatte. Ich glaube an Ver„&#xD;
+giftung u. traue dem Kilwa-Bezirk jeden Augen„&#xD;
+blick Aufstand zu, also Vorsicht dies Jahr! Erklärte mir&#xD;
+doch schon damals der Karani, das Klima von Nakihu&#xD;
+sei für Akiden ungesund!&#xD;
+Nichts zu lesen u. zu tun, da Schreibmaterial noch&#xD;
+nicht mitgekommen. Greife wieder zu Liliencron's&#xD;
+prachtvollen Kriegsnovellen u. als Rahmen zu Bismarck's&#xD;
+Gedanken u. Erinnerungen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

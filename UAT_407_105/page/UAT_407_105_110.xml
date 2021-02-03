@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M5(htr_id=20484)::::v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.3
+Transkribus</Creator>
+        <Created>2019-12-18T08:33:27.162+01:00</Created>
+        <LastChange>2020-01-16T13:00:19.256+01:00</LastChange>
+        <TranskribusMetadata docId="296974" pageId="11822289" pageNr="110" tsid="22425969" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=FXFJFSQUSIYSMWGVWIWUACMR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NZNLGGWIKTXJONPNHFZDHRPR" imageId="8187596"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_105_110.jpg" imageWidth="3807" imageHeight="5349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613474329893" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+                <RegionRefIndexed index="1" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="368,134 141,126 144,174 186,180 213,180 242,181 368,2414 1755,2414 1755,134"/>
+            <TextLine id="line_1579093122903_1431" custom="readingOrder {index:0;}">
+                <Coords points="146,166 177,172 197,190 212,193 221,190 240,202 251,125 235,123 233,119 229,122 222,117 205,129 187,133 181,127 164,136 151,132"/>
+                <Baseline points="155,163 196,165 236,174"/>
+                <TextEquiv>
+                    <Unicode>103</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="359,196 574,178 918,239 1024,201 1180,231 1272,187 1515,209 1579,176 1493,139 1369,162 1318,122 921,122 852,163 359,129"/>
+                <Baseline points="368,176 428,175 488,175 548,175 608,175 668,175 728,176 789,176 849,177 909,177 969,178 1029,179 1089,180 1149,180 1210,181 1270,182 1330,183 1390,183 1450,183 1510,184 1571,184"/>
+                <TextEquiv>
+                    <Unicode>Völkern das poetische Empfinden der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="373,302 792,314 1001,262 1119,320 1175,271 1311,316 1366,278 1602,295 1631,246 1233,208 1077,234 1024,200 919,240 721,201 374,228"/>
+                <Baseline points="382,255 444,256 506,256 568,257 630,258 692,258 754,259 816,260 878,260 940,261 1002,262 1064,263 1126,264 1188,265 1250,267 1312,268 1374,269 1436,270 1498,271 1560,273 1622,274"/>
+                <TextEquiv>
+                    <Unicode>wissenschaftlichen Betrachtung voran,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="370,400 479,363 674,405 761,356 915,386 1108,348 1165,401 1234,347 1692,350 1366,278 1309,319 976,302 891,336 370,306"/>
+                <Baseline points="379,358 444,356 509,355 574,354 640,353 705,352 770,351 835,350 901,349 966,348 1031,348 1096,347 1162,346 1227,346 1292,346 1357,346 1423,346 1488,346 1553,347 1618,347 1684,349"/>
+                <TextEquiv>
+                    <Unicode>(s. auch Schillers: „Die Künstler“) doch aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="373,474 538,439 652,496 759,444 833,474 1152,432 1267,481 1357,447 1542,486 1703,458 1703,381 1624,414 1466,348 1379,396 1123,368 1031,409 793,380 612,417 484,367 372,418"/>
+                <Baseline points="381,439 446,439 512,438 578,437 643,436 709,434 775,433 840,432 906,430 972,429 1038,428 1103,427 1169,426 1235,426 1300,426 1366,426 1432,427 1497,428 1563,430 1629,432 1695,435"/>
+                <TextEquiv>
+                    <Unicode>glaube ich, daß der Naturphilosoph erst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;} gap {offset:17; length:0;}">
+                <Coords points="375,560 598,529 779,581 896,515 1164,511 1459,564 1692,537 1690,456 1584,493 918,463 374,522"/>
+                <Baseline points="384,542 448,536 513,531 578,527 643,523 708,520 773,518 838,516 903,514 968,513 1033,512 1097,512 1162,512 1227,511 1292,511 1357,511 1422,511 1487,510 1552,510 1617,509 1682,508"/>
+                <TextEquiv>
+                    <Unicode>aus dem Forscher  wird. Der Mensch findet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;} textStyle {offset:23; length:4;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="381,632 443,661 789,596 1044,645 1158,613 1362,657 1515,615 1575,649 1692,612 1692,565 1216,530 1053,576 925,538 625,581 561,537 380,579"/>
+                <Baseline points="389,605 453,604 518,602 583,601 648,599 712,598 777,597 842,597 907,596 971,595 1036,595 1101,595 1166,595 1230,595 1295,595 1360,595 1425,596 1489,596 1554,597 1619,597 1684,598"/>
+                <TextEquiv>
+                    <Unicode>Gefallen an der Natur (Poet), sucht sie näher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="365,735 465,699 568,737 649,687 994,729 1104,680 1675,714 1664,636 1628,669 1301,631 1147,665 1090,623 968,665 896,628 787,665 723,628 492,669 365,636"/>
+                <Baseline points="373,681 437,682 502,683 566,684 631,684 696,684 760,684 825,683 890,683 954,682 1019,682 1084,681 1148,681 1213,681 1278,681 1342,681 1407,682 1472,683 1536,685 1601,687 1666,690"/>
+                <TextEquiv>
+                    <Unicode>zu ergründen durch Sammeln von That„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:8;}">
+                <Coords points="379,823 910,753 1173,770 1282,821 1461,756 1673,784 1673,741 1609,719 1371,688 1075,736 699,709 548,753 437,704 379,739"/>
+                <Baseline points="388,774 451,772 515,770 579,768 643,767 707,765 771,764 834,762 898,761 962,761 1026,760 1090,760 1154,760 1218,760 1281,760 1345,761 1409,761 1473,763 1537,764 1601,765 1665,767"/>
+                <TextEquiv>
+                    <Unicode>sachen und deren Verarbeitung zu Natur„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:9;} textStyle {offset:10; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="394,894 1068,837 1321,880 1369,839 1633,856 1681,818 1402,780 1200,819 907,771 792,813 722,779 652,820 559,791 393,825"/>
+                <Baseline points="402,845 465,844 529,843 592,842 656,840 719,839 783,838 846,837 910,836 973,835 1037,834 1100,833 1164,833 1227,833 1291,833 1354,833 1418,834 1481,835 1545,836 1608,838 1672,840"/>
+                <TextEquiv>
+                    <Unicode>gesetzen (Forscher) und dann erst kann er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:10;}">
+                <Coords points="377,964 563,936 629,980 730,929 935,977 1049,924 1253,960 1309,924 1422,972 1559,907 1658,925 1657,886 1534,854 1292,907 1184,865 1147,900 1086,868 376,916"/>
+                <Baseline points="386,943 449,939 512,935 575,932 638,930 701,928 764,927 827,925 890,924 953,924 1017,923 1080,923 1143,922 1206,921 1269,920 1332,919 1395,917 1458,916 1521,913 1584,910 1648,907"/>
+                <TextEquiv>
+                    <Unicode>daran gehen, nachzudenken, welches die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:11;}">
+                <Coords points="386,1058 502,1019 653,1056 754,1008 993,1065 1119,998 1502,1041 1742,1013 1741,958 1422,978 1313,924 1045,980 715,929 609,984 455,943 385,984"/>
+                <Baseline points="394,1010 460,1010 527,1009 594,1007 661,1006 728,1005 795,1003 862,1002 929,1000 996,999 1063,997 1129,996 1196,995 1263,994 1330,993 1397,993 1464,993 1531,993 1598,994 1665,995 1732,997"/>
+                <TextEquiv>
+                    <Unicode>fernere Entwicklung der Natur nach diesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:12;} textStyle {offset:20; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="386,1108 572,1151 875,1084 996,1137 1320,1110 1384,1149 1463,1088 1677,1081 1676,1039 1483,1057 1313,998 1259,1043 813,1067 739,1029 628,1068 537,1023 385,1071"/>
+                <Baseline points="394,1096 457,1091 521,1087 585,1084 648,1082 712,1081 776,1080 839,1080 903,1080 967,1081 1031,1082 1094,1083 1158,1084 1222,1084 1285,1085 1349,1085 1413,1084 1476,1083 1540,1082 1604,1079 1668,1076"/>
+                <TextEquiv>
+                    <Unicode>Gesetzen sein wird (Philosoph). Es ist die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:13;}">
+                <Coords points="367,1194 549,1222 1127,1164 1229,1218 1393,1170 1459,1216 1505,1172 1656,1171 1656,1124 1504,1086 1420,1146 1318,1110 796,1147 713,1110 575,1153 366,1101"/>
+                <Baseline points="376,1177 439,1175 503,1173 566,1171 630,1169 694,1167 757,1166 821,1165 884,1164 948,1163 1012,1163 1075,1162 1139,1162 1202,1162 1266,1162 1330,1162 1393,1162 1457,1162 1520,1162 1584,1162 1648,1163"/>
+                <TextEquiv>
+                    <Unicode>dreifache Thätigkeit des menschlichen Hirns:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:14;}">
+                <Coords points="394,1282 1402,1240 1482,1279 1545,1232 1620,1272 1692,1249 1692,1191 1189,1227 954,1174 856,1213 394,1220"/>
+                <Baseline points="402,1250 466,1248 530,1246 594,1244 658,1243 722,1243 786,1242 850,1242 914,1242 978,1242 1043,1242 1107,1242 1171,1242 1235,1241 1299,1241 1363,1240 1427,1238 1491,1237 1555,1234 1619,1232 1684,1228"/>
+                <TextEquiv>
+                    <Unicode>Fühlen, Denken, Wollen. Man nimmt erst auf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:15;}">
+                <Coords points="374,1339 1613,1356 1747,1336 1747,1283 620,1271 374,1313"/>
+                <Baseline points="382,1331 449,1328 517,1325 585,1323 653,1322 721,1321 788,1320 856,1320 924,1319 992,1319 1060,1320 1127,1320 1195,1320 1263,1320 1331,1320 1399,1320 1466,1320 1534,1320 1602,1320 1670,1319 1738,1318"/>
+                <TextEquiv>
+                    <Unicode>verarbeitet dann das Gewonnene und giebt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:16;}">
+                <Coords points="377,1446 666,1395 1120,1398 1197,1445 1266,1399 1695,1413 1730,1351 1457,1373 1314,1337 1213,1374 881,1323 790,1376 564,1344 377,1379"/>
+                <Baseline points="385,1399 451,1398 518,1397 585,1396 652,1395 719,1395 785,1394 852,1394 919,1394 986,1394 1053,1394 1119,1394 1186,1394 1253,1393 1320,1393 1387,1393 1453,1393 1520,1393 1587,1392 1654,1391 1721,1391"/>
+                <TextEquiv>
+                    <Unicode>schließlich das Resultat irgend wie wieder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:17;}">
+                <Coords points="398,1509 630,1472 1632,1481 1557,1413 1202,1447 1074,1401 780,1450 596,1402 397,1448"/>
+                <Baseline points="406,1485 466,1481 527,1477 588,1474 649,1471 710,1469 771,1467 831,1466 892,1465 953,1464 1014,1463 1075,1463 1136,1463 1197,1462 1257,1462 1318,1462 1379,1461 1440,1461 1501,1460 1562,1459 1623,1458"/>
+                <TextEquiv>
+                    <Unicode>Vielleicht könnte der Materialismus die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:18;} textStyle {offset:43; length:3;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="392,1578 940,1544 1011,1593 1116,1545 1728,1538 1726,1471 1669,1461 1384,1516 978,1468 391,1504"/>
+                <Baseline points="401,1545 466,1544 532,1543 598,1542 664,1541 730,1541 796,1541 861,1540 927,1540 993,1540 1059,1539 1125,1539 1191,1538 1257,1536 1322,1535 1388,1533 1454,1531 1520,1528 1586,1525 1652,1520 1718,1516"/>
+                <TextEquiv>
+                    <Unicode>erste Stufe hinter sich haben und mit der 2ten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:19;}">
+                <Coords points="406,1662 486,1691 564,1635 1202,1623 1413,1687 1677,1643 1669,1588 1367,1555 1276,1598 1014,1600 933,1554 849,1603 405,1586"/>
+                <Baseline points="414,1635 476,1631 538,1628 601,1625 663,1623 725,1622 788,1621 850,1620 912,1620 975,1619 1037,1619 1099,1620 1162,1620 1224,1620 1286,1620 1349,1620 1411,1620 1473,1620 1536,1620 1598,1619 1661,1617"/>
+                <TextEquiv>
+                    <Unicode>beginnen? Doch das wäre ein Trugschluß:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:20;}">
+                <Coords points="381,1720 581,1711 697,1760 820,1707 1033,1750 1117,1687 1278,1747 1436,1704 1533,1746 1589,1701 1719,1715 1637,1647 1523,1683 1385,1629 1029,1670 840,1619 691,1679 380,1677"/>
+                <Baseline points="390,1710 456,1709 522,1707 588,1706 654,1704 720,1703 786,1702 852,1701 918,1699 984,1698 1050,1697 1116,1696 1182,1696 1248,1695 1314,1695 1380,1695 1446,1696 1512,1696 1578,1697 1644,1698 1710,1700"/>
+                <TextEquiv>
+                    <Unicode>Die Wissenschaft ist wohl ein Sprößling der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:21;}">
+                <Coords points="370,1807 842,1793 894,1829 1125,1784 1193,1825 1301,1779 1742,1784 1741,1732 1672,1723 782,1771 583,1708 369,1752"/>
+                <Baseline points="378,1783 445,1785 513,1786 581,1787 649,1787 717,1787 784,1787 852,1786 920,1785 988,1783 1056,1782 1123,1780 1191,1779 1259,1777 1327,1776 1395,1775 1462,1774 1530,1774 1598,1774 1666,1774 1734,1775"/>
+                <TextEquiv>
+                    <Unicode>Kunst, aber einer, der in gleicher Stärke mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:22;}">
+                <Coords points="381,1881 802,1906 1054,1869 1207,1912 1538,1859 1606,1916 1759,1862 1677,1796 1577,1840 1318,1791 1274,1829 1010,1792 790,1847 628,1849 569,1805 381,1829"/>
+                <Baseline points="390,1867 461,1866 533,1865 604,1864 676,1864 747,1864 819,1864 890,1864 962,1863 1033,1863 1105,1863 1176,1863 1248,1862 1319,1861 1391,1860 1462,1859 1534,1857 1605,1855 1677,1852 1749,1849"/>
+                <TextEquiv>
+                    <Unicode>dem Stanm parallel läuft. 1. u. 2. müssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:23;}">
+                <Coords points="382,1993 894,1940 1133,1956 1187,2001 1294,1949 1408,2000 1635,1977 1728,1906 1268,1889 1033,1929 907,1878 575,1924 501,1877 382,1912"/>
+                <Baseline points="390,1940 456,1941 523,1942 589,1942 656,1943 722,1944 789,1944 855,1944 922,1944 988,1944 1055,1944 1121,1944 1188,1943 1254,1943 1321,1942 1387,1942 1454,1941 1520,1940 1587,1938 1653,1937 1720,1936"/>
+                <TextEquiv>
+                    <Unicode>zusammenwirken, um 3. hervorzubringen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:24;} unclear {offset:38; length:1;alternative:ä;}">
+                <Coords points="395,2061 578,2086 671,2026 1022,2024 1081,2077 1248,2030 1598,2066 1727,2045 1727,2002 1543,1959 1388,2009 1303,1964 1202,2008 1141,1968 934,1967 395,2011"/>
+                <Baseline points="403,2028 468,2028 534,2028 600,2028 666,2027 732,2027 797,2027 863,2027 929,2027 995,2027 1061,2027 1126,2026 1192,2026 1258,2026 1324,2026 1390,2026 1455,2026 1521,2026 1587,2026 1653,2026 1719,2026"/>
+                <TextEquiv>
+                    <Unicode>(Ich möchte die Wissenschaft mit dem Vater, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:25;}">
+                <Coords points="369,2137 1277,2118 1454,2162 1639,2099 1763,2114 1763,2059 1103,2090 1007,2046 955,2094 720,2058 368,2098"/>
+                <Baseline points="377,2119 445,2117 514,2116 583,2114 652,2113 721,2112 790,2111 859,2110 928,2110 997,2109 1066,2108 1134,2108 1203,2107 1272,2106 1341,2105 1410,2104 1479,2102 1548,2100 1617,2098 1686,2096 1755,2093"/>
+                <TextEquiv>
+                    <Unicode>Kunst mit der Mutter vergleichen.) Immer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:26;} textStyle {offset:15; length:1;strikethrough:true; fontSize:0.0; kerning:0;} unclear {offset:15; length:1;}">
+                <Coords points="376,2203 531,2197 623,2244 704,2195 912,2196 955,2235 1228,2189 1331,2241 1424,2199 1497,2250 1712,2206 1591,2141 1469,2168 1398,2127 1326,2165 888,2118 376,2174"/>
+                <Baseline points="385,2193 454,2193 523,2193 593,2193 662,2192 732,2191 801,2190 870,2189 940,2188 1009,2187 1079,2186 1148,2185 1218,2185 1287,2185 1356,2185 1426,2186 1495,2187 1565,2189 1634,2192 1704,2195"/>
+                <TextEquiv>
+                    <Unicode>wieder ist der B beste Beweis für richtige,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:27;}">
+                <Coords points="381,2323 757,2276 829,2341 1110,2293 1281,2330 1424,2273 1598,2335 1662,2293 1662,2219 381,2249"/>
+                <Baseline points="389,2272 452,2273 515,2275 578,2276 641,2278 705,2279 768,2281 831,2282 894,2283 957,2283 1021,2284 1084,2284 1147,2284 1210,2283 1273,2282 1337,2281 1400,2279 1463,2276 1526,2273 1589,2269 1653,2264"/>
+                <TextEquiv>
+                    <Unicode>gesunde Naturphilosophie Goethe, der doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:28;}">
+                <Coords points="368,2408 451,2456 671,2406 1158,2452 1375,2382 1585,2398 1619,2356 1278,2329 1157,2367 988,2322 907,2358 611,2360 568,2327 368,2363"/>
+                <Baseline points="377,2382 438,2386 500,2389 561,2391 623,2392 685,2394 746,2394 808,2394 870,2394 931,2394 993,2393 1055,2392 1116,2391 1178,2390 1240,2389 1301,2387 1363,2386 1425,2385 1486,2384 1548,2383 1610,2382"/>
+                <TextEquiv>
+                    <Unicode>wahrlich d. dichterische Ergötzen an der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>103&#xD;
+Völkern das poetische Empfinden der&#xD;
+wissenschaftlichen Betrachtung voran,&#xD;
+(s. auch Schillers: „Die Künstler“) doch aber&#xD;
+glaube ich, daß der Naturphilosoph erst&#xD;
+aus dem Forscher  wird. Der Mensch findet&#xD;
+Gefallen an der Natur (Poet), sucht sie näher&#xD;
+zu ergründen durch Sammeln von That„&#xD;
+sachen und deren Verarbeitung zu Natur„&#xD;
+gesetzen (Forscher) und dann erst kann er&#xD;
+daran gehen, nachzudenken, welches die&#xD;
+fernere Entwicklung der Natur nach diesen&#xD;
+Gesetzen sein wird (Philosoph). Es ist die&#xD;
+dreifache Thätigkeit des menschlichen Hirns:&#xD;
+Fühlen, Denken, Wollen. Man nimmt erst auf,&#xD;
+verarbeitet dann das Gewonnene und giebt&#xD;
+schließlich das Resultat irgend wie wieder.&#xD;
+Vielleicht könnte der Materialismus die&#xD;
+erste Stufe hinter sich haben und mit der 2ten&#xD;
+beginnen? Doch das wäre ein Trugschluß:&#xD;
+Die Wissenschaft ist wohl ein Sprößling der&#xD;
+Kunst, aber einer, der in gleicher Stärke mit&#xD;
+dem Stanm parallel läuft. 1. u. 2. müssen&#xD;
+zusammenwirken, um 3. hervorzubringen&#xD;
+(Ich möchte die Wissenschaft mit dem Vater, die&#xD;
+Kunst mit der Mutter vergleichen.) Immer&#xD;
+wieder ist der B beste Beweis für richtige,&#xD;
+gesunde Naturphilosophie Goethe, der doch&#xD;
+wahrlich d. dichterische Ergötzen an der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="4.712389" id="r3" custom="readingOrder {index:1;}">
+            <Coords points="99,184 99,774 227,774 227,184"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="166,202 145,252 192,335 155,451 181,490 194,590 173,642 198,683 189,732 246,732 230,553 244,523 238,202"/>
+                <Baseline points="191,207 191,232 192,258 192,284 192,310 192,336 192,362 193,388 193,414 193,440 193,465 193,491 193,517 193,543 193,569 193,595 193,621 192,647 192,673 192,699 192,727"/>
+                <TextEquiv>
+                    <Unicode>Also Übereinstimmung!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="105,189 118,281 91,313 108,348 95,389 121,428 129,572 103,633 121,687 104,756 119,780 183,778 179,716 199,683 175,650 181,556 147,452 181,364 145,273 163,215 145,188"/>
+                <Baseline points="116,194 117,222 118,250 119,278 119,306 120,334 121,362 121,390 122,418 122,446 123,474 123,502 123,530 123,558 123,586 123,614 122,642 122,670 121,698 120,726 117,775"/>
+                <TextEquiv>
+                    <Unicode>(Beim Einschreiben: 24.III.02.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Also Übereinstimmung!&#xD;
+(Beim Einschreiben: 24.III.02.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

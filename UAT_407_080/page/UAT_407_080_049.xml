@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:55.366+02:00</Created>
+        <LastChange>2020-03-19T13:55:49.805+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550747" pageNr="49" tsid="25857225" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=XGSHBAPHTTPUJWSOLXATBJHJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SSQALEYYNNZDRGNBICRHCJEW" imageId="4551625"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_049.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255544701" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="386,286 386,4909 4097,4909 4097,286"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3723,342 3750,343 3772,366 3791,353 3850,359 3853,240 3808,239 3794,229 3766,252 3725,246"/>
+                <Baseline points="3746,328 3772,322 3799,325 3826,328 3883,342"/>
+                <TextEquiv>
+                    <Unicode>45</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="410,501 2476,545 2704,434 3166,541 3627,401 3970,459 4015,303 2452,261 1808,397 893,224 408,290"/>
+                <Baseline points="430,410 608,422 786,431 964,439 1142,446 1321,450 1499,452 1677,452 1855,452 2033,450 2212,446 2390,444 2568,440 2746,436 2924,432 3103,428 3281,424 3459,422 3637,418 3815,418 3994,416"/>
+                <TextEquiv>
+                    <Unicode>Verpflegungsschwierigkeiten, sehe mich daher zu mei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="384,663 1422,754 3502,611 3808,739 4014,675 4014,496 384,512"/>
+                <Baseline points="406,620 585,627 764,634 943,638 1123,640 1302,640 1481,638 1661,636 1840,634 2019,631 2199,628 2378,624 2557,622 2736,620 2916,620 3095,622 3274,624 3454,628 3633,636 3812,644 3992,658"/>
+                <TextEquiv>
+                    <Unicode>nem Bedauern gezwungen zu requirieren, bezahle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="373,870 4076,852 4075,705 3484,610 1369,765 371,660"/>
+                <Baseline points="396,816 578,820 761,822 944,824 1127,824 1310,822 1492,822 1675,819 1858,816 2041,814 2224,810 2406,808 2589,806 2772,802 2955,800 3138,798 3320,798 3503,798 3686,798 3869,800 4052,804"/>
+                <TextEquiv>
+                    <Unicode>aber gut, um d. Schau vor Safari's zu überwinden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="502,1006 3651,985 3802,960 3799,809 500,924"/>
+                <Baseline points="524,994 686,992 849,990 1012,988 1174,986 1337,984 1500,982 1662,978 1825,976 1988,974 2151,971 2313,968 2476,965 2639,962 2801,959 2964,956 3127,952 3289,950 3452,946 3615,942 3778,940"/>
+                <TextEquiv>
+                    <Unicode>25. Juli Ab ½6, ich m. Gewehr voraus, Puduka u. Ngorombwe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="390,1250 3924,1046 3889,951 3377,944 383,1008"/>
+                <Baseline points="410,1167 484,1152 654,1144 825,1136 996,1128 1167,1122 1338,1114 1508,1108 1679,1102 1850,1096 2021,1091 2192,1086 2362,1080 2533,1076 2704,1072 2875,1068 3046,1064 3216,1060 3387,1057 3558,1054 3729,1052 3900,1048"/>
+                <TextEquiv>
+                    <Unicode>gesehen, aber nicht zum Schuß gekommen. Frische Löwenspur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="425,1346 1528,1251 1761,1352 2180,1188 2592,1304 2770,1187 3478,1260 3991,1170 3984,1001 420,1218"/>
+                <Baseline points="444,1306 504,1302 677,1292 850,1280 1023,1271 1197,1260 1370,1250 1543,1240 1717,1231 1890,1221 2063,1214 2237,1206 2410,1198 2583,1192 2756,1186 2930,1181 3103,1177 3276,1174 3450,1172 3623,1170 3796,1172 3970,1172"/>
+                <TextEquiv>
+                    <Unicode>Zu meiner Überraschung u. großen Enttäuschung führte die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="412,1491 3713,1316 3679,1175 2992,1267 2644,1177 407,1377"/>
+                <Baseline points="430,1426 593,1424 756,1421 919,1415 1082,1410 1245,1402 1408,1393 1571,1384 1734,1375 1897,1366 2060,1355 2223,1346 2386,1338 2549,1329 2712,1321 2875,1314 3038,1309 3201,1304 3364,1302 3527,1302 3690,1302"/>
+                <TextEquiv>
+                    <Unicode>barrabarra v. Kilwa nicht auf d. höchsten Grat des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="382,1607 3316,1529 3930,1445 3924,1313 377,1511"/>
+                <Baseline points="402,1578 577,1572 752,1564 927,1557 1102,1550 1278,1542 1453,1535 1628,1528 1803,1520 1978,1511 2154,1504 2329,1495 2504,1486 2679,1478 2854,1470 3030,1461 3205,1452 3380,1442 3555,1433 3730,1424 3906,1414"/>
+                <TextEquiv>
+                    <Unicode>Mbalawala, sondern über den sehr ebenen, ganz zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="372,1743 2042,1737 2242,1607 2855,1705 2973,1593 3870,1575 3932,1449 367,1652"/>
+                <Baseline points="392,1726 568,1714 744,1702 920,1693 1096,1683 1272,1674 1448,1664 1624,1655 1800,1646 1976,1638 2153,1630 2329,1621 2505,1614 2681,1605 2857,1596 3033,1588 3209,1578 3385,1570 3561,1560 3737,1550 3914,1538"/>
+                <TextEquiv>
+                    <Unicode>Schluß sanft zum Abhang hin aufsteigenden Rücken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="439,1886 2473,1742 2720,1840 3262,1693 3647,1793 3908,1606 433,1781"/>
+                <Baseline points="462,1858 633,1848 804,1838 976,1829 1147,1820 1319,1810 1490,1801 1661,1792 1833,1784 2004,1775 2176,1765 2347,1758 2518,1749 2690,1740 2861,1732 3033,1724 3204,1716 3375,1708 3547,1699 3718,1692 3890,1684"/>
+                <TextEquiv>
+                    <Unicode>oder Plateau, dem jener Berg noch - deutlich abgesetzt -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="418,2012 3197,1838 3909,1906 4028,1704 414,1917"/>
+                <Baseline points="438,1990 616,1980 795,1970 973,1960 1152,1950 1331,1941 1509,1932 1688,1923 1866,1913 2045,1906 2224,1896 2402,1888 2581,1880 2759,1872 2938,1865 3117,1858 3295,1851 3474,1844 3652,1838 3831,1832 4010,1826"/>
+                <TextEquiv>
+                    <Unicode>aufsitzt. Da d. Plateau an d. Rändern rote Sandsteine auf„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="425,2126 3719,2010 3932,1972 3925,1826 419,2011"/>
+                <Baseline points="448,2124 620,2109 793,2096 966,2084 1139,2072 1312,2062 1485,2052 1658,2044 1831,2036 2004,2027 2177,2020 2349,2012 2522,2005 2695,1998 2868,1992 3041,1983 3214,1976 3387,1968 3560,1958 3733,1950 3906,1940"/>
+                <TextEquiv>
+                    <Unicode>wies, die ich einstweilen nur für Makonde-Schichten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="402,2345 999,2216 1758,2280 2185,2138 2579,2227 2857,2106 3141,2196 3868,2097 3860,1956 3576,1953 390,2117"/>
+                <Baseline points="418,2256 589,2242 760,2229 931,2217 1102,2206 1274,2194 1445,2184 1616,2176 1787,2165 1958,2158 2130,2150 2301,2140 2472,2134 2643,2124 2814,2116 2986,2108 3157,2099 3328,2089 3499,2079 3670,2068 3842,2058"/>
+                <TextEquiv>
+                    <Unicode>halten kann, wäre ich um so begieriger gewesen, ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="408,2478 1927,2289 4072,2251 4065,2119 2856,2108 401,2341"/>
+                <Baseline points="426,2388 607,2374 788,2363 969,2352 1150,2340 1331,2328 1512,2319 1693,2308 1874,2298 2055,2288 2236,2280 2417,2270 2598,2261 2779,2254 2960,2244 3141,2236 3322,2228 3503,2220 3684,2213 3865,2204 4046,2196"/>
+                <TextEquiv>
+                    <Unicode>Hangendes kennen zu lernen. Außerdem entgingen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="452,2556 2759,2384 2971,2477 3871,2372 3936,2226 445,2446"/>
+                <Baseline points="474,2530 646,2515 818,2502 990,2491 1162,2479 1335,2468 1507,2458 1679,2448 1851,2438 2023,2429 2196,2420 2368,2410 2540,2401 2712,2391 2884,2382 3057,2370 3229,2360 3401,2348 3573,2334 3745,2321 3918,2308"/>
+                <TextEquiv>
+                    <Unicode>mir aber des Pori's wegen alle erhofften Überblicke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="432,2683 3646,2530 3983,2499 3977,2371 426,2578"/>
+                <Baseline points="454,2648 629,2642 804,2637 980,2629 1155,2621 1331,2613 1506,2602 1681,2594 1857,2583 2032,2572 2208,2563 2383,2552 2558,2542 2734,2532 2909,2522 3085,2514 3260,2506 3435,2498 3611,2493 3786,2487 3962,2484"/>
+                <TextEquiv>
+                    <Unicode>über die Berge im Norden u. Osten u. d. Land im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="404,2866 2616,2638 3846,2689 3913,2501 393,2683"/>
+                <Baseline points="422,2790 595,2783 769,2776 943,2766 1117,2756 1291,2746 1464,2734 1638,2722 1812,2710 1986,2698 2160,2686 2333,2675 2507,2664 2681,2652 2855,2642 3029,2632 3202,2624 3376,2617 3550,2612 3724,2608 3898,2604"/>
+                <TextEquiv>
+                    <Unicode>Westen. Das jenseits des Pindiro liegende Plateau (auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887280607_1920" custom="readingOrder {index:18;}">
+                <Coords points="403,2968 2771,2819 2763,2705 2266,2680 1542,2810 1394,2719 394,2845"/>
+                <Baseline points="426,2944 609,2928 792,2912 975,2898 1158,2883 1342,2870 1525,2856 1708,2842 1891,2831 2074,2818 2258,2807 2441,2797 2624,2786 2746,2778"/>
+                <TextEquiv>
+                    <Unicode>d. Karte m. d. Namen eines Flusses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887273268_1913" custom="readingOrder {index:19;}">
+                <Coords points="2706,2761 2733,2758 2767,2735 2791,2742 2807,2721 2838,2708 2872,2727 2921,2712 2936,2724 2959,2721 2949,2635 2885,2643 2855,2623 2802,2644 2787,2632 2757,2649 2742,2641 2692,2647"/>
+                <Baseline points="2722,2716 2814,2711 2901,2695 2935,2695"/>
+                <TextEquiv>
+                    <Unicode>Ruawa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887280607_1919" custom="readingOrder {index:20;}">
+                <Coords points="2721,2757 2959,2742 3124,2849 3234,2771 3479,2811 3559,2761 3621,2814 3701,2769 3854,2822 3934,2754 4112,2746 4107,2646 4010,2613 3835,2690 3723,2644 3583,2692 3438,2620 3372,2669 3005,2658 2948,2711 2720,2716"/>
+                <Baseline points="2746,2778 2807,2775 2990,2766 3174,2757 3357,2749 3540,2740 3723,2733 3906,2726 4090,2718"/>
+                <TextEquiv>
+                    <Unicode>bezeichnet) zeigte gestern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:21;}">
+                <Coords points="452,3118 1269,3011 1620,3112 1971,2956 2494,3028 3254,2883 3448,2981 3963,2870 3955,2751 3124,2850 2956,2742 446,3031"/>
+                <Baseline points="472,3084 645,3063 818,3045 991,3029 1165,3014 1338,2999 1511,2986 1685,2974 1858,2963 2031,2954 2205,2944 2378,2934 2551,2926 2724,2917 2898,2906 3071,2898 3244,2887 3418,2877 3591,2866 3764,2854 3938,2840"/>
+                <TextEquiv>
+                    <Unicode>oben steilere Abstiege als unten, sodaß ich oben härteres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:22;}">
+                <Coords points="425,3293 3945,3037 3939,2868 415,3138"/>
+                <Baseline points="442,3216 616,3204 790,3192 964,3178 1138,3168 1312,3156 1486,3144 1660,3132 1834,3120 2008,3109 2182,3098 2356,3087 2530,3076 2704,3065 2878,3054 3052,3043 3226,3032 3400,3021 3574,3010 3748,2999 3922,2988"/>
+                <TextEquiv>
+                    <Unicode>Gestein annehmen mußte. D. Eingebornen bezeichnen als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:23;}">
+                <Coords points="456,3435 1459,3285 1721,3380 2578,3239 3150,3316 3876,3200 3866,3018 446,3271"/>
+                <Baseline points="474,3382 642,3359 811,3340 980,3322 1149,3306 1318,3294 1486,3281 1655,3271 1824,3262 1993,3255 2162,3247 2330,3240 2499,3234 2668,3227 2837,3220 3006,3211 3174,3203 3343,3192 3512,3180 3681,3166 3850,3150"/>
+                <TextEquiv>
+                    <Unicode>Mbalawala zwei recht scharf getrennte Höhenstufen, haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:24;}">
+                <Coords points="432,3550 3674,3398 4004,3333 3997,3214 424,3418"/>
+                <Baseline points="452,3516 628,3502 804,3490 980,3478 1157,3465 1333,3454 1509,3443 1686,3432 1862,3422 2038,3411 2215,3400 2391,3390 2567,3379 2743,3370 2920,3360 3096,3350 3272,3338 3449,3328 3625,3317 3801,3306 3978,3296"/>
+                <TextEquiv>
+                    <Unicode>dagegen d. Namen Itukuru für ein zwar geologisch Ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:25;}">
+                <Coords points="427,3806 707,3668 1109,3728 1878,3570 2270,3677 3429,3474 3687,3562 3836,3538 3825,3369 410,3555"/>
+                <Baseline points="445,3708 534,3674 697,3664 861,3654 1025,3644 1189,3633 1353,3622 1516,3611 1680,3599 1844,3586 2008,3575 2172,3562 2335,3550 2499,3538 2663,3528 2827,3516 2991,3506 3154,3496 3318,3488 3482,3480 3646,3472 3810,3466"/>
+                <TextEquiv>
+                    <Unicode>schiedenes, mir aber geographisch m. d. unteren Stufe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:26;}">
+                <Coords points="461,3943 756,3820 1843,3839 1969,3730 3929,3725 3918,3538 3344,3512 450,3747"/>
+                <Baseline points="478,3830 649,3821 820,3810 991,3799 1162,3789 1334,3777 1505,3766 1676,3756 1847,3745 2018,3733 2190,3722 2361,3712 2532,3701 2703,3691 2874,3681 3046,3672 3217,3664 3388,3656 3559,3650 3730,3643 3902,3638"/>
+                <TextEquiv>
+                    <Unicode>zusammen gehörig Erscheinendes. Auf d. Plateau fand ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:27;}">
+                <Coords points="494,4025 2868,3825 3126,3944 3733,3820 3776,3681 931,3809 489,3929"/>
+                <Baseline points="513,3980 586,3970 744,3955 903,3942 1061,3928 1220,3916 1379,3904 1537,3894 1696,3884 1854,3874 2013,3865 2172,3857 2330,3850 2489,3842 2647,3836 2806,3830 2965,3824 3123,3818 3282,3812 3440,3808 3599,3804 3758,3800"/>
+                <TextEquiv>
+                    <Unicode>dicht bei einander einige Blöcke von verschiedener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:28;}">
+                <Coords points="436,4235 1434,4041 1654,4140 2278,3987 2947,4092 3192,3970 3911,3977 3905,3854 3597,3818 428,4053"/>
+                <Baseline points="456,4132 627,4115 799,4100 970,4085 1142,4070 1314,4058 1485,4047 1657,4034 1828,4024 2000,4014 2172,4006 2343,3999 2515,3992 2686,3986 2858,3980 3030,3976 3201,3972 3373,3970 3544,3968 3716,3967 3888,3966 4046,3932"/>
+                <TextEquiv>
+                    <Unicode>(ursprünglich bläulicher?) Farbe, d. vielleicht aus d. höheren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:29;}">
+                <Coords points="466,4309 3089,4124 3656,4215 4092,4031 1913,4014 1658,4135 1439,4043 460,4162"/>
+                <Baseline points="488,4280 667,4259 846,4242 1025,4225 1205,4210 1384,4197 1563,4186 1743,4176 1922,4167 2101,4160 2281,4152 2460,4148 2639,4142 2818,4138 2998,4134 3177,4130 3356,4126 3536,4122 3715,4118 3894,4114 4074,4110"/>
+                <TextEquiv>
+                    <Unicode>Aufsatz des Mbalawala stammten, sonst nur sehr feinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:30;}">
+                <Coords points="431,4547 1288,4374 2449,4430 2653,4297 3462,4383 3979,4281 3973,4149 2989,4140 422,4337"/>
+                <Baseline points="450,4416 625,4412 800,4406 975,4400 1151,4390 1326,4381 1501,4371 1677,4360 1852,4348 2027,4338 2203,4328 2378,4317 2553,4306 2728,4298 2904,4292 3079,4284 3254,4280 3430,4278 3605,4278 3780,4280 3956,4286"/>
+                <TextEquiv>
+                    <Unicode>strandartigen weißen bis rötlichen Sand, der d. Gehen ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:31;}">
+                <Coords points="421,4630 4006,4461 4000,4328 3224,4367 3032,4265 2458,4432 413,4448"/>
+                <Baseline points="442,4574 619,4565 796,4556 973,4548 1150,4538 1327,4528 1504,4518 1681,4508 1858,4499 2035,4490 2212,4481 2389,4472 2566,4466 2743,4458 2920,4452 3097,4446 3274,4441 3451,4436 3628,4434 3805,4432 3982,4432"/>
+                <TextEquiv>
+                    <Unicode>wenig erschwerte. Beim Abstieg fand ich unter d. roten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:32;}">
+                <Coords points="439,4759 3662,4693 4089,4634 4083,4470 433,4622"/>
+                <Baseline points="458,4708 638,4704 818,4700 999,4694 1179,4687 1360,4680 1540,4673 1720,4665 1901,4657 2081,4649 2262,4641 2442,4633 2622,4625 2803,4618 2983,4609 3164,4602 3344,4596 3524,4590 3705,4584 3885,4578 4066,4574"/>
+                <TextEquiv>
+                    <Unicode>Sandsteinen, aber durch Terrainstufen u. Täler getrennt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887322062_1931" custom="readingOrder {index:33;}">
+                <Coords points="401,4971 3927,4815 3920,4646 3293,4623 2804,4756 394,4770"/>
+                <Baseline points="422,4876 539,4878 656,4876 773,4876 890,4874 1007,4870 1124,4866 1241,4861 1358,4858 1475,4852 1593,4848 1710,4842 1827,4838 1944,4834 2061,4829 2178,4826 2295,4824 2412,4822 2529,4822 2646,4822 2764,4824 3136,4772 3174,4772 3212,4772 3250,4770 3288,4770 3327,4770 3365,4770 3403,4770 3441,4770 3479,4770 3518,4770 3556,4770 3594,4770 3632,4770 3670,4770 3709,4770 3747,4771 3785,4772 3823,4774 3861,4775 3900,4776"/>
+                <TextEquiv>
+                    <Unicode>also nicht sicher zeitlich einander folgend: Sehr festes, chalce,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>45&#xD;
+Verpflegungsschwierigkeiten, sehe mich daher zu mei„&#xD;
+nem Bedauern gezwungen zu requirieren, bezahle&#xD;
+aber gut, um d. Schau vor Safari's zu überwinden.&#xD;
+25. Juli Ab ½6, ich m. Gewehr voraus, Puduka u. Ngorombwe&#xD;
+gesehen, aber nicht zum Schuß gekommen. Frische Löwenspur.&#xD;
+Zu meiner Überraschung u. großen Enttäuschung führte die&#xD;
+barrabarra v. Kilwa nicht auf d. höchsten Grat des&#xD;
+Mbalawala, sondern über den sehr ebenen, ganz zum&#xD;
+Schluß sanft zum Abhang hin aufsteigenden Rücken&#xD;
+oder Plateau, dem jener Berg noch - deutlich abgesetzt -&#xD;
+aufsitzt. Da d. Plateau an d. Rändern rote Sandsteine auf„&#xD;
+wies, die ich einstweilen nur für Makonde-Schichten&#xD;
+halten kann, wäre ich um so begieriger gewesen, ihr&#xD;
+Hangendes kennen zu lernen. Außerdem entgingen&#xD;
+mir aber des Pori's wegen alle erhofften Überblicke&#xD;
+über die Berge im Norden u. Osten u. d. Land im&#xD;
+Westen. Das jenseits des Pindiro liegende Plateau (auf&#xD;
+d. Karte m. d. Namen eines Flusses&#xD;
+Ruawa&#xD;
+bezeichnet) zeigte gestern&#xD;
+oben steilere Abstiege als unten, sodaß ich oben härteres&#xD;
+Gestein annehmen mußte. D. Eingebornen bezeichnen als&#xD;
+Mbalawala zwei recht scharf getrennte Höhenstufen, haben&#xD;
+dagegen d. Namen Itukuru für ein zwar geologisch Ver„&#xD;
+schiedenes, mir aber geographisch m. d. unteren Stufe&#xD;
+zusammen gehörig Erscheinendes. Auf d. Plateau fand ich&#xD;
+dicht bei einander einige Blöcke von verschiedener&#xD;
+(ursprünglich bläulicher?) Farbe, d. vielleicht aus d. höheren&#xD;
+Aufsatz des Mbalawala stammten, sonst nur sehr feinen&#xD;
+strandartigen weißen bis rötlichen Sand, der d. Gehen ein&#xD;
+wenig erschwerte. Beim Abstieg fand ich unter d. roten&#xD;
+Sandsteinen, aber durch Terrainstufen u. Täler getrennt&#xD;
+also nicht sicher zeitlich einander folgend: Sehr festes, chalce,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:14.419+02:00</Created>
+        <LastChange>2020-03-04T14:20:10.642+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581487" pageNr="39" tsid="24792142" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=SPELWGHOYBQDKKRXDTVVWLGK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MHQHSUDAHOSLJMZCPFGNTQWH" imageId="4579376"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_39.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255750096" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r8"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r8" custom="readingOrder {index:0;}">
+            <Coords points="307,257 307,4559 3998,4559 3998,257"/>
+            <TextLine id="r8l1" custom="readingOrder {index:0;}">
+                <Coords points="3708,364 3731,364 3766,341 3820,341 3834,354 3852,350 3870,359 3906,354 3905,242 3847,247 3829,238 3797,256 3775,243 3707,239"/>
+                <Baseline points="3729,325 3754,330 3780,330 3806,328 3832,325 3858,326 3884,332"/>
+                <TextEquiv>
+                    <Unicode>37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l2" custom="readingOrder {index:1;}">
+                <Coords points="300,769 1888,718 2475,811 2633,714 3517,747 3598,644 1436,634 1145,537 592,632 301,536"/>
+                <Baseline points="321,701 420,688 577,690 735,692 893,694 1050,696 1208,698 1366,700 1523,701 1681,703 1839,704 1997,706 2154,707 2312,708 2470,709 2627,709 2785,710 2943,710 3100,710 3258,710 3416,710 3574,709"/>
+                <TextEquiv>
+                    <Unicode>bereits am Tage nach d. Abreise sich zu melden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l3" custom="readingOrder {index:2;}">
+                <Coords points="417,918 879,907 974,987 1076,892 1494,868 2607,966 2606,737 2261,846 1677,741 1570,827 708,750 417,806"/>
+                <Baseline points="441,897 548,896 655,895 762,894 869,892 977,891 1084,890 1191,888 1298,887 1405,886 1513,885 1620,884 1727,884 1834,883 1941,883 2049,884 2156,884 2263,886 2370,887 2477,889 2585,892"/>
+                <TextEquiv>
+                    <Unicode>5 Oct. Kurz vor 12 Äquator passiert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815016299_662" custom="readingOrder {index:3;}">
+                <Coords points="402,1056 1381,1148 3179,1024 3583,1124 3937,1027 3936,897 401,944"/>
+                <Baseline points="426,1041 497,1040 569,1039 640,1039 712,1039 784,1039 855,1038 927,1038 999,1038 1070,1038 1142,1038 1214,1037 1285,1036 1357,1036 1429,1035 1500,1033 1572,1032 1644,1029 1715,1027 1787,1025 1859,1021 1886,1038 1987,1040 2089,1041 2190,1041 2292,1041 2393,1039 2495,1038 2596,1035 2698,1033 2799,1030 2901,1028 3002,1025 3104,1023 3205,1020 3307,1018 3408,1017 3510,1016 3611,1016 3713,1016 3814,1017 3916,1020"/>
+                <TextEquiv>
+                    <Unicode>6 Oct. Gelesen: Lily Braun „Memoiren einer Sozialistin“.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l6" custom="readingOrder {index:4;}">
+                <Coords points="321,1194 3825,1267 3825,1092 2883,1036 321,1113"/>
+                <Baseline points="345,1180 527,1180 709,1180 891,1179 1073,1179 1255,1178 1437,1177 1619,1177 1801,1176 1983,1176 2165,1176 2347,1176 2529,1176 2711,1177 2893,1178 3075,1180 3257,1182 3439,1184 3621,1187 3804,1191"/>
+                <TextEquiv>
+                    <Unicode>Hatte mir mehr darunter vorgestellt. Aber wieder ein„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l7" custom="readingOrder {index:5;}">
+                <Coords points="352,1360 2833,1315 3694,1429 3968,1398 3968,1250 1209,1173 352,1297"/>
+                <Baseline points="375,1331 553,1326 731,1322 910,1319 1088,1317 1267,1316 1445,1316 1624,1316 1802,1317 1981,1319 2159,1320 2337,1322 2516,1323 2694,1325 2873,1326 3051,1327 3230,1327 3408,1327 3587,1326 3765,1323 3944,1320"/>
+                <TextEquiv>
+                    <Unicode>mal ein Blick in die edle Seite dieses Ringens, wofür</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l8" custom="readingOrder {index:6;}">
+                <Coords points="337,1478 975,1454 1328,1568 1755,1459 2433,1476 2616,1571 2886,1492 2801,1352 2007,1406 1505,1323 1069,1410 836,1319 338,1402"/>
+                <Baseline points="360,1469 485,1464 610,1460 735,1457 860,1455 986,1453 1111,1452 1236,1452 1361,1453 1486,1453 1612,1454 1737,1456 1862,1458 1987,1460 2112,1462 2238,1464 2363,1466 2488,1469 2613,1470 2738,1472 2864,1473"/>
+                <TextEquiv>
+                    <Unicode>mir Mama Verständnis erweckt hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l9" custom="readingOrder {index:7;}">
+                <Coords points="433,1605 3874,1636 3874,1515 3560,1471 433,1525"/>
+                <Baseline points="457,1594 626,1596 796,1597 966,1598 1136,1598 1306,1597 1475,1597 1645,1596 1815,1594 1985,1593 2155,1592 2324,1591 2494,1590 2664,1589 2834,1589 3004,1590 3173,1590 3343,1592 3513,1594 3683,1597 3853,1601"/>
+                <TextEquiv>
+                    <Unicode>Wie man hier im Ozean lebt, den vor 30 Jahren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l10" custom="readingOrder {index:8;}">
+                <Coords points="337,1761 1131,1838 1323,1720 1477,1832 1646,1710 1992,1717 2499,1831 2916,1730 3065,1828 3190,1724 3455,1772 3454,1601 336,1631"/>
+                <Baseline points="359,1738 512,1736 666,1733 819,1730 973,1727 1127,1724 1280,1722 1434,1719 1587,1718 1741,1716 1895,1714 2048,1713 2202,1713 2355,1712 2509,1713 2663,1714 2816,1715 2970,1718 3123,1720 3277,1724 3431,1728"/>
+                <TextEquiv>
+                    <Unicode>kaum ein Schiff befuhr: abends Schach im Kaffee!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l11" custom="readingOrder {index:9;}">
+                <Coords points="411,1959 3991,1950 3990,1798 3865,1776 410,1766"/>
+                <Baseline points="434,1904 610,1898 787,1892 963,1888 1140,1885 1317,1882 1493,1881 1670,1879 1847,1878 2023,1878 2200,1878 2377,1878 2553,1879 2730,1879 2907,1880 3083,1881 3260,1881 3437,1881 3613,1881 3790,1881 3967,1880"/>
+                <TextEquiv>
+                    <Unicode>7 Oct. Morgens Kap Guardafui. Noch eine Küste, an der richtige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l12" custom="readingOrder {index:10;}">
+                <Coords points="345,2069 3786,2069 3726,1881 344,1970"/>
+                <Baseline points="369,2037 538,2032 708,2028 878,2024 1048,2021 1218,2018 1387,2016 1557,2014 1727,2013 1897,2012 2067,2011 2236,2010 2406,2009 2576,2008 2746,2006 2916,2005 3085,2003 3255,2001 3425,1998 3595,1995 3765,1991"/>
+                <TextEquiv>
+                    <Unicode>Wilde leben. Delphine, Haie. O könnte man all das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l13" custom="readingOrder {index:11;}">
+                <Coords points="390,2196 3840,2227 3840,2124 3536,2041 3042,2016 2799,2117 2338,2020 1781,2120 391,2062"/>
+                <Baseline points="412,2153 582,2156 752,2159 922,2161 1092,2163 1263,2164 1433,2166 1603,2167 1773,2168 1943,2169 2114,2170 2284,2171 2454,2172 2624,2173 2794,2173 2965,2174 3135,2175 3305,2175 3475,2176 3645,2177 3816,2178"/>
+                <TextEquiv>
+                    <Unicode>Tierleben beobachten, über das wir hinschweben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815026072_667" custom="readingOrder {index:12;}">
+                <Coords points="394,2394 991,2287 1237,2401 3718,2367 3746,2237 395,2193"/>
+                <Baseline points="415,2297 450,2295 486,2293 522,2291 558,2289 593,2287 629,2285 665,2284 701,2283 736,2282 772,2281 808,2281 844,2280 879,2280 915,2281 951,2281 987,2281 1022,2282 1058,2284 1094,2285 1130,2287 1151,2300 1218,2300 1285,2300 1352,2300 1420,2300 1487,2299 1554,2299 1621,2298 1689,2297 1756,2296 1823,2295 1890,2294 1958,2293 2025,2292 2092,2292 2159,2291 2227,2290 2294,2290 2361,2289 2428,2289 2496,2289 2522,2302 2582,2301 2642,2301 2702,2302 2762,2302 2822,2303 2882,2305 2942,2306 3002,2307 3062,2308 3123,2310 3183,2311 3243,2312 3303,2313 3363,2313 3423,2313 3483,2312 3543,2311 3603,2310 3663,2307 3724,2304"/>
+                <TextEquiv>
+                    <Unicode>Gestern abend 11 Uhr, als ich schon schlief, passierten wir den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l17" custom="readingOrder {index:13;}">
+                <Coords points="389,2479 3624,2526 3808,2492 3809,2357 390,2394"/>
+                <Baseline points="414,2448 582,2448 751,2448 919,2448 1088,2449 1256,2451 1425,2453 1593,2455 1762,2457 1930,2460 2099,2462 2268,2464 2436,2466 2605,2467 2773,2469 2942,2469 3110,2469 3279,2469 3447,2467 3616,2465 3785,2462"/>
+                <TextEquiv>
+                    <Unicode>„General“ auf d. Ausreise. An Bord Sattler, Dr. Wolff m. Frau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l18" custom="readingOrder {index:14;}">
+                <Coords points="393,2620 3950,2637 3520,2493 393,2499"/>
+                <Baseline points="417,2599 592,2598 768,2597 943,2596 1119,2595 1294,2594 1470,2594 1645,2593 1821,2593 1996,2592 2172,2592 2347,2592 2523,2593 2698,2593 2874,2594 3049,2595 3225,2596 3400,2598 3576,2599 3751,2601 3927,2604"/>
+                <TextEquiv>
+                    <Unicode>u. Horwitz als Schiffsarzt. Hatte m. Sattler drahtlose Telegramme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l19" custom="readingOrder {index:15;}">
+                <Coords points="426,2830 3714,2817 3934,2682 425,2655"/>
+                <Baseline points="450,2733 623,2733 796,2734 969,2734 1142,2733 1315,2733 1488,2733 1661,2733 1834,2733 2007,2732 2180,2732 2353,2732 2526,2731 2699,2731 2872,2730 3045,2730 3218,2730 3391,2730 3564,2730 3737,2730 3910,2730"/>
+                <TextEquiv>
+                    <Unicode>gewechselt, Verbindung seit vorgestern abend, als General im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l20" custom="readingOrder {index:16;}">
+                <Coords points="400,2938 3393,2955 3989,2914 3989,2793 400,2826"/>
+                <Baseline points="425,2893 602,2892 779,2890 956,2889 1133,2889 1310,2888 1487,2887 1665,2887 1842,2887 2019,2887 2196,2887 2373,2887 2550,2887 2727,2887 2905,2887 3082,2888 3259,2888 3436,2889 3613,2889 3790,2890 3968,2890"/>
+                <TextEquiv>
+                    <Unicode>Suez lag. Dann zeitweilig unterbrochen, während er unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l21" custom="readingOrder {index:17;}">
+                <Coords points="412,3073 3880,3095 3880,2965 3669,2920 412,2938"/>
+                <Baseline points="435,3034 606,3035 777,3035 948,3036 1119,3036 1290,3036 1461,3037 1632,3037 1803,3037 1974,3037 2145,3037 2316,3037 2487,3037 2658,3036 2829,3036 3000,3035 3171,3034 3342,3033 3513,3032 3684,3030 3856,3028"/>
+                <TextEquiv>
+                    <Unicode>der Nordküste des Kaps hinfuhr. Ließ mir Anlage zeigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l22" custom="readingOrder {index:18;}">
+                <Coords points="419,3178 1020,3212 1145,3167 1535,3267 1841,3174 2029,3233 2173,3180 2173,3072 2061,3135 1918,3036 1715,3129 419,3061"/>
+                <Baseline points="441,3166 526,3167 611,3167 697,3167 782,3167 868,3167 953,3167 1039,3167 1124,3167 1210,3167 1295,3168 1380,3168 1466,3168 1551,3168 1637,3169 1722,3169 1808,3170 1893,3171 1979,3172 2064,3174 2150,3175"/>
+                <TextEquiv>
+                    <Unicode>Morgens ein wenig Regen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l23" custom="readingOrder {index:19;} textStyle {offset:0; length:17;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="424,3361 4022,3417 4023,3224 3789,3201 2111,3310 1856,3175 1699,3292 425,3213"/>
+                <Baseline points="447,3345 624,3345 802,3346 979,3346 1157,3347 1334,3347 1512,3347 1689,3348 1867,3348 2044,3348 2222,3348 2400,3349 2577,3349 2755,3349 2932,3350 3110,3350 3287,3350 3465,3351 3642,3351 3820,3352 3998,3352"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 8 Oct. Morgens Aden in Sicht, sowie 2 Dampfer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l24" custom="readingOrder {index:20;}">
+                <Coords points="335,3547 3646,3518 3421,3389 334,3413"/>
+                <Baseline points="359,3507 522,3508 685,3508 848,3508 1012,3507 1175,3506 1338,3505 1501,3504 1665,3502 1828,3500 1991,3499 2154,3497 2318,3496 2481,3495 2644,3494 2807,3494 2971,3494 3134,3495 3297,3497 3460,3499 3624,3502"/>
+                <TextEquiv>
+                    <Unicode>darunter ein Bremer Lloyd, der sich schon gestern drahtlos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l25" custom="readingOrder {index:21;}">
+                <Coords points="364,3738 948,3642 3963,3705 3869,3539 3106,3604 2909,3486 2644,3602 2263,3507 365,3572"/>
+                <Baseline points="385,3642 562,3642 740,3642 918,3641 1096,3642 1274,3642 1451,3642 1629,3642 1807,3643 1985,3643 2163,3644 2340,3644 2518,3645 2696,3646 2874,3647 3052,3648 3229,3649 3407,3650 3585,3651 3763,3652 3941,3654"/>
+                <TextEquiv>
+                    <Unicode>gemeldet hatte, der andre d. kl. Kreuzer „Geyer“, der nach Mada-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l26" custom="readingOrder {index:22;} textStyle {offset:52; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="405,3846 2500,3769 3621,3884 3913,3848 3913,3691 405,3715"/>
+                <Baseline points="425,3777 598,3776 771,3776 945,3775 1118,3774 1291,3773 1465,3772 1638,3771 1811,3770 1985,3769 2158,3769 2331,3769 2505,3769 2678,3770 2851,3771 3025,3773 3198,3775 3371,3778 3545,3782 3718,3787 3892,3793"/>
+                <TextEquiv>
+                    <Unicode>gaskar fahren sollte u. nun plötzlich hier auftaucht, nach offen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l27" custom="readingOrder {index:23;}">
+                <Coords points="361,3958 3496,4048 3806,3964 3806,3843 774,3888 491,3784 361,3887"/>
+                <Baseline points="384,3927 562,3929 741,3930 920,3931 1099,3932 1278,3933 1457,3933 1636,3934 1815,3934 1994,3934 2172,3935 2351,3935 2530,3935 2709,3936 2888,3937 3067,3938 3246,3940 3425,3941 3604,3944 3783,3946"/>
+                <TextEquiv>
+                    <Unicode>bar starker Fahrt, da er bei unsrer Abreise im Daressal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l28" custom="readingOrder {index:24;}">
+                <Coords points="317,4155 3951,4119 3803,3984 3045,3952 318,4007"/>
+                <Baseline points="341,4092 520,4089 699,4085 879,4082 1058,4079 1238,4076 1417,4074 1596,4071 1776,4070 1955,4068 2135,4067 2314,4067 2493,4068 2673,4069 2852,4071 3032,4074 3211,4079 3390,4084 3570,4090 3749,4097 3929,4106"/>
+                <TextEquiv>
+                    <Unicode>Hafen lag. Allerlei Gerüchte. So liefen 3 deutsche Dampfer im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l29" custom="readingOrder {index:25;}">
+                <Coords points="286,4298 3489,4330 3843,4272 3843,4142 286,4145"/>
+                <Baseline points="307,4232 482,4233 658,4233 834,4233 1009,4233 1185,4233 1361,4233 1536,4232 1712,4232 1888,4232 2064,4232 2239,4232 2415,4232 2591,4232 2766,4232 2942,4232 3118,4233 3293,4233 3469,4234 3645,4235 3821,4236"/>
+                <TextEquiv>
+                    <Unicode>Hafen ein. Aufenthalt nur von 11-3, daher unter Verzicht des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l30" custom="readingOrder {index:26;}">
+                <Coords points="318,4407 3570,4440 3907,4288 318,4294"/>
+                <Baseline points="339,4360 516,4358 693,4357 870,4356 1047,4355 1225,4354 1402,4353 1579,4353 1756,4353 1933,4353 2111,4354 2288,4354 2465,4355 2642,4356 2819,4358 2997,4360 3174,4361 3351,4364 3528,4366 3705,4369 3883,4372"/>
+                <TextEquiv>
+                    <Unicode>Mittagsessens mit einem Hrn. von Bord an Land u. zu d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l31" custom="readingOrder {index:27;}">
+                <Coords points="336,4539 3306,4624 3839,4565 3839,4403 335,4445"/>
+                <Baseline points="359,4525 531,4525 704,4525 877,4524 1050,4523 1223,4522 1396,4522 1568,4521 1741,4520 1914,4519 2087,4519 2260,4518 2433,4518 2606,4518 2778,4517 2951,4518 3124,4518 3297,4519 3470,4520 3643,4521 3816,4523"/>
+                <TextEquiv>
+                    <Unicode>alten Wasserstauwerken bei d. Stadt nördl. v. Hafenort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>37&#xD;
+bereits am Tage nach d. Abreise sich zu melden.&#xD;
+5 Oct. Kurz vor 12 Äquator passiert.&#xD;
+6 Oct. Gelesen: Lily Braun „Memoiren einer Sozialistin“.&#xD;
+Hatte mir mehr darunter vorgestellt. Aber wieder ein„&#xD;
+mal ein Blick in die edle Seite dieses Ringens, wofür&#xD;
+mir Mama Verständnis erweckt hat.&#xD;
+Wie man hier im Ozean lebt, den vor 30 Jahren&#xD;
+kaum ein Schiff befuhr: abends Schach im Kaffee!&#xD;
+7 Oct. Morgens Kap Guardafui. Noch eine Küste, an der richtige&#xD;
+Wilde leben. Delphine, Haie. O könnte man all das&#xD;
+Tierleben beobachten, über das wir hinschweben.&#xD;
+Gestern abend 11 Uhr, als ich schon schlief, passierten wir den&#xD;
+„General“ auf d. Ausreise. An Bord Sattler, Dr. Wolff m. Frau&#xD;
+u. Horwitz als Schiffsarzt. Hatte m. Sattler drahtlose Telegramme&#xD;
+gewechselt, Verbindung seit vorgestern abend, als General im&#xD;
+Suez lag. Dann zeitweilig unterbrochen, während er unter&#xD;
+der Nordküste des Kaps hinfuhr. Ließ mir Anlage zeigen.&#xD;
+Morgens ein wenig Regen.&#xD;
+Sonntag d. 8 Oct. Morgens Aden in Sicht, sowie 2 Dampfer,&#xD;
+darunter ein Bremer Lloyd, der sich schon gestern drahtlos&#xD;
+gemeldet hatte, der andre d. kl. Kreuzer „Geyer“, der nach Mada-&#xD;
+gaskar fahren sollte u. nun plötzlich hier auftaucht, nach offen„&#xD;
+bar starker Fahrt, da er bei unsrer Abreise im Daressal.&#xD;
+Hafen lag. Allerlei Gerüchte. So liefen 3 deutsche Dampfer im&#xD;
+Hafen ein. Aufenthalt nur von 11-3, daher unter Verzicht des&#xD;
+Mittagsessens mit einem Hrn. von Bord an Land u. zu d.&#xD;
+alten Wasserstauwerken bei d. Stadt nördl. v. Hafenort</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

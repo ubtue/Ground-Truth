@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:54.928+02:00</Created>
+        <LastChange>2020-03-19T08:11:50.206+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550738" pageNr="40" tsid="25846636" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=MKFPYURLXOWQCEUNYUNOFFYH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HDRDELDYGTTOPKNCERUXKEMA" imageId="4551616"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_040.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255542596" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582885106898_1620"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582885106898_1620" custom="readingOrder {index:0;}">
+            <Coords points="378,266 519,266 4023,341 4023,4981 433,4981 378,424"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="358,387 407,393 425,410 455,390 510,414 545,408 536,249 505,255 455,222 398,243 370,218 348,219"/>
+                <Baseline points="378,374 406,372 434,371 462,368 490,368 519,366"/>
+                <TextEquiv>
+                    <Unicode>36</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="496,529 3980,457 3930,325 3399,239 3043,345 2286,243 495,396"/>
+                <Baseline points="518,463 699,459 880,454 1061,449 1242,444 1423,440 1604,434 1785,430 1966,425 2147,421 2328,418 2509,416 2690,414 2871,413 3052,414 3233,416 3414,419 3595,423 3776,429 3957,437"/>
+                <TextEquiv>
+                    <Unicode>in einander verschlungene Bäume, d. Wurzeln d. einen, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="483,672 4029,602 3138,431 482,571"/>
+                <Baseline points="506,628 681,621 856,615 1031,609 1206,602 1381,595 1556,589 1731,583 1906,578 2081,573 2256,569 2431,565 2606,562 2781,561 2956,560 3131,561 3306,563 3481,566 3656,571 3831,577 4006,585"/>
+                <TextEquiv>
+                    <Unicode>wie eine Ulme d. Tiergartens aussah, hatten den andern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="465,813 2447,734 2644,821 3016,704 3628,806 3935,717 3932,607 462,711"/>
+                <Baseline points="487,776 658,774 829,771 1000,768 1172,763 1343,759 1514,754 1686,749 1857,744 2028,737 2200,732 2371,726 2542,720 2713,715 2885,709 3056,704 3227,700 3399,696 3570,693 3741,691 3913,689"/>
+                <TextEquiv>
+                    <Unicode>am Wurzeln u. Unterstamm bis zu beträchtlicher Höhe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="468,961 3807,934 3801,691 3605,815 1373,755 466,855"/>
+                <Baseline points="491,922 655,919 820,916 984,913 1149,909 1313,904 1478,900 1642,895 1807,890 1971,885 2136,881 2301,876 2465,872 2630,868 2794,865 2959,862 3123,860 3288,858 3452,857 3617,857 3782,857"/>
+                <TextEquiv>
+                    <Unicode>in wirrem Netzwerk fest umklammert, um erst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="505,1146 3859,1021 3811,912 2891,871 2409,992 825,941 502,1040"/>
+                <Baseline points="527,1086 692,1084 858,1081 1023,1077 1189,1073 1354,1068 1520,1063 1685,1057 1851,1051 2016,1045 2182,1039 2348,1033 2513,1026 2679,1021 2844,1015 3010,1010 3175,1005 3341,1001 3506,997 3672,994 3838,992"/>
+                <TextEquiv>
+                    <Unicode>dort oben ihrerseits in den gleich kräftigen Stamm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="478,1280 650,1269 774,1345 1044,1342 1204,1283 1308,1321 1299,1167 1166,1171 1111,1134 873,1153 839,1182 699,1133 470,1148"/>
+                <Baseline points="500,1261 539,1261 578,1259 617,1257 656,1256 695,1254 734,1252 773,1249 812,1246 851,1244 890,1240 929,1237 968,1235 1007,1232 1046,1230 1085,1227 1124,1225 1163,1222 1202,1221 1241,1219 1280,1218"/>
+                <TextEquiv>
+                    <Unicode>überzugehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582885113465_1625" custom="readingOrder {index:7;}">
+                <Coords points="770,1772 1897,1625 2482,1706 3876,1609 3872,1472 3500,1443 2275,1562 2029,1449 1569,1586 1309,1470 762,1476"/>
+                <Baseline points="788,1683 814,1680 840,1678 866,1675 892,1674 919,1673 945,1672 971,1672 997,1672 1024,1672 1050,1672 1076,1672 1102,1673 1129,1673 1155,1673 1181,1673 1207,1673 1234,1672 1253,1654 1383,1651 1513,1648 1643,1644 1773,1641 1903,1637 2033,1633 2163,1629 2293,1625 2423,1621 2553,1617 2683,1614 2813,1610 2943,1607 3073,1604 3203,1602 3333,1600 3463,1599 3593,1598 3723,1598 3853,1599"/>
+                <TextEquiv>
+                    <Unicode>9. Juli: Nachm. m. Dr. Janensch östl. d. Lagers in's Pori zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="561,1896 1370,1811 1742,1921 1949,1802 3070,1762 3197,1850 3392,1741 3541,1837 3840,1776 3834,1626 2295,1718 1894,1627 557,1795"/>
+                <Baseline points="580,1861 741,1849 903,1838 1065,1827 1227,1817 1389,1807 1551,1798 1712,1790 1874,1783 2036,1775 2198,1769 2360,1763 2522,1758 2684,1753 2845,1749 3007,1745 3169,1741 3331,1738 3493,1736 3655,1734 3817,1732"/>
+                <TextEquiv>
+                    <Unicode>einer neuen Wasserstelle (Oberlauf des Mtapa) hinab. Perl„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="566,2047 1786,1949 2073,2041 2783,1895 3097,2012 3534,1881 3987,1948 3876,1797 3065,1761 561,1906"/>
+                <Baseline points="588,1999 756,1990 925,1981 1093,1972 1262,1962 1431,1953 1599,1945 1768,1936 1937,1928 2105,1921 2274,1913 2443,1906 2611,1900 2780,1895 2949,1890 3117,1887 3286,1884 3455,1883 3623,1882 3792,1883 3961,1885"/>
+                <TextEquiv>
+                    <Unicode>hühner, aber nicht zum Schuß gekommen. Auch hier wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="580,2215 810,2238 897,2204 938,2229 1153,2177 1230,2121 1338,2152 1399,2132 1395,2040 1284,2017 1143,2040 1044,1986 950,2073 878,2032 756,2081 652,2022 614,2059 574,2052"/>
+                <Baseline points="601,2134 639,2131 678,2129 717,2127 756,2124 795,2122 833,2120 872,2118 911,2117 950,2115 989,2114 1027,2112 1066,2111 1105,2110 1144,2109 1183,2108 1221,2108 1260,2107 1299,2106 1338,2106 1377,2105"/>
+                <TextEquiv>
+                    <Unicode>Knochenfunde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="656,2370 3354,2316 3825,2267 3821,2143 2480,2093 1633,2258 651,2229"/>
+                <Baseline points="678,2353 834,2345 990,2337 1146,2329 1303,2321 1459,2312 1615,2304 1771,2295 1928,2287 2084,2279 2240,2271 2396,2265 2553,2258 2709,2253 2865,2249 3021,2245 3178,2243 3334,2243 3490,2243 3646,2245 3803,2249"/>
+                <TextEquiv>
+                    <Unicode>10. Juli: Als ich von d. Arbeitsstelle im Norden zurück„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="516,2545 3491,2453 3776,2396 3772,2303 2532,2261 512,2462"/>
+                <Baseline points="537,2509 697,2502 858,2494 1019,2485 1180,2476 1341,2466 1501,2456 1662,2447 1823,2436 1984,2427 2145,2418 2305,2409 2466,2402 2627,2395 2788,2390 2949,2385 3109,2382 3270,2380 3431,2381 3592,2383 3753,2387"/>
+                <TextEquiv>
+                    <Unicode>kehrte, fand ich eine größere Safari vor u. dachte zu„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="515,2686 722,2774 2530,2574 2742,2666 3050,2545 3754,2557 3792,2435 511,2607"/>
+                <Baseline points="536,2673 706,2660 876,2649 1047,2638 1217,2628 1388,2617 1558,2609 1729,2600 1899,2591 2070,2584 2240,2577 2411,2569 2581,2562 2752,2555 2922,2549 3093,2542 3263,2536 3434,2529 3604,2522 3775,2515"/>
+                <TextEquiv>
+                    <Unicode>nächst am Hauptmann Baumstark u. Gemahlin, da wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="505,2947 831,2820 2396,2731 2547,2835 2824,2715 3725,2791 3843,2763 3834,2565 497,2779"/>
+                <Baseline points="523,2845 687,2832 852,2820 1017,2808 1182,2796 1347,2784 1511,2773 1676,2763 1841,2752 2006,2743 2171,2734 2335,2726 2500,2718 2665,2712 2830,2706 2995,2701 3159,2697 3324,2695 3489,2693 3654,2692 3819,2693"/>
+                <TextEquiv>
+                    <Unicode>sonst niemand wußten, der uns hier aufsuchen würde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="517,3054 1260,2958 1560,3051 2446,2887 3307,2867 3444,2962 3727,2857 3535,2728 512,2934"/>
+                <Baseline points="536,2990 694,2979 852,2968 1011,2958 1169,2949 1328,2940 1486,2932 1645,2924 1803,2917 1962,2909 2120,2902 2278,2896 2437,2889 2595,2883 2754,2877 2912,2871 3071,2865 3229,2860 3388,2854 3546,2849 3705,2843"/>
+                <TextEquiv>
+                    <Unicode>Dr. J. stellte mich Herrn u. Fr. v. Eckenbrecher u. Hrn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="490,3195 2169,3079 2332,3173 2750,3029 3165,3120 3922,3044 3915,2889 484,3085"/>
+                <Baseline points="510,3156 679,3150 848,3142 1018,3134 1187,3125 1357,3115 1526,3106 1696,3096 1865,3087 2035,3077 2204,3067 2373,3057 2543,3048 2712,3041 2882,3033 3051,3027 3221,3021 3390,3016 3560,3013 3729,3011 3899,3011"/>
+                <TextEquiv>
+                    <Unicode>von Poremsky vor, die eine Jagdreise durch den Süden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="485,3361 3558,3171 3685,3263 4005,3192 4001,3090 2735,3047 2360,3170 480,3237"/>
+                <Baseline points="503,3309 676,3299 850,3289 1024,3279 1198,3270 1372,3261 1546,3252 1720,3245 1894,3236 2068,3228 2242,3221 2415,3214 2589,3207 2763,3200 2937,3194 3111,3188 3285,3181 3459,3175 3633,3169 3807,3163 3981,3157"/>
+                <TextEquiv>
+                    <Unicode>machen. Wir zeigten unsere zoolog. Garten, das Knochenmuseum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="515,3495 1839,3364 3230,3414 3358,3307 3851,3359 3960,3235 508,3350"/>
+                <Baseline points="537,3455 707,3443 877,3431 1047,3421 1217,3410 1388,3401 1558,3391 1728,3382 1898,3373 2068,3364 2239,3357 2409,3349 2579,3342 2749,3335 2919,3329 3090,3323 3260,3317 3430,3311 3600,3306 3770,3301 3941,3296"/>
+                <TextEquiv>
+                    <Unicode>u. d. Fundstellen u. bewirteten sie zu Mittag. Man hatte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="523,3633 1131,3678 1730,3528 1995,3627 2578,3505 2952,3586 3212,3464 3588,3559 3920,3483 3916,3372 518,3518"/>
+                <Baseline points="542,3593 709,3585 877,3578 1045,3571 1213,3563 1381,3556 1549,3548 1716,3540 1884,3533 2052,3525 2220,3518 2388,3510 2556,3503 2724,3496 2891,3489 3059,3482 3227,3475 3395,3469 3563,3463 3731,3457 3899,3451"/>
+                <TextEquiv>
+                    <Unicode>2 alte verfossilisierte Professoren erwartet; in Lindi scheint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="524,3814 1266,3698 1500,3803 1959,3672 2587,3782 2802,3649 3662,3696 3897,3632 3892,3500 1992,3627 1727,3532 1101,3679 691,3599 519,3713"/>
+                <Baseline points="544,3757 710,3743 877,3730 1043,3719 1210,3708 1376,3699 1543,3690 1709,3683 1876,3675 2042,3669 2209,3662 2376,3656 2542,3651 2709,3645 2875,3639 3042,3633 3208,3627 3375,3621 3541,3613 3708,3606 3875,3597"/>
+                <TextEquiv>
+                    <Unicode>also von uns nicht viel d. Rede zu sein. Gegen 3 zogen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="487,3992 2924,3800 3189,3924 3915,3855 3910,3687 2829,3750 2653,3632 481,3819"/>
+                <Baseline points="507,3903 676,3890 845,3878 1014,3869 1183,3859 1353,3850 1522,3842 1691,3835 1860,3828 2029,3822 2199,3818 2368,3812 2537,3808 2706,3804 2875,3800 3045,3797 3214,3794 3383,3791 3552,3788 3721,3785 3891,3782"/>
+                <TextEquiv>
+                    <Unicode>sie, von uns ein Stück geleitet, weiter nach Nanundo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="787,4161 1009,4178 1087,4134 1309,4164 1412,4098 1560,4140 1681,4082 1674,3927 1612,3926 1562,3977 1481,3962 1389,3882 1335,3942 1188,3935 1116,3987 959,3937 911,3970 778,3944"/>
+                <Baseline points="805,4061 847,4064 890,4066 932,4066 975,4065 1018,4063 1060,4061 1103,4058 1146,4055 1188,4051 1231,4048 1274,4045 1316,4041 1359,4038 1402,4036 1444,4035 1487,4035 1530,4035 1572,4038 1615,4040 1658,4046"/>
+                <TextEquiv>
+                    <Unicode>Poscho-Zahlung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;} textStyle {offset:0; length:20;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="530,4403 3923,4246 3914,4043 3757,3992 2197,4193 519,4125"/>
+                <Baseline points="549,4309 716,4302 883,4295 1051,4287 1218,4280 1386,4274 1553,4267 1721,4259 1888,4253 2056,4246 2223,4239 2390,4232 2558,4225 2725,4218 2893,4212 3060,4205 3228,4198 3395,4192 3563,4185 3730,4177 3898,4171"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 11. Juli: Heut waren wir Gäste der Eckenbr.'s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="411,4525 3902,4379 3897,4282 3399,4233 1662,4416 404,4375"/>
+                <Baseline points="433,4510 605,4507 777,4503 949,4497 1121,4490 1294,4481 1466,4473 1638,4463 1810,4453 1982,4442 2155,4431 2327,4421 2499,4410 2671,4400 2843,4390 3016,4381 3188,4374 3360,4367 3532,4362 3704,4358 3877,4356"/>
+                <TextEquiv>
+                    <Unicode>in Nanundo u. zogen schon um ½7 dorthin ab. Unter„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="471,4703 1617,4721 2157,4570 2322,4685 2688,4565 3235,4640 3860,4577 3853,4436 463,4562"/>
+                <Baseline points="490,4664 657,4657 824,4650 991,4643 1159,4634 1326,4626 1493,4617 1660,4609 1828,4599 1995,4590 2162,4581 2329,4572 2497,4562 2664,4554 2831,4546 2998,4537 3166,4530 3333,4523 3500,4516 3667,4511 3835,4506"/>
+                <TextEquiv>
+                    <Unicode>wegs Profil besichtigt, neue Fossilfunde u. tief unten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="472,4838 2281,4753 2430,4849 3180,4699 3794,4799 4047,4709 4039,4524 3831,4625 2601,4585 2362,4692 2173,4598 1798,4724 468,4750"/>
+                <Baseline points="491,4814 667,4809 844,4803 1020,4797 1197,4791 1374,4784 1550,4776 1727,4769 1903,4762 2080,4754 2257,4746 2433,4739 2610,4731 2786,4724 2963,4717 3140,4710 3316,4703 3493,4697 3669,4691 3846,4685 4023,4680"/>
+                <TextEquiv>
+                    <Unicode>an d. Barrabarra wieder Saurierschichten m. Knochenresten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="437,4998 3912,4922 3907,4758 3151,4727 435,4905"/>
+                <Baseline points="457,4943 628,4945 800,4945 971,4944 1143,4941 1315,4937 1486,4933 1658,4927 1829,4921 2001,4914 2173,4907 2344,4900 2516,4894 2687,4888 2859,4882 3031,4877 3202,4873 3374,4871 3545,4869 3717,4870 3889,4872"/>
+                <TextEquiv>
+                    <Unicode>wohl nur durch Verwerfung in dieser Lage verständ„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>36&#xD;
+in einander verschlungene Bäume, d. Wurzeln d. einen, der&#xD;
+wie eine Ulme d. Tiergartens aussah, hatten den andern&#xD;
+am Wurzeln u. Unterstamm bis zu beträchtlicher Höhe&#xD;
+in wirrem Netzwerk fest umklammert, um erst&#xD;
+dort oben ihrerseits in den gleich kräftigen Stamm&#xD;
+überzugehen.&#xD;
+9. Juli: Nachm. m. Dr. Janensch östl. d. Lagers in's Pori zu&#xD;
+einer neuen Wasserstelle (Oberlauf des Mtapa) hinab. Perl„&#xD;
+hühner, aber nicht zum Schuß gekommen. Auch hier wieder&#xD;
+Knochenfunde.&#xD;
+10. Juli: Als ich von d. Arbeitsstelle im Norden zurück„&#xD;
+kehrte, fand ich eine größere Safari vor u. dachte zu„&#xD;
+nächst am Hauptmann Baumstark u. Gemahlin, da wir&#xD;
+sonst niemand wußten, der uns hier aufsuchen würde.&#xD;
+Dr. J. stellte mich Herrn u. Fr. v. Eckenbrecher u. Hrn.&#xD;
+von Poremsky vor, die eine Jagdreise durch den Süden&#xD;
+machen. Wir zeigten unsere zoolog. Garten, das Knochenmuseum&#xD;
+u. d. Fundstellen u. bewirteten sie zu Mittag. Man hatte&#xD;
+2 alte verfossilisierte Professoren erwartet; in Lindi scheint&#xD;
+also von uns nicht viel d. Rede zu sein. Gegen 3 zogen&#xD;
+sie, von uns ein Stück geleitet, weiter nach Nanundo.&#xD;
+Poscho-Zahlung.&#xD;
+Sonntag d. 11. Juli: Heut waren wir Gäste der Eckenbr.'s&#xD;
+in Nanundo u. zogen schon um ½7 dorthin ab. Unter„&#xD;
+wegs Profil besichtigt, neue Fossilfunde u. tief unten&#xD;
+an d. Barrabarra wieder Saurierschichten m. Knochenresten&#xD;
+wohl nur durch Verwerfung in dieser Lage verständ„</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

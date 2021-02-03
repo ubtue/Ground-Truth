@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:39.282+02:00</Created>
+        <LastChange>2020-04-02T16:52:18.553+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7550997" pageNr="112" tsid="26898695" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=JVIIWBAKVPHBSELWHEWQGTLZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USCLSWMYNYSRAFJAPEPQQGXT" imageId="4551875"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_112.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256501711" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1569572823965_287"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1569572823965_287" custom="readingOrder {index:0;}">
+            <Coords points="286,254 452,254 3965,353 3965,4606 472,4606 286,427"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="271,416 297,413 325,392 351,393 367,378 404,395 416,385 454,411 480,408 464,278 433,282 391,261 329,282 290,322 259,322"/>
+                <Baseline points="286,377 313,372 341,368 369,365 396,362 424,359 452,354"/>
+                <TextEquiv>
+                    <Unicode>110</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="450,519 3964,507 3961,311 2056,293 1789,393 1644,290 1364,416 446,285"/>
+                <Baseline points="472,471 645,472 819,472 992,470 1166,467 1339,464 1513,459 1686,454 1860,450 2033,444 2207,440 2380,435 2554,432 2727,429 2901,427 3074,427 3248,428 3421,431 3595,437 3768,444 3942,454"/>
+                <TextEquiv>
+                    <Unicode>3.III. früh von Kilwa fort, bei dunstigem, dann stellen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="521,673 941,605 1524,740 2894,583 3988,723 3987,549 3787,459 520,547"/>
+                <Baseline points="541,622 712,621 883,619 1054,618 1225,615 1397,613 1568,610 1739,607 1910,605 2081,602 2253,600 2424,598 2595,597 2766,596 2937,595 3109,595 3280,596 3451,598 3622,601 3793,605 3965,610"/>
+                <TextEquiv>
+                    <Unicode>weis regnerischem Wetter durch den Mafia-Kanal,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="524,852 3883,833 3769,686 2853,582 2593,696 524,701"/>
+                <Baseline points="547,780 712,782 878,783 1043,783 1209,781 1375,779 1540,776 1706,774 1872,770 2037,767 2203,764 2369,762 2534,760 2700,758 2866,758 3031,760 3197,762 3363,766 3528,773 3694,782 3860,792"/>
+                <TextEquiv>
+                    <Unicode>viele Korallenriffe, gewundener Weg. Nachm. vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="516,1081 1652,933 1939,1030 2255,928 3839,989 3751,830 3075,878 2818,776 2502,870 514,838"/>
+                <Baseline points="537,953 701,951 865,949 1029,946 1193,943 1357,940 1521,937 1685,934 1849,931 2013,928 2177,926 2341,923 2505,922 2669,921 2833,921 2997,921 3161,923 3325,925 3489,929 3653,934 3818,940"/>
+                <TextEquiv>
+                    <Unicode>Rufiyi-Delta gelegen, bis die Flut uns über die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="563,1166 1498,1249 1682,1102 1992,1214 2411,1098 2708,1223 3630,1089 3788,1190 3941,984 1985,1058 1748,932 561,1049"/>
+                <Baseline points="584,1135 750,1132 917,1129 1084,1126 1251,1122 1417,1117 1584,1113 1751,1109 1918,1105 2084,1101 2251,1097 2418,1092 2585,1089 2751,1086 2918,1084 3085,1082 3252,1081 3418,1081 3585,1082 3752,1084 3919,1087"/>
+                <TextEquiv>
+                    <Unicode>Barre ließ. Erst kurz vor der Einfahrt in d. Fluß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="535,1374 1245,1289 2240,1409 3180,1274 3637,1386 3932,1336 3929,1119 3089,1236 2867,1134 2512,1255 2073,1142 533,1227"/>
+                <Baseline points="555,1305 722,1302 890,1299 1057,1297 1225,1295 1393,1294 1560,1293 1728,1292 1895,1291 2063,1290 2231,1289 2398,1289 2566,1287 2733,1286 2901,1284 3069,1282 3236,1279 3404,1276 3571,1271 3739,1266 3907,1260"/>
+                <TextEquiv>
+                    <Unicode>erblickte man die Öffnung im Ufer. Der Dampfer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="563,1591 970,1478 1569,1590 1786,1472 2962,1444 3495,1556 3643,1464 3786,1581 3912,1546 3912,1364 3638,1425 3187,1274 2398,1414 1564,1325 562,1435"/>
+                <Baseline points="584,1476 749,1473 914,1470 1079,1468 1244,1466 1410,1465 1575,1464 1740,1463 1905,1463 2070,1463 2236,1463 2401,1464 2566,1464 2731,1465 2896,1465 3062,1465 3227,1465 3392,1465 3557,1465 3722,1464 3888,1463"/>
+                <TextEquiv>
+                    <Unicode>ging in guter Fahrt die 12 km. bis Salale hinauf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="540,1699 1730,1742 2058,1622 2294,1718 2452,1611 2823,1721 2991,1613 3218,1709 3737,1616 3583,1489 3141,1545 2961,1444 539,1604"/>
+                <Baseline points="562,1653 719,1648 877,1643 1035,1639 1193,1634 1350,1630 1508,1626 1666,1622 1824,1619 1981,1615 2139,1612 2297,1609 2455,1606 2612,1604 2770,1601 2928,1599 3086,1597 3243,1596 3401,1595 3559,1594 3717,1593"/>
+                <TextEquiv>
+                    <Unicode>Die Mangroven-Ufer in ihrer Einförmigkeit u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="528,1859 3000,1773 3206,1892 3326,1778 3760,1802 3676,1691 3077,1647 526,1703"/>
+                <Baseline points="548,1806 707,1804 866,1802 1026,1799 1185,1795 1345,1791 1504,1787 1664,1783 1823,1779 1983,1776 2142,1772 2301,1769 2461,1766 2620,1764 2780,1763 2939,1763 3099,1763 3258,1765 3418,1769 3577,1773 3737,1779"/>
+                <TextEquiv>
+                    <Unicode>Leblosigkeit waren meiner Erwartung eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="488,2064 2010,1942 2324,2073 2496,1958 3053,2065 3199,1963 3703,1996 3701,1849 3337,1914 2876,1802 486,1886"/>
+                <Baseline points="508,1993 666,1987 825,1983 983,1978 1142,1974 1300,1970 1459,1966 1617,1963 1776,1960 1934,1958 2093,1955 2252,1954 2410,1952 2569,1951 2727,1951 2886,1951 3044,1951 3203,1952 3361,1953 3520,1955 3679,1957"/>
+                <TextEquiv>
+                    <Unicode>Enttäuschung. In Salale den Heckraddampfer mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="521,2276 714,2185 851,2291 1122,2150 1732,2263 1881,2143 2183,2245 2549,2125 3582,2151 3728,2039 2849,1971 2717,2069 2014,2084 1639,1970 518,2111"/>
+                <Baseline points="539,2158 697,2159 855,2159 1014,2157 1172,2155 1330,2151 1489,2147 1647,2143 1805,2138 1964,2132 2122,2127 2280,2123 2439,2118 2597,2113 2755,2110 2914,2108 3072,2106 3230,2106 3389,2107 3547,2109 3706,2114"/>
+                <TextEquiv>
+                    <Unicode>seitlichen Schleppleichtern gesehen. Ödes Nest, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="510,2334 3868,2401 4055,2193 3373,2091 2777,2242 508,2255"/>
+                <Baseline points="533,2321 703,2324 873,2326 1044,2327 1214,2326 1385,2324 1555,2322 1725,2319 1896,2314 2066,2310 2237,2305 2407,2300 2577,2296 2748,2291 2918,2287 3089,2283 3259,2279 3429,2276 3600,2275 3770,2274 3941,2274"/>
+                <TextEquiv>
+                    <Unicode>d. hiesige Försterehepaar u. Töchterchen fühlen sich riesig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;} gap {offset:24; length:0;}">
+                <Coords points="563,2530 1452,2486 1589,2619 1687,2530 1923,2614 2128,2450 2386,2533 3678,2487 3676,2344 2879,2413 2660,2294 1664,2427 1510,2320 562,2448"/>
+                <Baseline points="584,2519 737,2508 891,2499 1044,2491 1198,2485 1352,2480 1505,2476 1659,2474 1813,2471 1966,2470 2120,2469 2274,2468 2427,2468 2581,2468 2735,2467 2888,2466 3042,2465 3196,2463 3349,2460 3503,2457 3657,2452"/>
+                <TextEquiv>
+                    <Unicode>wohl u. wollen garnicht  fort. Kaum war d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="564,2710 1093,2678 1395,2790 1523,2674 3032,2649 3368,2752 3701,2650 3698,2515 3203,2486 3079,2575 2335,2498 1587,2617 1494,2527 1378,2612 561,2537"/>
+                <Baseline points="584,2668 738,2671 893,2673 1048,2674 1202,2674 1357,2673 1512,2672 1666,2670 1821,2667 1976,2664 2131,2660 2285,2657 2440,2652 2595,2648 2749,2644 2904,2639 3059,2635 3213,2630 3368,2626 3523,2622 3678,2618"/>
+                <TextEquiv>
+                    <Unicode>Sonne fort, so traten d. Moskitos an. Ich schlief</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="613,2907 1070,2953 1349,2821 1959,2937 3195,2909 3522,2784 3794,2886 3749,2623 3222,2752 609,2720"/>
+                <Baseline points="633,2849 789,2843 946,2838 1103,2834 1260,2831 1417,2828 1574,2826 1731,2824 1888,2822 2045,2820 2202,2818 2358,2815 2515,2813 2672,2809 2829,2805 2986,2800 3143,2795 3300,2788 3457,2780 3614,2770 3771,2759"/>
+                <TextEquiv>
+                    <Unicode>bei geschlossener Tür u. Fenster, es half auch nicht völlig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="592,3028 1004,3000 1074,3037 1398,2977 1740,3090 1950,2994 1948,2902 1721,2852 1575,2929 1265,2867 912,2959 810,2870 717,2968 590,2936"/>
+                <Baseline points="612,3008 677,3005 743,3002 809,2999 875,2996 940,2993 1006,2990 1072,2988 1138,2986 1203,2984 1269,2982 1335,2981 1401,2980 1466,2978 1532,2978 1598,2977 1664,2976 1729,2976 1795,2975 1861,2975 1927,2975"/>
+                <TextEquiv>
+                    <Unicode>u. die Luft war böse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="646,3202 1117,3153 1324,3260 1456,3147 2349,3130 2717,3228 3255,3077 3789,3087 3590,2950 2670,2977 2469,3079 1973,3019 1598,3109 1134,2992 642,3080"/>
+                <Baseline points="667,3167 822,3165 977,3162 1132,3158 1287,3154 1442,3150 1597,3146 1752,3141 1907,3136 2062,3131 2217,3126 2372,3120 2527,3116 2682,3111 2837,3106 2992,3101 3147,3097 3302,3093 3457,3089 3612,3086 3767,3083"/>
+                <TextEquiv>
+                    <Unicode>4.III. Fast noch im Dunkeln den Fluß wieder hinab,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="567,3378 2436,3313 2538,3406 2662,3295 3178,3281 3809,3361 3859,3251 3404,3095 2726,3246 2563,3137 2392,3244 1470,3170 1294,3274 1058,3161 563,3175"/>
+                <Baseline points="587,3324 749,3330 912,3334 1074,3335 1237,3334 1400,3332 1562,3328 1725,3324 1887,3317 2050,3312 2213,3306 2375,3299 2538,3294 2700,3289 2863,3285 3026,3283 3188,3282 3351,3284 3513,3287 3676,3294 3839,3303"/>
+                <TextEquiv>
+                    <Unicode>in's Meer hinaus. Einzelne Regen u. Nebel, ein„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="558,3521 1113,3579 1390,3478 1582,3612 1907,3476 2133,3614 2306,3478 2515,3582 3100,3475 3322,3583 3460,3473 3937,3523 3937,3398 3203,3323 2861,3433 2661,3295 2540,3408 2427,3313 557,3438"/>
+                <Baseline points="577,3496 743,3495 910,3493 1077,3491 1244,3490 1411,3488 1578,3486 1744,3484 1911,3482 2078,3480 2245,3478 2412,3477 2579,3476 2746,3476 2912,3476 3079,3477 3246,3478 3413,3480 3580,3482 3747,3486 3914,3490"/>
+                <TextEquiv>
+                    <Unicode>mal so stark, daß d. Schiff stoppte, ehe es sich weiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="580,3723 1000,3654 1313,3791 1755,3657 3734,3685 3807,3598 3467,3471 3334,3584 3151,3482 2141,3607 1984,3512 1577,3607 1389,3478 1112,3580 578,3514"/>
+                <Baseline points="599,3673 758,3668 917,3664 1077,3660 1236,3656 1395,3652 1555,3649 1714,3646 1873,3643 2033,3641 2192,3639 2351,3638 2511,3637 2670,3637 2829,3637 2989,3638 3148,3639 3307,3642 3467,3645 3626,3648 3786,3653"/>
+                <TextEquiv>
+                    <Unicode>durch die Riffe winden konnte. Um 4 Daressalaam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="284,3739 629,3908 1630,3845 2061,3965 2428,3830 2786,3955 3014,3826 3652,3831 3715,3657 3365,3757 2695,3648 2011,3757 1615,3693 1443,3804 1124,3665 600,3741"/>
+                <Baseline points="623,3870 773,3863 924,3857 1075,3851 1226,3846 1377,3841 1528,3837 1679,3833 1830,3830 1981,3827 2132,3825 2282,3823 2433,3822 2584,3821 2735,3821 2886,3821 3037,3822 3188,3823 3339,3824 3490,3826 3696,3825"/>
+                <TextEquiv>
+                    <Unicode>in Sicht, um 4½ im Hafen. Nach 2 D. O. A. G.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="583,4074 845,4153 990,4033 2361,4004 2489,4128 2917,4004 3131,4118 3841,4016 3839,3881 3497,3943 3209,3839 2053,3974 1834,3864 1159,3983 581,3914"/>
+                <Baseline points="603,4017 763,4021 924,4023 1085,4025 1246,4025 1406,4024 1567,4022 1728,4019 1889,4016 2049,4012 2210,4008 2371,4005 2532,4000 2692,3997 2853,3993 3014,3990 3175,3988 3335,3986 3496,3986 3657,3986 3818,3987"/>
+                <TextEquiv>
+                    <Unicode>Schiffe u. der „Sperber“ im Hafen. Wohnung im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="618,4227 996,4325 1220,4185 2227,4183 2983,4314 3212,4195 3412,4312 3971,4217 3971,4122 3094,4140 2916,4002 2374,4152 2170,4054 1476,4053 1346,4158 617,4071"/>
+                <Baseline points="639,4207 804,4204 970,4201 1135,4199 1301,4196 1466,4195 1632,4193 1797,4192 1963,4191 2128,4191 2294,4190 2459,4190 2625,4190 2790,4189 2956,4189 3121,4188 3287,4188 3452,4187 3618,4186 3783,4185 3949,4183"/>
+                <TextEquiv>
+                    <Unicode>Kaiserhof. Treffe abends mit Kempner zusammen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;} textStyle {offset:0; length:17;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="482,4465 1714,4473 1918,4373 2695,4473 2877,4356 3554,4447 3554,4234 2478,4313 2139,4187 1736,4313 1497,4200 894,4313 482,4213"/>
+                <Baseline points="504,4356 655,4356 807,4357 958,4357 1110,4357 1261,4357 1413,4357 1564,4357 1716,4357 1867,4356 2019,4356 2170,4356 2322,4356 2473,4355 2625,4355 2776,4355 2928,4356 3079,4356 3231,4357 3382,4358 3534,4359"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 5.III. Morgens Spaziergang am Strand.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="701,4661 1829,4666 2032,4525 3122,4631 3490,4544 3489,4445 3106,4375 2669,4484 1917,4375 1680,4499 1492,4405 699,4462"/>
+                <Baseline points="722,4569 859,4561 996,4555 1133,4549 1270,4545 1408,4541 1545,4537 1682,4533 1819,4531 1956,4529 2094,4527 2231,4527 2368,4526 2505,4526 2642,4526 2780,4527 2917,4528 3054,4530 3191,4531 3328,4533 3466,4536"/>
+                <TextEquiv>
+                    <Unicode>Schach im Hotel. Abds Tennis mit Kempner.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>110&#xD;
+3.III. früh von Kilwa fort, bei dunstigem, dann stellen„&#xD;
+weis regnerischem Wetter durch den Mafia-Kanal,&#xD;
+viele Korallenriffe, gewundener Weg. Nachm. vor&#xD;
+Rufiyi-Delta gelegen, bis die Flut uns über die&#xD;
+Barre ließ. Erst kurz vor der Einfahrt in d. Fluß&#xD;
+erblickte man die Öffnung im Ufer. Der Dampfer&#xD;
+ging in guter Fahrt die 12 km. bis Salale hinauf.&#xD;
+Die Mangroven-Ufer in ihrer Einförmigkeit u.&#xD;
+Leblosigkeit waren meiner Erwartung eine&#xD;
+Enttäuschung. In Salale den Heckraddampfer mit&#xD;
+seitlichen Schleppleichtern gesehen. Ödes Nest, aber&#xD;
+d. hiesige Försterehepaar u. Töchterchen fühlen sich riesig&#xD;
+wohl u. wollen garnicht  fort. Kaum war d.&#xD;
+Sonne fort, so traten d. Moskitos an. Ich schlief&#xD;
+bei geschlossener Tür u. Fenster, es half auch nicht völlig&#xD;
+u. die Luft war böse.&#xD;
+4.III. Fast noch im Dunkeln den Fluß wieder hinab,&#xD;
+in's Meer hinaus. Einzelne Regen u. Nebel, ein„&#xD;
+mal so stark, daß d. Schiff stoppte, ehe es sich weiter&#xD;
+durch die Riffe winden konnte. Um 4 Daressalaam&#xD;
+in Sicht, um 4½ im Hafen. Nach 2 D. O. A. G.-&#xD;
+Schiffe u. der „Sperber“ im Hafen. Wohnung im&#xD;
+Kaiserhof. Treffe abends mit Kempner zusammen.&#xD;
+Sonntag d. 5.III. Morgens Spaziergang am Strand.&#xD;
+Schach im Hotel. Abds Tennis mit Kempner.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

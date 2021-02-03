@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:39.235+02:00</Created>
+        <LastChange>2020-04-03T09:11:15.457+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7550996" pageNr="111" tsid="26931924" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=JDDVYNPQQBFDIUFXQLDWSNZD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IPFYXMVDYTSVBSZTSMUVSAYP" imageId="4551874"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_111.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256501564" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:0;}">
+            <Coords points="334,264 334,4996 4036,4996 4036,264"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="3733,341 3761,344 3770,335 3831,383 3849,369 3882,386 3890,377 3905,385 3950,379 3944,187 3921,188 3876,235 3793,224 3758,253 3730,254"/>
+                <Baseline points="3757,317 3785,320 3813,321 3842,321 3870,320 3898,316 3927,311"/>
+                <TextEquiv>
+                    <Unicode>109</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="453,469 1192,570 1576,443 2416,561 3888,450 3887,349 3492,283 1356,385 708,229 452,345"/>
+                <Baseline points="477,444 646,444 815,445 985,445 1154,446 1324,446 1493,447 1663,447 1832,447 2002,446 2171,446 2340,445 2510,443 2679,442 2849,439 3018,437 3188,434 3357,430 3527,426 3696,421 3866,415"/>
+                <TextEquiv>
+                    <Unicode>27.II: Marsch nach Lindi, da in Nguru-Mahamba kein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:2;}">
+                <Coords points="547,692 1066,747 1327,639 1681,778 1841,662 2447,772 2684,627 3840,644 3839,511 3655,485 546,536"/>
+                <Baseline points="569,662 731,657 894,652 1056,649 1219,647 1381,645 1544,644 1706,644 1869,643 2031,643 2194,643 2356,642 2519,642 2681,641 2844,640 3006,638 3169,636 3331,633 3494,628 3656,622 3819,616"/>
+                <TextEquiv>
+                    <Unicode>Boot lag. Am Wege auf Anhöhe Ndemba die Stelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:3;}">
+                <Coords points="454,881 799,969 1811,816 2482,952 2953,818 3445,942 3949,859 3947,698 453,803"/>
+                <Baseline points="475,864 647,854 819,845 992,837 1164,831 1337,826 1509,821 1681,818 1854,816 2026,814 2199,813 2371,813 2543,813 2716,813 2888,813 3061,814 3233,815 3405,815 3578,816 3750,816 3923,816"/>
+                <TextEquiv>
+                    <Unicode>besichtigt, wo meine Leute früher zahlreiche Schnecken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:4;}">
+                <Coords points="464,1069 3908,1028 3696,874 3095,944 2911,840 2481,954 1384,845 1183,961 463,963"/>
+                <Baseline points="485,1025 655,1020 825,1016 995,1012 1165,1009 1335,1006 1505,1005 1675,1003 1845,1001 2015,1000 2185,999 2355,998 2525,997 2695,996 2865,995 3035,994 3205,993 3375,992 3545,990 3715,988 3885,986"/>
+                <TextEquiv>
+                    <Unicode>u. einige Fischzähne in mir sonst unbekanntem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:5;}">
+                <Coords points="457,1358 1477,1201 1768,1334 2453,1178 2611,1290 2912,1184 3075,1304 3219,1182 3405,1303 3789,1227 3786,1075 2363,1010 1623,1157 452,1129"/>
+                <Baseline points="475,1221 639,1220 804,1219 968,1217 1133,1213 1297,1209 1462,1205 1626,1201 1791,1196 1955,1191 2120,1185 2284,1182 2449,1178 2613,1174 2778,1171 2942,1169 3107,1168 3271,1169 3436,1171 3600,1174 3765,1179"/>
+                <TextEquiv>
+                    <Unicode>Gestein gefunden hatten. Das Gestein ist auch nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l7" custom="readingOrder {index:6;} textStyle {offset:6; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="484,1429 953,1513 1648,1375 1811,1492 2084,1345 2772,1349 3476,1481 3928,1373 3926,1222 3060,1304 2334,1186 2019,1314 483,1337"/>
+                <Baseline points="509,1400 678,1397 848,1393 1018,1389 1188,1385 1358,1381 1528,1377 1698,1373 1868,1369 2038,1365 2208,1362 2377,1358 2547,1356 2717,1354 2887,1352 3057,1351 3227,1351 3397,1352 3567,1354 3737,1357 3907,1361"/>
+                <TextEquiv>
+                    <Unicode>an einzigen wenigen Blöcken der Steinbestreu„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l8" custom="readingOrder {index:7;}">
+                <Coords points="480,1692 1101,1555 2197,1551 2406,1657 2582,1543 2860,1662 3173,1522 3743,1561 3584,1417 2918,1385 2705,1477 476,1490"/>
+                <Baseline points="499,1578 660,1576 821,1573 982,1571 1143,1567 1304,1563 1465,1559 1626,1554 1787,1550 1948,1546 2109,1541 2270,1538 2431,1534 2592,1530 2753,1527 2914,1525 3075,1523 3236,1522 3397,1521 3558,1522 3719,1524"/>
+                <TextEquiv>
+                    <Unicode>ung auf dem Ton von Mtangi vorhanden. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:8;}">
+                <Coords points="442,1882 2008,1716 3344,1798 3746,1680 4037,1790 4032,1561 3376,1540 439,1689"/>
+                <Baseline points="465,1763 642,1751 819,1741 996,1733 1174,1725 1351,1721 1528,1717 1706,1713 1883,1711 2060,1709 2238,1708 2415,1707 2592,1706 2769,1705 2947,1703 3124,1701 3301,1698 3479,1693 3656,1688 3833,1681 4011,1673"/>
+                <TextEquiv>
+                    <Unicode>Erosionsrest-Berg am Nguru-Kriek erhebt sich darüber,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:9;}">
+                <Coords points="539,2046 1778,1890 2405,2016 2920,1861 3701,1919 3877,1786 3585,1692 3336,1814 3017,1707 534,1867"/>
+                <Baseline points="559,1930 723,1927 888,1924 1053,1920 1218,1915 1383,1910 1548,1905 1713,1899 1878,1894 2043,1888 2208,1883 2372,1877 2537,1873 2702,1868 2867,1864 3032,1861 3197,1859 3362,1857 3527,1857 3692,1858 3857,1860"/>
+                <TextEquiv>
+                    <Unicode>garnicht weit von d. Straße. Gegen 8½ in Lindi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:10;}">
+                <Coords points="624,2131 1600,2092 2010,2209 3040,2062 3903,2093 3900,1951 3472,1867 2801,2021 1162,1943 622,2031"/>
+                <Baseline points="646,2110 807,2104 969,2098 1131,2093 1293,2088 1454,2084 1616,2080 1778,2077 1940,2074 2101,2071 2263,2068 2425,2066 2587,2064 2748,2062 2910,2060 3072,2058 3234,2057 3395,2055 3557,2053 3719,2052 3881,2050"/>
+                <TextEquiv>
+                    <Unicode>Dampfer kommt erst morgen. Mein Abitu„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l12" custom="readingOrder {index:11;}">
+                <Coords points="474,2364 556,2321 607,2343 716,2314 762,2332 876,2293 1053,2414 1148,2325 1212,2320 1210,2246 1123,2202 1045,2226 1008,2190 926,2237 741,2139 471,2217"/>
+                <Baseline points="498,2306 532,2302 567,2298 601,2295 636,2293 671,2290 705,2288 740,2287 774,2286 809,2285 844,2285 878,2285 913,2285 947,2285 982,2286 1017,2286 1051,2287 1086,2288 1120,2289 1155,2290 1190,2291"/>
+                <TextEquiv>
+                    <Unicode>riumstag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:12;}">
+                <Coords points="631,2473 3965,2467 3963,2302 3413,2351 3013,2228 630,2376"/>
+                <Baseline points="654,2461 818,2456 983,2451 1147,2445 1312,2441 1476,2436 1641,2432 1805,2427 1970,2423 2134,2420 2299,2417 2463,2415 2628,2413 2792,2411 2957,2410 3121,2410 3286,2411 3450,2412 3615,2414 3779,2417 3944,2421"/>
+                <TextEquiv>
+                    <Unicode>28.II. Vorm. Am Kriek aufwärts, Gesteinsproben aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:13;}">
+                <Coords points="516,2665 2957,2747 3460,2629 3363,2496 2850,2555 2583,2438 2299,2555 1821,2453 515,2537"/>
+                <Baseline points="537,2628 681,2627 826,2624 971,2622 1116,2619 1261,2616 1406,2613 1551,2610 1696,2608 1841,2605 1986,2603 2130,2601 2275,2599 2420,2599 2565,2599 2710,2599 2855,2601 3000,2604 3145,2607 3290,2612 3435,2618"/>
+                <TextEquiv>
+                    <Unicode>den Nummulitenkalken geholt. Dampfer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:14;}">
+                <Coords points="555,2853 592,2853 660,2802 766,2801 784,2782 867,2814 1004,2790 1003,2661 957,2657 921,2694 838,2681 797,2700 696,2687 632,2650 554,2679"/>
+                <Baseline points="579,2783 604,2782 629,2782 654,2781 679,2781 704,2780 730,2779 755,2779 780,2779 805,2778 830,2778 856,2778 881,2778 906,2779 931,2779 956,2780 982,2781"/>
+                <TextEquiv>
+                    <Unicode>Tennis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569572804774_280" custom="readingOrder {index:15;} textStyle {offset:7; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="314,2955 1381,2876 1731,3001 2010,2888 2263,2996 2679,2877 3617,3028 4023,2850 1517,2682 312,2822"/>
+                <Baseline points="334,2916 360,2919 387,2921 414,2924 441,2927 468,2930 495,2933 522,2936 549,2938 576,2940 603,2941 630,2942 657,2942 690,2925 781,2919 873,2914 964,2909 1056,2905 1147,2901 1239,2898 1330,2895 1422,2891 1513,2889 1605,2887 1696,2885 1788,2884 1879,2883 1971,2883 2062,2883 2154,2883 2245,2884 2337,2885 2428,2886 2520,2888 2546,2871 2618,2875 2691,2877 2764,2879 2837,2880 2910,2882 2982,2883 3055,2884 3128,2885 3201,2885 3274,2886 3346,2886 3419,2887 3492,2888 3565,2889 3638,2890 3710,2892 3783,2893 3856,2896 3929,2898 4002,2901"/>
+                <TextEquiv>
+                    <Unicode>1.III: 29.II: Alles klar zur Abreise. Der Dampfer trifft gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l19" custom="readingOrder {index:16;}">
+                <Coords points="528,3168 3513,3124 3511,2982 3368,2919 2989,3043 526,3016"/>
+                <Baseline points="551,3118 698,3117 845,3115 992,3113 1139,3111 1286,3109 1433,3107 1580,3104 1727,3102 1874,3100 2021,3098 2168,3096 2315,3094 2462,3092 2609,3091 2756,3090 2903,3089 3050,3088 3197,3088 3344,3088 3491,3089"/>
+                <TextEquiv>
+                    <Unicode>4 von Mikindani kommen ein, an Bord.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l20" custom="readingOrder {index:17;}">
+                <Coords points="590,3299 1284,3391 1686,3289 2013,3413 2127,3315 2366,3404 3342,3271 3715,3377 3712,3198 3170,3104 1851,3246 588,3171"/>
+                <Baseline points="613,3282 766,3288 920,3292 1074,3295 1228,3295 1382,3295 1536,3293 1690,3291 1844,3287 1998,3284 2152,3280 2305,3276 2459,3272 2613,3268 2767,3265 2921,3262 3075,3261 3229,3260 3383,3261 3537,3263 3691,3268"/>
+                <TextEquiv>
+                    <Unicode>Ade Lindi, aber noch nicht auf Nimmer„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l21" custom="readingOrder {index:18;}">
+                <Coords points="529,3502 680,3509 753,3457 854,3488 1051,3444 1097,3485 1188,3447 1249,3483 1289,3450 1468,3457 1466,3296 1328,3285 1187,3369 1077,3325 949,3349 829,3319 610,3400 527,3364"/>
+                <Baseline points="549,3450 593,3449 638,3449 683,3448 728,3448 773,3447 817,3447 862,3446 907,3446 952,3445 997,3445 1041,3444 1086,3443 1131,3443 1176,3442 1221,3441 1265,3441 1310,3440 1355,3439 1400,3438 1445,3438"/>
+                <TextEquiv>
+                    <Unicode>wiedersehen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l22" custom="readingOrder {index:19;}">
+                <Coords points="524,3644 1066,3743 1309,3636 4061,3712 4060,3505 3537,3443 2881,3574 2409,3462 524,3580"/>
+                <Baseline points="545,3641 719,3642 894,3643 1068,3642 1243,3641 1417,3639 1592,3637 1766,3634 1941,3632 2115,3630 2290,3628 2465,3626 2639,3624 2814,3623 2988,3623 3163,3624 3337,3625 3512,3628 3686,3632 3861,3638 4036,3644"/>
+                <TextEquiv>
+                    <Unicode>2.III. Morgens an Kilwa, bleiben hier 24 Std. liegen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l23" custom="readingOrder {index:20;}">
+                <Coords points="452,3828 3988,3859 3905,3698 2850,3630 2103,3757 451,3713"/>
+                <Baseline points="473,3809 647,3811 822,3812 996,3813 1171,3812 1346,3810 1520,3808 1695,3805 1870,3802 2044,3799 2219,3796 2394,3794 2568,3792 2743,3791 2918,3791 3092,3791 3267,3794 3442,3797 3616,3802 3791,3810 3966,3819"/>
+                <TextEquiv>
+                    <Unicode>An Land. Baumwollginnerei der D. O. A. G., indische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l24" custom="readingOrder {index:21;}">
+                <Coords points="460,4019 4000,3998 3999,3861 3508,3781 2147,3927 1724,3819 459,3873"/>
+                <Baseline points="483,3984 657,3983 832,3981 1007,3979 1182,3976 1356,3974 1531,3972 1706,3969 1881,3967 2055,3965 2230,3962 2405,3961 2580,3960 2754,3959 2929,3959 3104,3959 3279,3960 3453,3962 3628,3965 3803,3969 3978,3974"/>
+                <TextEquiv>
+                    <Unicode>Sesamöl-Mühle (wie im alten Ägypten!), Nilpferd-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l25" custom="readingOrder {index:22;}">
+                <Coords points="401,4205 609,4285 896,4162 1302,4285 2359,4137 2870,4254 3194,4130 3754,4164 3752,4058 3086,4003 1950,4078 1366,3967 886,4102 628,3982 400,4081"/>
+                <Baseline points="426,4173 591,4166 756,4161 921,4155 1086,4150 1251,4146 1416,4142 1582,4139 1747,4136 1912,4133 2077,4131 2242,4129 2407,4127 2572,4126 2738,4125 2903,4125 3068,4124 3233,4124 3398,4124 3563,4125 3729,4125"/>
+                <TextEquiv>
+                    <Unicode>Bassin besichtigt, staunte über die fließenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l26" custom="readingOrder {index:23;} textStyle {offset:0; length:11;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="400,4352 714,4462 1166,4318 3844,4327 3411,4158 399,4278"/>
+                <Baseline points="422,4347 591,4342 761,4337 931,4333 1101,4328 1271,4324 1441,4320 1610,4317 1780,4314 1950,4311 2120,4308 2290,4306 2460,4304 2630,4302 2799,4301 2969,4300 3139,4299 3309,4299 3479,4299 3649,4300 3819,4301"/>
+                <TextEquiv>
+                    <Unicode>artesischen Brunnen, die nur von der kleinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l27" custom="readingOrder {index:24;}">
+                <Coords points="428,4567 970,4623 1968,4467 2520,4569 2821,4454 3973,4553 3971,4410 3676,4314 3476,4418 2098,4313 1779,4428 426,4420"/>
+                <Baseline points="451,4511 626,4506 801,4500 976,4495 1151,4490 1326,4485 1501,4481 1676,4477 1851,4474 2026,4471 2201,4468 2376,4466 2551,4464 2726,4462 2901,4461 3076,4460 3251,4460 3426,4460 3601,4460 3776,4460 3951,4461"/>
+                <TextEquiv>
+                    <Unicode>Kuppe hinter der Stadt gespeist werden können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l28" custom="readingOrder {index:25;}">
+                <Coords points="456,4714 1524,4663 1814,4774 1950,4653 2340,4630 2640,4773 2963,4631 3606,4654 3604,4485 454,4608"/>
+                <Baseline points="476,4678 631,4671 786,4664 942,4660 1097,4655 1252,4652 1408,4649 1563,4646 1718,4645 1874,4643 2029,4642 2184,4641 2340,4640 2495,4640 2650,4639 2806,4637 2961,4636 3116,4634 3272,4631 3427,4629 3583,4624"/>
+                <TextEquiv>
+                    <Unicode>Aber wo kommt soviel Wasser her???</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l29" custom="readingOrder {index:26;}">
+                <Coords points="508,4865 4003,4849 4002,4730 3762,4646 3186,4757 2955,4650 2658,4754 1964,4652 1828,4759 507,4732"/>
+                <Baseline points="532,4846 704,4842 876,4837 1049,4833 1221,4828 1394,4824 1566,4820 1739,4817 1911,4813 2084,4810 2256,4808 2428,4806 2601,4804 2773,4803 2946,4802 3118,4802 3291,4803 3463,4805 3636,4807 3808,4810 3981,4813"/>
+                <TextEquiv>
+                    <Unicode>In d. D. O. A. G.-Veranda bei Whisky-Soda. Mitt u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l30" custom="readingOrder {index:27;}">
+                <Coords points="485,4980 655,5031 738,4994 806,5008 894,4952 1022,5017 1118,4957 1233,5003 1320,4970 1403,4989 1439,4975 1439,4837 1329,4865 1256,4828 1219,4865 1091,4856 1027,4893 953,4861 834,4888 728,4838 485,4870"/>
+                <Baseline points="507,4966 552,4964 597,4962 643,4961 688,4960 734,4960 779,4959 824,4959 870,4959 915,4960 961,4960 1006,4961 1051,4961 1097,4962 1142,4962 1188,4962 1233,4962 1278,4962 1324,4961 1369,4960 1415,4959"/>
+                <TextEquiv>
+                    <Unicode>Nachm. an Bord.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>109&#xD;
+27.II: Marsch nach Lindi, da in Nguru-Mahamba kein&#xD;
+Boot lag. Am Wege auf Anhöhe Ndemba die Stelle&#xD;
+besichtigt, wo meine Leute früher zahlreiche Schnecken&#xD;
+u. einige Fischzähne in mir sonst unbekanntem&#xD;
+Gestein gefunden hatten. Das Gestein ist auch nur&#xD;
+an einzigen wenigen Blöcken der Steinbestreu„&#xD;
+ung auf dem Ton von Mtangi vorhanden. Der&#xD;
+Erosionsrest-Berg am Nguru-Kriek erhebt sich darüber,&#xD;
+garnicht weit von d. Straße. Gegen 8½ in Lindi.&#xD;
+Dampfer kommt erst morgen. Mein Abitu„&#xD;
+riumstag.&#xD;
+28.II. Vorm. Am Kriek aufwärts, Gesteinsproben aus&#xD;
+den Nummulitenkalken geholt. Dampfer.&#xD;
+Tennis.&#xD;
+1.III: 29.II: Alles klar zur Abreise. Der Dampfer trifft gegen&#xD;
+4 von Mikindani kommen ein, an Bord.&#xD;
+Ade Lindi, aber noch nicht auf Nimmer„&#xD;
+wiedersehen!&#xD;
+2.III. Morgens an Kilwa, bleiben hier 24 Std. liegen.&#xD;
+An Land. Baumwollginnerei der D. O. A. G., indische&#xD;
+Sesamöl-Mühle (wie im alten Ägypten!), Nilpferd-&#xD;
+Bassin besichtigt, staunte über die fließenden&#xD;
+artesischen Brunnen, die nur von der kleinen&#xD;
+Kuppe hinter der Stadt gespeist werden können.&#xD;
+Aber wo kommt soviel Wasser her???&#xD;
+In d. D. O. A. G.-Veranda bei Whisky-Soda. Mitt u.&#xD;
+Nachm. an Bord.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

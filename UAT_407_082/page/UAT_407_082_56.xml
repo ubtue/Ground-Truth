@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:15.430+02:00</Created>
+        <LastChange>2020-03-16T11:57:49.409+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581504" pageNr="56" tsid="25728431" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=BQMISKXVLUPWXIFCDKNJOPDA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EVRXFHIKMLYPJYKUAITPUTZX" imageId="4579393"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_56.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255755773" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="361,251 361,4558 4008,4558 4008,251"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="332,433 405,419 448,378 474,381 494,352 592,342 574,245 534,253 505,233 484,254 427,222 403,227 365,200 337,231 296,238"/>
+                <Baseline points="361,349 387,345 413,341 439,337 465,332 491,326 517,321 543,315"/>
+                <TextEquiv>
+                    <Unicode>54</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="428,734 3990,745 3990,588 3718,564 676,644 428,536"/>
+                <Baseline points="471,698 644,698 818,699 992,699 1166,699 1339,699 1513,699 1687,699 1861,699 2034,699 2208,699 2382,699 2556,699 2729,699 2903,699 3077,699 3251,700 3424,700 3598,701 3772,702 3946,703"/>
+                <TextEquiv>
+                    <Unicode>Familie zu gründen hätte u. eine allsommerliche Abwesenheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="418,879 1697,779 3716,919 3922,881 3924,741 420,723"/>
+                <Baseline points="461,811 632,806 803,802 974,799 1145,797 1316,796 1487,796 1658,797 1829,799 2000,801 2171,804 2342,807 2513,811 2684,814 2855,818 3026,822 3197,826 3368,831 3539,835 3710,838 3882,841"/>
+                <TextEquiv>
+                    <Unicode>im Felde mir eine sehr böse Beigabe scheint. Habilitation bringt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="424,954 3954,959 3955,868 1697,781 426,847"/>
+                <Baseline points="467,929 639,924 811,920 984,917 1156,916 1328,916 1501,917 1673,919 1845,921 2018,924 2190,928 2362,932 2535,935 2707,939 2879,943 3052,947 3224,950 3396,953 3569,955 3741,956 3914,956"/>
+                <TextEquiv>
+                    <Unicode>mich zunächst keinen Schritt weiter, würde sich aber jetzt ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="461,1154 1105,1056 3908,1089 3908,966 3694,941 461,948"/>
+                <Baseline points="501,1070 669,1065 837,1060 1005,1055 1174,1052 1342,1048 1510,1046 1678,1044 1847,1043 2015,1043 2183,1043 2351,1043 2520,1044 2688,1046 2856,1048 3024,1050 3193,1053 3361,1057 3529,1060 3697,1064 3866,1068"/>
+                <TextEquiv>
+                    <Unicode>gut machen. Branca rechnet fast fester damit als ich, will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="429,1228 3966,1253 4024,1047 429,1064"/>
+                <Baseline points="472,1180 647,1180 822,1180 998,1179 1173,1177 1349,1175 1524,1173 1699,1170 1875,1168 2050,1166 2226,1165 2401,1163 2576,1163 2752,1163 2927,1164 3103,1166 3278,1170 3453,1175 3629,1181 3804,1189 3980,1199"/>
+                <TextEquiv>
+                    <Unicode>wissen, was ich lesen würde u. dgl. Ich selbst habe noch garnicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="390,1409 1107,1309 2658,1388 2781,1289 3400,1403 3985,1369 3985,1213 390,1220"/>
+                <Baseline points="428,1329 603,1323 779,1317 955,1313 1131,1309 1306,1305 1482,1302 1658,1300 1834,1298 2009,1297 2185,1297 2361,1297 2537,1298 2712,1299 2888,1300 3064,1303 3240,1305 3415,1308 3591,1312 3767,1316 3943,1320"/>
+                <TextEquiv>
+                    <Unicode>so recht das ganze Selbstvertrauen dazu, mein üblicher Fehler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="417,1477 2726,1432 3789,1542 3988,1369 417,1370"/>
+                <Baseline points="458,1448 632,1442 806,1438 981,1433 1155,1430 1330,1428 1504,1427 1679,1426 1853,1425 2028,1425 2202,1426 2376,1427 2551,1429 2725,1430 2900,1433 3074,1435 3249,1438 3423,1440 3598,1443 3772,1446 3947,1449"/>
+                <TextEquiv>
+                    <Unicode>Ich weiß aber, daß ich d. Eisen Branca schmieden muß, solange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="424,1619 4052,1649 3996,1458 425,1471"/>
+                <Baseline points="466,1559 643,1561 820,1564 997,1566 1174,1567 1351,1569 1528,1570 1705,1571 1882,1572 2059,1573 2237,1574 2414,1575 2591,1576 2768,1577 2945,1579 3122,1580 3299,1582 3476,1584 3653,1587 3830,1590 4008,1593"/>
+                <TextEquiv>
+                    <Unicode>des heiß ist, also sage ich nicht nein. Fast 30 Jahre und 1500 M. Gehalt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="448,1768 918,1730 1149,1793 1247,1701 1322,1758 1899,1703 1982,1768 2228,1682 2419,1763 2526,1753 2524,1597 446,1619"/>
+                <Baseline points="485,1719 585,1720 685,1720 785,1719 885,1719 985,1718 1085,1716 1185,1714 1285,1713 1385,1711 1485,1709 1585,1707 1685,1706 1785,1704 1885,1703 1985,1702 2085,1702 2185,1702 2285,1703 2385,1705 2485,1707"/>
+                <TextEquiv>
+                    <Unicode>Und keine Aussicht für absehbare Zeit!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="667,1952 2596,1837 3734,1940 3841,1717 666,1737"/>
+                <Baseline points="708,1869 862,1864 1017,1859 1171,1855 1326,1852 1481,1849 1635,1847 1790,1846 1945,1845 2099,1844 2254,1844 2409,1844 2563,1844 2718,1845 2873,1846 3027,1847 3182,1847 3337,1848 3491,1849 3646,1850 3801,1850"/>
+                <TextEquiv>
+                    <Unicode>Ich hätte jetzt fast Neigung freies Junggesellentum zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="444,2058 872,1981 1689,2082 1944,1981 2084,2079 2662,2075 3345,2013 3344,1872 781,1924 442,1819"/>
+                <Baseline points="481,1995 629,1992 777,1989 926,1986 1074,1983 1222,1980 1371,1977 1519,1974 1667,1971 1816,1969 1964,1967 2113,1966 2261,1965 2409,1965 2558,1966 2706,1967 2854,1970 3003,1973 3151,1979 3300,1984"/>
+                <TextEquiv>
+                    <Unicode>führen, aber die Neigung darf nicht aufkommen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="582,2194 3797,2224 3896,2018 582,2070"/>
+                <Baseline points="620,2164 781,2165 943,2165 1105,2165 1267,2165 1429,2166 1591,2166 1753,2166 1915,2167 2077,2167 2239,2168 2400,2168 2562,2168 2724,2169 2886,2169 3048,2169 3210,2169 3372,2169 3534,2169 3696,2169 3858,2169"/>
+                <TextEquiv>
+                    <Unicode>Abend: Lyceum-Klub, wo Erna in einem Tee ihrer Gesang„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815954253_945" custom="readingOrder {index:13;}">
+                <Coords points="447,2326 3968,2377 3968,2220 3572,2170 448,2145"/>
+                <Baseline points="488,2294 579,2292 670,2291 762,2289 853,2288 945,2287 1036,2287 1128,2286 1219,2286 1311,2286 1402,2287 1493,2288 1585,2288 1676,2289 1768,2291 1859,2293 1951,2294 2042,2296 2134,2298 2225,2301 2317,2303 2352,2292 2430,2292 2509,2292 2588,2291 2667,2291 2746,2291 2825,2291 2903,2291 2982,2292 3061,2292 3140,2292 3219,2292 3298,2293 3377,2293 3455,2294 3534,2294 3613,2295 3692,2296 3771,2297 3850,2298 3929,2300 2352,2292 2430,2292 2509,2292 2588,2291 2667,2291 2746,2291 2825,2291 2903,2291 2982,2292 3061,2292 3140,2292 3219,2292 3298,2293 3377,2293 3455,2294 3534,2294 3613,2295 3692,2296 3771,2297 3850,2298 3929,2300"/>
+                <TextEquiv>
+                    <Unicode>lehrerin Hoppe singt. Ihre Stimme u. Fähigkeiten haben wirklich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="454,2488 3884,2477 3751,2321 453,2324"/>
+                <Baseline points="491,2464 658,2463 826,2462 994,2461 1161,2460 1329,2458 1497,2457 1664,2456 1832,2454 2000,2453 2168,2452 2335,2451 2503,2450 2671,2450 2838,2450 3006,2450 3174,2450 3341,2452 3509,2453 3677,2456 3845,2459"/>
+                <TextEquiv>
+                    <Unicode>achtunggebietende Ausbildung erfahren. Ich freue mich sehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="465,2636 3598,2656 3704,2449 464,2488"/>
+                <Baseline points="503,2599 661,2597 819,2594 977,2591 1135,2589 1294,2587 1452,2585 1610,2582 1768,2581 1926,2579 2085,2578 2243,2577 2401,2576 2559,2576 2717,2577 2876,2578 3034,2579 3192,2581 3350,2583 3508,2587 3667,2591"/>
+                <TextEquiv>
+                    <Unicode>darüber, denn es muß ihr Selbstbewußtsein in ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="448,2826 629,2751 877,2800 1050,2741 1157,2824 2064,2754 2063,2672 1750,2599 1676,2640 1387,2600 1280,2666 934,2585 843,2652 447,2645"/>
+                <Baseline points="486,2734 562,2737 639,2738 716,2740 792,2740 869,2741 946,2741 1022,2741 1099,2741 1176,2740 1253,2740 1329,2739 1406,2738 1483,2737 1559,2736 1636,2735 1713,2735 1789,2734 1866,2734 1943,2734 2020,2734"/>
+                <TextEquiv>
+                    <Unicode>Einsamkeit geben können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="632,2937 3469,2974 3682,2914 3681,2782 630,2781"/>
+                <Baseline points="676,2928 824,2920 972,2913 1120,2908 1269,2903 1417,2899 1565,2896 1713,2894 1862,2892 2010,2890 2158,2889 2306,2889 2455,2889 2603,2888 2751,2889 2899,2889 3048,2889 3196,2889 3344,2888 3492,2888 3641,2887"/>
+                <TextEquiv>
+                    <Unicode>11.) Abend: Mit Billet v. Hrn. Lorenz im Opernhaus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="495,3100 1979,3133 2399,3026 3908,3133 3850,2861 3553,2968 495,2902"/>
+                <Baseline points="538,3047 704,3047 871,3047 1037,3046 1204,3045 1371,3043 1537,3042 1704,3040 1870,3039 2037,3037 2204,3036 2370,3036 2537,3035 2703,3036 2870,3036 3037,3038 3203,3040 3370,3043 3536,3048 3703,3053 3870,3060"/>
+                <TextEquiv>
+                    <Unicode>Symphonie-Abend: Mozart u. zum ersten Male — Mahler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="524,3267 2190,3166 2520,3266 3567,3179 3690,3278 3979,3238 3980,3131 525,3086"/>
+                <Baseline points="570,3174 738,3173 907,3172 1075,3170 1244,3169 1412,3167 1581,3165 1749,3164 1918,3162 2086,3161 2255,3161 2423,3161 2592,3161 2760,3162 2929,3164 3097,3167 3266,3171 3434,3176 3603,3182 3771,3190 3940,3199"/>
+                <TextEquiv>
+                    <Unicode>Ich hatte vor letzterem eine gewisse Scheu, als ich erfuhr, daß er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="523,3333 3813,3362 3813,3206 3574,3180 523,3201"/>
+                <Baseline points="563,3310 723,3307 884,3304 1044,3303 1205,3301 1365,3300 1526,3300 1686,3299 1847,3299 2007,3300 2168,3301 2329,3302 2489,3303 2650,3304 2810,3306 2971,3308 3131,3310 3292,3312 3452,3314 3613,3317 3774,3319"/>
+                <TextEquiv>
+                    <Unicode>als neues Ausdrucksmittel Ruten braucht, die an's Holz der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;} textStyle {offset:31; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="467,3459 3905,3536 4020,3528 4022,3289 468,3335"/>
+                <Baseline points="507,3430 680,3428 853,3427 1027,3426 1200,3425 1374,3425 1547,3425 1721,3426 1894,3427 2068,3428 2241,3429 2414,3431 2588,3433 2761,3435 2935,3438 3108,3440 3282,3443 3455,3446 3629,3449 3802,3452 3976,3455"/>
+                <TextEquiv>
+                    <Unicode>Pauke geschlagen werden(!), u. daß als ich sah wie das Orchester</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="529,3611 3893,3585 3744,3445 529,3454"/>
+                <Baseline points="572,3568 736,3568 900,3568 1064,3568 1228,3568 1392,3567 1556,3567 1720,3566 1884,3566 2048,3566 2213,3565 2377,3565 2541,3565 2705,3565 2869,3565 3033,3565 3197,3566 3361,3566 3525,3567 3689,3569 3854,3570"/>
+                <TextEquiv>
+                    <Unicode>einem Turnsaal glich: hohe lange Glocken wie Kletterstangen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="522,3748 3730,3765 4010,3747 4009,3590 521,3608"/>
+                <Baseline points="561,3725 731,3720 901,3715 1072,3711 1242,3707 1413,3704 1583,3701 1753,3699 1924,3697 2094,3695 2265,3694 2435,3693 2605,3693 2776,3693 2946,3693 3117,3693 3287,3694 3457,3694 3628,3695 3798,3695 3969,3696"/>
+                <TextEquiv>
+                    <Unicode>u. eine unendliche Schar vom Instrumenten, Knaben, Frauen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="439,3881 3993,3873 3992,3741 3802,3709 438,3733"/>
+                <Baseline points="477,3864 650,3857 824,3852 998,3846 1172,3841 1346,3836 1520,3833 1694,3830 1868,3827 2042,3825 2216,3824 2389,3823 2563,3823 2737,3824 2911,3826 3085,3828 3259,3830 3433,3834 3607,3838 3781,3843 3955,3849"/>
+                <TextEquiv>
+                    <Unicode>stimmen. Dazu mitten drin Text von Nietzsche, das Ganze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="511,4065 2356,3961 3734,4030 3831,3872 508,3892"/>
+                <Baseline points="555,4004 716,3999 878,3995 1040,3990 1202,3986 1364,3982 1525,3979 1687,3975 1849,3972 2011,3969 2173,3966 2334,3964 2496,3961 2658,3959 2820,3958 2982,3956 3143,3955 3305,3954 3467,3953 3629,3952 3791,3952"/>
+                <TextEquiv>
+                    <Unicode>hypermodern - übermenschlich. Ich wurde angenehm ent„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="435,4244 3625,4260 3799,4243 3797,4012 2141,4111 804,4019 434,4129"/>
+                <Baseline points="478,4196 641,4195 805,4194 969,4193 1133,4192 1296,4191 1460,4189 1624,4187 1788,4186 1951,4184 2115,4183 2279,4181 2443,4180 2606,4179 2770,4179 2934,4179 3098,4179 3261,4180 3425,4181 3589,4183 3753,4185"/>
+                <TextEquiv>
+                    <Unicode>täuscht; er hat wirklich unendlich viel zu sagen u. leider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="456,4432 3787,4406 3785,4241 3406,4219 1485,4284 1105,4180 455,4276"/>
+                <Baseline points="500,4376 662,4369 824,4364 986,4359 1148,4356 1310,4353 1472,4351 1635,4349 1797,4349 1959,4348 2121,4348 2283,4348 2445,4348 2607,4348 2770,4347 2932,4347 3094,4346 3256,4344 3418,4342 3580,4339 3743,4335"/>
+                <TextEquiv>
+                    <Unicode>konnte ich beim ersten Anhören nicht entfernt überall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="445,4569 3908,4566 3908,4459 3331,4357 2836,4463 2573,4346 2391,4461 1039,4448 916,4349 445,4429"/>
+                <Baseline points="485,4524 654,4520 823,4517 992,4515 1161,4513 1331,4513 1500,4513 1669,4513 1838,4514 2007,4515 2177,4517 2346,4518 2515,4520 2684,4522 2853,4523 3023,4524 3192,4525 3361,4526 3530,4526 3699,4526 3869,4525"/>
+                <TextEquiv>
+                    <Unicode>eindringen. Was hier an neuen Sprachen u. Möglichkeiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>54&#xD;
+Familie zu gründen hätte u. eine allsommerliche Abwesenheit&#xD;
+im Felde mir eine sehr böse Beigabe scheint. Habilitation bringt&#xD;
+mich zunächst keinen Schritt weiter, würde sich aber jetzt ganz&#xD;
+gut machen. Branca rechnet fast fester damit als ich, will&#xD;
+wissen, was ich lesen würde u. dgl. Ich selbst habe noch garnicht&#xD;
+so recht das ganze Selbstvertrauen dazu, mein üblicher Fehler.&#xD;
+Ich weiß aber, daß ich d. Eisen Branca schmieden muß, solange&#xD;
+des heiß ist, also sage ich nicht nein. Fast 30 Jahre und 1500 M. Gehalt,&#xD;
+Und keine Aussicht für absehbare Zeit!&#xD;
+Ich hätte jetzt fast Neigung freies Junggesellentum zu&#xD;
+führen, aber die Neigung darf nicht aufkommen!&#xD;
+Abend: Lyceum-Klub, wo Erna in einem Tee ihrer Gesang„&#xD;
+lehrerin Hoppe singt. Ihre Stimme u. Fähigkeiten haben wirklich&#xD;
+achtunggebietende Ausbildung erfahren. Ich freue mich sehr&#xD;
+darüber, denn es muß ihr Selbstbewußtsein in ihre&#xD;
+Einsamkeit geben können.&#xD;
+11.) Abend: Mit Billet v. Hrn. Lorenz im Opernhaus,&#xD;
+Symphonie-Abend: Mozart u. zum ersten Male — Mahler.&#xD;
+Ich hatte vor letzterem eine gewisse Scheu, als ich erfuhr, daß er&#xD;
+als neues Ausdrucksmittel Ruten braucht, die an's Holz der&#xD;
+Pauke geschlagen werden(!), u. daß als ich sah wie das Orchester&#xD;
+einem Turnsaal glich: hohe lange Glocken wie Kletterstangen&#xD;
+u. eine unendliche Schar vom Instrumenten, Knaben, Frauen„&#xD;
+stimmen. Dazu mitten drin Text von Nietzsche, das Ganze&#xD;
+hypermodern - übermenschlich. Ich wurde angenehm ent„&#xD;
+täuscht; er hat wirklich unendlich viel zu sagen u. leider&#xD;
+konnte ich beim ersten Anhören nicht entfernt überall&#xD;
+eindringen. Was hier an neuen Sprachen u. Möglichkeiten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

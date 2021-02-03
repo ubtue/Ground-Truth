@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:14.845+02:00</Created>
+        <LastChange>2020-03-04T15:41:18.931+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581494" pageNr="46" tsid="24800681" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=ZQNRRUPJVEUYKIFRYRSBLPDF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMCDHRCENBFEARWBNZCBXMLO" imageId="4579383"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_46.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255752684" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="233,317 233,4726 4003,4726 4003,317"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="296,488 369,484 387,470 415,473 441,453 464,452 452,237 430,238 386,273 367,260 285,269"/>
+                <Baseline points="312,392 337,391 362,391 387,390 412,388 438,384"/>
+                <TextEquiv>
+                    <Unicode>44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="260,781 3966,787 3896,522 2963,677 259,557"/>
+                <Baseline points="284,719 476,721 669,723 861,724 1054,724 1246,724 1439,723 1632,723 1824,721 2017,720 2209,718 2402,717 2594,715 2787,714 2980,712 3172,711 3365,710 3557,710 3750,710 3943,710"/>
+                <TextEquiv>
+                    <Unicode>War erstaunt sie so klein, die Straßen so eng, den Verkehr nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="287,900 3824,899 3851,721 287,827"/>
+                <Baseline points="309,867 484,864 660,861 836,859 1012,856 1188,854 1364,852 1540,850 1716,849 1892,848 2068,847 2243,846 2419,846 2595,846 2771,846 2947,846 3123,847 3299,848 3475,850 3651,851 3827,854"/>
+                <TextEquiv>
+                    <Unicode>reger zu finden im Zentrum einer Welt. Aber mit Freuden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="305,1106 2034,992 3480,1103 3942,946 3342,851 304,928"/>
+                <Baseline points="329,1006 508,1007 687,1008 867,1009 1046,1009 1226,1009 1405,1008 1584,1007 1764,1007 1943,1006 2123,1005 2302,1004 2481,1003 2661,1002 2840,1002 3020,1001 3199,1001 3378,1001 3558,1001 3737,1002 3917,1003"/>
+                <TextEquiv>
+                    <Unicode>fühlte u. sah ich überall die persönliche Note dieses seltsamen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="304,1164 3827,1168 3825,1026 3651,1023 303,1109"/>
+                <Baseline points="326,1154 499,1154 673,1153 847,1152 1021,1151 1195,1150 1369,1148 1542,1146 1716,1144 1890,1142 2064,1140 2238,1137 2412,1135 2586,1134 2759,1132 2933,1130 3107,1129 3281,1128 3455,1128 3629,1128 3803,1128"/>
+                <TextEquiv>
+                    <Unicode>Stadtbildes und den Odem seiner Geschichte. Abends zum Korso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="362,1327 3903,1366 3770,1169 362,1180"/>
+                <Baseline points="384,1291 558,1294 733,1296 908,1298 1083,1299 1258,1300 1433,1300 1608,1300 1783,1300 1958,1300 2133,1299 2307,1298 2482,1298 2657,1297 2832,1296 3007,1296 3182,1295 3357,1295 3532,1295 3707,1296 3882,1297"/>
+                <TextEquiv>
+                    <Unicode>im Park bei Musik, ein prachtvoller Blick des heutigen Lupus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="385,1492 3734,1502 3732,1323 3325,1304 384,1383"/>
+                <Baseline points="409,1451 574,1452 739,1451 904,1451 1069,1450 1234,1449 1399,1448 1564,1447 1729,1445 1894,1443 2060,1442 2225,1439 2390,1438 2555,1435 2720,1433 2885,1432 3050,1430 3215,1428 3380,1426 3545,1425 3711,1424"/>
+                <TextEquiv>
+                    <Unicode>der sich neben dem der Kaiserzeit nicht zu verstecken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="349,1632 3927,1651 3926,1505 3276,1443 349,1499"/>
+                <Baseline points="373,1600 549,1599 725,1598 902,1598 1078,1598 1255,1597 1431,1597 1608,1597 1784,1596 1961,1596 2137,1596 2313,1595 2490,1595 2666,1594 2843,1593 3019,1592 3196,1591 3372,1590 3549,1588 3725,1586 3902,1583"/>
+                <TextEquiv>
+                    <Unicode>braucht. Nirgend wie in dieser Stadt der Alten könnte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="406,1794 1097,1765 1322,1845 1504,1729 1811,1835 1934,1756 2127,1828 2126,1691 1905,1619 1663,1672 1493,1610 1339,1698 1137,1677 1049,1596 405,1666"/>
+                <Baseline points="427,1759 510,1758 594,1757 678,1755 762,1753 846,1752 929,1750 1013,1748 1097,1747 1181,1745 1265,1743 1348,1742 1432,1742 1516,1741 1600,1741 1684,1741 1767,1741 1851,1743 1935,1744 2019,1746 2103,1749"/>
+                <TextEquiv>
+                    <Unicode>die Moderne so genießen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} textStyle {offset:0; length:19;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="591,1920 3862,1933 3862,1810 3670,1756 591,1819"/>
+                <Baseline points="615,1890 776,1892 937,1893 1098,1894 1259,1895 1421,1895 1582,1895 1743,1895 1904,1895 2065,1894 2227,1893 2388,1892 2549,1891 2710,1890 2871,1889 3033,1888 3194,1888 3355,1887 3516,1886 3677,1886 3839,1886"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 22. Oct. Durch neue Straßen mit immer neuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="417,2033 3949,2017 3756,1900 416,1937"/>
+                <Baseline points="439,2022 613,2022 787,2020 961,2019 1136,2018 1310,2016 1484,2015 1659,2014 1833,2012 2007,2011 2182,2009 2356,2008 2530,2006 2704,2005 2879,2004 3053,2003 3227,2002 3402,2001 3576,2001 3750,2001 3925,2001"/>
+                <TextEquiv>
+                    <Unicode>typischen Bildern nach St. Peter. Gottesdienst wenig berückend. Dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583332524925_916" custom="readingOrder {index:11;}">
+                <Coords points="423,2144 839,2033 1187,2138 2827,2076 2827,2254 423,2268"/>
+                <Baseline points="447,2191 619,2189 791,2187 963,2186 1136,2185 1308,2184 1480,2183 1652,2182 1825,2182 1997,2182 2169,2181 2341,2181 2514,2181 2686,2181 2827,2181"/>
+                <TextEquiv>
+                    <Unicode>zum Forum. Hier kam ich in eine selten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583332516735_909" custom="readingOrder {index:12;}">
+                <Coords points="2802,2076 2835,2073 2866,2069 2873,2119 2841,2123 2806,2126"/>
+                <Baseline points="2806,2121 2840,2118 2872,2114"/>
+                <TextEquiv>
+                    <Unicode>so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583332524925_915" custom="readingOrder {index:13;}">
+                <Coords points="2827,2076 3707,2043 3914,2248 2827,2254"/>
+                <Baseline points="2827,2181 2858,2181 3030,2180 3203,2180 3375,2179 3547,2179 3719,2178 3892,2177"/>
+                <TextEquiv>
+                    <Unicode>gefühlte Genußstim„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:14;}">
+                <Coords points="446,2371 3662,2364 3900,2344 3899,2239 445,2280"/>
+                <Baseline points="468,2338 638,2336 808,2334 979,2332 1149,2330 1320,2329 1490,2327 1661,2326 1831,2324 2002,2323 2172,2322 2342,2321 2513,2320 2683,2319 2854,2318 3024,2317 3195,2317 3365,2316 3536,2316 3706,2315 3877,2315"/>
+                <TextEquiv>
+                    <Unicode>mung, eigentlich wider Erwarten. Leider zum ersten Male</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:15;}">
+                <Coords points="435,2515 3871,2486 3330,2322 435,2415"/>
+                <Baseline points="459,2478 628,2478 797,2478 967,2478 1136,2478 1306,2477 1475,2476 1645,2476 1814,2475 1984,2474 2153,2474 2322,2473 2492,2472 2661,2472 2831,2472 3000,2472 3170,2472 3339,2473 3509,2473 3678,2474 3848,2476"/>
+                <TextEquiv>
+                    <Unicode>keine Sonne (Brief an Mama). Dennoch prachtvolle Bilder, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:16;}">
+                <Coords points="428,2683 1215,2715 1489,2594 1723,2698 2944,2604 3370,2702 3918,2539 427,2550"/>
+                <Baseline points="451,2624 623,2618 795,2613 967,2610 1139,2606 1311,2604 1483,2602 1655,2600 1827,2599 1999,2598 2172,2597 2344,2597 2516,2597 2688,2597 2860,2597 3032,2597 3204,2597 3376,2597 3548,2597 3720,2596 3893,2595"/>
+                <TextEquiv>
+                    <Unicode>daß ich am liebsten längere Zeit zum Malen hiergeblieben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815391590_798" custom="readingOrder {index:17;}">
+                <Coords points="443,2832 3051,2874 3554,2764 3893,2856 3957,2673 443,2690"/>
+                <Baseline points="467,2770 493,2769 519,2768 545,2767 571,2767 597,2767 623,2767 649,2767 675,2767 702,2767 728,2768 754,2769 780,2770 806,2770 832,2772 858,2773 884,2775 910,2777 937,2778 1177,2770 1314,2769 1452,2768 1590,2768 1728,2767 1866,2767 2004,2767 2142,2767 2280,2768 2418,2768 2556,2769 2693,2769 2831,2770 2969,2770 3107,2771 3245,2771 3383,2771 3521,2771 3659,2771 3797,2770 3935,2770"/>
+                <TextEquiv>
+                    <Unicode>wäre. Abends wieder zum Korso. Mich freut herzlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:18;}">
+                <Coords points="461,2979 2401,2891 3682,2994 3970,2949 3970,2844 461,2847"/>
+                <Baseline points="483,2913 656,2908 829,2904 1002,2901 1175,2898 1349,2896 1522,2895 1695,2894 1868,2893 2041,2893 2215,2893 2388,2894 2561,2895 2734,2896 2907,2898 3081,2901 3254,2903 3427,2906 3600,2909 3773,2913 3947,2917"/>
+                <TextEquiv>
+                    <Unicode>wieder der Anblick der Europäerinnen, den ich in Kilwa schon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:19;}">
+                <Coords points="464,3142 986,3059 1384,3163 3049,3141 3699,3076 3758,2970 464,2977"/>
+                <Baseline points="486,3060 648,3062 811,3063 973,3064 1136,3064 1298,3064 1461,3064 1623,3064 1786,3063 1948,3063 2111,3062 2273,3061 2436,3060 2598,3060 2761,3059 2923,3058 3086,3058 3248,3058 3411,3058 3573,3058 3736,3059"/>
+                <TextEquiv>
+                    <Unicode>zu vermissen begann. Leider so lange Abende, die den Tag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:20;}">
+                <Coords points="493,3276 571,3307 584,3293 667,3302 731,3264 758,3278 827,3259 908,3203 936,3203 935,3098 867,3126 853,3112 830,3135 812,3122 762,3159 706,3137 688,3150 606,3137 565,3142 528,3179 492,3180"/>
+                <Baseline points="513,3213 539,3214 566,3216 592,3216 619,3217 645,3217 672,3217 698,3216 725,3216 751,3216 778,3215 804,3214 831,3214 857,3213 884,3211 911,3211"/>
+                <TextEquiv>
+                    <Unicode>kürzen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:21;}">
+                <Coords points="636,3390 3532,3454 3930,3395 3930,3267 636,3299"/>
+                <Baseline points="657,3346 819,3349 982,3352 1144,3354 1307,3355 1469,3357 1632,3357 1794,3358 1957,3358 2119,3358 2282,3358 2444,3358 2607,3357 2769,3356 2932,3355 3094,3355 3257,3354 3419,3353 3582,3352 3744,3351 3907,3351"/>
+                <TextEquiv>
+                    <Unicode>23. Oct. Morgens Droschke zum Tor nach 5. Zu Fuß die Via Appia ent„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:22;}">
+                <Coords points="478,3554 3914,3552 3914,3405 3630,3365 478,3394"/>
+                <Baseline points="499,3506 668,3501 838,3496 1007,3492 1177,3489 1346,3486 1516,3485 1685,3483 1855,3482 2024,3482 2194,3482 2364,3483 2533,3483 2703,3484 2872,3485 3042,3487 3211,3488 3381,3489 3550,3490 3720,3491 3890,3492"/>
+                <TextEquiv>
+                    <Unicode>lang, etwas enttäuscht durch Entfernung und Mauereinfriedi„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:23;}">
+                <Coords points="476,3753 4026,3679 3583,3536 476,3551"/>
+                <Baseline points="499,3654 674,3653 849,3652 1024,3651 1199,3650 1375,3650 1550,3650 1725,3650 1900,3650 2075,3650 2251,3650 2426,3651 2601,3652 2776,3653 2951,3653 3127,3655 3302,3656 3477,3657 3652,3659 3827,3660 4003,3662"/>
+                <TextEquiv>
+                    <Unicode>gungen, aber entschädigt durch Blick in die Campagna. Recht warm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815397064_803" custom="readingOrder {index:24;}">
+                <Coords points="456,3892 2130,3793 3827,3886 3978,3854 3978,3689 455,3760"/>
+                <Baseline points="480,3797 534,3798 588,3800 642,3801 696,3801 750,3801 804,3801 858,3801 912,3800 966,3799 1020,3798 1074,3796 1128,3795 1182,3794 1236,3792 1290,3791 1344,3789 1398,3788 1452,3787 1506,3786 1561,3785 1590,3773 1708,3778 1826,3783 1944,3786 2063,3789 2181,3791 2299,3793 2418,3794 2536,3794 2654,3794 2773,3794 2891,3793 3009,3793 3127,3792 3246,3791 3364,3790 3482,3789 3601,3788 3719,3788 3837,3788 3956,3788"/>
+                <TextEquiv>
+                    <Unicode>Zu Fuß bis St. Peter zurück. Im Vatican: Loggien u. Stanzen von Raffael,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="451,4003 3864,4033 3996,3832 451,3888"/>
+                <Baseline points="475,3946 650,3946 825,3945 1000,3945 1175,3945 1350,3945 1525,3945 1700,3945 1875,3945 2050,3945 2225,3945 2400,3945 2575,3945 2750,3944 2925,3944 3100,3944 3275,3944 3450,3944 3625,3944 3800,3944 3975,3943"/>
+                <TextEquiv>
+                    <Unicode>Sixtinische Kapelle, Landkartenzimmer. Eine Unsumme von Können ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="462,4191 1312,4070 1541,4178 1705,4080 1935,4183 2231,4080 3733,4136 3897,4116 3896,3960 460,3999"/>
+                <Baseline points="482,4102 651,4095 821,4089 990,4084 1160,4080 1329,4078 1499,4075 1668,4074 1838,4073 2007,4073 2177,4072 2347,4072 2516,4072 2686,4072 2855,4071 3025,4070 3194,4069 3364,4067 3533,4064 3703,4061 3873,4056"/>
+                <TextEquiv>
+                    <Unicode>hier konzentriert durch den Reichtum. Mich verblüffte vor allem die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="436,4319 3017,4243 3849,4340 4000,4290 4000,4088 436,4182"/>
+                <Baseline points="457,4244 633,4241 809,4239 985,4238 1161,4236 1337,4235 1513,4235 1689,4234 1865,4234 2041,4234 2217,4235 2393,4235 2569,4236 2745,4236 2921,4237 3097,4238 3273,4239 3449,4240 3625,4241 3801,4242 3977,4242"/>
+                <TextEquiv>
+                    <Unicode>Plastik der Deckenmalerei und die unerschöpfliche Erfindungskraft,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="502,4411 2913,4385 3124,4475 3837,4393 3837,4306 501,4293"/>
+                <Baseline points="526,4395 690,4385 854,4376 1019,4369 1183,4363 1347,4358 1512,4354 1676,4351 1840,4349 2005,4348 2169,4348 2333,4348 2498,4349 2662,4350 2826,4351 2991,4352 3155,4354 3319,4355 3484,4357 3648,4358 3813,4358"/>
+                <TextEquiv>
+                    <Unicode>die sich mit der Anregung der dürftigen heiligen Schrift und der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="213,4634 1123,4563 1411,4631 1553,4553 2253,4629 2491,4532 2610,4619 2893,4554 2893,4431 2019,4415 1855,4493 1214,4366 715,4486 212,4414"/>
+                <Baseline points="233,4538 364,4538 496,4538 628,4537 760,4537 892,4537 1024,4536 1156,4536 1288,4536 1420,4535 1552,4535 1683,4535 1815,4534 1947,4534 2079,4534 2211,4533 2343,4533 2475,4533 2607,4533 2739,4532 2871,4532"/>
+                <TextEquiv>
+                    <Unicode>griechischen Überlieferung genügen läßt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="742,4733 3158,4780 3876,4696 3875,4494 3066,4616 2462,4544 1758,4634 1542,4543 742,4628"/>
+                <Baseline points="763,4693 917,4690 1072,4687 1226,4685 1381,4684 1535,4682 1690,4681 1844,4681 1999,4681 2153,4680 2308,4680 2463,4680 2617,4680 2772,4681 2926,4681 3081,4680 3235,4680 3390,4680 3544,4679 3699,4678 3854,4677"/>
+                <TextEquiv>
+                    <Unicode>Dann zum Hotel und zur Bahn: Fahrt nach Florenz. Wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>44&#xD;
+War erstaunt sie so klein, die Straßen so eng, den Verkehr nicht&#xD;
+reger zu finden im Zentrum einer Welt. Aber mit Freuden&#xD;
+fühlte u. sah ich überall die persönliche Note dieses seltsamen&#xD;
+Stadtbildes und den Odem seiner Geschichte. Abends zum Korso&#xD;
+im Park bei Musik, ein prachtvoller Blick des heutigen Lupus,&#xD;
+der sich neben dem der Kaiserzeit nicht zu verstecken&#xD;
+braucht. Nirgend wie in dieser Stadt der Alten könnte ich&#xD;
+die Moderne so genießen.&#xD;
+Sonntag d. 22. Oct. Durch neue Straßen mit immer neuen&#xD;
+typischen Bildern nach St. Peter. Gottesdienst wenig berückend. Dann&#xD;
+zum Forum. Hier kam ich in eine selten&#xD;
+so&#xD;
+gefühlte Genußstim„&#xD;
+mung, eigentlich wider Erwarten. Leider zum ersten Male&#xD;
+keine Sonne (Brief an Mama). Dennoch prachtvolle Bilder, so&#xD;
+daß ich am liebsten längere Zeit zum Malen hiergeblieben&#xD;
+wäre. Abends wieder zum Korso. Mich freut herzlich&#xD;
+wieder der Anblick der Europäerinnen, den ich in Kilwa schon&#xD;
+zu vermissen begann. Leider so lange Abende, die den Tag&#xD;
+kürzen!&#xD;
+23. Oct. Morgens Droschke zum Tor nach 5. Zu Fuß die Via Appia ent„&#xD;
+lang, etwas enttäuscht durch Entfernung und Mauereinfriedi„&#xD;
+gungen, aber entschädigt durch Blick in die Campagna. Recht warm.&#xD;
+Zu Fuß bis St. Peter zurück. Im Vatican: Loggien u. Stanzen von Raffael,&#xD;
+Sixtinische Kapelle, Landkartenzimmer. Eine Unsumme von Können ist&#xD;
+hier konzentriert durch den Reichtum. Mich verblüffte vor allem die&#xD;
+Plastik der Deckenmalerei und die unerschöpfliche Erfindungskraft,&#xD;
+die sich mit der Anregung der dürftigen heiligen Schrift und der&#xD;
+griechischen Überlieferung genügen läßt.&#xD;
+Dann zum Hotel und zur Bahn: Fahrt nach Florenz. Wie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

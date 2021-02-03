@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:15.472+02:00</Created>
+        <LastChange>2020-04-02T09:08:52.179+02:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581505" pageNr="57" tsid="26873390" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=HZCDAKDIZPIDYAARICAAHPBL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LMELHOKIFUZDTHBJQPGCPHPZ" imageId="4579394"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_57.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255755905" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:0;}">
+            <Coords points="280,239 280,4696 3985,4696 3985,239"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="3659,337 3704,343 3714,335 3754,359 3791,346 3804,360 3827,361 3833,178 3801,177 3782,195 3769,190 3741,203 3718,188 3695,210 3663,209"/>
+                <Baseline points="3682,307 3712,309 3743,309 3774,310 3805,312"/>
+                <TextEquiv>
+                    <Unicode>55</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:1;}">
+                <Coords points="258,779 3926,734 3771,573 3226,525 2749,638 259,601"/>
+                <Baseline points="280,679 461,680 642,681 823,681 1004,682 1185,683 1366,684 1547,684 1728,685 1909,686 2091,687 2272,687 2453,688 2634,689 2815,689 2996,690 3177,691 3358,691 3539,692 3720,692 3902,692"/>
+                <TextEquiv>
+                    <Unicode>geboren wird, ist unfaßbar. Es fesselte mich von Anfang bis zu Ende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582816002154_972" custom="readingOrder {index:2;}">
+                <Coords points="308,862 1320,830 1534,941 1865,814 2432,945 3298,839 3663,946 3998,874 3999,755 308,729"/>
+                <Baseline points="331,832 406,829 482,826 557,824 633,822 708,820 784,819 859,817 935,816 1010,815 1086,815 1162,814 1237,813 1313,813 1388,812 1464,812 1539,811 1615,811 1690,810 1766,810 1842,809 2036,805 2111,812 2187,817 2262,822 2338,826 2413,829 2489,831 2564,832 2640,833 2715,834 2791,834 2867,834 2942,834 3018,834 3093,833 3169,833 3244,833 3320,834 3395,834 3471,835 3547,837 3582,822 3608,822 3634,822 3661,821 3687,821 3713,820 3740,820 3766,820 3792,820 3819,820 3845,821 3871,822 3898,823 3924,826 3950,829 3977,832"/>
+                <TextEquiv>
+                    <Unicode>u. erweckte den Wunsch es gleich noch einmal zu hören.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l6" custom="readingOrder {index:3;}">
+                <Coords points="426,1012 3388,1063 3846,1008 3846,889 426,902"/>
+                <Baseline points="448,982 616,982 785,982 954,982 1123,982 1291,982 1460,982 1629,982 1798,983 1966,983 2135,983 2304,983 2473,983 2641,983 2810,983 2979,983 3148,983 3316,983 3485,982 3654,982 3823,981"/>
+                <TextEquiv>
+                    <Unicode>12.) Abends: Gebrüder Hackmann u. Gebr. Stöckhardt, so wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l7" custom="readingOrder {index:4;}">
+                <Coords points="362,1183 3764,1141 3764,1035 3288,1002 362,1004"/>
+                <Baseline points="385,1117 552,1115 720,1113 888,1113 1056,1112 1223,1113 1391,1113 1559,1114 1727,1115 1894,1117 2062,1118 2230,1120 2398,1121 2565,1122 2733,1123 2901,1124 3069,1124 3236,1124 3404,1123 3572,1121 3740,1119"/>
+                <TextEquiv>
+                    <Unicode>E. Schultze-Lindi hier. Gemütlicher Abend, Herr Schulze schien mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l8" custom="readingOrder {index:5;}">
+                <Coords points="362,1306 2651,1259 3672,1373 3892,1296 3893,1154 362,1192"/>
+                <Baseline points="386,1266 560,1267 734,1267 908,1268 1082,1268 1256,1268 1430,1269 1604,1269 1778,1269 1952,1269 2127,1270 2301,1270 2475,1271 2649,1271 2823,1272 2997,1273 3171,1274 3345,1276 3519,1277 3693,1279 3868,1281"/>
+                <TextEquiv>
+                    <Unicode>leider nicht recht warm zu werden. Photographieen gezeigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582816012569_977" custom="readingOrder {index:6;}">
+                <Coords points="490,1462 3997,1491 3996,1330 3396,1288 489,1343"/>
+                <Baseline points="511,1427 566,1427 621,1427 676,1427 731,1428 787,1428 842,1428 897,1428 952,1428 1007,1428 1063,1428 1118,1428 1173,1428 1228,1428 1283,1428 1339,1428 1394,1428 1449,1427 1504,1427 1559,1427 1615,1426 1647,1415 1758,1416 1870,1417 1982,1417 2094,1416 2206,1415 2318,1414 2430,1413 2542,1411 2654,1410 2766,1409 2877,1407 2989,1406 3101,1406 3213,1406 3325,1406 3437,1407 3549,1408 3661,1411 3773,1414 3885,1418 3914,1433 3944,1439 3974,1439"/>
+                <TextEquiv>
+                    <Unicode>13.) In Landesanstalt u. Völkerkunde-Museum Besuche gemacht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l12" custom="readingOrder {index:7;}">
+                <Coords points="428,1587 927,1617 1073,1571 1385,1661 1641,1600 1641,1481 1517,1441 1389,1505 1210,1451 661,1517 427,1450"/>
+                <Baseline points="452,1556 510,1559 568,1560 627,1562 685,1563 744,1563 802,1562 860,1562 919,1561 977,1560 1036,1559 1094,1558 1152,1557 1211,1556 1269,1555 1328,1555 1386,1555 1444,1556 1503,1558 1561,1560 1620,1562"/>
+                <TextEquiv>
+                    <Unicode>niemand getroffen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l13" custom="readingOrder {index:8;}">
+                <Coords points="536,1746 3375,1767 3778,1632 2774,1504 2322,1644 536,1636"/>
+                <Baseline points="557,1699 717,1701 877,1702 1037,1702 1197,1702 1357,1701 1517,1700 1677,1699 1837,1697 1997,1696 2157,1694 2317,1692 2477,1691 2637,1689 2797,1688 2957,1687 3117,1687 3277,1687 3437,1688 3597,1690 3757,1692"/>
+                <TextEquiv>
+                    <Unicode>14.) Abd. Mit Mama u. Liesbeth im Marcell Salzer-Abend in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l14" custom="readingOrder {index:9;}">
+                <Coords points="389,1891 3791,1905 3517,1740 1676,1813 1461,1708 1026,1804 389,1722"/>
+                <Baseline points="412,1851 579,1855 747,1857 915,1859 1083,1861 1251,1861 1419,1861 1587,1861 1755,1861 1923,1860 2091,1859 2258,1858 2426,1857 2594,1856 2762,1856 2930,1856 3098,1856 3266,1857 3434,1858 3602,1860 3770,1863"/>
+                <TextEquiv>
+                    <Unicode>Friedenau. Mit seinen Humoristischen Vorträgen u. seiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l15" custom="readingOrder {index:10;}">
+                <Coords points="402,2110 663,2013 1057,2114 1551,2003 2192,2112 3822,2008 3685,1903 402,1922"/>
+                <Baseline points="427,2011 595,2010 764,2009 932,2009 1101,2009 1270,2009 1438,2009 1607,2009 1775,2010 1944,2010 2113,2010 2281,2011 2450,2011 2618,2011 2787,2010 2956,2009 3124,2008 3293,2006 3461,2004 3630,2001 3799,1998"/>
+                <TextEquiv>
+                    <Unicode>gemütlichen großen Vortragskunst hat Salzer eigentlich eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582816021025_982" custom="readingOrder {index:11;}">
+                <Coords points="415,2258 1345,2144 1491,2263 2686,2159 3487,2269 3748,2187 3748,2059 415,2097"/>
+                <Baseline points="440,2160 486,2161 533,2163 580,2163 626,2164 673,2164 720,2164 766,2163 813,2163 860,2162 907,2160 953,2159 1000,2158 1047,2156 1093,2154 1140,2153 1187,2151 1233,2149 1280,2147 1327,2146 1374,2144 1397,2155 1513,2157 1630,2159 1746,2160 1863,2161 1979,2161 2096,2161 2212,2161 2329,2161 2445,2161 2562,2160 2678,2160 2795,2159 2911,2159 3028,2159 3144,2159 3261,2159 3377,2160 3494,2161 3610,2162 3727,2164"/>
+                <TextEquiv>
+                    <Unicode>ganz neue Kunst geschaffen, die mich ungemein anspricht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l18" custom="readingOrder {index:12;}">
+                <Coords points="507,2328 3908,2413 3813,2220 507,2182"/>
+                <Baseline points="529,2308 705,2303 882,2298 1059,2296 1236,2294 1412,2293 1589,2294 1766,2295 1943,2296 2120,2298 2296,2300 2473,2302 2650,2305 2827,2307 3004,2308 3180,2310 3357,2310 3534,2310 3711,2309 3888,2307"/>
+                <TextEquiv>
+                    <Unicode>Lieder zur Laute von einer Dame, deren Stimme leidlich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l19" custom="readingOrder {index:13;}">
+                <Coords points="498,2518 2874,2504 2875,2390 2514,2295 2197,2398 2051,2319 1309,2391 1104,2294 842,2397 499,2321"/>
+                <Baseline points="519,2428 635,2431 752,2434 868,2436 985,2438 1101,2439 1218,2440 1334,2440 1451,2440 1567,2441 1684,2441 1801,2441 1917,2441 2034,2441 2150,2442 2267,2443 2383,2445 2500,2447 2616,2449 2733,2453 2850,2457"/>
+                <TextEquiv>
+                    <Unicode>deren Biedermeier-Kostüm unleidlich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l20" custom="readingOrder {index:14;}">
+                <Coords points="539,2605 3955,2632 3955,2518 3666,2468 539,2499"/>
+                <Baseline points="564,2578 732,2580 900,2581 1068,2581 1237,2581 1405,2581 1573,2580 1742,2579 1910,2578 2078,2577 2247,2576 2415,2575 2583,2574 2751,2574 2920,2574 3088,2574 3256,2575 3425,2576 3593,2578 3761,2580 3930,2584"/>
+                <TextEquiv>
+                    <Unicode>16.) Abds. wieder mit Herrn Schulze im Konzert der Musikhochschule:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l21" custom="readingOrder {index:15;}">
+                <Coords points="412,2817 1127,2765 1735,2840 1996,2768 1997,2671 1704,2698 1209,2600 1118,2678 930,2682 413,2602"/>
+                <Baseline points="437,2742 513,2742 590,2742 667,2742 744,2741 821,2741 898,2741 975,2741 1052,2741 1129,2741 1206,2741 1282,2741 1359,2741 1436,2742 1513,2742 1590,2743 1667,2744 1744,2745 1821,2746 1898,2747 1975,2749"/>
+                <TextEquiv>
+                    <Unicode>Oktett, Trio u. Solo-Sängerin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l22" custom="readingOrder {index:16;} textStyle {offset:0; length:14;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="277,3003 3982,2967 3981,2848 3651,2793 277,2815"/>
+                <Baseline points="298,2913 481,2915 664,2917 847,2918 1030,2918 1213,2918 1396,2917 1579,2915 1762,2914 1945,2912 2129,2911 2312,2909 2495,2908 2678,2907 2861,2906 3044,2907 3227,2907 3410,2909 3593,2911 3776,2914 3960,2919"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 17. Nachm. in d. Urania zu Lichtbildervorführung von Kinema„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l23" custom="readingOrder {index:17;}">
+                <Coords points="377,3113 3756,3120 3980,2992 3298,2901 3192,2998 377,2998"/>
+                <Baseline points="401,3049 578,3049 756,3048 934,3047 1112,3046 1289,3046 1467,3045 1645,3044 1823,3043 2000,3043 2178,3042 2356,3042 2534,3041 2711,3041 2889,3041 3067,3041 3245,3041 3422,3042 3600,3043 3778,3044 3956,3045"/>
+                <TextEquiv>
+                    <Unicode>tographischen Tieraufnahmen aus der europ. Vogelwelt u. afri„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l24" custom="readingOrder {index:18;}">
+                <Coords points="421,3194 715,3288 1612,3159 2876,3276 3842,3206 3282,3053 421,3097"/>
+                <Baseline points="442,3192 610,3187 779,3182 948,3177 1117,3173 1286,3170 1454,3167 1623,3164 1792,3162 1961,3160 2130,3159 2298,3158 2467,3158 2636,3158 2805,3159 2974,3160 3142,3162 3311,3164 3480,3166 3649,3169 3818,3173"/>
+                <TextEquiv>
+                    <Unicode>kanischem Großwild, ganz überraschend prächtige Sachen vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l25" custom="readingOrder {index:19;}">
+                <Coords points="444,3338 3910,3393 3869,3242 444,3223"/>
+                <Baseline points="465,3323 636,3326 807,3328 978,3329 1149,3330 1320,3330 1491,3330 1662,3330 1833,3329 2004,3328 2175,3327 2346,3326 2517,3325 2688,3325 2859,3325 3030,3325 3201,3325 3372,3327 3543,3329 3714,3332 3885,3336"/>
+                <TextEquiv>
+                    <Unicode>Nestleben aus nächster Nähe erlauscht, dann ein anstürmendes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l26" custom="readingOrder {index:20;}">
+                <Coords points="423,3529 1851,3456 2895,3558 4008,3413 422,3373"/>
+                <Baseline points="447,3464 623,3462 800,3460 977,3459 1154,3458 1331,3457 1508,3456 1685,3456 1862,3455 2039,3455 2216,3455 2392,3455 2569,3455 2746,3455 2923,3454 3100,3454 3277,3453 3454,3453 3631,3451 3808,3450 3985,3448"/>
+                <TextEquiv>
+                    <Unicode>Nashorn — o Wahnsinn! — aus 12 m. photographiert im Vertrauen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l27" custom="readingOrder {index:21;}">
+                <Coords points="420,3670 1871,3691 2063,3585 2379,3703 3519,3588 3684,3692 3775,3490 419,3524"/>
+                <Baseline points="440,3610 605,3606 771,3602 937,3599 1102,3597 1268,3595 1434,3594 1599,3593 1765,3593 1931,3593 2097,3593 2262,3593 2428,3593 2594,3593 2759,3593 2925,3592 3091,3592 3256,3591 3422,3589 3588,3587 3754,3585"/>
+                <TextEquiv>
+                    <Unicode>auf Büchse des Begleiters, als Höhepunkt aber eine Jagd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l28" custom="readingOrder {index:22;}">
+                <Coords points="405,3788 3954,3778 3953,3682 3485,3590 404,3692"/>
+                <Baseline points="426,3764 601,3761 776,3758 951,3756 1126,3753 1301,3750 1476,3747 1652,3745 1827,3743 2002,3740 2177,3739 2352,3737 2527,3735 2702,3734 2878,3733 3053,3733 3228,3733 3403,3733 3578,3733 3753,3734 3929,3735"/>
+                <TextEquiv>
+                    <Unicode>von Massai's auf einen Löwen in offener Buschsteppe u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l29" custom="readingOrder {index:23;}">
+                <Coords points="415,3996 3995,3954 3994,3812 3509,3768 414,3822"/>
+                <Baseline points="439,3906 615,3903 792,3901 969,3899 1145,3898 1322,3896 1499,3895 1675,3894 1852,3893 2029,3892 2206,3892 2382,3891 2559,3891 2736,3891 2912,3890 3089,3890 3266,3890 3442,3890 3619,3889 3796,3889 3973,3889"/>
+                <TextEquiv>
+                    <Unicode>seine Erlegung mit Speeren auf 40 m. Entfernung! Derartige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l30" custom="readingOrder {index:24;}">
+                <Coords points="379,4072 948,4158 1208,4059 1483,4152 3919,4069 3917,3954 3610,3884 378,3994"/>
+                <Baseline points="404,4055 578,4054 753,4053 927,4052 1102,4050 1277,4048 1451,4045 1626,4043 1800,4040 1975,4038 2150,4035 2324,4033 2499,4031 2673,4029 2848,4027 3023,4026 3197,4025 3372,4026 3546,4026 3721,4028 3896,4030"/>
+                <TextEquiv>
+                    <Unicode>Wunder Jedem zugänglich, man möchte an der Möglichkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l31" custom="readingOrder {index:25;}">
+                <Coords points="409,4260 3852,4233 3800,4069 2971,4038 408,4159"/>
+                <Baseline points="430,4207 600,4210 770,4212 940,4212 1110,4211 1280,4209 1450,4207 1620,4204 1790,4201 1960,4197 2130,4194 2300,4191 2470,4188 2640,4186 2810,4185 2980,4185 3150,4186 3320,4188 3490,4192 3660,4198 3830,4207"/>
+                <TextEquiv>
+                    <Unicode>immer noch mehr zu bieten verzweifeln. Und d. Saal fast</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l32" custom="readingOrder {index:26;}">
+                <Coords points="419,4420 3972,4425 3971,4278 3723,4189 3518,4296 418,4282"/>
+                <Baseline points="441,4381 616,4376 791,4371 966,4366 1142,4362 1317,4359 1492,4356 1668,4353 1843,4351 2018,4349 2194,4347 2369,4346 2544,4345 2719,4344 2895,4344 3070,4344 3245,4345 3421,4345 3596,4346 3771,4347 3947,4348"/>
+                <TextEquiv>
+                    <Unicode>leer! Freilich die andern Kinomatographen und Spezialitäten„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l33" custom="readingOrder {index:27;}">
+                <Coords points="418,4562 3376,4539 3375,4457 2853,4355 2524,4453 417,4430"/>
+                <Baseline points="441,4532 586,4527 732,4522 877,4518 1023,4515 1169,4513 1314,4511 1460,4509 1605,4508 1751,4508 1897,4507 2042,4507 2188,4507 2333,4507 2479,4507 2625,4507 2770,4508 2916,4507 3061,4507 3207,4506 3353,4505"/>
+                <TextEquiv>
+                    <Unicode>theater können sich nicht retten vor Besuchern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l34" custom="readingOrder {index:28;}">
+                <Coords points="743,4747 1575,4663 2505,4751 2949,4633 3403,4763 3948,4713 3946,4548 3479,4519 741,4573"/>
+                <Baseline points="764,4667 930,4664 1096,4660 1262,4656 1429,4651 1595,4646 1761,4641 1927,4637 2094,4633 2260,4630 2426,4626 2592,4624 2759,4624 2925,4624 3091,4626 3257,4629 3424,4634 3590,4641 3756,4650 3923,4661"/>
+                <TextEquiv>
+                    <Unicode>In der Stadt etwas gebummelt, dann in's Charlotten„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>55&#xD;
+geboren wird, ist unfaßbar. Es fesselte mich von Anfang bis zu Ende&#xD;
+u. erweckte den Wunsch es gleich noch einmal zu hören.&#xD;
+12.) Abends: Gebrüder Hackmann u. Gebr. Stöckhardt, so wie&#xD;
+E. Schultze-Lindi hier. Gemütlicher Abend, Herr Schulze schien mir&#xD;
+leider nicht recht warm zu werden. Photographieen gezeigt.&#xD;
+13.) In Landesanstalt u. Völkerkunde-Museum Besuche gemacht,&#xD;
+niemand getroffen.&#xD;
+14.) Abd. Mit Mama u. Liesbeth im Marcell Salzer-Abend in&#xD;
+Friedenau. Mit seinen Humoristischen Vorträgen u. seiner&#xD;
+gemütlichen großen Vortragskunst hat Salzer eigentlich eine&#xD;
+ganz neue Kunst geschaffen, die mich ungemein anspricht.&#xD;
+Lieder zur Laute von einer Dame, deren Stimme leidlich,&#xD;
+deren Biedermeier-Kostüm unleidlich.&#xD;
+16.) Abds. wieder mit Herrn Schulze im Konzert der Musikhochschule:&#xD;
+Oktett, Trio u. Solo-Sängerin.&#xD;
+Sonntag d. 17. Nachm. in d. Urania zu Lichtbildervorführung von Kinema„&#xD;
+tographischen Tieraufnahmen aus der europ. Vogelwelt u. afri„&#xD;
+kanischem Großwild, ganz überraschend prächtige Sachen vom&#xD;
+Nestleben aus nächster Nähe erlauscht, dann ein anstürmendes&#xD;
+Nashorn — o Wahnsinn! — aus 12 m. photographiert im Vertrauen&#xD;
+auf Büchse des Begleiters, als Höhepunkt aber eine Jagd&#xD;
+von Massai's auf einen Löwen in offener Buschsteppe u.&#xD;
+seine Erlegung mit Speeren auf 40 m. Entfernung! Derartige&#xD;
+Wunder Jedem zugänglich, man möchte an der Möglichkeit&#xD;
+immer noch mehr zu bieten verzweifeln. Und d. Saal fast&#xD;
+leer! Freilich die andern Kinomatographen und Spezialitäten„&#xD;
+theater können sich nicht retten vor Besuchern.&#xD;
+In der Stadt etwas gebummelt, dann in's Charlotten„</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

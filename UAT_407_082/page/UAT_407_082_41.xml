@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:14.512+02:00</Created>
+        <LastChange>2020-03-04T14:46:43.838+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581489" pageNr="41" tsid="24795604" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=JTKZEYEOHWMDBSJSJUOTPYVF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KNTAXOJMVBVCUNYGFVMZKYWE" imageId="4579378"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_41.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255751283" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="271,284 271,4577 4030,4577 4030,284"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="3588,388 3637,378 3674,392 3743,450 3770,445 3766,194 3730,204 3712,186 3693,182 3684,191 3662,182 3626,206 3585,206"/>
+                <Baseline points="3608,360 3636,357 3664,358 3692,359 3720,358 3748,354"/>
+                <TextEquiv>
+                    <Unicode>39</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="290,749 3583,830 3757,763 3758,622 291,589"/>
+                <Baseline points="311,704 482,704 653,704 824,704 995,705 1167,706 1338,707 1509,708 1680,710 1851,712 2023,714 2194,716 2365,718 2536,720 2707,721 2879,723 3050,724 3221,725 3392,726 3563,726 3735,726"/>
+                <TextEquiv>
+                    <Unicode>Passagieren wenig Mitleid bemerkbar. Das Schiff geht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="247,908 3046,891 3047,754 2860,739 1868,803 1332,726 1017,810 249,735"/>
+                <Baseline points="271,844 408,846 546,848 683,849 821,851 958,852 1096,853 1233,854 1371,855 1508,856 1646,857 1783,858 1921,859 2058,860 2196,861 2333,862 2471,863 2608,865 2746,867 2883,869 3021,871"/>
+                <TextEquiv>
+                    <Unicode>weiter u. d. Sache ist abgetan. Vorwärts!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="481,1065 3935,1089 3936,943 3440,897 483,933"/>
+                <Baseline points="504,1002 674,1002 844,1003 1015,1004 1185,1005 1356,1006 1526,1008 1696,1009 1867,1011 2037,1012 2208,1014 2378,1016 2548,1017 2719,1019 2889,1021 3060,1023 3230,1025 3400,1027 3571,1029 3741,1031 3912,1033"/>
+                <TextEquiv>
+                    <Unicode>Nachm. endlich über die windstille Zone hinaus u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="319,1177 3950,1235 3847,1093 2915,1010 320,1077"/>
+                <Baseline points="344,1145 523,1144 702,1144 881,1143 1060,1143 1239,1143 1418,1143 1597,1144 1776,1145 1955,1146 2135,1147 2314,1149 2493,1151 2672,1154 2851,1157 3030,1161 3209,1165 3388,1170 3567,1175 3746,1181 3926,1187"/>
+                <TextEquiv>
+                    <Unicode>nun etwas Luftzug von vorn. Nun ist es überstanden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="416,1305 3892,1372 3839,1216 2769,1253 2543,1141 1964,1259 417,1232"/>
+                <Baseline points="439,1297 610,1297 782,1297 953,1297 1125,1297 1296,1298 1468,1299 1639,1300 1811,1301 1982,1303 2154,1304 2326,1306 2497,1308 2669,1310 2840,1312 3012,1314 3183,1316 3355,1318 3526,1320 3698,1323 3870,1325"/>
+                <TextEquiv>
+                    <Unicode>11. Oct. Die See wie ein Spiegel, aber d. Luft nun an„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="377,1483 3657,1533 3871,1495 3872,1358 378,1378"/>
+                <Baseline points="398,1431 570,1430 743,1430 915,1430 1088,1432 1261,1433 1433,1435 1606,1437 1778,1440 1951,1442 2124,1445 2296,1447 2469,1449 2641,1451 2814,1453 2987,1455 3159,1456 3332,1457 3504,1457 3677,1456 3850,1455"/>
+                <TextEquiv>
+                    <Unicode>genehm, mittags freilich noch warm. „Enzio“ von Huch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="354,1699 618,1596 759,1697 1310,1605 3739,1719 4039,1694 4041,1498 887,1548 656,1433 355,1558"/>
+                <Baseline points="377,1595 568,1595 760,1594 951,1595 1143,1596 1334,1598 1526,1600 1717,1602 1909,1605 2100,1607 2292,1609 2483,1611 2675,1613 2866,1614 3058,1614 3249,1614 3441,1613 3632,1611 3824,1608 4016,1604"/>
+                <TextEquiv>
+                    <Unicode>gelesen, auf das mich schon d. „Kunstwart“ hingewiesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="367,1845 395,1846 501,1761 551,1757 587,1781 624,1763 678,1801 710,1774 746,1775 749,1629 708,1628 685,1646 618,1595 535,1643 471,1629 397,1700 370,1700"/>
+                <Baseline points="390,1751 415,1749 441,1747 467,1745 493,1744 519,1744 545,1744 570,1744 596,1745 622,1747 648,1748 674,1751 700,1754 726,1757"/>
+                <TextEquiv>
+                    <Unicode>hatte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="414,1897 964,2007 2125,1895 4017,2000 3882,1789 415,1779"/>
+                <Baseline points="439,1895 616,1895 794,1894 972,1894 1150,1893 1327,1893 1505,1893 1683,1893 1861,1894 2038,1894 2216,1895 2394,1897 2572,1899 2749,1901 2927,1904 3105,1907 3283,1912 3460,1916 3638,1922 3816,1928 3994,1935"/>
+                <TextEquiv>
+                    <Unicode>12 Oct. Schön frisch am Morgen, wieder ein deutscher Dam„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="324,2121 999,2017 1579,2139 2222,2035 2362,2151 2623,2041 2794,2157 3531,2154 3978,2097 3980,1988 327,1921"/>
+                <Baseline points="348,2022 528,2022 708,2023 888,2024 1069,2026 1249,2029 1429,2031 1610,2034 1790,2037 1970,2040 2151,2044 2331,2047 2511,2050 2691,2053 2872,2056 3052,2059 3232,2061 3413,2063 3593,2065 3773,2066 3954,2067"/>
+                <TextEquiv>
+                    <Unicode>pher unter der Menge. Hübsche Begrüßungssitten. Bucht v. Suez.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="384,2187 1721,2288 3974,2214 3843,2090 2624,2040 2377,2147 385,2110"/>
+                <Baseline points="406,2168 583,2173 760,2176 938,2179 1115,2182 1292,2185 1470,2186 1647,2188 1824,2189 2002,2190 2179,2191 2356,2192 2534,2193 2711,2193 2888,2194 3066,2195 3243,2196 3420,2197 3598,2198 3775,2199 3953,2201"/>
+                <TextEquiv>
+                    <Unicode>13 Oct. Morgens auf Suez zu, gegen 8 vor Anker. Quarantäne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="364,2384 3595,2385 3904,2356 3906,2234 366,2243"/>
+                <Baseline points="388,2308 562,2311 737,2314 911,2317 1086,2320 1261,2322 1435,2325 1610,2327 1784,2329 1959,2331 2134,2333 2308,2335 2483,2337 2657,2339 2832,2340 3007,2342 3181,2343 3356,2345 3530,2346 3705,2348 3880,2349"/>
+                <TextEquiv>
+                    <Unicode>eingehend. Einfahrt in d. Kanal gegen 11. Konnten leider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="353,2496 3246,2574 3888,2525 3889,2407 354,2378"/>
+                <Baseline points="378,2467 552,2467 726,2467 900,2468 1075,2469 1249,2470 1423,2472 1598,2473 1772,2475 1946,2476 2121,2478 2295,2480 2469,2481 2643,2483 2818,2485 2992,2486 3166,2487 3341,2489 3515,2490 3689,2490 3864,2491"/>
+                <TextEquiv>
+                    <Unicode>die Fahrt über Kairo nicht machen, da Zeit zwar vor„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="407,2680 1240,2585 3601,2684 4024,2666 4025,2553 408,2571"/>
+                <Baseline points="431,2611 609,2606 788,2603 966,2602 1145,2601 1324,2602 1502,2603 1681,2605 1860,2608 2038,2612 2217,2615 2396,2618 2574,2622 2753,2626 2932,2628 3110,2631 3289,2633 3468,2634 3646,2634 3825,2633 4004,2631"/>
+                <TextEquiv>
+                    <Unicode>aussichtlich vorhanden, aber nicht garantiert werden konnte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="374,2814 3982,2801 3982,2701 3359,2669 1389,2712 1239,2583 374,2678"/>
+                <Baseline points="395,2762 573,2761 751,2761 929,2762 1108,2762 1286,2763 1464,2764 1642,2766 1821,2767 1999,2769 2177,2770 2355,2772 2534,2773 2712,2775 2890,2776 3068,2777 3247,2778 3425,2778 3603,2779 3781,2779 3960,2778"/>
+                <TextEquiv>
+                    <Unicode>Das westl. Ufer ist fast ständig mit Grün bedeckt infolge d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="375,2955 3961,2975 3961,2861 3229,2793 376,2809"/>
+                <Baseline points="400,2910 577,2908 754,2906 931,2905 1108,2905 1285,2905 1462,2905 1639,2906 1816,2907 1993,2909 2170,2910 2347,2912 2524,2914 2701,2915 2878,2917 3055,2918 3232,2919 3409,2921 3586,2921 3763,2921 3940,2921"/>
+                <TextEquiv>
+                    <Unicode>Süßwasserkanals u. Anpflanzungen. Die Kasuarinen in d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815129364_689" custom="readingOrder {index:17;}">
+                <Coords points="387,3095 2721,3189 3180,3080 3499,3186 3658,3081 4054,3155 4054,2959 387,3035"/>
+                <Baseline points="411,3078 438,3080 465,3082 493,3085 520,3087 548,3089 575,3089 603,3089 630,3088 658,3086 718,3072 883,3071 1049,3070 1214,3069 1380,3068 1546,3068 1711,3068 1877,3068 2042,3069 2208,3069 2374,3070 2539,3071 2705,3072 2870,3073 3036,3074 3202,3075 3367,3077 3533,3078 3698,3080 3864,3082 4030,3083"/>
+                <TextEquiv>
+                    <Unicode>2½ Jahren anscheinend tüchtig gewachsen, denn ich konnte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="383,3237 2221,3224 2334,3321 2603,3213 3208,3325 3945,3243 3946,3084 3518,3177 384,3101"/>
+                <Baseline points="406,3212 581,3208 757,3205 933,3203 1109,3201 1285,3200 1461,3199 1637,3200 1813,3200 1989,3201 2165,3203 2340,3204 2516,3207 2692,3209 2868,3211 3044,3213 3220,3215 3396,3218 3572,3220 3748,3221 3924,3223"/>
+                <TextEquiv>
+                    <Unicode>mich dieses Anblicks kaum entsinnen. Viehherden u. s. w.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="377,3387 823,3362 941,3421 1014,3362 1541,3351 1682,3424 2060,3353 2256,3409 2311,3272 1770,3216 1510,3223 1369,3314 964,3308 646,3206 377,3296"/>
+                <Baseline points="398,3345 492,3347 586,3348 681,3349 775,3350 870,3351 964,3352 1058,3352 1153,3353 1247,3353 1342,3353 1436,3354 1530,3354 1625,3354 1719,3354 1814,3354 1908,3354 2002,3355 2097,3355 2191,3355 2286,3355"/>
+                <TextEquiv>
+                    <Unicode>rechts dagegen trostlose Wüste.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="469,3559 3317,3496 3937,3610 3903,3382 468,3445"/>
+                <Baseline points="492,3521 663,3521 834,3521 1005,3520 1176,3518 1347,3516 1518,3513 1689,3511 1860,3508 2031,3505 2202,3502 2373,3500 2544,3498 2715,3496 2886,3495 3057,3495 3228,3496 3399,3498 3570,3501 3741,3505 3913,3511"/>
+                <TextEquiv>
+                    <Unicode>14 Oct. Morgens 6 Uhr in Port Saïd: An Land. Durch d. Ort,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="410,3682 2726,3668 3108,3765 3613,3721 3764,3581 3318,3497 3090,3619 410,3573"/>
+                <Baseline points="432,3653 597,3654 762,3655 928,3656 1093,3656 1259,3656 1424,3656 1590,3656 1755,3655 1921,3655 2086,3655 2251,3655 2417,3655 2582,3656 2748,3657 2913,3658 3079,3660 3244,3662 3410,3665 3575,3669 3741,3673"/>
+                <TextEquiv>
+                    <Unicode>der häßlich, schmutzig ist u. auch kaum Interesse bietet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="406,3849 3555,3907 3901,3830 3901,3675 406,3722"/>
+                <Baseline points="428,3807 600,3805 773,3803 945,3801 1118,3799 1290,3798 1463,3797 1635,3795 1808,3795 1980,3794 2153,3794 2325,3793 2498,3794 2670,3794 2843,3795 3015,3796 3188,3798 3360,3800 3533,3802 3705,3805 3878,3808"/>
+                <TextEquiv>
+                    <Unicode>Die sittliche Verkommenheit ist grauenerregend. Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="361,3973 3847,3993 3847,3879 2937,3827 362,3845"/>
+                <Baseline points="384,3945 556,3946 728,3946 900,3946 1072,3946 1244,3946 1416,3947 1588,3947 1760,3947 1932,3948 2104,3948 2276,3948 2448,3948 2620,3949 2792,3949 2964,3950 3136,3950 3308,3950 3480,3951 3652,3951 3824,3952"/>
+                <TextEquiv>
+                    <Unicode>ging rasch an Bord zurück, obwohl gekohlt wurde u. d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="357,4123 1805,4191 1963,4089 2814,4073 3443,4170 3682,3981 907,4057 632,3946 356,4059"/>
+                <Baseline points="380,4107 544,4103 708,4099 872,4096 1036,4094 1200,4093 1364,4091 1528,4090 1692,4090 1856,4089 2020,4088 2184,4087 2348,4086 2512,4084 2676,4082 2840,4079 3004,4075 3168,4071 3332,4065 3496,4058 3661,4049"/>
+                <TextEquiv>
+                    <Unicode>Aufenthalt unerfreulich war. Vom Kriege nichts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="399,4338 572,4289 640,4344 791,4254 2051,4316 2165,4262 2166,4162 1929,4128 1801,4196 1419,4198 1197,4106 932,4205 787,4104 655,4190 400,4193"/>
+                <Baseline points="423,4238 513,4240 603,4242 694,4243 784,4244 875,4244 965,4245 1056,4245 1146,4245 1237,4245 1327,4245 1418,4245 1508,4245 1599,4245 1689,4246 1780,4247 1870,4248 1961,4250 2051,4251 2142,4254"/>
+                <TextEquiv>
+                    <Unicode>zu spüren. Um 12 in See.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="483,4432 3299,4389 3613,4490 3995,4454 3995,4285 483,4309"/>
+                <Baseline points="505,4393 678,4390 851,4388 1025,4386 1198,4384 1372,4383 1545,4382 1719,4382 1892,4382 2066,4382 2239,4382 2412,4383 2586,4384 2759,4385 2933,4386 3106,4387 3280,4388 3453,4389 3627,4390 3800,4391 3974,4391"/>
+                <TextEquiv>
+                    <Unicode>15. Morgens weiße Kämme und hohe Wellen, aber keineswegs stürmisch;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="317,4602 3839,4643 3926,4389 3657,4496 318,4447"/>
+                <Baseline points="342,4521 520,4522 698,4524 876,4525 1054,4527 1232,4528 1410,4529 1588,4529 1766,4530 1944,4531 2123,4532 2301,4532 2479,4533 2657,4534 2835,4535 3013,4536 3191,4537 3369,4538 3547,4539 3725,4540 3904,4542"/>
+                <TextEquiv>
+                    <Unicode>im Segelboot würde man's gehörig spüren, aber d. „Windhuk“ geht so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>39&#xD;
+Passagieren wenig Mitleid bemerkbar. Das Schiff geht&#xD;
+weiter u. d. Sache ist abgetan. Vorwärts!&#xD;
+Nachm. endlich über die windstille Zone hinaus u.&#xD;
+nun etwas Luftzug von vorn. Nun ist es überstanden.&#xD;
+11. Oct. Die See wie ein Spiegel, aber d. Luft nun an„&#xD;
+genehm, mittags freilich noch warm. „Enzio“ von Huch&#xD;
+gelesen, auf das mich schon d. „Kunstwart“ hingewiesen&#xD;
+hatte.&#xD;
+12 Oct. Schön frisch am Morgen, wieder ein deutscher Dam„&#xD;
+pher unter der Menge. Hübsche Begrüßungssitten. Bucht v. Suez.&#xD;
+13 Oct. Morgens auf Suez zu, gegen 8 vor Anker. Quarantäne&#xD;
+eingehend. Einfahrt in d. Kanal gegen 11. Konnten leider&#xD;
+die Fahrt über Kairo nicht machen, da Zeit zwar vor„&#xD;
+aussichtlich vorhanden, aber nicht garantiert werden konnte.&#xD;
+Das westl. Ufer ist fast ständig mit Grün bedeckt infolge d.&#xD;
+Süßwasserkanals u. Anpflanzungen. Die Kasuarinen in d.&#xD;
+2½ Jahren anscheinend tüchtig gewachsen, denn ich konnte&#xD;
+mich dieses Anblicks kaum entsinnen. Viehherden u. s. w.&#xD;
+rechts dagegen trostlose Wüste.&#xD;
+14 Oct. Morgens 6 Uhr in Port Saïd: An Land. Durch d. Ort,&#xD;
+der häßlich, schmutzig ist u. auch kaum Interesse bietet.&#xD;
+Die sittliche Verkommenheit ist grauenerregend. Ich&#xD;
+ging rasch an Bord zurück, obwohl gekohlt wurde u. d.&#xD;
+Aufenthalt unerfreulich war. Vom Kriege nichts&#xD;
+zu spüren. Um 12 in See.&#xD;
+15. Morgens weiße Kämme und hohe Wellen, aber keineswegs stürmisch;&#xD;
+im Segelboot würde man's gehörig spüren, aber d. „Windhuk“ geht so</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

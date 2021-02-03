@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:15.680+02:00</Created>
+        <LastChange>2020-03-16T14:53:13.655+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581509" pageNr="61" tsid="25741135" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=BDAGECXYTMJADBWDECLWLSPS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HAWHUZINORPURPPWQNHRSZJW" imageId="4579398"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_61.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255757571" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:0;}">
+            <Coords points="327,291 327,4593 3892,4593 3892,291"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="3600,413 3626,411 3660,428 3742,395 3763,410 3793,413 3808,243 3774,235 3736,263 3719,261 3707,247 3693,259 3673,235 3659,243 3615,239"/>
+                <Baseline points="3627,360 3656,366 3685,370 3714,371 3743,372 3773,376"/>
+                <TextEquiv>
+                    <Unicode>59</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:1;} textStyle {offset:6; length:3;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="305,750 3756,780 3697,617 3259,580 308,588"/>
+                <Baseline points="327,690 497,693 667,695 838,698 1008,701 1179,704 1349,707 1520,710 1690,713 1861,716 2031,719 2201,722 2372,724 2542,726 2713,728 2883,730 3054,731 3224,732 3395,733 3565,733 3736,733"/>
+                <TextEquiv>
+                    <Unicode>27. 3.ter Feiertag. Gemalt. Abd. Wir 4 bei Tante Hedwig u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:2;}">
+                <Coords points="381,942 3649,874 3771,967 3847,792 383,740"/>
+                <Baseline points="404,846 574,848 745,850 916,852 1087,854 1258,857 1429,859 1600,862 1771,865 1942,868 2113,870 2283,872 2454,874 2625,876 2796,877 2967,878 3138,878 3309,877 3480,876 3651,874 3822,871"/>
+                <TextEquiv>
+                    <Unicode>Töchtern. Bruno u. ich kriegen keine rechte Unterhaltung zustande,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l5" custom="readingOrder {index:3;}">
+                <Coords points="386,1016 622,1106 829,1016 3710,1075 3710,978 3216,886 2899,980 2409,880 387,950"/>
+                <Baseline points="407,996 571,1000 735,1002 899,1005 1063,1007 1227,1009 1391,1011 1555,1012 1719,1014 1883,1015 2047,1016 2211,1017 2375,1018 2539,1019 2703,1020 2867,1021 3031,1022 3195,1023 3359,1025 3523,1026 3688,1028"/>
+                <TextEquiv>
+                    <Unicode>obwohl in dieser Familie viel Humor steckt u. der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l6" custom="readingOrder {index:4;}">
+                <Coords points="370,1175 3786,1204 3787,1077 3357,1042 371,1078"/>
+                <Baseline points="390,1149 558,1151 727,1152 895,1154 1064,1155 1233,1156 1401,1158 1570,1159 1739,1161 1907,1162 2076,1164 2245,1166 2413,1167 2582,1169 2751,1171 2919,1173 3088,1175 3257,1177 3425,1179 3594,1181 3763,1184"/>
+                <TextEquiv>
+                    <Unicode>Engel des Schweigens kein Gastrecht genießt. Zuletzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l7" custom="readingOrder {index:5;}">
+                <Coords points="382,1389 509,1387 629,1310 782,1339 897,1310 940,1355 1151,1302 1431,1373 1466,1365 1468,1273 1285,1190 1171,1215 1115,1156 969,1220 745,1198 683,1236 553,1164 386,1165"/>
+                <Baseline points="404,1295 456,1295 508,1294 560,1294 612,1294 664,1295 716,1295 768,1296 820,1297 872,1299 924,1300 976,1301 1028,1302 1080,1304 1132,1305 1184,1306 1236,1307 1288,1308 1340,1309 1392,1310 1444,1311"/>
+                <TextEquiv>
+                    <Unicode>sehr ausgelassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l8" custom="readingOrder {index:6;}">
+                <Coords points="373,1480 1109,1567 1316,1485 1609,1561 1882,1480 3157,1535 3158,1386 374,1392"/>
+                <Baseline points="396,1466 533,1469 670,1471 807,1474 944,1475 1081,1477 1218,1478 1355,1480 1492,1481 1629,1481 1766,1482 1903,1482 2040,1483 2177,1483 2314,1483 2451,1483 2588,1484 2725,1484 2862,1484 2999,1484 3136,1484"/>
+                <TextEquiv>
+                    <Unicode>28. Abend Versammlung ehemaliger Tuiskonen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582816346103_1066" custom="readingOrder {index:7;}">
+                <Coords points="403,1653 2486,1618 2912,1715 3916,1645 3916,1531 403,1535"/>
+                <Baseline points="427,1620 469,1618 511,1616 553,1615 595,1614 637,1613 679,1613 721,1613 763,1613 805,1614 848,1614 890,1615 932,1616 974,1617 1016,1618 1058,1619 1100,1620 1142,1620 1184,1620 1226,1621 1269,1620 2226,1611 2251,1613 2277,1615 2302,1616 2328,1617 2430,1610 2503,1612 2576,1613 2649,1614 2722,1615 2795,1616 2868,1617 2941,1617 3014,1617 3087,1617 3161,1617 3234,1617 3307,1617 3380,1617 3453,1617 3526,1617 3599,1617 3672,1617 3745,1617 3818,1617 3892,1618"/>
+                <TextEquiv>
+                    <Unicode>229. Abend „ „ „ „ Wilhelmiten. Viel neue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l12" custom="readingOrder {index:8;}">
+                <Coords points="481,1840 521,1846 552,1825 573,1848 696,1852 718,1830 793,1820 852,1769 1005,1782 1010,1638 896,1630 790,1653 760,1625 662,1671 610,1638 526,1671 487,1652"/>
+                <Baseline points="506,1742 531,1742 556,1743 581,1744 606,1744 632,1745 657,1746 682,1746 707,1747 732,1748 758,1749 783,1749 808,1750 833,1750 858,1752 884,1753 909,1754 934,1755 959,1756 985,1758"/>
+                <TextEquiv>
+                    <Unicode>Gesichter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l13" custom="readingOrder {index:9;}">
+                <Coords points="385,1952 986,2050 1153,1937 3744,1961 3744,1843 3130,1811 385,1843"/>
+                <Baseline points="409,1935 574,1938 740,1939 906,1941 1072,1942 1237,1942 1403,1942 1569,1942 1735,1942 1900,1942 2066,1941 2232,1941 2398,1941 2563,1941 2729,1942 2895,1942 3061,1943 3226,1945 3392,1947 3558,1950 3724,1954"/>
+                <TextEquiv>
+                    <Unicode>30. Wir nebst den Friedenauern u. Semmlers bei Tante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l14" custom="readingOrder {index:10;}">
+                <Coords points="421,2069 1034,2171 1684,2089 1840,2204 2336,2208 2569,2105 2670,2141 2732,2054 2417,1963 2219,2049 2141,1979 1650,1948 1351,1954 1241,2041 1093,1970 960,2047 808,1941 421,2012"/>
+                <Baseline points="441,2080 554,2082 667,2084 781,2085 894,2086 1008,2086 1121,2087 1235,2087 1348,2087 1462,2087 1575,2088 1688,2088 1802,2088 1915,2089 2029,2091 2142,2092 2256,2094 2369,2097 2483,2100 2596,2104 2710,2108"/>
+                <TextEquiv>
+                    <Unicode>Wiebcke. Zeigte meine Photographieen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l15" custom="readingOrder {index:11;}">
+                <Coords points="377,2353 3608,2377 3827,2306 3827,2183 376,2139"/>
+                <Baseline points="400,2275 570,2285 740,2293 911,2298 1081,2301 1251,2303 1422,2303 1592,2302 1762,2300 1933,2297 2103,2294 2273,2290 2444,2287 2614,2284 2784,2282 2955,2281 3125,2281 3295,2282 3466,2286 3636,2291 3807,2299"/>
+                <TextEquiv>
+                    <Unicode>31. Dez: Zur Sylvester-Feier nebst Rich, Lisb., Lorenz und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l16" custom="readingOrder {index:12;}">
+                <Coords points="436,2502 3566,2589 3816,2536 3819,2378 438,2353"/>
+                <Baseline points="460,2441 626,2447 793,2453 960,2458 1126,2463 1293,2466 1460,2470 1626,2473 1793,2475 1960,2477 2127,2479 2293,2481 2460,2483 2627,2484 2793,2486 2960,2488 3127,2490 3293,2492 3460,2494 3627,2497 3794,2500"/>
+                <TextEquiv>
+                    <Unicode>Lisb.'s Tanten bei Prof. Poske's in Lichterfelde-Dahlem. Z. T. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l17" custom="readingOrder {index:13;}">
+                <Coords points="434,2641 880,2703 1557,2601 1898,2693 2425,2603 3296,2732 3596,2582 435,2500"/>
+                <Baseline points="457,2595 612,2595 768,2594 924,2595 1080,2595 1236,2596 1392,2597 1548,2598 1704,2599 1860,2601 2016,2603 2171,2605 2327,2608 2483,2610 2639,2612 2795,2615 2951,2618 3107,2621 3263,2624 3419,2627 3575,2630"/>
+                <TextEquiv>
+                    <Unicode>recht ausgelassene Stimmung. Alles in Kostümen, ich im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l18" custom="readingOrder {index:14;}">
+                <Coords points="436,2800 3905,2810 3809,2696 2744,2628 2406,2732 437,2704"/>
+                <Baseline points="460,2751 631,2756 802,2760 973,2763 1145,2766 1316,2768 1487,2769 1658,2770 1830,2771 2001,2771 2172,2771 2343,2771 2515,2770 2686,2770 2857,2771 3028,2771 3200,2772 3371,2774 3542,2776 3713,2779 3885,2782"/>
+                <TextEquiv>
+                    <Unicode>weißen Tropenanzug, Cylinder mit Schild, Pfeil u. Bogen u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l19" custom="readingOrder {index:15;}">
+                <Coords points="493,3011 2542,2911 3387,3022 3501,3009 3502,2865 494,2814"/>
+                <Baseline points="515,2906 663,2907 811,2908 959,2909 1108,2909 1256,2910 1404,2911 1552,2912 1701,2912 1849,2913 1997,2914 2145,2914 2294,2915 2442,2916 2590,2917 2738,2919 2887,2920 3035,2922 3183,2924 3331,2926 3480,2929"/>
+                <TextEquiv>
+                    <Unicode>Speer u. s. w. Etwas getanzt. Die Zeit verging rasch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l20" custom="readingOrder {index:16;}">
+                <Coords points="631,3082 3201,3097 3362,3186 3714,3100 3613,2994 632,2990"/>
+                <Baseline points="653,3070 804,3070 956,3069 1108,3070 1260,3070 1412,3071 1564,3072 1715,3073 1867,3075 2019,3076 2171,3078 2323,3079 2475,3080 2627,3082 2778,3083 2930,3083 3082,3084 3234,3083 3386,3083 3538,3082 3690,3080"/>
+                <TextEquiv>
+                    <Unicode>Gegen 3 Uhr morgens zu Haus. Hatte Einladung von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l21" custom="readingOrder {index:17;}">
+                <Coords points="421,3191 1455,3270 1868,3203 2016,3288 3095,3244 3039,3108 422,3104"/>
+                <Baseline points="445,3179 576,3177 708,3177 839,3177 971,3178 1102,3179 1234,3181 1365,3182 1497,3184 1628,3186 1760,3189 1892,3191 2023,3193 2155,3194 2286,3195 2418,3196 2549,3196 2681,3195 2812,3193 2944,3191 3076,3187"/>
+                <TextEquiv>
+                    <Unicode>Trendelenburg's, der ich leider nicht gut folgen konnte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l22" custom="readingOrder {index:18;}">
+                <Coords points="825,3378 1316,3376 1416,3456 1527,3365 1666,3455 1751,3381 2662,3397 2824,3474 3118,3408 3120,3267 2887,3321 2537,3234 1804,3321 1367,3219 975,3306 827,3216"/>
+                <Baseline points="847,3349 959,3352 1071,3354 1184,3356 1296,3358 1409,3360 1521,3362 1634,3364 1746,3366 1859,3368 1971,3369 2083,3370 2196,3372 2308,3373 2421,3374 2533,3375 2646,3375 2758,3376 2871,3377 2983,3377 3096,3378"/>
+                <TextEquiv>
+                    <Unicode>Prosit Neujahr, möge es Heil bringen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l23" custom="readingOrder {index:19;}">
+                <Coords points="438,3530 1761,3616 1951,3517 2735,3524 3002,3614 3608,3571 3692,3440 439,3398"/>
+                <Baseline points="458,3506 618,3504 779,3503 939,3503 1100,3503 1260,3503 1421,3504 1581,3504 1742,3505 1902,3507 2063,3508 2223,3510 2384,3512 2544,3514 2705,3516 2865,3519 3026,3521 3186,3524 3347,3526 3507,3529 3668,3531"/>
+                <TextEquiv>
+                    <Unicode>Auf das alte darf ich getrost u. mit Dankbarkeit zurückblicken,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l24" custom="readingOrder {index:20;}">
+                <Coords points="361,3682 3847,3728 3756,3600 3352,3574 362,3564"/>
+                <Baseline points="381,3655 553,3653 725,3653 897,3652 1069,3652 1242,3653 1414,3655 1586,3656 1758,3658 1930,3660 2103,3663 2275,3666 2447,3668 2619,3670 2791,3672 2964,3674 3136,3675 3308,3676 3480,3677 3652,3677 3825,3676"/>
+                <TextEquiv>
+                    <Unicode>es hat mir aus reichem Füllhorn neue Eindrücke, Erfahrungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l25" custom="readingOrder {index:21;}">
+                <Coords points="357,3806 3904,3893 3787,3725 358,3718"/>
+                <Baseline points="377,3788 552,3790 727,3791 903,3793 1078,3794 1253,3796 1429,3798 1604,3800 1779,3802 1955,3804 2130,3806 2305,3808 2481,3810 2656,3812 2831,3814 3007,3816 3182,3818 3357,3820 3533,3822 3708,3824 3884,3826"/>
+                <TextEquiv>
+                    <Unicode>u. Genüsse geschenkt, zu allem noch die italienische Offenbarung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l26" custom="readingOrder {index:22;}">
+                <Coords points="374,3967 3517,4052 3820,4006 3822,3835 3470,3929 375,3809"/>
+                <Baseline points="396,3941 566,3944 736,3946 906,3948 1076,3950 1246,3951 1416,3953 1587,3954 1757,3954 1927,3955 2097,3956 2267,3957 2437,3958 2607,3959 2778,3960 2948,3961 3118,3963 3288,3965 3458,3967 3628,3969 3799,3972"/>
+                <TextEquiv>
+                    <Unicode>Und hat mir die Heimat wiedergeben, alle Meinen gesund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582816363647_1071" custom="readingOrder {index:23;}">
+                <Coords points="405,4098 2083,4192 3242,4098 3434,4187 3623,4131 3624,3991 405,4041"/>
+                <Baseline points="427,4084 452,4083 477,4083 503,4085 528,4087 553,4088 579,4088 604,4086 630,4082 665,4066 811,4071 958,4076 1105,4080 1252,4083 1399,4086 1546,4088 1692,4090 1839,4092 1986,4092 2133,4093 2280,4093 2427,4093 2574,4093 2720,4093 2867,4093 3014,4093 3161,4093 3308,4093 3455,4093 3602,4094"/>
+                <TextEquiv>
+                    <Unicode>und unverändert. Entsetzlicher Gedanke, wie die Rückkehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l29" custom="readingOrder {index:24;}">
+                <Coords points="439,4254 3737,4287 3738,4169 2607,4126 440,4184"/>
+                <Baseline points="463,4228 625,4232 788,4236 950,4238 1113,4241 1276,4243 1438,4245 1601,4246 1763,4248 1926,4249 2089,4250 2251,4251 2414,4252 2576,4254 2739,4255 2902,4256 3064,4258 3227,4260 3389,4262 3552,4265 3715,4268"/>
+                <TextEquiv>
+                    <Unicode>anders hätte sein können! Unverändert gehe auch ich mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l30" custom="readingOrder {index:25;}">
+                <Coords points="423,4419 1488,4491 2349,4374 2466,4493 3304,4402 3492,4500 3713,4326 1191,4345 889,4246 424,4331"/>
+                <Baseline points="446,4383 608,4383 770,4383 932,4383 1094,4383 1257,4383 1419,4383 1581,4384 1743,4384 1905,4384 2068,4385 2230,4386 2392,4387 2554,4389 2716,4390 2879,4392 3041,4395 3203,4397 3365,4400 3527,4403 3690,4406"/>
+                <TextEquiv>
+                    <Unicode>allen früheren Kräften in's neue Jahr, in vielen Dingen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582816376087_1076" custom="readingOrder {index:26;}">
+                <Coords points="430,4580 2105,4555 2385,4658 3184,4570 3521,4664 3745,4586 3746,4442 430,4480"/>
+                <Baseline points="454,4534 547,4535 641,4536 734,4536 828,4537 921,4537 1015,4538 1108,4538 1202,4538 1295,4539 1389,4539 1482,4539 1576,4540 1669,4540 1763,4541 1856,4541 1950,4542 2043,4543 2137,4545 2230,4546 2324,4548 2342,4559 2411,4556 2480,4553 2549,4551 2618,4549 2687,4548 2756,4547 2825,4546 2894,4546 2963,4546 3032,4546 3101,4547 3170,4547 3239,4548 3308,4549 3377,4550 3446,4551 3515,4552 3584,4553 3653,4555 3723,4556"/>
+                <TextEquiv>
+                    <Unicode>allzu unverändert. An's neue Jahr habe ich nun zuerst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>59&#xD;
+27. 3.ter Feiertag. Gemalt. Abd. Wir 4 bei Tante Hedwig u.&#xD;
+Töchtern. Bruno u. ich kriegen keine rechte Unterhaltung zustande,&#xD;
+obwohl in dieser Familie viel Humor steckt u. der&#xD;
+Engel des Schweigens kein Gastrecht genießt. Zuletzt&#xD;
+sehr ausgelassen.&#xD;
+28. Abend Versammlung ehemaliger Tuiskonen.&#xD;
+229. Abend „ „ „ „ Wilhelmiten. Viel neue&#xD;
+Gesichter.&#xD;
+30. Wir nebst den Friedenauern u. Semmlers bei Tante&#xD;
+Wiebcke. Zeigte meine Photographieen.&#xD;
+31. Dez: Zur Sylvester-Feier nebst Rich, Lisb., Lorenz und&#xD;
+Lisb.'s Tanten bei Prof. Poske's in Lichterfelde-Dahlem. Z. T. &#xD;
+recht ausgelassene Stimmung. Alles in Kostümen, ich im&#xD;
+weißen Tropenanzug, Cylinder mit Schild, Pfeil u. Bogen u.&#xD;
+Speer u. s. w. Etwas getanzt. Die Zeit verging rasch.&#xD;
+Gegen 3 Uhr morgens zu Haus. Hatte Einladung von&#xD;
+Trendelenburg's, der ich leider nicht gut folgen konnte.&#xD;
+Prosit Neujahr, möge es Heil bringen!&#xD;
+Auf das alte darf ich getrost u. mit Dankbarkeit zurückblicken,&#xD;
+es hat mir aus reichem Füllhorn neue Eindrücke, Erfahrungen&#xD;
+u. Genüsse geschenkt, zu allem noch die italienische Offenbarung.&#xD;
+Und hat mir die Heimat wiedergeben, alle Meinen gesund&#xD;
+und unverändert. Entsetzlicher Gedanke, wie die Rückkehr&#xD;
+anders hätte sein können! Unverändert gehe auch ich mit&#xD;
+allen früheren Kräften in's neue Jahr, in vielen Dingen&#xD;
+allzu unverändert. An's neue Jahr habe ich nun zuerst</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

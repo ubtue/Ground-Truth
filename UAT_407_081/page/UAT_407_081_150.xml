@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:41.016+02:00</Created>
+        <LastChange>2020-04-02T17:05:16.387+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551039" pageNr="150" tsid="26899886" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=WLNANBNUCIZTWHZNENGQZXTP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PNRJBEZNPWJBUKUNQOEVECEN" imageId="4551917"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_150.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256513505" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="283,287 283,4726 3996,4726 3996,287"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="266,429 302,432 327,419 351,429 388,414 427,434 467,405 523,392 495,222 464,223 445,240 403,233 373,265 337,266 297,321 248,321"/>
+                <Baseline points="283,392 309,392 336,390 363,385 390,380 416,375 443,370 470,365 497,362"/>
+                <TextEquiv>
+                    <Unicode>148</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="517,482 4018,550 4019,378 3694,315 2202,405 518,310"/>
+                <Baseline points="538,462 710,459 883,456 1056,453 1229,451 1402,449 1575,447 1748,446 1921,445 2094,444 2267,444 2439,445 2612,446 2785,448 2958,451 3131,454 3304,458 3477,463 3650,468 3823,475 3996,482"/>
+                <TextEquiv>
+                    <Unicode>Arbeitsstelle besichtigt. Unter meinen Erwartungen, doch einiges Brauch„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="422,704 1271,599 1794,718 3985,641 3703,504 2498,459 422,528"/>
+                <Baseline points="444,611 619,608 795,605 971,603 1147,601 1323,599 1499,598 1675,597 1851,596 2027,596 2203,596 2378,596 2554,597 2730,598 2906,599 3082,601 3258,602 3434,605 3610,607 3786,610 3962,613"/>
+                <TextEquiv>
+                    <Unicode>bare, leider in d. Nähe noch nicht abzusuchen, da alles unter noch grünem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="457,796 1416,775 1662,881 2437,762 3145,868 3347,763 3879,802 3950,640 457,682"/>
+                <Baseline points="477,760 649,763 821,765 994,766 1166,767 1339,768 1511,768 1684,768 1856,768 2029,768 2201,767 2373,767 2546,766 2718,765 2891,765 3063,765 3236,765 3408,766 3581,767 3753,768 3926,770"/>
+                <TextEquiv>
+                    <Unicode>Gras. Infolgedessen auch nichts üb. d. Beziehungen zur Bornhardti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="456,1017 619,1020 776,905 869,913 979,991 1098,920 1463,922 1462,852 1335,861 1268,800 1110,793 1066,753 877,856 731,756 674,796 454,797"/>
+                <Baseline points="476,916 524,913 572,910 620,907 669,905 717,902 765,901 814,900 862,899 910,899 959,899 1007,899 1055,899 1103,900 1152,900 1200,901 1248,902 1297,903 1345,904 1393,904 1442,906"/>
+                <TextEquiv>
+                    <Unicode>Schicht auszumachen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="740,1068 4017,1080 4017,961 3410,904 740,914"/>
+                <Baseline points="762,1033 923,1038 1085,1041 1246,1043 1408,1043 1570,1043 1731,1041 1893,1039 2055,1037 2216,1034 2378,1032 2540,1029 2701,1028 2863,1027 3025,1027 3186,1028 3348,1031 3510,1035 3671,1042 3833,1050 3995,1061"/>
+                <TextEquiv>
+                    <Unicode>Abends dicht am Lager 3 täglich dort stehende Wasserbock-Weibchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="450,1249 3868,1264 3869,1115 3584,1090 452,1069"/>
+                <Baseline points="472,1155 640,1160 809,1164 978,1167 1146,1170 1315,1172 1484,1174 1652,1176 1821,1178 1990,1179 2159,1180 2327,1181 2496,1182 2665,1182 2833,1183 3002,1185 3171,1186 3339,1188 3508,1190 3677,1193 3846,1196"/>
+                <TextEquiv>
+                    <Unicode>aufgescheucht, aber in Gras u. Busch erst dann gesehen, wenn sie ab„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="485,1437 533,1418 577,1421 615,1394 665,1418 746,1341 781,1344 811,1321 868,1324 866,1254 805,1264 752,1253 678,1273 660,1260 638,1270 611,1248 576,1263 479,1266"/>
+                <Baseline points="502,1322 528,1322 554,1320 581,1320 607,1320 634,1319 660,1319 687,1318 713,1317 740,1316 766,1315 793,1314 819,1312 846,1310"/>
+                <TextEquiv>
+                    <Unicode>gingen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="634,1482 1092,1574 1954,1481 2345,1587 2469,1485 3366,1494 3555,1581 3898,1498 3898,1353 2983,1318 2710,1419 2332,1305 1910,1420 867,1319 634,1434"/>
+                <Baseline points="657,1469 817,1472 978,1474 1139,1475 1300,1476 1461,1476 1622,1476 1782,1475 1943,1474 2104,1473 2265,1472 2426,1472 2587,1471 2748,1470 2908,1470 3069,1470 3230,1470 3391,1471 3552,1473 3713,1476 3874,1479"/>
+                <TextEquiv>
+                    <Unicode>14.VII. Nach Kikundi, dortige Knochenfunde zu besichtigen. Vorher in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="495,1675 1585,1744 1859,1644 2548,1759 2879,1664 3063,1767 3196,1658 3794,1675 3795,1521 496,1525"/>
+                <Baseline points="515,1641 686,1641 858,1641 1029,1641 1201,1642 1372,1643 1544,1644 1715,1645 1887,1647 2058,1649 2230,1651 2401,1652 2573,1654 2744,1655 2916,1656 3087,1657 3259,1658 3430,1658 3602,1657 3774,1656"/>
+                <TextEquiv>
+                    <Unicode>den Niongala-Forst, um den Blick auf d. Tendaguru zu be„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="476,1833 1421,1888 1554,1792 1967,1922 2245,1810 2618,1918 2781,1804 2912,1915 3063,1828 3370,1918 3842,1763 3640,1669 3103,1776 2822,1668 2526,1772 1977,1654 965,1762 477,1684"/>
+                <Baseline points="500,1806 665,1801 831,1798 997,1796 1163,1795 1329,1795 1495,1796 1661,1798 1827,1800 1993,1802 2159,1805 2324,1808 2490,1810 2656,1813 2822,1814 2988,1816 3154,1816 3320,1816 3486,1814 3652,1811 3818,1807"/>
+                <TextEquiv>
+                    <Unicode>kommen u. zu peilen. Nach langem scheußlichen vergeblichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="424,1968 2962,2061 3340,1952 3872,2033 3926,1884 424,1827"/>
+                <Baseline points="444,1919 617,1929 790,1936 963,1943 1136,1947 1309,1952 1482,1954 1655,1956 1828,1957 2001,1957 2174,1957 2347,1956 2520,1955 2693,1953 2866,1952 3039,1950 3212,1949 3385,1948 3558,1948 3731,1948 3904,1949"/>
+                <TextEquiv>
+                    <Unicode>Suchen in Gras u. lückenlosem Wald auf die Höhe am Wege nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="439,2117 1333,2079 1860,2204 2133,2090 3805,2124 3805,2001 3405,1961 3009,2052 440,1989"/>
+                <Baseline points="462,2085 628,2086 794,2087 960,2088 1126,2088 1292,2088 1458,2088 1624,2088 1790,2088 1956,2088 2123,2088 2289,2088 2455,2088 2621,2089 2787,2089 2953,2090 3119,2091 3285,2092 3451,2093 3617,2095 3784,2097"/>
+                <TextEquiv>
+                    <Unicode>Matapua gelangt, aber nur sehr unvollkommener Durchblick.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} unclear {offset:29; length:6;}">
+                <Coords points="488,2296 1319,2327 1750,2204 2964,2319 3171,2218 3496,2328 3866,2297 3866,2117 488,2125"/>
+                <Baseline points="508,2213 674,2214 841,2215 1008,2216 1175,2216 1342,2217 1509,2217 1676,2217 1843,2217 2010,2217 2177,2217 2343,2217 2510,2217 2677,2217 2844,2216 3011,2216 3178,2216 3345,2216 3512,2216 3679,2216 3846,2216"/>
+                <TextEquiv>
+                    <Unicode>Zurück über die Schamben des Nameha, die fossilführende Schicht nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="483,2429 2361,2354 3690,2476 3861,2428 3861,2296 483,2324"/>
+                <Baseline points="504,2373 670,2372 837,2370 1004,2369 1171,2368 1338,2367 1505,2366 1671,2365 1838,2365 2005,2364 2172,2364 2339,2364 2506,2365 2673,2366 2839,2367 3006,2369 3173,2371 3340,2373 3507,2377 3674,2380 3841,2384"/>
+                <TextEquiv>
+                    <Unicode>aufgeschlossen, aber in halber Höhe des Niongala-Forstes feine weiße,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="474,2580 924,2671 1296,2547 3954,2591 3886,2416 3437,2383 473,2484"/>
+                <Baseline points="496,2551 665,2555 835,2556 1005,2556 1175,2555 1345,2552 1514,2548 1684,2543 1854,2539 2024,2533 2194,2528 2363,2524 2533,2520 2703,2516 2873,2514 3043,2513 3212,2514 3382,2517 3552,2522 3761,2529 3931,2539"/>
+                <TextEquiv>
+                    <Unicode>deutlich geschichtete Sande offenbar höherer Lage in interessanter klei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="495,2772 2262,2687 2743,2810 2948,2692 3258,2801 3987,2721 3985,2594 492,2644"/>
+                <Baseline points="517,2725 687,2723 858,2720 1029,2717 1200,2713 1371,2708 1541,2704 1712,2699 1883,2695 2054,2690 2225,2686 2395,2682 2566,2678 2737,2675 2908,2673 3079,2671 3249,2670 3420,2669 3591,2670 3762,2672 3964,2680"/>
+                <TextEquiv>
+                    <Unicode>ner Schlucht unter älterem Ausräumungskessel aufgeschlossen (jünge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="470,2915 1029,2984 1226,2880 1526,2969 2919,2852 3321,2957 3677,2931 3816,2788 3450,2700 2730,2810 2266,2688 1696,2831 468,2779"/>
+                <Baseline points="491,2878 656,2877 821,2876 986,2875 1151,2873 1317,2871 1482,2869 1647,2867 1812,2864 1977,2861 2143,2859 2308,2856 2473,2854 2638,2852 2803,2850 2969,2848 3134,2847 3299,2846 3464,2846 3629,2846 3795,2847"/>
+                <TextEquiv>
+                    <Unicode>re Erosionsformen gegen ältere). Die Bornhardti-Schicht dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="473,3088 1218,3169 1757,3052 2326,3151 2711,3015 3333,3117 3891,3043 3852,2890 2136,2860 472,3035"/>
+                <Baseline points="494,3079 662,3071 831,3064 1000,3056 1168,3049 1337,3043 1506,3037 1674,3031 1843,3027 2012,3022 2181,3018 2349,3014 2518,3012 2687,3009 2855,3008 3024,3007 3193,3006 3361,3007 3530,3008 3699,3010 3868,3012"/>
+                <TextEquiv>
+                    <Unicode>am Wege nach Kikundi zu sehen. Hier Feuer gut durchgegangen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="501,3293 2885,3221 3216,3327 3884,3230 3842,3103 1427,3091 663,3203 499,3121"/>
+                <Baseline points="524,3251 690,3248 857,3245 1024,3242 1191,3238 1358,3235 1524,3233 1691,3230 1858,3227 2025,3225 2192,3222 2358,3220 2525,3218 2692,3216 2859,3214 3026,3213 3192,3211 3359,3210 3526,3209 3693,3209 3860,3208"/>
+                <TextEquiv>
+                    <Unicode>Gegenüber Kikundi andre Sandsteine am Talrand anstehend, wohl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="509,3489 1761,3381 2176,3498 2856,3390 3368,3466 3916,3378 3914,3264 505,3291"/>
+                <Baseline points="528,3400 696,3403 864,3404 1033,3404 1201,3403 1370,3401 1538,3398 1706,3394 1875,3390 2043,3386 2212,3382 2380,3378 2548,3374 2717,3370 2885,3367 3054,3365 3222,3363 3390,3362 3559,3363 3727,3364 3896,3368"/>
+                <TextEquiv>
+                    <Unicode>zur Beyschlagi-Zone des Mtshingiri gehörig. Lager zwischen Mben-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="494,3603 1360,3578 1591,3675 1822,3560 2246,3658 3788,3519 3746,3428 3156,3399 491,3475"/>
+                <Baseline points="515,3571 677,3570 840,3569 1002,3568 1165,3566 1327,3564 1490,3562 1652,3560 1815,3557 1977,3553 2140,3550 2303,3547 2465,3543 2628,3539 2790,3536 2953,3532 3115,3528 3278,3525 3440,3521 3603,3518 3766,3514"/>
+                <TextEquiv>
+                    <Unicode>kuru u. Kikundi nahe einer großen mit Grasebene wie in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="483,3776 647,3834 835,3754 1114,3826 1397,3727 1846,3742 1842,3561 1285,3637 1191,3595 1044,3678 791,3592 480,3631"/>
+                <Baseline points="505,3746 571,3741 637,3736 703,3733 769,3730 835,3728 901,3726 967,3725 1033,3723 1099,3722 1165,3722 1231,3721 1297,3720 1363,3719 1429,3718 1495,3717 1561,3714 1627,3712 1693,3709 1759,3705 1825,3700"/>
+                <TextEquiv>
+                    <Unicode>Kigombo erfüllten Senke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="706,3937 3412,3937 3714,3892 3713,3808 2699,3740 2344,3817 1880,3712 1030,3856 703,3774"/>
+                <Baseline points="726,3900 874,3904 1022,3906 1170,3907 1319,3907 1467,3906 1615,3903 1764,3900 1912,3896 2060,3892 2209,3887 2357,3883 2505,3879 2653,3874 2802,3870 2950,3867 3098,3864 3247,3862 3395,3862 3543,3862 3692,3864"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Matarawe-Hügel besichtigt, aus Beyschlagi-Schichten, vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;} textStyle {offset:25; length:3;strikethrough:true; fontSize:0.0; kerning:0;} unclear {offset:25; length:3;}">
+                <Coords points="500,4100 3096,4145 3953,4072 3952,3935 499,3973"/>
+                <Baseline points="523,4061 693,4061 863,4061 1033,4060 1204,4060 1374,4059 1544,4058 1715,4057 1885,4056 2055,4054 2226,4053 2396,4051 2566,4049 2736,4048 2907,4046 3077,4044 3247,4042 3418,4040 3588,4039 3758,4037 3929,4035"/>
+                <TextEquiv>
+                    <Unicode>Mbenkuru in Steilabbruch abg. angeschnitten, im Flußbett Steinplatten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="523,4248 1210,4190 1584,4325 2116,4201 2697,4323 3822,4211 3391,4084 523,4125"/>
+                <Baseline points="547,4218 709,4210 872,4203 1035,4199 1197,4196 1360,4194 1523,4193 1685,4194 1848,4195 2011,4196 2174,4198 2336,4200 2499,4202 2662,4203 2824,4204 2987,4204 3150,4202 3312,4200 3475,4196 3638,4190 3801,4183"/>
+                <TextEquiv>
+                    <Unicode>anstehend, also auch hier jugendliche Erosion. Die Grasebene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="509,4394 1348,4476 1908,4358 2470,4481 2761,4365 3354,4489 3891,4405 3892,4295 510,4258"/>
+                <Baseline points="531,4362 706,4358 882,4356 1058,4356 1233,4356 1409,4357 1585,4359 1761,4362 1936,4365 2112,4368 2288,4371 2464,4374 2639,4377 2815,4379 2991,4380 3167,4380 3342,4380 3518,4378 3694,4374 3870,4368"/>
+                <TextEquiv>
+                    <Unicode>dürfte also früher ein See gewesen sein, im Zusammen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="486,4636 847,4526 1735,4613 1898,4517 2839,4521 3095,4626 3675,4560 3741,4410 486,4421"/>
+                <Baseline points="507,4529 667,4525 828,4522 988,4520 1149,4518 1310,4517 1470,4517 1631,4516 1791,4516 1952,4517 2113,4517 2273,4518 2434,4519 2594,4519 2755,4520 2916,4521 3076,4521 3237,4521 3397,4520 3558,4519 3719,4518"/>
+                <TextEquiv>
+                    <Unicode>hang mit d. tiefen Lage der Bornhardti-Schichten. Falls</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="456,4702 1705,4782 2449,4682 2602,4797 3112,4801 3474,4668 3751,4767 3752,4595 3541,4558 457,4609"/>
+                <Baseline points="479,4670 641,4666 803,4663 966,4662 1128,4662 1291,4664 1453,4666 1616,4669 1778,4672 1941,4675 2103,4679 2265,4683 2428,4685 2590,4687 2753,4689 2915,4689 3078,4688 3240,4686 3403,4681 3565,4675 3728,4667"/>
+                <TextEquiv>
+                    <Unicode>Verwerfungs-Einbruch, müßte er recht jung sein, denn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>148&#xD;
+Arbeitsstelle besichtigt. Unter meinen Erwartungen, doch einiges Brauch„&#xD;
+bare, leider in d. Nähe noch nicht abzusuchen, da alles unter noch grünem&#xD;
+Gras. Infolgedessen auch nichts üb. d. Beziehungen zur Bornhardti-&#xD;
+Schicht auszumachen.&#xD;
+Abends dicht am Lager 3 täglich dort stehende Wasserbock-Weibchen&#xD;
+aufgescheucht, aber in Gras u. Busch erst dann gesehen, wenn sie ab„&#xD;
+gingen.&#xD;
+14.VII. Nach Kikundi, dortige Knochenfunde zu besichtigen. Vorher in&#xD;
+den Niongala-Forst, um den Blick auf d. Tendaguru zu be„&#xD;
+kommen u. zu peilen. Nach langem scheußlichen vergeblichen&#xD;
+Suchen in Gras u. lückenlosem Wald auf die Höhe am Wege nach&#xD;
+Matapua gelangt, aber nur sehr unvollkommener Durchblick.&#xD;
+Zurück über die Schamben des Nameha, die fossilführende Schicht nicht&#xD;
+aufgeschlossen, aber in halber Höhe des Niongala-Forstes feine weiße,&#xD;
+deutlich geschichtete Sande offenbar höherer Lage in interessanter klei„&#xD;
+ner Schlucht unter älterem Ausräumungskessel aufgeschlossen (jünge„&#xD;
+re Erosionsformen gegen ältere). Die Bornhardti-Schicht dann&#xD;
+am Wege nach Kikundi zu sehen. Hier Feuer gut durchgegangen.&#xD;
+Gegenüber Kikundi andre Sandsteine am Talrand anstehend, wohl&#xD;
+zur Beyschlagi-Zone des Mtshingiri gehörig. Lager zwischen Mben-&#xD;
+kuru u. Kikundi nahe einer großen mit Grasebene wie in&#xD;
+Kigombo erfüllten Senke.&#xD;
+Nachm. Matarawe-Hügel besichtigt, aus Beyschlagi-Schichten, vom&#xD;
+Mbenkuru in Steilabbruch abg. angeschnitten, im Flußbett Steinplatten&#xD;
+anstehend, also auch hier jugendliche Erosion. Die Grasebene&#xD;
+dürfte also früher ein See gewesen sein, im Zusammen„&#xD;
+hang mit d. tiefen Lage der Bornhardti-Schichten. Falls&#xD;
+Verwerfungs-Einbruch, müßte er recht jung sein, denn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

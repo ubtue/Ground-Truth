@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:39.470+02:00</Created>
+        <LastChange>2019-10-04T10:33:15.736+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551001" pageNr="116" tsid="16303312" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=OZCZEYJDKRNSNZMEJTTEWUIG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SEIHUNQNATOORBBSUUVJVRKC" imageId="4551879"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_116.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256502798" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1569573125013_363"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1569573125013_363" custom="readingOrder {index:0;}">
+            <Coords points="310,292 436,292 3967,338 3967,4851 409,4851 310,458"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="290,431 316,427 373,454 400,451 423,429 438,436 529,426 502,239 356,270 319,262 300,287 270,291"/>
+                <Baseline points="310,408 335,406 360,403 385,398 449,392 475,390"/>
+                <TextEquiv>
+                    <Unicode>114</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l1" custom="readingOrder {index:1;}">
+                <Coords points="626,507 2546,540 2981,410 3518,543 3953,465 3952,346 1271,285 1101,385 622,242"/>
+                <Baseline points="645,452 809,456 973,458 1138,459 1302,458 1466,455 1631,452 1795,447 1959,443 2124,438 2288,433 2452,428 2617,424 2781,420 2945,418 3110,416 3274,416 3438,417 3603,421 3767,426 3932,434"/>
+                <TextEquiv>
+                    <Unicode>20.III. Herr Hausmann nach S, ich nach W. Verfolgte über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:2;}">
+                <Coords points="407,718 928,691 1085,802 1990,632 2510,747 2907,590 3982,646 3978,514 2982,407 1508,605 402,502"/>
+                <Baseline points="429,664 605,667 782,667 958,665 1135,662 1311,657 1488,651 1664,644 1841,635 2017,628 2194,620 2370,612 2547,605 2723,599 2900,595 3076,592 3253,591 3429,592 3606,596 3782,603 3959,613"/>
+                <TextEquiv>
+                    <Unicode>2 Stunden Spuren einer Kongoni-Herde, bis im buschreicheren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:3;}">
+                <Coords points="455,862 2822,903 3006,799 3845,807 3843,679 3369,616 2299,771 1812,677 1169,793 452,677"/>
+                <Baseline points="477,810 644,820 811,827 978,832 1145,834 1313,835 1480,834 1647,832 1814,828 1981,823 2149,818 2316,813 2483,808 2650,802 2817,797 2985,793 3152,789 3319,787 3486,786 3653,787 3821,790"/>
+                <TextEquiv>
+                    <Unicode>Tal des Lungerengere die Tiere aufsprangen. Leider nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:4;}">
+                <Coords points="430,1044 800,980 951,1094 1206,960 1666,1081 1886,960 2173,1082 2499,943 3983,1032 3942,860 3364,788 2834,897 429,871"/>
+                <Baseline points="453,971 628,970 803,968 979,965 1154,962 1330,959 1505,955 1680,952 1856,949 2031,945 2207,943 2382,941 2557,939 2733,939 2908,939 3084,940 3259,943 3434,947 3610,953 3785,960 3961,969"/>
+                <TextEquiv>
+                    <Unicode>schlecht gesehen u. durch's Gebüsch Zweimal vergeblich geschossen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:5;}">
+                <Coords points="387,1156 3781,1170 3780,1055 2686,965 2408,1058 2134,944 1684,1069 386,1014"/>
+                <Baseline points="409,1112 576,1114 744,1116 911,1116 1079,1115 1246,1114 1414,1113 1581,1110 1749,1108 1916,1106 2084,1104 2251,1103 2419,1101 2586,1101 2754,1101 2921,1102 3089,1103 3256,1106 3424,1111 3591,1117 3759,1125"/>
+                <TextEquiv>
+                    <Unicode>Sonst in dem unermeßlichen u. sicher wildreichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:6;}">
+                <Coords points="484,1305 904,1410 1499,1272 1910,1395 2682,1260 3119,1370 3349,1268 3905,1319 3905,1174 3618,1135 3490,1241 2973,1127 2700,1221 484,1186"/>
+                <Baseline points="504,1288 673,1287 842,1286 1011,1284 1180,1283 1349,1281 1518,1279 1687,1277 1856,1276 2025,1274 2194,1273 2363,1272 2532,1272 2701,1271 2870,1272 3039,1273 3208,1275 3377,1277 3546,1280 3715,1284 3884,1289"/>
+                <TextEquiv>
+                    <Unicode>Ideal-Jagdrevier nichts gesehen, vor allem zu meinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:7;}">
+                <Coords points="436,1455 3062,1465 3489,1578 3764,1461 3765,1328 436,1349"/>
+                <Baseline points="460,1432 624,1434 788,1436 952,1438 1116,1440 1280,1442 1444,1444 1609,1445 1773,1447 1937,1448 2101,1450 2265,1451 2429,1452 2593,1453 2758,1454 2922,1454 3086,1454 3250,1454 3414,1454 3578,1454 3743,1453"/>
+                <TextEquiv>
+                    <Unicode>Bedauern keine Kudu's. Im Mikesse-Lager um 12. Hr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569573134345_370" custom="readingOrder {index:8;}">
+                <Coords points="513,1686 3652,1661 3652,1564 3201,1498 3034,1586 513,1522"/>
+                <Baseline points="534,1626 606,1625 678,1625 751,1625 823,1627 895,1628 968,1630 1040,1632 1112,1634 1185,1636 1257,1638 1329,1640 1402,1641 1474,1642 1546,1642 1619,1642 1691,1641 1763,1639 1836,1636 1908,1632 1981,1627 2385,1620 2447,1621 2509,1622 2571,1623 2634,1623 2696,1625 2758,1625 2821,1626 2883,1627 2945,1628 3008,1629 3070,1629 3132,1630 3194,1631 3257,1632 3319,1633 3381,1633 3444,1634 3506,1635 3568,1636 3631,1636"/>
+                <TextEquiv>
+                    <Unicode>Sattler fährt nach Mrogoro. Post nicht gekommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="680,1875 1651,1915 1835,1819 2318,1928 2705,1807 3090,1908 3283,1799 3496,1907 3853,1835 3851,1721 3170,1638 2863,1743 2367,1658 1380,1786 677,1708"/>
+                <Baseline points="700,1842 856,1838 1013,1835 1169,1831 1326,1827 1482,1823 1639,1819 1795,1815 1952,1812 2108,1809 2265,1806 2422,1803 2578,1801 2735,1799 2891,1798 3048,1797 3204,1798 3361,1798 3517,1800 3674,1803 3831,1807"/>
+                <TextEquiv>
+                    <Unicode>21.III. Vorm. auf Aussichtspunkt. D. Uluguru-Spitzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="489,2054 1192,2119 2134,1964 3261,2085 3396,1959 3821,2019 3819,1878 2111,1929 1827,1819 1604,1941 1099,1842 827,1957 486,1873"/>
+                <Baseline points="510,2002 674,2002 839,2001 1003,1999 1168,1997 1332,1994 1497,1990 1661,1986 1826,1983 1990,1979 2155,1975 2319,1971 2484,1969 2648,1966 2813,1964 2977,1962 3142,1962 3306,1962 3471,1964 3635,1967 3800,1971"/>
+                <TextEquiv>
+                    <Unicode>leider ständig von Wolken verdeckt, so daß ich weder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569573140212_375" custom="readingOrder {index:11;}">
+                <Coords points="468,2184 1409,2263 2754,2125 2928,2247 3240,2112 3713,2226 3711,2036 3057,1990 2772,2090 2011,1992 468,2096"/>
+                <Baseline points="488,2149 527,2146 566,2144 605,2143 644,2142 683,2142 722,2142 761,2143 800,2143 839,2145 879,2145 918,2147 957,2148 996,2149 1035,2150 1074,2150 1113,2150 1152,2150 1191,2149 1230,2148 1270,2146 1455,2148 1566,2148 1678,2148 1790,2147 1902,2145 2014,2144 2126,2142 2237,2140 2349,2138 2461,2135 2573,2133 2685,2131 2797,2129 2909,2127 3020,2124 3132,2123 3244,2121 3356,2120 3468,2120 3580,2119 3692,2120"/>
+                <TextEquiv>
+                    <Unicode>malen, noch photographieren kann. Safari-Pläne, ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:12;}">
+                <Coords points="471,2348 1138,2440 1380,2305 1588,2400 3362,2301 3751,2408 3750,2222 3100,2175 1380,2261 1171,2174 471,2291"/>
+                <Baseline points="491,2330 652,2325 814,2320 976,2315 1138,2311 1300,2307 1461,2304 1623,2301 1785,2299 1947,2297 2109,2295 2270,2294 2432,2294 2594,2293 2756,2293 2918,2294 3079,2294 3241,2295 3403,2297 3565,2298 3727,2300"/>
+                <TextEquiv>
+                    <Unicode>mag nicht so müßig sitzen im Wunderland. Leider noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:13;}">
+                <Coords points="456,2554 1285,2493 1542,2582 1625,2506 1766,2491 1765,2420 1602,2427 1472,2314 1411,2363 1256,2348 1130,2442 996,2374 909,2450 829,2389 675,2453 537,2380 454,2390"/>
+                <Baseline points="476,2502 539,2502 603,2502 666,2502 730,2501 793,2500 857,2500 920,2498 984,2497 1047,2496 1111,2495 1174,2494 1238,2493 1301,2492 1365,2490 1428,2490 1492,2489 1555,2488 1619,2488 1682,2487 1746,2487"/>
+                <TextEquiv>
+                    <Unicode>keine Karten u. Träger.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:14;} unclear {offset:31; length:7;}">
+                <Coords points="718,2688 3795,2657 3789,2441 3524,2413 1541,2583 714,2529"/>
+                <Baseline points="739,2661 890,2657 1042,2651 1193,2646 1345,2641 1497,2637 1648,2632 1800,2628 1951,2624 2103,2619 2255,2615 2406,2612 2558,2608 2709,2604 2861,2601 3013,2598 3164,2594 3316,2592 3467,2589 3619,2586 3771,2583"/>
+                <TextEquiv>
+                    <Unicode>22.III. Morgens mit 2 Mann auf Dintiri(?)-Berg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:15;}">
+                <Coords points="610,2840 2249,2882 2872,2759 3400,2850 3801,2812 3797,2653 606,2729"/>
+                <Baseline points="631,2806 788,2806 945,2804 1102,2802 1260,2799 1417,2796 1574,2791 1732,2787 1889,2782 2046,2777 2204,2771 2361,2766 2518,2761 2675,2755 2833,2750 2990,2745 3147,2741 3305,2738 3462,2735 3619,2732 3777,2731"/>
+                <TextEquiv>
+                    <Unicode>nördl. vom Lager. Anstieg nicht schwer, aber trotz früher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:16;}">
+                <Coords points="646,3027 1116,3083 1500,2947 1830,3052 2521,2964 2757,3037 2987,2910 3621,3001 3881,2830 641,2864"/>
+                <Baseline points="665,2976 818,2975 972,2974 1125,2972 1279,2969 1433,2965 1586,2961 1740,2956 1893,2951 2047,2947 2201,2941 2354,2935 2508,2930 2661,2924 2815,2919 2969,2913 3122,2908 3276,2903 3429,2898 3654,2888 3808,2885"/>
+                <TextEquiv>
+                    <Unicode>Stunde sehr heiß. Schon auf halber Höhe alte Kudu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:17;}">
+                <Coords points="557,3245 1194,3136 2207,3208 2390,3093 3619,3182 3825,3120 3821,2943 3029,3042 2863,2927 2702,3050 2286,2981 1794,3082 1490,2948 1123,3085 551,3002"/>
+                <Baseline points="576,3131 737,3133 898,3134 1059,3133 1221,3132 1382,3130 1543,3128 1704,3125 1866,3120 2027,3116 2188,3111 2349,3106 2511,3101 2672,3095 2833,3090 2994,3085 3156,3080 3317,3075 3478,3071 3639,3067 3801,3064"/>
+                <TextEquiv>
+                    <Unicode>Spuren. Die Wanderung auf der Kammhöhe selbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:18;}">
+                <Coords points="642,3329 1196,3410 1533,3275 2251,3388 2530,3263 2886,3366 3086,3248 3252,3355 3931,3305 3856,3113 3615,3184 3282,3080 641,3245"/>
+                <Baseline points="665,3289 827,3290 989,3289 1151,3288 1313,3285 1475,3282 1637,3278 1799,3274 1961,3270 2123,3265 2286,3260 2448,3255 2610,3250 2772,3247 2934,3243 3096,3240 3258,3238 3420,3237 3582,3237 3744,3239 3907,3242"/>
+                <TextEquiv>
+                    <Unicode>war in hohem Gras u. dichtem Busch das Schwierigste.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:19;}">
+                <Coords points="590,3487 1037,3578 1344,3450 1580,3570 1927,3441 3614,3469 3785,3453 3784,3361 2853,3366 2533,3260 1585,3292 1388,3401 588,3337"/>
+                <Baseline points="614,3463 771,3460 928,3456 1086,3452 1243,3448 1401,3444 1558,3440 1716,3436 1873,3432 2031,3428 2188,3426 2345,3423 2503,3420 2660,3419 2818,3417 2975,3417 3133,3417 3290,3418 3448,3419 3605,3422 3763,3425"/>
+                <TextEquiv>
+                    <Unicode>Mehrfach ganz frische Kudu-Spuren; aber kein Tier.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:20;}">
+                <Coords points="614,3755 916,3654 2843,3719 3113,3583 3909,3611 3755,3452 2876,3448 2733,3545 1905,3456 1541,3576 1176,3453 1021,3589 608,3516"/>
+                <Baseline points="633,3652 795,3648 958,3642 1121,3637 1283,3631 1446,3625 1609,3620 1771,3614 1934,3608 2097,3603 2260,3598 2422,3593 2585,3589 2748,3585 2910,3582 3073,3579 3236,3577 3398,3576 3561,3575 3724,3575 3887,3576"/>
+                <TextEquiv>
+                    <Unicode>Schöne Blicke nach allen Seiten, besonders von der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:21;}">
+                <Coords points="624,3835 3806,3783 3802,3606 3177,3696 3034,3606 2842,3713 938,3664 623,3765"/>
+                <Baseline points="645,3819 801,3811 958,3804 1115,3796 1272,3790 1429,3785 1586,3780 1743,3776 1900,3772 2057,3769 2214,3766 2370,3763 2527,3760 2684,3758 2841,3755 2998,3753 3155,3750 3312,3747 3469,3743 3626,3740 3783,3736"/>
+                <TextEquiv>
+                    <Unicode>nördlichen höchsten Spitze. Uluguru, Nguru u. die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:22;}">
+                <Coords points="640,4070 1088,3938 1254,4071 1617,3931 1819,4073 2094,3903 2471,4024 2991,3934 3566,4023 3886,3919 3884,3787 3298,3857 2837,3747 2473,3865 2302,3749 1806,3874 1367,3782 637,3934"/>
+                <Baseline points="662,3984 822,3970 982,3959 1142,3949 1302,3941 1462,3934 1622,3928 1782,3923 1942,3919 2102,3916 2262,3913 2422,3911 2582,3910 2742,3909 2902,3908 3062,3908 3222,3907 3382,3906 3542,3905 3702,3904 3863,3902"/>
+                <TextEquiv>
+                    <Unicode>ganze Zahl der Einzelberge. Leider auch heut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:23;}">
+                <Coords points="596,4168 2779,4214 3436,4058 3992,4174 3910,3960 2252,4040 2094,3903 594,4098"/>
+                <Baseline points="616,4159 783,4150 951,4142 1118,4133 1286,4125 1453,4117 1621,4109 1788,4102 1956,4095 2123,4089 2291,4083 2459,4078 2626,4073 2794,4069 2961,4067 3129,4064 3296,4063 3464,4062 3631,4063 3799,4064 3967,4067"/>
+                <TextEquiv>
+                    <Unicode>nicht klar. Viele Teile ganz verschwommen durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:24;}">
+                <Coords points="549,4353 1737,4387 1902,4273 2342,4390 3032,4246 3463,4364 3907,4296 3904,4142 546,4225"/>
+                <Baseline points="572,4311 737,4307 903,4302 1068,4298 1234,4293 1400,4288 1565,4283 1731,4279 1897,4274 2062,4269 2228,4265 2394,4261 2559,4257 2725,4253 2891,4249 3056,4246 3222,4244 3388,4242 3553,4240 3719,4239 3885,4238"/>
+                <TextEquiv>
+                    <Unicode>Regen, alle Spitzen abgeschnitten. Durch fürchter„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:25;}">
+                <Coords points="614,4590 2645,4428 3024,4551 3202,4445 3922,4440 3949,4294 609,4378"/>
+                <Baseline points="632,4480 796,4480 961,4479 1126,4476 1291,4474 1456,4470 1621,4466 1785,4462 1950,4457 2115,4451 2280,4447 2445,4441 2610,4437 2775,4431 2939,4427 3104,4422 3269,4419 3434,4416 3599,4413 3764,4412 3929,4412"/>
+                <TextEquiv>
+                    <Unicode>lichen Busch nach N. O. abwärts, durch ewige Felder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:26;}">
+                <Coords points="695,4701 801,4664 1036,4735 1242,4664 1614,4715 1855,4613 2315,4675 2398,4629 2396,4523 1598,4591 1460,4514 1152,4578 1018,4488 694,4600"/>
+                <Baseline points="715,4652 798,4650 881,4648 964,4645 1047,4642 1130,4639 1213,4637 1296,4634 1379,4631 1462,4629 1546,4627 1629,4625 1712,4624 1795,4622 1878,4621 1961,4621 2044,4621 2127,4621 2210,4622 2293,4624 2377,4626"/>
+                <TextEquiv>
+                    <Unicode>zurück; im Lager um 12.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:27;}">
+                <Coords points="854,4920 1924,4776 2080,4862 2617,4764 3991,4822 3988,4677 3391,4591 2814,4694 2513,4607 1672,4733 850,4695"/>
+                <Baseline points="875,4789 1029,4790 1184,4790 1338,4789 1493,4786 1648,4783 1802,4779 1957,4774 2111,4770 2266,4765 2421,4760 2575,4755 2730,4751 2884,4748 3039,4745 3194,4743 3348,4743 3503,4744 3657,4746 3812,4751 3967,4757"/>
+                <TextEquiv>
+                    <Unicode>Es treffen Wanguru mit wildem Kautschuk u. einige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>114&#xD;
+20.III. Herr Hausmann nach S, ich nach W. Verfolgte über&#xD;
+2 Stunden Spuren einer Kongoni-Herde, bis im buschreicheren&#xD;
+Tal des Lungerengere die Tiere aufsprangen. Leider nur&#xD;
+schlecht gesehen u. durch's Gebüsch Zweimal vergeblich geschossen.&#xD;
+Sonst in dem unermeßlichen u. sicher wildreichen&#xD;
+Ideal-Jagdrevier nichts gesehen, vor allem zu meinem&#xD;
+Bedauern keine Kudu's. Im Mikesse-Lager um 12. Hr.&#xD;
+Sattler fährt nach Mrogoro. Post nicht gekommen.&#xD;
+21.III. Vorm. auf Aussichtspunkt. D. Uluguru-Spitzen&#xD;
+leider ständig von Wolken verdeckt, so daß ich weder&#xD;
+malen, noch photographieren kann. Safari-Pläne, ich&#xD;
+mag nicht so müßig sitzen im Wunderland. Leider noch&#xD;
+keine Karten u. Träger.&#xD;
+22.III. Morgens mit 2 Mann auf Dintiri(?)-Berg&#xD;
+nördl. vom Lager. Anstieg nicht schwer, aber trotz früher&#xD;
+Stunde sehr heiß. Schon auf halber Höhe alte Kudu-&#xD;
+Spuren. Die Wanderung auf der Kammhöhe selbst&#xD;
+war in hohem Gras u. dichtem Busch das Schwierigste.&#xD;
+Mehrfach ganz frische Kudu-Spuren; aber kein Tier.&#xD;
+Schöne Blicke nach allen Seiten, besonders von der&#xD;
+nördlichen höchsten Spitze. Uluguru, Nguru u. die&#xD;
+ganze Zahl der Einzelberge. Leider auch heut&#xD;
+nicht klar. Viele Teile ganz verschwommen durch&#xD;
+Regen, alle Spitzen abgeschnitten. Durch fürchter„&#xD;
+lichen Busch nach N. O. abwärts, durch ewige Felder&#xD;
+zurück; im Lager um 12.&#xD;
+Es treffen Wanguru mit wildem Kautschuk u. einige</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

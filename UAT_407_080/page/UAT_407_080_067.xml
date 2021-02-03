@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:56.225+02:00</Created>
+        <LastChange>2020-03-23T12:27:27.496+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550769" pageNr="67" tsid="26078062" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=TMUMWMMDWKBNZLDDQYANZINT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CJUSFFFBBFDSCVNZXALDWDPQ" imageId="4551647"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_067.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255551342" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:0;}">
+            <Coords points="349,231 349,4879 4075,4879 4075,231"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="3769,405 3832,410 3842,402 3872,427 3946,414 3960,233 3891,237 3857,211 3820,217 3805,230 3782,228"/>
+                <Baseline points="3799,306 3825,308 3851,310 3877,311 3903,313 3929,318"/>
+                <TextEquiv>
+                    <Unicode>63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="327,392 3711,386 3356,212 327,228"/>
+                <Baseline points="349,350 516,341 683,333 850,327 1017,322 1184,319 1351,316 1518,315 1685,314 1852,315 2019,316 2186,317 2353,319 2520,322 2687,325 2854,328 3021,331 3188,335 3355,338 3522,341 3689,343"/>
+                <TextEquiv>
+                    <Unicode>loch, zu den die Weiber weit aus d. Tale heraufsteigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="338,566 2655,444 3598,549 3774,370 1656,317 337,439"/>
+                <Baseline points="362,498 531,489 701,480 870,472 1040,466 1210,460 1379,455 1549,451 1718,448 1888,445 2058,443 2227,442 2397,442 2566,442 2736,443 2906,445 3075,448 3245,451 3414,454 3584,459 3754,463"/>
+                <TextEquiv>
+                    <Unicode>müssen, lag in gelblich-grünen Tonen, wie ich sie noch nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;}">
+                <Coords points="358,691 3919,634 3716,505 2012,453 356,568"/>
+                <Baseline points="380,658 555,649 731,641 907,634 1083,628 1258,622 1434,617 1610,612 1786,608 1961,604 2137,601 2313,599 2489,597 2664,595 2840,594 3016,593 3192,593 3367,592 3543,593 3719,593 3895,594"/>
+                <TextEquiv>
+                    <Unicode>wieder gesehen habe. Die Weiber u. starken Tättowierungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:4;}">
+                <Coords points="361,825 582,916 2313,752 3813,799 3896,633 571,665 360,770"/>
+                <Baseline points="383,815 557,811 732,807 906,802 1081,796 1255,789 1430,782 1604,776 1779,768 1953,762 2128,755 2303,749 2477,745 2652,741 2826,738 3001,737 3175,737 3350,739 3524,743 3699,750 3874,758"/>
+                <TextEquiv>
+                    <Unicode>u. Schnabellippen, andre jüngere (wie man behauptet noch kin„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:5;}">
+                <Coords points="389,1002 2045,920 2416,1016 2573,921 3817,922 3814,790 386,870"/>
+                <Baseline points="411,976 580,969 749,963 918,957 1087,952 1256,946 1425,941 1594,936 1763,932 1932,928 2102,924 2271,920 2440,916 2609,913 2778,909 2947,906 3116,903 3285,900 3454,896 3623,893 3793,890"/>
+                <TextEquiv>
+                    <Unicode>derlose) mit dem „Wandonde-Abzeichen“ im linken Nasen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:6;}">
+                <Coords points="444,1202 907,1246 1042,1112 1433,1095 1734,1201 2730,1039 3372,1120 3764,1016 3312,904 437,1020"/>
+                <Baseline points="466,1157 629,1145 793,1134 957,1124 1121,1115 1284,1106 1448,1098 1612,1091 1776,1084 1939,1077 2103,1071 2267,1065 2431,1059 2594,1053 2758,1046 2922,1040 3086,1033 3249,1026 3413,1019 3577,1011 3741,1002"/>
+                <TextEquiv>
+                    <Unicode>flügel. Ich bin mir noch nicht klar, ob es wirklich ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:7;}">
+                <Coords points="426,1326 3436,1276 3893,1197 3888,1069 422,1235"/>
+                <Baseline points="448,1292 619,1289 790,1284 961,1279 1132,1274 1303,1267 1474,1260 1645,1253 1816,1245 1987,1238 2158,1229 2329,1221 2500,1213 2671,1205 2842,1197 3013,1189 3184,1182 3355,1175 3526,1169 3697,1162 3869,1157"/>
+                <TextEquiv>
+                    <Unicode>Stammesabzeichen darstellt (oder darstellte, denn jetzt ma„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:8;}">
+                <Coords points="415,1547 912,1437 3337,1467 3551,1331 4038,1427 4091,1169 409,1402"/>
+                <Baseline points="433,1450 615,1448 797,1446 979,1442 1161,1438 1343,1432 1525,1426 1707,1419 1889,1412 2071,1404 2254,1396 2436,1389 2618,1380 2800,1372 2982,1364 3164,1356 3346,1349 3528,1342 3710,1335 3892,1329 4075,1324"/>
+                <TextEquiv>
+                    <Unicode>chen es d. Muëra-Frauen nach, weil sie oft ausgelacht werden)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:9;}">
+                <Coords points="430,1665 1075,1717 2308,1554 2745,1660 2900,1545 3423,1643 3861,1530 3674,1423 2721,1502 2480,1415 1897,1539 426,1555"/>
+                <Baseline points="452,1642 621,1635 790,1628 959,1621 1129,1613 1298,1606 1467,1599 1636,1591 1806,1584 1975,1576 2144,1569 2313,1562 2483,1555 2652,1549 2821,1542 2990,1537 3160,1532 3329,1526 3498,1522 3667,1518 3837,1514"/>
+                <TextEquiv>
+                    <Unicode>Nahe am Wege Trümmer eines Saurierskeletts gefunden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:10;} textStyle {offset:25; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="458,1916 604,1806 1195,1891 1705,1746 2633,1828 3080,1717 3334,1818 3818,1710 3814,1591 450,1707"/>
+                <Baseline points="476,1800 641,1793 807,1786 973,1779 1139,1773 1305,1766 1471,1759 1636,1752 1802,1746 1968,1740 2134,1733 2300,1728 2466,1723 2632,1717 2797,1712 2963,1708 3129,1703 3295,1699 3461,1695 3627,1692 3793,1689"/>
+                <TextEquiv>
+                    <Unicode>Höre, daß d. Eingebornen da an d. Knochen d. Sage eines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:11;}">
+                <Coords points="448,2085 1076,1934 3361,1866 3620,1957 3896,1783 2063,1753 442,1921"/>
+                <Baseline points="465,1967 635,1960 806,1952 976,1944 1147,1937 1318,1929 1488,1922 1659,1915 1829,1908 2000,1900 2171,1894 2341,1887 2512,1882 2682,1876 2853,1870 3024,1866 3194,1861 3365,1858 3535,1855 3706,1852 3877,1850"/>
+                <TextEquiv>
+                    <Unicode>früheren Tieres namens Majimwi (mëra: ma'imi, yao:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:12;}">
+                <Coords points="461,2173 3198,2012 3726,2118 3923,2037 3916,1868 1962,2010 1034,1948 457,2086"/>
+                <Baseline points="480,2143 650,2129 821,2116 992,2105 1163,2095 1334,2086 1504,2077 1675,2069 1846,2062 2017,2056 2188,2049 2358,2043 2529,2038 2700,2032 2871,2026 3042,2020 3212,2014 3383,2007 3554,2001 3725,1993 3896,1985"/>
+                <TextEquiv>
+                    <Unicode>mazimwi) knüpfen, die offenbar schon älteren Datums ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888925030_2310" custom="readingOrder {index:13;} textStyle {offset:25; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="399,2420 780,2307 953,2378 1084,2278 1226,2360 1481,2356 1567,2268 1896,2347 2214,2257 2204,2103 1989,2167 1633,2104 1343,2197 1196,2124 1084,2214 906,2148 388,2251"/>
+                <Baseline points="417,2331 596,2316 775,2302 954,2289 1133,2276 1312,2264 1491,2253 1670,2241 1849,2231 2028,2220 2187,2212"/>
+                <TextEquiv>
+                    <Unicode>(mein Boy bestätigt mir, sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:14;}">
+                <Coords points="2051,2167 2114,2137 2137,2158 2191,2133 2242,2158 2291,2123 2305,2136 2359,2125 2402,2159 2524,2144 2519,2039 2446,2043 2398,2073 2282,2042 2211,2068 2187,2055 2151,2071 2046,2067"/>
+                <Baseline points="2072,2136 2097,2136 2122,2135 2147,2135 2172,2134 2197,2133 2223,2132 2248,2131 2273,2129 2298,2128 2323,2127 2348,2125 2374,2124 2399,2122 2424,2121 2449,2120 2474,2118 2500,2117"/>
+                <TextEquiv>
+                    <Unicode>d. Namen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888925030_2309" custom="readingOrder {index:15;}">
+                <Coords points="2163,2198 2449,2166 2570,2244 2838,2203 2927,2269 3160,2161 3460,2265 3558,2198 3774,2273 3903,2173 4022,2192 4019,2096 3913,2054 3714,2111 3538,2012 3103,2099 2161,2139"/>
+                <Baseline points="2187,2212 2207,2211 2386,2202 2565,2195 2744,2187 2923,2180 3102,2174 3281,2169 3460,2163 3639,2159 3818,2156 3997,2153"/>
+                <TextEquiv>
+                    <Unicode>schon vor unsrer Ankunft gehört</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:16;}">
+                <Coords points="479,2593 815,2476 1189,2563 1510,2419 2590,2494 3015,2340 3992,2351 3941,2240 3064,2210 468,2366"/>
+                <Baseline points="494,2476 667,2469 841,2462 1015,2454 1189,2446 1362,2437 1536,2428 1710,2419 1884,2409 2057,2401 2231,2391 2405,2382 2579,2373 2752,2363 2926,2355 3100,2347 3274,2339 3447,2332 3621,2325 3795,2319 3969,2314"/>
+                <TextEquiv>
+                    <Unicode>zu haben, während mir d. Akidah jenseits d. Mbenkuru er„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:17;}">
+                <Coords points="511,2756 2294,2565 3673,2622 3953,2563 3943,2349 501,2543"/>
+                <Baseline points="527,2651 697,2647 867,2641 1037,2634 1207,2626 1377,2619 1547,2609 1717,2601 1887,2591 2057,2582 2227,2572 2397,2562 2567,2554 2737,2545 2907,2536 3077,2529 3247,2521 3417,2516 3587,2511 3757,2507 3927,2504"/>
+                <TextEquiv>
+                    <Unicode>zählte, niemand habe bisher von den Knochen gewußt),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:18;}">
+                <Coords points="485,2956 1999,2769 2177,2880 2450,2759 3733,2819 4062,2741 4055,2569 476,2751"/>
+                <Baseline points="503,2830 679,2823 856,2814 1033,2806 1209,2797 1386,2788 1563,2779 1739,2770 1916,2761 2093,2753 2270,2744 2446,2736 2623,2728 2800,2721 2976,2715 3153,2709 3330,2704 3506,2699 3683,2696 3860,2694 4037,2692"/>
+                <TextEquiv>
+                    <Unicode>Es habe Menschen gefressen, die sehr viel größer gewesen seien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:19;}">
+                <Coords points="516,3113 2426,2916 3600,2958 3966,2891 3959,2741 508,2944"/>
+                <Baseline points="534,3016 704,3005 874,2995 1045,2985 1215,2976 1385,2967 1556,2959 1726,2951 1896,2943 2067,2935 2237,2928 2407,2921 2578,2913 2748,2906 2918,2899 3089,2892 3259,2885 3429,2877 3600,2870 3770,2863 3941,2854"/>
+                <TextEquiv>
+                    <Unicode>Boheti giebt mir auch Auskunft über die Schlangensage, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l20" custom="readingOrder {index:20;}">
+                <Coords points="484,3234 4039,3138 3959,2964 3374,2915 478,3102"/>
+                <Baseline points="503,3187 678,3179 854,3171 1029,3162 1205,3154 1380,3146 1556,3137 1731,3129 1907,3121 2082,3114 2258,3105 2433,3098 2609,3090 2784,3084 2960,3078 3135,3071 3311,3066 3486,3060 3662,3056 3837,3051 4013,3048"/>
+                <TextEquiv>
+                    <Unicode>nicht damit zusammenhängt, vielmehr eine Art Sintflut ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l21" custom="readingOrder {index:21;}">
+                <Coords points="467,3392 495,3389 524,3414 574,3405 616,3420 672,3378 709,3379 748,3408 807,3403 789,3208 716,3210 679,3254 625,3213 598,3211 500,3293 458,3287"/>
+                <Baseline points="487,3363 513,3359 539,3356 566,3353 592,3349 618,3348 645,3345 671,3343 697,3341 724,3340 750,3338 777,3336"/>
+                <TextEquiv>
+                    <Unicode>tritt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l22" custom="readingOrder {index:22;}">
+                <Coords points="586,3514 738,3596 1373,3492 1677,3598 1810,3489 2032,3588 2288,3462 3928,3453 3723,3308 2163,3393 1257,3258 583,3419"/>
+                <Baseline points="609,3479 773,3485 938,3488 1103,3490 1268,3489 1433,3487 1597,3484 1762,3480 1927,3474 2092,3468 2257,3461 2421,3454 2586,3447 2751,3440 2916,3434 3081,3428 3245,3423 3410,3420 3575,3417 3740,3415 3905,3416"/>
+                <TextEquiv>
+                    <Unicode>Auch bei Graben IX finde ich d. knochen- u. belemniten„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l23" custom="readingOrder {index:23;}">
+                <Coords points="454,3797 787,3667 1283,3767 1684,3647 2648,3594 3053,3702 3977,3558 3909,3447 3494,3426 446,3574"/>
+                <Baseline points="471,3674 645,3670 819,3666 993,3661 1167,3656 1341,3651 1515,3644 1689,3638 1863,3632 2037,3626 2212,3619 2386,3613 2560,3605 2734,3599 2908,3592 3082,3585 3256,3578 3430,3571 3604,3563 3778,3556 3953,3549"/>
+                <TextEquiv>
+                    <Unicode>führenden Konglomerate über den Saurierschichten u. denke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l24" custom="readingOrder {index:24;}">
+                <Coords points="449,3849 3529,3853 3977,3761 3973,3616 447,3777"/>
+                <Baseline points="473,3830 656,3826 839,3821 1022,3816 1205,3810 1388,3804 1571,3798 1754,3792 1937,3785 2120,3779 2304,3773 2487,3767 2670,3760 2853,3755 3036,3749 3219,3744 3402,3739 3585,3735 3768,3731 3952,3728"/>
+                <TextEquiv>
+                    <Unicode>an d. hochliegenden Trigonien-Schichten auf d. Tendaguru u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l25" custom="readingOrder {index:25;}">
+                <Coords points="444,4042 803,4005 965,4092 1086,4011 1261,4088 1395,4002 1591,4001 1716,4080 1877,3975 2042,3998 2039,3893 1851,3857 1712,3916 1549,3807 1419,3888 1187,3871 1111,3928 829,3804 606,3951 441,3928"/>
+                <Baseline points="468,4010 545,4003 622,3997 700,3993 777,3988 855,3984 932,3981 1009,3978 1087,3976 1164,3974 1242,3972 1319,3971 1396,3969 1474,3968 1551,3967 1629,3966 1706,3965 1783,3964 1861,3963 1938,3961 2016,3960"/>
+                <TextEquiv>
+                    <Unicode>am Wege nach Matapua.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l26" custom="readingOrder {index:26;}">
+                <Coords points="593,4164 1461,4241 3959,4125 3952,3929 3396,3901 2826,4047 1028,4104 738,3999 591,4091"/>
+                <Baseline points="617,4143 782,4151 948,4156 1114,4158 1280,4158 1446,4156 1611,4151 1777,4146 1943,4139 2109,4131 2275,4123 2440,4114 2606,4106 2772,4098 2938,4091 3104,4084 3269,4079 3435,4076 3601,4074 3767,4075 3933,4079"/>
+                <TextEquiv>
+                    <Unicode>Abend. mit Dr. Janensch auf Tendaguru zum Vollmondauf„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l27" custom="readingOrder {index:27;}">
+                <Coords points="424,4422 2243,4283 4016,4332 4011,4145 3674,4117 419,4208"/>
+                <Baseline points="443,4305 620,4309 797,4311 974,4312 1152,4311 1329,4310 1506,4307 1684,4303 1861,4298 2038,4294 2216,4288 2393,4282 2570,4277 2747,4270 2925,4265 3102,4259 3279,4254 3457,4249 3634,4245 3811,4242 3989,4239"/>
+                <TextEquiv>
+                    <Unicode>gang, ein Schauspiel, das d. Sonnenaufgang eigentlich noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l28" custom="readingOrder {index:28;}">
+                <Coords points="422,4518 523,4519 594,4475 696,4517 750,4501 811,4558 887,4523 916,4550 1002,4533 994,4346 917,4335 854,4379 780,4331 660,4423 581,4380 419,4432"/>
+                <Baseline points="443,4486 469,4483 496,4479 522,4477 549,4475 575,4473 602,4470 628,4469 655,4468 681,4466 708,4466 735,4465 761,4464 788,4464 814,4464 841,4463 867,4463 894,4463 920,4463 947,4464 974,4464"/>
+                <TextEquiv>
+                    <Unicode>übertrifft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l29" custom="readingOrder {index:29;}">
+                <Coords points="636,4757 713,4720 845,4755 1004,4639 1259,4650 1374,4749 2060,4674 2059,4574 1826,4504 1568,4588 1357,4476 1108,4570 634,4525"/>
+                <Baseline points="657,4644 726,4644 795,4644 864,4644 933,4643 1002,4643 1071,4643 1140,4642 1209,4641 1278,4641 1347,4640 1416,4639 1485,4638 1554,4637 1623,4636 1692,4635 1761,4635 1830,4634 1899,4633 1968,4632 2038,4631"/>
+                <TextEquiv>
+                    <Unicode>Poscho- u. Lohnzahlung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l30" custom="readingOrder {index:30;}">
+                <Coords points="621,4881 1541,4871 1996,4957 2502,4910 2501,4737 2210,4697 2010,4783 1919,4711 1591,4711 1377,4798 725,4721 621,4767"/>
+                <Baseline points="645,4835 736,4837 828,4839 920,4840 1012,4840 1103,4840 1195,4840 1287,4839 1379,4839 1470,4838 1562,4837 1654,4836 1746,4836 1837,4835 1929,4835 2021,4835 2113,4835 2204,4836 2296,4837 2388,4840 2480,4842"/>
+                <TextEquiv>
+                    <Unicode>Wieder meine Verdauungsstörung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>63&#xD;
+loch, zu den die Weiber weit aus d. Tale heraufsteigen&#xD;
+müssen, lag in gelblich-grünen Tonen, wie ich sie noch nicht&#xD;
+wieder gesehen habe. Die Weiber u. starken Tättowierungen&#xD;
+u. Schnabellippen, andre jüngere (wie man behauptet noch kin„&#xD;
+derlose) mit dem „Wandonde-Abzeichen“ im linken Nasen„&#xD;
+flügel. Ich bin mir noch nicht klar, ob es wirklich ein&#xD;
+Stammesabzeichen darstellt (oder darstellte, denn jetzt ma„&#xD;
+chen es d. Muëra-Frauen nach, weil sie oft ausgelacht werden)&#xD;
+Nahe am Wege Trümmer eines Saurierskeletts gefunden.&#xD;
+Höre, daß d. Eingebornen da an d. Knochen d. Sage eines&#xD;
+früheren Tieres namens Majimwi (mëra: ma'imi, yao:&#xD;
+mazimwi) knüpfen, die offenbar schon älteren Datums ist&#xD;
+(mein Boy bestätigt mir, sie&#xD;
+d. Namen&#xD;
+schon vor unsrer Ankunft gehört&#xD;
+zu haben, während mir d. Akidah jenseits d. Mbenkuru er„&#xD;
+zählte, niemand habe bisher von den Knochen gewußt),&#xD;
+Es habe Menschen gefressen, die sehr viel größer gewesen seien.&#xD;
+Boheti giebt mir auch Auskunft über die Schlangensage, die&#xD;
+nicht damit zusammenhängt, vielmehr eine Art Sintflut ver„&#xD;
+tritt.&#xD;
+Auch bei Graben IX finde ich d. knochen- u. belemniten„&#xD;
+führenden Konglomerate über den Saurierschichten u. denke&#xD;
+an d. hochliegenden Trigonien-Schichten auf d. Tendaguru u.&#xD;
+am Wege nach Matapua.&#xD;
+Abend. mit Dr. Janensch auf Tendaguru zum Vollmondauf„&#xD;
+gang, ein Schauspiel, das d. Sonnenaufgang eigentlich noch&#xD;
+übertrifft.&#xD;
+Poscho- u. Lohnzahlung.&#xD;
+Wieder meine Verdauungsstörung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M5(htr_id=20484)::::v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M5(htr_id=20484)::::v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.3
+Transkribus</Creator>
+        <Created>2019-12-18T08:33:21.960+01:00</Created>
+        <LastChange>2020-01-15T15:19:42.634+01:00</LastChange>
+        <TranskribusMetadata docId="296974" pageId="11822097" pageNr="7" tsid="22348514" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=KUFYNJMFIRWMNOQAVLRPTZJW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XTHVKYCGGXMLHMNUZPYDMTHM" imageId="8187404"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_105_007.jpg" imageWidth="3807" imageHeight="5349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613474321224" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="101,81 101,2497 1801,2500 1801,84"/>
+            <TextLine id="line_1579072817376_259" custom="readingOrder {index:0;}">
+                <Coords points="1681,186 1696,186 1713,196 1727,181 1737,178 1741,182 1759,167 1772,167 1769,86 1751,86 1737,99 1712,98 1701,103 1695,99 1678,99"/>
+                <Baseline points="1690,142 1761,140"/>
+                <TextEquiv>
+                    <Unicode>2.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;}">
+                <Coords points="145,309 1150,306 1246,363 1470,308 1747,330 1772,246 1547,275 1259,180 1062,256 790,183 658,250 147,241"/>
+                <Baseline points="157,276 237,276 317,277 397,278 477,280 558,282 638,284 718,286 798,288 878,290 959,293 1039,296 1119,298 1199,300 1279,303 1360,305 1440,307 1520,309 1600,310 1680,312 1761,313"/>
+                <TextEquiv>
+                    <Unicode>„nur“ 20 Min. zu spät abfuhren, nachdem wir uns nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+                <Coords points="144,406 1759,428 1723,351 1610,383 1454,324 1158,369 985,305 839,355 560,295 146,346"/>
+                <Baseline points="155,390 234,386 314,382 394,380 473,379 553,379 633,379 712,381 792,382 872,385 952,387 1031,391 1111,394 1191,397 1270,400 1350,403 1430,406 1509,408 1589,410 1669,412 1749,413"/>
+                <TextEquiv>
+                    <Unicode>längerem Verhandeln mit Herrn u. einer Dame in das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:3;}">
+                <Coords points="138,470 1587,526 1758,507 1760,445 1154,456 1048,402 708,439 454,387 140,422"/>
+                <Baseline points="149,451 229,452 309,453 389,454 469,456 549,458 629,460 709,462 789,465 869,468 949,470 1029,473 1109,476 1189,480 1269,483 1349,486 1429,489 1509,492 1589,495 1669,498 1749,501"/>
+                <TextEquiv>
+                    <Unicode>erste beste Coupée gesetzt hatten, das denn auch merk-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="140,542 1222,606 1758,573 1690,513 1431,495 1380,540 1109,486 683,524 483,456 142,488"/>
+                <Baseline points="152,527 231,530 311,533 391,535 471,538 551,540 630,543 710,545 790,547 870,549 950,552 1029,554 1109,556 1189,558 1269,560 1349,562 1428,565 1508,567 1588,569 1668,572 1748,574"/>
+                <TextEquiv>
+                    <Unicode>würdiger Weise das richtige war. Der Zug ging 9,13 ab. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="142,640 1771,668 1772,595 144,567"/>
+                <Baseline points="154,621 234,620 314,619 395,618 475,618 555,619 636,619 716,620 796,621 877,622 957,624 1037,626 1118,628 1198,630 1278,632 1359,634 1439,636 1519,639 1600,641 1680,643 1761,645"/>
+                <TextEquiv>
+                    <Unicode>Fahrt war ziemlich stumpfsinnig. Um 10,40 kamen wir nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="141,749 511,705 892,762 971,723 1668,764 1750,665 1092,646 1029,687 920,637 861,685 401,648 141,689"/>
+                <Baseline points="152,719 231,717 310,716 390,715 469,714 549,714 628,714 707,714 787,714 866,715 946,715 1025,716 1104,717 1184,718 1263,718 1343,719 1422,719 1501,719 1581,719 1660,718 1740,717"/>
+                <TextEquiv>
+                    <Unicode>Angermünde, wo wir eine Depesche an Frau Labahn auf-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="138,806 357,851 522,803 1686,811 1686,761 1389,730 1200,778 821,726 605,766 510,705 397,764 138,746"/>
+                <Baseline points="149,800 225,798 301,797 377,796 454,795 530,795 606,795 683,795 759,795 835,795 912,796 988,797 1064,798 1140,799 1217,800 1293,801 1369,802 1446,804 1522,805 1598,807 1675,808"/>
+                <TextEquiv>
+                    <Unicode>setzten, daß wir erst um ½3 dasein würden. Um 12,12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="146,884 1764,928 1765,851 1699,825 1601,867 1396,817 147,832"/>
+                <Baseline points="157,878 236,878 316,879 396,879 476,880 556,881 636,881 716,882 796,883 876,884 956,885 1035,886 1115,887 1195,889 1275,890 1355,891 1435,892 1515,894 1595,895 1675,897 1755,898"/>
+                <TextEquiv>
+                    <Unicode>kamen wir nach Pasewalk, wo 10 Min. Aufenthalt sein sollte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072679610_162" custom="readingOrder {index:9;}">
+                <Coords points="115,976 584,964 722,1014 810,960 1304,967 1372,1020 1460,975 1718,1026 1786,920 232,890 115,945"/>
+                <Baseline points="125,974 177,970 266,963 355,958 443,955 532,953 621,952 710,952 798,953 887,954 976,956 1065,958 1153,961 1242,964 1331,967 1420,969 1508,971 1597,974 1686,975 1775,976"/>
+                <TextEquiv>
+                    <Unicode>Als wir nun dachten, jetzt würde es weiter gehen, da hieß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072691129_170" custom="readingOrder {index:10;}">
+                <Coords points="131,1040 1111,1097 1319,1057 1458,1109 1744,1080 1746,1016 1323,984 1202,1024 1016,965 878,1019 816,972 720,1016 476,966 131,1000"/>
+                <Baseline points="140,1051 173,1048 260,1042 346,1038 433,1035 520,1033 606,1033 693,1034 780,1036 867,1038 953,1041 1040,1044 1127,1048 1213,1051 1300,1054 1387,1056 1473,1058 1560,1059 1647,1059 1734,1057"/>
+                <TextEquiv>
+                    <Unicode>es plötzlich, wir müssten umsteigen in den Zug, der uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072702807_178" custom="readingOrder {index:11;}">
+                <Coords points="148,1127 407,1176 731,1133 1781,1175 1782,1112 1565,1075 1083,1102 521,1045 350,1092 231,1042 149,1103"/>
+                <Baseline points="158,1133 177,1132 265,1127 354,1123 442,1121 531,1121 619,1121 708,1122 796,1124 885,1126 974,1129 1062,1132 1151,1135 1239,1138 1328,1141 1416,1143 1505,1145 1593,1146 1682,1146 1771,1145"/>
+                <TextEquiv>
+                    <Unicode>hier eingeholt hatte. Selbstverständlich war dort kein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072712071_186" custom="readingOrder {index:12;}">
+                <Coords points="128,1234 1764,1238 1725,1190 1556,1209 1432,1156 523,1190 219,1123 129,1168"/>
+                <Baseline points="138,1227 175,1226 262,1222 350,1220 438,1218 525,1217 613,1216 701,1216 788,1216 876,1217 964,1218 1051,1220 1139,1222 1227,1224 1314,1226 1402,1229 1490,1231 1577,1234 1665,1236 1753,1239"/>
+                <TextEquiv>
+                    <Unicode>Platz mehr, aber es wurde welcher gemacht und wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="158,1349 269,1309 1754,1338 1706,1254 1427,1283 1306,1235 160,1268"/>
+                <Baseline points="170,1291 248,1295 327,1298 406,1301 485,1303 563,1305 642,1306 721,1306 800,1307 878,1307 957,1307 1036,1308 1115,1308 1193,1309 1272,1310 1351,1311 1430,1313 1508,1315 1587,1318 1666,1321 1745,1326"/>
+                <TextEquiv>
+                    <Unicode>quetschten uns auch hinein. Erst fuhr unser erster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072720559_194" custom="readingOrder {index:14;}">
+                <Coords points="147,1417 1787,1427 1787,1371 1495,1333 148,1357"/>
+                <Baseline points="158,1395 193,1395 281,1395 369,1394 457,1394 545,1395 633,1395 721,1396 809,1397 897,1398 985,1399 1073,1400 1161,1401 1249,1403 1337,1404 1425,1405 1513,1406 1601,1407 1689,1408 1777,1409"/>
+                <TextEquiv>
+                    <Unicode>Zug weiter, dessen Stelle sofort ein andrer Extrazug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072729678_202" custom="readingOrder {index:15;}">
+                <Coords points="143,1481 598,1492 655,1538 978,1489 1760,1517 1760,1438 144,1442"/>
+                <Baseline points="153,1481 206,1481 292,1480 377,1480 463,1480 549,1481 634,1482 720,1484 806,1485 892,1487 977,1488 1063,1490 1149,1491 1234,1492 1320,1492 1406,1493 1491,1493 1577,1492 1663,1490 1749,1488"/>
+                <TextEquiv>
+                    <Unicode>einnahm, dann fuhren wir ab und auch uns folgte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072738438_210" custom="readingOrder {index:16;}">
+                <Coords points="138,1560 459,1569 533,1618 654,1573 1746,1580 1746,1508 138,1510"/>
+                <Baseline points="148,1560 192,1560 278,1560 363,1560 449,1561 535,1562 620,1564 706,1566 792,1568 878,1570 963,1572 1049,1574 1135,1575 1220,1576 1306,1576 1392,1576 1477,1574 1563,1572 1649,1569 1735,1565"/>
+                <TextEquiv>
+                    <Unicode>ein Extrazug, da der Verkehr sehr stark war. In</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072748679_218" custom="readingOrder {index:17;}">
+                <Coords points="132,1678 1411,1670 1520,1723 1805,1687 1806,1602 1401,1651 1316,1586 654,1573 490,1625 225,1563 133,1622"/>
+                <Baseline points="143,1658 195,1658 284,1658 373,1658 462,1658 551,1658 639,1659 728,1659 817,1660 906,1661 995,1662 1084,1663 1173,1664 1261,1666 1350,1668 1439,1670 1528,1672 1617,1674 1706,1677 1795,1680"/>
+                <TextEquiv>
+                    <Unicode>Ducherow, wohin wir um 1,46 gelangten stiegen meh-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072759510_226" custom="readingOrder {index:18;}">
+                <Coords points="133,1739 844,1793 1019,1754 1111,1799 1168,1756 1447,1809 1728,1768 1729,1701 1511,1723 1414,1671 955,1730 783,1684 134,1692"/>
+                <Baseline points="143,1743 179,1742 270,1739 360,1737 451,1737 541,1738 632,1739 722,1741 813,1744 903,1747 994,1750 1084,1753 1175,1756 1265,1758 1356,1759 1446,1759 1537,1758 1627,1756 1718,1753"/>
+                <TextEquiv>
+                    <Unicode>rere aus und wir bekamen etwas Platz. Von jetzt ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072767598_234" custom="readingOrder {index:19;}">
+                <Coords points="140,1812 717,1829 786,1876 1788,1827 1332,1768 141,1777"/>
+                <Baseline points="150,1816 197,1814 285,1811 373,1810 461,1810 548,1811 636,1814 724,1817 812,1820 900,1823 987,1827 1075,1831 1163,1834 1251,1836 1339,1837 1426,1838 1514,1836 1602,1834 1690,1830 1778,1823"/>
+                <TextEquiv>
+                    <Unicode>wurden wir immer ungeduldiger und die Fahrt immer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072775414_242" custom="readingOrder {index:20;} textStyle {offset:46; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="134,1909 1733,1945 1785,1838 1109,1888 950,1838 135,1849"/>
+                <Baseline points="145,1900 195,1898 283,1895 370,1894 458,1893 546,1893 633,1894 721,1895 809,1897 897,1899 984,1901 1072,1903 1160,1905 1247,1907 1335,1909 1423,1910 1510,1911 1598,1910 1686,1909 1774,1907"/>
+                <TextEquiv>
+                    <Unicode>langweiliger bis wir endlich um ungefähr 3,21 in statt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579072783486_250" custom="readingOrder {index:21;}">
+                <Coords points="124,1986 1630,2009 1751,1945 388,1905 124,1953"/>
+                <Baseline points="135,1982 174,1980 261,1976 348,1973 435,1971 522,1969 609,1968 696,1968 783,1968 870,1969 957,1970 1044,1971 1131,1972 1218,1973 1305,1974 1392,1975 1479,1976 1566,1976 1653,1975 1740,1974"/>
+                <TextEquiv>
+                    <Unicode>wie beabsichtigt, um ½12 in Heringsdorf ankamen, wo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+                <Coords points="157,2054 1802,2072 1767,2007 1439,1980 1157,2028 1097,1980 157,2015"/>
+                <Baseline points="168,2048 249,2049 330,2051 411,2052 492,2052 574,2053 655,2053 736,2053 817,2054 898,2054 980,2053 1061,2053 1142,2053 1223,2053 1304,2052 1386,2052 1467,2052 1548,2052 1629,2051 1710,2051 1792,2051"/>
+                <TextEquiv>
+                    <Unicode>uns Frau Labahn und Herr Hoth auf dem Bahnhof emp-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+                <Coords points="153,2183 343,2136 1707,2146 1750,2058 152,2089"/>
+                <Baseline points="162,2125 240,2127 319,2129 398,2130 477,2131 556,2131 635,2131 714,2131 793,2130 872,2130 951,2129 1029,2128 1108,2127 1187,2127 1266,2126 1345,2126 1424,2126 1503,2126 1582,2126 1661,2127 1740,2129"/>
+                <TextEquiv>
+                    <Unicode>fingen. Herr Hoth begleitete uns ein Stück und kehrte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:24;}">
+                <Coords points="136,2229 1072,2267 1142,2219 1673,2223 1701,2140 209,2153 135,2196"/>
+                <Baseline points="145,2215 222,2219 299,2221 376,2223 454,2224 531,2224 608,2224 686,2223 763,2222 840,2221 918,2220 995,2218 1072,2216 1149,2214 1227,2211 1304,2209 1381,2207 1459,2205 1536,2204 1613,2203 1691,2202"/>
+                <TextEquiv>
+                    <Unicode>dann wieder zur Bahn zurück, während wir nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:25;}">
+                <Coords points="130,2315 267,2351 681,2302 817,2359 949,2302 1798,2298 1471,2215 1244,2265 1150,2220 1065,2272 527,2225 129,2267"/>
+                <Baseline points="140,2295 222,2298 304,2299 387,2301 469,2301 551,2302 634,2302 716,2301 798,2301 881,2300 963,2298 1045,2297 1128,2296 1210,2295 1292,2293 1375,2292 1457,2291 1539,2291 1622,2290 1704,2290 1787,2290"/>
+                <TextEquiv>
+                    <Unicode>einigen kleinen Umwegen an unserm Ziele ankamen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:26;} textStyle {offset:39; length:3;strikethrough:true; fontSize:0.0; kerning:0;} unclear {offset:39; length:3;}">
+                <Coords points="131,2420 230,2468 1006,2457 1812,2389 1811,2312 1293,2365 1116,2314 934,2373 130,2333"/>
+                <Baseline points="142,2403 229,2403 316,2403 403,2403 491,2403 578,2403 665,2402 753,2402 840,2401 927,2400 1015,2398 1102,2397 1189,2395 1277,2393 1364,2391 1451,2389 1539,2387 1626,2384 1713,2381 1801,2377"/>
+                <TextEquiv>
+                    <Unicode>Frau Hoth zeigte uns unsre Wohnung und hal brachte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.)&#xD;
+„nur“ 20 Min. zu spät abfuhren, nachdem wir uns nach&#xD;
+längerem Verhandeln mit Herrn u. einer Dame in das&#xD;
+erste beste Coupée gesetzt hatten, das denn auch merk-&#xD;
+würdiger Weise das richtige war. Der Zug ging 9,13 ab. Die&#xD;
+Fahrt war ziemlich stumpfsinnig. Um 10,40 kamen wir nach&#xD;
+Angermünde, wo wir eine Depesche an Frau Labahn auf-&#xD;
+setzten, daß wir erst um ½3 dasein würden. Um 12,12&#xD;
+kamen wir nach Pasewalk, wo 10 Min. Aufenthalt sein sollte.&#xD;
+Als wir nun dachten, jetzt würde es weiter gehen, da hieß&#xD;
+es plötzlich, wir müssten umsteigen in den Zug, der uns&#xD;
+hier eingeholt hatte. Selbstverständlich war dort kein&#xD;
+Platz mehr, aber es wurde welcher gemacht und wir&#xD;
+quetschten uns auch hinein. Erst fuhr unser erster&#xD;
+Zug weiter, dessen Stelle sofort ein andrer Extrazug&#xD;
+einnahm, dann fuhren wir ab und auch uns folgte&#xD;
+ein Extrazug, da der Verkehr sehr stark war. In&#xD;
+Ducherow, wohin wir um 1,46 gelangten stiegen meh-&#xD;
+rere aus und wir bekamen etwas Platz. Von jetzt ab&#xD;
+wurden wir immer ungeduldiger und die Fahrt immer&#xD;
+langweiliger bis wir endlich um ungefähr 3,21 in statt,&#xD;
+wie beabsichtigt, um ½12 in Heringsdorf ankamen, wo&#xD;
+uns Frau Labahn und Herr Hoth auf dem Bahnhof emp-&#xD;
+fingen. Herr Hoth begleitete uns ein Stück und kehrte&#xD;
+dann wieder zur Bahn zurück, während wir nach&#xD;
+einigen kleinen Umwegen an unserm Ziele ankamen.&#xD;
+Frau Hoth zeigte uns unsre Wohnung und hal brachte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

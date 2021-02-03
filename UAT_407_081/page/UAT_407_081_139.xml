@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:40.516+02:00</Created>
+        <LastChange>2019-10-15T16:06:15.725+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551028" pageNr="139" tsid="17134787" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=ONCEQVYLBBEYXGLBEOYTMWRN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MCIOTADKXITAHAGWJPEVYNYG" imageId="4551906"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_139.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256509049" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="458,260 458,4903 4000,4903 4000,260"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3780,320 3802,321 3825,300 3846,305 3863,324 3930,313 3976,350 3998,351 4006,171 3948,182 3918,159 3892,158 3869,179 3818,137 3787,136"/>
+                <Baseline points="3801,290 3826,291 3851,292 3876,293 3901,295 3926,296 3951,296 3977,296"/>
+                <TextEquiv>
+                    <Unicode>137</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539476492_810" custom="readingOrder {index:1;}">
+                <Coords points="438,424 2517,372 2649,468 2807,361 3454,445 3963,324 1984,225 1044,328 744,220 437,331"/>
+                <Baseline points="458,394 575,388 692,382 809,377 927,373 1044,369 1161,366 1279,363 1396,361 1513,359 1631,357 1748,356 1865,355 1982,355 2100,354 2217,354 2334,354 2452,354 2569,354 2686,355 2804,355 2838,340 2890,345 2943,349 2995,353 3048,356 3101,358 3153,360 3206,361 3259,361 3311,362 3364,362 3417,361 3469,361 3522,360 3575,359 3627,358 3680,358 3733,357 3785,356 3889,368 3942,368"/>
+                <TextEquiv>
+                    <Unicode>19.V. Komme endlich nach Mtapaia, wo längst d. Arbeit aufgenom„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:2;}">
+                <Coords points="477,539 3836,532 3764,397 476,412"/>
+                <Baseline points="499,515 664,513 830,511 996,510 1162,508 1327,506 1493,505 1659,503 1825,501 1990,500 2156,498 2322,496 2488,494 2653,492 2819,490 2985,487 3151,484 3316,481 3482,478 3648,474 3814,469"/>
+                <TextEquiv>
+                    <Unicode>men, bisher Janensch's wegen gewartet. Er „kommt“ auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:3;}">
+                <Coords points="455,789 890,650 1258,756 1379,690 1934,697 1929,570 1761,532 1662,588 1562,517 1296,574 1214,503 1062,548 968,507 834,578 771,536 447,569"/>
+                <Baseline points="474,681 545,676 617,670 689,665 761,660 832,655 904,651 976,648 1048,643 1119,640 1191,637 1263,635 1335,633 1406,631 1478,630 1550,629 1622,629 1693,629 1765,630 1837,631 1909,632"/>
+                <TextEquiv>
+                    <Unicode>heut nicht nach Kindope.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539481593_815" custom="readingOrder {index:4;}">
+                <Coords points="488,852 894,941 1134,826 2494,891 2949,789 3703,884 3899,814 3895,625 3313,742 2541,630 2069,745 1255,757 980,649 486,751"/>
+                <Baseline points="509,851 535,852 561,853 587,853 613,854 639,854 665,854 691,854 717,854 743,853 769,852 795,851 821,849 847,846 873,844 900,840 921,824 1068,821 1216,818 1364,815 1512,812 1660,809 1807,806 1955,803 2103,801 2251,798 2399,796 2546,793 2694,791 2842,789 2990,787 3138,786 3285,785 3433,783 3581,783 3729,782 3877,782"/>
+                <TextEquiv>
+                    <Unicode>20.V. Janensch legt in d. alten Schamben einen Gemüse„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:5;}">
+                <Coords points="473,1051 1606,958 2110,1054 2678,919 3665,1015 3660,839 3087,794 471,954"/>
+                <Baseline points="493,1002 650,996 808,989 965,982 1123,975 1280,969 1438,962 1595,956 1753,950 1910,943 2068,938 2225,933 2383,929 2540,925 2698,922 2855,920 3013,919 3170,919 3328,920 3485,921 3643,925"/>
+                <TextEquiv>
+                    <Unicode>garten an, für den ich als heftiger Karnivore wenig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:6;}">
+                <Coords points="461,1173 1491,1225 2188,1099 2511,1194 2908,1079 3311,1180 3991,1126 3988,963 459,1072"/>
+                <Baseline points="483,1144 657,1137 831,1131 1005,1125 1180,1119 1354,1114 1528,1109 1703,1105 1877,1100 2051,1097 2226,1093 2400,1090 2574,1086 2748,1084 2923,1080 3097,1077 3271,1075 3446,1072 3620,1069 3794,1066 3969,1063"/>
+                <TextEquiv>
+                    <Unicode>Interesse habe. Auch scheint mir unser Interesse hier ander„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:7;}">
+                <Coords points="470,1353 1936,1262 2256,1361 2916,1230 3733,1314 3932,1228 3927,1079 1421,1226 1176,1141 467,1265"/>
+                <Baseline points="493,1315 663,1305 834,1296 1005,1287 1175,1280 1346,1273 1517,1267 1687,1262 1858,1256 2029,1251 2200,1247 2370,1243 2541,1238 2712,1234 2882,1230 3053,1224 3224,1219 3394,1213 3565,1207 3736,1200 3907,1192"/>
+                <TextEquiv>
+                    <Unicode>weitig reichlich engagiert zu sein, indes das ist Gefühls„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:8;}">
+                <Coords points="471,1495 1380,1455 1519,1552 3388,1386 3738,1477 3921,1419 3916,1234 3716,1333 1321,1386 1177,1293 468,1398"/>
+                <Baseline points="491,1473 661,1466 831,1460 1002,1453 1172,1447 1343,1440 1513,1433 1683,1427 1854,1421 2024,1415 2195,1410 2365,1405 2535,1399 2706,1395 2876,1390 3047,1387 3217,1384 3387,1381 3558,1380 3728,1378 3899,1378"/>
+                <TextEquiv>
+                    <Unicode>sache. Janensch wünscht, daß ich erst morgen ziehe; immer so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:9;}">
+                <Coords points="457,1728 678,1611 1134,1694 1934,1555 3453,1606 3711,1554 3708,1435 1100,1457 830,1554 450,1477"/>
+                <Baseline points="477,1620 637,1611 798,1602 958,1594 1119,1585 1279,1579 1440,1573 1600,1566 1761,1561 1921,1557 2082,1552 2242,1547 2403,1543 2563,1540 2724,1536 2884,1533 3045,1529 3205,1526 3366,1523 3526,1520 3687,1517"/>
+                <TextEquiv>
+                    <Unicode>spät als möglich! Ich möchte wegen d. Poscho nicht widersprechen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:10;}">
+                <Coords points="662,1750 876,1837 1101,1725 3718,1731 3647,1548 1078,1691 659,1623"/>
+                <Baseline points="685,1743 835,1737 985,1732 1136,1727 1286,1722 1437,1718 1587,1714 1737,1710 1888,1706 2038,1702 2189,1699 2339,1695 2489,1691 2640,1688 2790,1685 2941,1680 3091,1677 3241,1672 3392,1668 3542,1662 3693,1657"/>
+                <TextEquiv>
+                    <Unicode>Wegen Drahtunterbrechung noch immer ungewiß, ob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539465989_802" custom="readingOrder {index:11;}">
+                <Coords points="503,1962 833,1991 989,1893 1542,1856 1748,1968 2094,1930 2183,1843 2326,1909 2431,1883 2425,1703 2107,1793 1884,1721 1663,1804 1374,1717 1193,1829 1029,1777 872,1831 768,1746 498,1830"/>
+                <Baseline points="524,1897 571,1894 619,1892 667,1889 715,1886 762,1884 810,1882 858,1880 906,1878 953,1876 1001,1874 1049,1872 1097,1871 1144,1870 1192,1869 1240,1868 1288,1867 1335,1866 1383,1864 1431,1864 1479,1862 1800,1845 1830,1844 1860,1844 1890,1842 1921,1841 1951,1841 1981,1839 2012,1838 2042,1837 2072,1836 2103,1835 2133,1834 2163,1834 2193,1834 2224,1834 2254,1834 2284,1835 2315,1836 2345,1838 2375,1840 2406,1842"/>
+                <TextEquiv>
+                    <Unicode>v. Staff an Bord. Poschozahlung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:12;} textStyle {offset:0; length:13;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="821,2124 2133,2156 2529,2013 2682,2141 3303,2024 3780,2090 3776,1919 3634,1901 1812,1993 1531,1855 1419,1959 1039,1894 818,1984"/>
+                <Baseline points="842,2074 987,2069 1133,2064 1278,2059 1424,2053 1570,2048 1715,2042 1861,2037 2006,2032 2152,2027 2298,2023 2443,2018 2589,2014 2734,2011 2880,2008 3026,2005 3171,2004 3317,2003 3462,2003 3608,2004 3754,2006"/>
+                <TextEquiv>
+                    <Unicode>Letzter Regen, bisher freilich täglich, u. nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:13;}">
+                <Coords points="451,2321 626,2308 800,2238 1032,2348 1220,2326 1346,2253 1416,2256 1413,2089 1242,2137 1149,2099 1024,2190 913,2157 448,2207"/>
+                <Baseline points="473,2247 519,2246 565,2244 611,2243 657,2241 703,2239 749,2237 795,2235 841,2234 887,2232 933,2231 979,2230 1025,2229 1071,2228 1117,2228 1163,2228 1209,2228 1255,2228 1301,2228 1347,2229 1393,2231"/>
+                <TextEquiv>
+                    <Unicode>immer sanft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:14;} textStyle {offset:0; length:13;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="614,2506 3817,2382 3758,2229 3201,2330 2804,2217 2357,2330 1832,2241 1131,2357 804,2239 611,2299"/>
+                <Baseline points="634,2437 792,2426 950,2417 1108,2408 1266,2400 1424,2394 1582,2389 1740,2384 1898,2381 2056,2378 2215,2376 2373,2374 2531,2373 2689,2373 2847,2373 3005,2374 3163,2375 3321,2376 3479,2377 3637,2379 3796,2381"/>
+                <TextEquiv>
+                    <Unicode>Sonntag 21.V: Abmarsch nach Lindi, Lager auf Noto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:15;}">
+                <Coords points="476,2634 1238,2700 1588,2593 1801,2691 3416,2548 3867,2655 3864,2488 3475,2402 474,2485"/>
+                <Baseline points="497,2603 664,2597 831,2592 999,2587 1166,2582 1334,2577 1501,2573 1668,2569 1836,2565 2003,2562 2171,2559 2338,2556 2505,2553 2673,2551 2840,2549 3008,2548 3175,2547 3342,2546 3510,2546 3677,2546 3845,2546"/>
+                <TextEquiv>
+                    <Unicode>beim neuen Jumben. Gestern Herr Kaiser auf Rückweg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:16;}">
+                <Coords points="469,2801 1342,2863 1549,2725 1798,2806 2894,2681 3556,2772 3750,2630 2921,2557 466,2704"/>
+                <Baseline points="491,2768 652,2764 814,2758 976,2753 1138,2748 1300,2742 1462,2736 1624,2730 1786,2724 1948,2718 2110,2713 2271,2708 2433,2703 2595,2698 2757,2694 2919,2690 3081,2687 3243,2685 3405,2683 3567,2682 3729,2682"/>
+                <TextEquiv>
+                    <Unicode>von Nambiranye hier. Der alte Mwindadi hat dieser Tage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:17;}">
+                <Coords points="517,3017 1051,2915 1971,2980 2456,2857 2688,2975 3015,2861 3747,2935 3874,2742 512,2819"/>
+                <Baseline points="537,2933 702,2928 868,2922 1034,2915 1200,2908 1366,2901 1532,2894 1697,2887 1863,2881 2029,2874 2195,2869 2361,2864 2527,2859 2693,2856 2858,2853 3024,2852 3190,2851 3356,2853 3522,2855 3688,2859 3854,2865"/>
+                <TextEquiv>
+                    <Unicode>2 Löwen in d. Falle gefangen. Warum geht's denn bei uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:18;}">
+                <Coords points="519,3104 554,3102 604,3126 620,3107 699,3168 773,3085 906,3098 897,2949 867,2956 835,2940 818,2958 766,2966 690,3023 663,3016 591,3052 516,3047"/>
+                <Baseline points="540,3090 566,3089 592,3088 618,3086 644,3084 671,3083 697,3081 723,3080 749,3078 776,3076 802,3075 828,3073 854,3071 881,3071"/>
+                <TextEquiv>
+                    <Unicode>nicht?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:19;}">
+                <Coords points="775,3262 1231,3218 1444,3330 1724,3221 2379,3218 2679,3321 3201,3222 3611,3310 3751,3234 3749,3032 2835,3139 773,3109"/>
+                <Baseline points="795,3233 941,3228 1088,3223 1235,3219 1382,3216 1528,3213 1675,3210 1822,3208 1969,3206 2115,3205 2262,3203 2409,3202 2556,3201 2702,3200 2849,3200 2996,3199 3143,3198 3289,3198 3436,3197 3583,3196 3730,3195"/>
+                <TextEquiv>
+                    <Unicode>22.V: Marsch bis Lutende, ab im Mondschein, an 11½ Uhr. Nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:20;}">
+                <Coords points="514,3433 2369,3355 3649,3454 3846,3377 3845,3214 3077,3318 513,3266"/>
+                <Baseline points="538,3390 702,3383 866,3377 1030,3372 1195,3368 1359,3365 1523,3363 1687,3361 1852,3359 2016,3358 2180,3357 2344,3357 2509,3356 2673,3356 2837,3356 3001,3355 3166,3355 3330,3354 3494,3353 3658,3351 3823,3349"/>
+                <TextEquiv>
+                    <Unicode>kurzer Rast Träger nach Namembo voraus dirigiert, da Dampfer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:21;}">
+                <Coords points="514,3655 1549,3515 2092,3617 2495,3527 2655,3621 3656,3527 3602,3435 2624,3362 511,3448"/>
+                <Baseline points="533,3541 688,3537 843,3532 998,3527 1153,3523 1308,3520 1463,3516 1618,3512 1773,3508 1928,3506 2084,3502 2239,3500 2394,3498 2549,3496 2704,3495 2859,3494 3014,3493 3169,3493 3324,3494 3479,3495 3635,3496"/>
+                <TextEquiv>
+                    <Unicode>schon für heut gemeldet. Mit Führer u. Boy links ab an der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:22;}">
+                <Coords points="544,3827 1509,3699 1893,3804 2217,3685 2495,3800 2657,3702 3326,3798 3774,3753 3772,3581 1983,3645 1740,3551 542,3673"/>
+                <Baseline points="563,3717 722,3715 881,3712 1041,3709 1200,3705 1360,3702 1519,3698 1679,3694 1838,3691 1998,3687 2157,3684 2316,3681 2476,3679 2635,3677 2795,3676 2954,3675 3114,3675 3273,3676 3433,3679 3592,3682 3752,3686"/>
+                <TextEquiv>
+                    <Unicode>Quelle vorbei in's Nkanga-Tal, an ihm wieder aufwärts,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:23;}">
+                <Coords points="538,3930 3901,3850 2928,3722 537,3820"/>
+                <Baseline points="559,3865 725,3867 891,3868 1057,3868 1223,3867 1389,3865 1555,3862 1721,3860 1887,3856 2053,3852 2219,3849 2385,3845 2551,3843 2717,3840 2883,3839 3049,3839 3215,3839 3381,3841 3547,3845 3713,3850 3880,3857"/>
+                <TextEquiv>
+                    <Unicode>durch Dickicht u. Schamben, stellenweise durch Wasser zu einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:24;}">
+                <Coords points="523,4151 825,4052 1951,4145 2131,4025 3819,4096 3871,3915 2350,3975 2195,3862 1937,3978 1681,3892 521,3979"/>
+                <Baseline points="542,4042 707,4038 872,4035 1038,4032 1203,4029 1369,4026 1534,4024 1699,4021 1865,4019 2030,4017 2196,4016 2361,4015 2526,4014 2692,4013 2857,4013 3023,4013 3188,4013 3353,4014 3519,4016 3684,4018 3850,4021"/>
+                <TextEquiv>
+                    <Unicode>jenseits gelegenen Knochenstelle. Dicht voll Mtama stehend, in„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:25;}">
+                <Coords points="517,4270 3800,4191 3955,4278 3953,4071 2484,4024 1980,4146 1671,4064 516,4164"/>
+                <Baseline points="539,4202 707,4200 875,4198 1043,4196 1211,4194 1380,4192 1548,4191 1716,4189 1884,4187 2052,4186 2221,4185 2389,4183 2557,4182 2725,4181 2893,4181 3062,4180 3230,4180 3398,4180 3566,4180 3764,4180 3933,4181"/>
+                <TextEquiv>
+                    <Unicode>dessen an Knochensplittern die Richtigkeit festgestellt (= Pilepile),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:26;}">
+                <Coords points="485,4414 1265,4505 1606,4379 2403,4461 2696,4349 3791,4341 3344,4231 483,4287"/>
+                <Baseline points="506,4390 669,4392 832,4393 995,4393 1158,4392 1321,4390 1484,4387 1647,4383 1810,4380 1973,4375 2136,4371 2299,4367 2462,4362 2625,4358 2788,4354 2951,4350 3114,4347 3277,4345 3440,4344 3603,4344 3767,4345"/>
+                <TextEquiv>
+                    <Unicode>besonders interessant, weil überlagert von dem Ton der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539439366_788" custom="readingOrder {index:27;}">
+                <Coords points="471,4590 864,4675 1235,4567 1452,4629 2954,4529 2952,4455 2529,4393 2193,4505 1579,4389 1265,4514 1109,4424 468,4454"/>
+                <Baseline points="491,4556 664,4559 838,4562 1011,4562 1185,4561 1358,4559 1532,4556 1705,4552 1879,4547 2052,4542 2226,4537 2400,4532 2573,4527 2747,4522 2920,4518 2930,4517"/>
+                <TextEquiv>
+                    <Unicode>Mulde hinter Kitulo, damit als tertiäre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:28;}">
+                <Coords points="2655,4463 2720,4450 2760,4476 2795,4454 2826,4480 2918,4494 2984,4445 3024,4441 3024,4357 2984,4362 2958,4348 2936,4362 2844,4357 2826,4370 2756,4353 2725,4362 2712,4348 2685,4362 2655,4353"/>
+                <Baseline points="2678,4442 2703,4440 2728,4439 2753,4439 2778,4439 2803,4440 2828,4440 2853,4441 2878,4441 2903,4441 2928,4441 2953,4441 2978,4439 3004,4437"/>
+                <TextEquiv>
+                    <Unicode>Ob. Kreide?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539439366_787" custom="readingOrder {index:29;}">
+                <Coords points="2909,4494 3046,4582 3156,4599 3327,4563 3503,4624 3635,4580 3811,4619 3982,4522 3982,4430 3858,4404 3744,4457 3397,4444 3326,4387 3234,4379 3146,4423 3058,4388 2909,4459"/>
+                <Baseline points="2930,4517 3094,4514 3267,4512 3441,4510 3614,4510 3788,4512 3962,4515"/>
+                <TextEquiv>
+                    <Unicode>Auflagerung wohl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:30;} textStyle {offset:60; length:1;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="456,4831 3730,4732 3866,4704 3864,4537 3628,4654 453,4620"/>
+                <Baseline points="477,4723 645,4724 813,4725 982,4725 1150,4724 1319,4722 1487,4720 1656,4718 1824,4716 1993,4713 2161,4710 2329,4707 2498,4704 2666,4702 2835,4699 3003,4698 3172,4696 3340,4695 3509,4695 3677,4695 3846,4696"/>
+                <TextEquiv>
+                    <Unicode>gekennzeichnet. An steilen Hängen im Mtama-Feld u. Tal um 12h</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539455714_795" custom="readingOrder {index:31;}">
+                <Coords points="464,4957 3634,4847 4021,4951 4020,4762 3813,4719 464,4825"/>
+                <Baseline points="484,4866 620,4862 756,4860 892,4858 1028,4858 1164,4858 1300,4859 1437,4860 1573,4862 1709,4864 1845,4866 1981,4868 2117,4869 2253,4870 2390,4870 2526,4870 2662,4868 2798,4865 2934,4861 3070,4855 3207,4848 3225,4863 3263,4858 3302,4853 3341,4849 3380,4846 3418,4843 3457,4842 3496,4841 3535,4840 3573,4840 3612,4840 3651,4841 3690,4842 3728,4844 3767,4845 3806,4847 3845,4849 3883,4852 3922,4853 3961,4855 4000,4857"/>
+                <TextEquiv>
+                    <Unicode>verdammt warm. Marsch bis Namembo. An 1½ ca. Unter d. Mangos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>137&#xD;
+19.V. Komme endlich nach Mtapaia, wo längst d. Arbeit aufgenom„&#xD;
+men, bisher Janensch's wegen gewartet. Er „kommt“ auch&#xD;
+heut nicht nach Kindope.&#xD;
+20.V. Janensch legt in d. alten Schamben einen Gemüse„&#xD;
+garten an, für den ich als heftiger Karnivore wenig&#xD;
+Interesse habe. Auch scheint mir unser Interesse hier ander„&#xD;
+weitig reichlich engagiert zu sein, indes das ist Gefühls„&#xD;
+sache. Janensch wünscht, daß ich erst morgen ziehe; immer so&#xD;
+spät als möglich! Ich möchte wegen d. Poscho nicht widersprechen.&#xD;
+Wegen Drahtunterbrechung noch immer ungewiß, ob&#xD;
+v. Staff an Bord. Poschozahlung.&#xD;
+Letzter Regen, bisher freilich täglich, u. nicht&#xD;
+immer sanft.&#xD;
+Sonntag 21.V: Abmarsch nach Lindi, Lager auf Noto&#xD;
+beim neuen Jumben. Gestern Herr Kaiser auf Rückweg&#xD;
+von Nambiranye hier. Der alte Mwindadi hat dieser Tage&#xD;
+2 Löwen in d. Falle gefangen. Warum geht's denn bei uns&#xD;
+nicht?&#xD;
+22.V: Marsch bis Lutende, ab im Mondschein, an 11½ Uhr. Nach&#xD;
+kurzer Rast Träger nach Namembo voraus dirigiert, da Dampfer&#xD;
+schon für heut gemeldet. Mit Führer u. Boy links ab an der&#xD;
+Quelle vorbei in's Nkanga-Tal, an ihm wieder aufwärts,&#xD;
+durch Dickicht u. Schamben, stellenweise durch Wasser zu einer&#xD;
+jenseits gelegenen Knochenstelle. Dicht voll Mtama stehend, in„&#xD;
+dessen an Knochensplittern die Richtigkeit festgestellt (= Pilepile),&#xD;
+besonders interessant, weil überlagert von dem Ton der&#xD;
+Mulde hinter Kitulo, damit als tertiäre&#xD;
+Ob. Kreide?&#xD;
+Auflagerung wohl&#xD;
+gekennzeichnet. An steilen Hängen im Mtama-Feld u. Tal um 12h&#xD;
+verdammt warm. Marsch bis Namembo. An 1½ ca. Unter d. Mangos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

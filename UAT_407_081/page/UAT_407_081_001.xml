@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:34.112+02:00</Created>
+        <LastChange>2020-04-03T08:49:27.889+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7550882" pageNr="1" tsid="26931117" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=UBSDWGRWMXNDDADHEGJPXZAG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EHDOQOQJLCAKWLZGEDELTJZT" imageId="4551760"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_001.jpg" imageWidth="4305" imageHeight="5234">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256461461" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1565344653992_146"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1565344653992_146" custom="readingOrder {index:0;}">
+            <Coords points="1496,1612 3297,1612 3297,2663 1496,2663"/>
+            <TextLine id="line_1565344677103_149" custom="readingOrder {index:0;} structure {type:header;}">
+                <Coords points="1800,2131 2918,2094 2919,2144 1801,2181"/>
+                <Baseline points="1801,2176 2919,2139"/>
+                <TextEquiv>
+                    <Unicode>Tage-buch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1566816722702_315" custom="readingOrder {index:1;}">
+                <Coords points="1649,2451 2147,2416 2147,2466 1652,2501"/>
+                <Baseline points="1652,2496 2147,2461"/>
+                <TextEquiv>
+                    <Unicode>Tendaguru</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1565344682992_154" custom="readingOrder {index:2;}">
+                <Coords points="2055,2368 2168,2356 2174,2406 2061,2418"/>
+                <Baseline points="2060,2413 2173,2401"/>
+                <TextEquiv>
+                    <Unicode>29.IV</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1566816722702_314" custom="readingOrder {index:3;}">
+                <Coords points="2147,2416 2794,2371 2797,2421 2147,2466"/>
+                <Baseline points="2147,2461 2797,2416"/>
+                <TextEquiv>
+                    <Unicode>Tendaguru 1910 - 21.VII.1911</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1565344706650_164" custom="readingOrder {index:4;}">
+                <Coords points="2778,2530 3159,2524 3160,2574 2779,2580"/>
+                <Baseline points="2779,2575 3160,2569"/>
+                <TextEquiv>
+                    <Unicode>Dr. E. Hennig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tage-buch
+Tendaguru
+29.IV
+Tendaguru 1910 - 21.VII.1911
+Dr. E. Hennig</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

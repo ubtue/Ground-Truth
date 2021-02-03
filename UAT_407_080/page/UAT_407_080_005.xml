@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:53.116+02:00</Created>
+        <LastChange>2020-03-17T08:50:46.915+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550699" pageNr="5" tsid="25780603" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=OPYFCCVGHUBFBWDMAILJBELH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DLLTYRBHFJJYNZHFYUKYQOXF" imageId="4551577"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_005.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255534110" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="380,229 380,5003 4095,5003 4095,229"/>
+            <TextLine id="line_1582818886370_1269" custom="readingOrder {index:0;}">
+                <Coords points="3850,311 3878,311 3901,325 3919,325 3924,320 3929,325 3956,325 3956,232 3919,228 3910,218 3901,228 3882,228 3873,237 3850,237"/>
+                <Baseline points="3875,306 3931,306"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="445,442 2428,387 3584,497 3923,396 3686,260 2581,318 1643,190 1165,323 664,215 445,298"/>
+                <Baseline points="467,380 638,375 810,373 981,371 1153,370 1324,370 1496,371 1667,372 1839,373 2010,375 2182,377 2354,378 2525,380 2697,381 2868,382 3040,382 3211,382 3383,381 3554,379 3726,375 3898,371"/>
+                <TextEquiv>
+                    <Unicode>Vögel darauf, genannt. „Tölpel“ (Kein Abbau) Die Zahl der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="415,662 1082,544 1255,624 1356,525 1450,598 1588,512 1836,638 2476,585 2422,386 2335,467 1781,416 1327,474 1173,407 937,486 675,388 412,439"/>
+                <Baseline points="437,554 537,548 638,543 739,539 840,534 940,531 1041,528 1142,525 1243,522 1343,520 1444,518 1545,517 1646,516 1746,515 1847,514 1948,514 2049,514 2149,515 2250,516 2351,517 2452,518"/>
+                <TextEquiv>
+                    <Unicode>sichtbaren Vögel weniger groß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="534,807 4003,800 4094,641 995,555 532,681"/>
+                <Baseline points="555,748 730,749 906,748 1082,747 1258,745 1434,742 1610,739 1786,736 1962,732 2138,729 2314,725 2489,722 2665,719 2841,717 3017,715 3193,714 3369,714 3545,715 3721,718 3897,722 4073,727"/>
+                <TextEquiv>
+                    <Unicode>25.III. Küste von Aden u. westl. davon in einzelne, eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="402,938 3885,879 3562,748 400,784"/>
+                <Baseline points="425,909 596,903 768,897 940,892 1111,888 1283,884 1455,882 1626,880 1798,878 1970,877 2142,876 2313,874 2485,873 2657,872 2828,871 3000,869 3172,867 3343,864 3515,860 3687,856 3859,851"/>
+                <TextEquiv>
+                    <Unicode>lange Kette bildende Anhöhen von beträchtlicher Größe u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="436,1074 4067,1096 4066,929 3801,908 435,949"/>
+                <Baseline points="457,1036 636,1034 815,1031 994,1029 1174,1026 1353,1023 1532,1020 1712,1017 1891,1015 2070,1012 2250,1010 2429,1008 2608,1006 2787,1005 2967,1005 3146,1005 3325,1006 3505,1007 3684,1009 3863,1012 4043,1016"/>
+                <TextEquiv>
+                    <Unicode>Steilheit zerfallend, gleich dahinter wieder ganz ebenes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="411,1245 3945,1220 3763,1069 3163,1028 410,1078"/>
+                <Baseline points="436,1196 610,1196 784,1195 958,1193 1133,1190 1307,1187 1481,1183 1655,1179 1830,1176 2004,1172 2178,1169 2352,1166 2527,1163 2701,1162 2875,1161 3049,1161 3224,1162 3398,1165 3572,1169 3746,1175 3921,1182"/>
+                <TextEquiv>
+                    <Unicode>Land, erst am fernen Horizonte, kaum sichtbar weitere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="427,1398 2790,1315 3487,1415 3914,1383 3913,1197 425,1236"/>
+                <Baseline points="449,1350 621,1343 793,1337 965,1332 1137,1327 1309,1324 1481,1320 1653,1317 1825,1315 1997,1313 2169,1312 2341,1311 2513,1310 2685,1309 2857,1309 3029,1309 3201,1309 3373,1310 3545,1310 3717,1311 3889,1311"/>
+                <TextEquiv>
+                    <Unicode>Gebirgszüge. Wieder deutliche, auf Sedimente hinweisende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:8;}">
+                <Coords points="400,1498 657,1578 1430,1440 1716,1561 2002,1440 2644,1546 3706,1441 2789,1316 399,1405"/>
+                <Baseline points="422,1488 585,1481 748,1475 911,1470 1074,1464 1237,1459 1400,1454 1563,1450 1726,1446 1889,1443 2053,1440 2216,1437 2379,1435 2542,1434 2705,1433 2868,1432 3031,1432 3194,1432 3357,1433 3520,1435 3684,1437"/>
+                <TextEquiv>
+                    <Unicode>Schichtung mit Hauptfallen nach W., stellenweise in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818922238_1283" custom="readingOrder {index:9;}">
+                <Coords points="415,1649 3648,1638 4013,1592 4010,1425 411,1500"/>
+                <Baseline points="438,1640 523,1637 609,1634 694,1631 780,1627 865,1624 951,1621 1036,1617 1122,1614 1207,1610 1293,1607 1379,1604 1464,1601 1550,1598 1635,1595 1721,1592 1806,1589 1892,1587 1977,1585 2063,1583 2149,1581 2227,1585 2315,1584 2403,1582 2491,1580 2579,1578 2668,1576 2756,1574 2844,1572 2932,1570 3020,1568 3109,1565 3197,1563 3285,1562 3373,1560 3461,1559 3550,1558 3638,1557 3726,1557 3814,1557 3902,1557 3991,1558"/>
+                <TextEquiv>
+                    <Unicode>abgebrochenen Schollen steiler, an einer Stelle überschoben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="444,1851 861,1752 2321,1848 3215,1709 3370,1833 3573,1709 3992,1801 3989,1596 3845,1570 442,1656"/>
+                <Baseline points="465,1766 640,1762 815,1758 990,1754 1165,1749 1341,1745 1516,1741 1691,1737 1866,1733 2041,1730 2217,1727 2392,1724 2567,1722 2742,1720 2917,1718 3093,1717 3268,1717 3443,1717 3618,1718 3793,1720 3969,1722"/>
+                <TextEquiv>
+                    <Unicode>oder durch Lava-Erguß schief abgeschnitten. Viel sichtlich vul„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="420,1970 4075,1930 4070,1721 3583,1708 3371,1833 2556,1728 2410,1838 418,1873"/>
+                <Baseline points="444,1945 624,1937 804,1928 985,1921 1165,1915 1346,1910 1526,1905 1706,1900 1887,1896 2067,1892 2248,1889 2428,1886 2608,1883 2789,1881 2969,1878 3150,1876 3330,1874 3510,1873 3691,1871 3871,1869 4052,1867"/>
+                <TextEquiv>
+                    <Unicode>kanisches Material. Gänzlich vegetationslos. Zerfallsschutt als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="396,2124 4115,2068 3991,1908 2759,1882 394,2040"/>
+                <Baseline points="419,2104 602,2098 786,2092 970,2087 1153,2081 1337,2075 1521,2069 1704,2065 1888,2060 2072,2055 2256,2051 2439,2047 2623,2044 2807,2041 2990,2038 3174,2036 3358,2035 3541,2034 3725,2034 3909,2034 4093,2035"/>
+                <TextEquiv>
+                    <Unicode>Dünensand dem Fuße angeschmiegt und Wüstenmaterial</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="395,2312 1684,2206 2025,2340 2279,2239 3330,2322 4035,2252 4033,2089 1603,2063 393,2191"/>
+                <Baseline points="415,2262 594,2251 774,2242 954,2234 1133,2227 1313,2221 1493,2216 1672,2212 1852,2208 2032,2206 2212,2203 2391,2202 2571,2201 2751,2200 2930,2200 3110,2200 3290,2200 3469,2201 3649,2201 3829,2202 4009,2202"/>
+                <TextEquiv>
+                    <Unicode>dahinter liefernd. (Ansiedelung od. Nomadenhütten auf einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="409,2512 576,2495 666,2417 894,2427 943,2378 1234,2445 1533,2377 1661,2423 1652,2215 1468,2269 1179,2234 909,2347 706,2272 556,2352 402,2340"/>
+                <Baseline points="429,2411 489,2409 549,2406 610,2404 670,2401 730,2399 791,2396 851,2393 911,2389 972,2387 1032,2383 1092,2380 1153,2378 1213,2375 1273,2373 1334,2371 1394,2370 1454,2368 1515,2368 1575,2367 1636,2368"/>
+                <TextEquiv>
+                    <Unicode>größeren Sandfläche)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="668,2589 4053,2552 3897,2369 3213,2316 2697,2302 2213,2459 666,2445"/>
+                <Baseline points="692,2550 867,2545 1043,2540 1219,2535 1394,2530 1570,2526 1746,2522 1922,2517 2097,2513 2273,2510 2449,2506 2625,2504 2800,2501 2976,2499 3152,2497 3328,2495 3503,2494 3679,2493 3855,2493 4031,2493"/>
+                <TextEquiv>
+                    <Unicode>In Aden selbst zu großen Höhen in mehrfachen Rücken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="429,2759 3755,2741 3969,2550 426,2615"/>
+                <Baseline points="452,2718 626,2713 801,2708 976,2703 1151,2698 1325,2693 1500,2689 1675,2684 1850,2679 2024,2675 2199,2671 2374,2667 2549,2664 2723,2661 2898,2657 3073,2655 3248,2653 3422,2651 3597,2649 3772,2649 3947,2648"/>
+                <TextEquiv>
+                    <Unicode>übereinander getürmt (nach der See zu einige lange,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="402,2973 949,2848 1210,2957 1385,2839 4084,2905 4082,2761 3636,2658 3298,2781 2972,2668 400,2792"/>
+                <Baseline points="424,2868 605,2862 787,2858 969,2852 1151,2846 1333,2841 1515,2837 1697,2833 1879,2829 2061,2825 2243,2823 2424,2821 2606,2820 2788,2819 2970,2820 3152,2821 3334,2824 3516,2828 3698,2833 3880,2839 4062,2847"/>
+                <TextEquiv>
+                    <Unicode>scharfe, wenig hohe Grate auslaufend.) Zu unserm Erstau„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="418,3039 2782,3118 2990,3000 3994,3067 4109,2908 3190,2943 2966,2810 2618,2952 1382,2841 417,2974"/>
+                <Baseline points="440,3025 622,3022 804,3020 986,3017 1169,3014 1351,3010 1533,3008 1716,3005 1898,3002 2080,3000 2263,2998 2445,2996 2627,2994 2809,2993 2992,2993 3174,2993 3356,2994 3539,2996 3721,2998 3903,3001 4086,3005"/>
+                <TextEquiv>
+                    <Unicode>nen nur vulkanisches Material zu finden u. der Farbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="399,3200 4119,3172 4080,3028 3198,3014 3059,3113 1986,3008 398,3121"/>
+                <Baseline points="423,3191 606,3187 790,3182 973,3178 1157,3175 1341,3171 1524,3168 1708,3166 1891,3163 2075,3161 2259,3159 2442,3158 2626,3156 2809,3155 2993,3154 3177,3154 3360,3153 3544,3153 3727,3152 3911,3152 4095,3153"/>
+                <TextEquiv>
+                    <Unicode>nach somit für d. gesamten Höhen anzunehmen. Wiederum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="395,3412 2076,3316 2243,3413 2591,3296 2824,3434 3046,3312 3641,3431 3859,3360 3858,3216 1792,3257 1592,3156 394,3268"/>
+                <Baseline points="419,3343 589,3337 760,3332 931,3328 1102,3323 1273,3320 1443,3316 1614,3313 1785,3311 1956,3309 2127,3308 2297,3308 2468,3308 2639,3308 2810,3309 2981,3311 3151,3314 3322,3317 3493,3321 3664,3326 3835,3331"/>
+                <TextEquiv>
+                    <Unicode>deutliche Schichtung, sodaß erst jetzt Zweifel an d. vorher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="401,3539 2194,3573 2908,3455 3471,3570 3860,3478 3859,3362 3037,3314 2806,3419 2577,3295 2341,3414 2071,3314 1064,3431 729,3341 400,3451"/>
+                <Baseline points="423,3509 593,3499 764,3492 935,3485 1106,3479 1277,3475 1447,3471 1618,3469 1789,3467 1960,3466 2131,3465 2301,3465 2472,3465 2643,3465 2814,3465 2985,3465 3155,3465 3326,3464 3497,3464 3668,3463 3839,3461"/>
+                <TextEquiv>
+                    <Unicode>erwähnten Sedimenten. Junge Laven, stellenweise als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818940963_1290" custom="readingOrder {index:22;} textStyle {offset:7; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="426,3749 625,3655 807,3751 1229,3646 1406,3742 1656,3643 4011,3672 4010,3519 3768,3461 3527,3578 2913,3457 2194,3574 425,3554"/>
+                <Baseline points="447,3651 472,3652 498,3652 524,3651 550,3649 576,3648 602,3645 627,3643 653,3642 679,3642 705,3642 731,3643 757,3647 847,3639 1012,3637 1177,3634 1342,3631 1507,3629 1673,3626 1838,3624 2003,3622 2168,3621 2333,3620 2499,3619 2664,3618 2829,3618 2994,3618 3159,3618 3325,3619 3490,3620 3655,3622 3820,3624 3986,3626"/>
+                <TextEquiv>
+                    <Unicode>festes G, dichtes Gestein. An d. Straße vom Hafenort zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;}">
+                <Coords points="390,3852 2007,3907 2359,3798 2801,3921 3427,3801 3822,3915 4017,3844 4016,3682 389,3703"/>
+                <Baseline points="412,3829 591,3825 770,3821 949,3818 1128,3815 1307,3812 1486,3810 1666,3808 1845,3806 2024,3804 2203,3803 2382,3802 2561,3801 2740,3801 2920,3801 3099,3801 3278,3801 3457,3803 3636,3804 3815,3806 3995,3808"/>
+                <TextEquiv>
+                    <Unicode>Stadt treten unter den gewaltigen Ergußmassen dichte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="416,4036 3918,4037 3918,3926 3662,3874 416,3887"/>
+                <Baseline points="439,3985 611,3983 784,3982 957,3980 1130,3979 1302,3978 1475,3977 1648,3976 1821,3976 1993,3976 2166,3976 2339,3976 2512,3976 2684,3977 2857,3978 3030,3980 3203,3982 3375,3984 3548,3986 3721,3989 3894,3992"/>
+                <TextEquiv>
+                    <Unicode>erfüllte Muschel- und Schneckenbänke heraus mit kaum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="394,4263 524,4165 1054,4248 1230,4122 2177,4256 2479,4135 3645,4227 3645,4083 3487,4018 2758,3968 394,4054"/>
+                <Baseline points="415,4157 575,4151 735,4146 895,4141 1056,4137 1216,4133 1376,4130 1537,4128 1697,4126 1857,4125 2018,4124 2178,4124 2338,4125 2498,4126 2659,4128 2819,4131 2979,4135 3140,4138 3300,4144 3460,4149 3621,4155"/>
+                <TextEquiv>
+                    <Unicode>subrezent zu nennenden großen Formen (Taxodonta u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:26;}">
+                <Coords points="364,4422 1227,4313 1511,4422 1775,4298 3127,4417 3818,4290 4070,4394 4069,4246 1425,4153 363,4274"/>
+                <Baseline points="385,4335 568,4327 751,4319 934,4313 1117,4308 1300,4303 1483,4299 1666,4295 1849,4293 2032,4291 2215,4289 2398,4288 2581,4288 2764,4288 2947,4288 3130,4289 3313,4290 3496,4292 3679,4293 3862,4295 4046,4297"/>
+                <TextEquiv>
+                    <Unicode>z. T. die Klappen noch in ursprüngl. geschlossenem Zusammenhang,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:27;}">
+                <Coords points="358,4520 4120,4541 4118,4374 3829,4284 3232,4411 357,4399"/>
+                <Baseline points="380,4494 565,4494 751,4493 937,4491 1122,4487 1308,4484 1494,4479 1679,4474 1865,4469 2051,4465 2237,4461 2422,4457 2608,4454 2794,4452 2979,4451 3165,4452 3351,4454 3536,4458 3722,4464 3908,4472 4094,4483"/>
+                <TextEquiv>
+                    <Unicode>keine Zerstörungen, keine Kontakterscheinung. Also wohl Erguß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:28;}">
+                <Coords points="389,4681 3780,4695 4016,4636 4014,4501 387,4555"/>
+                <Baseline points="411,4659 590,4657 769,4654 948,4652 1127,4650 1306,4647 1485,4644 1664,4641 1843,4638 2022,4635 2201,4633 2380,4630 2559,4627 2738,4625 2917,4623 3096,4620 3275,4618 3454,4617 3633,4616 3812,4615 3991,4614"/>
+                <TextEquiv>
+                    <Unicode>in's Meer (nicht aus d. Meer, sondern auf Küstenfazies) Noch in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1584431390619_87" custom="readingOrder {index:29;}">
+                <Coords points="386,4709 2837,4671 2837,4783 2556,4774 2228,4908 1929,4782 1712,4887 898,4790 389,4932"/>
+                <Baseline points="411,4815 592,4813 774,4810 955,4806 1137,4803 1319,4799 1500,4795 1682,4791 1863,4786 2045,4783 2227,4779 2408,4776 2590,4773 2771,4771 2837,4770"/>
+                <TextEquiv>
+                    <Unicode>historischer Zeit? Alte Anlage der Wasserwerke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1584431384716_80" custom="readingOrder {index:30;}">
+                <Coords points="2755,4762 2802,4762 2843,4762 2879,4764 2876,4814 2842,4812 2802,4812 2755,4812"/>
+                <Baseline points="2755,4807 2802,4807 2842,4807 2876,4809"/>
+                <TextEquiv>
+                    <Unicode>in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1584431390619_86" custom="readingOrder {index:31;}">
+                <Coords points="2837,4671 3938,4654 4066,4824 2837,4783"/>
+                <Baseline points="2837,4770 2953,4770 3135,4769 3316,4770 3498,4771 3679,4773 3861,4777 4043,4782"/>
+                <TextEquiv>
+                    <Unicode>bereits fertig gebilde„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:32;}">
+                <Coords points="405,4997 530,4965 609,5007 647,4979 730,4975 795,5012 837,4975 967,5017 967,4826 902,4789 786,4840 716,4803 679,4831 651,4807 619,4840 535,4835 447,4923 405,4923"/>
+                <Baseline points="427,4967 452,4963 478,4961 504,4959 530,4957 556,4956 581,4956 607,4956 633,4956 659,4956 685,4957 710,4958 736,4959 762,4960 788,4960 814,4960 839,4961 865,4961 891,4961 917,4960 943,4959"/>
+                <TextEquiv>
+                    <Unicode>tem Tal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3&#xD;
+Vögel darauf, genannt. „Tölpel“ (Kein Abbau) Die Zahl der&#xD;
+sichtbaren Vögel weniger groß.&#xD;
+25.III. Küste von Aden u. westl. davon in einzelne, eine&#xD;
+lange Kette bildende Anhöhen von beträchtlicher Größe u.&#xD;
+Steilheit zerfallend, gleich dahinter wieder ganz ebenes&#xD;
+Land, erst am fernen Horizonte, kaum sichtbar weitere&#xD;
+Gebirgszüge. Wieder deutliche, auf Sedimente hinweisende&#xD;
+Schichtung mit Hauptfallen nach W., stellenweise in&#xD;
+abgebrochenen Schollen steiler, an einer Stelle überschoben&#xD;
+oder durch Lava-Erguß schief abgeschnitten. Viel sichtlich vul„&#xD;
+kanisches Material. Gänzlich vegetationslos. Zerfallsschutt als&#xD;
+Dünensand dem Fuße angeschmiegt und Wüstenmaterial&#xD;
+dahinter liefernd. (Ansiedelung od. Nomadenhütten auf einer&#xD;
+größeren Sandfläche)&#xD;
+In Aden selbst zu großen Höhen in mehrfachen Rücken&#xD;
+übereinander getürmt (nach der See zu einige lange,&#xD;
+scharfe, wenig hohe Grate auslaufend.) Zu unserm Erstau„&#xD;
+nen nur vulkanisches Material zu finden u. der Farbe&#xD;
+nach somit für d. gesamten Höhen anzunehmen. Wiederum&#xD;
+deutliche Schichtung, sodaß erst jetzt Zweifel an d. vorher&#xD;
+erwähnten Sedimenten. Junge Laven, stellenweise als&#xD;
+festes G, dichtes Gestein. An d. Straße vom Hafenort zur&#xD;
+Stadt treten unter den gewaltigen Ergußmassen dichte&#xD;
+erfüllte Muschel- und Schneckenbänke heraus mit kaum&#xD;
+subrezent zu nennenden großen Formen (Taxodonta u.&#xD;
+z. T. die Klappen noch in ursprüngl. geschlossenem Zusammenhang,&#xD;
+keine Zerstörungen, keine Kontakterscheinung. Also wohl Erguß&#xD;
+in's Meer (nicht aus d. Meer, sondern auf Küstenfazies) Noch in&#xD;
+historischer Zeit? Alte Anlage der Wasserwerke&#xD;
+in&#xD;
+bereits fertig gebilde„&#xD;
+tem Tal.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

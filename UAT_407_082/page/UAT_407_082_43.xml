@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:14.663+02:00</Created>
+        <LastChange>2020-03-04T15:09:53.341+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581491" pageNr="43" tsid="24798251" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=PHUDRFAWCNNJMELKBLDOUYSL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HIDFDSSQNOQXTVYBTACBMLUV" imageId="4579380"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_43.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255751518" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="294,283 294,4584 4024,4584 4024,283"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="3668,400 3743,396 3757,382 3785,400 3850,363 3892,368 3892,247 3859,251 3785,204 3775,214 3729,214 3719,204 3668,214"/>
+                <Baseline points="3692,354 3717,354 3742,355 3767,356 3792,357 3817,357 3842,355 3868,351"/>
+                <TextEquiv>
+                    <Unicode>41</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="270,724 4045,774 4046,620 3203,563 271,631"/>
+                <Baseline points="294,701 480,701 666,701 853,702 1039,703 1226,704 1412,706 1598,708 1785,710 1971,712 2158,714 2344,716 2530,718 2717,719 2903,720 3090,721 3276,722 3462,722 3649,721 3835,720 4022,718"/>
+                <TextEquiv>
+                    <Unicode>an Deck, wundervolle Stimmung über der Bucht im Mondschein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="306,916 2111,844 3266,950 3569,910 3570,807 307,799"/>
+                <Baseline points="332,850 492,849 653,848 813,848 974,848 1135,848 1295,849 1456,850 1616,851 1777,852 1938,853 2098,855 2259,857 2419,858 2580,860 2741,861 2901,863 3062,864 3222,865 3383,866 3544,867"/>
+                <TextEquiv>
+                    <Unicode>mit der Silhouette des Vesuv, links glitten die Lichter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="316,1016 2874,1124 3789,1026 3791,886 318,909"/>
+                <Baseline points="339,986 510,981 681,978 852,976 1024,976 1195,977 1366,980 1537,983 1709,987 1880,990 2051,995 2222,999 2394,1003 2565,1007 2736,1011 2907,1014 3079,1016 3250,1017 3421,1017 3592,1015 3764,1011"/>
+                <TextEquiv>
+                    <Unicode>unaufhörlich langsam vorüber. Dann leise dämmernd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="356,1160 2019,1252 3246,1158 3627,1274 3922,1115 357,1057"/>
+                <Baseline points="379,1144 554,1143 730,1143 906,1143 1082,1143 1258,1144 1434,1145 1609,1147 1785,1148 1961,1150 2137,1153 2313,1155 2489,1157 2665,1160 2840,1163 3016,1165 3192,1168 3368,1170 3544,1173 3720,1175 3896,1177"/>
+                <TextEquiv>
+                    <Unicode>der Tag. Einfahrt in den Hafen neben einem menschen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="381,1311 1817,1406 1957,1309 3854,1331 3854,1238 3160,1179 382,1200"/>
+                <Baseline points="404,1293 575,1295 746,1296 918,1297 1089,1298 1261,1298 1432,1298 1603,1298 1775,1299 1946,1299 2118,1299 2289,1299 2460,1300 2632,1300 2803,1301 2975,1302 3146,1304 3317,1306 3489,1308 3660,1311 3832,1315"/>
+                <TextEquiv>
+                    <Unicode>erfüllten Italiener (Tripolis-Sendung?) Von Krieg keine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="412,1527 3937,1512 3938,1387 3509,1351 414,1332"/>
+                <Baseline points="435,1440 609,1440 783,1440 957,1440 1131,1439 1305,1439 1479,1439 1653,1439 1827,1439 2001,1439 2175,1440 2349,1441 2523,1442 2697,1444 2871,1446 3045,1450 3219,1453 3393,1457 3567,1462 3741,1467 3915,1473"/>
+                <TextEquiv>
+                    <Unicode>Spur. An Land u. durch d. Zoll ohne Schwierigkeit. Nahm Wagen zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="374,1666 2047,1586 2839,1693 3725,1637 3726,1530 375,1470"/>
+                <Baseline points="395,1577 560,1579 725,1581 891,1582 1056,1584 1221,1586 1387,1587 1552,1588 1717,1589 1883,1590 2048,1591 2213,1592 2379,1592 2544,1593 2709,1593 2875,1594 3040,1594 3205,1594 3371,1595 3536,1595 3702,1595"/>
+                <TextEquiv>
+                    <Unicode>Hotel, aber 3 Männer hielten ihn an, um noch 4 M. für einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="365,1780 3800,1818 3876,1675 366,1584"/>
+                <Baseline points="389,1694 562,1698 735,1701 908,1703 1082,1706 1255,1708 1428,1710 1601,1711 1775,1713 1948,1714 2121,1716 2294,1717 2468,1718 2641,1719 2814,1721 2987,1722 3161,1724 3334,1726 3507,1729 3680,1732 3854,1735"/>
+                <TextEquiv>
+                    <Unicode>angeblichen Gepäckträger zu erpressen, der Hoteldiener dolmetschte, auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="401,1903 2535,1985 3110,1896 3626,2001 3862,1809 1134,1821 949,1711 403,1796"/>
+                <Baseline points="426,1845 596,1849 767,1853 937,1857 1108,1860 1279,1864 1449,1867 1620,1870 1791,1873 1961,1876 2132,1878 2303,1881 2473,1883 2644,1885 2815,1887 2985,1888 3156,1890 3327,1891 3497,1893 3668,1894 3839,1895"/>
+                <TextEquiv>
+                    <Unicode>ein Wechsler war für Notfälle dabei, großartige Organisation. Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815209300_715" custom="readingOrder {index:10;}">
+                <Coords points="401,2036 2964,2124 3692,2089 3926,1942 402,1952"/>
+                <Baseline points="425,2002 561,2000 698,1999 835,1998 972,1998 1109,1999 1246,2000 1382,2002 1519,2003 1656,2005 1793,2007 1930,2009 2067,2012 2204,2014 2340,2016 2477,2018 2614,2019 2751,2021 2888,2021 3025,2021 3162,2021 3333,2017 3361,2017 3389,2019 3418,2020 3446,2021 3475,2022 3503,2022 3532,2023 3560,2024 3589,2024 3617,2024 3645,2025 3674,2025 3702,2025 3731,2024 3759,2024 3788,2024 3816,2023 3845,2022 3873,2020 3902,2019"/>
+                <TextEquiv>
+                    <Unicode>war offenbarer Raub am hellen Tage auf d. Straße — und links</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="403,2198 3316,2281 3904,2234 3905,2136 404,2045"/>
+                <Baseline points="427,2166 599,2165 772,2164 944,2163 1117,2163 1290,2163 1462,2164 1635,2165 1808,2166 1980,2167 2153,2169 2326,2171 2498,2173 2671,2175 2844,2177 3016,2178 3189,2180 3362,2182 3534,2184 3707,2185 3880,2186"/>
+                <TextEquiv>
+                    <Unicode>neben dem Wagen stand der Polizist. Wegen Mangels an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="382,2327 2978,2331 3331,2434 3963,2276 2443,2268 2281,2163 383,2224"/>
+                <Baseline points="405,2296 581,2294 758,2293 935,2293 1112,2293 1288,2294 1465,2295 1642,2297 1819,2300 1995,2302 2172,2305 2349,2308 2526,2312 2702,2315 2879,2319 3056,2322 3233,2326 3409,2330 3586,2333 3763,2336 3940,2339"/>
+                <TextEquiv>
+                    <Unicode>Sprachkenntnis mußte ich kapitulieren. Wir wären also wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="336,2496 2373,2493 2540,2573 3184,2508 3185,2359 337,2384"/>
+                <Baseline points="360,2468 500,2466 640,2465 780,2465 920,2465 1060,2465 1200,2466 1340,2467 1480,2469 1620,2470 1760,2472 1900,2473 2040,2475 2180,2476 2320,2478 2460,2479 2600,2480 2740,2481 2880,2481 3020,2481 3160,2481"/>
+                <TextEquiv>
+                    <Unicode>im kultivierten Europa! Logis im Hotel Müller.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="593,2603 1996,2612 2116,2716 2462,2613 2596,2721 3315,2626 3435,2721 3715,2691 3717,2570 594,2505"/>
+                <Baseline points="616,2588 769,2593 923,2598 1077,2602 1231,2605 1385,2607 1538,2608 1692,2610 1846,2610 2000,2611 2154,2611 2307,2611 2461,2612 2615,2613 2769,2614 2923,2615 3076,2618 3230,2621 3384,2625 3538,2629 3692,2636"/>
+                <TextEquiv>
+                    <Unicode>Im Aquarium u. im Stadtgewühl, um Einkäufe zu machen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="282,2727 934,2834 3657,2794 3658,2696 3305,2626 284,2643"/>
+                <Baseline points="307,2716 473,2721 639,2725 805,2729 972,2733 1138,2736 1304,2739 1471,2742 1637,2745 1803,2748 1970,2750 2136,2752 2302,2754 2468,2756 2635,2758 2801,2759 2967,2761 3134,2762 3300,2763 3466,2765 3633,2766"/>
+                <TextEquiv>
+                    <Unicode>Wunderschöner piazza Vittoria. Gegen Abend mit elektr. Bahn zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="344,2910 1537,3002 1850,2887 2162,3000 3915,2908 3747,2791 345,2747"/>
+                <Baseline points="367,2897 543,2892 719,2889 895,2887 1071,2885 1247,2885 1423,2885 1600,2886 1776,2887 1952,2889 2128,2891 2304,2893 2480,2895 2656,2896 2833,2898 3009,2899 3185,2899 3361,2899 3537,2897 3713,2895 3890,2891"/>
+                <TextEquiv>
+                    <Unicode>Posilippo, auf der Chaussee weiter gegen das Kap zu. Ganz kostbare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:17;}">
+                <Coords points="357,3102 3871,3134 3872,2961 3211,2892 2940,3017 358,2943"/>
+                <Baseline points="381,3043 554,3046 727,3049 901,3052 1074,3054 1248,3056 1421,3057 1595,3058 1768,3059 1942,3060 2115,3060 2288,3061 2462,3061 2635,3061 2809,3061 2982,3062 3156,3062 3329,3063 3503,3064 3676,3065 3850,3067"/>
+                <TextEquiv>
+                    <Unicode>Villen und Gärten am Steilufer über dem Meer, Rückblick auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;}">
+                <Coords points="334,3241 2521,3191 2716,3290 3085,3189 3289,3292 3704,3238 3705,3103 335,3115"/>
+                <Baseline points="357,3177 523,3177 689,3177 855,3177 1022,3178 1188,3178 1354,3179 1520,3180 1687,3181 1853,3182 2019,3183 2185,3184 2352,3185 2518,3186 2684,3186 2850,3187 3017,3188 3183,3189 3349,3189 3515,3190 3682,3190"/>
+                <TextEquiv>
+                    <Unicode>Stadt und Vesuv. Eine Italienreise fällt noch zum Schluß als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="400,3420 3859,3411 3790,3224 402,3210"/>
+                <Baseline points="422,3335 592,3330 763,3326 934,3324 1104,3322 1275,3322 1446,3323 1616,3324 1787,3326 1958,3328 2129,3331 2299,3333 2470,3336 2641,3339 2811,3341 2982,3343 3153,3344 3323,3344 3494,3344 3665,3342 3836,3340"/>
+                <TextEquiv>
+                    <Unicode>Zugabe ab! Rechts aufwärts, leider stets zwischen Mauern u. sehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="358,3577 1044,3469 1761,3585 3398,3482 3653,3572 3794,3428 359,3405"/>
+                <Baseline points="384,3478 553,3476 722,3474 892,3473 1061,3473 1231,3474 1400,3475 1569,3476 1739,3478 1908,3480 2078,3482 2247,3484 2416,3485 2586,3487 2755,3488 2925,3489 3094,3490 3263,3489 3433,3488 3602,3486 3772,3484"/>
+                <TextEquiv>
+                    <Unicode>staubig, auch noch verflucht heiß! Einige Blicke auf die nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="302,3670 3802,3750 4003,3569 1192,3596 951,3473 302,3568"/>
+                <Baseline points="326,3637 508,3638 691,3639 874,3640 1056,3641 1239,3642 1422,3643 1604,3644 1787,3645 1970,3646 2153,3647 2335,3648 2518,3649 2701,3650 2883,3651 3066,3652 3249,3653 3431,3654 3614,3655 3797,3656 3980,3657"/>
+                <TextEquiv>
+                    <Unicode>N. anschließende Küste und das zerrissene Land. Sehr malerischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="352,3834 1355,3789 1550,3884 2147,3785 3228,3895 3658,3744 3206,3653 2804,3752 2395,3652 2091,3743 353,3689"/>
+                <Baseline points="376,3784 539,3783 702,3782 865,3782 1028,3782 1191,3783 1354,3784 1517,3785 1680,3786 1843,3788 2006,3789 2169,3791 2332,3792 2495,3794 2658,3796 2821,3797 2984,3798 3147,3799 3310,3799 3473,3799 3636,3798"/>
+                <TextEquiv>
+                    <Unicode>Abstieg durch steile, echt italienische Straße mit Schafherden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;}">
+                <Coords points="384,4028 650,3953 1764,3959 1871,4038 2864,3960 2864,3890 2146,3787 2020,3903 1717,3823 1568,3903 1479,3837 967,3888 846,3809 384,3878"/>
+                <Baseline points="409,3952 530,3949 652,3947 773,3945 895,3944 1016,3943 1138,3943 1259,3942 1381,3942 1502,3943 1624,3943 1745,3944 1867,3944 1988,3945 2110,3946 2231,3946 2353,3947 2474,3948 2596,3948 2717,3948 2839,3948"/>
+                <TextEquiv>
+                    <Unicode>Murillo-Knaben und reizenden Blicken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="609,4094 3923,4169 3923,4001 3756,3963 609,4000"/>
+                <Baseline points="631,4068 794,4071 957,4074 1121,4076 1284,4077 1448,4079 1611,4079 1775,4080 1938,4080 2102,4080 2265,4080 2428,4079 2592,4079 2755,4079 2919,4078 3082,4078 3246,4078 3409,4078 3573,4078 3736,4079 3900,4080"/>
+                <TextEquiv>
+                    <Unicode>In der Salleria Umberto einen Kinematographen aufgesucht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="332,4274 3935,4264 3884,4152 2453,4087 332,4172"/>
+                <Baseline points="355,4231 532,4232 710,4233 888,4234 1066,4235 1243,4235 1421,4236 1599,4236 1777,4236 1954,4235 2132,4235 2310,4235 2488,4234 2665,4234 2843,4234 3021,4233 3199,4233 3376,4233 3554,4233 3732,4233 3910,4234"/>
+                <TextEquiv>
+                    <Unicode>wo Lichtbilder vom Kriegsschauplatz (arab. Reiter, Torpedoboote u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:26;}">
+                <Coords points="321,4466 2069,4361 2344,4477 2633,4380 3924,4479 4046,4316 321,4317"/>
+                <Baseline points="346,4372 529,4373 713,4373 897,4374 1081,4373 1265,4373 1449,4373 1633,4372 1817,4372 2001,4371 2185,4371 2368,4370 2552,4370 2736,4370 2920,4371 3104,4372 3288,4373 3472,4375 3656,4377 3840,4380 4024,4384"/>
+                <TextEquiv>
+                    <Unicode>dgl.) gegeben wurden, um das Publikum dabei zu beobach„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:27;}">
+                <Coords points="371,4609 3461,4638 3694,4596 3694,4442 371,4479"/>
+                <Baseline points="396,4550 559,4546 723,4542 886,4540 1050,4538 1214,4536 1377,4536 1541,4535 1705,4535 1868,4535 2032,4536 2196,4536 2359,4536 2523,4537 2687,4537 2850,4537 3014,4537 3178,4536 3341,4535 3505,4533 3669,4530"/>
+                <TextEquiv>
+                    <Unicode>ten. Wenn der Eindruck richtig war, ist das Volk gänzlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>41&#xD;
+an Deck, wundervolle Stimmung über der Bucht im Mondschein&#xD;
+mit der Silhouette des Vesuv, links glitten die Lichter&#xD;
+unaufhörlich langsam vorüber. Dann leise dämmernd&#xD;
+der Tag. Einfahrt in den Hafen neben einem menschen„&#xD;
+erfüllten Italiener (Tripolis-Sendung?) Von Krieg keine&#xD;
+Spur. An Land u. durch d. Zoll ohne Schwierigkeit. Nahm Wagen zum&#xD;
+Hotel, aber 3 Männer hielten ihn an, um noch 4 M. für einen&#xD;
+angeblichen Gepäckträger zu erpressen, der Hoteldiener dolmetschte, auch&#xD;
+ein Wechsler war für Notfälle dabei, großartige Organisation. Es&#xD;
+war offenbarer Raub am hellen Tage auf d. Straße — und links&#xD;
+neben dem Wagen stand der Polizist. Wegen Mangels an&#xD;
+Sprachkenntnis mußte ich kapitulieren. Wir wären also wieder&#xD;
+im kultivierten Europa! Logis im Hotel Müller.&#xD;
+Im Aquarium u. im Stadtgewühl, um Einkäufe zu machen.&#xD;
+Wunderschöner piazza Vittoria. Gegen Abend mit elektr. Bahn zum&#xD;
+Posilippo, auf der Chaussee weiter gegen das Kap zu. Ganz kostbare&#xD;
+Villen und Gärten am Steilufer über dem Meer, Rückblick auf&#xD;
+Stadt und Vesuv. Eine Italienreise fällt noch zum Schluß als&#xD;
+Zugabe ab! Rechts aufwärts, leider stets zwischen Mauern u. sehr&#xD;
+staubig, auch noch verflucht heiß! Einige Blicke auf die nach&#xD;
+N. anschließende Küste und das zerrissene Land. Sehr malerischer&#xD;
+Abstieg durch steile, echt italienische Straße mit Schafherden,&#xD;
+Murillo-Knaben und reizenden Blicken.&#xD;
+In der Salleria Umberto einen Kinematographen aufgesucht,&#xD;
+wo Lichtbilder vom Kriegsschauplatz (arab. Reiter, Torpedoboote u.&#xD;
+dgl.) gegeben wurden, um das Publikum dabei zu beobach„&#xD;
+ten. Wenn der Eindruck richtig war, ist das Volk gänzlich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

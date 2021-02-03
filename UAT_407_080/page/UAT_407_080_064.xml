@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:56.053+02:00</Created>
+        <LastChange>2020-03-23T12:03:47.048+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550764" pageNr="64" tsid="26069556" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=FKBSFDYPZRIHAOEVPPAIWAKI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QZMKYSCEWMXVUWNEDBJUMJCE" imageId="4551642"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_064.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255551041" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582888769931_2247"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582888769931_2247" custom="readingOrder {index:0;}">
+            <Coords points="385,256 530,256 4035,337 4035,4841 441,4841 385,415"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="368,459 394,457 426,482 448,477 461,485 492,483 534,455 556,454 546,253 494,251 457,222 424,255 402,251 385,270 359,271"/>
+                <Baseline points="385,365 414,361 443,359 472,358 501,358 530,356"/>
+                <TextEquiv>
+                    <Unicode>60</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888776128_2252" custom="readingOrder {index:1;}">
+                <Coords points="727,600 1140,465 1316,581 2019,456 2627,577 3360,434 3841,548 4024,498 4023,323 724,364"/>
+                <Baseline points="746,474 873,466 1001,461 1128,455 1256,452 1384,449 1511,446 1639,445 1766,443 1894,443 2022,443 2149,443 2277,443 2404,443 2532,443 2660,443 2787,443 2915,442 3042,441 3170,439 3298,436 3361,423 3393,423 3425,424 3457,425 3489,425 3521,426 3553,426 3585,427 3617,428 3649,428 3681,429 3713,429 3745,429 3777,430 3809,431 3841,432 3873,433 3905,434 3937,435 3969,436 4002,437"/>
+                <TextEquiv>
+                    <Unicode>Zur Vervollständigung nachm. oberhalb der Quelle geklopft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="522,699 2418,721 2662,614 2842,731 2994,620 3279,749 3483,642 4056,738 4055,567 2874,460 2648,584 521,572"/>
+                <Baseline points="541,655 715,654 890,653 1065,650 1239,648 1414,644 1589,641 1763,638 1938,634 2113,631 2288,628 2462,625 2637,623 2812,622 2986,621 3161,621 3336,623 3510,625 3685,629 3860,635 4035,641"/>
+                <TextEquiv>
+                    <Unicode>Leider kann man nie d. ganzen Nachmittag ausnützen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="517,879 1754,933 1884,830 2822,789 2986,900 3473,778 3671,854 3835,724 2345,744 2191,642 1826,774 514,734"/>
+                <Baseline points="537,840 700,837 864,834 1028,831 1192,827 1356,824 1519,821 1683,818 1847,814 2011,811 2175,808 2338,805 2502,802 2666,800 2830,798 2994,796 3157,794 3321,793 3485,792 3649,791 3813,791"/>
+                <TextEquiv>
+                    <Unicode>der Sprechstunde wegen. Nun wäre d. Gegebene, wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;} textStyle {offset:35; length:3;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="514,1039 3974,974 3883,819 2980,902 2852,800 2439,922 2302,841 1068,953 886,830 513,956"/>
+                <Baseline points="537,1010 707,1006 878,1001 1049,997 1219,992 1390,988 1561,984 1731,980 1902,976 2073,972 2244,968 2414,965 2585,962 2756,958 2926,956 3097,953 3268,951 3438,949 3609,947 3780,946 3951,945"/>
+                <TextEquiv>
+                    <Unicode>wechselten uns darin ab, aber darf ich das anregen?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="511,1193 1893,1233 2196,1112 2618,1219 3109,1110 3500,1210 3841,1040 2139,964 1827,1073 507,1062"/>
+                <Baseline points="532,1169 696,1164 860,1159 1025,1153 1189,1147 1354,1142 1518,1136 1683,1131 1847,1125 2012,1120 2176,1115 2340,1111 2505,1107 2669,1103 2834,1100 2998,1097 3163,1095 3327,1094 3492,1093 3656,1093 3821,1093"/>
+                <TextEquiv>
+                    <Unicode>Und Janensch hat garnicht d. Bedürfnis zu organischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="518,1387 4026,1310 4023,1179 3615,1095 3132,1224 2051,1128 1713,1253 515,1221"/>
+                <Baseline points="541,1341 714,1333 887,1325 1060,1317 1233,1310 1407,1303 1580,1297 1753,1291 1926,1285 2099,1281 2273,1277 2446,1273 2619,1270 2792,1268 2965,1266 3139,1265 3312,1265 3485,1266 3658,1267 3831,1269 4005,1273"/>
+                <TextEquiv>
+                    <Unicode>Arbeit. An d. Gräben geht er, wenn ein Knochen zu sehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="503,1644 767,1528 1010,1645 1152,1528 2399,1445 3657,1572 3986,1476 3983,1323 497,1391"/>
+                <Baseline points="522,1512 694,1509 866,1505 1038,1501 1210,1496 1382,1490 1554,1484 1726,1477 1898,1471 2070,1465 2242,1459 2414,1453 2586,1448 2758,1444 2930,1441 3102,1438 3274,1437 3446,1438 3618,1440 3790,1444 3962,1449"/>
+                <TextEquiv>
+                    <Unicode>ist, um ihn zu deuten, etwas das doch erst zu Haus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888806279_2266" custom="readingOrder {index:8;} textStyle {offset:52; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="534,1795 1033,1659 1674,1768 1828,1650 2324,1720 2605,1624 3941,1706 3935,1514 3082,1458 529,1611"/>
+                <Baseline points="555,1676 713,1676 872,1675 1030,1672 1189,1668 1348,1664 1506,1658 1665,1652 1823,1646 1982,1639 2141,1633 2299,1626 2458,1619 2616,1613 2775,1608 2934,1604 3092,1600 3251,1598 3409,1597 3568,1597 3727,1599 3877,1639 3918,1634"/>
+                <TextEquiv>
+                    <Unicode>geschehen kann, nicht aber um zu beaufsichtigen und zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="477,1923 3913,1806 3735,1667 3120,1741 2772,1632 474,1809"/>
+                <Baseline points="499,1873 668,1867 838,1862 1007,1855 1177,1849 1347,1842 1516,1835 1686,1829 1856,1822 2025,1816 2195,1810 2365,1805 2534,1800 2704,1796 2874,1793 3043,1790 3213,1788 3383,1787 3552,1787 3722,1789 3892,1791"/>
+                <TextEquiv>
+                    <Unicode>Direktiven zu geben. Seine Tätigkeit ist so ganz auf's Theo„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="479,2127 3928,1976 3833,1838 3691,1937 2182,1836 476,1961"/>
+                <Baseline points="501,2040 671,2033 841,2026 1012,2020 1182,2014 1352,2008 1523,2002 1693,1997 1863,1992 2034,1988 2204,1984 2374,1981 2545,1978 2715,1976 2885,1974 3056,1973 3226,1972 3396,1972 3567,1973 3737,1974 3908,1976"/>
+                <TextEquiv>
+                    <Unicode>retische zugeschnitten. Auch d. Vorbereitungen erscheinen mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="493,2237 3992,2182 3989,2042 3556,1992 2505,2094 1734,2002 492,2159"/>
+                <Baseline points="515,2214 687,2205 860,2195 1033,2187 1206,2179 1379,2172 1551,2165 1724,2159 1897,2154 2070,2150 2243,2146 2415,2144 2588,2142 2761,2141 2934,2140 3107,2141 3279,2142 3452,2145 3625,2148 3798,2152 3971,2157"/>
+                <TextEquiv>
+                    <Unicode>mangelhaft. Die Lektüre muß nachbeschafft werden, desgl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="464,2533 1007,2402 1922,2456 2360,2315 3247,2325 3543,2454 3858,2276 2910,2276 2640,2138 2154,2276 459,2310"/>
+                <Baseline points="482,2415 649,2402 817,2391 985,2381 1152,2371 1320,2363 1488,2356 1655,2350 1823,2346 1991,2341 2159,2337 2326,2335 2494,2332 2662,2331 2829,2330 2997,2329 3165,2329 3332,2329 3500,2329 3668,2329 3836,2330"/>
+                <TextEquiv>
+                    <Unicode>Gyps u. Werkzeuge, Auszüge aus d. Litteratur habe ich in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="472,2632 827,2706 956,2585 1238,2679 1528,2571 1749,2666 2396,2501 3980,2615 3975,2410 3518,2452 3248,2323 3015,2460 2100,2386 469,2527"/>
+                <Baseline points="492,2599 665,2589 838,2580 1011,2570 1185,2562 1358,2553 1531,2545 1704,2538 1878,2532 2051,2526 2224,2522 2397,2517 2571,2514 2744,2511 2917,2509 3090,2508 3264,2508 3437,2509 3610,2511 3783,2514 3957,2518"/>
+                <TextEquiv>
+                    <Unicode>d. 8 Tagen mehr gemacht als er, u. was vorbereitet ist,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="447,2899 1335,2753 1526,2862 1907,2712 2479,2859 2725,2739 2827,2819 3773,2711 3770,2615 3135,2544 441,2659"/>
+                <Baseline points="466,2781 630,2775 794,2770 959,2763 1123,2756 1287,2749 1452,2742 1616,2735 1780,2728 1945,2722 2109,2716 2273,2711 2438,2706 2602,2702 2766,2700 2931,2698 3095,2698 3259,2699 3424,2701 3588,2706 3753,2713"/>
+                <TextEquiv>
+                    <Unicode>hat Herrmann besorgt. Aber - „schweig stille, mein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888821454_2270" custom="readingOrder {index:15;} textStyle {offset:12; length:4;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="473,3085 2338,2901 3835,2963 3828,2727 467,2884"/>
+                <Baseline points="489,2952 621,2954 753,2954 886,2953 1018,2951 1151,2948 1283,2944 1416,2940 1548,2935 1681,2929 1813,2924 1945,2918 2078,2913 2210,2907 2343,2902 2475,2898 2608,2894 2740,2891 2873,2889 3005,2888 3138,2889 3305,2875 3330,2876 3355,2877 3380,2878 3405,2878 3431,2878 3456,2878 3481,2878 3506,2877 3531,2877 3557,2877 3582,2877 3607,2876 3632,2877 3657,2877 3683,2878 3708,2879 3733,2880 3758,2882 3783,2885 3809,2888"/>
+                <TextEquiv>
+                    <Unicode>Herze“. Ich darf nicht dazu kommen ihn zu schelten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:16;}">
+                <Coords points="693,3216 1058,3295 1762,3150 2917,3208 3081,3108 4018,3189 4014,3032 3610,2942 3407,3052 3060,2969 2267,3076 2046,2977 1512,3113 690,3099"/>
+                <Baseline points="716,3189 879,3185 1043,3180 1207,3175 1371,3169 1535,3162 1699,3155 1862,3148 2026,3141 2190,3134 2354,3128 2518,3122 2682,3117 2846,3113 3009,3111 3173,3110 3337,3110 3501,3112 3665,3116 3829,3122 3993,3131"/>
+                <TextEquiv>
+                    <Unicode>26. Aug. Morgens m. Boy, einem Arbeiter und dessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:17;}">
+                <Coords points="488,3432 674,3528 858,3393 1466,3404 1569,3498 2298,3310 3748,3451 3995,3345 3992,3231 483,3253"/>
+                <Baseline points="507,3389 680,3384 853,3378 1026,3372 1199,3366 1373,3358 1546,3351 1719,3344 1892,3337 2065,3331 2239,3325 2412,3319 2585,3315 2758,3311 2931,3309 3105,3308 3278,3308 3451,3310 3624,3314 3797,3320 3971,3328"/>
+                <TextEquiv>
+                    <Unicode>Boy den Weg nach Mtapaia, um Knochenfunde zu besich„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:18;}">
+                <Coords points="464,3675 793,3570 1024,3677 1151,3551 1744,3652 2195,3512 2862,3624 3817,3535 3814,3439 3112,3354 460,3514"/>
+                <Baseline points="485,3571 650,3568 816,3563 981,3558 1147,3553 1312,3546 1478,3539 1643,3533 1809,3526 1974,3519 2140,3513 2305,3507 2471,3501 2636,3496 2802,3493 2967,3490 3133,3488 3298,3488 3464,3488 3629,3491 3795,3495"/>
+                <TextEquiv>
+                    <Unicode>tigen. Dicht bei den früheren u. wenig gut. Der Junge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:19;}">
+                <Coords points="466,3880 820,3743 1016,3864 1301,3746 1789,3850 2741,3694 3426,3788 3857,3718 3852,3548 460,3680"/>
+                <Baseline points="483,3748 650,3748 818,3746 985,3745 1153,3742 1320,3739 1488,3736 1655,3731 1823,3727 1990,3721 2158,3716 2325,3710 2493,3705 2660,3698 2828,3692 2995,3686 3163,3679 3330,3674 3498,3667 3665,3661 3833,3655"/>
+                <TextEquiv>
+                    <Unicode>führte mich dann eine gute halbe Std. weiter jenseits d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:20;}">
+                <Coords points="443,3949 647,4059 1037,3910 1188,4038 1343,3921 3873,3915 3822,3780 3093,3831 2767,3707 2521,3826 728,3786 442,3888"/>
+                <Baseline points="465,3938 634,3936 803,3932 972,3929 1142,3924 1311,3920 1480,3916 1650,3912 1819,3908 1988,3903 2158,3899 2327,3895 2496,3891 2665,3888 2835,3884 3004,3881 3173,3878 3343,3876 3512,3874 3681,3873 3851,3872"/>
+                <TextEquiv>
+                    <Unicode>Flusses u. zeigte mir eine weitere Stelle, die vielleicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:21;}">
+                <Coords points="451,4117 2722,4068 2946,4169 3246,4042 3561,4094 3681,3930 2907,3916 2660,4016 1068,3924 449,4039"/>
+                <Baseline points="474,4111 633,4100 792,4091 952,4083 1111,4077 1270,4073 1430,4070 1589,4067 1748,4066 1908,4065 2067,4064 2226,4064 2386,4063 2545,4063 2704,4061 2864,4060 3023,4057 3182,4053 3342,4048 3501,4041 3661,4033"/>
+                <TextEquiv>
+                    <Unicode>in Betracht kommt. Den Matarawe-Fluß abwärts,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:22;}">
+                <Coords points="442,4377 1562,4232 1791,4336 2068,4206 2483,4205 2639,4333 3200,4201 3578,4306 3792,4108 807,4110 439,4233"/>
+                <Baseline points="463,4283 628,4274 793,4266 959,4259 1124,4252 1290,4246 1455,4241 1620,4236 1786,4232 1951,4227 2117,4224 2282,4220 2447,4218 2613,4215 2778,4212 2944,4209 3109,4207 3274,4204 3440,4202 3605,4199 3771,4196"/>
+                <TextEquiv>
+                    <Unicode>prachtvolle Bilder: Wasser, dichte Vegetation, niedrige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:23;}">
+                <Coords points="441,4572 1198,4432 2236,4534 2971,4390 3829,4449 3876,4251 436,4384"/>
+                <Baseline points="460,4470 629,4463 799,4457 969,4450 1139,4444 1309,4437 1479,4432 1648,4426 1818,4421 1988,4415 2158,4411 2328,4406 2498,4401 2668,4397 2837,4392 3007,4389 3177,4385 3347,4382 3517,4379 3687,4376 3857,4373"/>
+                <TextEquiv>
+                    <Unicode>Palmwedel, ein Volk Perlhühner, große Steinplatten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:24;}">
+                <Coords points="431,4668 1475,4626 1743,4744 1960,4627 2368,4734 2571,4605 3519,4616 3727,4503 2186,4567 1196,4434 430,4577"/>
+                <Baseline points="453,4624 615,4622 778,4620 940,4619 1103,4618 1266,4617 1428,4615 1591,4614 1753,4613 1916,4611 2079,4609 2241,4607 2404,4605 2566,4602 2729,4598 2892,4595 3054,4590 3217,4586 3379,4579 3542,4573 3705,4565"/>
+                <TextEquiv>
+                    <Unicode>im Bachbett, das seltsamerweise kaum erkennen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:25;}">
+                <Coords points="418,4889 598,4922 741,4785 951,4883 2108,4784 2402,4903 2807,4794 3315,4889 3838,4783 3837,4674 416,4679"/>
+                <Baseline points="441,4799 609,4795 778,4791 947,4788 1116,4786 1285,4784 1453,4783 1622,4781 1791,4780 1960,4779 2129,4778 2297,4778 2466,4776 2635,4775 2804,4773 2973,4771 3141,4769 3310,4766 3479,4762 3648,4758 3817,4752"/>
+                <TextEquiv>
+                    <Unicode>ließ, wo oben u. unten war u. das trotz starker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>60&#xD;
+Zur Vervollständigung nachm. oberhalb der Quelle geklopft.&#xD;
+Leider kann man nie d. ganzen Nachmittag ausnützen,&#xD;
+der Sprechstunde wegen. Nun wäre d. Gegebene, wir&#xD;
+wechselten uns darin ab, aber darf ich das anregen?&#xD;
+Und Janensch hat garnicht d. Bedürfnis zu organischer&#xD;
+Arbeit. An d. Gräben geht er, wenn ein Knochen zu sehen&#xD;
+ist, um ihn zu deuten, etwas das doch erst zu Haus&#xD;
+geschehen kann, nicht aber um zu beaufsichtigen und zu&#xD;
+Direktiven zu geben. Seine Tätigkeit ist so ganz auf's Theo„&#xD;
+retische zugeschnitten. Auch d. Vorbereitungen erscheinen mir&#xD;
+mangelhaft. Die Lektüre muß nachbeschafft werden, desgl.&#xD;
+Gyps u. Werkzeuge, Auszüge aus d. Litteratur habe ich in&#xD;
+d. 8 Tagen mehr gemacht als er, u. was vorbereitet ist,&#xD;
+hat Herrmann besorgt. Aber - „schweig stille, mein&#xD;
+Herze“. Ich darf nicht dazu kommen ihn zu schelten.&#xD;
+26. Aug. Morgens m. Boy, einem Arbeiter und dessen&#xD;
+Boy den Weg nach Mtapaia, um Knochenfunde zu besich„&#xD;
+tigen. Dicht bei den früheren u. wenig gut. Der Junge&#xD;
+führte mich dann eine gute halbe Std. weiter jenseits d.&#xD;
+Flusses u. zeigte mir eine weitere Stelle, die vielleicht&#xD;
+in Betracht kommt. Den Matarawe-Fluß abwärts,&#xD;
+prachtvolle Bilder: Wasser, dichte Vegetation, niedrige&#xD;
+Palmwedel, ein Volk Perlhühner, große Steinplatten&#xD;
+im Bachbett, das seltsamerweise kaum erkennen&#xD;
+ließ, wo oben u. unten war u. das trotz starker</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

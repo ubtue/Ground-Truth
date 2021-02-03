@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:56.162+02:00</Created>
+        <LastChange>2020-03-23T12:17:47.518+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550768" pageNr="66" tsid="26074099" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=OUNMFYFMMHZTDJDIICCOIFWY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BYPFZHVERMCOVWMUOXEUQMEI" imageId="4551646"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_066.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255551241" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582888878253_2288"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582888878253_2288" custom="readingOrder {index:0;}">
+            <Coords points="332,251 478,251 3979,356 3979,5007 425,5007 332,408"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="314,457 362,455 431,390 440,394 470,366 501,369 494,218 472,219 420,257 376,250 350,278 332,265 305,271"/>
+                <Baseline points="332,358 361,355 390,353 419,351 448,351 478,352"/>
+                <TextEquiv>
+                    <Unicode>62</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="508,518 2126,555 2710,432 2814,520 3412,455 3410,255 2868,266 2714,379 1844,403 1261,286 506,362"/>
+                <Baseline points="530,462 680,460 830,458 981,456 1131,454 1282,452 1432,450 1583,448 1733,446 1884,444 2034,442 2185,441 2335,439 2486,437 2636,435 2787,433 2937,432 3088,429 3238,428 3389,426"/>
+                <TextEquiv>
+                    <Unicode>in Graben II ein sehr eigenartiger langer Halswirbel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="570,653 823,748 1151,634 2240,741 2390,633 3745,648 3744,546 2939,433 2528,583 568,519"/>
+                <Baseline points="592,642 748,644 904,645 1061,645 1217,645 1374,644 1530,642 1687,640 1843,637 2000,634 2156,631 2312,629 2469,626 2625,624 2782,623 2938,622 3095,622 3251,624 3408,626 3564,629 3721,634"/>
+                <TextEquiv>
+                    <Unicode>Mittags mit meinem Zelt nach Janensch's Beispiel unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="527,824 3724,818 3849,796 3848,645 526,727"/>
+                <Baseline points="549,784 712,784 876,783 1040,783 1204,782 1368,782 1531,781 1695,780 1859,779 2023,778 2187,777 2350,776 2514,776 2678,775 2842,775 3006,774 3169,774 3333,775 3497,775 3661,776 3825,777"/>
+                <TextEquiv>
+                    <Unicode>ein geräumiges Dach gezogen. Mich lockte dabei vor allem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="526,996 3800,1023 3758,837 3234,791 526,894"/>
+                <Baseline points="547,945 708,942 870,940 1031,938 1193,935 1355,933 1516,930 1678,928 1839,926 2001,925 2163,923 2324,922 2486,921 2647,920 2809,920 2971,920 3132,921 3294,921 3455,923 3617,925 3779,928"/>
+                <TextEquiv>
+                    <Unicode>ein eigenes Arbeitszimmer, wo ich eigenen Plänen nach„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="540,1201 669,1206 746,1136 884,1132 1011,1084 1083,1104 1211,1082 1210,1033 1143,1022 1047,954 942,988 887,950 839,960 761,1034 666,992 535,1050"/>
+                <Baseline points="558,1094 589,1094 621,1094 652,1094 684,1094 716,1092 747,1092 779,1091 810,1089 842,1088 874,1087 905,1085 937,1083 968,1082 1000,1081 1032,1080 1063,1080 1095,1079 1126,1079 1158,1079 1190,1080"/>
+                <TextEquiv>
+                    <Unicode>gehen kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="769,1271 1072,1352 1195,1235 1414,1362 2616,1255 2799,1347 3216,1235 3519,1339 3931,1250 3929,1059 3477,1166 2876,1057 767,1129"/>
+                <Baseline points="789,1255 945,1250 1101,1246 1257,1242 1413,1239 1569,1236 1725,1234 1881,1232 2037,1230 2193,1229 2349,1227 2505,1226 2661,1225 2817,1224 2973,1223 3129,1222 3285,1221 3441,1220 3597,1218 3753,1217 3909,1215"/>
+                <TextEquiv>
+                    <Unicode>28. Aug. Einige Knochen abgezeichnet. Photogr. kopiert, Briefe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="542,1501 1149,1398 1439,1506 1931,1391 3326,1477 3605,1416 3604,1305 540,1314"/>
+                <Baseline points="562,1412 713,1408 864,1405 1015,1401 1166,1398 1317,1396 1468,1393 1619,1391 1770,1390 1921,1388 2072,1387 2223,1386 2374,1385 2525,1384 2676,1384 2827,1383 2978,1383 3129,1383 3280,1383 3431,1384 3583,1384"/>
+                <TextEquiv>
+                    <Unicode>fertig gestellt. Lese Weber's „Demokrit“ ohne groß Behagen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:8;} textStyle {offset:0; length:16;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="744,1712 1490,1714 1778,1609 2183,1703 3301,1604 3538,1700 3808,1626 3807,1497 742,1503"/>
+                <Baseline points="764,1637 915,1632 1066,1628 1217,1625 1368,1622 1519,1620 1670,1619 1821,1618 1972,1617 2123,1617 2274,1617 2425,1616 2576,1616 2727,1615 2878,1614 3029,1613 3180,1611 3331,1608 3482,1605 3633,1600 3785,1595"/>
+                <TextEquiv>
+                    <Unicode>Sonntag 29. Aug. Um ½4 aufgestanden, von 5-11½ Barappi's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:9;}">
+                <Coords points="497,1860 2163,1893 2632,1759 3474,1913 3983,1818 3981,1610 496,1753"/>
+                <Baseline points="518,1824 690,1820 862,1815 1034,1810 1206,1805 1378,1800 1550,1795 1723,1790 1895,1785 2067,1781 2239,1778 2411,1775 2583,1773 2755,1772 2928,1772 3100,1772 3272,1775 3444,1779 3616,1784 3788,1790 3961,1798"/>
+                <TextEquiv>
+                    <Unicode>u. anderes Wild vergeblich jenseits des Maimbui gesucht. Glaube</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:10;}">
+                <Coords points="500,2004 1104,1968 1273,2064 2587,1934 3005,2064 3862,1946 3861,1830 3337,1897 2941,1789 499,1861"/>
+                <Baseline points="523,1974 688,1970 854,1964 1020,1960 1186,1955 1352,1951 1518,1947 1683,1944 1849,1941 2015,1938 2181,1936 2347,1935 2513,1934 2679,1934 2844,1934 3010,1935 3176,1937 3342,1940 3508,1944 3674,1948 3840,1954"/>
+                <TextEquiv>
+                    <Unicode>in den Deckschichten (gelbe Mergel auf d. Saurierschichten) Fossilien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:11;}">
+                <Coords points="501,2217 1130,2101 2077,2192 2334,2075 3609,2212 3906,2023 2568,1935 499,2026"/>
+                <Baseline points="521,2127 689,2119 857,2112 1025,2105 1193,2099 1361,2094 1529,2090 1698,2087 1866,2084 2034,2082 2202,2081 2370,2080 2538,2080 2706,2080 2875,2082 3043,2083 3211,2085 3379,2088 3547,2092 3715,2095 3884,2099"/>
+                <TextEquiv>
+                    <Unicode>zu finden, die auch die Nordspitze des Tendaguru mit einbeziehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:12;}">
+                <Coords points="502,2333 546,2349 595,2326 649,2351 701,2323 790,2312 833,2279 856,2297 944,2272 1011,2284 1009,2208 947,2192 916,2211 863,2207 768,2161 702,2176 654,2213 627,2200 596,2228 499,2230"/>
+                <Baseline points="524,2282 549,2282 575,2280 601,2279 626,2278 652,2277 678,2276 704,2275 729,2274 755,2273 781,2272 806,2271 832,2270 858,2270 884,2270 909,2270 935,2271 961,2272 987,2273"/>
+                <TextEquiv>
+                    <Unicode>würden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:13;}">
+                <Coords points="735,2440 1077,2514 1908,2387 3511,2502 3858,2438 3859,2336 2718,2229 2397,2324 1150,2221 736,2311"/>
+                <Baseline points="756,2412 909,2404 1063,2397 1217,2393 1371,2389 1525,2387 1679,2386 1833,2386 1987,2387 2141,2389 2295,2391 2448,2394 2602,2397 2756,2400 2910,2404 3064,2407 3218,2410 3372,2414 3526,2416 3680,2418 3834,2419"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Ein wenig zum „Leben“ niedergeschrieben, obwohl mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:14;}">
+                <Coords points="489,2635 2950,2671 3340,2562 3505,2689 3971,2637 3970,2468 488,2515"/>
+                <Baseline points="512,2611 683,2600 855,2589 1027,2580 1199,2573 1371,2568 1542,2564 1714,2560 1886,2558 2058,2557 2230,2557 2401,2558 2573,2559 2745,2560 2917,2562 3089,2563 3260,2565 3432,2567 3604,2569 3776,2570 3948,2570"/>
+                <TextEquiv>
+                    <Unicode>„Jesus“ dringender erscheint u. jenes doch ersterben dürfte. Diese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:15;}">
+                <Coords points="511,2847 3703,2766 3745,2619 508,2661"/>
+                <Baseline points="531,2769 690,2769 850,2768 1010,2767 1169,2764 1329,2761 1489,2757 1648,2753 1808,2748 1968,2744 2128,2739 2287,2735 2447,2731 2607,2728 2766,2726 2926,2724 3086,2724 3245,2724 3405,2726 3565,2729 3725,2735"/>
+                <TextEquiv>
+                    <Unicode>Tage recht heiß, mittags 32° im Schatten. Wenn der Seewind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:16;}">
+                <Coords points="490,2959 648,3049 1000,2928 3759,2923 3756,2799 3354,2720 2877,2831 488,2875"/>
+                <Baseline points="513,2934 674,2933 835,2931 996,2929 1157,2926 1318,2923 1479,2920 1640,2916 1801,2913 1962,2909 2123,2904 2284,2900 2445,2895 2606,2890 2767,2885 2928,2880 3089,2875 3250,2869 3411,2864 3572,2859 3733,2853"/>
+                <TextEquiv>
+                    <Unicode>nicht wäre, könnten wir's schwer ertragen. Mir fällt ein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:17;}">
+                <Coords points="493,3138 927,3216 2186,3020 3634,3103 3822,3034 3818,2905 489,3014"/>
+                <Baseline points="515,3116 679,3105 843,3096 1007,3086 1171,3077 1335,3069 1499,3061 1663,3054 1827,3047 1991,3041 2156,3035 2320,3030 2484,3025 2648,3020 2812,3016 2976,3012 3140,3008 3304,3005 3468,3003 3632,3000 3797,2998"/>
+                <TextEquiv>
+                    <Unicode>daß ich seit etwa 2 Monaten keine Schwalben mehr gesehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:18;}">
+                <Coords points="508,3392 844,3248 999,3348 1385,3220 3783,3165 3778,3050 3439,3011 499,3179"/>
+                <Baseline points="525,3275 686,3263 848,3252 1010,3241 1172,3230 1333,3220 1495,3210 1657,3200 1819,3191 1980,3183 2142,3175 2304,3168 2466,3161 2627,3155 2789,3151 2951,3147 3113,3143 3274,3141 3436,3140 3598,3139 3760,3140"/>
+                <TextEquiv>
+                    <Unicode>habe. Nach dem Abendbrot habe ich zuweilen das Bedürfnis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888892379_2293" custom="readingOrder {index:19;}">
+                <Coords points="516,3454 3186,3395 3741,3284 3783,3162 2430,3157 2302,3253 853,3275 513,3383"/>
+                <Baseline points="539,3421 680,3416 821,3411 962,3404 1103,3396 1244,3388 1385,3378 1526,3369 1667,3359 1808,3349 1950,3339 2091,3330 2232,3320 2373,3310 2514,3302 2655,3294 2796,3287 2937,3281 3078,3276 3219,3271 3361,3269 3393,3278 3419,3276 3446,3274 3472,3272 3499,3270 3525,3270 3552,3269 3578,3268 3605,3267 3631,3265 3658,3264 3684,3262 3711,3260 3737,3258 3764,3256"/>
+                <TextEquiv>
+                    <Unicode>nach schriftlicher Arbeit. Vielleicht läßt sich ethnologisch etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="512,3665 588,3673 637,3650 726,3672 845,3595 907,3604 965,3577 964,3492 835,3524 760,3463 715,3508 671,3490 582,3522 542,3505 511,3514"/>
+                <Baseline points="532,3561 557,3563 583,3564 608,3565 634,3565 660,3566 685,3566 711,3566 737,3566 762,3566 788,3565 813,3565 839,3564 865,3562 890,3561 916,3560 942,3560"/>
+                <TextEquiv>
+                    <Unicode>machen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="642,4105 2668,3974 3599,4039 3996,3953 3990,3776 3282,3886 1588,3858 1082,3987 633,3879"/>
+                <Baseline points="662,4062 827,4048 993,4035 1158,4023 1324,4013 1489,4004 1655,3996 1820,3989 1986,3982 2151,3976 2317,3971 2483,3966 2648,3962 2814,3958 2979,3954 3145,3950 3310,3947 3476,3942 3641,3938 3807,3934 3973,3929"/>
+                <TextEquiv>
+                    <Unicode>31. Aug. morgens d. Weg zum Kerani Ligoma abgeklopft. Finde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="438,4262 1622,4292 2788,4118 3360,4196 3966,4122 3961,3993 434,4173"/>
+                <Baseline points="460,4252 634,4237 808,4222 982,4210 1156,4198 1330,4188 1504,4178 1679,4169 1853,4161 2027,4154 2201,4148 2375,4141 2549,4135 2723,4130 2898,4125 3072,4120 3246,4114 3420,4109 3594,4104 3768,4098 3943,4092"/>
+                <TextEquiv>
+                    <Unicode>überall die Saurierschichten in 3 Stufen (Staffeln?) ausgebreitet u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="453,4390 2200,4393 3141,4257 3571,4341 3950,4253 3944,4120 450,4328"/>
+                <Baseline points="476,4380 648,4373 821,4366 993,4358 1166,4349 1338,4340 1511,4331 1683,4322 1856,4312 2028,4303 2201,4294 2374,4286 2546,4278 2719,4270 2891,4263 3064,4257 3236,4252 3409,4248 3581,4244 3754,4242 3927,4242"/>
+                <TextEquiv>
+                    <Unicode>an d. Rändern Konglomerate u. sehr feste Sandsteine m. glatter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="422,4536 812,4619 1310,4494 1820,4592 1945,4480 2059,4570 3062,4426 3966,4474 3915,4293 3386,4290 2937,4387 1903,4317 1459,4445 767,4367 420,4478"/>
+                <Baseline points="445,4535 629,4525 813,4516 997,4506 1181,4497 1365,4489 1549,4480 1734,4473 1918,4465 2102,4458 2286,4452 2470,4445 2654,4439 2839,4434 3023,4428 3207,4424 3391,4419 3575,4415 3759,4412 3944,4409"/>
+                <TextEquiv>
+                    <Unicode>Oberfläche (anderweitig fossilführend), über deren Stellung zu d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="424,4709 3893,4635 3801,4438 790,4625 418,4540"/>
+                <Baseline points="444,4685 615,4679 786,4673 957,4666 1129,4658 1300,4650 1471,4643 1643,4635 1814,4628 1985,4620 2157,4613 2328,4606 2499,4599 2670,4593 2842,4588 3013,4584 3184,4581 3356,4578 3527,4577 3698,4576 3870,4577"/>
+                <TextEquiv>
+                    <Unicode>Saurierschichten ich keine Klarheit gewinnen kann. Heut sah ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="404,4919 3663,4725 4000,4816 3994,4630 398,4742"/>
+                <Baseline points="425,4847 602,4840 780,4832 957,4825 1135,4817 1313,4810 1490,4803 1668,4796 1845,4790 2023,4783 2201,4778 2378,4771 2556,4766 2733,4761 2911,4756 3089,4752 3266,4747 3444,4744 3621,4740 3799,4737 3977,4735"/>
+                <TextEquiv>
+                    <Unicode>sie an einer Stelle darüber liegen, doch können sie auch ledig„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="429,5007 4004,4938 3999,4800 3562,4731 426,4918"/>
+                <Baseline points="451,4977 627,4970 803,4963 980,4956 1156,4948 1333,4942 1509,4935 1685,4928 1862,4921 2038,4915 2215,4909 2391,4903 2567,4897 2744,4891 2920,4885 3097,4880 3273,4876 3449,4871 3626,4866 3802,4862 3979,4859"/>
+                <TextEquiv>
+                    <Unicode>lich fazielle Abweichungen sein. Ein armseliges künstliches Wasser„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>62&#xD;
+in Graben II ein sehr eigenartiger langer Halswirbel.&#xD;
+Mittags mit meinem Zelt nach Janensch's Beispiel unter&#xD;
+ein geräumiges Dach gezogen. Mich lockte dabei vor allem&#xD;
+ein eigenes Arbeitszimmer, wo ich eigenen Plänen nach„&#xD;
+gehen kann.&#xD;
+28. Aug. Einige Knochen abgezeichnet. Photogr. kopiert, Briefe&#xD;
+fertig gestellt. Lese Weber's „Demokrit“ ohne groß Behagen.&#xD;
+Sonntag 29. Aug. Um ½4 aufgestanden, von 5-11½ Barappi's&#xD;
+u. anderes Wild vergeblich jenseits des Maimbui gesucht. Glaube&#xD;
+in den Deckschichten (gelbe Mergel auf d. Saurierschichten) Fossilien&#xD;
+zu finden, die auch die Nordspitze des Tendaguru mit einbeziehen&#xD;
+würden.&#xD;
+Nachm. Ein wenig zum „Leben“ niedergeschrieben, obwohl mir&#xD;
+„Jesus“ dringender erscheint u. jenes doch ersterben dürfte. Diese&#xD;
+Tage recht heiß, mittags 32° im Schatten. Wenn der Seewind&#xD;
+nicht wäre, könnten wir's schwer ertragen. Mir fällt ein,&#xD;
+daß ich seit etwa 2 Monaten keine Schwalben mehr gesehen&#xD;
+habe. Nach dem Abendbrot habe ich zuweilen das Bedürfnis&#xD;
+nach schriftlicher Arbeit. Vielleicht läßt sich ethnologisch etwas&#xD;
+machen.&#xD;
+31. Aug. morgens d. Weg zum Kerani Ligoma abgeklopft. Finde&#xD;
+überall die Saurierschichten in 3 Stufen (Staffeln?) ausgebreitet u.&#xD;
+an d. Rändern Konglomerate u. sehr feste Sandsteine m. glatter&#xD;
+Oberfläche (anderweitig fossilführend), über deren Stellung zu d.&#xD;
+Saurierschichten ich keine Klarheit gewinnen kann. Heut sah ich&#xD;
+sie an einer Stelle darüber liegen, doch können sie auch ledig„&#xD;
+lich fazielle Abweichungen sein. Ein armseliges künstliches Wasser„</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

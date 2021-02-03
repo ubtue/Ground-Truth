@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:14.910+02:00</Created>
+        <LastChange>2020-03-04T15:49:12.983+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581495" pageNr="47" tsid="24801204" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=QTRGVPMHHWIESECFVBFZHHER&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YHFPQKIGIYYFVEVRSRFQUNAT" imageId="4579384"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_47.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255753083" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:0;}">
+            <Coords points="298,330 298,4576 4012,4576 4012,330"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="3631,439 3663,438 3690,418 3740,417 3754,430 3789,410 3808,418 3835,413 3831,304 3776,306 3748,284 3717,313 3699,313 3676,291 3653,306 3626,303"/>
+                <Baseline points="3652,400 3678,401 3705,400 3732,399 3758,397 3785,396 3812,396"/>
+                <TextEquiv>
+                    <Unicode>45</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:1;}">
+                <Coords points="304,780 3529,817 3838,751 3839,637 2803,534 2484,641 674,546 305,635"/>
+                <Baseline points="329,692 503,694 677,696 852,698 1026,700 1201,702 1375,703 1550,705 1724,706 1899,708 2073,709 2247,710 2422,711 2596,713 2771,714 2945,714 3120,715 3294,716 3469,716 3643,717 3818,717"/>
+                <TextEquiv>
+                    <Unicode>gern wanderte ich durch Dörfer und kleine Städte langsam durch das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:2;}">
+                <Coords points="293,855 3472,961 3811,797 294,777"/>
+                <Baseline points="318,831 491,826 664,824 838,822 1011,822 1185,823 1358,824 1531,827 1705,830 1878,833 2052,837 2225,841 2398,844 2572,848 2745,851 2919,855 3092,857 3265,859 3439,860 3612,860 3786,858"/>
+                <TextEquiv>
+                    <Unicode>Land! So sind's nur die großen Knotenpunkte, die „man“ gesehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:3;}">
+                <Coords points="274,1012 3030,1103 3918,956 274,921"/>
+                <Baseline points="298,985 477,984 657,984 837,985 1017,987 1197,989 1377,991 1557,994 1737,997 1917,999 2097,1002 2276,1005 2456,1007 2636,1009 2816,1010 2996,1011 3176,1010 3356,1009 3536,1007 3716,1004 3896,999"/>
+                <TextEquiv>
+                    <Unicode>haben muß. Wenn ich nicht aus Opposition dagegen sie liegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l5" custom="readingOrder {index:4;}">
+                <Coords points="322,1167 3001,1235 3875,1165 3876,1061 323,1076"/>
+                <Baseline points="346,1121 521,1122 696,1123 872,1125 1047,1126 1223,1127 1398,1129 1573,1130 1749,1132 1924,1133 2100,1135 2275,1137 2450,1138 2626,1140 2801,1141 2977,1143 3152,1144 3327,1145 3503,1147 3678,1148 3854,1148"/>
+                <TextEquiv>
+                    <Unicode>lasse, so geschieht's, weil sie eben wirklich auch ziehen. Aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l6" custom="readingOrder {index:5;}">
+                <Coords points="286,1317 3343,1402 3920,1374 3921,1251 287,1167"/>
+                <Baseline points="308,1281 487,1283 667,1286 846,1288 1026,1291 1206,1293 1385,1294 1565,1296 1744,1298 1924,1300 2104,1301 2283,1302 2463,1303 2642,1304 2822,1305 3002,1306 3181,1306 3361,1306 3540,1306 3720,1306 3900,1306"/>
+                <TextEquiv>
+                    <Unicode>Reisekunst kommt hier nicht zur Entfaltung. Mir fehlt leider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l7" custom="readingOrder {index:6;}">
+                <Coords points="301,1468 3412,1545 3690,1517 3755,1376 1849,1409 1409,1290 302,1409"/>
+                <Baseline points="324,1448 494,1443 664,1440 835,1437 1005,1436 1176,1436 1346,1437 1516,1439 1687,1441 1857,1444 2028,1447 2198,1450 2368,1454 2539,1457 2709,1461 2880,1464 3050,1466 3220,1468 3391,1470 3561,1471 3732,1470"/>
+                <TextEquiv>
+                    <Unicode>auch die Sprache sehr. Geriet in ein kleines vornehmes, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l8" custom="readingOrder {index:7;}">
+                <Coords points="302,1613 2753,1690 3418,1663 3510,1549 303,1485"/>
+                <Baseline points="324,1576 482,1578 640,1579 798,1581 956,1583 1115,1584 1273,1585 1431,1587 1589,1588 1747,1589 1906,1590 2064,1591 2222,1593 2380,1593 2538,1594 2697,1595 2855,1596 3013,1597 3171,1598 3329,1599 3488,1600"/>
+                <TextEquiv>
+                    <Unicode>intimes Hotel (französisch). Es war bereits ganz dunkel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l9" custom="readingOrder {index:8;}">
+                <Coords points="489,1762 3236,1828 3627,1757 3628,1648 489,1649"/>
+                <Baseline points="513,1732 667,1731 822,1729 976,1728 1131,1727 1286,1727 1440,1727 1595,1727 1749,1727 1904,1727 2059,1728 2213,1729 2368,1730 2522,1731 2677,1732 2832,1734 2986,1736 3141,1737 3295,1739 3450,1741 3605,1743"/>
+                <TextEquiv>
+                    <Unicode>24. Oct. Am Arno gebummelt, über die eigenartig mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l10" custom="readingOrder {index:9;}">
+                <Coords points="330,1943 3719,1982 3829,1719 3237,1830 331,1798"/>
+                <Baseline points="355,1870 527,1873 700,1874 872,1876 1045,1877 1217,1878 1390,1879 1562,1879 1735,1880 1907,1880 2080,1880 2253,1880 2425,1880 2598,1880 2770,1881 2943,1881 3115,1882 3288,1883 3460,1884 3633,1886 3806,1887"/>
+                <TextEquiv>
+                    <Unicode>Häusern besetzte Brücke (als wenn in Italien kein Platz wäre!)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l11" custom="readingOrder {index:10;}">
+                <Coords points="303,2026 3792,2099 3792,1980 3547,1911 499,1968 304,1867"/>
+                <Baseline points="327,2005 499,2005 671,2005 843,2005 1015,2005 1187,2005 1359,2005 1532,2006 1704,2006 1876,2007 2048,2008 2220,2009 2392,2010 2564,2011 2737,2012 2909,2014 3081,2015 3253,2017 3425,2019 3597,2022 3770,2024"/>
+                <TextEquiv>
+                    <Unicode>Dann Palazzo vecchio und Uffizien, nachher Kirchen, Straßen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l12" custom="readingOrder {index:11;}">
+                <Coords points="355,2204 3420,2273 3857,2235 3858,2126 355,2063"/>
+                <Baseline points="377,2165 549,2165 722,2165 895,2166 1068,2166 1241,2167 1414,2168 1586,2170 1759,2171 1932,2172 2105,2174 2278,2175 2451,2177 2624,2178 2796,2179 2969,2181 3142,2181 3315,2182 3488,2182 3661,2182 3834,2182"/>
+                <TextEquiv>
+                    <Unicode>abends jenseitiges Ufer mit Lionardo da Vinci-Platz. Auch hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l13" custom="readingOrder {index:12;}">
+                <Coords points="337,2339 2006,2296 3193,2419 3289,2324 3684,2362 3685,2225 337,2239"/>
+                <Baseline points="360,2311 525,2305 690,2301 855,2297 1020,2295 1185,2293 1350,2292 1515,2291 1680,2292 1845,2293 2011,2294 2176,2295 2341,2297 2506,2299 2671,2302 2836,2304 3001,2306 3166,2308 3331,2311 3496,2312 3662,2314"/>
+                <TextEquiv>
+                    <Unicode>eine sinnverwirrende Fülle von Eindrücken, mich freut es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l14" custom="readingOrder {index:13;}">
+                <Coords points="315,2526 3836,2557 3836,2412 3382,2332 1216,2421 680,2291 316,2385"/>
+                <Baseline points="338,2464 511,2464 685,2464 859,2464 1033,2465 1207,2465 1380,2465 1554,2466 1728,2467 1902,2467 2076,2468 2249,2469 2423,2470 2597,2471 2771,2472 2945,2474 3118,2475 3292,2476 3466,2478 3640,2479 3814,2481"/>
+                <TextEquiv>
+                    <Unicode>recht, daß ich mich noch so empfänglich dafür finde. Auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l15" custom="readingOrder {index:14;}">
+                <Coords points="320,2613 3267,2622 3599,2723 3809,2638 3809,2492 320,2531"/>
+                <Baseline points="341,2611 513,2607 685,2604 858,2601 1030,2599 1202,2598 1375,2597 1547,2597 1719,2597 1892,2598 2064,2599 2236,2601 2409,2602 2581,2604 2753,2607 2926,2609 3098,2611 3270,2614 3443,2616 3615,2618 3788,2621"/>
+                <TextEquiv>
+                    <Unicode>die Lage der Stadt im Tale, von oben recht gut zu übersehen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l16" custom="readingOrder {index:15;}">
+                <Coords points="352,2794 2272,2731 3176,2824 3308,2793 3309,2624 2940,2701 2777,2614 2472,2695 352,2639"/>
+                <Baseline points="374,2735 519,2736 665,2737 810,2737 956,2737 1102,2737 1247,2737 1393,2737 1538,2737 1684,2737 1830,2737 1975,2737 2121,2737 2266,2738 2412,2738 2558,2739 2703,2740 2849,2742 2994,2743 3140,2745 3286,2748"/>
+                <TextEquiv>
+                    <Unicode>ist reizvoll, der Abend war schön nach trübem Tag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l17" custom="readingOrder {index:16;}">
+                <Coords points="477,2871 3620,2945 4007,2900 4007,2727 477,2780"/>
+                <Baseline points="502,2856 676,2855 850,2855 1024,2854 1198,2854 1373,2854 1547,2854 1721,2855 1895,2855 2069,2856 2244,2856 2418,2857 2592,2857 2766,2858 2940,2858 3115,2859 3289,2859 3463,2859 3637,2859 3811,2859 3986,2859"/>
+                <TextEquiv>
+                    <Unicode>Die Kirchen gefielen mir nicht sonderlich in ihrem bunten lustigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l18" custom="readingOrder {index:17;}">
+                <Coords points="352,3001 1267,3086 1512,2985 3691,2990 3541,2876 352,2874"/>
+                <Baseline points="375,2986 539,2985 704,2985 869,2983 1033,2982 1198,2981 1363,2979 1527,2978 1692,2976 1857,2975 2022,2973 2186,2972 2351,2972 2516,2972 2680,2972 2845,2973 3010,2974 3174,2977 3339,2980 3504,2983 3669,2988"/>
+                <TextEquiv>
+                    <Unicode>Putz, nur der Glockenturm des Domes schien mir in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l19" custom="readingOrder {index:18;}">
+                <Coords points="356,3128 1093,3224 1625,3108 4036,3138 3944,2979 356,3028"/>
+                <Baseline points="379,3112 560,3115 742,3117 923,3118 1105,3118 1287,3117 1468,3116 1650,3114 1832,3112 2013,3109 2195,3107 2377,3105 2558,3103 2740,3101 2922,3100 3103,3100 3285,3100 3467,3102 3648,3104 3830,3109 4012,3114"/>
+                <TextEquiv>
+                    <Unicode>Wirkung einheitlicher. Im Innern der Kirchen bei diesem Wetter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l20" custom="readingOrder {index:19;}">
+                <Coords points="373,3290 3726,3280 3725,3175 3105,3109 1118,3210 372,3135"/>
+                <Baseline points="395,3262 560,3261 725,3258 891,3256 1056,3252 1222,3248 1387,3245 1553,3241 1718,3237 1884,3233 2049,3230 2214,3227 2380,3225 2545,3224 2711,3224 2876,3224 3042,3226 3207,3229 3373,3234 3538,3241 3704,3248"/>
+                <TextEquiv>
+                    <Unicode>so gut wie nichts zu sehen. Unendlich köstlich die gegossenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l21" custom="readingOrder {index:20;} textStyle {offset:41; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="426,3458 3820,3455 4033,3399 4032,3212 425,3294"/>
+                <Baseline points="448,3391 626,3387 804,3384 982,3381 1160,3378 1338,3375 1516,3373 1694,3371 1872,3369 2050,3368 2228,3366 2406,3365 2584,3364 2762,3362 2940,3361 3118,3361 3296,3360 3474,3359 3652,3358 3830,3358 4009,3357"/>
+                <TextEquiv>
+                    <Unicode>Türreliefs der Basilika. Auch mit dem Pallazzo vecchio mußte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l22" custom="readingOrder {index:21;}">
+                <Coords points="401,3550 3772,3573 3771,3386 401,3468"/>
+                <Baseline points="424,3528 590,3525 756,3521 922,3518 1089,3515 1255,3513 1421,3511 1587,3509 1754,3507 1920,3505 2086,3504 2252,3503 2419,3502 2585,3502 2751,3502 2917,3502 3084,3502 3250,3503 3416,3503 3582,3504 3749,3506"/>
+                <TextEquiv>
+                    <Unicode>ich mich erst anfreunden, er redet eine so ganz fremde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l23" custom="readingOrder {index:22;}">
+                <Coords points="353,3712 3405,3664 3765,3768 3951,3704 3951,3518 3341,3618 353,3561"/>
+                <Baseline points="377,3659 554,3661 732,3661 909,3661 1087,3661 1264,3660 1442,3659 1619,3658 1797,3657 1974,3655 2152,3654 2330,3653 2507,3653 2685,3652 2862,3652 3040,3653 3217,3655 3395,3657 3572,3660 3750,3664 3928,3669"/>
+                <TextEquiv>
+                    <Unicode>Sprache, aber es gelang mir bei ihm, vor allem mit Hilfe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l24" custom="readingOrder {index:23;}">
+                <Coords points="349,3924 2336,3794 3329,3903 3801,3836 3800,3695 348,3778"/>
+                <Baseline points="371,3818 541,3817 711,3816 882,3814 1052,3812 1223,3810 1393,3807 1563,3805 1734,3802 1904,3800 2075,3798 2245,3797 2415,3795 2586,3795 2756,3794 2927,3795 3097,3796 3267,3798 3438,3802 3608,3806 3779,3811"/>
+                <TextEquiv>
+                    <Unicode>seiner Innenhöfe. Kostbare Kunstdenkmäler stehen hier im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l25" custom="readingOrder {index:24;}">
+                <Coords points="333,3974 3918,3988 3735,3817 3003,3894 2907,3799 333,3919"/>
+                <Baseline points="357,3956 543,3957 729,3958 915,3958 1102,3957 1288,3955 1474,3953 1660,3951 1847,3948 2033,3946 2219,3944 2405,3941 2592,3940 2778,3939 2964,3938 3150,3938 3337,3939 3523,3942 3709,3945 3896,3950"/>
+                <TextEquiv>
+                    <Unicode>Freien auf dem Platz, in unserm Klima wäre es Ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l26" custom="readingOrder {index:25;}">
+                <Coords points="378,4123 3721,4137 3652,3965 377,3982"/>
+                <Baseline points="401,4086 565,4089 730,4092 895,4094 1060,4095 1225,4096 1390,4095 1555,4095 1720,4093 1885,4092 2050,4090 2214,4088 2379,4086 2544,4083 2709,4081 2874,4080 3039,4078 3204,4076 3369,4075 3534,4075 3699,4075"/>
+                <TextEquiv>
+                    <Unicode>brechen. Den Besuch der Uffizien möchte ich ungern in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l27" custom="readingOrder {index:26;}">
+                <Coords points="366,4266 3482,4316 3832,4270 3832,4138 366,4166"/>
+                <Baseline points="388,4239 559,4240 730,4241 901,4241 1072,4241 1243,4241 1414,4240 1585,4240 1756,4239 1927,4238 2098,4237 2269,4236 2440,4236 2611,4235 2782,4235 2953,4235 3124,4235 3295,4236 3466,4237 3637,4238 3808,4241"/>
+                <TextEquiv>
+                    <Unicode>meiner Erinnerung missen, auch die Kunst am Werke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l28" custom="readingOrder {index:27;}">
+                <Coords points="339,4414 3924,4426 3897,4275 340,4296"/>
+                <Baseline points="361,4376 538,4370 715,4366 892,4362 1069,4360 1246,4358 1423,4358 1600,4357 1777,4358 1954,4359 2131,4360 2308,4362 2485,4364 2662,4366 2839,4368 3016,4371 3193,4373 3370,4376 3547,4378 3724,4380 3902,4382"/>
+                <TextEquiv>
+                    <Unicode>verschaffte mir hier einen tiefen Eindruck. Daß eine Schar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l29" custom="readingOrder {index:28;}">
+                <Coords points="313,4622 3998,4585 3998,4453 3821,4439 314,4408"/>
+                <Baseline points="338,4528 519,4529 701,4530 883,4530 1065,4531 1247,4531 1429,4530 1611,4530 1793,4530 1975,4529 2157,4529 2338,4529 2520,4529 2702,4529 2884,4530 3066,4531 3248,4532 3430,4534 3612,4537 3794,4540 3976,4543"/>
+                <TextEquiv>
+                    <Unicode>junger Engländerinnen in so heiligem Tempel einen Teil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>45&#xD;
+gern wanderte ich durch Dörfer und kleine Städte langsam durch das&#xD;
+Land! So sind's nur die großen Knotenpunkte, die „man“ gesehen&#xD;
+haben muß. Wenn ich nicht aus Opposition dagegen sie liegen&#xD;
+lasse, so geschieht's, weil sie eben wirklich auch ziehen. Aber&#xD;
+Reisekunst kommt hier nicht zur Entfaltung. Mir fehlt leider&#xD;
+auch die Sprache sehr. Geriet in ein kleines vornehmes, aber&#xD;
+intimes Hotel (französisch). Es war bereits ganz dunkel.&#xD;
+24. Oct. Am Arno gebummelt, über die eigenartig mit&#xD;
+Häusern besetzte Brücke (als wenn in Italien kein Platz wäre!)&#xD;
+Dann Palazzo vecchio und Uffizien, nachher Kirchen, Straßen,&#xD;
+abends jenseitiges Ufer mit Lionardo da Vinci-Platz. Auch hier&#xD;
+eine sinnverwirrende Fülle von Eindrücken, mich freut es&#xD;
+recht, daß ich mich noch so empfänglich dafür finde. Auch&#xD;
+die Lage der Stadt im Tale, von oben recht gut zu übersehen,&#xD;
+ist reizvoll, der Abend war schön nach trübem Tag.&#xD;
+Die Kirchen gefielen mir nicht sonderlich in ihrem bunten lustigen&#xD;
+Putz, nur der Glockenturm des Domes schien mir in der&#xD;
+Wirkung einheitlicher. Im Innern der Kirchen bei diesem Wetter&#xD;
+so gut wie nichts zu sehen. Unendlich köstlich die gegossenen&#xD;
+Türreliefs der Basilika. Auch mit dem Pallazzo vecchio mußte&#xD;
+ich mich erst anfreunden, er redet eine so ganz fremde&#xD;
+Sprache, aber es gelang mir bei ihm, vor allem mit Hilfe&#xD;
+seiner Innenhöfe. Kostbare Kunstdenkmäler stehen hier im&#xD;
+Freien auf dem Platz, in unserm Klima wäre es Ver„&#xD;
+brechen. Den Besuch der Uffizien möchte ich ungern in&#xD;
+meiner Erinnerung missen, auch die Kunst am Werke&#xD;
+verschaffte mir hier einen tiefen Eindruck. Daß eine Schar&#xD;
+junger Engländerinnen in so heiligem Tempel einen Teil</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

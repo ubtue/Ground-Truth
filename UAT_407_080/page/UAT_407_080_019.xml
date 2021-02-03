@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:53.882+02:00</Created>
+        <LastChange>2020-03-18T09:18:23.495+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550713" pageNr="19" tsid="25814641" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=KIMDKYVZVXGOWQMDDUTQJPOY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MFQAUWGIEHQKOBPFKHNPUFHK" imageId="4551591"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_019.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255538203" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="421,245 421,4830 4094,4830 4094,245"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="3826,315 3853,315 3903,355 3916,355 3961,319 4015,310 4015,220 3966,229 3957,220 3934,220 3916,229 3894,216 3867,234 3826,229"/>
+                <Baseline points="3848,298 3876,298 3905,298 3934,298 3963,298 3992,298"/>
+                <TextEquiv>
+                    <Unicode>17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="415,470 1104,389 1301,499 1598,388 2910,536 4057,476 4058,314 416,259"/>
+                <Baseline points="438,398 617,398 797,396 977,398 1157,398 1337,400 1516,402 1696,404 1876,406 2056,408 2236,410 2415,412 2595,414 2775,416 2955,418 3135,418 3314,418 3494,416 3674,415 3854,412 4034,408"/>
+                <TextEquiv>
+                    <Unicode>Das Gestein dieses offenbaren Erosionsrestes, der im N. u. W.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="407,705 1042,563 3842,659 3973,624 3975,458 3709,549 1408,410 408,535"/>
+                <Baseline points="432,594 607,581 783,570 959,562 1135,556 1311,552 1487,550 1663,550 1839,552 2015,555 2191,558 2366,563 2542,568 2718,573 2894,578 3070,584 3246,588 3422,592 3598,596 3774,598 3950,598"/>
+                <TextEquiv>
+                    <Unicode>ziemlich steil abfällt, ist Granit od. Gneiß, in denen d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="423,879 1876,742 2118,837 2852,755 3139,878 3427,767 3656,881 3849,814 3850,648 1831,679 1319,573 424,703"/>
+                <Baseline points="444,774 613,764 782,756 951,748 1120,744 1290,740 1459,738 1628,737 1797,738 1966,739 2136,741 2305,744 2474,748 2643,750 2812,754 2982,758 3151,762 3320,764 3489,766 3658,768 3828,770"/>
+                <TextEquiv>
+                    <Unicode>Quarz fast Alleinherrscher ist. Das grüne Gestein nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;} textStyle {offset:15; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="453,1046 1509,904 2435,919 2669,1045 3087,922 3861,978 3914,807 2372,767 2098,862 1873,741 1599,868 1441,774 452,889"/>
+                <Baseline points="476,942 646,936 817,930 988,926 1158,922 1329,918 1500,916 1670,914 1841,912 2012,912 2183,912 2353,912 2524,912 2695,914 2865,916 3036,916 3207,918 3377,920 3548,922 3719,924 3890,926"/>
+                <TextEquiv>
+                    <Unicode>gesehen. Oben 9h, im Lager 10h. Abschiedstrunk mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="444,1229 825,1088 1693,1087 1945,1202 3365,1099 3501,1193 3959,1118 3958,965 2147,1035 1903,910 442,1031"/>
+                <Baseline points="464,1102 637,1102 811,1100 984,1098 1158,1098 1332,1096 1505,1094 1679,1092 1852,1090 2026,1088 2200,1086 2373,1086 2547,1084 2720,1084 2894,1082 3068,1082 3241,1082 3415,1082 3588,1084 3762,1086 3936,1088"/>
+                <TextEquiv>
+                    <Unicode>Hrn. Sattler, ab 10¾, von ihm eine Strecke begleitet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="483,1319 1478,1408 1714,1283 2523,1253 2678,1359 2978,1264 3442,1365 3985,1285 3983,1128 2887,1194 2638,1080 2424,1205 1325,1136 482,1243"/>
+                <Baseline points="504,1308 676,1306 849,1304 1022,1302 1195,1300 1368,1297 1541,1293 1714,1290 1887,1286 2060,1282 2233,1278 2405,1275 2578,1272 2751,1270 2924,1266 3097,1266 3270,1264 3443,1264 3616,1264 3789,1266 3962,1268"/>
+                <TextEquiv>
+                    <Unicode>12¼ im Lager in Ntondo. Nachm. wieder starker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="446,1532 1290,1459 1548,1551 2072,1427 3310,1534 3907,1446 3906,1342 443,1348"/>
+                <Baseline points="468,1472 634,1462 801,1454 968,1449 1135,1444 1302,1440 1468,1438 1635,1436 1802,1434 1969,1434 2136,1434 2302,1434 2469,1434 2636,1434 2803,1432 2970,1430 3136,1428 3303,1426 3470,1422 3637,1416 3804,1408 3886,1413"/>
+                <TextEquiv>
+                    <Unicode>Regen. Zum ersten Mal allein in schwarzer Um„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="474,1672 2172,1571 2502,1693 2676,1574 3320,1688 3868,1578 3817,1448 472,1537"/>
+                <Baseline points="494,1616 661,1612 829,1608 996,1605 1164,1602 1331,1598 1499,1594 1666,1590 1834,1588 2001,1586 2169,1584 2336,1582 2504,1580 2671,1578 2839,1578 3006,1576 3174,1576 3341,1576 3509,1578 3676,1578 3844,1580"/>
+                <TextEquiv>
+                    <Unicode>gebung, kam m. d. Sprache recht gut zurecht. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582879808456_785" custom="readingOrder {index:9;}">
+                <Coords points="458,1861 1532,1740 2023,1864 3407,1749 3606,1863 3960,1751 3958,1603 3814,1587 3496,1694 2703,1573 2516,1692 1891,1709 1665,1599 920,1716 456,1631"/>
+                <Baseline points="478,1784 553,1782 628,1779 703,1776 779,1773 854,1772 929,1768 1005,1766 1080,1764 1155,1762 1231,1760 1306,1758 1381,1756 1456,1754 1532,1754 1607,1752 1682,1752 1758,1752 1833,1750 1908,1750 1984,1750 2342,1744 2421,1742 2501,1742 2581,1742 2661,1742 2741,1742 2820,1742 2900,1743 2980,1744 3060,1744 3140,1744 3219,1744 3299,1744 3379,1744 3459,1742 3539,1741 3618,1739 3698,1736 3778,1733 3858,1728 3938,1722"/>
+                <TextEquiv>
+                    <Unicode>Jumbe „schenkte“ Hühner, Eier u. Mehl, die man stets</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="503,2032 1779,1914 2729,2039 3047,1892 4005,1998 4039,1796 2754,1854 2353,1755 1945,1859 1548,1741 501,1883"/>
+                <Baseline points="525,1954 570,1942 742,1938 914,1934 1087,1930 1259,1926 1432,1920 1604,1916 1776,1912 1949,1907 2121,1904 2294,1900 2466,1898 2638,1896 2811,1894 2983,1894 3156,1896 3328,1898 3500,1902 3673,1906 3845,1914 4018,1922"/>
+                <TextEquiv>
+                    <Unicode>zu bezahlen hat u. nicht abweisen kann. Infolge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="511,2272 1383,2097 1607,2213 2912,2068 3225,2164 3671,2045 3669,1937 505,2034"/>
+                <Baseline points="528,2148 684,2135 840,2124 996,2115 1152,2107 1308,2100 1464,2093 1620,2088 1776,2084 1932,2080 2089,2078 2245,2076 2401,2074 2557,2072 2713,2070 2869,2068 3025,2066 3181,2064 3337,2060 3493,2058 3650,2054"/>
+                <TextEquiv>
+                    <Unicode>dessen Geldschwierigkeit, Brief an Sattler geschickt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="482,2329 2259,2362 2477,2254 3069,2364 3233,2243 3545,2368 3921,2270 3917,2064 480,2239"/>
+                <Baseline points="506,2310 675,2302 845,2296 1014,2289 1184,2286 1354,2282 1523,2278 1693,2276 1862,2274 2032,2272 2202,2270 2371,2268 2541,2266 2710,2264 2880,2261 3050,2257 3219,2254 3389,2248 3558,2240 3728,2232 3898,2224"/>
+                <TextEquiv>
+                    <Unicode>Der Jumbe ist zwar erst 7 Jahre hier, behauptete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1584518459160_93" custom="readingOrder {index:13;}">
+                <Coords points="481,2371 2005,2277 2257,2361 2450,2248 2575,2293 2575,2492 482,2479"/>
+                <Baseline points="502,2444 656,2442 810,2442 965,2442 1119,2442 1274,2442 1428,2442 1582,2442 1737,2442 1891,2442 2046,2442 2200,2442 2354,2442 2509,2442 2575,2442"/>
+                <TextEquiv>
+                    <Unicode>aber nach einigem Besinnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1584518447723_86" custom="readingOrder {index:14;}">
+                <Coords points="2431,2299 2521,2295 2591,2313 2668,2325 2691,2317 2705,2365 2671,2375 2581,2362 2515,2345 2433,2349"/>
+                <Baseline points="2433,2344 2516,2340 2582,2357 2671,2370 2704,2360"/>
+                <TextEquiv>
+                    <Unicode>sich an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1584518459158_92" custom="readingOrder {index:15;}">
+                <Coords points="2575,2293 2729,2349 3957,2320 3957,2482 3841,2500 2575,2492"/>
+                <Baseline points="2575,2442 2663,2442 2818,2440 2972,2440 3126,2438 3281,2438 3435,2434 3590,2432 3742,2411 3875,2407 3935,2411"/>
+                <TextEquiv>
+                    <Unicode>„bana Fromm“ noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:16;}">
+                <Coords points="492,2667 1935,2565 2084,2664 3032,2579 3936,2702 3936,2477 3455,2440 492,2487"/>
+                <Baseline points="513,2603 649,2591 733,2583 846,2595 942,2583 1094,2579 1182,2571 1316,2578 1445,2574 1575,2571 1705,2570 1835,2570 1965,2570 2095,2572 2225,2574 2355,2578 2485,2580 2615,2584 2744,2586 2874,2588 3004,2590 3134,2590 3264,2590 3394,2590 3524,2588 3654,2583 3784,2578 3914,2568"/>
+                <TextEquiv>
+                    <Unicode>zu erinnern u. kennzeichnete ihn mit. „kazi ya</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:17;}">
+                <Coords points="462,2807 660,2778 912,2871 1307,2773 1708,2878 2287,2784 2693,2857 2691,2668 2506,2598 1927,2688 1701,2599 461,2690"/>
+                <Baseline points="484,2788 593,2779 702,2772 811,2766 921,2762 1030,2760 1139,2758 1249,2758 1358,2758 1467,2758 1577,2760 1686,2762 1795,2762 1904,2764 2014,2764 2123,2764 2232,2762 2342,2760 2451,2756 2560,2752 2670,2744"/>
+                <TextEquiv>
+                    <Unicode>mawe (Steinarbeit), d. h. Geologe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582879841050_794" custom="readingOrder {index:18;}">
+                <Coords points="685,3075 2033,3156 2586,3034 3081,3142 3234,3034 4066,3061 4066,2863 3139,2962 2987,2872 684,2904"/>
+                <Baseline points="706,3044 751,3044 796,3044 842,3044 887,3044 933,3044 978,3044 1023,3043 1069,3042 1114,3042 1160,3040 1205,3040 1250,3038 1296,3037 1341,3036 1387,3034 1432,3033 1477,3031 1523,3030 1568,3027 1614,3024 2080,3038 2178,3034 2276,3032 2374,3030 2472,3030 2570,3030 2668,3030 2766,3032 2864,3034 2962,3036 3061,3036 3159,3038 3257,3040 3355,3041 3453,3042 3551,3042 3649,3040 3747,3040 3845,3036 3943,3032 4042,3028"/>
+                <TextEquiv>
+                    <Unicode>3. Mai. Aufbruch nach 6. Herrliche Vegetationsbilder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="493,3259 3964,3231 3904,3034 3163,3145 492,3115"/>
+                <Baseline points="517,3210 629,3214 753,3214 793,3230 936,3224 1086,3224 1236,3226 1386,3224 1536,3224 1687,3222 1837,3220 1987,3218 2137,3214 2287,3211 2438,3208 2588,3206 2738,3202 2888,3200 3038,3198 3189,3196 3339,3194 3489,3194 3639,3194 3789,3196 3940,3198"/>
+                <TextEquiv>
+                    <Unicode>an d. Barra-barra. Granite u. Gneise wechseln bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="533,3462 3982,3437 3980,3280 3836,3232 532,3291"/>
+                <Baseline points="553,3387 661,3387 789,3387 874,3387 922,3380 1073,3384 1225,3386 1377,3388 1529,3390 1681,3390 1832,3390 1984,3390 2136,3388 2288,3388 2440,3386 2591,3382 2743,3380 2895,3378 3047,3374 3199,3372 3350,3368 3502,3366 3654,3362 3806,3358 3958,3356"/>
+                <TextEquiv>
+                    <Unicode>in d. Fuß des Namyura, nur auf d. letzten, einander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="457,3613 1644,3562 1848,3658 2174,3545 2814,3661 3127,3539 3960,3589 4066,3443 455,3487"/>
+                <Baseline points="477,3575 621,3567 724,3576 889,3572 1055,3570 1221,3568 1387,3566 1553,3564 1719,3562 1885,3560 2051,3558 2217,3556 2383,3554 2548,3551 2714,3548 2880,3546 3046,3542 3212,3540 3378,3536 3544,3530 3710,3525 3876,3519 4042,3512"/>
+                <TextEquiv>
+                    <Unicode>schnell folgenden Hügelrücken einige Blöcke, an deren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="471,3799 2565,3710 3323,3820 3963,3649 3672,3529 2816,3660 2018,3560 1809,3663 468,3624"/>
+                <Baseline points="494,3740 666,3736 838,3734 1011,3732 1183,3732 1356,3730 1528,3730 1700,3730 1873,3728 2045,3728 2218,3726 2390,3722 2562,3720 2735,3715 2907,3710 3080,3703 3252,3696 3424,3686 3597,3675 3769,3661 3942,3646"/>
+                <TextEquiv>
+                    <Unicode>Konglomeratnatur ich nur wegen der Kristallinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="461,3956 1168,4047 1917,3880 3865,3992 4067,3927 4065,3756 459,3812"/>
+                <Baseline points="485,3928 537,3924 621,3928 721,3908 802,3902 964,3906 1126,3908 1288,3909 1450,3909 1612,3908 1774,3906 1936,3904 2098,3901 2260,3898 2422,3894 2584,3891 2746,3888 2908,3885 3070,3882 3232,3880 3394,3880 3556,3880 3718,3880 3880,3882 4042,3886"/>
+                <TextEquiv>
+                    <Unicode>Umgebung zweifelte; vielleicht verbackener Überflächen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="439,4132 2079,4097 2841,4224 3518,4087 4046,4207 4043,3987 3755,3954 2425,4049 2249,3938 1607,4080 437,3984"/>
+                <Baseline points="461,4116 589,4112 672,4122 839,4122 1007,4122 1174,4122 1342,4122 1510,4122 1677,4120 1845,4118 2012,4116 2180,4114 2348,4112 2515,4110 2683,4108 2850,4104 3018,4102 3186,4099 3353,4096 3521,4094 3688,4091 3856,4089 4024,4086"/>
+                <TextEquiv>
+                    <Unicode>schutt, auch ein alte Baumwurzel war bereits zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582879892512_807" custom="readingOrder {index:25;}">
+                <Coords points="519,4346 1033,4460 1818,4291 2989,4428 3234,4285 4045,4355 4043,4238 3673,4108 2892,4245 1861,4133 1611,4267 1429,4148 1153,4292 901,4300 750,4153 518,4251"/>
+                <Baseline points="542,4308 570,4308 598,4308 626,4312 988,4344 1135,4336 1283,4328 1430,4322 1578,4316 1725,4312 1873,4306 2020,4302 2168,4300 2315,4298 2463,4296 2610,4294 2758,4292 2905,4292 3053,4290 3200,4290 3348,4290 3495,4290 3643,4290 3790,4290 3938,4290 4023,4308"/>
+                <TextEquiv>
+                    <Unicode>„Stein“ geworden. Zuletzt auch vereinzelte Blöcke von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582879910857_816" custom="readingOrder {index:26;}">
+                <Coords points="478,4591 1390,4570 1646,4706 1943,4548 2306,4640 2589,4513 3722,4607 4016,4539 4012,4395 2987,4429 2434,4289 1086,4495 469,4335"/>
+                <Baseline points="498,4568 523,4568 549,4570 575,4570 601,4570 626,4570 652,4568 678,4568 704,4568 730,4568 755,4568 781,4568 807,4568 833,4568 858,4568 884,4568 910,4569 936,4571 962,4572 1248,4580 1273,4577 1299,4575 1325,4573 1351,4572 1376,4572 1402,4574 1428,4574 1454,4574 1479,4574 1505,4576 1531,4576 1557,4576 1582,4576 1608,4574 1634,4572 1660,4568 1700,4546 1725,4540 1750,4545 1776,4554 1756,4540 1863,4538 1970,4534 2077,4532 2184,4528 2292,4524 2399,4520 2506,4517 2613,4513 2720,4509 2828,4506 2935,4502 3042,4498 3149,4496 3256,4492 3364,4490 3471,4488 3578,4486 3685,4484 3792,4482 3900,4482 3995,4509"/>
+                <TextEquiv>
+                    <Unicode>abweichendem Habitus (roter u. dunklerer Quarzpor„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582879917920_821" custom="readingOrder {index:27;}">
+                <Coords points="506,4906 4017,4815 3940,4524 2994,4680 1976,4585 1704,4715 1221,4620 948,4733 672,4580 502,4632"/>
+                <Baseline points="525,4749 709,4741 782,4764 894,4774 1007,4780 1120,4787 1233,4792 1346,4794 1458,4796 1571,4798 1684,4798 1797,4796 1910,4794 2022,4792 2135,4789 2248,4786 2361,4782 2474,4779 2586,4775 2699,4771 2812,4768 2925,4764 3038,4762 3174,4732 3215,4731 3256,4730 3297,4728 3338,4728 3379,4728 3420,4728 3461,4730 3502,4730 3543,4730 3584,4730 3625,4730 3666,4730 3707,4730 3748,4730 3789,4728 3830,4725 3871,4722 3912,4718 3953,4714 3994,4708 4087,4693"/>
+                <TextEquiv>
+                    <Unicode>phyr?) Beim Anstieg beobachtete ich dann, soweit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>17&#xD;
+Das Gestein dieses offenbaren Erosionsrestes, der im N. u. W.&#xD;
+ziemlich steil abfällt, ist Granit od. Gneiß, in denen d.&#xD;
+Quarz fast Alleinherrscher ist. Das grüne Gestein nicht&#xD;
+gesehen. Oben 9h, im Lager 10h. Abschiedstrunk mit&#xD;
+Hrn. Sattler, ab 10¾, von ihm eine Strecke begleitet.&#xD;
+12¼ im Lager in Ntondo. Nachm. wieder starker&#xD;
+Regen. Zum ersten Mal allein in schwarzer Um„&#xD;
+gebung, kam m. d. Sprache recht gut zurecht. Der&#xD;
+Jumbe „schenkte“ Hühner, Eier u. Mehl, die man stets&#xD;
+zu bezahlen hat u. nicht abweisen kann. Infolge„&#xD;
+dessen Geldschwierigkeit, Brief an Sattler geschickt.&#xD;
+Der Jumbe ist zwar erst 7 Jahre hier, behauptete&#xD;
+aber nach einigem Besinnen&#xD;
+sich an&#xD;
+„bana Fromm“ noch&#xD;
+zu erinnern u. kennzeichnete ihn mit. „kazi ya&#xD;
+mawe (Steinarbeit), d. h. Geologe.&#xD;
+3. Mai. Aufbruch nach 6. Herrliche Vegetationsbilder&#xD;
+an d. Barra-barra. Granite u. Gneise wechseln bis&#xD;
+in d. Fuß des Namyura, nur auf d. letzten, einander&#xD;
+schnell folgenden Hügelrücken einige Blöcke, an deren&#xD;
+Konglomeratnatur ich nur wegen der Kristallinen&#xD;
+Umgebung zweifelte; vielleicht verbackener Überflächen„&#xD;
+schutt, auch ein alte Baumwurzel war bereits zu&#xD;
+„Stein“ geworden. Zuletzt auch vereinzelte Blöcke von&#xD;
+abweichendem Habitus (roter u. dunklerer Quarzpor„&#xD;
+phyr?) Beim Anstieg beobachtete ich dann, soweit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

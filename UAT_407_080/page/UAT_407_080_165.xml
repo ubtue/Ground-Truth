@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:48:01.200+02:00</Created>
+        <LastChange>2020-03-31T09:06:14.375+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550867" pageNr="165" tsid="26739136" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=DGDZRGFNKVFFKIEKXOHONCAJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZOWQSDNZKMJSNBHMMUUUEZOE" imageId="4551745"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_165.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255579884" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="453,233 453,4923 4115,4923 4115,233"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3688,304 3745,316 3796,292 3856,336 3892,324 3913,339 3963,328 3970,191 3894,200 3842,179 3777,225 3751,219 3732,231 3719,217 3692,220"/>
+                <Baseline points="3711,298 3736,297 3762,296 3787,296 3813,298 3838,299 3864,301 3889,304 3915,306 3941,310"/>
+                <TextEquiv>
+                    <Unicode>161</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;} textStyle {offset:49; length:2;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="442,622 1115,486 2297,548 2646,428 2844,535 3783,500 3999,433 3997,317 2664,237 1995,381 1711,236 1394,386 436,386"/>
+                <Baseline points="461,496 636,493 812,488 988,484 1164,480 1339,475 1515,469 1691,464 1867,459 2042,454 2218,449 2394,444 2570,439 2745,435 2921,432 3097,429 3273,426 3448,425 3624,424 3800,425 3976,426"/>
+                <TextEquiv>
+                    <Unicode>fast war es im Schatten des kühlen Hauses beinah zu kühl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="574,721 2217,730 2503,594 2791,708 3264,581 3908,677 4063,646 4058,433 571,610"/>
+                <Baseline points="593,657 765,651 937,645 1109,639 1281,634 1454,628 1626,623 1798,619 1970,614 2142,609 2315,605 2487,601 2659,597 2831,594 3003,591 3176,587 3348,584 3520,582 3692,579 3864,576 4037,574"/>
+                <TextEquiv>
+                    <Unicode>Auf einem Abendspaziergang wollte ich einen andern Weg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="499,905 1008,799 4062,782 4099,639 2944,591 2774,716 771,765 493,674"/>
+                <Baseline points="517,822 695,816 873,810 1051,804 1229,799 1407,793 1585,788 1763,782 1941,778 2119,773 2297,769 2475,765 2653,761 2831,757 3009,753 3187,750 3365,746 3543,743 3721,740 3899,738 4077,735"/>
+                <TextEquiv>
+                    <Unicode>gehen u. kam in ein menschenleeres Tal. Die Dunkel„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="432,1128 875,1017 1656,1094 2350,927 3887,951 3953,749 834,836 428,959"/>
+                <Baseline points="453,1012 627,998 801,986 975,975 1149,965 1324,956 1498,949 1672,942 1846,936 2020,931 2195,927 2369,923 2543,920 2717,918 2891,915 3066,913 3240,911 3414,909 3588,907 3762,904 3937,902"/>
+                <TextEquiv>
+                    <Unicode>heit stürzte förmlich herein u. nur ein Dauerlauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="482,1316 1309,1153 1536,1264 2029,1127 2204,1245 3301,1065 4017,1134 4011,987 3731,914 474,1107"/>
+                <Baseline points="499,1187 673,1183 848,1177 1023,1170 1197,1162 1372,1154 1547,1145 1721,1136 1896,1126 2071,1117 2246,1108 2420,1099 2595,1091 2770,1083 2944,1077 3119,1071 3294,1066 3468,1063 3643,1062 3818,1063 3993,1065"/>
+                <TextEquiv>
+                    <Unicode>auf gleichem Wege zurück schützte mich vor einer Nacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="436,1408 2992,1272 3664,1357 3977,1286 3972,1157 3185,1082 2238,1250 2024,1129 1740,1270 1299,1154 1118,1300 432,1306"/>
+                <Baseline points="457,1375 631,1366 806,1359 981,1350 1156,1342 1331,1334 1505,1328 1680,1320 1855,1313 2030,1306 2205,1299 2379,1293 2554,1286 2729,1279 2904,1273 3079,1265 3253,1258 3428,1251 3603,1244 3778,1236 3953,1229"/>
+                <TextEquiv>
+                    <Unicode>im Freien Nun war mir warm. Die Leute gehen hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="460,1573 659,1534 788,1636 993,1508 1780,1599 2070,1499 2363,1577 3414,1461 3410,1359 3015,1271 2609,1385 2437,1306 2143,1411 1894,1327 1359,1419 1164,1323 456,1448"/>
+                <Baseline points="483,1528 628,1523 773,1517 919,1512 1064,1507 1210,1502 1355,1496 1500,1492 1646,1487 1791,1482 1937,1477 2082,1471 2227,1466 2373,1460 2518,1455 2664,1448 2809,1442 2954,1436 3100,1429 3245,1422 3391,1414"/>
+                <TextEquiv>
+                    <Unicode>allenthalben öffentlich mit Pfeil u. Bogen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="601,1766 3473,1741 3899,1707 3897,1560 3038,1597 2800,1486 2260,1647 1919,1524 1512,1634 993,1509 777,1638 597,1534"/>
+                <Baseline points="623,1714 785,1709 948,1705 1110,1701 1273,1697 1436,1694 1598,1692 1761,1689 1923,1686 2086,1684 2249,1682 2411,1680 2574,1677 2736,1675 2899,1672 3062,1669 3224,1666 3387,1662 3549,1657 3712,1653 3875,1647"/>
+                <TextEquiv>
+                    <Unicode>9. Marsch nach Matschewa. Erst ein Seitental aufwärts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="532,1923 1029,1861 1463,1978 1982,1849 2220,1974 2325,1874 3251,1845 3729,1943 3875,1901 3872,1727 529,1781"/>
+                <Baseline points="553,1886 718,1879 883,1873 1048,1867 1213,1862 1378,1858 1543,1854 1708,1851 1873,1848 2038,1845 2203,1842 2368,1840 2533,1838 2698,1836 2863,1834 3028,1833 3193,1831 3358,1829 3523,1827 3688,1824 3853,1822"/>
+                <TextEquiv>
+                    <Unicode>bis zur Wasserscheide, dann ständig abwärts, z. T. recht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="521,2158 697,2060 1589,2145 1844,2001 2238,2100 2445,2002 4000,2037 3997,1913 2268,1846 1710,1964 1588,1869 1452,1983 516,1922"/>
+                <Baseline points="541,2049 712,2044 884,2039 1056,2034 1227,2028 1399,2023 1571,2018 1742,2013 1914,2009 2086,2004 2258,2000 2429,1996 2601,1993 2773,1990 2944,1987 3116,1985 3288,1984 3459,1983 3631,1983 3803,1984 3975,1985"/>
+                <TextEquiv>
+                    <Unicode>steil. Ein gewaltiger Weg. Ein Jumbe zeigte mir einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="523,2221 801,2327 1208,2194 1611,2302 1880,2186 2078,2302 2277,2196 2483,2290 2615,2194 2844,2279 3804,2207 3800,2020 2818,2119 1846,1999 1555,2152 1215,2060 847,2161 653,2049 522,2154"/>
+                <Baseline points="546,2212 707,2210 869,2207 1031,2205 1192,2202 1354,2198 1516,2195 1677,2191 1839,2188 2001,2184 2163,2180 2324,2177 2486,2173 2648,2170 2809,2167 2971,2164 3133,2162 3294,2160 3456,2159 3618,2158 3780,2158"/>
+                <TextEquiv>
+                    <Unicode>Strauch, aus dem sie ihr Pfeilgift machen, er nannte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="530,2510 853,2407 1180,2499 1444,2356 2278,2444 2615,2349 2817,2456 2975,2347 3893,2380 3891,2233 2480,2289 2278,2199 2084,2309 1949,2187 781,2350 525,2230"/>
+                <Baseline points="548,2397 714,2391 880,2385 1046,2380 1212,2374 1378,2369 1544,2364 1710,2361 1876,2356 2042,2353 2208,2350 2374,2346 2540,2344 2706,2342 2872,2340 3038,2339 3204,2338 3370,2338 3536,2338 3702,2339 3869,2340"/>
+                <TextEquiv>
+                    <Unicode>ihn mchungu, den bittern. Schöne Gebirgsbilder, doch als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="528,2604 1049,2639 1319,2527 1481,2644 2113,2633 2690,2525 3489,2613 3914,2507 3912,2409 2246,2355 526,2510"/>
+                <Baseline points="551,2558 718,2551 885,2545 1052,2540 1219,2535 1386,2531 1553,2528 1720,2525 1887,2523 2054,2521 2222,2519 2389,2516 2556,2514 2723,2512 2890,2510 3057,2507 3224,2504 3391,2500 3558,2496 3725,2491 3893,2484"/>
+                <TextEquiv>
+                    <Unicode>der Weg kein Ende nahm, verlor er an Reiz. Ich war</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="563,2837 1823,2834 2173,2691 4088,2764 4085,2541 560,2646"/>
+                <Baseline points="585,2719 758,2717 932,2714 1106,2711 1280,2707 1454,2703 1628,2698 1802,2694 1976,2690 2150,2686 2324,2682 2497,2679 2671,2677 2845,2675 3019,2673 3193,2673 3367,2674 3541,2675 3715,2678 3889,2682 4063,2688"/>
+                <TextEquiv>
+                    <Unicode>zuletzt ganz auffällig matt. Bötzow setzte mir „Weißbier“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="545,2940 2038,2992 3157,2874 3475,2979 3919,2884 3915,2742 2998,2722 2862,2818 2023,2721 1532,2870 884,2768 543,2855"/>
+                <Baseline points="567,2916 733,2917 900,2917 1066,2915 1233,2913 1399,2909 1566,2905 1732,2900 1899,2894 2065,2889 2232,2884 2398,2879 2565,2874 2731,2869 2898,2865 3064,2862 3231,2860 3397,2860 3564,2860 3730,2863 3897,2867"/>
+                <TextEquiv>
+                    <Unicode>(Sekt) vor, das in der Tat gute Dienste tat. Das imposante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="601,3201 1787,3070 2016,3181 2676,3027 3462,3133 3981,3063 3978,2916 596,2987"/>
+                <Baseline points="622,3094 788,3089 955,3083 1122,3078 1289,3071 1456,3065 1622,3059 1789,3052 1956,3047 2123,3041 2290,3036 2456,3031 2623,3027 2790,3023 2957,3021 3124,3019 3290,3019 3457,3019 3624,3022 3791,3025 3958,3029"/>
+                <TextEquiv>
+                    <Unicode>geschmackvolle u. mit sehr reichen Mitteln ausgestattete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="557,3364 1133,3254 1496,3358 1769,3210 2199,3340 2775,3199 3708,3314 4027,3241 4024,3116 2750,3039 554,3248"/>
+                <Baseline points="578,3281 749,3268 920,3256 1091,3246 1262,3236 1434,3228 1605,3220 1776,3214 1947,3208 2118,3203 2290,3199 2461,3197 2632,3195 2803,3194 2974,3193 3146,3194 3317,3196 3488,3198 3659,3202 3830,3206 4002,3211"/>
+                <TextEquiv>
+                    <Unicode>Gebäude liegt schön an höchster Stelle der Gummipflan„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;} gap {offset:30; length:0;}">
+                <Coords points="568,3549 1251,3417 3789,3433 3786,3313 3620,3250 3243,3317 2778,3203 2206,3337 564,3371"/>
+                <Baseline points="589,3440 747,3435 906,3430 1065,3426 1224,3420 1383,3415 1541,3409 1700,3403 1859,3398 2018,3393 2177,3389 2335,3384 2494,3381 2653,3377 2812,3374 2971,3372 3129,3371 3288,3371 3447,3372 3606,3374 3765,3376"/>
+                <TextEquiv>
+                    <Unicode>zung mit den Blick auf einige  nahe gewaltige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="580,3651 2906,3549 3278,3655 3596,3539 3772,3670 3867,3468 1493,3428 1259,3534 999,3426 578,3544"/>
+                <Baseline points="603,3598 765,3595 927,3593 1089,3591 1252,3588 1414,3586 1576,3583 1738,3581 1901,3578 2063,3576 2225,3574 2387,3571 2550,3569 2712,3566 2874,3564 3036,3561 3199,3559 3361,3557 3523,3554 3685,3552 3848,3550"/>
+                <TextEquiv>
+                    <Unicode>Bergspitzen, die steil aus der Ebene aufsteigen. Nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="575,3823 3890,3734 3888,3640 2934,3568 2157,3697 1920,3595 1454,3687 1314,3574 867,3720 572,3649"/>
+                <Baseline points="595,3761 758,3764 922,3765 1085,3765 1249,3764 1412,3761 1576,3758 1739,3754 1903,3750 2066,3745 2230,3741 2394,3736 2557,3732 2721,3728 2884,3725 3048,3722 3211,3720 3375,3720 3538,3721 3702,3723 3866,3726"/>
+                <TextEquiv>
+                    <Unicode>d. andern Seite hin beginnt bei Sümpfen die breite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;} gap {offset:14; length:0;}">
+                <Coords points="540,3947 1529,4015 1737,3888 2037,4023 2245,3887 3901,3907 3837,3783 3080,3748 2854,3844 1994,3738 539,3826"/>
+                <Baseline points="564,3929 729,3925 895,3921 1061,3917 1227,3914 1392,3910 1558,3907 1724,3904 1890,3902 2055,3900 2221,3898 2387,3896 2553,3894 2718,3893 2884,3892 3050,3891 3216,3890 3381,3890 3547,3890 3713,3890 3879,3890"/>
+                <TextEquiv>
+                    <Unicode>Senke, welche  Ost- u. West-Usambara trennt. als un„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="599,4116 3266,4167 3969,4125 4021,3946 598,3992"/>
+                <Baseline points="621,4088 789,4081 958,4075 1127,4070 1296,4065 1465,4062 1634,4059 1802,4057 1971,4055 2140,4053 2309,4052 2478,4052 2647,4051 2816,4051 2984,4051 3153,4050 3322,4050 3491,4050 3660,4049 3829,4048 3998,4047"/>
+                <TextEquiv>
+                    <Unicode>deutliches Tal. Auf einem Spaziergang Bogenschießen mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:23;}">
+                <Coords points="534,4335 1290,4263 1461,4372 1601,4249 2322,4226 3704,4308 3916,4250 3914,4099 3100,4181 2938,4081 2749,4178 2560,4075 2028,4187 1777,4103 929,4226 530,4108"/>
+                <Baseline points="555,4273 721,4270 888,4265 1055,4262 1222,4257 1389,4253 1556,4249 1723,4245 1890,4241 2057,4236 2224,4233 2390,4229 2557,4226 2724,4223 2891,4221 3058,4219 3225,4217 3392,4217 3559,4217 3726,4217 3893,4219"/>
+                <TextEquiv>
+                    <Unicode>Kindern veranstaltet. Die Künste waren nicht groß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:24;}">
+                <Coords points="571,4512 2696,4376 3798,4488 3915,4294 567,4316"/>
+                <Baseline points="593,4431 758,4428 923,4424 1088,4420 1253,4416 1418,4412 1583,4408 1748,4403 1913,4399 2078,4395 2243,4391 2408,4387 2573,4383 2738,4380 2903,4377 3068,4375 3233,4373 3398,4372 3563,4372 3728,4373 3894,4374"/>
+                <TextEquiv>
+                    <Unicode>Auch Bötzow's Fahrrad benutzt, aber in d. Tropen doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:25;}">
+                <Coords points="549,4662 1791,4666 2100,4528 2245,4646 2683,4519 2850,4624 2995,4528 4140,4556 4138,4440 3901,4377 547,4528"/>
+                <Baseline points="571,4571 748,4566 925,4561 1102,4555 1279,4550 1457,4545 1634,4539 1811,4535 1988,4530 2165,4526 2343,4522 2520,4519 2697,4516 2874,4515 3051,4514 3229,4514 3406,4515 3583,4517 3760,4520 3937,4525 4115,4530"/>
+                <TextEquiv>
+                    <Unicode>ein zweifelhafter Genuß. Sehr nett aufgenommen, leider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:26;}">
+                <Coords points="544,4772 3807,4723 3745,4583 3013,4527 542,4688"/>
+                <Baseline points="563,4730 732,4728 901,4724 1071,4719 1240,4714 1410,4709 1579,4702 1748,4697 1918,4690 2087,4684 2257,4679 2426,4673 2596,4668 2765,4664 2934,4660 3104,4657 3273,4656 3443,4655 3612,4656 3782,4658"/>
+                <TextEquiv>
+                    <Unicode>wieder arge Verdauungsstörungen in d. Nacht vor dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:27;}">
+                <Coords points="518,4956 554,4960 624,4906 749,4935 831,4996 937,4959 973,4980 1030,4971 1027,4726 929,4745 841,4813 756,4806 675,4744 600,4786 515,4760"/>
+                <Baseline points="539,4886 564,4883 590,4881 616,4880 642,4878 668,4877 694,4876 720,4876 746,4875 772,4875 797,4875 823,4875 849,4875 875,4875 901,4875 927,4876 953,4876 979,4876 1005,4876"/>
+                <TextEquiv>
+                    <Unicode>Abmarsch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>161&#xD;
+fast war es im Schatten des kühlen Hauses beinah zu kühl.&#xD;
+Auf einem Abendspaziergang wollte ich einen andern Weg&#xD;
+gehen u. kam in ein menschenleeres Tal. Die Dunkel„&#xD;
+heit stürzte förmlich herein u. nur ein Dauerlauf&#xD;
+auf gleichem Wege zurück schützte mich vor einer Nacht&#xD;
+im Freien Nun war mir warm. Die Leute gehen hier&#xD;
+allenthalben öffentlich mit Pfeil u. Bogen.&#xD;
+9. Marsch nach Matschewa. Erst ein Seitental aufwärts&#xD;
+bis zur Wasserscheide, dann ständig abwärts, z. T. recht&#xD;
+steil. Ein gewaltiger Weg. Ein Jumbe zeigte mir einen&#xD;
+Strauch, aus dem sie ihr Pfeilgift machen, er nannte&#xD;
+ihn mchungu, den bittern. Schöne Gebirgsbilder, doch als&#xD;
+der Weg kein Ende nahm, verlor er an Reiz. Ich war&#xD;
+zuletzt ganz auffällig matt. Bötzow setzte mir „Weißbier“&#xD;
+(Sekt) vor, das in der Tat gute Dienste tat. Das imposante&#xD;
+geschmackvolle u. mit sehr reichen Mitteln ausgestattete&#xD;
+Gebäude liegt schön an höchster Stelle der Gummipflan„&#xD;
+zung mit den Blick auf einige  nahe gewaltige&#xD;
+Bergspitzen, die steil aus der Ebene aufsteigen. Nach&#xD;
+d. andern Seite hin beginnt bei Sümpfen die breite&#xD;
+Senke, welche  Ost- u. West-Usambara trennt. als un„&#xD;
+deutliches Tal. Auf einem Spaziergang Bogenschießen mit&#xD;
+Kindern veranstaltet. Die Künste waren nicht groß.&#xD;
+Auch Bötzow's Fahrrad benutzt, aber in d. Tropen doch&#xD;
+ein zweifelhafter Genuß. Sehr nett aufgenommen, leider&#xD;
+wieder arge Verdauungsstörungen in d. Nacht vor dem&#xD;
+Abmarsch.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

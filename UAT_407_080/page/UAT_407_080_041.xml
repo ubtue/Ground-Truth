@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:54.960+02:00</Created>
+        <LastChange>2020-03-31T11:23:38.576+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550739" pageNr="41" tsid="26749286" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=UFFQECXBSBBRJHOTENTQAQJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OTTUMVBGUQEUNSFMUISTTRYI" imageId="4551617"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_041.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255542697" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="425,245 425,5015 4115,5015 4115,245"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3901,409 3923,407 3943,424 3951,415 3974,418 3989,431 4021,429 4010,243 3974,249 3960,236 3951,242 3892,240"/>
+                <Baseline points="3920,324 3956,317 3992,320"/>
+                <TextEquiv>
+                    <Unicode>37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="404,430 3849,391 3754,219 1200,334 401,230"/>
+                <Baseline points="425,399 594,399 764,397 934,395 1104,392 1274,389 1444,384 1614,380 1784,376 1954,371 2124,366 2293,362 2463,358 2633,355 2803,352 2973,350 3143,348 3313,348 3483,349 3653,352 3823,356"/>
+                <TextEquiv>
+                    <Unicode>lich. In Nanundo freundlichst aufgenommen u. bewirtet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="416,558 3806,564 3803,396 3625,381 413,416"/>
+                <Baseline points="438,560 605,553 772,545 939,540 1106,535 1273,530 1440,526 1608,523 1775,520 1942,517 2109,515 2276,512 2443,510 2610,508 2778,506 2945,504 3112,502 3279,499 3446,497 3613,493 3781,490"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Kl. Spaziergang an d. Mbenkuru. Rings um d. Dorf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="411,767 2412,751 2615,642 2772,758 3715,744 3960,716 3956,516 409,662"/>
+                <Baseline points="432,722 607,712 782,703 957,694 1132,687 1308,679 1483,672 1658,667 1833,660 2008,656 2184,652 2359,649 2534,646 2709,645 2884,644 3060,644 3235,645 3410,646 3585,649 3760,652 3936,657"/>
+                <TextEquiv>
+                    <Unicode>wurde gebrannt, d. Asche flog auf d. Tisch, d. Rauch beizte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="404,899 4095,868 4092,736 3599,667 401,758"/>
+                <Baseline points="425,877 607,870 789,863 971,856 1153,848 1336,841 1518,834 1700,828 1882,822 2064,817 2247,812 2429,808 2611,805 2793,803 2975,802 3158,802 3340,803 3522,806 3704,810 3886,815 4069,823"/>
+                <TextEquiv>
+                    <Unicode>d. Augen, aber d. Häuser u. Bäume, ja stellenweis d. trocke„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="439,1075 3020,953 3925,1065 4076,875 3040,812 1480,956 881,860 437,988"/>
+                <Baseline points="459,1025 638,1023 818,1019 998,1015 1178,1010 1357,1004 1537,997 1717,991 1897,984 2076,977 2256,972 2436,966 2616,961 2795,957 2975,954 3155,952 3335,952 3514,954 3694,957 3874,962 4054,970"/>
+                <TextEquiv>
+                    <Unicode>ne Gras blieben von der rasenden Glut verschont, selbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="436,1214 4071,1131 4069,1013 2726,1087 2410,974 2202,1082 434,1072"/>
+                <Baseline points="458,1184 637,1177 816,1171 996,1164 1175,1159 1355,1153 1534,1148 1714,1143 1893,1139 2073,1136 2252,1132 2431,1129 2611,1126 2790,1124 2970,1123 3149,1121 3329,1120 3508,1120 3688,1120 3867,1121 4047,1122"/>
+                <TextEquiv>
+                    <Unicode>in die Schamben leckte das Feuer, ohne Schaden zu tun.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;} textStyle {offset:4; length:1;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="474,1352 3900,1313 3896,1162 3641,1141 470,1210"/>
+                <Baseline points="498,1325 675,1323 853,1320 1031,1316 1209,1312 1387,1307 1565,1301 1742,1297 1920,1290 2098,1285 2276,1279 2454,1274 2632,1270 2809,1266 2987,1262 3165,1260 3343,1259 3521,1258 3699,1259 3877,1262"/>
+                <TextEquiv>
+                    <Unicode>Um 4h verabschiedet, um 6 zu Haus. Unterwegs durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="442,1575 4071,1421 4067,1284 437,1388"/>
+                <Baseline points="463,1486 642,1485 821,1483 1000,1479 1180,1474 1359,1469 1538,1462 1717,1454 1897,1447 2076,1440 2255,1433 2434,1426 2614,1420 2793,1415 2972,1411 3151,1408 3331,1407 3510,1408 3689,1410 3868,1415 4048,1422"/>
+                <TextEquiv>
+                    <Unicode>Aschenfelder, wo morgens noch Gras stand. Zum ersten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="404,1712 783,1751 1154,1636 2036,1716 2321,1644 2318,1553 2088,1472 1849,1566 1513,1457 1093,1596 891,1511 765,1578 681,1508 400,1589"/>
+                <Baseline points="426,1658 519,1654 612,1650 706,1646 799,1643 893,1640 986,1637 1080,1634 1173,1630 1267,1628 1360,1625 1453,1623 1547,1621 1640,1618 1734,1616 1827,1614 1921,1612 2014,1610 2108,1608 2201,1605 2295,1604"/>
+                <TextEquiv>
+                    <Unicode>Mal Affen im Baum gesehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="647,1868 791,1960 1161,1830 1930,1917 2118,1793 3996,1811 3992,1688 3512,1638 1666,1774 902,1678 645,1791"/>
+                <Baseline points="668,1850 833,1847 998,1842 1163,1837 1328,1831 1493,1825 1658,1818 1824,1812 1989,1806 2154,1799 2319,1793 2484,1787 2649,1782 2814,1777 2980,1773 3145,1769 3310,1767 3475,1766 3640,1765 3805,1767 3971,1769"/>
+                <TextEquiv>
+                    <Unicode>12 Juli: Vorm. auf Jagd mit unserm Jäger. Ngorombwe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="457,2131 1891,1949 3743,1985 4024,1935 4020,1812 450,1927"/>
+                <Baseline points="474,2028 650,2018 826,2008 1003,1999 1179,1989 1356,1980 1532,1971 1708,1962 1885,1954 2061,1945 2238,1939 2414,1932 2590,1926 2767,1921 2943,1917 3120,1914 3296,1911 3472,1911 3649,1911 3825,1913 4002,1916"/>
+                <TextEquiv>
+                    <Unicode>gesehen, aber verloren. D. Jäger zündet Feuer an, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="446,2272 1480,2114 1930,2207 2245,2090 2818,2173 3963,2061 2868,1929 441,2126"/>
+                <Baseline points="465,2187 638,2172 812,2157 986,2144 1159,2132 1333,2121 1507,2112 1680,2104 1854,2096 2028,2090 2202,2084 2375,2079 2549,2074 2723,2070 2896,2066 3070,2062 3244,2058 3417,2055 3591,2051 3765,2046 3939,2042"/>
+                <TextEquiv>
+                    <Unicode>gegen Mittag d. Arbeitsplätze u. d. Lager erreicht und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="440,2373 1880,2241 3382,2304 3581,2255 3575,2078 1838,2207 1593,2129 1087,2239 833,2157 436,2268"/>
+                <Baseline points="460,2330 623,2318 786,2307 949,2297 1112,2287 1275,2278 1438,2270 1601,2263 1764,2255 1927,2248 2091,2242 2254,2238 2417,2232 2580,2228 2743,2224 2906,2221 3069,2218 3232,2216 3395,2214 3559,2212"/>
+                <TextEquiv>
+                    <Unicode>am Tendaguru vorüber bis zur barrabarra zieht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="592,2484 1497,2425 1628,2530 1866,2404 2224,2502 2872,2359 3909,2432 4136,2279 588,2375"/>
+                <Baseline points="615,2452 790,2447 965,2440 1140,2434 1315,2427 1490,2420 1665,2413 1840,2406 2015,2399 2190,2392 2365,2386 2540,2379 2715,2374 2890,2369 3065,2364 3240,2360 3415,2358 3590,2356 3765,2355 3940,2355 4115,2357"/>
+                <TextEquiv>
+                    <Unicode>Abends allein auf d. Tendaguru, von wo d. abgebrannten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:15;}">
+                <Coords points="429,2615 4111,2590 4043,2423 3190,2383 426,2488"/>
+                <Baseline points="450,2594 631,2591 813,2587 995,2582 1177,2576 1358,2570 1540,2564 1722,2558 1904,2551 2085,2546 2267,2540 2449,2534 2631,2529 2812,2525 2994,2522 3176,2520 3358,2519 3539,2520 3721,2522 3903,2525 4085,2530"/>
+                <TextEquiv>
+                    <Unicode>Strecken in ihrer beträchtlichen Ausdehnung bequem zu sehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:16;}">
+                <Coords points="429,2777 2664,2676 3710,2768 4087,2730 4085,2589 427,2677"/>
+                <Baseline points="451,2739 631,2734 812,2730 992,2725 1173,2719 1354,2714 1534,2708 1715,2703 1895,2699 2076,2694 2257,2690 2437,2686 2618,2683 2798,2681 2979,2679 3160,2679 3340,2679 3521,2680 3701,2683 3882,2686 4063,2691"/>
+                <TextEquiv>
+                    <Unicode>Auch auf d. Gipfel ist heut abgebrannt worden, um d. Pavil„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582885155493_1642" custom="readingOrder {index:17;}">
+                <Coords points="411,2928 1091,2981 1596,2792 2507,2920 2632,2835 2790,2926 3075,2844 3072,2753 2496,2706 2271,2781 1967,2681 1419,2811 407,2809"/>
+                <Baseline points="433,2897 484,2896 535,2894 587,2892 638,2890 690,2888 741,2886 792,2883 844,2881 895,2879 947,2876 998,2874 1049,2872 1101,2870 1152,2868 1204,2866 1255,2864 1306,2863 1358,2862 1409,2861 1461,2861 1830,2840 1891,2838 1952,2836 2013,2835 2074,2834 2135,2833 2196,2832 2257,2831 2318,2831 2379,2830 2440,2830 2501,2829 2562,2829 2623,2828 2684,2828 2745,2827 2806,2827 2867,2826 2928,2826 2989,2825 3051,2825"/>
+                <TextEquiv>
+                    <Unicode>lon zu schützen. Abends Zahnschmerzen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:18;}">
+                <Coords points="621,3096 3897,3029 4097,3008 4093,2890 616,2960"/>
+                <Baseline points="644,3061 815,3051 986,3040 1158,3030 1329,3021 1500,3012 1672,3003 1843,2995 2014,2988 2186,2980 2357,2973 2528,2967 2700,2961 2871,2957 3042,2952 3214,2949 3385,2946 3556,2944 3728,2943 3899,2942 4071,2942"/>
+                <TextEquiv>
+                    <Unicode>13. Juli. Vorm. durch d. abgebrannten Strecken gegangen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:19;} textStyle {offset:11; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="463,3268 1313,3183 1476,3306 1667,3154 2162,3249 2615,3126 3830,3217 4061,3174 4055,2978 457,3081"/>
+                <Baseline points="485,3211 662,3206 840,3199 1017,3192 1195,3185 1373,3177 1550,3168 1728,3160 1905,3152 2083,3144 2261,3137 2438,3130 2616,3124 2793,3119 2971,3115 3149,3113 3326,3112 3504,3113 3681,3116 3859,3120 4037,3128"/>
+                <TextEquiv>
+                    <Unicode>dabei neue Foss Knochenfunde im Norden d. Berges.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:20;}">
+                <Coords points="515,3390 3504,3361 3951,3220 511,3267"/>
+                <Baseline points="539,3367 708,3358 878,3349 1047,3341 1217,3333 1387,3326 1556,3320 1726,3313 1895,3307 2065,3301 2235,3297 2404,3292 2574,3288 2743,3284 2913,3280 3083,3277 3252,3274 3422,3271 3591,3269 3761,3267 3931,3265"/>
+                <TextEquiv>
+                    <Unicode>Im Graben auf d. Nordseite finden sich Zähne, desgl. ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:21;}">
+                <Coords points="445,3531 690,3623 1100,3480 1691,3564 1965,3449 3757,3463 3828,3283 442,3449"/>
+                <Baseline points="470,3531 645,3517 821,3503 997,3492 1172,3481 1348,3471 1524,3462 1700,3455 1875,3448 2051,3441 2227,3436 2403,3430 2578,3426 2754,3422 2930,3419 3106,3415 3281,3412 3457,3409 3633,3406 3809,3404"/>
+                <TextEquiv>
+                    <Unicode>Bruchstück bei dem schönen Skelett, das immer voll„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:22;}">
+                <Coords points="454,3758 1466,3623 2581,3695 3068,3562 3717,3601 3795,3502 3587,3410 447,3589"/>
+                <Baseline points="473,3666 638,3660 803,3652 968,3646 1133,3639 1298,3631 1463,3624 1628,3617 1793,3610 1958,3602 2123,3596 2288,3589 2453,3582 2618,3576 2783,3571 2948,3565 3113,3560 3278,3556 3443,3552 3608,3549 3773,3547"/>
+                <TextEquiv>
+                    <Unicode>ständiger von unserm schwarzen Präparator Salim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:23;}">
+                <Coords points="426,3894 1927,3755 2536,3852 3070,3722 3929,3803 4074,3762 4069,3607 1916,3715 1390,3629 423,3789"/>
+                <Baseline points="447,3832 627,3818 807,3806 987,3795 1167,3786 1348,3776 1528,3768 1708,3761 1888,3755 2068,3749 2249,3744 2429,3740 2609,3737 2789,3733 2969,3731 3150,3728 3330,3726 3510,3724 3690,3723 3870,3721 4051,3720"/>
+                <TextEquiv>
+                    <Unicode>herausgearbeitet wird. Unser Jäger schießt ein Warzenschwein (Mbango)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:24;}">
+                <Coords points="664,4060 2021,3888 3460,3965 3954,3891 3951,3804 3100,3732 2725,3834 656,3846"/>
+                <Baseline points="684,3980 846,3966 1008,3954 1171,3942 1333,3932 1495,3923 1658,3914 1820,3907 1982,3900 2145,3894 2307,3888 2469,3883 2632,3878 2794,3873 2956,3869 3119,3865 3281,3861 3443,3856 3606,3852 3768,3847 3931,3842"/>
+                <TextEquiv>
+                    <Unicode>Lese seit einiger Zeit wieder m. hohem Genuß im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:25;}">
+                <Coords points="481,4180 1199,4118 1317,4213 1454,4112 1750,4090 2128,4184 2534,4080 2527,3934 2284,3890 1596,4024 946,3960 773,4072 637,3973 474,4016"/>
+                <Baseline points="500,4138 600,4135 700,4130 801,4126 901,4121 1002,4116 1102,4111 1203,4105 1303,4101 1404,4095 1504,4090 1604,4085 1705,4081 1805,4077 1906,4073 2006,4070 2107,4067 2207,4065 2308,4063 2408,4063 2509,4063"/>
+                <TextEquiv>
+                    <Unicode>Chamberlain (Grundl. XIX. Jahrh.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:26;}">
+                <Coords points="661,4332 1083,4393 2589,4212 2877,4319 3587,4290 3804,4258 3795,4035 656,4214"/>
+                <Baseline points="683,4301 837,4293 992,4285 1147,4277 1301,4269 1456,4262 1611,4255 1765,4247 1920,4239 2075,4233 2230,4226 2384,4219 2539,4213 2694,4207 2848,4202 3003,4197 3158,4192 3312,4188 3467,4184 3622,4180 3777,4178"/>
+                <TextEquiv>
+                    <Unicode>14. Juli. Dr. J. zu dem neuen Knochenfund geführt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:27;}">
+                <Coords points="495,4559 1853,4424 3948,4462 3939,4239 488,4377"/>
+                <Baseline points="515,4478 685,4474 855,4468 1025,4462 1195,4456 1366,4448 1536,4441 1706,4434 1876,4427 2046,4418 2217,4411 2387,4403 2557,4396 2727,4390 2897,4383 3068,4377 3238,4372 3408,4368 3578,4364 3748,4361 3919,4360"/>
+                <TextEquiv>
+                    <Unicode>Täglich morgens od. abends kl. Jagdausflüge ohne Erfolg, da doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:28;}">
+                <Coords points="470,4685 646,4749 771,4692 1101,4722 1189,4649 1474,4703 1601,4669 1590,4465 1412,4455 1247,4527 1168,4504 961,4560 846,4538 771,4597 463,4553"/>
+                <Baseline points="492,4646 546,4644 600,4643 654,4641 708,4638 762,4636 816,4633 870,4630 924,4627 978,4624 1032,4621 1086,4618 1140,4616 1194,4612 1248,4609 1302,4607 1356,4605 1410,4602 1464,4600 1518,4598 1573,4597"/>
+                <TextEquiv>
+                    <Unicode>noch viel Gras steht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:29;}">
+                <Coords points="664,4853 3890,4686 3416,4522 2871,4655 2502,4568 659,4748"/>
+                <Baseline points="685,4820 844,4811 1003,4803 1162,4795 1321,4786 1480,4777 1639,4768 1798,4759 1957,4750 2116,4741 2275,4732 2434,4724 2593,4715 2752,4707 2911,4701 3070,4693 3229,4687 3388,4681 3547,4676 3706,4671 3865,4668"/>
+                <TextEquiv>
+                    <Unicode>15. Juli. Auf einer Streife zw. d. Lager u. d. barrabarra an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:30;}">
+                <Coords points="463,5023 3968,4868 3961,4732 3622,4688 2980,4814 2506,4722 2269,4834 456,4882"/>
+                <Baseline points="482,4979 655,4972 828,4965 1001,4958 1174,4950 1347,4942 1520,4933 1694,4924 1867,4916 2040,4907 2213,4898 2386,4890 2559,4881 2732,4873 2906,4865 3079,4857 3252,4850 3425,4843 3598,4836 3771,4830 3945,4825"/>
+                <TextEquiv>
+                    <Unicode>d. halbkreisförmigen Oberlauf des Mtapa ehemalige Schamben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>37&#xD;
+lich. In Nanundo freundlichst aufgenommen u. bewirtet.&#xD;
+Nachm. Kl. Spaziergang an d. Mbenkuru. Rings um d. Dorf&#xD;
+wurde gebrannt, d. Asche flog auf d. Tisch, d. Rauch beizte&#xD;
+d. Augen, aber d. Häuser u. Bäume, ja stellenweis d. trocke„&#xD;
+ne Gras blieben von der rasenden Glut verschont, selbst&#xD;
+in die Schamben leckte das Feuer, ohne Schaden zu tun.&#xD;
+Um 4h verabschiedet, um 6 zu Haus. Unterwegs durch&#xD;
+Aschenfelder, wo morgens noch Gras stand. Zum ersten&#xD;
+Mal Affen im Baum gesehen.&#xD;
+12 Juli: Vorm. auf Jagd mit unserm Jäger. Ngorombwe&#xD;
+gesehen, aber verloren. D. Jäger zündet Feuer an, das&#xD;
+gegen Mittag d. Arbeitsplätze u. d. Lager erreicht und&#xD;
+am Tendaguru vorüber bis zur barrabarra zieht.&#xD;
+Abends allein auf d. Tendaguru, von wo d. abgebrannten&#xD;
+Strecken in ihrer beträchtlichen Ausdehnung bequem zu sehen.&#xD;
+Auch auf d. Gipfel ist heut abgebrannt worden, um d. Pavil„&#xD;
+lon zu schützen. Abends Zahnschmerzen.&#xD;
+13. Juli. Vorm. durch d. abgebrannten Strecken gegangen,&#xD;
+dabei neue Foss Knochenfunde im Norden d. Berges.&#xD;
+Im Graben auf d. Nordseite finden sich Zähne, desgl. ein&#xD;
+Bruchstück bei dem schönen Skelett, das immer voll„&#xD;
+ständiger von unserm schwarzen Präparator Salim&#xD;
+herausgearbeitet wird. Unser Jäger schießt ein Warzenschwein (Mbango)&#xD;
+Lese seit einiger Zeit wieder m. hohem Genuß im&#xD;
+Chamberlain (Grundl. XIX. Jahrh.)&#xD;
+14. Juli. Dr. J. zu dem neuen Knochenfund geführt.&#xD;
+Täglich morgens od. abends kl. Jagdausflüge ohne Erfolg, da doch&#xD;
+noch viel Gras steht&#xD;
+15. Juli. Auf einer Streife zw. d. Lager u. d. barrabarra an&#xD;
+d. halbkreisförmigen Oberlauf des Mtapa ehemalige Schamben</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

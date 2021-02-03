@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-02-02T09:46:20.554+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5213" WIDTH="4324">
+         <TopMargin HEIGHT="0" WIDTH="4324" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5213" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5213" WIDTH="0" VPOS="0" HPOS="4324"/>
+         <BottomMargin HEIGHT="0" WIDTH="4324" VPOS="5213" HPOS="0"/>
+         <PrintSpace HEIGHT="5213" WIDTH="4324" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1583142488649_555"
+                       HEIGHT="734"
+                       WIDTH="3368"
+                       VPOS="242"
+                       HPOS="299">
+               <Shape>
+                  <Polygon POINTS="299,242 446,242 3667,284 3667,976 585,976 299,407"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="454"
+                         HEIGHT="230"
+                         WIDTH="236"
+                         VPOS="224"
+                         HPOS="277">
+                  <String ID="string_r1l1"
+                          HEIGHT="230"
+                          WIDTH="236"
+                          VPOS="224"
+                          HPOS="277"
+                          CONTENT="164"/>
+               </TextLine>
+               <TextLine ID="r2l1"
+                         BASELINE="570"
+                         HEIGHT="341"
+                         WIDTH="3031"
+                         VPOS="229"
+                         HPOS="576">
+                  <String ID="string_r2l1"
+                          HEIGHT="341"
+                          WIDTH="3031"
+                          VPOS="229"
+                          HPOS="576"
+                          CONTENT="holz mehr brennen wollte. Mit jähem Wechsel"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="775"
+                         HEIGHT="362"
+                         WIDTH="3019"
+                         VPOS="413"
+                         HPOS="563">
+                  <String ID="string_r2l2"
+                          HEIGHT="362"
+                          WIDTH="3019"
+                          VPOS="413"
+                          HPOS="563"
+                          CONTENT="setzt vollkommenes Trockenheits-Wetter ein"/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="1048"
+                         HEIGHT="416"
+                         WIDTH="2826"
+                         VPOS="632"
+                         HPOS="861">
+                  <String ID="string_r2l3"
+                          HEIGHT="416"
+                          WIDTH="2826"
+                          VPOS="632"
+                          HPOS="861"
+                          CONTENT="29. April 1910: Abmarsch zum Tendaguru"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

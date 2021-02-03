@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:14.464+02:00</Created>
+        <LastChange>2020-03-04T14:28:14.638+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581488" pageNr="40" tsid="24792992" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=STELAJKAPJAQQDWRTHNKMEEF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HPYRGDZZJCYPTADZTWGCZFUE" imageId="4579377"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_40.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255750836" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="381,334 381,4505 4023,4505 4023,334"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="359,421 390,420 400,428 413,423 422,432 439,418 457,426 483,411 497,420 519,419 512,237 485,234 454,244 433,267 415,268 402,255 385,273 353,270"/>
+                <Baseline points="381,407 409,408 438,408 467,406 496,402"/>
+                <TextEquiv>
+                    <Unicode>38</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="365,697 1382,820 1693,726 3918,782 3918,591 1982,673 365,564"/>
+                <Baseline points="389,712 564,713 739,714 914,715 1090,715 1265,716 1440,716 1615,716 1791,715 1966,715 2141,715 2316,714 2492,714 2667,713 2842,713 3017,712 3193,712 3368,711 3543,711 3718,711 3894,712"/>
+                <TextEquiv>
+                    <Unicode>gefahren. Schöne Straße, wenn auch traurig öde, durch kl. Fels„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815065368_676" custom="readingOrder {index:2;}">
+                <Coords points="392,972 801,865 3546,936 3799,896 3799,802 627,758 392,852"/>
+                <Baseline points="413,895 442,888 472,884 490,867 654,872 818,875 982,877 1147,878 1311,878 1475,878 1640,877 1804,875 1968,873 2133,872 2297,870 2461,868 2625,867 2790,867 2954,867 3118,868 3283,870 3447,874 3611,878 3776,885"/>
+                <TextEquiv>
+                    <Unicode>schlucht wieder dem Meere zu, durch d. alte Stadt Aden, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="396,1030 3954,1048 3767,893 396,923"/>
+                <Baseline points="420,1000 595,1004 771,1008 946,1010 1122,1012 1297,1013 1473,1013 1648,1013 1824,1012 1999,1012 2175,1011 2350,1009 2526,1008 2701,1007 2877,1006 3052,1006 3228,1005 3403,1005 3579,1005 3754,1006 3930,1008"/>
+                <TextEquiv>
+                    <Unicode>höchst interessante, charakteristische Bilder weist. Wasserstau„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="442,1174 2272,1262 2445,1145 2565,1260 3023,1258 3373,1136 3640,1254 3906,1221 3905,1017 1339,1103 1183,997 1028,1122 827,1035 442,1126"/>
+                <Baseline points="463,1164 634,1163 805,1162 976,1161 1147,1159 1318,1157 1489,1155 1660,1152 1831,1150 2002,1148 2173,1146 2344,1144 2515,1143 2686,1142 2857,1141 3028,1142 3199,1143 3370,1145 3541,1148 3712,1151 3884,1156"/>
+                <TextEquiv>
+                    <Unicode>werke imposant u. durch ihre Entstehungsgeschichte gleichsam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="421,1346 3982,1372 4018,1181 421,1226"/>
+                <Baseline points="442,1295 619,1298 797,1300 974,1301 1152,1303 1330,1303 1507,1304 1685,1305 1862,1305 2040,1305 2218,1305 2395,1305 2573,1304 2750,1304 2928,1303 3106,1303 3283,1303 3461,1303 3638,1303 3816,1303 3994,1303"/>
+                <TextEquiv>
+                    <Unicode>wie eine Vergegenwärtigung alter römischer Kolonialarbeit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="435,1460 3837,1482 3837,1379 3576,1324 435,1375"/>
+                <Baseline points="458,1430 625,1429 793,1428 961,1427 1129,1427 1297,1427 1465,1427 1633,1428 1801,1429 1969,1430 2137,1431 2304,1432 2472,1433 2640,1435 2808,1437 2976,1439 3144,1441 3312,1443 3480,1445 3648,1447 3816,1450"/>
+                <TextEquiv>
+                    <Unicode>Kein Tröpflein Wasser darin u. wohl überhaupt selten in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="452,1623 4041,1639 3961,1518 3259,1552 2913,1435 2402,1549 453,1472"/>
+                <Baseline points="475,1580 652,1582 829,1583 1006,1584 1183,1585 1360,1586 1537,1587 1715,1587 1892,1588 2069,1588 2246,1589 2423,1589 2600,1590 2777,1590 2955,1590 3132,1591 3309,1591 3486,1592 3663,1592 3840,1593 4018,1594"/>
+                <TextEquiv>
+                    <Unicode>Tätigkeit, da Regenmenge ganz gering. Klimaänderung in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="429,1838 1642,1724 2343,1854 2548,1722 3525,1744 3684,1852 4001,1708 2065,1581 1798,1685 889,1571 430,1660"/>
+                <Baseline points="452,1716 628,1720 804,1724 981,1726 1157,1728 1334,1729 1510,1729 1686,1729 1863,1729 2039,1729 2216,1729 2392,1729 2568,1730 2745,1731 2921,1732 3098,1735 3274,1738 3450,1743 3627,1748 3803,1756 3980,1764"/>
+                <TextEquiv>
+                    <Unicode>historischer Zeit? Andern Weg durch Tunnels zurückgefahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="427,1927 2040,1993 2857,1882 3709,1992 4003,1810 1609,1749 427,1852"/>
+                <Baseline points="448,1895 624,1894 801,1892 977,1891 1154,1890 1331,1890 1507,1889 1684,1889 1860,1888 2037,1888 2214,1888 2390,1888 2567,1888 2743,1889 2920,1889 3097,1889 3273,1890 3450,1890 3626,1891 3803,1891 3980,1892"/>
+                <TextEquiv>
+                    <Unicode>Die Arbeit d. Engländer zwingt zu Hochachtung, scheint hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815088329_681" custom="readingOrder {index:10;}">
+                <Coords points="419,2057 3963,2146 3964,1955 3839,1932 419,1981"/>
+                <Baseline points="442,2041 510,2042 579,2043 647,2044 716,2045 785,2046 853,2046 922,2047 990,2048 1059,2049 1128,2049 1196,2049 1265,2050 1333,2050 1402,2050 1471,2049 1539,2049 1608,2048 1676,2047 1745,2046 1814,2045 1831,2057 1856,2056 1881,2052 1907,2053 1998,2037 2095,2039 2192,2041 2289,2043 2386,2044 2483,2046 2580,2047 2677,2048 2774,2049 2871,2050 2969,2051 3066,2051 3163,2051 3260,2051 3357,2051 3454,2051 3551,2051 3648,2050 3745,2049 3842,2047 3940,2046"/>
+                <TextEquiv>
+                    <Unicode>beinah verschwenderisch. Feste Gänge im vulkanischen Tuff,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="445,2216 3101,2189 3607,2291 3727,2197 4007,2304 4007,2131 3496,2051 445,2087"/>
+                <Baseline points="467,2196 652,2195 837,2194 1022,2193 1207,2191 1393,2188 1578,2186 1763,2184 1948,2182 2133,2180 2319,2179 2504,2178 2689,2178 2874,2179 3059,2181 3245,2184 3430,2188 3615,2194 3800,2201 3986,2210"/>
+                <TextEquiv>
+                    <Unicode>hatte aber nicht Zeit zum Sammeln. Die Unterlagerung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="450,2367 1515,2438 1835,2331 3487,2321 3883,2419 4011,2294 449,2216"/>
+                <Baseline points="473,2335 648,2334 824,2333 1000,2331 1176,2330 1351,2328 1527,2327 1703,2325 1879,2324 2054,2323 2230,2322 2406,2322 2582,2322 2757,2322 2933,2323 3109,2324 3285,2326 3460,2329 3636,2332 3812,2336 3988,2341"/>
+                <TextEquiv>
+                    <Unicode>durch rezente Muscheln war wohl ein Irrtum bei d. Ausreise.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="481,2518 3057,2472 3799,2583 3990,2409 2475,2419 2364,2317 1662,2437 716,2331 481,2434"/>
+                <Baseline points="503,2479 676,2480 849,2480 1022,2480 1196,2480 1369,2479 1542,2479 1715,2478 1889,2477 2062,2476 2235,2476 2408,2475 2582,2475 2755,2475 2928,2475 3101,2475 3275,2476 3448,2477 3621,2479 3794,2481 3968,2484"/>
+                <TextEquiv>
+                    <Unicode>Abfahrt erst gegen 5. Wundervolle Kulissen diese Berge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+                <Coords points="708,2666 2311,2625 2702,2739 2893,2640 3923,2676 3923,2578 3048,2480 1396,2584 1222,2487 708,2600"/>
+                <Baseline points="729,2654 887,2648 1046,2643 1205,2639 1363,2636 1522,2634 1681,2632 1839,2631 1998,2630 2157,2630 2316,2630 2474,2630 2633,2631 2792,2632 2950,2632 3109,2633 3268,2633 3426,2633 3585,2632 3744,2631 3903,2630"/>
+                <TextEquiv>
+                    <Unicode>9 Oct. Morgens Inselgruppen vulkanischer Natur etwa in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+                <Coords points="479,2803 3712,2826 3841,2679 479,2683"/>
+                <Baseline points="501,2768 666,2767 832,2766 998,2764 1164,2763 1330,2763 1495,2762 1661,2761 1827,2761 1993,2760 2159,2760 2324,2760 2490,2761 2656,2761 2822,2762 2988,2763 3153,2764 3319,2765 3485,2766 3651,2768 3817,2770"/>
+                <TextEquiv>
+                    <Unicode>d. Straße Bab el Mambeb. Rötliche Dämmerung liegt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:16;}">
+                <Coords points="511,2930 978,3008 1346,2896 1484,2993 1812,2881 2061,3009 2314,2871 2701,3003 2834,2900 3846,2901 3433,2760 511,2823"/>
+                <Baseline points="533,2920 697,2912 862,2904 1026,2899 1191,2894 1356,2890 1520,2887 1685,2885 1850,2883 2014,2882 2179,2882 2344,2883 2508,2883 2673,2885 2838,2886 3002,2889 3167,2891 3332,2893 3496,2896 3661,2898 3826,2901"/>
+                <TextEquiv>
+                    <Unicode>wie Dunst darauf u. doch ist die Luft klar. Starker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="470,3096 4005,3115 3934,2955 2988,2915 2761,3008 470,2980"/>
+                <Baseline points="491,3051 665,3053 840,3054 1014,3054 1189,3055 1363,3055 1538,3055 1712,3055 1887,3054 2061,3054 2236,3053 2411,3053 2585,3053 2760,3052 2934,3052 3109,3053 3283,3053 3458,3054 3632,3055 3807,3057 3982,3060"/>
+                <TextEquiv>
+                    <Unicode>Verkehr in dieser Straße. Ich merke mit Verwunderung u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+                <Coords points="504,3250 1912,3203 2139,3313 2516,3175 2729,3312 2987,3200 3276,3311 4008,3274 4008,3109 3653,3084 504,3108"/>
+                <Baseline points="527,3203 700,3202 873,3202 1046,3201 1219,3199 1392,3198 1565,3196 1738,3194 1911,3193 2084,3191 2257,3190 2430,3189 2603,3188 2776,3188 2949,3188 3122,3189 3295,3191 3468,3193 3641,3197 3814,3201 3988,3207"/>
+                <TextEquiv>
+                    <Unicode>Bedauern, daß weder der Abschied v. Afrika noch d. Heimkehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:19;}">
+                <Coords points="502,3381 3455,3465 4046,3297 502,3315"/>
+                <Baseline points="523,3357 707,3356 891,3354 1075,3353 1259,3353 1443,3352 1627,3352 1812,3352 1996,3352 2180,3352 2364,3352 2548,3353 2732,3354 2917,3355 3101,3356 3285,3358 3469,3360 3653,3362 3837,3364 4022,3367"/>
+                <TextEquiv>
+                    <Unicode>mich irgendwie in Spannung od. Erregung versetzt. O mein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:20;}">
+                <Coords points="502,3582 667,3607 875,3513 1040,3552 1221,3529 1302,3569 1355,3528 1515,3554 1612,3536 1612,3403 1212,3400 1154,3449 1061,3406 981,3437 879,3366 715,3456 502,3462"/>
+                <Baseline points="522,3524 575,3522 628,3520 682,3518 735,3517 789,3516 842,3516 895,3515 949,3515 1002,3515 1056,3515 1109,3515 1162,3515 1216,3515 1269,3516 1323,3516 1376,3516 1429,3516 1483,3515 1536,3514 1590,3514"/>
+                <TextEquiv>
+                    <Unicode>gräßliches Fischblut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:21;}">
+                <Coords points="664,3765 1085,3687 1296,3804 1636,3683 1820,3800 2599,3658 3272,3759 3439,3663 3879,3700 3878,3607 3205,3507 2425,3617 887,3513 662,3592"/>
+                <Baseline points="685,3709 843,3707 1002,3704 1160,3701 1319,3698 1478,3695 1636,3691 1795,3688 1953,3684 2112,3681 2271,3677 2429,3675 2588,3672 2746,3669 2905,3667 3064,3666 3222,3664 3381,3664 3539,3664 3698,3665 3857,3667"/>
+                <TextEquiv>
+                    <Unicode>10 Oct. Morgens 6 Uhr ging ein Heizer absichtlich über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+                <Coords points="508,3881 3870,3929 3868,3721 3508,3666 1244,3808 506,3690"/>
+                <Baseline points="529,3842 694,3845 860,3847 1026,3848 1192,3848 1358,3846 1524,3844 1690,3842 1856,3839 2022,3835 2188,3832 2353,3829 2519,3826 2685,3824 2851,3822 3017,3821 3183,3821 3349,3821 3515,3823 3681,3827 3847,3832"/>
+                <TextEquiv>
+                    <Unicode>Bord, als er zum Dienst sollte. Es ist so heiß, daß ich auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+                <Coords points="521,4032 3843,4031 3843,3925 3647,3881 2879,3935 2457,3834 521,3925"/>
+                <Baseline points="543,3999 707,3991 871,3985 1035,3981 1199,3978 1363,3976 1527,3975 1691,3975 1855,3975 2019,3976 2183,3977 2347,3978 2511,3979 2675,3980 2839,3982 3003,3982 3167,3982 3331,3982 3495,3980 3659,3978 3823,3975"/>
+                <TextEquiv>
+                    <Unicode>d. Frühstück verzichte, wie muß es im Heizraum sein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:24;}">
+                <Coords points="525,4140 4047,4152 4047,4032 3567,4000 525,4033"/>
+                <Baseline points="548,4129 721,4127 895,4125 1069,4124 1243,4124 1416,4123 1590,4123 1764,4123 1938,4124 2111,4124 2285,4125 2459,4126 2633,4127 2806,4127 2980,4128 3154,4128 3328,4128 3501,4128 3675,4127 3849,4126 4023,4125"/>
+                <TextEquiv>
+                    <Unicode>wenn d. Furcht vor d. Leben größer werden kann als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:25;}">
+                <Coords points="540,4335 2099,4247 2783,4264 3050,4386 3863,4331 3790,4163 3173,4132 539,4193"/>
+                <Baseline points="563,4309 726,4299 890,4291 1054,4283 1218,4277 1381,4272 1545,4269 1709,4266 1873,4263 2036,4262 2200,4261 2364,4261 2528,4262 2691,4263 2855,4264 3019,4265 3183,4266 3346,4268 3510,4269 3674,4270 3838,4271"/>
+                <TextEquiv>
+                    <Unicode>d. Furcht vor d. Tod! Es wurde sofort gestoppt u. ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:26;}">
+                <Coords points="508,4553 2871,4579 3137,4442 3755,4474 3755,4314 508,4349"/>
+                <Baseline points="529,4471 689,4459 849,4451 1009,4444 1169,4440 1330,4438 1490,4438 1650,4439 1810,4441 1970,4443 2131,4446 2291,4449 2451,4453 2611,4455 2771,4457 2932,4458 3092,4458 3252,4456 3412,4452 3572,4446 3733,4437"/>
+                <TextEquiv>
+                    <Unicode>Bot ausgesetzt, aber vergebens. Haifische? Unter d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>38&#xD;
+gefahren. Schöne Straße, wenn auch traurig öde, durch kl. Fels„&#xD;
+schlucht wieder dem Meere zu, durch d. alte Stadt Aden, die&#xD;
+höchst interessante, charakteristische Bilder weist. Wasserstau„&#xD;
+werke imposant u. durch ihre Entstehungsgeschichte gleichsam&#xD;
+wie eine Vergegenwärtigung alter römischer Kolonialarbeit.&#xD;
+Kein Tröpflein Wasser darin u. wohl überhaupt selten in&#xD;
+Tätigkeit, da Regenmenge ganz gering. Klimaänderung in&#xD;
+historischer Zeit? Andern Weg durch Tunnels zurückgefahren.&#xD;
+Die Arbeit d. Engländer zwingt zu Hochachtung, scheint hier&#xD;
+beinah verschwenderisch. Feste Gänge im vulkanischen Tuff,&#xD;
+hatte aber nicht Zeit zum Sammeln. Die Unterlagerung&#xD;
+durch rezente Muscheln war wohl ein Irrtum bei d. Ausreise.&#xD;
+Abfahrt erst gegen 5. Wundervolle Kulissen diese Berge.&#xD;
+9 Oct. Morgens Inselgruppen vulkanischer Natur etwa in&#xD;
+d. Straße Bab el Mambeb. Rötliche Dämmerung liegt&#xD;
+wie Dunst darauf u. doch ist die Luft klar. Starker&#xD;
+Verkehr in dieser Straße. Ich merke mit Verwunderung u.&#xD;
+Bedauern, daß weder der Abschied v. Afrika noch d. Heimkehr&#xD;
+mich irgendwie in Spannung od. Erregung versetzt. O mein&#xD;
+gräßliches Fischblut.&#xD;
+10 Oct. Morgens 6 Uhr ging ein Heizer absichtlich über&#xD;
+Bord, als er zum Dienst sollte. Es ist so heiß, daß ich auf&#xD;
+d. Frühstück verzichte, wie muß es im Heizraum sein,&#xD;
+wenn d. Furcht vor d. Leben größer werden kann als&#xD;
+d. Furcht vor d. Tod! Es wurde sofort gestoppt u. ein&#xD;
+Bot ausgesetzt, aber vergebens. Haifische? Unter d.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M5(htr_id=20484)::::v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.3
+Transkribus</Creator>
+        <Created>2019-12-18T08:33:22.397+01:00</Created>
+        <LastChange>2020-01-15T15:26:35.423+01:00</LastChange>
+        <TranskribusMetadata docId="296974" pageId="11822108" pageNr="13" tsid="22350976" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=VRFEXGSRZNOCPBZGTVWCFGSL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NCWKSXOXIUFJFYVSSATYFHLM" imageId="8187415"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_105_013.jpg" imageWidth="3807" imageHeight="5349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613474322728" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1579093700728_1654"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1579093700728_1654" custom="readingOrder {index:0;}">
+            <Coords points="118,229 1754,37 1812,36 1812,188 1565,2497 118,2497"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1744,159 1760,160 1769,168 1776,166 1795,149 1806,150 1808,103 1794,104 1787,96 1783,98 1774,90 1756,107 1746,107"/>
+                <Baseline points="1754,137 1798,139"/>
+                <TextEquiv>
+                    <Unicode>6.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;}">
+                <Coords points="163,281 257,269 321,321 535,272 1564,300 1399,222 1283,248 1092,202 883,243 617,204 524,245 165,199"/>
+                <Baseline points="172,265 241,266 310,266 379,266 448,267 517,268 586,270 656,271 725,273 794,275 863,276 932,279 1001,281 1070,283 1140,285 1209,287 1278,289 1347,292 1416,294 1485,296 1555,298"/>
+                <TextEquiv>
+                    <Unicode>Seite gehen. Als ich ihn los war ging ich zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+                <Coords points="155,371 1518,377 1295,286 984,334 715,295 553,323 503,285 308,325 156,279"/>
+                <Baseline points="165,353 232,351 299,350 366,350 433,350 501,350 568,350 635,350 702,351 769,352 837,354 904,355 971,357 1038,358 1105,360 1173,362 1240,364 1307,365 1374,367 1441,369 1509,371"/>
+                <TextEquiv>
+                    <Unicode>Strande hinunter, wo es sehr hübsch aus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="152,427 567,470 622,437 728,482 792,440 1451,462 1503,414 1277,370 827,397 764,343 588,406 278,361 153,393"/>
+                <Baseline points="161,422 227,423 294,424 360,424 427,425 494,426 560,427 627,428 693,429 760,430 827,431 893,432 960,433 1026,435 1093,436 1159,437 1226,438 1293,440 1359,441 1426,443 1493,444"/>
+                <TextEquiv>
+                    <Unicode>sah, da eine große, schwarze Wolke über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="147,506 1484,535 1504,477 148,448"/>
+                <Baseline points="157,484 223,486 290,487 357,489 424,490 491,492 557,494 624,496 691,498 758,499 825,501 891,503 958,504 1025,506 1092,508 1159,509 1225,510 1292,512 1359,513 1426,514 1493,514"/>
+                <TextEquiv>
+                    <Unicode>dem Wasser hing. Dann ging ich am Strande</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="161,559 1540,584 1517,519 161,512"/>
+                <Baseline points="169,551 237,552 305,553 373,554 441,555 509,556 577,557 645,558 713,559 781,560 849,561 917,562 985,563 1053,564 1121,565 1189,565 1257,566 1325,567 1393,567 1461,568 1530,568"/>
+                <TextEquiv>
+                    <Unicode>weiter und währenddessen brach die Sonne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="148,619 1388,644 1481,594 1121,565 938,596 776,557 149,588"/>
+                <Baseline points="157,611 222,611 288,612 354,612 419,612 485,612 551,612 616,612 682,612 748,612 814,612 879,612 945,612 1011,613 1076,613 1142,614 1208,615 1273,616 1339,618 1405,620 1471,622"/>
+                <TextEquiv>
+                    <Unicode>schon ziemlich weit oben, durch die Wolken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470351_1598" custom="readingOrder {index:7;}">
+                <Coords points="120,681 1496,706 1496,626 481,658 278,614 120,650"/>
+                <Baseline points="118,674 160,676 234,678 308,680 381,681 455,682 529,683 603,683 676,683 750,683 824,683 898,683 971,683 1045,683 1119,682 1193,682 1266,682 1340,682 1414,683 1488,683"/>
+                <TextEquiv>
+                    <Unicode>und schimmerte an den Wellen wieder. Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="155,796 215,760 504,798 555,762 1411,772 1460,721 808,694 618,728 389,686 155,731"/>
+                <Baseline points="165,754 229,754 293,753 357,753 422,753 486,753 550,754 615,754 679,754 743,754 808,755 872,755 936,755 1000,755 1065,756 1129,756 1193,756 1258,756 1322,756 1386,756 1451,755"/>
+                <TextEquiv>
+                    <Unicode>ging darauf wieder durch die Strand- u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="155,852 468,843 525,880 602,841 1455,817 1453,765 1388,762 815,766 628,813 571,773 512,808 304,771 155,814"/>
+                <Baseline points="165,837 229,837 293,838 357,838 421,838 485,837 549,836 613,835 677,834 741,832 805,831 869,829 933,827 997,825 1061,824 1125,822 1189,820 1253,818 1317,816 1381,815 1445,814"/>
+                <TextEquiv>
+                    <Unicode>Labahnstraße zurück nach Hause, wo ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="148,918 342,950 495,909 1527,895 1526,831 1229,810 1105,852 148,874"/>
+                <Baseline points="158,906 226,907 294,908 362,908 430,908 498,907 566,907 634,906 702,905 770,903 838,902 906,900 974,899 1042,897 1110,895 1178,893 1246,892 1314,890 1382,889 1450,887 1519,886"/>
+                <TextEquiv>
+                    <Unicode>etwa gegen 5 Uhr ankam. Dort setzte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470352_1600" custom="readingOrder {index:11;}">
+                <Coords points="121,986 394,1020 484,975 1408,991 1487,967 1487,914 121,953"/>
+                <Baseline points="118,981 147,980 221,978 295,976 369,975 443,974 517,973 591,972 665,971 739,971 812,970 886,970 960,970 1034,969 1108,969 1182,969 1256,968 1330,967 1404,967 1478,966"/>
+                <TextEquiv>
+                    <Unicode>mich auf die Veranda und schrieb den I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470352_1602" custom="readingOrder {index:12;}">
+                <Coords points="126,1097 702,1063 1053,1110 1150,1063 1503,1072 1522,1014 596,991 346,1048 235,983 126,1044"/>
+                <Baseline points="118,1062 151,1064 227,1066 302,1067 378,1067 454,1067 529,1066 605,1065 681,1063 757,1062 832,1060 908,1058 984,1057 1059,1055 1135,1055 1211,1054 1286,1054 1362,1055 1438,1057 1514,1059"/>
+                <TextEquiv>
+                    <Unicode>Tag in dies Buch ein und fing an etwas zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470353_1604" custom="readingOrder {index:13;}">
+                <Coords points="124,1156 1550,1150 1550,1101 1481,1084 124,1100"/>
+                <Baseline points="118,1140 154,1142 231,1145 308,1147 385,1148 462,1149 539,1149 616,1149 693,1148 770,1147 847,1146 924,1145 1001,1143 1078,1142 1155,1141 1232,1141 1309,1140 1386,1140 1463,1141 1540,1142"/>
+                <TextEquiv>
+                    <Unicode>arbeiten. Inzwischen wachten auch die andern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:14;}">
+                <Coords points="138,1217 443,1258 823,1216 1495,1239 1468,1152 138,1184"/>
+                <Baseline points="146,1207 213,1208 280,1210 347,1211 414,1212 481,1213 548,1214 615,1215 682,1215 749,1216 816,1216 883,1216 950,1217 1017,1217 1084,1216 1151,1216 1218,1216 1285,1215 1352,1214 1419,1213 1486,1212"/>
+                <TextEquiv>
+                    <Unicode>auf und zogen sich an. Während ich arbeitete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:15;}">
+                <Coords points="132,1294 1555,1313 1555,1242 133,1249"/>
+                <Baseline points="142,1285 212,1285 282,1286 352,1286 422,1287 492,1287 562,1288 633,1289 703,1289 773,1290 843,1291 913,1292 983,1292 1053,1293 1124,1294 1194,1294 1264,1295 1334,1296 1404,1296 1474,1297 1545,1298"/>
+                <TextEquiv>
+                    <Unicode>kam ab und zu eine Rauchschwalbe und zwit-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:16;}">
+                <Coords points="132,1381 1435,1392 1516,1367 1516,1311 1077,1337 891,1295 717,1341 519,1299 394,1340 244,1291 132,1333"/>
+                <Baseline points="141,1356 209,1357 277,1357 346,1357 414,1357 482,1357 551,1357 619,1357 687,1357 756,1357 824,1357 892,1357 961,1357 1029,1358 1097,1358 1166,1358 1234,1359 1302,1359 1371,1360 1439,1361 1508,1362"/>
+                <TextEquiv>
+                    <Unicode>scherte, wobei sie das Dach unsrer Veranda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470354_1606" custom="readingOrder {index:17;}">
+                <Coords points="122,1470 370,1435 480,1478 740,1436 1420,1458 1532,1431 1532,1382 122,1401"/>
+                <Baseline points="118,1423 152,1424 228,1425 304,1426 380,1427 456,1428 532,1429 608,1429 684,1430 761,1430 837,1430 913,1430 989,1430 1065,1430 1141,1430 1217,1430 1293,1429 1369,1429 1445,1429 1522,1429"/>
+                <TextEquiv>
+                    <Unicode>genau in Augenschein nahm. Da das so aussah</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470354_1608" custom="readingOrder {index:18;}">
+                <Coords points="124,1511 1561,1521 1561,1479 1406,1448 124,1475"/>
+                <Baseline points="118,1495 171,1498 248,1500 324,1502 401,1504 478,1505 554,1505 631,1506 708,1506 785,1506 861,1506 938,1506 1015,1506 1091,1506 1168,1506 1245,1506 1321,1506 1398,1507 1475,1507 1552,1509"/>
+                <TextEquiv>
+                    <Unicode>als wolle sie ein Nest bauen legte ich Watte hin,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470354_1610" custom="readingOrder {index:19;}">
+                <Coords points="121,1579 1168,1609 1495,1583 1519,1521 121,1530"/>
+                <Baseline points="118,1569 150,1569 226,1568 301,1567 377,1567 452,1567 528,1568 603,1568 679,1569 754,1570 829,1571 905,1572 980,1573 1056,1573 1131,1573 1207,1573 1282,1572 1358,1570 1433,1569 1509,1566"/>
+                <TextEquiv>
+                    <Unicode>obgleich ich nicht wußte, was sie jetzt noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470355_1612" custom="readingOrder {index:20;}">
+                <Coords points="122,1633 1548,1655 1548,1611 1300,1576 910,1614 818,1573 510,1608 218,1572 122,1611"/>
+                <Baseline points="118,1627 170,1627 246,1627 322,1627 398,1628 474,1629 550,1630 626,1631 702,1632 778,1633 854,1634 930,1635 1006,1635 1082,1635 1158,1635 1234,1635 1310,1634 1386,1633 1462,1631 1538,1629"/>
+                <TextEquiv>
+                    <Unicode>mit einem Nest wollte. Doch merkte ich am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:21;}">
+                <Coords points="148,1728 365,1720 425,1760 503,1709 593,1753 631,1717 1517,1708 1439,1648 1336,1686 1264,1638 1000,1685 928,1636 824,1688 770,1652 506,1682 148,1645"/>
+                <Baseline points="157,1705 224,1706 292,1706 359,1706 427,1706 494,1707 562,1707 629,1708 697,1708 764,1708 832,1709 900,1709 967,1709 1035,1709 1102,1709 1170,1709 1237,1709 1305,1709 1372,1708 1440,1707 1508,1706"/>
+                <TextEquiv>
+                    <Unicode>Vormittag, daß in der Nähe eines Schwalben-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:22;}">
+                <Coords points="129,1784 1575,1789 1503,1722 129,1750"/>
+                <Baseline points="138,1774 209,1776 280,1777 352,1778 423,1778 494,1778 566,1779 637,1778 708,1778 780,1778 851,1778 922,1777 994,1777 1065,1777 1136,1777 1208,1777 1279,1777 1350,1777 1422,1778 1493,1779 1565,1780"/>
+                <TextEquiv>
+                    <Unicode>nestes an der gegenüberliegende Villa ein Spatzen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470356_1614" custom="readingOrder {index:23;}">
+                <Coords points="122,1885 184,1849 569,1886 1487,1858 1420,1786 123,1815"/>
+                <Baseline points="118,1839 147,1840 221,1841 295,1841 369,1842 443,1842 517,1842 591,1842 665,1842 739,1841 812,1841 886,1841 960,1841 1034,1841 1108,1841 1182,1841 1256,1842 1330,1843 1404,1844 1478,1845"/>
+                <TextEquiv>
+                    <Unicode>par umherflog, das vielleicht die Schwalben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470356_1616" custom="readingOrder {index:24;}">
+                <Coords points="122,1900 519,1950 1267,1919 1370,1959 1508,1907 1508,1855 122,1886"/>
+                <Baseline points="118,1913 157,1913 236,1912 315,1911 394,1911 473,1911 552,1912 631,1912 710,1913 788,1914 867,1915 946,1916 1025,1916 1104,1917 1183,1917 1262,1916 1341,1915 1420,1914 1499,1912"/>
+                <TextEquiv>
+                    <Unicode>verjagt hatte, und war es daher leicht möglich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470357_1618" custom="readingOrder {index:25;}">
+                <Coords points="121,1989 222,2028 1304,2013 1539,1992 1539,1920 706,1974 194,1919 121,1962"/>
+                <Baseline points="118,1988 153,1989 229,1990 306,1991 382,1992 459,1993 535,1993 612,1993 688,1993 765,1993 841,1992 918,1991 994,1990 1071,1989 1147,1987 1224,1984 1300,1982 1377,1979 1453,1976 1530,1972"/>
+                <TextEquiv>
+                    <Unicode>daß die letzteren ein neues Nest bauen woll-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470358_1620" custom="readingOrder {index:26;}">
+                <Coords points="120,2085 1537,2083 1572,2023 692,2003 558,2045 384,2000 119,2047"/>
+                <Baseline points="118,2076 156,2076 234,2075 312,2075 390,2074 468,2073 547,2072 625,2072 703,2071 781,2070 859,2069 937,2068 1015,2067 1094,2066 1172,2065 1250,2063 1328,2062 1406,2061 1484,2060 1563,2059"/>
+                <TextEquiv>
+                    <Unicode>ten. Als Mama, Bruno u. Erna mit Anziehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:27;}">
+                <Coords points="141,2180 193,2142 517,2182 1070,2142 1272,2147 1334,2193 1386,2144 1442,2187 1549,2140 1343,2072 141,2093"/>
+                <Baseline points="149,2133 218,2136 288,2138 357,2140 427,2142 496,2143 566,2144 635,2145 705,2145 774,2145 844,2145 913,2144 983,2144 1052,2143 1122,2142 1191,2141 1261,2140 1330,2140 1400,2139 1469,2138 1539,2137"/>
+                <TextEquiv>
+                    <Unicode>fertig waren, tranken wir Kaffée und gingen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:28;}">
+                <Coords points="136,2219 1489,2246 1521,2196 1071,2140 996,2177 285,2148 136,2183"/>
+                <Baseline points="145,2206 213,2207 281,2207 350,2208 418,2208 486,2208 555,2208 623,2208 691,2208 760,2208 828,2209 896,2209 965,2209 1033,2210 1101,2210 1170,2212 1238,2213 1306,2214 1375,2216 1443,2219 1512,2222"/>
+                <TextEquiv>
+                    <Unicode>zusammen an den Strand, wo Erna und ich im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:29;}">
+                <Coords points="137,2302 284,2292 334,2336 403,2290 1551,2290 1551,2234 1406,2267 919,2203 806,2251 396,2208 259,2262 138,2241"/>
+                <Baseline points="146,2289 215,2287 285,2285 355,2284 425,2283 494,2283 564,2283 634,2284 704,2284 773,2285 843,2286 913,2287 983,2288 1052,2289 1122,2290 1192,2291 1262,2292 1331,2293 1401,2294 1471,2294 1541,2294"/>
+                <TextEquiv>
+                    <Unicode>Sande gruben, während Mama und Bruno nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093470359_1622" custom="readingOrder {index:30;}">
+                <Coords points="126,2375 519,2410 883,2368 1090,2408 1242,2369 1419,2412 1514,2358 1393,2304 796,2295 346,2350 212,2296 126,2317"/>
+                <Baseline points="118,2369 150,2369 225,2368 300,2367 376,2367 451,2367 526,2367 601,2367 676,2368 752,2368 827,2368 902,2369 977,2369 1052,2370 1128,2370 1203,2370 1278,2370 1353,2370 1428,2369 1504,2368"/>
+                <TextEquiv>
+                    <Unicode>Bansin gingen. Da es bald anfing zu reg-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093669809_1645" custom="readingOrder {index:31;}">
+                <Coords points="120,2460 514,2497 901,2445 1017,2492 1364,2505 1459,2397 1252,2426 1137,2381 510,2408 452,2375 121,2425"/>
+                <Baseline points="130,2443 200,2440 271,2438 341,2437 412,2436 482,2435 553,2435 623,2436 694,2437 764,2438 835,2439 905,2441 976,2442 1046,2444 1117,2446 1187,2447 1258,2449 1328,2450 1399,2451 1449,2451"/>
+                <TextEquiv>
+                    <Unicode>nen, mußten wir wieder nach Hause und </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:32;}">
+                <Coords points="1475,2422 1486,2421 1489,2423 1496,2418 1500,2422 1506,2423 1516,2413 1519,2415 1528,2414 1524,2367 1515,2368 1508,2372 1493,2359 1483,2371 1479,2367 1470,2368"/>
+                <Baseline points="1483,2404 1519,2401"/>
+                <TextEquiv>
+                    <Unicode>ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579093669808_1644" custom="readingOrder {index:33;}">
+                <Coords points="1440,2484 1458,2483 1465,2487 1484,2474 1493,2473 1511,2457 1518,2462 1535,2455 1549,2457 1549,2427 1535,2426 1523,2415 1512,2417 1504,2424 1497,2420 1483,2422 1466,2431 1454,2420 1441,2421"/>
+                <Baseline points="1449,2451 1469,2451 1540,2452"/>
+                <TextEquiv>
+                    <Unicode>ar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6.)&#xD;
+Seite gehen. Als ich ihn los war ging ich zum&#xD;
+Strande hinunter, wo es sehr hübsch aus-&#xD;
+sah, da eine große, schwarze Wolke über&#xD;
+dem Wasser hing. Dann ging ich am Strande&#xD;
+weiter und währenddessen brach die Sonne,&#xD;
+schon ziemlich weit oben, durch die Wolken&#xD;
+und schimmerte an den Wellen wieder. Ich&#xD;
+ging darauf wieder durch die Strand- u.&#xD;
+Labahnstraße zurück nach Hause, wo ich&#xD;
+etwa gegen 5 Uhr ankam. Dort setzte ich&#xD;
+mich auf die Veranda und schrieb den I&#xD;
+Tag in dies Buch ein und fing an etwas zu&#xD;
+arbeiten. Inzwischen wachten auch die andern&#xD;
+auf und zogen sich an. Während ich arbeitete&#xD;
+kam ab und zu eine Rauchschwalbe und zwit-&#xD;
+scherte, wobei sie das Dach unsrer Veranda&#xD;
+genau in Augenschein nahm. Da das so aussah&#xD;
+als wolle sie ein Nest bauen legte ich Watte hin,&#xD;
+obgleich ich nicht wußte, was sie jetzt noch&#xD;
+mit einem Nest wollte. Doch merkte ich am&#xD;
+Vormittag, daß in der Nähe eines Schwalben-&#xD;
+nestes an der gegenüberliegende Villa ein Spatzen-&#xD;
+par umherflog, das vielleicht die Schwalben&#xD;
+verjagt hatte, und war es daher leicht möglich,&#xD;
+daß die letzteren ein neues Nest bauen woll-&#xD;
+ten. Als Mama, Bruno u. Erna mit Anziehen&#xD;
+fertig waren, tranken wir Kaffée und gingen&#xD;
+zusammen an den Strand, wo Erna und ich im&#xD;
+Sande gruben, während Mama und Bruno nach&#xD;
+Bansin gingen. Da es bald anfing zu reg-&#xD;
+nen, mußten wir wieder nach Hause und &#xD;
+ich&#xD;
+ar-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

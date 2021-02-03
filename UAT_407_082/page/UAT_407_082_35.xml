@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:14.114+02:00</Created>
+        <LastChange>2020-03-04T12:58:35.179+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581483" pageNr="35" tsid="24778309" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=CPEBQTYCWFZMXSGFTDWHXZCY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PPJKRHRJGJYNHBGNGQNWGIWY" imageId="4579372"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_35.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255749016" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="257,214 257,4883 4034,4883 4034,214"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="3702,326 3726,329 3760,353 3776,340 3820,365 3863,366 3885,208 3857,204 3849,193 3802,220 3763,191 3742,207 3719,204"/>
+                <Baseline points="3731,290 3759,290 3788,294 3817,300 3846,303"/>
+                <TextEquiv>
+                    <Unicode>33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="327,571 3002,514 3286,605 3818,552 3815,335 325,444"/>
+                <Baseline points="348,530 520,528 692,526 865,524 1037,522 1209,520 1382,518 1554,516 1726,514 1899,512 2071,511 2243,509 2416,507 2588,505 2760,503 2933,501 3105,500 3277,498 3450,496 3622,494 3795,492"/>
+                <TextEquiv>
+                    <Unicode>Ambrosius kennen, der in d. Matumbi-Bergen die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="288,793 2244,693 2404,807 3017,706 3214,816 3869,776 3870,626 3705,531 289,571"/>
+                <Baseline points="313,691 489,691 666,692 843,692 1019,693 1196,693 1373,694 1549,695 1726,696 1903,697 2080,698 2256,699 2433,700 2610,701 2786,701 2963,702 3140,703 3316,704 3493,705 3670,705 3847,705"/>
+                <TextEquiv>
+                    <Unicode>Höhlen entdeckt hat u. dort jetzt für Leipzig (Weule)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="308,894 3941,872 3940,778 3012,710 308,753"/>
+                <Baseline points="332,857 511,851 690,845 870,840 1049,837 1228,834 1408,832 1587,831 1766,831 1946,831 2125,831 2304,832 2484,832 2663,833 2842,835 3022,836 3201,837 3380,837 3560,838 3739,838 3919,837"/>
+                <TextEquiv>
+                    <Unicode>Ausgrabungen macht (alte Niederlassungen.) Sandte 2 mei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="340,1038 3199,1091 3892,1033 3893,915 340,892"/>
+                <Baseline points="362,983 537,986 712,989 888,992 1063,994 1239,996 1414,998 1589,999 1765,1000 1940,1001 2116,1002 2291,1002 2466,1003 2642,1003 2817,1002 2993,1002 3168,1002 3343,1001 3519,1000 3694,999 3870,999"/>
+                <TextEquiv>
+                    <Unicode>ner Leute mit, um im Jura zu sammeln, da mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="321,1195 3987,1196 3986,1017 321,1054"/>
+                <Baseline points="347,1161 527,1157 708,1154 889,1152 1070,1150 1251,1148 1431,1147 1612,1145 1793,1145 1974,1144 2155,1143 2335,1143 2516,1143 2697,1142 2878,1142 3059,1142 3239,1141 3420,1141 3601,1140 3782,1139 3963,1138"/>
+                <TextEquiv>
+                    <Unicode>leider keine Zeit mehr bleibt dorthin zu kommen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="286,1352 3881,1346 3763,1181 3221,1260 3047,1157 286,1239"/>
+                <Baseline points="312,1307 489,1302 666,1297 843,1294 1020,1292 1198,1290 1375,1289 1552,1289 1729,1289 1906,1289 2084,1290 2261,1291 2438,1293 2615,1294 2792,1295 2970,1297 3147,1298 3324,1298 3501,1299 3678,1299 3856,1298"/>
+                <TextEquiv>
+                    <Unicode>die Bornhardt-Route nicht mehr gangbar, der neue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="264,1503 3792,1484 3731,1333 3020,1399 2855,1296 264,1347"/>
+                <Baseline points="289,1467 472,1458 655,1450 838,1443 1021,1437 1204,1433 1387,1430 1570,1428 1753,1426 1936,1426 2120,1427 2303,1428 2486,1430 2669,1433 2852,1436 3035,1440 3218,1445 3401,1450 3584,1455 3768,1460"/>
+                <TextEquiv>
+                    <Unicode>Weg 2 Tage längs der Küste im flachen Vorlande.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="234,1686 2222,1602 3796,1707 3994,1518 2698,1426 2425,1545 1030,1435 234,1531"/>
+                <Baseline points="257,1611 442,1606 628,1602 814,1599 999,1596 1185,1594 1371,1593 1556,1592 1742,1592 1928,1592 2114,1593 2299,1593 2485,1594 2671,1594 2856,1595 3042,1595 3228,1595 3413,1595 3599,1595 3785,1594 3971,1592"/>
+                <TextEquiv>
+                    <Unicode>Habe auch keine Träger mehr, wenn ich in nächsten Tagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="274,1838 3982,1822 3982,1671 3035,1721 2857,1612 2578,1720 840,1599 275,1711"/>
+                <Baseline points="300,1768 483,1763 666,1759 849,1756 1032,1755 1215,1754 1398,1753 1581,1754 1764,1755 1947,1756 2130,1757 2313,1759 2496,1760 2679,1762 2862,1763 3045,1764 3228,1765 3411,1765 3594,1764 3777,1762 3961,1760"/>
+                <TextEquiv>
+                    <Unicode>etwa fort wollte, sie im teuren Kilwa so lange zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="242,2048 1513,1920 3615,2031 4057,1942 4057,1829 241,1859"/>
+                <Baseline points="266,1965 454,1954 642,1945 831,1937 1019,1930 1208,1924 1396,1919 1584,1915 1773,1912 1961,1911 2150,1909 2338,1909 2526,1909 2715,1910 2903,1911 3092,1913 3280,1915 3468,1918 3657,1921 3845,1924 4034,1927"/>
+                <TextEquiv>
+                    <Unicode>ernähren geht über meine Kraft u. neue bekommt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="248,2148 647,2101 889,2157 958,2113 1049,2144 1203,2098 1355,2151 1356,1976 1256,1960 1065,2054 881,2039 734,1967 609,2069 245,2044"/>
+                <Baseline points="269,2111 322,2112 375,2113 428,2113 481,2113 535,2112 588,2111 641,2110 694,2108 747,2107 801,2105 854,2103 907,2101 960,2099 1013,2098 1067,2096 1120,2095 1173,2094 1226,2094 1279,2094 1333,2094"/>
+                <TextEquiv>
+                    <Unicode>man hier nicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="380,2328 668,2424 1467,2259 2358,2277 2501,2389 2735,2273 3584,2381 3904,2288 3902,2156 3237,2102 378,2196"/>
+                <Baseline points="402,2316 576,2307 750,2298 924,2290 1098,2283 1272,2277 1446,2272 1620,2268 1794,2264 1968,2261 2142,2259 2316,2258 2490,2257 2664,2257 2838,2258 3012,2259 3186,2261 3360,2263 3534,2266 3708,2270 3882,2273"/>
+                <TextEquiv>
+                    <Unicode>23. Sept. Gepackt. Abends einer Einladung des Hrn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="247,2506 3088,2579 3804,2522 3875,2390 1345,2298 978,2421 247,2393"/>
+                <Baseline points="272,2473 451,2471 630,2469 809,2468 988,2467 1167,2467 1346,2466 1525,2466 1704,2467 1883,2467 2062,2467 2241,2467 2420,2468 2599,2468 2778,2468 2957,2468 3136,2468 3315,2467 3494,2466 3673,2464 3853,2463"/>
+                <TextEquiv>
+                    <Unicode>Schirmer folgend zur Klub-Versammlung in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="279,2737 623,2637 1791,2738 2050,2620 2738,2736 3016,2618 3271,2735 3897,2635 3897,2522 3605,2485 3115,2585 279,2501"/>
+                <Baseline points="302,2628 480,2628 659,2627 837,2627 1016,2627 1195,2626 1373,2626 1552,2625 1730,2625 1909,2624 2088,2624 2266,2623 2445,2623 2623,2622 2802,2622 2981,2622 3159,2621 3338,2621 3516,2622 3695,2622 3874,2622"/>
+                <TextEquiv>
+                    <Unicode>herrlich auf d. Ssingino gelegenen eigenen Hause. Mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="293,2852 1725,2776 1948,2892 2719,2775 3540,2875 3996,2786 3995,2663 2048,2622 1762,2729 1455,2628 843,2733 626,2637 292,2748"/>
+                <Baseline points="316,2795 498,2794 681,2792 864,2790 1047,2788 1230,2785 1413,2782 1596,2780 1779,2777 1962,2775 2145,2772 2327,2770 2510,2768 2693,2766 2876,2764 3059,2763 3242,2762 3425,2762 3608,2762 3791,2763 3974,2765"/>
+                <TextEquiv>
+                    <Unicode>einem Herrn Moll in dessen Wagen bis zum Fuß des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="288,2952 4029,3007 4028,2819 3613,2765 288,2858"/>
+                <Baseline points="311,2940 495,2937 680,2934 865,2931 1050,2929 1234,2927 1419,2926 1604,2924 1789,2923 1973,2922 2158,2921 2343,2921 2528,2920 2712,2919 2897,2918 3082,2917 3267,2916 3451,2915 3636,2914 3821,2912 4006,2910"/>
+                <TextEquiv>
+                    <Unicode>Berges gefahren. Wie eine deutsche Landstraße. Am Aufstiege</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="276,3122 2815,3067 3720,3183 4035,3120 4035,3011 275,3004"/>
+                <Baseline points="300,3106 485,3097 671,3089 856,3084 1042,3079 1227,3075 1413,3072 1598,3070 1784,3069 1969,3069 2155,3069 2341,3069 2526,3069 2712,3070 2897,3070 3083,3070 3268,3070 3454,3069 3639,3068 3825,3066 4011,3063"/>
+                <TextEquiv>
+                    <Unicode>die Quelle der städtischen Wasserleitung wegen des großen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="311,3356 3546,3273 3866,3236 3865,3119 309,3182"/>
+                <Baseline points="332,3257 507,3252 682,3248 858,3243 1033,3240 1209,3237 1384,3234 1560,3232 1735,3229 1911,3228 2086,3226 2261,3224 2437,3223 2612,3222 2788,3221 2963,3220 3139,3218 3314,3217 3490,3216 3665,3215 3841,3213"/>
+                <TextEquiv>
+                    <Unicode>sofort kräftig fließenden Wasserreichtums bewundert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="260,3435 3837,3445 3834,3275 3673,3245 443,3370 257,3275"/>
+                <Baseline points="282,3421 458,3415 634,3410 811,3405 987,3401 1164,3396 1340,3392 1517,3387 1693,3384 1870,3380 2046,3376 2222,3373 2399,3370 2575,3367 2752,3364 2928,3362 3105,3359 3281,3357 3458,3355 3634,3353 3811,3351"/>
+                <TextEquiv>
+                    <Unicode>Leider hat mein grade eine brackige Quelle gefaßt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="289,3591 1124,3657 1382,3540 1727,3659 1914,3538 3836,3529 3047,3374 2851,3480 2652,3374 288,3483"/>
+                <Baseline points="314,3566 488,3558 663,3550 838,3544 1013,3539 1188,3534 1363,3531 1537,3528 1712,3525 1887,3523 2062,3522 2237,3521 2412,3520 2587,3519 2761,3519 2936,3518 3111,3517 3286,3516 3461,3515 3636,3514 3811,3512"/>
+                <TextEquiv>
+                    <Unicode>die andern sollen besser sein. Immerhin ein hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582814640522_547" custom="readingOrder {index:21;}">
+                <Coords points="293,3779 3868,3734 4003,3554 290,3596"/>
+                <Baseline points="315,3714 386,3713 457,3712 528,3710 599,3709 670,3707 741,3706 812,3704 883,3703 954,3701 1026,3699 1097,3697 1168,3696 1239,3694 1310,3693 1381,3691 1452,3690 1523,3689 1594,3688 1665,3687 1737,3687 2009,3703 2107,3698 2206,3693 2304,3688 2403,3685 2502,3681 2600,3677 2699,3675 2797,3672 2896,3670 2995,3669 3093,3668 3192,3667 3290,3666 3389,3666 3488,3665 3586,3665 3685,3666 3783,3666 3882,3667 3981,3668"/>
+                <TextEquiv>
+                    <Unicode>ungewohnter Segen. Köstlicher Abend mit Blick auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="277,3915 3815,3886 3812,3731 3283,3675 2932,3776 2534,3675 274,3774"/>
+                <Baseline points="301,3885 475,3876 650,3866 824,3859 999,3852 1173,3847 1348,3842 1522,3838 1697,3834 1871,3831 2046,3829 2220,3826 2395,3825 2569,3823 2744,3821 2918,3819 3093,3818 3267,3815 3442,3813 3616,3810 3791,3807"/>
+                <TextEquiv>
+                    <Unicode>die Bucht. Hr. Schirmer u. ich blieben für d. Nacht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="289,4093 3893,4023 3889,3863 3037,3928 2629,3825 1888,3962 285,3923"/>
+                <Baseline points="311,4045 498,4043 685,4040 872,4035 1060,4030 1247,4024 1434,4018 1622,4011 1809,4005 1996,3997 2184,3991 2371,3985 2558,3980 2746,3975 2933,3971 3120,3969 3308,3967 3495,3968 3682,3970 3870,3974"/>
+                <TextEquiv>
+                    <Unicode>d. andern 4 Herren gingen nachts gegen 12 zurück.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;} textStyle {offset:0; length:20;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="386,4299 3871,4185 3867,4030 3574,3984 2644,4132 2462,4004 1613,4145 1124,4019 934,4136 381,4077"/>
+                <Baseline points="409,4205 580,4206 752,4207 924,4206 1096,4205 1268,4203 1439,4201 1611,4198 1783,4194 1955,4190 2127,4186 2298,4182 2470,4177 2642,4172 2814,4167 2986,4162 3157,4156 3329,4152 3501,4147 3673,4143 3845,4139"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 24. Sept. Köstlicher Morgen mit Abschiedsblick</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="317,4427 3836,4359 3832,4199 2955,4175 2496,4290 2003,4180 315,4323"/>
+                <Baseline points="342,4392 515,4387 689,4383 862,4378 1036,4373 1209,4368 1383,4363 1556,4358 1730,4354 1903,4349 2077,4344 2251,4340 2424,4336 2598,4331 2771,4327 2945,4323 3118,4319 3292,4315 3465,4310 3639,4307 3813,4303"/>
+                <TextEquiv>
+                    <Unicode>auf d. afrikanische Küstenland. Im Orte heut mohame„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="307,4571 3728,4600 4005,4540 4004,4427 305,4439"/>
+                <Baseline points="329,4541 511,4537 694,4534 876,4530 1059,4528 1242,4525 1424,4522 1607,4519 1789,4517 1972,4514 2155,4512 2337,4510 2520,4507 2702,4505 2885,4503 3068,4501 3250,4499 3433,4496 3615,4494 3798,4492 3981,4490"/>
+                <TextEquiv>
+                    <Unicode>danisches Neujahr, Rhamazan. Besuche der Inder u. Schwarzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="310,4771 449,4701 633,4706 735,4798 831,4710 1008,4796 1740,4669 2334,4701 2375,4610 1779,4521 1174,4650 653,4541 306,4615"/>
+                <Baseline points="333,4697 433,4699 534,4700 635,4700 736,4699 837,4698 938,4695 1039,4692 1140,4689 1241,4685 1342,4682 1442,4678 1543,4675 1644,4671 1745,4668 1846,4665 1947,4663 2048,4661 2149,4660 2250,4660 2351,4660"/>
+                <TextEquiv>
+                    <Unicode>bei d. Europäern u. Bewirtung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="542,4934 1145,4934 1285,4846 1418,4943 1595,4808 2916,4919 3368,4888 3366,4751 2253,4666 2136,4748 1871,4686 733,4799 538,4713"/>
+                <Baseline points="562,4849 708,4841 854,4836 1000,4830 1147,4826 1293,4822 1439,4819 1585,4816 1732,4814 1878,4812 2024,4810 2170,4809 2317,4807 2463,4806 2609,4805 2755,4803 2902,4802 3048,4800 3194,4797 3341,4794"/>
+                <TextEquiv>
+                    <Unicode>Spaziergang durch d. Ort. Fast täglich Abendschoppen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>33&#xD;
+Ambrosius kennen, der in d. Matumbi-Bergen die&#xD;
+Höhlen entdeckt hat u. dort jetzt für Leipzig (Weule)&#xD;
+Ausgrabungen macht (alte Niederlassungen.) Sandte 2 mei„&#xD;
+ner Leute mit, um im Jura zu sammeln, da mir&#xD;
+leider keine Zeit mehr bleibt dorthin zu kommen;&#xD;
+die Bornhardt-Route nicht mehr gangbar, der neue&#xD;
+Weg 2 Tage längs der Küste im flachen Vorlande.&#xD;
+Habe auch keine Träger mehr, wenn ich in nächsten Tagen&#xD;
+etwa fort wollte, sie im teuren Kilwa so lange zu&#xD;
+ernähren geht über meine Kraft u. neue bekommt&#xD;
+man hier nicht.&#xD;
+23. Sept. Gepackt. Abends einer Einladung des Hrn.&#xD;
+Schirmer folgend zur Klub-Versammlung in dem&#xD;
+herrlich auf d. Ssingino gelegenen eigenen Hause. Mit&#xD;
+einem Herrn Moll in dessen Wagen bis zum Fuß des&#xD;
+Berges gefahren. Wie eine deutsche Landstraße. Am Aufstiege&#xD;
+die Quelle der städtischen Wasserleitung wegen des großen&#xD;
+sofort kräftig fließenden Wasserreichtums bewundert.&#xD;
+Leider hat mein grade eine brackige Quelle gefaßt,&#xD;
+die andern sollen besser sein. Immerhin ein hier&#xD;
+ungewohnter Segen. Köstlicher Abend mit Blick auf&#xD;
+die Bucht. Hr. Schirmer u. ich blieben für d. Nacht,&#xD;
+d. andern 4 Herren gingen nachts gegen 12 zurück.&#xD;
+Sonntag d. 24. Sept. Köstlicher Morgen mit Abschiedsblick&#xD;
+auf d. afrikanische Küstenland. Im Orte heut mohame„&#xD;
+danisches Neujahr, Rhamazan. Besuche der Inder u. Schwarzen&#xD;
+bei d. Europäern u. Bewirtung.&#xD;
+Spaziergang durch d. Ort. Fast täglich Abendschoppen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

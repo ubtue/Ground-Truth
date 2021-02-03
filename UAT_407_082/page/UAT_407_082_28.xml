@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:13.755+02:00</Created>
+        <LastChange>2020-03-04T12:09:39.921+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581476" pageNr="28" tsid="24766673" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=TCOGDHLJBBWVAZRLOAUNGCEP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YJERZMFCRGXHWPEVCYMXEOAI" imageId="4579365"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_28.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255746642" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="297,250 297,4559 3988,4559 3988,250"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="271,372 298,373 320,392 388,385 401,399 442,378 478,383 483,222 447,216 401,251 362,213 276,220"/>
+                <Baseline points="297,320 323,324 349,327 376,328 402,328 428,327 455,326"/>
+                <TextEquiv>
+                    <Unicode>26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582814108533_455" custom="readingOrder {index:1;}">
+                <Coords points="417,690 1719,592 3406,708 3959,636 3960,520 2161,398 1765,521 418,475"/>
+                <Baseline points="438,588 492,591 546,593 600,595 654,596 708,597 762,597 817,597 871,597 925,596 979,596 1033,595 1087,594 1141,593 1196,592 1250,591 1304,591 1358,591 1412,591 1466,591 1521,592 1542,576 1661,584 1781,591 1901,596 2021,600 2141,603 2260,605 2380,606 2500,607 2620,607 2740,607 2859,606 2979,606 3099,606 3219,607 3339,607 3458,609 3578,611 3698,614 3818,619 3938,624"/>
+                <TextEquiv>
+                    <Unicode>ist das südlich von ihr für base. level plain gradezu typische Plateau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="399,786 3968,831 3968,656 399,714"/>
+                <Baseline points="423,757 596,755 769,753 942,750 1115,748 1288,746 1461,743 1634,741 1807,739 1980,738 2153,736 2326,736 2499,736 2672,736 2845,737 3018,740 3191,743 3364,747 3537,752 3710,758 3883,766 3945,777"/>
+                <TextEquiv>
+                    <Unicode>vom Matandu her angeschnitten. Ich fand dort wieder den „bunten“,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="302,915 872,901 1038,1009 3704,939 3704,849 3242,751 2456,747 2151,864 302,812"/>
+                <Baseline points="326,882 493,891 661,897 829,902 997,906 1164,907 1332,908 1500,907 1668,906 1835,905 2003,902 2171,900 2339,898 2506,896 2674,894 2842,893 3010,893 3177,894 3345,897 3513,900 3681,906"/>
+                <TextEquiv>
+                    <Unicode>in seltsamen Gestalten verwitternden Sandstein von Maliwe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="356,1104 3992,1123 3990,961 3217,895 355,1046"/>
+                <Baseline points="379,1082 558,1084 738,1085 917,1084 1097,1082 1276,1079 1456,1075 1635,1071 1815,1067 1994,1062 2174,1058 2353,1053 2533,1050 2712,1047 2892,1044 3071,1043 3251,1043 3430,1045 3610,1048 3789,1053 3969,1060"/>
+                <TextEquiv>
+                    <Unicode>Namakanga u. die unglaublichen moränenartigen Blockhäufungen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="401,1236 2730,1198 3391,1305 3511,1196 3974,1250 3973,1125 400,1164"/>
+                <Baseline points="424,1224 600,1224 776,1224 953,1223 1129,1221 1306,1218 1482,1215 1658,1212 1835,1209 2011,1206 2188,1203 2364,1200 2540,1198 2717,1196 2893,1195 3070,1195 3246,1196 3422,1198 3599,1202 3775,1206 3952,1212"/>
+                <TextEquiv>
+                    <Unicode>u. was am interessantesten war, einen dieser großen Blöcke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582814115148_460" custom="readingOrder {index:6;}">
+                <Coords points="407,1388 3953,1389 3952,1237 3579,1195 3396,1300 406,1240"/>
+                <Baseline points="430,1373 580,1368 731,1364 882,1360 1032,1357 1183,1353 1334,1350 1484,1347 1635,1345 1786,1343 1937,1341 2087,1340 2238,1338 2389,1338 2539,1337 2690,1337 2841,1338 2991,1339 3142,1340 3293,1341 3444,1343 3501,1328 3526,1330 3551,1331 3576,1333 3601,1334 3626,1334 3652,1335 3677,1336 3702,1336 3727,1337 3752,1337 3777,1338 3803,1338 3828,1339 3853,1340 3878,1342 3903,1344 3929,1346"/>
+                <TextEquiv>
+                    <Unicode>völlig in d. Sandstein eingeschlossen, so daß sich die „Moränen“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="411,1533 753,1639 1748,1491 3926,1544 3252,1359 410,1430"/>
+                <Baseline points="432,1514 605,1515 779,1515 952,1514 1126,1512 1300,1510 1473,1507 1647,1504 1821,1500 1994,1497 2168,1494 2342,1492 2515,1490 2689,1489 2863,1489 3036,1491 3210,1493 3384,1498 3557,1504 3731,1513 3905,1523"/>
+                <TextEquiv>
+                    <Unicode>deutlich als Restbestand der Ausräumung zu erkennen geben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="398,1725 1889,1772 3242,1624 3594,1716 3831,1657 3829,1545 1767,1487 1370,1630 395,1595"/>
+                <Baseline points="419,1684 588,1685 757,1685 927,1683 1096,1681 1266,1679 1435,1675 1605,1671 1774,1667 1944,1663 2113,1658 2282,1654 2452,1650 2621,1645 2791,1641 2960,1638 3130,1635 3299,1633 3469,1632 3638,1632 3808,1633"/>
+                <TextEquiv>
+                    <Unicode>Die Entstehung des Muttergesteins ist mir nun aber ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="401,1843 1260,1924 3916,1820 3811,1664 3235,1633 2340,1768 400,1727"/>
+                <Baseline points="425,1823 598,1824 771,1823 945,1823 1118,1821 1292,1820 1465,1818 1638,1815 1812,1813 1985,1810 2159,1806 2332,1803 2505,1799 2679,1796 2852,1793 3026,1790 3199,1786 3372,1783 3546,1781 3719,1778 3893,1776"/>
+                <TextEquiv>
+                    <Unicode>unklar, den fluvial ist es wegen der horizontalen Ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="425,2027 3886,2002 3884,1823 423,1852"/>
+                <Baseline points="446,1978 616,1974 787,1971 958,1967 1129,1964 1300,1961 1471,1958 1641,1955 1812,1953 1983,1950 2154,1948 2325,1946 2496,1944 2667,1941 2837,1939 3008,1937 3179,1934 3350,1932 3521,1929 3692,1927 3863,1923"/>
+                <TextEquiv>
+                    <Unicode>breitung nicht u. marin kann ich mir die ganz ortsfremden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="439,2211 926,2104 1116,2200 2107,2086 2454,2179 2587,2087 3260,2086 3258,1947 436,2045"/>
+                <Baseline points="458,2102 596,2101 735,2100 874,2099 1013,2097 1152,2095 1291,2093 1430,2091 1569,2088 1708,2085 1847,2083 1985,2080 2124,2078 2263,2075 2402,2073 2541,2070 2680,2069 2819,2067 2958,2066 3097,2065 3236,2064"/>
+                <TextEquiv>
+                    <Unicode>gewaltigen (u. gerundeten!) Blöcke nicht vorstellen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="774,2308 1496,2225 1699,2325 1873,2223 2085,2323 2411,2210 2781,2302 3277,2186 3624,2266 3843,2182 3841,2078 772,2178"/>
+                <Baseline points="795,2229 946,2228 1097,2227 1248,2226 1399,2225 1551,2224 1702,2223 1853,2221 2004,2220 2155,2218 2307,2215 2458,2213 2609,2210 2760,2208 2911,2204 3063,2201 3214,2196 3365,2192 3516,2187 3667,2182 3819,2177"/>
+                <TextEquiv>
+                    <Unicode>Auf dem Rückweg am Graben. Habe jetzt leider nichts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="487,2460 1110,2363 1331,2482 1869,2374 3010,2448 3148,2347 3508,2438 3867,2412 3865,2224 486,2316"/>
+                <Baseline points="507,2363 673,2367 840,2370 1007,2372 1174,2374 1341,2375 1508,2375 1675,2375 1842,2374 2009,2372 2176,2370 2342,2368 2509,2365 2676,2362 2843,2359 3010,2355 3177,2351 3344,2347 3511,2344 3678,2340 3845,2336"/>
+                <TextEquiv>
+                    <Unicode>zu tun, als Aufseher zu spielen, die Leute außer d. Prae„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="474,2667 1500,2550 2633,2629 3183,2512 3525,2604 3870,2544 3868,2446 3359,2356 470,2474"/>
+                <Baseline points="494,2569 661,2564 829,2559 996,2555 1164,2550 1331,2547 1499,2543 1666,2539 1834,2536 2001,2533 2169,2530 2337,2527 2504,2524 2672,2522 2839,2520 3007,2517 3174,2515 3342,2513 3509,2512 3677,2510 3845,2509"/>
+                <TextEquiv>
+                    <Unicode>paratoren gleichfalls nicht, der Kostenpunkt u. d. Verpacken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="478,2719 1804,2801 2018,2691 2414,2785 2673,2678 3854,2686 3731,2575 2937,2625 2765,2533 2636,2634 2429,2538 478,2665"/>
+                <Baseline points="500,2705 666,2704 833,2702 999,2700 1166,2698 1333,2695 1499,2692 1666,2689 1833,2685 1999,2682 2166,2679 2333,2676 2499,2674 2666,2672 2833,2670 2999,2669 3166,2668 3333,2669 3499,2670 3666,2672 3833,2675"/>
+                <TextEquiv>
+                    <Unicode>in Kilwa verlangt gleichfalls, daß ich bald abmarschiere, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="511,2865 2303,2928 3298,2804 3699,2902 3898,2710 509,2717"/>
+                <Baseline points="531,2837 698,2840 865,2841 1032,2842 1199,2842 1367,2842 1534,2841 1701,2839 1868,2836 2035,2834 2203,2830 2370,2827 2537,2823 2704,2819 2871,2816 3039,2812 3206,2808 3373,2804 3540,2801 3707,2798 3875,2795"/>
+                <TextEquiv>
+                    <Unicode>wer bringt die vielen Lasten fort. Ich kann keine Träger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="486,3028 2942,3074 3915,3006 3915,2854 486,2911"/>
+                <Baseline points="509,3002 678,3001 847,3000 1016,3000 1186,2999 1355,2998 1524,2997 1693,2996 1863,2995 2032,2994 2201,2993 2370,2992 2540,2991 2709,2991 2878,2990 3047,2989 3217,2988 3386,2988 3555,2987 3724,2987 3894,2987"/>
+                <TextEquiv>
+                    <Unicode>bekommen. Das Bez.-Amt hatte ich gebeten (mit Widerwillen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="501,3193 3935,3162 3934,3009 3669,2988 2673,3089 500,3031"/>
+                <Baseline points="523,3148 692,3146 862,3144 1031,3142 1201,3141 1370,3139 1540,3138 1709,3138 1879,3137 2048,3136 2218,3135 2387,3135 2557,3134 2726,3133 2896,3132 3065,3131 3235,3129 3404,3128 3574,3126 3743,3124 3913,3121"/>
+                <TextEquiv>
+                    <Unicode>die Polizei angerufen) meine Forderung um Träger beim Jumben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="519,3323 3540,3325 3781,3177 517,3202"/>
+                <Baseline points="543,3296 703,3290 864,3284 1025,3279 1186,3275 1347,3271 1507,3267 1668,3264 1829,3261 1990,3258 2151,3256 2311,3254 2472,3252 2633,3250 2794,3249 2955,3247 3115,3246 3276,3245 3437,3244 3598,3242 3759,3241"/>
+                <TextEquiv>
+                    <Unicode>in Namanoro zu unterstützen. Da schickt mir der Sekretär zwei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="517,3474 1559,3507 1854,3398 2165,3495 2343,3375 3929,3452 4010,3217 3639,3323 514,3317"/>
+                <Baseline points="537,3429 709,3425 882,3421 1054,3417 1227,3414 1399,3410 1572,3407 1744,3403 1917,3400 2089,3397 2262,3394 2435,3391 2607,3387 2780,3384 2952,3381 3125,3377 3297,3374 3470,3370 3642,3367 3815,3363 3988,3358"/>
+                <TextEquiv>
+                    <Unicode>Briefe an d. Akiden in Mavudyi und (!) Nakihu (4 Tage entfernt)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="521,3668 1237,3549 3393,3609 3832,3535 3830,3414 519,3529"/>
+                <Baseline points="540,3574 703,3570 867,3566 1030,3563 1194,3561 1357,3558 1521,3555 1684,3553 1848,3551 2011,3549 2175,3547 2338,3544 2502,3542 2665,3540 2829,3537 2992,3535 3156,3531 3319,3528 3483,3524 3646,3520 3810,3516"/>
+                <TextEquiv>
+                    <Unicode>„das Unternehmen zu unterstützen“, die Akiden haben's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="507,3758 1178,3830 1825,3691 2920,3670 3193,3775 3747,3670 3690,3563 2831,3537 2233,3653 1233,3550 505,3686"/>
+                <Baseline points="530,3745 689,3737 849,3731 1009,3724 1169,3719 1328,3713 1488,3709 1648,3704 1808,3701 1967,3697 2127,3693 2287,3690 2447,3686 2606,3683 2766,3679 2926,3674 3086,3670 3245,3665 3405,3660 3565,3654 3725,3647"/>
+                <TextEquiv>
+                    <Unicode>an die verschiedensten wer weiß wo wohnenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="550,3990 840,3896 1480,3977 2517,3839 3784,3861 3725,3669 3330,3672 3189,3784 2535,3677 1803,3824 545,3792"/>
+                <Baseline points="569,3892 728,3890 888,3888 1047,3885 1207,3882 1367,3878 1526,3874 1686,3869 1846,3864 2005,3859 2165,3854 2325,3849 2484,3844 2644,3838 2804,3833 2963,3829 3123,3824 3283,3819 3442,3815 3602,3811 3762,3808"/>
+                <TextEquiv>
+                    <Unicode>Jumben weitergeben u. dort ist's natürlich im Sande</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:24;}">
+                <Coords points="513,4034 3790,4023 3732,3840 1486,3978 509,3886"/>
+                <Baseline points="537,4030 698,4029 860,4027 1021,4025 1183,4023 1344,4020 1506,4017 1667,4014 1829,4011 1990,4007 2152,4004 2313,4000 2475,3996 2636,3992 2798,3988 2959,3984 3121,3980 3282,3976 3444,3972 3605,3969 3767,3965"/>
+                <TextEquiv>
+                    <Unicode>verlaufen, weil man von keinem Menschen ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
+                <Coords points="516,4254 1563,4277 1870,4154 2362,4274 2902,4132 3883,4206 3879,4031 3649,3968 3247,4084 2500,3997 1156,4142 512,4030"/>
+                <Baseline points="536,4190 702,4190 868,4188 1034,4185 1200,4181 1366,4177 1532,4172 1698,4167 1864,4161 2030,4156 2197,4151 2363,4146 2529,4142 2695,4137 2861,4134 3027,4132 3193,4131 3359,4132 3525,4133 3691,4137 3858,4141"/>
+                <TextEquiv>
+                    <Unicode>langen kann, daß er mehrere Tage weit marschiert u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:26;}">
+                <Coords points="516,4397 3775,4325 3249,4152 2307,4286 516,4208"/>
+                <Baseline points="540,4345 700,4337 861,4332 1021,4328 1182,4325 1343,4324 1503,4324 1664,4325 1825,4326 1985,4327 2146,4329 2307,4330 2467,4331 2628,4332 2789,4332 2949,4331 3110,4328 3271,4325 3431,4319 3592,4312 3753,4302"/>
+                <TextEquiv>
+                    <Unicode>dabei sein Geld ausgiebt, um hier für 70 heller eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:27;}">
+                <Coords points="442,4559 3431,4631 3755,4593 3756,4463 1938,4355 1727,4439 1593,4330 1417,4450 443,4402"/>
+                <Baseline points="465,4507 628,4505 791,4503 955,4501 1118,4501 1282,4501 1445,4501 1609,4502 1772,4503 1936,4504 2099,4506 2262,4507 2426,4510 2589,4512 2753,4514 2916,4516 3080,4518 3243,4520 3407,4522 3570,4523 3734,4524"/>
+                <TextEquiv>
+                    <Unicode>Last zu schleppen. Es muß, weiß Gott, Deutsche geben, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>26&#xD;
+ist das südlich von ihr für base. level plain gradezu typische Plateau&#xD;
+vom Matandu her angeschnitten. Ich fand dort wieder den „bunten“,&#xD;
+in seltsamen Gestalten verwitternden Sandstein von Maliwe-&#xD;
+Namakanga u. die unglaublichen moränenartigen Blockhäufungen,&#xD;
+u. was am interessantesten war, einen dieser großen Blöcke&#xD;
+völlig in d. Sandstein eingeschlossen, so daß sich die „Moränen“&#xD;
+deutlich als Restbestand der Ausräumung zu erkennen geben.&#xD;
+Die Entstehung des Muttergesteins ist mir nun aber ganz&#xD;
+unklar, den fluvial ist es wegen der horizontalen Ver„&#xD;
+breitung nicht u. marin kann ich mir die ganz ortsfremden&#xD;
+gewaltigen (u. gerundeten!) Blöcke nicht vorstellen.&#xD;
+Auf dem Rückweg am Graben. Habe jetzt leider nichts&#xD;
+zu tun, als Aufseher zu spielen, die Leute außer d. Prae„&#xD;
+paratoren gleichfalls nicht, der Kostenpunkt u. d. Verpacken&#xD;
+in Kilwa verlangt gleichfalls, daß ich bald abmarschiere, aber&#xD;
+wer bringt die vielen Lasten fort. Ich kann keine Träger&#xD;
+bekommen. Das Bez.-Amt hatte ich gebeten (mit Widerwillen&#xD;
+die Polizei angerufen) meine Forderung um Träger beim Jumben&#xD;
+in Namanoro zu unterstützen. Da schickt mir der Sekretär zwei&#xD;
+Briefe an d. Akiden in Mavudyi und (!) Nakihu (4 Tage entfernt)&#xD;
+„das Unternehmen zu unterstützen“, die Akiden haben's&#xD;
+an die verschiedensten wer weiß wo wohnenden&#xD;
+Jumben weitergeben u. dort ist's natürlich im Sande&#xD;
+verlaufen, weil man von keinem Menschen ver„&#xD;
+langen kann, daß er mehrere Tage weit marschiert u.&#xD;
+dabei sein Geld ausgiebt, um hier für 70 heller eine&#xD;
+Last zu schleppen. Es muß, weiß Gott, Deutsche geben, die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

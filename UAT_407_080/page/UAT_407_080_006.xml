@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:53.179+02:00</Created>
+        <LastChange>2020-03-17T09:09:26.746+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550700" pageNr="6" tsid="25781100" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=XUIPTUCDIUJTTKTHXZREYBZU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EQFSHDRRXEIJAGZFNWQPLAXQ" imageId="4551578"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_006.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255535249" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="289,274 289,4976 3994,4976 3994,274"/>
+            <TextLine id="line_1582876333034_123" custom="readingOrder {index:0;}">
+                <Coords points="348,451 389,448 403,460 422,464 453,461 437,236 406,238 368,273 336,270"/>
+                <Baseline points="367,394 426,390"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876347705_131" custom="readingOrder {index:1;}">
+                <Coords points="631,453 3827,427 3895,262 3047,312 2691,182 1977,300 626,272"/>
+                <Baseline points="652,429 763,425 874,421 985,417 1096,414 1208,410 1319,405 1430,401 1541,396 1652,392 1764,389 1875,385 1986,381 2097,378 2208,376 2320,373 2431,371 2542,370 2653,369 2764,369 2876,369 3024,361 3066,361 3109,360 3151,360 3194,358 3236,356 3279,354 3321,352 3364,351 3406,349 3449,347 3491,345 3534,344 3576,343 3619,342 3661,342 3704,342 3746,343 3789,344 3831,347 3874,349"/>
+                <TextEquiv>
+                    <Unicode>27.III. Somaliküste, Vorgebirge Ras Hafun, niedriges, ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="398,602 3851,552 3847,426 3466,365 395,511"/>
+                <Baseline points="419,583 589,580 759,577 930,573 1100,567 1271,562 1441,556 1611,550 1782,544 1952,538 2123,532 2293,525 2463,519 2634,514 2804,508 2975,503 3145,498 3315,495 3486,492 3656,490 3827,488"/>
+                <TextEquiv>
+                    <Unicode>ebenes Land, aber Steilküste, horizontale Lagerung. Weiße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} textStyle {offset:35; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="421,764 1956,808 2929,686 3179,794 3416,672 3833,759 3993,589 1818,661 1153,556 419,660"/>
+                <Baseline points="442,740 618,734 794,728 971,723 1147,718 1324,713 1500,709 1677,705 1853,701 2030,697 2206,694 2382,690 2559,687 2735,685 2912,683 3088,680 3265,679 3441,677 3618,676 3794,675 3971,674"/>
+                <TextEquiv>
+                    <Unicode>u. rote Farben, letztere besonders auf in d. höheren Lagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="421,939 940,911 1190,1014 1328,894 1560,993 1770,876 1966,989 2144,882 2650,885 2647,740 2386,791 2214,731 1990,822 1862,752 1339,767 1232,842 963,734 418,768"/>
+                <Baseline points="441,909 550,908 659,906 768,903 878,901 987,898 1096,894 1205,891 1315,888 1424,885 1533,882 1642,879 1752,876 1861,874 1970,872 2079,871 2189,870 2298,870 2407,871 2516,872 2626,874"/>
+                <TextEquiv>
+                    <Unicode>(Verwitterungserscheinung, Laterit?)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582876360186_139" custom="readingOrder {index:5;}">
+                <Coords points="268,1120 3897,1056 3890,840 3323,782 3008,942 262,940"/>
+                <Baseline points="289,1063 396,1069 504,1072 612,1073 720,1072 827,1070 935,1068 1043,1063 1151,1059 1258,1054 1366,1048 1474,1042 1582,1037 1689,1032 1797,1027 1905,1023 2013,1020 2120,1019 2228,1018 2336,1020 2444,1023 2569,1008 2634,1006 2699,1003 2764,1000 2829,997 2894,994 2959,990 3024,987 3089,984 3154,982 3220,978 3285,976 3350,974 3415,972 3480,970 3545,969 3610,968 3675,969 3740,969 3805,971 3871,973"/>
+                <TextEquiv>
+                    <Unicode>27. u. 28. Zahlreiche Scharen fliegender Fische vom Schiff auf„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="439,1370 819,1365 1021,1222 1243,1354 1450,1206 3357,1235 3657,1178 3652,1025 433,1199"/>
+                <Baseline points="460,1273 618,1261 777,1251 936,1242 1094,1234 1253,1226 1412,1220 1570,1214 1729,1208 1888,1202 2047,1198 2205,1193 2364,1189 2523,1184 2681,1179 2840,1174 2999,1168 3157,1162 3316,1156 3475,1148 3634,1140"/>
+                <TextEquiv>
+                    <Unicode>gescheucht, meist klein, darunter aber vereinzelte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="428,1516 1573,1345 1831,1467 2363,1331 3647,1373 3691,1190 1691,1210 423,1376"/>
+                <Baseline points="445,1422 606,1411 767,1400 929,1390 1090,1380 1251,1371 1413,1361 1574,1354 1735,1345 1897,1339 2058,1332 2219,1326 2381,1321 2542,1317 2703,1314 2865,1312 3026,1310 3187,1310 3349,1311 3510,1313 3672,1316"/>
+                <TextEquiv>
+                    <Unicode>größere, die auch längere Strecken zurücklegen. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="395,1601 3951,1519 3947,1392 2694,1316 1840,1459 1489,1356 392,1515"/>
+                <Baseline points="414,1566 589,1559 765,1551 940,1543 1116,1536 1291,1529 1467,1522 1642,1515 1818,1508 1993,1501 2169,1495 2345,1490 2520,1485 2696,1480 2871,1477 3047,1474 3222,1471 3398,1470 3573,1469 3749,1470 3925,1471"/>
+                <TextEquiv>
+                    <Unicode>erste Eindruck ist der von Schwalben wegen der wei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="372,1779 3982,1684 3856,1520 3313,1488 368,1608"/>
+                <Baseline points="394,1705 572,1704 750,1701 928,1698 1106,1694 1284,1689 1462,1684 1641,1677 1819,1672 1997,1666 2175,1660 2353,1654 2531,1649 2709,1644 2888,1640 3066,1637 3244,1635 3422,1635 3600,1635 3778,1637 3957,1642"/>
+                <TextEquiv>
+                    <Unicode>ßen Bauch- u. graubläulichen Rückenseite, Geschwindig„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="378,1912 1702,1959 2366,1804 2645,1926 3070,1787 3579,1889 3833,1800 3829,1652 374,1791"/>
+                <Baseline points="399,1876 569,1872 740,1867 910,1861 1081,1855 1252,1848 1422,1841 1593,1835 1763,1828 1934,1822 2105,1816 2275,1810 2446,1804 2616,1800 2787,1795 2958,1792 3128,1789 3299,1787 3469,1786 3640,1786 3811,1788"/>
+                <TextEquiv>
+                    <Unicode>keit u. Richtungswechsel des Fluges. Der Flug geht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="400,2078 3930,2020 3923,1803 3697,1788 3578,1891 3079,1799 1670,1952 395,1907"/>
+                <Baseline points="420,2036 594,2029 768,2022 942,2015 1117,2007 1291,2000 1465,1994 1639,1987 1814,1980 1988,1974 2162,1968 2336,1962 2511,1956 2685,1952 2859,1947 3033,1943 3208,1939 3382,1936 3556,1933 3730,1931 3905,1930"/>
+                <TextEquiv>
+                    <Unicode>dicht über dem Wasser hin u. schmiegt sich den Wellen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="371,2215 3303,2099 3762,2198 3963,2102 3670,1971 368,2089"/>
+                <Baseline points="393,2189 570,2185 747,2180 925,2175 1102,2170 1280,2165 1457,2160 1634,2154 1812,2149 1989,2143 2167,2138 2344,2133 2521,2127 2699,2122 2876,2117 3054,2112 3231,2107 3408,2102 3586,2098 3763,2094 3941,2089"/>
+                <TextEquiv>
+                    <Unicode>bergen u. -tälern beliebig an. Ich würde keinen Augen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="372,2373 3778,2247 3308,2098 368,2238"/>
+                <Baseline points="393,2329 561,2322 729,2314 897,2307 1065,2299 1233,2292 1401,2285 1570,2278 1738,2271 1906,2265 2074,2259 2242,2254 2410,2250 2578,2245 2747,2242 2915,2239 3083,2237 3251,2236 3419,2236 3587,2237 3756,2239"/>
+                <TextEquiv>
+                    <Unicode>blick an wirklichem Fluge zweifeln, glaube sogar die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="359,2514 2826,2399 3064,2496 3412,2368 3597,2494 3928,2407 3925,2294 355,2369"/>
+                <Baseline points="379,2478 555,2473 731,2467 907,2461 1084,2454 1260,2447 1436,2440 1613,2433 1789,2426 1965,2419 2142,2412 2318,2406 2494,2400 2670,2395 2847,2391 3023,2387 3199,2385 3376,2384 3552,2384 3728,2386 3905,2389"/>
+                <TextEquiv>
+                    <Unicode>Bewegung der Flügel gelegentlich beobachtet zu haben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="404,2619 975,2711 1103,2595 1726,2563 3988,2583 3899,2458 3401,2383 403,2569"/>
+                <Baseline points="426,2608 612,2601 798,2593 984,2585 1171,2579 1357,2572 1543,2565 1729,2559 1916,2553 2102,2548 2288,2543 2474,2539 2661,2536 2847,2534 3033,2532 3219,2532 3406,2532 3592,2533 3778,2536 3965,2540"/>
+                <TextEquiv>
+                    <Unicode>wenn nicht Möbius' Autorität noch bis zum vollendeten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="390,2848 1163,2740 1520,2862 1997,2698 2530,2826 3813,2593 2456,2539 384,2690"/>
+                <Baseline points="410,2810 579,2793 748,2777 917,2764 1086,2752 1255,2741 1424,2733 1593,2725 1762,2718 1931,2712 2101,2707 2270,2702 2439,2697 2608,2693 2777,2689 2946,2684 3115,2678 3284,2673 3453,2667 3622,2660 3792,2652"/>
+                <TextEquiv>
+                    <Unicode>Beweis entgegenstünde. In Aden flogen übrigens auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="388,3004 4019,2874 4015,2766 3575,2709 383,2850"/>
+                <Baseline points="410,2945 589,2936 768,2926 947,2917 1126,2908 1305,2899 1484,2891 1664,2882 1843,2875 2022,2868 2201,2861 2380,2855 2559,2849 2738,2844 2918,2839 3097,2835 3276,2832 3455,2830 3634,2828 3813,2827 3993,2827"/>
+                <TextEquiv>
+                    <Unicode>Möven neben dem Schiff her in gleicher Schnelligkeit, nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="385,3192 3884,3048 3914,2875 378,3012"/>
+                <Baseline points="406,3113 580,3103 754,3094 929,3086 1103,3077 1278,3069 1452,3061 1626,3053 1801,3046 1975,3039 2150,3032 2324,3025 2498,3018 2673,3012 2847,3006 3022,3000 3196,2994 3370,2988 3545,2983 3719,2978 3894,2972"/>
+                <TextEquiv>
+                    <Unicode>Belieben es auch überholend, gegen den Wind und -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="363,3334 3510,3158 3924,3266 4013,3082 358,3194"/>
+                <Baseline points="384,3269 564,3262 745,3254 925,3246 1106,3238 1286,3229 1467,3220 1647,3212 1828,3204 2008,3195 2189,3188 2369,3180 2550,3174 2730,3168 2911,3164 3091,3160 3272,3157 3452,3156 3633,3156 3813,3157 3994,3160"/>
+                <TextEquiv>
+                    <Unicode>ohne d. Flügel zu regen. Mir war das Verhalten ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="382,3469 3779,3346 3630,3216 2897,3174 2684,3276 2491,3183 378,3343"/>
+                <Baseline points="402,3412 569,3405 737,3398 905,3390 1072,3383 1240,3375 1408,3367 1575,3359 1743,3352 1911,3345 2079,3338 2246,3332 2414,3326 2582,3321 2749,3316 2917,3312 3085,3309 3252,3307 3420,3305 3588,3305 3756,3305"/>
+                <TextEquiv>
+                    <Unicode>unklar, da auch d. Höhe die gleiche blieb. Ich kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="387,3573 1031,3646 1771,3503 3800,3512 3837,3402 2953,3319 2758,3420 2556,3319 2320,3431 1627,3368 1360,3486 385,3514"/>
+                <Baseline points="411,3554 581,3552 751,3549 922,3543 1092,3537 1262,3530 1433,3522 1603,3513 1773,3505 1944,3496 2114,3487 2284,3479 2455,3471 2625,3466 2795,3460 2966,3457 3136,3456 3306,3456 3477,3459 3647,3464 3818,3472"/>
+                <TextEquiv>
+                    <Unicode>nur annehmen, daß ein unsichtbares Vibrieren die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="384,3732 2285,3749 2791,3611 3594,3708 3818,3524 379,3596"/>
+                <Baseline points="406,3700 575,3697 745,3693 914,3688 1084,3683 1254,3676 1423,3671 1593,3664 1762,3657 1932,3651 2102,3644 2271,3638 2441,3632 2610,3626 2780,3621 2950,3617 3119,3613 3289,3610 3458,3609 3628,3608 3798,3609"/>
+                <TextEquiv>
+                    <Unicode>Wirkung hervorbringt. Ähnlich oder ebenso mögen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="379,3912 3990,3859 3953,3558 3592,3710 3426,3611 2956,3726 373,3732"/>
+                <Baseline points="399,3859 577,3854 755,3848 933,3841 1111,3835 1290,3827 1468,3820 1646,3812 1824,3805 2002,3798 2181,3792 2359,3785 2537,3778 2715,3773 2893,3768 3072,3764 3250,3761 3428,3758 3606,3757 3784,3757 3963,3758"/>
+                <TextEquiv>
+                    <Unicode>es die Fische machen. Auch mit Libellenflug ist d. Ähnlich„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="373,4073 538,4030 695,4096 824,4046 872,3999 1037,4069 1030,3893 990,3913 876,3890 810,3938 686,3889 552,3926 501,3896 444,3917 366,3902"/>
+                <Baseline points="393,4019 423,4020 454,4022 485,4023 516,4023 547,4023 578,4023 609,4022 640,4020 671,4019 702,4017 732,4016 763,4014 794,4012 825,4010 856,4008 887,4006 918,4004 949,4002 980,4001 1011,3999"/>
+                <TextEquiv>
+                    <Unicode>keit groß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="501,4206 3940,4173 3937,4015 2979,3977 499,4102"/>
+                <Baseline points="522,4203 691,4190 861,4179 1031,4169 1201,4159 1370,4152 1540,4145 1710,4138 1880,4133 2049,4128 2219,4124 2389,4121 2559,4119 2728,4118 2898,4117 3068,4117 3238,4118 3407,4119 3577,4121 3747,4123 3917,4125"/>
+                <TextEquiv>
+                    <Unicode>28.III: Küste außer Sicht. Seit gestern stärkere Wolken„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="380,4394 3837,4345 3833,4174 3625,4142 2530,4250 1589,4152 1104,4289 376,4200"/>
+                <Baseline points="401,4348 571,4344 742,4341 912,4337 1083,4333 1253,4328 1424,4323 1594,4319 1765,4314 1935,4310 2106,4305 2277,4302 2447,4298 2618,4294 2788,4291 2959,4289 3129,4287 3300,4286 3470,4285 3641,4285 3812,4286"/>
+                <TextEquiv>
+                    <Unicode>bildung, aber unverändert schönes Wetter. Etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="335,4604 1921,4457 3131,4456 3322,4566 3958,4515 3956,4393 3584,4286 3347,4403 2813,4294 331,4410"/>
+                <Baseline points="355,4508 534,4501 713,4494 892,4488 1071,4482 1250,4476 1429,4471 1608,4466 1787,4463 1966,4459 2145,4456 2324,4453 2503,4451 2682,4450 2861,4449 3040,4448 3219,4448 3398,4448 3577,4449 3756,4450 3935,4451"/>
+                <TextEquiv>
+                    <Unicode>Wind, im Schatten mittags 12° C. Gestern fast still, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="411,4680 914,4767 1057,4661 1378,4747 1973,4643 2105,4750 3119,4640 3328,4737 4013,4632 3130,4455 410,4571"/>
+                <Baseline points="434,4672 611,4664 789,4657 967,4650 1145,4644 1323,4638 1500,4632 1678,4627 1856,4623 2034,4619 2212,4616 2389,4613 2567,4611 2745,4610 2923,4610 3101,4610 3278,4611 3456,4613 3634,4616 3812,4619 3990,4624"/>
+                <TextEquiv>
+                    <Unicode>angenehmre Luft u. Stampfen des Schiffes infolge kaum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:29;}">
+                <Coords points="377,4923 505,4841 1698,4851 1866,4777 2040,4821 2034,4667 1727,4670 1491,4755 1167,4668 913,4768 607,4680 370,4747"/>
+                <Baseline points="398,4838 483,4834 568,4831 653,4828 738,4825 824,4821 909,4818 994,4816 1079,4813 1164,4810 1250,4806 1335,4804 1420,4800 1505,4797 1590,4794 1676,4790 1761,4787 1846,4784 1931,4780 2017,4776"/>
+                <TextEquiv>
+                    <Unicode>sichtbarer Dünung aus S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:30;}">
+                <Coords points="483,4962 604,4965 677,5015 807,4955 889,5009 979,4954 1047,4971 1195,4921 1372,5023 1467,4959 1512,4977 1511,4828 1447,4797 1123,4867 906,4814 685,4861 482,4840"/>
+                <Baseline points="505,4935 554,4938 603,4941 652,4943 701,4944 750,4943 799,4942 848,4941 897,4940 946,4937 996,4935 1045,4934 1094,4932 1143,4931 1192,4930 1241,4930 1290,4932 1339,4934 1388,4937 1437,4941 1487,4948"/>
+                <TextEquiv>
+                    <Unicode>29.III. Äquator-Taufe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4&#xD;
+27.III. Somaliküste, Vorgebirge Ras Hafun, niedriges, ganz&#xD;
+ebenes Land, aber Steilküste, horizontale Lagerung. Weiße&#xD;
+u. rote Farben, letztere besonders auf in d. höheren Lagen&#xD;
+(Verwitterungserscheinung, Laterit?)&#xD;
+27. u. 28. Zahlreiche Scharen fliegender Fische vom Schiff auf„&#xD;
+gescheucht, meist klein, darunter aber vereinzelte&#xD;
+größere, die auch längere Strecken zurücklegen. Der&#xD;
+erste Eindruck ist der von Schwalben wegen der wei„&#xD;
+ßen Bauch- u. graubläulichen Rückenseite, Geschwindig„&#xD;
+keit u. Richtungswechsel des Fluges. Der Flug geht&#xD;
+dicht über dem Wasser hin u. schmiegt sich den Wellen„&#xD;
+bergen u. -tälern beliebig an. Ich würde keinen Augen„&#xD;
+blick an wirklichem Fluge zweifeln, glaube sogar die&#xD;
+Bewegung der Flügel gelegentlich beobachtet zu haben,&#xD;
+wenn nicht Möbius' Autorität noch bis zum vollendeten&#xD;
+Beweis entgegenstünde. In Aden flogen übrigens auch&#xD;
+Möven neben dem Schiff her in gleicher Schnelligkeit, nach&#xD;
+Belieben es auch überholend, gegen den Wind und -&#xD;
+ohne d. Flügel zu regen. Mir war das Verhalten ganz&#xD;
+unklar, da auch d. Höhe die gleiche blieb. Ich kann&#xD;
+nur annehmen, daß ein unsichtbares Vibrieren die&#xD;
+Wirkung hervorbringt. Ähnlich oder ebenso mögen&#xD;
+es die Fische machen. Auch mit Libellenflug ist d. Ähnlich„&#xD;
+keit groß.&#xD;
+28.III: Küste außer Sicht. Seit gestern stärkere Wolken„&#xD;
+bildung, aber unverändert schönes Wetter. Etwas&#xD;
+Wind, im Schatten mittags 12° C. Gestern fast still, aber&#xD;
+angenehmre Luft u. Stampfen des Schiffes infolge kaum&#xD;
+sichtbarer Dünung aus S.&#xD;
+29.III. Äquator-Taufe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

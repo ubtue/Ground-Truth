@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:56.319+02:00</Created>
+        <LastChange>2020-04-01T09:41:06.301+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550771" pageNr="69" tsid="26822175" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=TNVWDBJLFUEOGMOAOBQESZUG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XWUIHFTAGEWYAWVSMDYGQXMR" imageId="4551649"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_069.jpg" imageWidth="4324" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255552196" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:0;}">
+            <Coords points="396,229 396,4906 4110,4906 4110,229"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="3710,325 3750,325 3772,343 3799,343 3817,330 3834,348 3879,339 3880,228 3853,232 3844,223 3831,228 3822,219 3791,218 3768,232 3711,231"/>
+                <Baseline points="3733,304 3758,305 3783,306 3808,305 3833,305 3859,306"/>
+                <TextEquiv>
+                    <Unicode>65</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:1;}">
+                <Coords points="375,400 634,364 830,479 1467,344 1779,455 2082,414 2176,476 2367,409 2367,271 2082,293 1930,227 1601,299 1467,224 1137,309 544,208 375,275"/>
+                <Baseline points="396,361 493,360 590,358 688,356 785,355 883,353 980,351 1078,349 1175,347 1273,346 1370,344 1467,343 1565,343 1662,343 1760,344 1857,345 1955,348 2052,351 2150,355 2247,361 2345,367"/>
+                <TextEquiv>
+                    <Unicode>Beckenknochen ist bereits freigelegt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:2;}">
+                <Coords points="533,604 1896,525 2414,630 2792,527 3848,549 3887,438 531,452"/>
+                <Baseline points="553,566 718,559 884,552 1049,546 1215,540 1381,535 1546,530 1712,526 1877,523 2043,520 2209,517 2374,515 2540,514 2705,514 2871,514 3037,514 3202,515 3368,517 3533,519 3699,522 3865,526"/>
+                <TextEquiv>
+                    <Unicode>4. Sept. Schoß morgens eine Zibethkatze in d. Falle an d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:3;}">
+                <Coords points="453,726 2851,783 3166,677 3680,797 3987,753 3986,611 452,668"/>
+                <Baseline points="476,716 650,714 824,712 999,710 1173,707 1348,704 1522,701 1697,698 1871,695 2046,692 2220,689 2394,687 2569,685 2743,683 2918,682 3092,682 3267,682 3441,683 3616,685 3790,688 3965,692"/>
+                <TextEquiv>
+                    <Unicode>neuen Quelle, ging dann weiter flußabwärts u. fand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l5" custom="readingOrder {index:4;}">
+                <Coords points="440,896 3943,884 3941,737 3023,691 439,807"/>
+                <Baseline points="461,866 633,864 806,862 979,859 1152,857 1325,855 1498,853 1671,851 1844,849 2017,847 2190,845 2362,843 2535,842 2708,841 2881,840 3054,839 3227,838 3400,838 3573,838 3746,838 3919,839"/>
+                <TextEquiv>
+                    <Unicode>mich zu meinem Erstaunen in kürzester Zeit an der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l6" custom="readingOrder {index:5;}">
+                <Coords points="441,1075 3391,1083 4045,939 440,919"/>
+                <Baseline points="462,1011 640,1014 818,1015 996,1015 1174,1015 1352,1014 1530,1012 1708,1009 1886,1006 2064,1004 2242,1001 2420,998 2598,995 2776,993 2954,992 3132,991 3310,991 3488,992 3666,994 3844,997 4022,1002"/>
+                <TextEquiv>
+                    <Unicode>Barrabarra, ich weiß nicht auf welchem Wege. Wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582889007085_2355" custom="readingOrder {index:6;}">
+                <Coords points="440,1248 3956,1244 3956,1101 3479,1029 1723,1143 440,1075"/>
+                <Baseline points="460,1167 522,1171 584,1174 646,1177 708,1179 770,1180 832,1181 895,1182 957,1182 1019,1182 1081,1182 1143,1182 1205,1181 1267,1181 1330,1181 1392,1181 1454,1181 1516,1181 1578,1181 1640,1182 1703,1184 2055,1168 2153,1171 2252,1174 2351,1175 2450,1176 2549,1176 2648,1176 2747,1175 2846,1175 2945,1174 3043,1173 3142,1173 3241,1174 3340,1175 3439,1177 3538,1180 3637,1184 3736,1190 3835,1197 3934,1205"/>
+                <TextEquiv>
+                    <Unicode>zum „Mtapaiasaurus“. Vielfach Land-(West-) u. Nordwind,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l9" custom="readingOrder {index:7;}">
+                <Coords points="441,1368 3333,1329 3894,1423 3894,1258 3645,1200 441,1279"/>
+                <Baseline points="461,1334 631,1333 801,1331 972,1330 1142,1329 1313,1327 1483,1326 1654,1326 1824,1325 1995,1324 2165,1324 2335,1324 2506,1324 2676,1325 2847,1325 3017,1327 3188,1328 3358,1330 3529,1332 3699,1335 3870,1338"/>
+                <TextEquiv>
+                    <Unicode>nachm. etwas Regen. Gegen Abend mit Janensch auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l10" custom="readingOrder {index:8;}">
+                <Coords points="447,1560 4026,1540 3536,1374 448,1427"/>
+                <Baseline points="469,1509 645,1501 822,1494 998,1488 1175,1484 1352,1481 1528,1479 1705,1478 1882,1478 2058,1479 2235,1480 2412,1482 2588,1484 2765,1486 2942,1489 3118,1491 3295,1493 3472,1495 3648,1497 3825,1499 4002,1500"/>
+                <TextEquiv>
+                    <Unicode>d. Wege zum Karani Ligoma, um ihm meinen neuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l11" custom="readingOrder {index:9;}">
+                <Coords points="461,1719 590,1736 750,1663 934,1772 1102,1672 1366,1758 1565,1667 1660,1746 1726,1701 1860,1735 2007,1666 2123,1705 2122,1602 1694,1598 1492,1525 1422,1575 682,1610 579,1562 459,1608"/>
+                <Baseline points="483,1677 563,1672 644,1668 725,1665 806,1662 887,1660 968,1658 1049,1656 1130,1655 1211,1654 1292,1654 1372,1653 1453,1653 1534,1653 1615,1653 1696,1653 1777,1653 1858,1653 1939,1653 2020,1653 2101,1653"/>
+                <TextEquiv>
+                    <Unicode>Knochenfund zu zeigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l12" custom="readingOrder {index:10;} textStyle {offset:0; length:18;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="626,1924 3460,1832 4133,1947 4133,1720 626,1697"/>
+                <Baseline points="649,1845 822,1840 995,1836 1168,1833 1341,1830 1514,1828 1687,1826 1860,1825 2033,1824 2206,1824 2379,1824 2552,1824 2725,1825 2898,1826 3071,1827 3244,1828 3417,1830 3590,1831 3763,1832 3936,1834 4110,1835"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 5 Sept: Bedeckt, wollte im Bache etwas „klopfen“,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l14" custom="readingOrder {index:11;}">
+                <Coords points="438,2078 3508,2003 3803,2103 3837,1871 437,1976"/>
+                <Baseline points="461,2015 628,2016 796,2016 964,2015 1131,2014 1299,2013 1467,2012 1634,2011 1802,2009 1970,2008 2138,2006 2305,2004 2473,2003 2641,2001 2808,2000 2976,1999 3144,1998 3311,1997 3479,1997 3647,1997 3815,1998"/>
+                <TextEquiv>
+                    <Unicode>wurde aber durch Regen vertrieben. D. ganzen Tag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l15" custom="readingOrder {index:12;}">
+                <Coords points="437,2248 1030,2298 1350,2175 1596,2241 1760,2168 2296,2285 2554,2186 2928,2223 2927,2063 2219,2094 1880,2011 1537,2125 1287,2033 436,2092"/>
+                <Baseline points="459,2191 581,2190 703,2188 826,2186 948,2183 1070,2181 1193,2179 1315,2176 1437,2174 1560,2172 1682,2171 1804,2169 1927,2168 2049,2168 2171,2168 2294,2169 2416,2171 2538,2173 2661,2177 2783,2180 2906,2186"/>
+                <TextEquiv>
+                    <Unicode>regnerisch. Gemalt, Briefe geschrieben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582889028927_2364" custom="readingOrder {index:13;}">
+                <Coords points="762,2469 4073,2446 3922,2299 3289,2326 3075,2201 2540,2353 2282,2259 762,2264"/>
+                <Baseline points="785,2419 832,2417 879,2415 926,2412 974,2410 1021,2407 1068,2405 1115,2403 1163,2400 1210,2399 1257,2397 1304,2395 1352,2394 1399,2394 1446,2394 1493,2394 1541,2395 1588,2396 1635,2398 1682,2401 1730,2404 1762,2388 1876,2389 1990,2390 2105,2390 2219,2390 2334,2390 2448,2390 2562,2390 2677,2390 2791,2390 2906,2390 3020,2391 3134,2392 3249,2393 3363,2395 3478,2397 3592,2400 3706,2403 3821,2407 3935,2413 4050,2419"/>
+                <TextEquiv>
+                    <Unicode>6 Sept. Nachm. Jagdausflug ohne etwas zu erblicken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l18" custom="readingOrder {index:14;}">
+                <Coords points="486,2636 3726,2686 4037,2635 4037,2511 485,2493"/>
+                <Baseline points="510,2607 685,2603 860,2599 1035,2596 1210,2593 1385,2591 1560,2589 1736,2587 1911,2586 2086,2586 2261,2585 2436,2585 2611,2584 2786,2584 2962,2584 3137,2584 3312,2584 3487,2584 3662,2585 3837,2585 4013,2584"/>
+                <TextEquiv>
+                    <Unicode>In Graben VIII sind mehrere ungeheure Rippenköpfe zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l19" custom="readingOrder {index:15;}">
+                <Coords points="524,2843 1140,2909 1874,2782 2325,2899 2614,2789 3181,2896 4080,2834 4079,2674 522,2665"/>
+                <Baseline points="545,2803 720,2804 896,2804 1071,2804 1247,2803 1423,2801 1598,2799 1774,2796 1949,2793 2125,2791 2301,2788 2476,2785 2652,2783 2827,2781 3003,2780 3179,2779 3354,2779 3530,2779 3705,2781 3881,2783 4057,2787"/>
+                <TextEquiv>
+                    <Unicode>Vorschein gekommen, die auch an der Rippennatur des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l20" custom="readingOrder {index:16;}">
+                <Coords points="491,3019 3932,3002 3931,2815 491,2859"/>
+                <Baseline points="515,2974 684,2973 854,2972 1024,2970 1194,2969 1364,2967 1533,2965 1703,2964 1873,2963 2043,2961 2213,2960 2382,2959 2552,2958 2722,2958 2892,2957 3062,2957 3231,2957 3401,2958 3571,2959 3741,2960 3911,2962"/>
+                <TextEquiv>
+                    <Unicode>2 m. langen, vermeintlichen Os pubis keinen Zweifel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l21" custom="readingOrder {index:17;}">
+                <Coords points="500,3190 4109,3144 4109,3041 3606,2997 500,3025"/>
+                <Baseline points="521,3138 699,3131 877,3125 1055,3120 1233,3116 1412,3112 1590,3109 1768,3106 1946,3105 2124,3104 2303,3104 2481,3104 2659,3105 2837,3106 3015,3108 3194,3111 3372,3113 3550,3117 3728,3120 3906,3124 4085,3128"/>
+                <TextEquiv>
+                    <Unicode>lassen. Auf d. Rückweg von Mtapaia wurde ich in einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l22" custom="readingOrder {index:18;}">
+                <Coords points="495,3366 4069,3302 3783,3148 494,3197"/>
+                <Baseline points="515,3277 691,3279 868,3280 1044,3279 1221,3278 1397,3277 1574,3274 1750,3272 1927,3270 2103,3267 2280,3265 2456,3262 2633,3261 2809,3259 2986,3259 3162,3259 3339,3260 3515,3262 3692,3265 3868,3270 4045,3277"/>
+                <TextEquiv>
+                    <Unicode>Gespräch zwischen Jesus u. Pilatus durch eine Affenschar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l23" custom="readingOrder {index:19;}">
+                <Coords points="478,3569 829,3462 2581,3531 3052,3427 3504,3529 4002,3461 4001,3327 476,3373"/>
+                <Baseline points="501,3456 674,3454 848,3453 1022,3451 1196,3450 1370,3448 1544,3447 1717,3445 1891,3444 2065,3442 2239,3441 2413,3439 2587,3437 2761,3434 2934,3432 3108,3430 3282,3427 3456,3424 3630,3420 3804,3416 3978,3412"/>
+                <TextEquiv>
+                    <Unicode>gestört, wollte sie zeichnen, doch sie saßen nicht still,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l24" custom="readingOrder {index:20;}">
+                <Coords points="494,3617 3935,3662 4068,3644 4068,3497 1675,3441 494,3559"/>
+                <Baseline points="517,3601 693,3596 869,3591 1046,3588 1222,3585 1399,3583 1575,3581 1751,3581 1928,3580 2104,3580 2281,3581 2457,3581 2633,3582 2810,3582 2986,3583 3163,3584 3339,3584 3515,3584 3692,3584 3868,3583 4045,3581"/>
+                <TextEquiv>
+                    <Unicode>wollte schießen, traf aber nicht u. verlor sie im Gestrüpp.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l25" custom="readingOrder {index:21;}">
+                <Coords points="528,3816 2591,3795 3062,3912 4030,3851 4031,3735 529,3651"/>
+                <Baseline points="550,3764 722,3767 895,3770 1068,3773 1241,3775 1414,3776 1587,3778 1760,3779 1933,3781 2106,3782 2279,3783 2451,3784 2624,3786 2797,3788 2970,3790 3143,3792 3316,3795 3489,3798 3662,3802 3835,3806 4008,3811"/>
+                <TextEquiv>
+                    <Unicode>7. Sept. Morgens ein Wildschwein geschossen, die Antilo„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l26" custom="readingOrder {index:22;}">
+                <Coords points="504,4014 831,3908 1359,4041 1877,3938 3676,4055 3953,4001 3955,3885 966,3794 506,3885"/>
+                <Baseline points="526,3928 696,3925 866,3923 1036,3922 1207,3921 1377,3922 1547,3923 1718,3925 1888,3928 2058,3931 2229,3934 2399,3938 2569,3942 2739,3946 2910,3950 3080,3954 3250,3958 3421,3961 3591,3964 3761,3967 3932,3969"/>
+                <TextEquiv>
+                    <Unicode>pen sehen besser, sind daher sehr schwer anzuschleichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l27" custom="readingOrder {index:23;}">
+                <Coords points="494,4141 1542,4084 1821,4201 2121,4108 3488,4218 3903,4164 3905,4043 1365,4045 792,3923 496,4016"/>
+                <Baseline points="516,4063 684,4070 852,4075 1020,4081 1189,4084 1357,4088 1525,4091 1694,4093 1862,4095 2030,4097 2199,4099 2367,4101 2535,4103 2703,4106 2872,4109 3040,4112 3208,4116 3377,4121 3545,4126 3713,4133 3882,4141"/>
+                <TextEquiv>
+                    <Unicode>Zu den Rippen in Graben VIII findet sich auch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l28" custom="readingOrder {index:24;}">
+                <Coords points="472,4323 662,4239 926,4343 1085,4241 1364,4324 1629,4241 2397,4377 2582,4288 2946,4351 2949,4231 2594,4141 2423,4213 2087,4110 1790,4205 882,4168 684,4083 477,4140"/>
+                <Baseline points="498,4218 619,4219 740,4220 861,4222 983,4224 1104,4228 1225,4231 1347,4234 1468,4238 1589,4242 1711,4246 1832,4250 1953,4253 2074,4258 2196,4261 2317,4263 2438,4266 2560,4268 2681,4270 2802,4270 2924,4270"/>
+                <TextEquiv>
+                    <Unicode>Rumpfwirbelsäule. Briefe geschrieben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l29" custom="readingOrder {index:25;}">
+                <Coords points="597,4428 3658,4469 4102,4589 4107,4331 3924,4305 2514,4385 600,4272"/>
+                <Baseline points="620,4402 793,4405 966,4407 1139,4409 1312,4412 1485,4414 1658,4415 1831,4418 2004,4420 2177,4422 2350,4424 2523,4427 2696,4430 2869,4434 3042,4438 3215,4442 3388,4448 3561,4454 3734,4461 3907,4469 4080,4478"/>
+                <TextEquiv>
+                    <Unicode>8 Sept. In der Falle ein Leopard, den wir mit 3 Schüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l30" custom="readingOrder {index:26;}">
+                <Coords points="473,4593 4033,4639 3996,4491 3506,4470 475,4500"/>
+                <Baseline points="498,4557 673,4557 849,4557 1024,4558 1200,4559 1376,4561 1551,4563 1727,4565 1902,4568 2078,4570 2254,4573 2429,4576 2605,4580 2780,4583 2956,4587 3132,4590 3307,4593 3483,4597 3658,4600 3834,4603 4010,4606"/>
+                <TextEquiv>
+                    <Unicode>erlegten, also schon ein kleiner „Fortschritt“. Im Graben III</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l31" custom="readingOrder {index:27;}">
+                <Coords points="472,4801 1102,4687 1488,4803 3900,4754 3790,4633 474,4618"/>
+                <Baseline points="496,4708 665,4704 834,4701 1003,4699 1172,4698 1341,4698 1510,4698 1680,4700 1849,4702 2018,4704 2187,4707 2356,4710 2525,4713 2694,4716 2864,4720 3033,4723 3202,4726 3371,4728 3540,4730 3709,4732 3879,4733"/>
+                <TextEquiv>
+                    <Unicode>gezeichnet u. abgehoben. 3 Beinknochen, 2 Rippen u. im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l32" custom="readingOrder {index:28;}">
+                <Coords points="467,4941 1354,4841 1616,4967 2517,4854 2828,4977 3159,4863 3921,4931 3748,4774 3102,4733 468,4799"/>
+                <Baseline points="492,4848 662,4846 832,4844 1002,4842 1173,4841 1343,4840 1513,4840 1684,4840 1854,4840 2024,4841 2195,4842 2365,4844 2535,4846 2705,4848 2876,4851 3046,4853 3216,4856 3387,4860 3557,4864 3727,4868 3898,4873"/>
+                <TextEquiv>
+                    <Unicode>Graben VIll ein ungeheurer Halswirbel (?) kommen zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>65&#xD;
+Beckenknochen ist bereits freigelegt.&#xD;
+4. Sept. Schoß morgens eine Zibethkatze in d. Falle an d.&#xD;
+neuen Quelle, ging dann weiter flußabwärts u. fand&#xD;
+mich zu meinem Erstaunen in kürzester Zeit an der&#xD;
+Barrabarra, ich weiß nicht auf welchem Wege. Wieder&#xD;
+zum „Mtapaiasaurus“. Vielfach Land-(West-) u. Nordwind,&#xD;
+nachm. etwas Regen. Gegen Abend mit Janensch auf&#xD;
+d. Wege zum Karani Ligoma, um ihm meinen neuen&#xD;
+Knochenfund zu zeigen.&#xD;
+Sonntag d. 5 Sept: Bedeckt, wollte im Bache etwas „klopfen“,&#xD;
+wurde aber durch Regen vertrieben. D. ganzen Tag&#xD;
+regnerisch. Gemalt, Briefe geschrieben.&#xD;
+6 Sept. Nachm. Jagdausflug ohne etwas zu erblicken.&#xD;
+In Graben VIII sind mehrere ungeheure Rippenköpfe zum&#xD;
+Vorschein gekommen, die auch an der Rippennatur des&#xD;
+2 m. langen, vermeintlichen Os pubis keinen Zweifel&#xD;
+lassen. Auf d. Rückweg von Mtapaia wurde ich in einem&#xD;
+Gespräch zwischen Jesus u. Pilatus durch eine Affenschar&#xD;
+gestört, wollte sie zeichnen, doch sie saßen nicht still,&#xD;
+wollte schießen, traf aber nicht u. verlor sie im Gestrüpp.&#xD;
+7. Sept. Morgens ein Wildschwein geschossen, die Antilo„&#xD;
+pen sehen besser, sind daher sehr schwer anzuschleichen.&#xD;
+Zu den Rippen in Graben VIII findet sich auch die&#xD;
+Rumpfwirbelsäule. Briefe geschrieben.&#xD;
+8 Sept. In der Falle ein Leopard, den wir mit 3 Schüssen&#xD;
+erlegten, also schon ein kleiner „Fortschritt“. Im Graben III&#xD;
+gezeichnet u. abgehoben. 3 Beinknochen, 2 Rippen u. im&#xD;
+Graben VIll ein ungeheurer Halswirbel (?) kommen zum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:54.475+02:00</Created>
+        <LastChange>2020-03-31T10:07:15.149+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550729" pageNr="31" tsid="26744118" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=TNVNTTQFDPMFOOAWHHMTGLLT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCGTHEHDKAKSIKJSTNBMWSHN" imageId="4551607"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_031.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255540677" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:0;}">
+            <Coords points="423,215 423,4946 4099,4946 4099,215"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="3653,269 3708,270 3772,300 3795,282 3836,287 3840,136 3817,135 3798,153 3789,144 3780,153 3711,151 3689,127 3657,126"/>
+                <Baseline points="3676,257 3704,258 3732,259 3760,259 3788,260 3816,261"/>
+                <TextEquiv>
+                    <Unicode>27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="467,401 1474,477 2484,314 4117,445 3918,226 466,263"/>
+                <Baseline points="492,371 672,367 852,364 1032,360 1212,356 1392,352 1572,348 1752,345 1932,342 2112,339 2293,336 2473,335 2653,334 2833,333 3013,333 3193,335 3373,337 3553,340 3733,344 3913,350 4094,357"/>
+                <TextEquiv>
+                    <Unicode>31. Mai: Briefe geschrieben. M. Hrn. Besser zu d. Knochenfunden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:2;}">
+                <Coords points="435,581 1054,536 1195,628 1666,555 1797,612 2050,480 2705,531 2702,425 2478,316 2366,402 2143,349 1356,477 1058,356 432,489"/>
+                <Baseline points="455,531 566,532 677,531 788,530 899,528 1011,526 1122,522 1233,519 1344,516 1455,511 1567,507 1678,503 1789,499 1900,495 2011,491 2123,488 2234,485 2345,483 2456,482 2567,482 2679,483"/>
+                <TextEquiv>
+                    <Unicode>nördl. d. Tendaguru u. zur Barrabarra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:3;}">
+                <Coords points="485,792 3891,741 3936,528 3515,456 3114,600 2556,508 2315,634 481,640"/>
+                <Baseline points="506,750 676,741 846,734 1017,727 1187,720 1358,714 1528,708 1699,703 1869,698 2040,693 2210,688 2380,684 2551,680 2721,677 2892,674 3062,670 3233,668 3403,666 3574,663 3744,661 3915,659"/>
+                <TextEquiv>
+                    <Unicode>1. Juni. Erhalten 2 ganz junge Leoparden, die ein Mann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:4;}">
+                <Coords points="563,994 804,937 913,996 1101,987 1230,884 1508,940 1762,849 1966,895 2093,843 2087,714 1710,820 1296,738 1149,838 915,743 750,861 555,825"/>
+                <Baseline points="583,914 657,910 731,905 805,902 880,898 954,894 1028,891 1103,888 1177,884 1251,881 1326,877 1400,874 1474,871 1548,868 1623,864 1697,860 1771,856 1846,853 1920,848 1994,844 2069,839"/>
+                <TextEquiv>
+                    <Unicode>im Pori gefunden hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884394576_1324" custom="readingOrder {index:5;}">
+                <Coords points="492,1137 3368,1048 3656,1142 4044,1059 4042,939 2647,863 2113,1019 1764,876 1574,996 490,1032"/>
+                <Baseline points="514,1137 558,1133 602,1131 646,1127 690,1125 734,1122 778,1120 822,1118 866,1116 910,1114 955,1112 999,1111 1043,1109 1087,1107 1131,1106 1175,1105 1219,1103 1263,1102 1307,1101 1351,1100 1396,1099 1429,1086 1510,1082 1591,1078 1672,1076 1753,1073 1834,1071 1915,1068 1997,1066 2078,1065 2159,1064 2240,1063 2321,1062 2402,1061 2483,1061 2565,1060 2646,1060 2727,1059 2808,1059 2889,1058 2970,1057 3052,1057 3074,1031 3121,1033 3168,1035 3216,1036 3263,1038 3311,1039 3358,1040 3405,1042 3453,1043 3500,1043 3548,1044 3595,1046 3642,1046 3690,1048 3737,1049 3785,1050 3832,1051 3879,1053 3927,1054 3974,1056 4022,1058"/>
+                <TextEquiv>
+                    <Unicode>2. Juni. Vorm. im Lager aquarelliert. Nachm. Schach mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884399423_1329" custom="readingOrder {index:6;}">
+                <Coords points="489,1387 955,1253 1812,1340 2026,1207 3756,1281 4089,1158 2266,1055 1570,1194 485,1162"/>
+                <Baseline points="508,1287 562,1279 616,1272 671,1266 725,1261 780,1257 834,1254 889,1251 943,1250 998,1248 1052,1247 1106,1246 1161,1245 1215,1244 1270,1243 1324,1242 1379,1241 1433,1239 1488,1236 1542,1234 1597,1229 1617,1216 1739,1210 1862,1203 1984,1199 2107,1194 2229,1191 2352,1188 2474,1187 2597,1186 2719,1185 2842,1185 2965,1186 3087,1187 3210,1189 3332,1191 3455,1193 3577,1196 3700,1199 3822,1202 3945,1207 4068,1210"/>
+                <TextEquiv>
+                    <Unicode>Hrn. Besser, dann Abschiedstrunk für ihn auf d. Tendaguru:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884407631_1335" custom="readingOrder {index:7;}">
+                <Coords points="539,1484 1814,1394 1943,1504 2360,1355 2595,1475 2801,1325 3884,1380 3491,1211 2897,1192 1724,1329 876,1273 535,1387"/>
+                <Baseline points="560,1464 588,1465 616,1464 660,1425 819,1420 979,1413 1139,1406 1299,1397 1459,1389 1619,1379 1778,1371 1938,1361 2098,1353 2258,1344 2418,1337 2578,1330 2738,1325 2897,1321 3057,1319 3217,1319 3377,1320 3537,1324 3697,1331 3857,1339"/>
+                <TextEquiv>
+                    <Unicode>„Es saßen 3 Burschen“; schöne Aussicht, Sonnenuntergang,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:8;}">
+                <Coords points="483,1664 2639,1505 3962,1579 3955,1409 3382,1341 478,1535"/>
+                <Baseline points="505,1621 676,1608 848,1596 1019,1585 1191,1574 1362,1564 1534,1554 1705,1546 1877,1537 2048,1529 2220,1523 2391,1515 2563,1509 2734,1504 2906,1499 3077,1494 3249,1489 3420,1485 3592,1482 3763,1479 3935,1476"/>
+                <TextEquiv>
+                    <Unicode>dann Mondschein, dazu Wein, Kaviar u. gute Stimmung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:9;}">
+                <Coords points="439,1845 2296,1668 3999,1753 4027,1601 1593,1550 435,1717"/>
+                <Baseline points="459,1755 636,1748 813,1739 990,1732 1168,1725 1345,1717 1522,1710 1700,1704 1877,1697 2054,1691 2232,1686 2409,1681 2586,1676 2763,1672 2941,1668 3118,1665 3295,1663 3473,1661 3650,1659 3827,1659 4005,1659"/>
+                <TextEquiv>
+                    <Unicode>ringsum herbstliche Farben, es war wie ein Klang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:10;}">
+                <Coords points="457,1956 3653,1816 3752,1909 4123,1867 4119,1707 2440,1682 1630,1810 1145,1721 453,1836"/>
+                <Baseline points="479,1896 659,1891 840,1886 1021,1880 1202,1874 1383,1867 1564,1860 1745,1854 1926,1847 2107,1841 2288,1835 2468,1829 2649,1824 2830,1819 3011,1815 3192,1812 3373,1810 3554,1809 3735,1810 3916,1812 4097,1815"/>
+                <TextEquiv>
+                    <Unicode>aus romantischer Zeit am Rhein. Im Mondschein zurück.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l16" custom="readingOrder {index:11;}">
+                <Coords points="455,2084 3989,2059 3987,1939 3701,1875 453,1960"/>
+                <Baseline points="475,2054 649,2050 823,2046 998,2042 1172,2039 1347,2035 1521,2032 1695,2028 1870,2025 2044,2022 2219,2019 2393,2016 2567,2013 2742,2011 2916,2008 3091,2005 3265,2003 3439,2000 3614,1997 3788,1994 3963,1992"/>
+                <TextEquiv>
+                    <Unicode>Abends: Im Dorf Ngoma zur Feier der Pombe-Bereitung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884414936_1340" custom="readingOrder {index:12;}">
+                <Coords points="421,2251 3775,2166 3771,2028 3587,2005 417,2091"/>
+                <Baseline points="445,2228 489,2222 533,2218 578,2213 622,2209 667,2205 711,2203 755,2201 800,2198 844,2197 889,2196 933,2195 977,2195 1022,2194 1066,2194 1111,2195 1155,2195 1199,2196 1244,2197 1288,2197 1333,2198 1698,2164 1800,2160 1903,2157 2005,2155 2108,2153 2211,2151 2313,2150 2416,2149 2518,2148 2621,2147 2724,2146 2826,2146 2929,2145 3031,2144 3134,2143 3237,2142 3339,2141 3442,2139 3544,2137 3647,2135 3750,2132"/>
+                <TextEquiv>
+                    <Unicode>Kleines Schauri. Erste große Grasbrände im Mbenkuru-Tal gesehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l19" custom="readingOrder {index:13;}">
+                <Coords points="509,2400 3082,2298 3608,2427 4080,2354 4077,2166 507,2285"/>
+                <Baseline points="534,2386 710,2374 886,2363 1062,2354 1238,2345 1414,2337 1590,2331 1766,2324 1942,2320 2118,2315 2294,2312 2470,2310 2646,2309 2822,2308 2998,2308 3174,2309 3350,2310 3526,2313 3702,2316 3878,2320 4055,2325"/>
+                <TextEquiv>
+                    <Unicode>3. Mai. Morgens Abreise Hrn. Besser's. Vorher mußte er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l20" custom="readingOrder {index:14;}">
+                <Coords points="422,2570 4030,2489 3856,2313 3241,2395 3088,2302 421,2483"/>
+                <Baseline points="443,2527 621,2520 799,2512 977,2505 1155,2498 1333,2491 1511,2484 1689,2478 1867,2472 2045,2467 2224,2462 2402,2458 2580,2454 2758,2452 2936,2450 3114,2449 3292,2449 3470,2450 3648,2452 3826,2456 4005,2460"/>
+                <TextEquiv>
+                    <Unicode>noch ein Schauri erledigen, dessen Hauptperson u. Leidtra„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l21" custom="readingOrder {index:15;}">
+                <Coords points="461,2772 1125,2639 3819,2648 3816,2496 457,2574"/>
+                <Baseline points="483,2670 648,2660 814,2652 979,2645 1145,2638 1311,2632 1476,2627 1642,2622 1808,2618 1973,2614 2139,2611 2305,2609 2470,2606 2636,2604 2802,2602 2967,2601 3133,2600 3299,2599 3464,2597 3630,2596 3796,2595"/>
+                <TextEquiv>
+                    <Unicode>gender mein Ali war (Streitigkeiten im nächtlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l22" custom="readingOrder {index:16;} gap {offset:48; length:0;}">
+                <Coords points="479,2845 3871,2790 3868,2648 3554,2604 1128,2647 478,2767"/>
+                <Baseline points="504,2824 671,2811 838,2800 1005,2789 1172,2780 1340,2773 1507,2767 1674,2762 1841,2757 2008,2754 2176,2751 2343,2748 2510,2747 2677,2745 2844,2744 3012,2743 3179,2743 3346,2742 3513,2741 3680,2740 3848,2739"/>
+                <TextEquiv>
+                    <Unicode>Kartenspiel). Mit Dr. Janensch auf d. Nordseite </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l23" custom="readingOrder {index:17;}">
+                <Coords points="434,3005 4028,2936 3899,2765 2917,2847 2671,2752 432,2922"/>
+                <Baseline points="455,2990 632,2977 809,2965 987,2954 1164,2945 1342,2937 1519,2931 1696,2925 1874,2919 2051,2915 2229,2911 2406,2907 2583,2905 2761,2902 2938,2899 3116,2897 3293,2894 3470,2891 3648,2888 3825,2885 4003,2881"/>
+                <TextEquiv>
+                    <Unicode>neue Stelle zum Graben ausgesucht. Abends erster Fall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l24" custom="readingOrder {index:18;}">
+                <Coords points="418,3160 1097,3106 1435,3192 1786,3084 2005,3178 2286,3040 2464,3164 2838,3064 2928,3140 3069,3075 3064,2928 414,3045"/>
+                <Baseline points="440,3124 570,3114 700,3105 830,3097 961,3091 1091,3084 1221,3078 1351,3073 1482,3069 1612,3065 1742,3061 1872,3058 2003,3055 2133,3052 2263,3050 2393,3047 2524,3044 2654,3041 2784,3038 2914,3035 3045,3031"/>
+                <TextEquiv>
+                    <Unicode>von Schlangenbiß, zum Glück ungefährlich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l25" custom="readingOrder {index:19;}">
+                <Coords points="574,3283 1656,3346 3091,3203 3278,3289 3813,3212 3809,3065 570,3173"/>
+                <Baseline points="595,3259 754,3257 914,3254 1074,3250 1234,3247 1394,3242 1553,3238 1713,3234 1873,3228 2033,3223 2193,3218 2352,3213 2512,3207 2672,3201 2832,3195 2992,3190 3151,3184 3311,3178 3471,3173 3631,3167 3791,3161"/>
+                <TextEquiv>
+                    <Unicode>Recht wolkig, sogar gelegentlich einzelne Tropfen bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l26" custom="readingOrder {index:20;}">
+                <Coords points="443,3497 527,3530 604,3499 693,3524 794,3427 893,3483 969,3420 1136,3446 1129,3276 946,3316 747,3273 680,3331 531,3282 436,3318"/>
+                <Baseline points="462,3411 494,3414 526,3415 559,3416 591,3415 624,3415 656,3413 688,3411 721,3409 753,3406 786,3403 818,3401 850,3398 883,3396 915,3394 948,3394 980,3393 1012,3394 1045,3396 1077,3399 1110,3403"/>
+                <TextEquiv>
+                    <Unicode>Sprühregen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l27" custom="readingOrder {index:21;}">
+                <Coords points="580,3652 4059,3591 4100,3364 3629,3489 2316,3389 2121,3499 1773,3368 577,3528"/>
+                <Baseline points="601,3623 775,3612 949,3602 1123,3592 1297,3582 1471,3574 1645,3566 1819,3558 1993,3552 2167,3546 2342,3541 2516,3538 2690,3535 2864,3533 3038,3533 3212,3533 3386,3535 3560,3538 3734,3542 3908,3548 4083,3555"/>
+                <TextEquiv>
+                    <Unicode>4. Juni Auf d. Nordseite zu graben angefangen. Im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884427660_1345" custom="readingOrder {index:22;}">
+                <Coords points="420,3805 4018,3708 3296,3557 3143,3653 416,3658"/>
+                <Baseline points="443,3779 504,3777 565,3774 627,3773 688,3771 750,3769 811,3768 872,3767 934,3765 995,3764 1057,3763 1118,3762 1179,3761 1241,3759 1302,3758 1364,3756 1425,3755 1486,3753 1548,3751 1609,3749 1671,3747 1824,3734 1932,3729 2041,3724 2149,3719 2258,3715 2367,3712 2475,3708 2584,3705 2692,3702 2801,3700 2910,3698 3018,3697 3127,3696 3235,3695 3344,3695 3453,3695 3561,3696 3670,3697 3778,3699 3887,3701 3996,3703"/>
+                <TextEquiv>
+                    <Unicode>Chamberlain gelesen. Machte Ali nochmals Vorhaltungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l30" custom="readingOrder {index:23;}">
+                <Coords points="413,3962 622,4044 789,3925 1269,4009 2319,3872 3696,3962 4006,3853 4003,3742 409,3815"/>
+                <Baseline points="437,3945 614,3936 791,3926 969,3917 1146,3910 1323,3902 1501,3896 1678,3889 1855,3883 2033,3877 2210,3873 2387,3869 2565,3865 2742,3862 2919,3859 3097,3857 3274,3856 3451,3855 3629,3854 3806,3855 3984,3855"/>
+                <TextEquiv>
+                    <Unicode>u. freute mich über sein Benehmen: er gab zu gefehlt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l31" custom="readingOrder {index:24;}">
+                <Coords points="443,4166 3915,3997 2968,3879 439,4033"/>
+                <Baseline points="465,4088 636,4081 807,4073 978,4067 1149,4060 1321,4054 1492,4047 1663,4041 1834,4035 2005,4029 2177,4024 2348,4018 2519,4014 2690,4009 2861,4004 3033,4000 3204,3997 3375,3994 3546,3991 3717,3989 3889,3987"/>
+                <TextEquiv>
+                    <Unicode>zu haben, wollte aber deshalb nicht in Bausch u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l32" custom="readingOrder {index:25;} textStyle {offset:32; length:4;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="431,4273 1678,4306 2341,4172 2822,4255 3758,4177 3856,4064 2195,4024 2023,4140 1772,4050 428,4167"/>
+                <Baseline points="451,4231 620,4227 789,4222 958,4218 1127,4214 1297,4209 1466,4204 1635,4200 1804,4195 1973,4190 2143,4185 2312,4180 2481,4175 2650,4170 2819,4165 2989,4160 3158,4155 3327,4150 3496,4144 3665,4139 3835,4134"/>
+                <TextEquiv>
+                    <Unicode>Bogen verurteilt sein. Das hier sehr übliche Wort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l33" custom="readingOrder {index:26;}">
+                <Coords points="414,4393 4095,4307 4092,4197 3837,4154 411,4274"/>
+                <Baseline points="435,4372 616,4367 798,4363 980,4356 1162,4350 1344,4344 1526,4337 1708,4330 1890,4323 2072,4317 2254,4310 2435,4304 2617,4299 2799,4293 2981,4289 3163,4285 3345,4283 3527,4281 3709,4281 3891,4282 4073,4284"/>
+                <TextEquiv>
+                    <Unicode>Lügner wollte er nicht auf sich sitzen lassen, vielmehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l34" custom="readingOrder {index:27;}">
+                <Coords points="403,4545 4125,4460 3973,4285 3062,4278 400,4458"/>
+                <Baseline points="423,4495 606,4494 790,4491 974,4487 1158,4483 1342,4478 1525,4471 1709,4465 1893,4458 2077,4451 2261,4445 2444,4438 2628,4431 2812,4426 2996,4421 3180,4417 3363,4413 3547,4411 3731,4411 3915,4411 4099,4414"/>
+                <TextEquiv>
+                    <Unicode>wenn er mein Vertrauen nicht hätte, Abschied haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l35" custom="readingOrder {index:28;}">
+                <Coords points="407,4743 3344,4559 3673,4660 3965,4573 3962,4463 401,4545"/>
+                <Baseline points="427,4638 602,4635 778,4632 953,4628 1129,4624 1305,4620 1480,4616 1656,4611 1831,4606 2007,4602 2183,4596 2358,4591 2534,4585 2709,4580 2885,4574 3061,4568 3236,4562 3412,4555 3587,4549 3763,4542 3939,4536"/>
+                <TextEquiv>
+                    <Unicode>Ich sagte, wenn er wolle, könne er gehen, obwohl ich bisher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l36" custom="readingOrder {index:29;}">
+                <Coords points="432,4816 2570,4838 3697,4697 3857,4803 3951,4562 430,4747"/>
+                <Baseline points="452,4789 635,4779 818,4771 1001,4764 1184,4757 1367,4752 1550,4747 1733,4743 1916,4738 2099,4735 2283,4731 2466,4727 2649,4723 2832,4720 3015,4715 3198,4709 3381,4704 3564,4698 3747,4690 3931,4681"/>
+                <TextEquiv>
+                    <Unicode>mit ihm zufrieden gewesen sei. Er stutzte, blieb aber. Auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884435038_1350" custom="readingOrder {index:30;}">
+                <Coords points="407,4934 2564,4987 3182,4860 3690,4960 4106,4851 4104,4740 405,4847"/>
+                <Baseline points="429,4911 492,4912 556,4912 619,4911 683,4910 747,4909 810,4907 874,4906 938,4904 1001,4902 1065,4901 1129,4899 1192,4897 1256,4896 1320,4895 1383,4894 1447,4894 1511,4894 1574,4895 1638,4897 1702,4899 1721,4874 1839,4874 1957,4874 2075,4873 2193,4872 2312,4871 2430,4869 2548,4866 2666,4864 2784,4862 2903,4859 3021,4857 3139,4855 3257,4853 3375,4851 3494,4849 3612,4849 3730,4848 3848,4849 3966,4850 4085,4851"/>
+                <TextEquiv>
+                    <Unicode>d. Frage, ob er sich nochmal vergehen wolle, antwortete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>27&#xD;
+31. Mai: Briefe geschrieben. M. Hrn. Besser zu d. Knochenfunden&#xD;
+nördl. d. Tendaguru u. zur Barrabarra.&#xD;
+1. Juni. Erhalten 2 ganz junge Leoparden, die ein Mann&#xD;
+im Pori gefunden hat.&#xD;
+2. Juni. Vorm. im Lager aquarelliert. Nachm. Schach mit&#xD;
+Hrn. Besser, dann Abschiedstrunk für ihn auf d. Tendaguru:&#xD;
+„Es saßen 3 Burschen“; schöne Aussicht, Sonnenuntergang,&#xD;
+dann Mondschein, dazu Wein, Kaviar u. gute Stimmung,&#xD;
+ringsum herbstliche Farben, es war wie ein Klang&#xD;
+aus romantischer Zeit am Rhein. Im Mondschein zurück.&#xD;
+Abends: Im Dorf Ngoma zur Feier der Pombe-Bereitung.&#xD;
+Kleines Schauri. Erste große Grasbrände im Mbenkuru-Tal gesehen.&#xD;
+3. Mai. Morgens Abreise Hrn. Besser's. Vorher mußte er&#xD;
+noch ein Schauri erledigen, dessen Hauptperson u. Leidtra„&#xD;
+gender mein Ali war (Streitigkeiten im nächtlichen&#xD;
+Kartenspiel). Mit Dr. Janensch auf d. Nordseite &#xD;
+neue Stelle zum Graben ausgesucht. Abends erster Fall&#xD;
+von Schlangenbiß, zum Glück ungefährlich.&#xD;
+Recht wolkig, sogar gelegentlich einzelne Tropfen bis&#xD;
+Sprühregen.&#xD;
+4. Juni Auf d. Nordseite zu graben angefangen. Im&#xD;
+Chamberlain gelesen. Machte Ali nochmals Vorhaltungen&#xD;
+u. freute mich über sein Benehmen: er gab zu gefehlt&#xD;
+zu haben, wollte aber deshalb nicht in Bausch u.&#xD;
+Bogen verurteilt sein. Das hier sehr übliche Wort&#xD;
+Lügner wollte er nicht auf sich sitzen lassen, vielmehr&#xD;
+wenn er mein Vertrauen nicht hätte, Abschied haben.&#xD;
+Ich sagte, wenn er wolle, könne er gehen, obwohl ich bisher&#xD;
+mit ihm zufrieden gewesen sei. Er stutzte, blieb aber. Auf&#xD;
+d. Frage, ob er sich nochmal vergehen wolle, antwortete</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

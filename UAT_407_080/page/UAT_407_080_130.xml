@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:59.470+02:00</Created>
+        <LastChange>2020-03-26T13:55:12.567+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550832" pageNr="130" tsid="26470043" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=IDLPLNRZWNPWPQHOZGAUFDSD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DYROMARTCHOZLRXCOMEZHRTT" imageId="4551710"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_130.jpg" imageWidth="4324" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255569364" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582895919680_3779"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582895919680_3779" custom="readingOrder {index:0;}">
+            <Coords points="332,264 540,264 4047,362 4047,4957 508,4957 332,438"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="321,472 342,469 394,433 449,423 508,377 563,371 550,252 493,245 450,285 410,276 399,290 370,298 346,279 301,297"/>
+                <Baseline points="332,388 358,384 384,379 410,376 436,373 462,370 488,368 514,366 540,364"/>
+                <TextEquiv>
+                    <Unicode>126</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895927084_3784" custom="readingOrder {index:1;}">
+                <Coords points="629,517 1223,465 1648,621 2139,467 2478,593 2725,432 3111,592 3320,462 3637,592 3838,480 3836,338 3289,351 3125,245 2496,233 1971,391 1808,286 627,325"/>
+                <Baseline points="650,488 701,480 753,474 804,469 856,466 907,463 959,462 1010,462 1062,462 1113,463 1165,464 1216,466 1268,467 1319,469 1371,470 1422,471 1474,471 1525,471 1577,469 1628,467 1680,463 1713,448 1750,447 1788,447 1826,447 1864,448 1902,449 1939,450 1977,451 2015,452 2053,453 2091,454 2128,455 2166,456 2204,457 2242,457 2280,458 2317,457 2355,457 2393,456 2431,454 2469,452 2496,439 2562,439 2628,440 2694,439 2760,439 2826,439 2892,439 2958,439 3024,440 3090,440 3157,441 3223,442 3289,444 3355,446 3421,447 3487,451 3553,454 3619,458 3685,463 3751,468 3818,474"/>
+                <TextEquiv>
+                    <Unicode>7.II. Wegen schlimmen Fußes Lagerarrest.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895931998_3789" custom="readingOrder {index:2;}">
+                <Coords points="591,754 2036,647 2821,795 3051,681 3382,814 3963,704 3961,563 3489,475 3122,591 2920,473 2387,604 1910,494 1582,627 952,519 589,588"/>
+                <Baseline points="613,728 810,716 848,709 886,701 924,695 962,690 1001,685 1039,680 1077,677 1115,674 1153,671 1192,669 1230,668 1268,667 1306,667 1344,668 1383,669 1421,670 1459,672 1497,674 1535,677 1574,681 1672,663 1785,664 1899,665 2012,665 2126,666 2239,666 2353,666 2466,665 2580,665 2693,664 2807,664 2920,663 3034,662 3147,661 3261,661 3374,660 3488,659 3601,659 3715,659 3828,658 3942,658"/>
+                <TextEquiv>
+                    <Unicode>8.II: Vorm. Sattler, der auf Safari geht, auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:3;}">
+                <Coords points="629,924 3953,917 3953,793 3765,712 3286,806 3016,699 2828,797 2229,703 2024,792 1891,690 629,766"/>
+                <Baseline points="651,877 815,869 979,863 1143,858 1307,854 1471,851 1635,849 1799,848 1963,847 2127,847 2292,848 2456,849 2620,851 2784,853 2948,855 3112,857 3276,859 3440,861 3604,863 3768,865 3933,866"/>
+                <TextEquiv>
+                    <Unicode>den Wege zur Bahn begleitet. Wissmann-Bio„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:4;}">
+                <Coords points="609,1195 1574,1030 1725,1114 2113,1024 2269,1167 2802,1033 3475,1119 3889,1024 3888,926 606,926"/>
+                <Baseline points="630,1067 791,1059 953,1052 1115,1047 1277,1043 1439,1040 1601,1037 1762,1036 1924,1035 2086,1034 2248,1034 2410,1033 2572,1033 2734,1032 2895,1031 3057,1030 3219,1027 3381,1024 3543,1021 3705,1016 3867,1009"/>
+                <TextEquiv>
+                    <Unicode>graphie beendet, mit hohem Interesse trotz der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:5;}">
+                <Coords points="584,1267 902,1377 1251,1244 1796,1351 2718,1192 4016,1305 4013,1117 3653,1041 2268,1160 2112,1026 1754,1151 1308,1076 583,1190"/>
+                <Baseline points="604,1257 773,1248 942,1241 1112,1235 1281,1229 1451,1224 1620,1220 1790,1217 1959,1213 2129,1211 2298,1209 2467,1207 2637,1206 2806,1205 2976,1204 3145,1203 3315,1202 3484,1201 3654,1200 3823,1199 3993,1198"/>
+                <TextEquiv>
+                    <Unicode>ungeschickten Darstellung verfolgt. Ich wollte mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:6;}">
+                <Coords points="627,1519 2436,1380 2797,1538 2967,1416 4067,1471 3984,1318 2720,1189 626,1378"/>
+                <Baseline points="649,1448 818,1442 988,1435 1158,1430 1328,1424 1498,1418 1668,1413 1838,1408 2008,1405 2178,1400 2348,1397 2517,1395 2687,1393 2857,1392 3027,1392 3197,1392 3367,1394 3537,1397 3707,1401 3877,1406 4047,1412"/>
+                <TextEquiv>
+                    <Unicode>vor allem über d. Araber-Aufstand informieren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:7;}">
+                <Coords points="706,1750 1102,1617 1518,1689 2608,1599 3124,1751 3341,1658 3577,1745 3760,1628 3758,1495 3395,1534 3261,1445 2911,1557 2581,1437 2351,1546 1729,1425 1427,1570 1070,1455 703,1536"/>
+                <Baseline points="726,1654 876,1645 1027,1637 1177,1629 1328,1623 1478,1618 1629,1613 1779,1610 1930,1607 2080,1605 2231,1603 2382,1602 2532,1601 2683,1601 2833,1602 2984,1603 3134,1604 3285,1605 3435,1607 3586,1609 3737,1611"/>
+                <TextEquiv>
+                    <Unicode>9.II: Vorm. Nördl. vom Lager gejagt, nichts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:8;}">
+                <Coords points="625,1944 1442,1948 1727,1787 2717,1930 3066,1767 3872,1840 3904,1664 3569,1599 2779,1736 2538,1598 2048,1745 1854,1640 1757,1735 1332,1645 623,1756"/>
+                <Baseline points="643,1834 813,1830 983,1826 1154,1822 1324,1817 1495,1812 1665,1807 1836,1802 2006,1798 2177,1795 2347,1791 2518,1789 2688,1787 2859,1787 3029,1788 3200,1790 3370,1793 3541,1798 3711,1805 3882,1814"/>
+                <TextEquiv>
+                    <Unicode>gesehen. Nachher kam ein Barappi unmittel„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:9;}">
+                <Coords points="610,2078 875,2003 1385,2148 2051,1992 3225,2148 3472,2008 3999,2059 3942,1901 3338,1817 2718,1930 2118,1833 1542,1967 609,1941"/>
+                <Baseline points="633,2019 800,2018 967,2016 1134,2013 1301,2009 1469,2005 1636,2000 1803,1996 1970,1991 2137,1986 2305,1982 2472,1978 2639,1976 2806,1975 2973,1975 3141,1976 3308,1980 3475,1985 3642,1993 3809,2003 3977,2016"/>
+                <TextEquiv>
+                    <Unicode>bar am Lager vorübergewechselt, sofort ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895960723_3799" custom="readingOrder {index:10;}">
+                <Coords points="661,2322 1280,2227 1783,2347 2161,2191 2531,2323 3848,2234 3844,2020 3247,2145 657,2069"/>
+                <Baseline points="679,2230 800,2231 922,2230 1044,2228 1166,2225 1288,2222 1410,2218 1531,2213 1653,2209 1775,2205 1897,2201 2019,2197 2141,2194 2263,2191 2384,2189 2506,2188 2628,2189 2750,2190 2872,2193 2994,2198 3116,2205 3165,2191 3190,2193 3216,2194 3242,2194 3268,2194 3294,2192 3320,2190 3346,2189 3372,2187 3398,2185 3424,2183 3450,2181 3476,2180 3502,2180 3528,2182 3554,2184 3649,2186 3674,2185 3699,2185 3724,2184 3750,2184 3775,2185 3800,2187 3826,2189"/>
+                <TextEquiv>
+                    <Unicode>folgt, aber gleichfalls nicht gesehen, da Spur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895965765_3804" custom="readingOrder {index:11;}">
+                <Coords points="650,2613 1362,2447 2040,2590 2401,2426 3036,2519 3338,2394 3935,2538 3930,2239 3474,2345 2435,2366 2159,2259 1784,2385 1126,2404 996,2303 646,2399"/>
+                <Baseline points="667,2448 739,2450 811,2450 883,2450 956,2450 1028,2449 1100,2447 1172,2445 1245,2443 1317,2441 1389,2438 1461,2436 1534,2434 1606,2432 1678,2431 1750,2430 1823,2431 1895,2432 1967,2433 2039,2436 2112,2440 2149,2414 2221,2417 2293,2421 2365,2422 2437,2423 2509,2423 2581,2422 2653,2420 2725,2418 2797,2415 2869,2412 2941,2410 3013,2407 3085,2404 3157,2400 3229,2398 3301,2396 3373,2395 3445,2394 3517,2394 3589,2395 3710,2407 3735,2414 3760,2419 3785,2424 3810,2428 3835,2432 3860,2434 3885,2435 3910,2435"/>
+                <TextEquiv>
+                    <Unicode>nicht zu erkennen. Janensch auf dem Berg„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:12;}">
+                <Coords points="628,2670 2681,2620 3192,2754 3550,2646 3548,2484 2319,2450 2022,2591 1511,2465 1251,2589 627,2602"/>
+                <Baseline points="649,2661 792,2659 936,2657 1080,2654 1224,2652 1368,2649 1512,2647 1656,2644 1800,2641 1944,2639 2088,2636 2231,2634 2375,2631 2519,2629 2663,2628 2807,2626 2951,2626 3095,2625 3239,2625 3383,2626 3527,2627"/>
+                <TextEquiv>
+                    <Unicode>rücken im Norden Kudu's beobachtet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:13;}">
+                <Coords points="855,2901 2442,2847 2580,2961 2981,2829 3431,2940 3935,2841 3933,2682 853,2751"/>
+                <Baseline points="877,2843 1028,2843 1180,2843 1332,2843 1484,2842 1636,2841 1787,2841 1939,2840 2091,2839 2243,2838 2395,2837 2546,2835 2698,2834 2850,2832 3002,2829 3154,2827 3305,2825 3457,2822 3609,2819 3761,2815 3913,2811"/>
+                <TextEquiv>
+                    <Unicode>Abds. Gewitter in d. Umgegend. Auf dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895972104_3809" custom="readingOrder {index:14;}">
+                <Coords points="641,3105 1672,3008 2887,3023 3045,3121 3392,3013 3623,3175 3957,3097 3956,2913 1932,2952 1312,2842 640,2938"/>
+                <Baseline points="664,3057 795,3047 927,3040 1059,3034 1191,3030 1323,3026 1454,3024 1586,3023 1718,3023 1850,3023 1982,3024 2113,3026 2245,3027 2377,3029 2509,3030 2641,3032 2772,3033 2904,3033 3036,3032 3168,3031 3300,3029 3330,3010 3360,3011 3390,3012 3420,3012 3450,3013 3480,3014 3510,3016 3541,3017 3571,3019 3601,3021 3631,3023 3661,3025 3691,3028 3721,3031 3752,3033 3782,3037 3812,3039 3842,3042 3872,3046 3902,3050 3933,3054"/>
+                <TextEquiv>
+                    <Unicode>Aussichtspunkt Nachtschwalbe, sehr groß beobachtet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:15;}">
+                <Coords points="488,3180 3590,3188 3590,3060 3393,3017 3072,3106 2858,3021 488,3043"/>
+                <Baseline points="508,3161 661,3156 814,3152 967,3149 1120,3147 1273,3145 1426,3144 1579,3144 1732,3144 1885,3145 2038,3146 2191,3147 2344,3148 2497,3150 2650,3151 2803,3152 2956,3153 3109,3154 3262,3155 3415,3155 3568,3154"/>
+                <TextEquiv>
+                    <Unicode>Schubert-Biographie u. Mohamed-Biographie gelesen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:16;}">
+                <Coords points="836,3312 1509,3386 2424,3262 3040,3414 3271,3284 3648,3321 3647,3210 3412,3160 3292,3241 2783,3141 2697,3218 2500,3138 836,3214"/>
+                <Baseline points="856,3295 994,3292 1133,3289 1271,3286 1410,3283 1548,3281 1687,3278 1825,3276 1964,3273 2102,3272 2241,3270 2380,3269 2518,3269 2657,3269 2795,3269 2934,3271 3072,3273 3211,3276 3349,3280 3488,3284 3627,3290"/>
+                <TextEquiv>
+                    <Unicode>10.II. Morgens ganz bedeckt. geschrieben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:17;}">
+                <Coords points="707,3523 1439,3576 2122,3432 2457,3530 2704,3436 3907,3502 3904,3331 3745,3270 3413,3390 704,3365"/>
+                <Baseline points="728,3492 885,3484 1043,3476 1201,3469 1359,3463 1517,3457 1675,3451 1833,3447 1991,3443 2149,3439 2307,3436 2464,3434 2622,3432 2780,3431 2938,3431 3096,3431 3254,3432 3412,3434 3570,3436 3728,3439 3886,3443"/>
+                <TextEquiv>
+                    <Unicode>Komme nicht zum Malen, da die Uluguru-Berge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:18;}">
+                <Coords points="577,3772 732,3640 1253,3737 1417,3626 2207,3578 2535,3668 2789,3567 3830,3603 3746,3503 3164,3523 3008,3424 572,3559"/>
+                <Baseline points="595,3646 755,3642 916,3636 1077,3630 1237,3624 1398,3617 1559,3610 1719,3603 1880,3597 2041,3590 2202,3584 2362,3579 2523,3574 2684,3570 2844,3567 3005,3565 3166,3565 3326,3565 3487,3568 3648,3572 3809,3577"/>
+                <TextEquiv>
+                    <Unicode>fast nie, besonders nicht morgens frei liegen u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:19;}">
+                <Coords points="606,3822 1931,3765 2170,3874 2402,3760 2735,3865 2962,3730 3767,3736 3805,3589 2978,3687 2757,3586 2567,3678 1978,3588 1267,3734 733,3642 603,3732"/>
+                <Baseline points="627,3791 793,3791 959,3790 1125,3788 1292,3784 1458,3780 1624,3776 1790,3771 1957,3765 2123,3759 2289,3752 2455,3747 2622,3741 2788,3735 2954,3729 3120,3724 3287,3720 3453,3716 3619,3713 3786,3712"/>
+                <TextEquiv>
+                    <Unicode>abends nur eine Silhouette sichtbar wird. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:20;}">
+                <Coords points="622,4018 1268,4029 1373,3928 1671,4054 2502,3894 3557,3990 3992,3928 3989,3787 618,3859"/>
+                <Baseline points="641,3957 807,3952 974,3947 1140,3940 1307,3934 1473,3928 1640,3922 1806,3916 1973,3910 2139,3905 2306,3900 2472,3895 2639,3892 2805,3888 2972,3886 3138,3885 3305,3884 3471,3885 3638,3887 3804,3890 3971,3894"/>
+                <TextEquiv>
+                    <Unicode>Fuß zwingt mich zu nutzlosem Sitzen, wäre ich allein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:21;}">
+                <Coords points="578,4259 750,4150 3903,4095 3864,3921 3083,4001 2523,3894 2334,4011 2096,3924 1770,4042 572,4053"/>
+                <Baseline points="595,4139 759,4132 923,4125 1087,4117 1252,4110 1416,4102 1580,4095 1745,4088 1909,4081 2073,4074 2238,4068 2402,4061 2566,4057 2730,4052 2895,4049 3059,4045 3223,4044 3388,4043 3552,4044 3716,4045 3881,4049"/>
+                <TextEquiv>
+                    <Unicode>so wäre ich schon mit Sattler zusammen hinunter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:22;}">
+                <Coords points="567,4386 645,4415 721,4358 811,4391 935,4381 1087,4276 1182,4291 1180,4163 1090,4186 1043,4161 950,4209 894,4184 809,4228 705,4179 675,4188 623,4146 564,4172"/>
+                <Baseline points="588,4280 616,4282 645,4284 673,4284 702,4285 731,4284 759,4284 788,4283 816,4282 845,4282 874,4280 902,4279 931,4278 959,4277 988,4277 1017,4276 1045,4276 1074,4276 1102,4277 1131,4279 1160,4280"/>
+                <TextEquiv>
+                    <Unicode>gezogen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:23;}">
+                <Coords points="760,4614 3251,4471 3841,4600 4070,4529 4066,4379 3815,4262 3126,4419 2370,4346 1898,4449 1369,4344 755,4447"/>
+                <Baseline points="780,4554 943,4548 1106,4542 1270,4536 1433,4529 1596,4523 1760,4516 1923,4509 2086,4503 2250,4497 2413,4490 2576,4485 2740,4480 2903,4476 3066,4473 3230,4470 3393,4469 3556,4469 3720,4469 3883,4471 4047,4475"/>
+                <TextEquiv>
+                    <Unicode>12.II. Lasten verpackt, Träger angeworben, Kassensachen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:24;}">
+                <Coords points="574,4741 2823,4764 3362,4622 3765,4771 4040,4668 4036,4565 3010,4476 2574,4614 569,4592"/>
+                <Baseline points="595,4722 766,4724 937,4723 1108,4721 1279,4717 1450,4711 1621,4704 1792,4696 1963,4687 2134,4679 2306,4670 2477,4662 2648,4654 2819,4647 2990,4641 3161,4636 3332,4634 3503,4633 3674,4634 3845,4638 4017,4645"/>
+                <TextEquiv>
+                    <Unicode>Um 10 mit d. Bahn u. 20 Trägern nebst Boys u. Koch nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:25;}">
+                <Coords points="560,4982 1264,4907 1815,5000 2325,4884 2503,4973 3063,4830 3897,4926 3977,4752 3508,4670 3130,4785 2656,4689 2100,4828 1943,4739 554,4806"/>
+                <Baseline points="579,4919 747,4914 916,4909 1085,4904 1254,4899 1423,4895 1591,4891 1760,4886 1929,4882 2098,4877 2267,4872 2435,4866 2604,4862 2773,4855 2942,4849 3111,4842 3279,4835 3448,4827 3617,4819 3786,4809 3955,4799"/>
+                <TextEquiv>
+                    <Unicode>Ngerengere gefahren; Janensch fährt für einige Tage nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>126&#xD;
+7.II. Wegen schlimmen Fußes Lagerarrest.&#xD;
+8.II: Vorm. Sattler, der auf Safari geht, auf&#xD;
+den Wege zur Bahn begleitet. Wissmann-Bio„&#xD;
+graphie beendet, mit hohem Interesse trotz der&#xD;
+ungeschickten Darstellung verfolgt. Ich wollte mich&#xD;
+vor allem über d. Araber-Aufstand informieren.&#xD;
+9.II: Vorm. Nördl. vom Lager gejagt, nichts&#xD;
+gesehen. Nachher kam ein Barappi unmittel„&#xD;
+bar am Lager vorübergewechselt, sofort ver„&#xD;
+folgt, aber gleichfalls nicht gesehen, da Spur&#xD;
+nicht zu erkennen. Janensch auf dem Berg„&#xD;
+rücken im Norden Kudu's beobachtet.&#xD;
+Abds. Gewitter in d. Umgegend. Auf dem&#xD;
+Aussichtspunkt Nachtschwalbe, sehr groß beobachtet.&#xD;
+Schubert-Biographie u. Mohamed-Biographie gelesen.&#xD;
+10.II. Morgens ganz bedeckt. geschrieben.&#xD;
+Komme nicht zum Malen, da die Uluguru-Berge&#xD;
+fast nie, besonders nicht morgens frei liegen u.&#xD;
+abends nur eine Silhouette sichtbar wird. Der&#xD;
+Fuß zwingt mich zu nutzlosem Sitzen, wäre ich allein,&#xD;
+so wäre ich schon mit Sattler zusammen hinunter&#xD;
+gezogen.&#xD;
+12.II. Lasten verpackt, Träger angeworben, Kassensachen.&#xD;
+Um 10 mit d. Bahn u. 20 Trägern nebst Boys u. Koch nach&#xD;
+Ngerengere gefahren; Janensch fährt für einige Tage nach</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

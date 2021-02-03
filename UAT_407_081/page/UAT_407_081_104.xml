@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:38.923+02:00</Created>
+        <LastChange>2019-10-02T15:32:57.834+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7550989" pageNr="104" tsid="16245522" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=XIRCRAFYDUAUEIEQOGOTLJAM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HCVWVSOCCFHUDHXCIHCMRRIO" imageId="4551867"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_104.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256499991" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1569572236009_150"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1569572236009_150" custom="readingOrder {index:0;}">
+            <Coords points="296,243 484,243 3933,343 3933,4892 419,4892 296,407"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="276,402 346,385 401,398 441,420 484,383 509,381 499,248 453,247 438,261 385,235 370,249 349,251 314,283 268,286"/>
+                <Baseline points="296,357 322,355 349,352 376,348 403,345 430,343 457,344 484,348"/>
+                <TextEquiv>
+                    <Unicode>102</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="515,516 3792,461 3712,299 3098,255 515,324"/>
+                <Baseline points="535,418 696,423 858,426 1020,428 1182,430 1343,430 1505,430 1667,429 1829,428 1990,426 2152,425 2314,423 2476,421 2637,419 2799,417 2961,417 3123,416 3284,416 3446,417 3608,419 3770,422"/>
+                <TextEquiv>
+                    <Unicode>8.II: Vorm. auf dem Boma-Berg; schöner Blick über die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="586,604 3725,636 3636,440 3303,531 3072,442 2568,543 585,504"/>
+                <Baseline points="607,601 761,602 916,602 1071,602 1226,600 1381,599 1535,597 1690,595 1845,593 2000,590 2155,588 2309,585 2464,583 2619,581 2774,580 2929,578 3083,578 3238,578 3393,579 3548,580 3703,583"/>
+                <TextEquiv>
+                    <Unicode>Bucht. Um 11 kommt der Dampfer, gleich an Bord.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="586,824 1099,776 1392,893 1809,796 1910,883 2026,781 2897,745 3191,859 3499,751 3842,834 3803,688 3104,576 2880,704 2470,617 2104,697 1585,615 1290,744 584,682"/>
+                <Baseline points="606,772 766,778 927,782 1088,783 1249,783 1410,782 1570,779 1731,775 1892,772 2053,767 2214,763 2374,758 2535,754 2696,751 2857,749 3018,747 3178,747 3339,749 3500,753 3661,758 3822,767"/>
+                <TextEquiv>
+                    <Unicode>Um 1 aus dem Hafen. Schönes Wetter u. schwache Dünung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="591,953 2602,1041 3825,960 3650,793 3333,880 2928,775 2690,866 591,853"/>
+                <Baseline points="612,912 771,916 931,919 1090,921 1250,923 1410,925 1569,926 1729,927 1888,927 2048,927 2208,927 2367,927 2527,927 2686,926 2846,926 3006,925 3165,925 3325,925 3484,925 3644,926 3804,926"/>
+                <TextEquiv>
+                    <Unicode>u. doch hatte ich zuletzt eine schwache Neigung zu See„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="551,1108 835,1205 2484,1085 2730,1207 3281,1117 3598,1219 3861,1153 3862,961 2254,1051 1412,927 552,1041"/>
+                <Baseline points="572,1089 735,1092 898,1094 1062,1095 1225,1097 1389,1097 1552,1097 1715,1097 1879,1097 2042,1096 2206,1096 2369,1096 2532,1096 2696,1096 2859,1096 3023,1097 3186,1099 3349,1101 3513,1104 3676,1107 3840,1112"/>
+                <TextEquiv>
+                    <Unicode>krankheit. In Lindi wieder ausgestiegen, um mit Gou„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="541,1300 3113,1261 3670,1405 3922,1311 3723,1159 2867,1217 2484,1083 2166,1192 543,1162"/>
+                <Baseline points="564,1258 730,1256 897,1255 1064,1255 1231,1255 1398,1255 1565,1256 1732,1257 1899,1258 2066,1260 2233,1262 2399,1264 2566,1267 2733,1269 2900,1272 3067,1275 3234,1278 3401,1281 3568,1284 3735,1287 3902,1290"/>
+                <TextEquiv>
+                    <Unicode>vernementsdampfer „Kaiser Wilhelm“ weiter zu fahren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="531,1521 986,1426 1253,1547 1420,1431 1925,1419 2146,1549 2505,1438 3820,1491 3887,1349 3219,1389 3027,1268 2852,1363 531,1358"/>
+                <Baseline points="553,1432 718,1430 884,1429 1049,1428 1215,1427 1380,1426 1546,1425 1711,1425 1877,1425 2042,1425 2208,1425 2374,1425 2539,1426 2705,1427 2870,1428 3036,1430 3201,1431 3367,1433 3532,1435 3698,1438 3864,1441"/>
+                <TextEquiv>
+                    <Unicode>höre aber daß die kleine schwankende „Rovuma“ kommt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569572088979_90" custom="readingOrder {index:8;}">
+                <Coords points="483,1616 1296,1592 1860,1721 2202,1567 2507,1676 3087,1602 3387,1727 3504,1610 3721,1636 3496,1452 3187,1552 2499,1434 2169,1542 1898,1442 1276,1546 483,1465"/>
+                <Baseline points="504,1595 581,1598 658,1600 735,1601 812,1601 890,1600 967,1598 1044,1597 1121,1595 1198,1592 1276,1589 1353,1587 1430,1585 1507,1582 1584,1580 1662,1579 1739,1578 1816,1578 1893,1578 1970,1580 2048,1583 2302,1572 2375,1580 2449,1585 2522,1590 2596,1593 2670,1594 2743,1595 2817,1595 2891,1594 2964,1593 3038,1592 3111,1592 3185,1591 3259,1591 3332,1592 3406,1594 3480,1598 3553,1603 3627,1610 3701,1618"/>
+                <TextEquiv>
+                    <Unicode>u. bereits überfüllt ist. Herr Voertmann hier.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="618,1845 3945,1850 3944,1700 3530,1636 3393,1733 2858,1657 2317,1753 1990,1626 1861,1731 618,1719"/>
+                <Baseline points="638,1808 802,1808 966,1808 1130,1807 1295,1805 1459,1803 1623,1801 1788,1799 1952,1796 2116,1794 2281,1791 2445,1789 2609,1788 2773,1786 2938,1785 3102,1785 3266,1786 3431,1787 3595,1790 3759,1794 3924,1798"/>
+                <TextEquiv>
+                    <Unicode>9.II. Werde den nächsten Linien-Dampfer abwarten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="548,2029 2021,1956 3303,2068 3570,1958 3892,2043 3890,1859 3510,1820 547,1887"/>
+                <Baseline points="570,1983 735,1980 900,1977 1065,1975 1230,1972 1395,1970 1560,1968 1725,1966 1890,1964 2055,1963 2220,1961 2385,1960 2550,1959 2715,1959 2880,1958 3045,1958 3210,1958 3375,1958 3540,1959 3705,1960 3871,1961"/>
+                <TextEquiv>
+                    <Unicode>da auch wieder Kisten gekommen sind. Auch bleibe ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="561,2172 707,2252 895,2219 936,2253 1091,2144 1379,2191 1500,2133 1650,2196 1888,2168 1889,2030 1630,1983 1375,2091 1288,2032 1196,2086 912,2098 716,1985 561,2018"/>
+                <Baseline points="582,2139 646,2140 710,2141 774,2141 838,2142 903,2142 967,2143 1031,2143 1095,2143 1159,2144 1224,2144 1288,2144 1352,2144 1416,2144 1480,2144 1545,2144 1609,2144 1673,2144 1737,2144 1801,2144 1866,2143"/>
+                <TextEquiv>
+                    <Unicode>riesig gern in Lindi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="644,2401 1190,2341 1446,2434 1583,2337 1809,2422 1992,2336 2101,2427 2360,2420 2547,2309 2840,2419 2985,2348 2983,2173 2107,2206 1958,2287 1677,2173 1440,2288 1113,2158 915,2306 643,2259"/>
+                <Baseline points="663,2347 776,2345 889,2344 1003,2342 1116,2340 1230,2338 1343,2336 1456,2334 1570,2332 1683,2331 1797,2329 1910,2327 2023,2326 2137,2325 2250,2324 2364,2323 2477,2323 2590,2323 2704,2324 2817,2325 2929,2325 2973,2349"/>
+                <TextEquiv>
+                    <Unicode>10.II: Boten nach Tendaguru geschickt. Briefe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="1039,2492 3873,2512 3873,2370 3760,2350 2442,2438 1920,2347 1469,2445 1039,2359"/>
+                <Baseline points="1060,2474 1199,2477 1339,2480 1478,2482 1618,2483 1758,2483 1897,2483 2037,2482 2176,2481 2316,2479 2456,2477 2595,2476 2735,2474 2874,2473 3014,2472 3154,2471 3293,2471 3433,2472 3572,2474 3712,2476 3852,2480"/>
+                <TextEquiv>
+                    <Unicode>Abd. Tennis m. Dr. Wolff u. einem Offizier des im Hafen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="925,2659 3838,2691 3838,2515 3617,2469 1446,2564 925,2459"/>
+                <Baseline points="945,2597 1088,2600 1232,2602 1375,2604 1519,2606 1662,2607 1806,2608 1949,2609 2093,2609 2236,2610 2380,2610 2524,2609 2667,2609 2811,2608 2954,2608 3098,2607 3241,2606 3385,2605 3528,2604 3672,2603 3816,2602"/>
+                <TextEquiv>
+                    <Unicode>liegenden „Sperber“. Hübscher scharfer Kampf bei ziemlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="940,2829 997,2799 1031,2831 1173,2837 1243,2781 1331,2796 1414,2745 1524,2809 1652,2736 1761,2759 1759,2663 1692,2672 1607,2599 1483,2656 1399,2620 1270,2672 1174,2653 1091,2697 1019,2640 936,2658"/>
+                <Baseline points="957,2739 996,2740 1035,2740 1074,2740 1113,2740 1152,2740 1191,2739 1230,2738 1269,2738 1308,2737 1348,2736 1387,2735 1426,2734 1465,2733 1504,2732 1543,2730 1582,2730 1621,2729 1660,2728 1699,2728 1739,2727"/>
+                <TextEquiv>
+                    <Unicode>gleichen Kräften.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="618,2958 3907,2932 3867,2757 2988,2842 2673,2721 2186,2842 1951,2741 1698,2841 617,2841"/>
+                <Baseline points="637,2942 799,2942 962,2941 1124,2939 1287,2937 1449,2934 1612,2931 1774,2927 1937,2924 2099,2920 2262,2916 2424,2913 2587,2910 2749,2907 2912,2904 3074,2902 3237,2901 3399,2901 3562,2901 3724,2902 3887,2905"/>
+                <TextEquiv>
+                    <Unicode>11.II Kiesgrube hinter d. Stadt am Fuße des Berges besichtigt. Newala-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="695,3137 957,3083 1239,3204 1788,3078 2094,3174 2267,3046 3955,3124 3923,2925 693,3003"/>
+                <Baseline points="716,3090 876,3087 1037,3084 1198,3080 1359,3077 1520,3073 1681,3069 1841,3065 2002,3062 2163,3058 2324,3055 2485,3052 2646,3049 2807,3047 2967,3045 3128,3044 3289,3044 3450,3044 3611,3045 3772,3047 3933,3050"/>
+                <TextEquiv>
+                    <Unicode>Sandstein-Gerölle, zieml. großes Korn, rote Sandumhüllung, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="679,3271 1409,3243 1587,3348 1755,3223 2650,3308 2811,3205 3084,3291 3487,3199 3936,3298 3827,3058 1154,3198 955,3081 678,3192"/>
+                <Baseline points="699,3241 859,3242 1020,3241 1181,3238 1342,3235 1503,3231 1663,3226 1824,3221 1985,3215 2146,3210 2307,3204 2467,3199 2628,3194 2789,3190 2950,3187 3111,3185 3271,3184 3432,3185 3593,3188 3754,3192 3915,3199"/>
+                <TextEquiv>
+                    <Unicode>„Mikindani-Sch.“? Dann am Telegraphen-Weg aufwärts. Gleiche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="710,3383 1495,3388 1660,3476 2154,3365 3471,3438 3466,3221 3320,3203 3117,3291 2781,3210 2691,3304 2289,3233 1544,3341 1233,3243 708,3296"/>
+                <Baseline points="732,3375 867,3378 1003,3380 1139,3380 1274,3380 1410,3378 1546,3376 1681,3373 1817,3370 1953,3367 2089,3362 2224,3358 2360,3354 2496,3350 2631,3346 2767,3343 2903,3340 3038,3337 3174,3335 3310,3334 3446,3333"/>
+                <TextEquiv>
+                    <Unicode>Verhältnis wie zwischen Ssudi- u. Mikindani-Bucht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="1004,3547 1179,3529 1267,3548 1328,3508 1613,3537 1704,3517 1701,3409 1651,3415 1612,3378 1539,3443 1477,3445 1396,3402 1251,3427 1141,3389 1000,3410"/>
+                <Baseline points="1023,3522 1056,3522 1089,3522 1122,3522 1155,3521 1188,3521 1221,3520 1254,3519 1287,3518 1320,3517 1353,3515 1386,3514 1419,3513 1452,3511 1485,3510 1518,3509 1551,3508 1584,3507 1617,3506 1650,3505 1683,3505"/>
+                <TextEquiv>
+                    <Unicode>Abend Tennis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;} textStyle {offset:0; length:20;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="404,3813 840,3828 1175,3667 1547,3659 1757,3784 1861,3675 3319,3674 3707,3586 3702,3452 2761,3447 2276,3611 1740,3500 392,3530"/>
+                <Baseline points="419,3697 582,3696 745,3694 909,3692 1072,3689 1236,3686 1399,3682 1562,3677 1726,3672 1889,3666 2053,3659 2216,3651 2379,3643 2543,3634 2706,3625 2870,3615 3033,3604 3196,3592 3360,3581 3523,3567 3687,3554"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 12. Febr. Morgens gemalt. Abend mit Wolff's u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="668,3887 1026,3967 1251,3850 3846,3768 3695,3606 664,3766"/>
+                <Baseline points="686,3866 851,3856 1016,3847 1181,3840 1346,3833 1512,3827 1677,3822 1842,3817 2007,3812 2172,3808 2338,3804 2503,3800 2668,3795 2833,3790 2998,3785 3164,3779 3329,3772 3494,3764 3659,3756 3825,3746"/>
+                <TextEquiv>
+                    <Unicode>See-Offizieren bei Oberleutn. v. Kornatzky. Wunderbarer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="642,4038 2163,4064 2684,3929 2918,4033 3616,3845 2078,3816 1006,3965 636,3896"/>
+                <Baseline points="660,4018 806,4009 953,4002 1100,3995 1247,3988 1394,3981 1540,3976 1687,3970 1834,3964 1981,3958 2128,3953 2274,3948 2421,3942 2568,3937 2715,3931 2862,3925 3008,3919 3155,3912 3302,3905 3449,3897 3596,3890"/>
+                <TextEquiv>
+                    <Unicode>Vollmond-Abend an d. Bucht bis 12 Uhr. Essen auf der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="633,4179 1832,4199 2947,4067 3164,4185 3479,3994 3143,3931 2884,4049 629,4066"/>
+                <Baseline points="652,4154 792,4151 932,4149 1073,4146 1213,4143 1353,4140 1494,4136 1634,4132 1774,4128 1915,4123 2055,4119 2195,4114 2336,4109 2476,4103 2616,4096 2757,4090 2897,4084 3037,4077 3178,4069 3318,4061 3459,4052"/>
+                <TextEquiv>
+                    <Unicode>Veranda, dann unten vor dem Hause gesessen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="767,4317 2126,4367 2791,4273 3019,4375 3872,4260 3870,4176 3614,4146 3182,4200 3036,4070 1972,4254 1167,4130 765,4221"/>
+                <Baseline points="787,4298 940,4305 1093,4308 1246,4310 1400,4310 1553,4307 1706,4304 1859,4299 2013,4293 2166,4287 2319,4280 2472,4273 2626,4266 2779,4260 2932,4254 3085,4249 3239,4245 3392,4243 3545,4243 3698,4244 3852,4248"/>
+                <TextEquiv>
+                    <Unicode>13. Febr: Tennis. nach d. Abendbrot Spaziergang an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="645,4468 1275,4424 1768,4468 1835,4531 1906,4468 2006,4484 2005,4317 1918,4359 1801,4293 1655,4377 1488,4319 950,4396 741,4326 645,4359"/>
+                <Baseline points="667,4433 732,4435 798,4436 864,4437 930,4438 996,4438 1062,4438 1128,4438 1194,4437 1260,4437 1326,4436 1391,4435 1457,4434 1523,4434 1589,4433 1655,4433 1721,4433 1787,4433 1853,4433 1919,4434 1985,4435"/>
+                <TextEquiv>
+                    <Unicode>der mondhellen Bucht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569572125449_99" custom="readingOrder {index:27;}">
+                <Coords points="982,4592 1420,4566 1513,4652 2038,4546 2218,4648 2447,4545 3378,4588 3301,4405 2872,4486 2286,4393 1666,4517 1268,4430 981,4475"/>
+                <Baseline points="1002,4568 1044,4570 1087,4572 1130,4572 1173,4572 1216,4572 1259,4571 1302,4570 1345,4568 1388,4566 1431,4565 1473,4563 1516,4561 1559,4560 1602,4559 1645,4559 1688,4559 1731,4560 1774,4561 1817,4563 1860,4567 1885,4554 1958,4550 2032,4547 2105,4544 2179,4542 2253,4540 2326,4540 2400,4539 2474,4539 2547,4539 2621,4540 2695,4541 2768,4542 2842,4544 2916,4545 2989,4547 3063,4548 3137,4550 3210,4551 3284,4553 3358,4554"/>
+                <TextEquiv>
+                    <Unicode>Beobachtungen der Safaris ausgearbeitet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:28;}">
+                <Coords points="760,4750 1471,4812 1786,4702 2185,4808 2600,4688 3800,4775 3796,4550 3491,4530 2779,4647 758,4616"/>
+                <Baseline points="780,4735 929,4730 1079,4726 1229,4722 1379,4718 1529,4716 1679,4712 1828,4709 1978,4707 2128,4704 2278,4702 2428,4700 2578,4698 2728,4695 2877,4693 3027,4691 3177,4689 3327,4686 3477,4683 3627,4680 3777,4677"/>
+                <TextEquiv>
+                    <Unicode>11. Febr. Morgens Kriek aufwärts auf d. großen Straße,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569572134896_104" custom="readingOrder {index:29;}">
+                <Coords points="582,4875 1067,4977 1450,4849 2390,4947 3187,4850 3538,4961 3809,4842 3645,4739 2819,4794 2601,4687 2189,4803 1788,4705 1479,4807 582,4792"/>
+                <Baseline points="603,4857 631,4857 659,4858 687,4858 716,4858 744,4858 772,4857 800,4857 829,4857 857,4857 885,4857 913,4857 942,4858 970,4858 998,4858 1026,4858 1055,4859 1083,4859 1111,4860 1139,4860 1168,4862 1210,4847 1318,4848 1426,4849 1534,4850 1642,4850 1751,4850 1859,4850 1967,4849 2075,4849 2183,4848 2292,4847 2400,4846 2508,4845 2616,4844 2724,4843 2833,4843 2941,4842 3049,4843 3157,4843 3265,4844 3374,4846 3485,4836 3510,4838 3535,4840 3561,4841 3586,4841 3611,4840 3637,4839 3662,4838 3687,4836 3713,4833 3738,4831 3763,4828 3789,4825"/>
+                <TextEquiv>
+                    <Unicode>an der ich vom Boote aus Anschnitte im Tertiär gesehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>102&#xD;
+8.II: Vorm. auf dem Boma-Berg; schöner Blick über die&#xD;
+Bucht. Um 11 kommt der Dampfer, gleich an Bord.&#xD;
+Um 1 aus dem Hafen. Schönes Wetter u. schwache Dünung&#xD;
+u. doch hatte ich zuletzt eine schwache Neigung zu See„&#xD;
+krankheit. In Lindi wieder ausgestiegen, um mit Gou„&#xD;
+vernementsdampfer „Kaiser Wilhelm“ weiter zu fahren,&#xD;
+höre aber daß die kleine schwankende „Rovuma“ kommt&#xD;
+u. bereits überfüllt ist. Herr Voertmann hier.&#xD;
+9.II. Werde den nächsten Linien-Dampfer abwarten,&#xD;
+da auch wieder Kisten gekommen sind. Auch bleibe ich&#xD;
+riesig gern in Lindi&#xD;
+10.II: Boten nach Tendaguru geschickt. Briefe.&#xD;
+Abd. Tennis m. Dr. Wolff u. einem Offizier des im Hafen&#xD;
+liegenden „Sperber“. Hübscher scharfer Kampf bei ziemlich&#xD;
+gleichen Kräften.&#xD;
+11.II Kiesgrube hinter d. Stadt am Fuße des Berges besichtigt. Newala-&#xD;
+Sandstein-Gerölle, zieml. großes Korn, rote Sandumhüllung, aber&#xD;
+„Mikindani-Sch.“? Dann am Telegraphen-Weg aufwärts. Gleiche&#xD;
+Verhältnis wie zwischen Ssudi- u. Mikindani-Bucht.&#xD;
+Abend Tennis.&#xD;
+Sonntag d. 12. Febr. Morgens gemalt. Abend mit Wolff's u.&#xD;
+See-Offizieren bei Oberleutn. v. Kornatzky. Wunderbarer&#xD;
+Vollmond-Abend an d. Bucht bis 12 Uhr. Essen auf der&#xD;
+Veranda, dann unten vor dem Hause gesessen.&#xD;
+13. Febr: Tennis. nach d. Abendbrot Spaziergang an&#xD;
+der mondhellen Bucht.&#xD;
+Beobachtungen der Safaris ausgearbeitet.&#xD;
+11. Febr. Morgens Kriek aufwärts auf d. großen Straße,&#xD;
+an der ich vom Boote aus Anschnitte im Tertiär gesehen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

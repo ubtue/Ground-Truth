@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:57.537+02:00</Created>
+        <LastChange>2020-03-25T08:25:31.607+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550796" pageNr="94" tsid="26320248" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=VAVRJKLDAXQEKCRTQQLCZEFA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULWUFRPYMVOJNCDTLJFCTHXV" imageId="4551674"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_094.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255560261" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582890879977_2931"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582890879977_2931" custom="readingOrder {index:0;}">
+            <Coords points="339,231 475,224 4001,224 4001,4853 475,4853 339,385"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="316,370 342,369 360,382 372,368 394,372 411,354 429,367 472,362 469,236 447,237 434,224 360,221 343,204 334,213 313,214"/>
+                <Baseline points="339,335 366,332 394,331 421,332 449,331"/>
+                <TextEquiv>
+                    <Unicode>90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="524,435 2090,467 2246,353 2605,452 2796,362 3374,405 3690,255 3470,176 2698,288 2578,193 2200,307 1807,218 1283,350 1176,263 519,323"/>
+                <Baseline points="546,423 702,416 858,408 1014,401 1170,395 1326,388 1482,382 1639,377 1795,370 1951,365 2107,360 2263,355 2419,349 2575,343 2732,337 2888,332 3044,325 3200,320 3356,313 3512,307 3669,299"/>
+                <TextEquiv>
+                    <Unicode>16. Nov. Vorm. bei d. Rückkehr in's Lager einen Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="479,640 2525,516 2792,595 2927,499 3264,610 3840,575 3712,367 474,484"/>
+                <Baseline points="499,587 664,581 830,574 996,568 1162,563 1328,557 1494,551 1659,545 1825,540 1991,535 2157,529 2323,524 2489,520 2655,515 2820,510 2986,505 3152,501 3318,497 3484,493 3650,489 3816,486"/>
+                <TextEquiv>
+                    <Unicode>Bötzow, Pflanzer aus W-Usambara vorgefunden, der sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="490,751 2298,795 2416,679 2561,771 3053,668 3229,773 3564,643 3903,722 3943,552 3233,608 2928,498 2424,627 2071,544 488,677"/>
+                <Baseline points="513,727 683,721 854,716 1024,709 1195,703 1366,697 1536,691 1707,685 1877,679 2048,674 2219,668 2389,664 2560,660 2730,657 2901,654 3072,652 3242,651 3413,651 3583,651 3754,653 3925,656"/>
+                <TextEquiv>
+                    <Unicode>mehr als unsere bisherigen Besucher f. d. Grabungen interes„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="454,948 3961,847 3957,726 3674,665 1344,716 451,857"/>
+                <Baseline points="475,908 648,895 821,883 994,872 1167,862 1341,851 1514,843 1687,835 1860,827 2033,821 2207,814 2380,810 2553,806 2726,802 2899,799 3073,798 3246,796 3419,796 3592,797 3765,798 3939,800"/>
+                <TextEquiv>
+                    <Unicode>siert u. 2 Nächte bleiben wird. Ihm d. Gräben gezeigt, sowie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585119632749_36" custom="readingOrder {index:5;}">
+                <Coords points="473,1026 1633,855 1772,949 2633,964 2633,1036 2531,1032 2302,1130 1630,1037 1449,1168 1214,1058 474,1087"/>
+                <Baseline points="494,1070 664,1061 835,1053 1005,1046 1176,1039 1346,1034 1517,1030 1687,1026 1858,1023 2028,1021 2199,1020 2370,1019 2540,1019 2633,1019"/>
+                <TextEquiv>
+                    <Unicode>abds. unsere Aussicht vom Tendaguru.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:6;}">
+                <Coords points="2755,979 2954,1005 3058,948 3296,935 3378,1005 3443,944 3643,1000 3695,948 3967,953 3967,866 3521,901 3374,788 3201,888 2950,844 2755,901"/>
+                <Baseline points="2775,940 2833,940 2892,940 2950,940 3009,940 3067,939 3126,939 3184,939 3243,938 3301,938 3360,937 3419,937 3477,937 3536,937 3594,937 3653,938 3711,938 3770,939 3828,940 3887,942 3946,944"/>
+                <TextEquiv>
+                    <Unicode>2 Wangoni-Aufseher degradiert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585119632747_35" custom="readingOrder {index:7;}">
+                <Coords points="2633,964 3925,988 3844,1093 2633,1036"/>
+                <Baseline points="2633,1019 2711,1019 2881,1020 3052,1021 3222,1022 3393,1024 3563,1026 3734,1028 3905,1029"/>
+                <TextEquiv>
+                    <Unicode>wegen einer Prügelei im Lager.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:8;}">
+                <Coords points="611,1285 3713,1280 3971,1170 3968,1057 3396,1045 608,1142"/>
+                <Baseline points="634,1241 799,1239 965,1237 1130,1234 1296,1232 1462,1229 1627,1225 1793,1222 1959,1218 2124,1214 2290,1210 2456,1206 2621,1202 2787,1197 2953,1193 3118,1188 3284,1183 3450,1178 3615,1173 3781,1169 3947,1164"/>
+                <TextEquiv>
+                    <Unicode>17 Nov. Unser Besuch läuft alle Gräben ab, photographiert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:9;}">
+                <Coords points="510,1437 1602,1493 1743,1382 2945,1453 3363,1358 3512,1442 3877,1261 507,1307"/>
+                <Baseline points="531,1418 697,1409 863,1400 1029,1393 1195,1387 1362,1381 1528,1377 1694,1373 1860,1370 2026,1367 2193,1365 2359,1363 2525,1360 2691,1359 2857,1357 3024,1355 3190,1352 3356,1349 3522,1346 3688,1342 3855,1337"/>
+                <TextEquiv>
+                    <Unicode>u. notiert eifrig. Er lädt uns zur Regenzeit ein, seine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:10;}">
+                <Coords points="553,1657 940,1547 1375,1626 1537,1530 1774,1632 1983,1509 2215,1607 2395,1528 2744,1601 3083,1514 3081,1427 548,1480"/>
+                <Baseline points="573,1560 697,1555 821,1549 946,1544 1070,1539 1195,1535 1319,1531 1443,1527 1568,1523 1692,1520 1817,1516 1941,1513 2065,1510 2190,1507 2314,1505 2439,1502 2563,1499 2687,1497 2812,1494 2936,1491 3061,1489"/>
+                <TextEquiv>
+                    <Unicode>zweite leerstehende Schamba zu bewohnen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:11;}">
+                <Coords points="836,1796 4023,1717 4017,1522 3886,1487 3664,1602 3172,1494 2634,1636 832,1640"/>
+                <Baseline points="857,1740 1014,1734 1171,1728 1328,1722 1485,1717 1643,1711 1800,1706 1957,1700 2114,1695 2271,1690 2429,1685 2586,1680 2743,1676 2900,1672 3057,1667 3215,1664 3372,1661 3529,1658 3686,1656 3843,1654 4001,1653"/>
+                <TextEquiv>
+                    <Unicode>In diesen Tagen wieder mehrfach Schwalben gesehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:12;}">
+                <Coords points="633,1961 2463,1864 2895,1964 3057,1854 3257,1887 3253,1749 628,1805"/>
+                <Baseline points="654,1932 783,1925 912,1920 1041,1913 1170,1908 1299,1902 1428,1898 1557,1893 1686,1888 1815,1884 1944,1880 2073,1876 2202,1873 2331,1870 2460,1866 2589,1863 2718,1860 2847,1857 2976,1855 3105,1852 3235,1849"/>
+                <TextEquiv>
+                    <Unicode>18 Nov. Hr. Bötzow marschiert in aller Frühe ab.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:13;}">
+                <Coords points="573,2162 1233,2068 1716,2140 2150,2019 2591,2123 2955,1981 3504,2082 3904,1983 3901,1875 567,1989"/>
+                <Baseline points="592,2060 756,2060 920,2059 1085,2056 1249,2052 1414,2048 1578,2043 1743,2037 1907,2031 2072,2025 2236,2018 2400,2011 2565,2005 2729,1999 2894,1993 3058,1988 3223,1985 3387,1982 3552,1980 3716,1980 3881,1981"/>
+                <TextEquiv>
+                    <Unicode>Ein Knochentransport sollte gestern abgehen, aber die Jumben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:14;}">
+                <Coords points="553,2317 1259,2188 1583,2285 1947,2147 3417,2179 3411,2023 2964,1982 2751,2098 2025,2019 1703,2130 545,2100"/>
+                <Baseline points="569,2211 710,2207 851,2203 992,2198 1133,2194 1275,2189 1416,2183 1557,2179 1698,2173 1839,2168 1981,2163 2122,2158 2263,2152 2404,2148 2545,2143 2687,2138 2828,2133 2969,2129 3110,2125 3251,2121 3393,2117"/>
+                <TextEquiv>
+                    <Unicode>lassen uns im Stich, es kommen — 8 Träger!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:15;}">
+                <Coords points="677,2397 1755,2355 1871,2438 2157,2331 2988,2412 3661,2321 3595,2189 3164,2249 2805,2159 2276,2270 1788,2198 1554,2302 673,2284"/>
+                <Baseline points="698,2389 844,2383 991,2377 1138,2371 1285,2364 1432,2358 1579,2351 1726,2344 1873,2337 2020,2331 2167,2324 2313,2318 2460,2312 2607,2307 2754,2302 2901,2298 3048,2293 3195,2290 3342,2287 3489,2285 3636,2284"/>
+                <TextEquiv>
+                    <Unicode>19 Nov. Knochentransport mit hauptsächlich eigenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582890896240_2936" custom="readingOrder {index:16;}">
+                <Coords points="582,2598 926,2530 1293,2626 1753,2493 2024,2588 2614,2464 3514,2551 3776,2477 3771,2321 577,2464"/>
+                <Baseline points="602,2539 740,2533 878,2525 1016,2519 1154,2513 1292,2507 1430,2501 1568,2495 1706,2490 1844,2485 1983,2480 2121,2475 2259,2471 2397,2466 2535,2461 2673,2457 2811,2453 2949,2449 3087,2444 3225,2441 3364,2436 3485,2436 3511,2437 3538,2438 3565,2439 3591,2439 3618,2440 3645,2440 3671,2441 3698,2441 3725,2441 3752,2440"/>
+                <TextEquiv>
+                    <Unicode>Leuten. (75 Lasten) Vorm. Ngorombwe in d. Schamben geschossen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582890902626_2941" custom="readingOrder {index:17;}">
+                <Coords points="693,2784 3798,2706 3793,2528 3570,2604 3255,2504 2898,2601 2402,2511 2209,2603 688,2598"/>
+                <Baseline points="712,2736 738,2736 765,2735 792,2735 819,2735 846,2735 873,2735 900,2735 927,2735 954,2735 981,2734 1007,2734 1034,2733 1061,2732 1088,2730 1115,2729 1142,2727 1169,2724 1196,2721 1223,2717 1250,2713 1357,2675 1399,2674 1442,2672 1484,2671 1527,2669 1570,2668 1612,2666 1655,2665 1698,2664 1740,2663 1783,2662 1826,2661 1868,2660 1911,2660 1954,2660 1996,2660 2039,2660 2082,2661 2124,2662 2167,2664 2210,2665 2320,2642 2392,2646 2465,2648 2538,2650 2611,2650 2684,2651 2757,2650 2829,2649 2902,2648 2975,2647 3048,2646 3121,2645 3194,2644 3267,2644 3339,2644 3412,2645 3485,2647 3558,2650 3631,2654 3704,2659 3777,2665"/>
+                <TextEquiv>
+                    <Unicode>20. Nov. Poscho-Zahlung. Post fertiggestellt. Janensch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;}">
+                <Coords points="538,3014 949,2890 1391,2990 1855,2873 2844,2919 3903,2823 3904,2731 530,2806"/>
+                <Baseline points="557,2906 723,2901 889,2894 1056,2888 1222,2881 1389,2875 1555,2867 1721,2860 1888,2853 2054,2845 2221,2839 2387,2831 2553,2825 2720,2819 2886,2813 3053,2808 3219,2803 3385,2799 3552,2795 3718,2792 3885,2791"/>
+                <TextEquiv>
+                    <Unicode>schreibt an d. Geh. Rat Branco u. fragt mich zuvorkommender</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="538,3085 3129,3058 3843,2903 3250,2815 3076,2921 973,2996 774,2903 535,3011"/>
+                <Baseline points="560,3067 723,3057 886,3049 1049,3040 1212,3033 1375,3025 1538,3019 1701,3013 1864,3007 2027,3002 2190,2997 2353,2992 2516,2987 2679,2982 2842,2978 3005,2973 3168,2969 3331,2965 3494,2959 3657,2955 3821,2949"/>
+                <TextEquiv>
+                    <Unicode>Weise, wie ich mich zur Frage eines dritten Europäers im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="563,3272 1302,3308 1509,3187 1734,3273 2427,3150 2730,3247 2980,3120 3873,3119 3868,2980 2594,3092 931,3036 560,3194"/>
+                <Baseline points="584,3228 747,3218 910,3207 1074,3198 1237,3189 1400,3180 1564,3172 1727,3164 1890,3157 2054,3150 2217,3143 2380,3137 2544,3131 2707,3126 2870,3120 3034,3116 3197,3112 3360,3108 3524,3103 3687,3100 3851,3097"/>
+                <TextEquiv>
+                    <Unicode>nächsten Jahre stelle. Ich muß zugeben, daß wir beide mit d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="587,3462 2124,3306 3829,3330 3823,3196 3253,3136 1348,3311 579,3258"/>
+                <Baseline points="604,3379 764,3371 924,3363 1084,3355 1244,3349 1404,3341 1564,3334 1724,3327 1884,3321 2044,3315 2204,3309 2364,3302 2524,3296 2684,3290 2844,3284 3004,3279 3164,3273 3324,3268 3484,3262 3644,3257 3804,3251"/>
+                <TextEquiv>
+                    <Unicode>Topographieren nicht zu Rande kommen (muß freilich sagen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="570,3612 1939,3479 2704,3557 2939,3445 3819,3471 3816,3372 2666,3320 2569,3410 1103,3364 976,3468 564,3456"/>
+                <Baseline points="589,3522 749,3517 909,3513 1069,3508 1230,3502 1390,3496 1550,3490 1711,3485 1871,3478 2031,3473 2192,3466 2352,3460 2512,3455 2672,3448 2833,3443 2993,3438 3153,3434 3314,3429 3474,3426 3634,3423 3795,3420"/>
+                <TextEquiv>
+                    <Unicode>daß dergl. Vorbereitungen vor d. Reise getroffen werden mußten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;}">
+                <Coords points="564,3706 3712,3635 3845,3614 3842,3497 559,3563"/>
+                <Baseline points="585,3650 746,3646 908,3641 1070,3635 1232,3630 1394,3624 1556,3618 1718,3612 1880,3606 2042,3600 2204,3594 2365,3589 2527,3584 2689,3579 2851,3575 3013,3572 3175,3569 3337,3567 3499,3566 3661,3565 3823,3566"/>
+                <TextEquiv>
+                    <Unicode>u. glaube, daß ich mich sehr viel umfangreicher vorbereitet hätte)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="567,3929 1342,3769 3722,3791 3980,3730 3977,3630 560,3708"/>
+                <Baseline points="585,3808 753,3801 922,3795 1090,3787 1259,3780 1428,3772 1596,3764 1765,3756 1934,3749 2102,3742 2271,3735 2440,3729 2608,3723 2777,3718 2946,3714 3114,3711 3283,3708 3452,3707 3620,3706 3789,3707 3958,3710"/>
+                <TextEquiv>
+                    <Unicode>Es scheint uns am besten, einen hiesigen Topographen für mehrere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="543,3984 2204,3902 2424,4017 2876,3896 3903,3897 3487,3753 540,3880"/>
+                <Baseline points="565,3966 730,3957 896,3947 1062,3938 1228,3930 1394,3923 1559,3917 1725,3910 1891,3905 2057,3899 2223,3895 2388,3890 2554,3887 2720,3883 2886,3880 3052,3877 3217,3875 3383,3873 3549,3871 3715,3870 3881,3868"/>
+                <TextEquiv>
+                    <Unicode>Wochen zu gewinnen, da ein 3. Geologe uns d. Arbeitser„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:26;}">
+                <Coords points="572,4232 1689,4085 2004,4186 2204,4071 3779,4129 3938,4089 3933,3933 2030,3934 566,4080"/>
+                <Baseline points="589,4138 755,4128 921,4119 1087,4109 1254,4101 1420,4093 1586,4086 1753,4078 1919,4072 2085,4065 2252,4059 2418,4054 2584,4049 2750,4044 2917,4040 3083,4036 3249,4032 3416,4029 3582,4026 3748,4024 3915,4021"/>
+                <TextEquiv>
+                    <Unicode>gebnisse beschneidet u. d. Kosten d. Ausrüstung u. Herreise nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:27;}">
+                <Coords points="591,4296 933,4276 990,4305 1041,4264 1080,4289 1205,4267 1320,4315 1440,4285 1436,4173 1329,4198 1267,4165 1173,4216 1116,4183 832,4236 698,4137 588,4223"/>
+                <Baseline points="611,4271 651,4273 691,4274 731,4274 772,4275 812,4274 852,4274 893,4273 933,4271 973,4269 1014,4267 1054,4265 1094,4263 1134,4261 1175,4259 1215,4257 1255,4256 1296,4254 1336,4253 1376,4252 1417,4252"/>
+                <TextEquiv>
+                    <Unicode>lohnen würden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:28;} textStyle {offset:0; length:18;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="686,4447 2320,4512 2479,4422 3831,4457 3877,4353 3182,4260 2963,4363 2229,4275 2036,4356 1839,4259 1269,4390 899,4274 684,4330"/>
+                <Baseline points="708,4454 865,4452 1022,4450 1180,4446 1337,4443 1494,4439 1652,4436 1809,4432 1966,4428 2124,4424 2281,4420 2438,4417 2596,4414 2753,4412 2910,4410 3068,4409 3225,4409 3382,4409 3540,4410 3697,4413 3855,4417"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 21 Nov: Morgens wieder Knochentrans„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:29;}">
+                <Coords points="519,4746 1209,4638 2116,4689 2416,4584 2891,4678 3814,4528 3333,4404 512,4547"/>
+                <Baseline points="535,4639 697,4640 860,4638 1023,4636 1186,4632 1349,4626 1512,4620 1675,4614 1838,4607 2001,4600 2164,4592 2326,4585 2489,4579 2652,4572 2815,4568 2978,4563 3141,4561 3304,4560 3467,4560 3630,4563 3793,4568"/>
+                <TextEquiv>
+                    <Unicode>port (30 Mann), daher nicht zur Barappijagd gekommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:30;}">
+                <Coords points="535,4891 1198,4917 1382,4812 1553,4908 1819,4792 2034,4895 2658,4757 3510,4844 3851,4804 3847,4631 531,4748"/>
+                <Baseline points="555,4816 718,4812 882,4808 1046,4804 1209,4799 1373,4794 1537,4789 1700,4784 1864,4778 2028,4773 2192,4767 2355,4763 2519,4758 2683,4754 2846,4750 3010,4747 3174,4744 3337,4742 3501,4741 3665,4740 3829,4741"/>
+                <TextEquiv>
+                    <Unicode>Nachher durch d. Schamben gestreift, aber wieder ohne Erfolg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>90&#xD;
+16. Nov. Vorm. bei d. Rückkehr in's Lager einen Herrn&#xD;
+Bötzow, Pflanzer aus W-Usambara vorgefunden, der sich&#xD;
+mehr als unsere bisherigen Besucher f. d. Grabungen interes„&#xD;
+siert u. 2 Nächte bleiben wird. Ihm d. Gräben gezeigt, sowie&#xD;
+abds. unsere Aussicht vom Tendaguru.&#xD;
+2 Wangoni-Aufseher degradiert&#xD;
+wegen einer Prügelei im Lager.&#xD;
+17 Nov. Unser Besuch läuft alle Gräben ab, photographiert&#xD;
+u. notiert eifrig. Er lädt uns zur Regenzeit ein, seine&#xD;
+zweite leerstehende Schamba zu bewohnen.&#xD;
+In diesen Tagen wieder mehrfach Schwalben gesehen&#xD;
+18 Nov. Hr. Bötzow marschiert in aller Frühe ab.&#xD;
+Ein Knochentransport sollte gestern abgehen, aber die Jumben&#xD;
+lassen uns im Stich, es kommen — 8 Träger!&#xD;
+19 Nov. Knochentransport mit hauptsächlich eigenen&#xD;
+Leuten. (75 Lasten) Vorm. Ngorombwe in d. Schamben geschossen&#xD;
+20. Nov. Poscho-Zahlung. Post fertiggestellt. Janensch&#xD;
+schreibt an d. Geh. Rat Branco u. fragt mich zuvorkommender&#xD;
+Weise, wie ich mich zur Frage eines dritten Europäers im&#xD;
+nächsten Jahre stelle. Ich muß zugeben, daß wir beide mit d.&#xD;
+Topographieren nicht zu Rande kommen (muß freilich sagen,&#xD;
+daß dergl. Vorbereitungen vor d. Reise getroffen werden mußten,&#xD;
+u. glaube, daß ich mich sehr viel umfangreicher vorbereitet hätte)&#xD;
+Es scheint uns am besten, einen hiesigen Topographen für mehrere&#xD;
+Wochen zu gewinnen, da ein 3. Geologe uns d. Arbeitser„&#xD;
+gebnisse beschneidet u. d. Kosten d. Ausrüstung u. Herreise nicht&#xD;
+lohnen würden.&#xD;
+Sonntag d. 21 Nov: Morgens wieder Knochentrans„&#xD;
+port (30 Mann), daher nicht zur Barappijagd gekommen.&#xD;
+Nachher durch d. Schamben gestreift, aber wieder ohne Erfolg.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

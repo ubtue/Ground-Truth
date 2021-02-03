@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:13.168+02:00</Created>
+        <LastChange>2020-03-04T10:18:15.052+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581468" pageNr="20" tsid="24757443" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=QAGRNTYDVSQBIFNZYNBAQFBW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KLZLCNUBBIPKCZISJRTBLALQ" imageId="4579357"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_20.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255744789" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582808005554_158"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582808005554_158" custom="readingOrder {index:0;}">
+            <Coords points="266,218 400,218 3995,380 3995,4790 370,4790 266,376"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="245,374 294,380 332,356 360,381 402,352 424,351 417,219 381,212 360,231 325,220 299,235 286,231 260,254 238,255"/>
+                <Baseline points="266,326 292,323 319,321 346,320 373,319 400,318"/>
+                <TextEquiv>
+                    <Unicode>18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l1" custom="readingOrder {index:1;}">
+                <Coords points="563,527 3974,503 3971,336 3284,299 2790,418 2480,326 561,399"/>
+                <Baseline points="584,502 752,497 920,493 1088,489 1257,486 1425,482 1593,478 1761,475 1930,472 2098,469 2266,466 2434,463 2603,461 2771,458 2939,456 3107,453 3276,451 3444,449 3612,446 3780,444 3949,442"/>
+                <TextEquiv>
+                    <Unicode>2 Sept. Morgens in d. Steppe bei Naluë, dann in weitem Bogen nördlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:2;}">
+                <Coords points="347,670 3569,679 3905,523 345,547"/>
+                <Baseline points="370,644 545,638 721,633 897,628 1073,624 1248,620 1424,616 1600,613 1776,610 1951,607 2127,604 2303,602 2479,599 2654,597 2830,593 3006,590 3182,586 3357,583 3533,578 3709,573 3885,567"/>
+                <TextEquiv>
+                    <Unicode>v. Kiwala bis zum Graben, 2x auf Riedböcke unter freilich ungünstigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:3;}">
+                <Coords points="394,790 3923,746 3820,611 393,684"/>
+                <Baseline points="414,766 588,760 762,755 936,749 1111,744 1285,740 1459,736 1633,732 1808,729 1982,725 2156,723 2330,720 2505,718 2679,717 2853,715 3027,714 3202,714 3376,713 3550,713 3724,713 3899,714"/>
+                <TextEquiv>
+                    <Unicode>Umständen u. ohne Erfolg geschossen, sonst erstaunlicherweise nichts zu sehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:4;}">
+                <Coords points="390,914 827,993 1386,857 1648,974 2490,841 2720,946 3035,842 3494,933 3897,862 3894,726 387,791"/>
+                <Baseline points="410,899 583,894 756,889 929,884 1102,879 1275,874 1448,868 1622,863 1795,858 1968,853 2141,849 2314,844 2487,840 2660,837 2834,834 3007,831 3180,829 3353,828 3526,827 3699,828 3873,829"/>
+                <TextEquiv>
+                    <Unicode>Immerhin ein Trost, daß man nun wirklich endlich durch's Pori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:5;}">
+                <Coords points="389,1111 2941,984 3742,1069 3939,1027 3938,913 386,918"/>
+                <Baseline points="411,1027 586,1023 761,1019 936,1016 1112,1013 1287,1010 1462,1008 1638,1006 1813,1005 1988,1003 2164,1001 2339,999 2514,998 2689,996 2865,993 3040,991 3215,987 3391,984 3566,980 3741,975 3917,969"/>
+                <TextEquiv>
+                    <Unicode>streifen kann, wenn man auch hier u. da gehörig zu kämpfen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582808017003_169" custom="readingOrder {index:6;}">
+                <Coords points="409,1248 1502,1140 1929,1233 2042,1139 3920,1177 3918,1018 2313,991 1497,1110 1320,1019 1132,1113 635,1017 407,1112"/>
+                <Baseline points="430,1154 477,1154 525,1154 572,1154 620,1154 668,1154 715,1153 763,1152 811,1151 858,1151 906,1150 954,1149 1001,1149 1049,1148 1097,1148 1144,1147 1192,1148 1240,1148 1287,1148 1335,1149 1383,1151 1825,1132 1928,1128 2032,1124 2135,1122 2239,1121 2343,1120 2446,1119 2550,1120 2653,1120 2757,1121 2861,1122 2964,1124 3068,1125 3171,1126 3275,1127 3379,1127 3482,1128 3586,1127 3689,1126 3793,1124 3897,1122"/>
+                <TextEquiv>
+                    <Unicode>hat. Photographiert. Poscho-Zahlung. Ein Trupp Wangoni ent„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="398,1333 3062,1351 3272,1272 2962,1137 2282,1224 2061,1149 1939,1239 1784,1141 1261,1159 779,1261 558,1163 397,1263"/>
+                <Baseline points="419,1295 560,1294 702,1293 843,1292 985,1290 1126,1289 1268,1287 1409,1285 1551,1283 1692,1282 1834,1279 1975,1277 2117,1274 2258,1270 2400,1267 2541,1264 2683,1260 2824,1256 2966,1251 3107,1247 3249,1241"/>
+                <TextEquiv>
+                    <Unicode>lassen. Unmittelbar am Zelte nachm. 4 Perlhühner geschossen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="532,1454 3745,1440 3916,1420 3912,1209 3470,1327 530,1366"/>
+                <Baseline points="554,1431 721,1426 888,1420 1055,1416 1222,1412 1389,1408 1556,1404 1723,1401 1890,1398 2057,1395 2224,1392 2391,1390 2558,1387 2725,1384 2892,1382 3059,1379 3226,1377 3393,1375 3560,1372 3727,1370 3895,1367"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 3. Sept. Vorm. etwas aquarelliert. Gedicht vorgenommen, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="440,1633 918,1534 3841,1533 3523,1397 438,1427"/>
+                <Baseline points="460,1549 627,1543 795,1538 963,1533 1131,1529 1299,1526 1467,1523 1634,1520 1802,1517 1970,1515 2138,1513 2306,1511 2474,1509 2642,1508 2809,1506 2977,1505 3145,1503 3313,1502 3481,1500 3649,1498 3817,1496"/>
+                <TextEquiv>
+                    <Unicode>hier wird merkwürdigerweise nicht viel. Immerhin hat Makangaga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="443,1760 3624,1685 3851,1575 3102,1495 440,1623"/>
+                <Baseline points="463,1667 631,1664 799,1661 968,1657 1136,1653 1304,1649 1473,1645 1641,1640 1809,1635 1978,1631 2146,1627 2314,1624 2483,1621 2651,1618 2819,1616 2988,1615 3156,1614 3324,1615 3493,1617 3661,1620 3830,1623"/>
+                <TextEquiv>
+                    <Unicode>jetzt an Aufsätzen in einem Monat so viel geliefert, wie Tendaguru</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="439,1814 1499,1869 1704,1782 1912,1863 2289,1761 2558,1854 3410,1780 3409,1701 3188,1625 2820,1710 2647,1606 2314,1717 793,1672 438,1752"/>
+                <Baseline points="460,1794 606,1789 752,1784 898,1781 1045,1777 1191,1774 1337,1771 1483,1769 1630,1767 1776,1766 1922,1764 2068,1763 2215,1761 2361,1760 2507,1758 2653,1757 2800,1755 2946,1753 3092,1751 3238,1748 3385,1745"/>
+                <TextEquiv>
+                    <Unicode>in 2 Jahren u. auch sonst noch einiges. 13 Lasten nach Kilwa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="514,1948 3854,1908 3782,1778 513,1851"/>
+                <Baseline points="536,1921 700,1924 865,1926 1030,1927 1194,1926 1359,1925 1524,1923 1688,1921 1853,1918 2018,1914 2183,1911 2347,1907 2512,1903 2677,1899 2841,1895 3006,1892 3171,1889 3335,1887 3500,1885 3665,1885 3830,1885"/>
+                <TextEquiv>
+                    <Unicode>Nachm. In d. Steppe östlich vom Linganla abgesucht, wo gestern gutes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="445,2080 870,2047 995,2137 1169,2037 1355,2131 1780,2035 2520,2102 2818,2044 2816,1925 2275,1904 2017,1983 1914,1919 1569,2004 442,1940"/>
+                <Baseline points="466,2039 582,2039 698,2040 815,2040 931,2041 1047,2041 1164,2041 1280,2041 1396,2041 1513,2040 1629,2039 1745,2037 1862,2036 1978,2032 2094,2029 2211,2025 2327,2020 2443,2014 2560,2007 2676,1999 2793,1991"/>
+                <TextEquiv>
+                    <Unicode>Feuer durchgegangen. Absolut nichts zu sehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="646,2244 3265,2259 3867,2204 3866,2081 644,2068"/>
+                <Baseline points="666,2208 824,2203 983,2198 1142,2195 1301,2192 1460,2189 1619,2187 1777,2186 1936,2185 2095,2184 2254,2183 2413,2183 2572,2182 2731,2181 2889,2180 3048,2179 3207,2178 3366,2176 3525,2173 3684,2170 3843,2166"/>
+                <TextEquiv>
+                    <Unicode>4. Sept. Morgens im Walde gegen Muazi u. links des Nami-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="464,2368 3875,2357 3873,2233 3434,2204 1009,2308 462,2218"/>
+                <Baseline points="487,2347 655,2351 823,2353 991,2354 1159,2354 1328,2353 1496,2350 1664,2348 1832,2344 2000,2340 2169,2336 2337,2332 2505,2329 2673,2325 2841,2323 3010,2321 3178,2320 3346,2320 3514,2322 3682,2325 3851,2330"/>
+                <TextEquiv>
+                    <Unicode>tambo gegen Naiwanga gesucht, nicht das geringste gesehen. Das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="447,2508 3884,2511 3835,2371 447,2407"/>
+                <Baseline points="467,2482 636,2482 806,2483 976,2483 1146,2483 1315,2483 1485,2482 1655,2482 1825,2481 1994,2481 2164,2480 2334,2479 2504,2478 2673,2478 2843,2477 3013,2476 3183,2476 3352,2475 3522,2475 3692,2475 3862,2475"/>
+                <TextEquiv>
+                    <Unicode>Wild muß sich verzogen haben, es gab sonst immer einiges</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="445,2698 1672,2627 2625,2724 2801,2614 3816,2701 3913,2556 2722,2482 2436,2587 1131,2588 929,2491 445,2580"/>
+                <Baseline points="469,2622 640,2625 811,2627 982,2629 1153,2630 1324,2630 1495,2631 1666,2631 1837,2630 2008,2630 2179,2629 2350,2628 2521,2627 2692,2627 2863,2626 3034,2626 3205,2626 3376,2626 3547,2626 3718,2627 3890,2629"/>
+                <TextEquiv>
+                    <Unicode>mindestens zu sehen. Am Graben. Erfahre, daß Telegramm doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="462,2799 2589,2856 3148,2755 3569,2856 3873,2812 3873,2623 462,2720"/>
+                <Baseline points="482,2765 650,2766 818,2768 987,2768 1155,2769 1323,2769 1492,2769 1660,2769 1828,2769 1997,2768 2165,2768 2333,2767 2502,2767 2670,2767 2838,2766 3007,2766 3175,2766 3343,2767 3512,2767 3680,2768 3849,2770"/>
+                <TextEquiv>
+                    <Unicode>noch am 1. Sept. abgegangen, hoffentlich noch zur Zeit, um eigenes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="440,2954 2752,2977 2979,2883 3451,2975 3885,2919 3884,2791 438,2787"/>
+                <Baseline points="459,2905 629,2907 799,2909 969,2910 1140,2910 1310,2910 1480,2909 1651,2908 1821,2906 1991,2905 2162,2902 2332,2900 2502,2898 2672,2895 2843,2893 3013,2891 3183,2888 3354,2887 3524,2885 3694,2884 3865,2883"/>
+                <TextEquiv>
+                    <Unicode>Geld zu erhalten. Nichts zu lesen, meine Zeit wird doch etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="425,3068 3858,3035 3654,2892 424,2980"/>
+                <Baseline points="445,3037 614,3040 784,3043 953,3044 1123,3044 1293,3044 1462,3043 1632,3042 1801,3040 1971,3037 2141,3035 2310,3032 2480,3029 2649,3027 2819,3024 2989,3022 3158,3020 3328,3018 3497,3017 3667,3017 3837,3018"/>
+                <TextEquiv>
+                    <Unicode>vergeudet, auch d. tägl. Jagdausflüge entspringen keiner Leiden„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;}">
+                <Coords points="431,3295 1155,3178 1613,3277 1876,3185 3797,3245 3887,3037 429,3132"/>
+                <Baseline points="451,3207 621,3198 792,3190 963,3183 1133,3177 1304,3173 1475,3170 1645,3167 1816,3165 1987,3164 2158,3162 2328,3162 2499,3161 2670,3160 2840,3158 3011,3157 3182,3154 3352,3152 3523,3148 3694,3143 3865,3136"/>
+                <TextEquiv>
+                    <Unicode>schaft, sondern d. Wunsche, den Leuten Fleisch zu verschaffen (sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="462,3426 3991,3381 3990,3245 3766,3228 1195,3305 887,3209 462,3312"/>
+                <Baseline points="485,3354 659,3354 833,3353 1007,3353 1182,3352 1356,3352 1530,3351 1705,3351 1879,3350 2053,3350 2228,3349 2402,3348 2576,3348 2750,3347 2925,3346 3099,3345 3273,3344 3448,3343 3622,3342 3796,3341 3971,3340"/>
+                <TextEquiv>
+                    <Unicode>haben hier nichts als Mtama u. zuweilen Reis, beides sehr teuer)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:23;}">
+                <Coords points="474,3578 3989,3517 3861,3391 2845,3366 473,3454"/>
+                <Baseline points="495,3525 668,3519 842,3513 1016,3508 1189,3504 1363,3500 1537,3497 1710,3495 1884,3492 2058,3490 2232,3489 2405,3488 2579,3487 2753,3486 2926,3486 3100,3486 3274,3486 3447,3486 3621,3486 3795,3486 3969,3487"/>
+                <TextEquiv>
+                    <Unicode>sowie mir Bewegung u. Beschäftigung zu machen u. das Gebirt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:24;}">
+                <Coords points="449,3687 607,3735 910,3647 1003,3695 1042,3664 1143,3690 1442,3663 1499,3699 1499,3584 1350,3615 1126,3514 937,3607 770,3612 559,3520 449,3608"/>
+                <Baseline points="472,3655 522,3656 572,3657 622,3657 673,3657 723,3656 773,3655 824,3655 874,3654 924,3653 975,3653 1025,3652 1075,3652 1125,3651 1176,3652 1226,3652 1276,3653 1327,3654 1377,3657 1427,3658 1478,3661"/>
+                <TextEquiv>
+                    <Unicode>kennen zu lernen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:25;}">
+                <Coords points="637,3820 1079,3896 1273,3793 1390,3878 1633,3774 4011,3737 3861,3570 634,3715"/>
+                <Baseline points="656,3793 822,3794 989,3793 1156,3791 1322,3788 1489,3783 1656,3778 1822,3772 1989,3765 2156,3758 2323,3752 2489,3745 2656,3739 2823,3733 2989,3728 3156,3724 3323,3721 3489,3719 3656,3719 3823,3720 3990,3724"/>
+                <TextEquiv>
+                    <Unicode>5. Sept. Nicht zum Graben um endlich wirklich Fleisch zu schießen, ging mit 3 Mann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:26;}">
+                <Coords points="487,3966 3805,3914 4019,3886 4015,3733 484,3878"/>
+                <Baseline points="508,3936 682,3928 856,3922 1031,3915 1205,3909 1379,3903 1554,3898 1728,3893 1902,3888 2077,3884 2251,3879 2425,3875 2600,3871 2774,3867 2948,3863 3123,3859 3297,3856 3471,3852 3646,3848 3820,3844 3995,3840"/>
+                <TextEquiv>
+                    <Unicode>in d. schönen lichten Wald von Ndalakasha, um kleinere Beute gleich mitnehmen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:27;}">
+                <Coords points="503,4179 799,4078 1171,4159 1511,4056 1623,4136 3892,4000 3888,3881 3549,3848 496,3964"/>
+                <Baseline points="524,4089 691,4077 858,4068 1025,4058 1192,4050 1360,4042 1527,4035 1694,4029 1861,4024 2028,4018 2196,4014 2363,4010 2530,4006 2697,4001 2864,3998 3032,3994 3199,3991 3366,3988 3533,3984 3700,3980 3868,3976"/>
+                <TextEquiv>
+                    <Unicode>zu können. Erstaunlicherweise trotz vielen Streifens auch hier zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:28;}">
+                <Coords points="493,4225 3794,4202 3969,4157 3965,4008 491,4159"/>
+                <Baseline points="515,4207 686,4199 858,4192 1029,4187 1201,4181 1373,4177 1544,4172 1716,4168 1887,4164 2059,4160 2231,4156 2402,4153 2574,4149 2745,4144 2917,4139 3089,4135 3260,4128 3432,4121 3603,4114 3775,4106 3947,4096"/>
+                <TextEquiv>
+                    <Unicode>erstenmal garnichts gesehen; auf Perlhühner einmal trotz zu großer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:29;} textStyle {offset:31; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="494,4361 3949,4326 3880,4160 3211,4136 492,4229"/>
+                <Baseline points="514,4325 684,4320 855,4315 1025,4310 1196,4306 1366,4302 1537,4298 1707,4294 1878,4290 2048,4287 2219,4284 2390,4281 2560,4278 2731,4276 2901,4274 3072,4273 3242,4271 3413,4271 3583,4270 3754,4270 3925,4270"/>
+                <TextEquiv>
+                    <Unicode>Entfernung u. natürlich erfolgllos geschossen ein mbango, das man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:30;}">
+                <Coords points="502,4487 3482,4503 3798,4431 3795,4299 1463,4398 1228,4306 501,4443"/>
+                <Baseline points="522,4482 684,4473 847,4465 1009,4458 1172,4452 1335,4447 1497,4443 1660,4439 1823,4436 1985,4433 2148,4431 2311,4429 2473,4427 2636,4425 2799,4424 2961,4421 3124,4419 3287,4416 3449,4412 3612,4409 3775,4404"/>
+                <TextEquiv>
+                    <Unicode>mir zeigte, leider erst gesehen, als es floh. Es wirkt allmählich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:31;}">
+                <Coords points="502,4649 3129,4565 3627,4651 3956,4578 3952,4419 1708,4539 1416,4435 500,4583"/>
+                <Baseline points="524,4631 694,4621 865,4612 1035,4603 1206,4596 1376,4589 1547,4583 1717,4578 1888,4574 2058,4570 2229,4566 2399,4564 2570,4561 2740,4559 2911,4557 3081,4556 3252,4554 3422,4553 3593,4551 3763,4550 3934,4548"/>
+                <TextEquiv>
+                    <Unicode>niederdrückend. Sollten die Tiere des Ramazan wegen fasten?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:32;}">
+                <Coords points="642,4815 782,4806 842,4842 1044,4762 1220,4825 1356,4758 1573,4713 1569,4647 1174,4603 987,4700 895,4644 630,4636"/>
+                <Baseline points="661,4758 705,4759 750,4758 794,4757 839,4756 883,4754 928,4751 972,4748 1017,4744 1061,4740 1106,4736 1151,4733 1195,4729 1240,4725 1284,4721 1329,4719 1373,4715 1418,4713 1462,4711 1507,4710 1552,4710"/>
+                <TextEquiv>
+                    <Unicode>8 Lasten nach Kilwa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>18&#xD;
+2 Sept. Morgens in d. Steppe bei Naluë, dann in weitem Bogen nördlich&#xD;
+v. Kiwala bis zum Graben, 2x auf Riedböcke unter freilich ungünstigen&#xD;
+Umständen u. ohne Erfolg geschossen, sonst erstaunlicherweise nichts zu sehen.&#xD;
+Immerhin ein Trost, daß man nun wirklich endlich durch's Pori&#xD;
+streifen kann, wenn man auch hier u. da gehörig zu kämpfen&#xD;
+hat. Photographiert. Poscho-Zahlung. Ein Trupp Wangoni ent„&#xD;
+lassen. Unmittelbar am Zelte nachm. 4 Perlhühner geschossen.&#xD;
+Sonntag d. 3. Sept. Vorm. etwas aquarelliert. Gedicht vorgenommen, aber&#xD;
+hier wird merkwürdigerweise nicht viel. Immerhin hat Makangaga&#xD;
+jetzt an Aufsätzen in einem Monat so viel geliefert, wie Tendaguru&#xD;
+in 2 Jahren u. auch sonst noch einiges. 13 Lasten nach Kilwa.&#xD;
+Nachm. In d. Steppe östlich vom Linganla abgesucht, wo gestern gutes&#xD;
+Feuer durchgegangen. Absolut nichts zu sehen.&#xD;
+4. Sept. Morgens im Walde gegen Muazi u. links des Nami-&#xD;
+tambo gegen Naiwanga gesucht, nicht das geringste gesehen. Das&#xD;
+Wild muß sich verzogen haben, es gab sonst immer einiges&#xD;
+mindestens zu sehen. Am Graben. Erfahre, daß Telegramm doch&#xD;
+noch am 1. Sept. abgegangen, hoffentlich noch zur Zeit, um eigenes&#xD;
+Geld zu erhalten. Nichts zu lesen, meine Zeit wird doch etwas&#xD;
+vergeudet, auch d. tägl. Jagdausflüge entspringen keiner Leiden„&#xD;
+schaft, sondern d. Wunsche, den Leuten Fleisch zu verschaffen (sie&#xD;
+haben hier nichts als Mtama u. zuweilen Reis, beides sehr teuer)&#xD;
+sowie mir Bewegung u. Beschäftigung zu machen u. das Gebirt&#xD;
+kennen zu lernen.&#xD;
+5. Sept. Nicht zum Graben um endlich wirklich Fleisch zu schießen, ging mit 3 Mann&#xD;
+in d. schönen lichten Wald von Ndalakasha, um kleinere Beute gleich mitnehmen&#xD;
+zu können. Erstaunlicherweise trotz vielen Streifens auch hier zum&#xD;
+erstenmal garnichts gesehen; auf Perlhühner einmal trotz zu großer&#xD;
+Entfernung u. natürlich erfolgllos geschossen ein mbango, das man&#xD;
+mir zeigte, leider erst gesehen, als es floh. Es wirkt allmählich&#xD;
+niederdrückend. Sollten die Tiere des Ramazan wegen fasten?&#xD;
+8 Lasten nach Kilwa</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

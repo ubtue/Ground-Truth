@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:12.348+02:00</Created>
+        <LastChange>2020-04-03T08:40:26.516+02:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581429" pageNr="7" tsid="26930983" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=VCLLXSXPBICORXXZMJCYQDAZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QNDJYMCHTGHJSSQTIROASWDN" imageId="4579340"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_07.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255741560" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1571218619122_448"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1571218619122_447"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1571218619122_448" custom="readingOrder {index:0;}">
+            <Coords points="288,225 4048,225 4048,665 3858,668 3803,769 4048,919 4048,4551 288,4551"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="3806,358 3837,369 3869,346 3906,353 3937,183 3914,179 3893,194 3839,179"/>
+                <Baseline points="3841,294 3890,303"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="297,718 1830,801 2920,705 3046,803 3852,731 3853,577 297,564"/>
+                <Baseline points="318,690 491,692 665,694 839,696 1013,697 1187,699 1361,700 1535,701 1709,701 1883,702 2057,702 2230,702 2404,702 2578,702 2752,702 2926,702 3100,701 3274,701 3448,701 3622,700 3796,699 3827,696"/>
+                <TextEquiv>
+                    <Unicode>Allerlei Spalten, sicherlich auch Höhlen darin. Klippschliefer-Spuren. Die Bank</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="298,882 3658,923 3780,756 299,784"/>
+                <Baseline points="324,833 495,832 667,832 839,832 1010,833 1182,834 1354,835 1525,837 1697,838 1869,840 2041,842 2212,844 2384,845 2556,847 2727,848 2899,848 3071,848 3242,847 3414,845 3586,843 3758,840"/>
+                <TextEquiv>
+                    <Unicode>mußte stark einfallen, denn sie verschwand, obwohl der Weg leicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="285,1016 3972,1011 3864,853 285,936"/>
+                <Baseline points="307,988 489,988 671,988 853,988 1035,988 1217,988 1399,989 1581,989 1763,989 1945,990 2128,990 2310,990 2492,990 2674,989 2856,989 3038,988 3220,987 3402,986 3584,984 3766,982 3949,979"/>
+                <TextEquiv>
+                    <Unicode>abwärts führte, alsbald wieder unter weißen Sanden u. kam nach kurzer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="288,1205 3941,1161 3940,1054 3647,1005 287,1051"/>
+                <Baseline points="313,1128 493,1127 673,1127 853,1126 1033,1125 1214,1123 1394,1122 1574,1120 1754,1118 1934,1117 2115,1115 2295,1113 2475,1112 2655,1110 2835,1109 3016,1108 3196,1108 3376,1107 3556,1107 3736,1108 3917,1108"/>
+                <TextEquiv>
+                    <Unicode>Strecke seitlich im Grunde eines Tales wieder zum Ausstreichen. Die vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="296,1332 4071,1297 4070,1167 3567,1145 296,1206"/>
+                <Baseline points="321,1283 507,1285 693,1287 880,1288 1066,1289 1252,1289 1439,1290 1625,1290 1811,1289 1998,1289 2184,1288 2370,1287 2557,1287 2743,1286 2929,1285 3116,1284 3302,1283 3488,1282 3675,1282 3861,1281 4048,1281"/>
+                <TextEquiv>
+                    <Unicode>uns marschierenden Träger haben natürlich ein Kudu gesehen. Wir mußten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="288,1475 3919,1456 3670,1299 287,1367"/>
+                <Baseline points="311,1439 490,1437 669,1436 848,1434 1027,1432 1207,1430 1386,1428 1565,1425 1744,1423 1923,1421 2103,1418 2282,1416 2461,1415 2640,1413 2819,1412 2999,1411 3178,1410 3357,1410 3536,1410 3715,1411 3895,1412"/>
+                <TextEquiv>
+                    <Unicode>durch ein uns entgegenkommendes Feuer, wobei ich einen Habicht in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571218667897_464" custom="readingOrder {index:7;} textStyle {offset:48; length:4;strikethrough:true; fontSize:0.0; kerning:0;} unclear {offset:48; length:4;}">
+                <Coords points="318,1638 3766,1654 3826,1449 317,1485"/>
+                <Baseline points="343,1601 466,1598 589,1594 712,1591 836,1588 959,1587 1082,1585 1206,1584 1329,1583 1452,1582 1576,1581 1699,1581 1822,1581 1945,1581 2069,1580 2192,1580 2315,1580 2439,1579 2562,1579 2685,1578 2809,1577 2982,1576 3023,1575 3064,1574 3105,1574 3146,1573 3187,1573 3228,1573 3269,1572 3310,1572 3351,1573 3392,1573 3433,1573 3474,1574 3515,1574 3556,1574 3597,1575 3638,1575 3679,1575 3720,1575 3761,1575 3802,1575"/>
+                <TextEquiv>
+                    <Unicode>dem Augenblick schoß, als er auf ein ihm soeben gega entgangenes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571218658752_459" custom="readingOrder {index:8;} textStyle {offset:15; length:3;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="267,1791 3422,1785 3732,1660 265,1670"/>
+                <Baseline points="288,1745 333,1746 378,1748 423,1749 468,1750 513,1751 558,1752 603,1752 648,1752 693,1752 739,1751 784,1750 829,1749 874,1748 919,1746 964,1744 1009,1742 1054,1739 1099,1736 1144,1733 1190,1729 1392,1731 1507,1732 1623,1733 1739,1733 1855,1733 1971,1732 2087,1731 2202,1729 2318,1728 2434,1726 2550,1724 2666,1722 2782,1720 2898,1719 3013,1718 3129,1717 3245,1716 3361,1716 3477,1716 3593,1717 3709,1719"/>
+                <TextEquiv>
+                    <Unicode>Vögelchen zum 2ten Male niederstoßen wollte. In Nindi unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:9;}">
+                <Coords points="314,1997 830,1892 3878,1909 3984,1717 2950,1722 2717,1836 312,1788"/>
+                <Baseline points="338,1895 519,1891 700,1888 881,1886 1063,1883 1244,1881 1425,1880 1606,1879 1788,1878 1969,1877 2150,1876 2331,1876 2513,1876 2694,1875 2875,1875 3056,1874 3238,1874 3419,1873 3600,1872 3781,1871 3963,1870"/>
+                <TextEquiv>
+                    <Unicode>schattigen Mango's Lager bezogen. Auch hier ein angeblich völlig unbesiedelter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:10;}">
+                <Coords points="329,2111 3964,2062 3961,1913 3579,1877 327,1990"/>
+                <Baseline points="352,2040 531,2044 710,2047 889,2048 1069,2047 1248,2045 1427,2042 1607,2038 1786,2034 1965,2029 2145,2024 2324,2019 2503,2015 2682,2011 2862,2008 3041,2005 3220,2004 3400,2005 3579,2007 3758,2011 3938,2017"/>
+                <TextEquiv>
+                    <Unicode>u. z. Z. noch ganz unwegsamer Streifen längs des Ostrandes das scharf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:11;}">
+                <Coords points="330,2237 3187,2267 3997,2195 3995,2046 328,2116"/>
+                <Baseline points="351,2207 532,2205 713,2202 894,2200 1075,2198 1256,2196 1437,2193 1618,2191 1799,2189 1980,2187 2162,2184 2343,2182 2524,2179 2705,2177 2886,2174 3067,2171 3248,2168 3429,2165 3610,2162 3791,2158 3973,2154"/>
+                <TextEquiv>
+                    <Unicode>abgeschnittenen Plateaus, an dessen Fuße ich gern marschiert wäre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:12;}">
+                <Coords points="439,2422 2758,2320 3566,2421 3680,2224 437,2278"/>
+                <Baseline points="463,2351 622,2351 782,2350 942,2349 1102,2348 1262,2345 1421,2342 1581,2339 1741,2336 1901,2333 2061,2329 2220,2326 2380,2323 2540,2320 2700,2318 2860,2317 3019,2316 3179,2316 3339,2316 3499,2318 3659,2321"/>
+                <TextEquiv>
+                    <Unicode>hier wohnt der für Makangaga zuständige Jumbe, der mich noch nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:13;}">
+                <Coords points="341,2514 3016,2573 3729,2410 340,2379"/>
+                <Baseline points="365,2479 532,2478 699,2478 866,2476 1033,2475 1200,2474 1367,2472 1534,2471 1701,2469 1868,2468 2035,2466 2202,2465 2369,2464 2536,2463 2703,2462 2870,2461 3037,2461 3204,2461 3371,2462 3538,2463 3706,2464"/>
+                <TextEquiv>
+                    <Unicode>besucht hat, aber ich glaube, man darf die vorzügliche Erziehung im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:14;}">
+                <Coords points="337,2652 874,2729 1026,2625 1573,2720 2279,2590 2695,2678 2918,2633 2917,2503 335,2536"/>
+                <Baseline points="362,2622 488,2622 615,2621 741,2619 868,2618 995,2615 1121,2613 1248,2610 1375,2607 1501,2604 1628,2602 1755,2599 1881,2597 2008,2595 2135,2594 2261,2593 2388,2593 2515,2594 2641,2596 2768,2599 2895,2603"/>
+                <TextEquiv>
+                    <Unicode>Lindi-Bez. hierher nicht ohne weiteres übertragen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:15;}">
+                <Coords points="464,2794 4020,2816 4019,2667 3748,2598 2631,2706 463,2654"/>
+                <Baseline points="485,2763 660,2762 835,2761 1011,2760 1186,2759 1362,2757 1537,2756 1713,2755 1888,2754 2064,2753 2239,2752 2414,2751 2590,2750 2765,2749 2941,2749 3116,2749 3292,2748 3467,2749 3643,2749 3818,2750 3994,2751"/>
+                <TextEquiv>
+                    <Unicode>Nachm. nach O. auf die „barrabarra“ von Kilwa zum Akiden von Mavudyi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:16;}">
+                <Coords points="351,2943 3589,2955 3911,2911 3910,2748 350,2818"/>
+                <Baseline points="375,2887 550,2889 726,2891 901,2891 1077,2891 1252,2890 1428,2888 1603,2886 1779,2884 1954,2882 2130,2879 2305,2877 2481,2875 2656,2874 2832,2873 3007,2872 3183,2873 3358,2875 3534,2878 3709,2882 3885,2887"/>
+                <TextEquiv>
+                    <Unicode>wieder ein ganz gemeiner Schenzi-Pfad. Meinte, hier müßte ich in d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:17;}">
+                <Coords points="369,3118 3953,3108 3785,2977 2620,2906 370,2936"/>
+                <Baseline points="391,3034 568,3039 745,3042 922,3044 1099,3046 1276,3047 1453,3047 1630,3046 1807,3045 1984,3044 2161,3043 2338,3042 2515,3041 2692,3041 2869,3040 3046,3041 3223,3042 3400,3044 3577,3046 3754,3050 3932,3055"/>
+                <TextEquiv>
+                    <Unicode>Tertiärzone geraten, aber keine Spur davon. Riesige Flußmäander in ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:18;}">
+                <Coords points="377,3309 1285,3201 3914,3241 3912,3097 3511,3055 375,3114"/>
+                <Baseline points="398,3210 572,3210 747,3210 922,3208 1096,3206 1271,3203 1446,3200 1620,3196 1795,3193 1970,3189 2145,3186 2319,3183 2494,3180 2669,3178 2843,3176 3018,3175 3193,3176 3367,3177 3542,3179 3717,3183 3892,3189"/>
+                <TextEquiv>
+                    <Unicode>hältnismäßig recht engem Tal u. bei kurzem Lauf, Terrassenbildungen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:19;}">
+                <Coords points="373,3367 1026,3452 3752,3362 3751,3264 3010,3213 373,3307"/>
+                <Baseline points="396,3350 562,3349 729,3348 895,3347 1062,3346 1229,3345 1395,3344 1562,3343 1728,3343 1895,3342 2062,3341 2228,3340 2395,3339 2561,3339 2728,3338 2895,3337 3061,3335 3228,3334 3394,3333 3561,3331 3728,3330"/>
+                <TextEquiv>
+                    <Unicode>im W. deutlich die 70 m-Kante der Peneplain als höchste. Schoß ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:20;}">
+                <Coords points="351,3598 4008,3498 3810,3347 348,3407"/>
+                <Baseline points="372,3494 552,3498 733,3501 913,3503 1094,3503 1274,3503 1455,3501 1635,3499 1816,3496 1996,3493 2177,3489 2358,3486 2538,3482 2719,3478 2899,3474 3080,3471 3260,3468 3441,3466 3621,3464 3802,3463 3983,3463"/>
+                <TextEquiv>
+                    <Unicode>Schwein schwer an, aber nach kurzer starker Blutung schloß sich die Wunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:21;}">
+                <Coords points="333,3679 3637,3722 3818,3553 332,3581"/>
+                <Baseline points="357,3643 528,3645 700,3648 872,3649 1044,3649 1216,3649 1387,3648 1559,3647 1731,3645 1903,3644 2075,3642 2246,3639 2418,3637 2590,3635 2762,3632 2934,3630 3105,3629 3277,3627 3449,3626 3621,3625 3793,3625"/>
+                <TextEquiv>
+                    <Unicode>u. ich verlor die Beute in wildestem, wenngleich gebranntem Grase.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:22;}">
+                <Coords points="350,3802 2395,3890 3141,3781 3323,3888 3919,3802 3919,3700 349,3695"/>
+                <Baseline points="371,3782 547,3785 723,3789 899,3791 1075,3792 1251,3793 1427,3794 1604,3794 1780,3793 1956,3793 2132,3791 2308,3790 2484,3789 2660,3788 2837,3786 3013,3785 3189,3784 3365,3783 3541,3782 3717,3782 3894,3782"/>
+                <TextEquiv>
+                    <Unicode>Die „barrabarra“ tritt durch verhältnismäßig enge Mündung des Aus„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:23;}">
+                <Coords points="341,3953 682,3955 752,4024 808,3981 915,4036 1027,3979 1176,4015 1287,3944 1572,4011 1795,3944 2024,3974 1995,3835 1604,3885 1370,3799 1026,3863 853,3799 340,3809"/>
+                <Baseline points="365,3943 446,3942 528,3941 610,3940 692,3939 774,3938 856,3937 937,3936 1019,3935 1101,3934 1183,3933 1265,3932 1347,3932 1429,3931 1510,3930 1592,3930 1674,3929 1756,3929 1838,3928 1920,3928 2002,3928"/>
+                <TextEquiv>
+                    <Unicode>räumungskessels zur Küste hinaus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:24;}">
+                <Coords points="484,4160 3931,4057 3927,3898 3673,3811 3342,3969 481,4006"/>
+                <Baseline points="506,4137 684,4117 863,4098 1042,4084 1221,4072 1400,4064 1579,4056 1758,4051 1937,4048 2116,4046 2294,4044 2473,4043 2652,4043 2831,4042 3010,4041 3189,4039 3368,4036 3547,4031 3726,4025 3905,4017"/>
+                <TextEquiv>
+                    <Unicode>2. Aug. Zum Akiden am Austritt des Mavudyi aus dem Plateau. Schickte zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:25;}">
+                <Coords points="346,4270 3879,4295 3877,4122 3332,4076 345,4158"/>
+                <Baseline points="368,4253 542,4248 716,4243 890,4239 1065,4235 1239,4231 1413,4228 1587,4224 1762,4222 1936,4219 2110,4217 2284,4215 2459,4214 2633,4213 2807,4213 2981,4212 3156,4213 3330,4214 3504,4215 3678,4217 3853,4219"/>
+                <TextEquiv>
+                    <Unicode>Sicherheit 2 Mann des Tertiärs wegen über die „Barrabarra‟. Wollte morgens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571218687008_474" custom="readingOrder {index:26;}">
+                <Coords points="355,4405 687,4491 1161,4375 3831,4389 3830,4282 3630,4247 354,4294"/>
+                <Baseline points="376,4393 470,4390 564,4387 658,4384 753,4381 847,4379 941,4377 1035,4374 1130,4372 1224,4370 1318,4368 1412,4366 1507,4364 1601,4362 1695,4360 1789,4359 1884,4357 1978,4355 2072,4354 2166,4353 2261,4351 2290,4361 2365,4361 2441,4361 2517,4361 2593,4361 2669,4361 2744,4361 2820,4360 2896,4360 2972,4360 3048,4359 3123,4359 3199,4358 3275,4358 3351,4357 3427,4357 3502,4356 3578,4356 3654,4355 3730,4354 3806,4354"/>
+                <TextEquiv>
+                    <Unicode>etwas jagen, um den Akiden zu ködern, aber alles unter Gras. Anfangs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:27;}">
+                <Coords points="352,4551 3661,4612 3879,4559 3879,4405 351,4430"/>
+                <Baseline points="377,4520 551,4520 725,4520 899,4520 1073,4520 1247,4519 1421,4519 1595,4518 1769,4517 1943,4516 2117,4515 2291,4514 2465,4512 2639,4511 2813,4510 2987,4508 3161,4507 3335,4506 3509,4505 3683,4504 3857,4502"/>
+                <TextEquiv>
+                    <Unicode>durch Kautschuk-Pflanzung eines Europäers, der aber nicht hier wohnt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5&#xD;
+Allerlei Spalten, sicherlich auch Höhlen darin. Klippschliefer-Spuren. Die Bank&#xD;
+mußte stark einfallen, denn sie verschwand, obwohl der Weg leicht&#xD;
+abwärts führte, alsbald wieder unter weißen Sanden u. kam nach kurzer&#xD;
+Strecke seitlich im Grunde eines Tales wieder zum Ausstreichen. Die vor&#xD;
+uns marschierenden Träger haben natürlich ein Kudu gesehen. Wir mußten&#xD;
+durch ein uns entgegenkommendes Feuer, wobei ich einen Habicht in&#xD;
+dem Augenblick schoß, als er auf ein ihm soeben gega entgangenes&#xD;
+Vögelchen zum 2ten Male niederstoßen wollte. In Nindi unter&#xD;
+schattigen Mango's Lager bezogen. Auch hier ein angeblich völlig unbesiedelter&#xD;
+u. z. Z. noch ganz unwegsamer Streifen längs des Ostrandes das scharf&#xD;
+abgeschnittenen Plateaus, an dessen Fuße ich gern marschiert wäre.&#xD;
+hier wohnt der für Makangaga zuständige Jumbe, der mich noch nicht&#xD;
+besucht hat, aber ich glaube, man darf die vorzügliche Erziehung im&#xD;
+Lindi-Bez. hierher nicht ohne weiteres übertragen.&#xD;
+Nachm. nach O. auf die „barrabarra“ von Kilwa zum Akiden von Mavudyi,&#xD;
+wieder ein ganz gemeiner Schenzi-Pfad. Meinte, hier müßte ich in d.&#xD;
+Tertiärzone geraten, aber keine Spur davon. Riesige Flußmäander in ver„&#xD;
+hältnismäßig recht engem Tal u. bei kurzem Lauf, Terrassenbildungen,&#xD;
+im W. deutlich die 70 m-Kante der Peneplain als höchste. Schoß ein&#xD;
+Schwein schwer an, aber nach kurzer starker Blutung schloß sich die Wunde&#xD;
+u. ich verlor die Beute in wildestem, wenngleich gebranntem Grase.&#xD;
+Die „barrabarra“ tritt durch verhältnismäßig enge Mündung des Aus„&#xD;
+räumungskessels zur Küste hinaus.&#xD;
+2. Aug. Zum Akiden am Austritt des Mavudyi aus dem Plateau. Schickte zur&#xD;
+Sicherheit 2 Mann des Tertiärs wegen über die „Barrabarra‟. Wollte morgens&#xD;
+etwas jagen, um den Akiden zu ködern, aber alles unter Gras. Anfangs&#xD;
+durch Kautschuk-Pflanzung eines Europäers, der aber nicht hier wohnt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1571218619122_447" custom="readingOrder {index:1;}">
+            <Coords points="3803,769 3858,668 4048,665 4048,919"/>
+            <TextLine id="line_1571218639291_453" custom="readingOrder {index:0;}">
+                <Coords points="3769,825 3798,850 3846,848 3886,863 3892,882 3919,890 3927,915 3992,943 4070,789 4026,751 3978,753 3961,713 3930,703 3914,674 3853,659"/>
+                <Baseline points="3824,772 4006,864"/>
+                <TextEquiv>
+                    <Unicode>Flexur!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Flexur!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

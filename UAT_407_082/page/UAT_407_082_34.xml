@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:14.066+02:00</Created>
+        <LastChange>2020-04-02T08:36:23.027+02:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581482" pageNr="34" tsid="26873130" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=XEZXPACPYNSFRCOQGQHCBUBV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YFYNEQIQLTBRKWXDYIISTIMV" imageId="4579371"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_34.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255748893" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="381,279 381,4654 4051,4645 4051,270"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="356,392 410,389 436,407 476,394 502,417 516,408 560,414 563,236 510,235 465,266 404,211 360,210"/>
+                <Baseline points="381,344 407,344 433,343 460,343 486,344 512,345 539,348"/>
+                <TextEquiv>
+                    <Unicode>32</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="393,681 632,573 1001,678 1386,574 3903,598 3943,429 393,517"/>
+                <Baseline points="415,576 590,574 765,572 940,571 1116,568 1291,566 1466,564 1642,563 1817,561 1992,559 2168,558 2343,557 2518,556 2693,555 2869,555 3044,556 3219,556 3395,557 3570,559 3745,562 3921,565"/>
+                <TextEquiv>
+                    <Unicode>gradeswegs nach NO. Dann auf der Ssongea-Str. üb. Ssin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="404,767 3888,769 3914,596 404,656"/>
+                <Baseline points="424,709 597,711 771,712 944,713 1118,714 1291,714 1465,714 1638,713 1812,713 1985,712 2159,712 2332,711 2506,710 2679,710 2853,710 3026,710 3200,710 3373,710 3547,711 3720,713 3894,715"/>
+                <TextEquiv>
+                    <Unicode>gino nach Kilwa. Gestern im Bachbett hatte ich große fossil„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="403,909 3976,870 3661,714 403,767"/>
+                <Baseline points="425,841 601,846 778,850 954,853 1131,855 1307,857 1484,858 1660,859 1837,859 2013,859 2190,858 2366,857 2543,856 2719,855 2896,854 3072,853 3249,852 3425,852 3602,851 3778,851 3955,852"/>
+                <TextEquiv>
+                    <Unicode>leere Platten gesehen, wie in Makangaga u. die Hänge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="403,1051 2907,1114 3466,1017 3643,1110 3940,1035 3940,911 403,927"/>
+                <Baseline points="427,997 601,1000 776,1003 950,1005 1125,1006 1299,1007 1474,1007 1648,1007 1823,1006 1997,1006 2172,1005 2347,1004 2521,1003 2696,1002 2870,1002 3045,1002 3219,1002 3394,1004 3568,1005 3743,1008 3918,1011"/>
+                <TextEquiv>
+                    <Unicode>beim Jumben, waren mit ganz dichtem Geröll übersät.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="422,1223 3875,1185 3875,1043 422,1037"/>
+                <Baseline points="445,1166 615,1162 785,1158 956,1155 1126,1152 1296,1150 1467,1148 1637,1147 1807,1146 1978,1146 2148,1146 2318,1146 2489,1147 2659,1148 2829,1149 3000,1150 3170,1152 3340,1154 3511,1155 3681,1158 3852,1160"/>
+                <TextEquiv>
+                    <Unicode>Heut erst kam mir ein Zweifel, ob der Ton mit d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582814509732_529" custom="readingOrder {index:6;}">
+                <Coords points="1710,1245 1855,1227 1955,1252 2036,1206 2104,1233 2166,1225 2190,1246 2241,1224 2237,1149 2118,1161 2090,1141 1976,1166 1930,1142 1856,1165 1819,1140 1706,1183"/>
+                <Baseline points="1731,1232 1757,1229 1783,1226 1809,1224 1835,1222 1861,1219 1887,1218 1913,1216 1939,1214 1965,1212 1991,1211 2017,1209 2043,1208 2069,1206 2095,1204 2122,1202 2162,1201 2189,1203 2217,1202"/>
+                <TextEquiv>
+                    <Unicode>Oberkreide!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="424,1361 3757,1321 3642,1197 424,1224"/>
+                <Baseline points="444,1291 608,1295 773,1298 937,1301 1102,1303 1267,1304 1431,1305 1596,1306 1760,1306 1925,1306 2090,1306 2254,1305 2419,1305 2583,1304 2748,1303 2913,1303 3077,1302 3242,1302 3406,1302 3571,1302 3736,1302"/>
+                <TextEquiv>
+                    <Unicode>Steinbrocken auch noch d. Kreide angehörte, er wurde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="456,1472 1192,1459 1329,1556 2278,1432 3408,1557 3758,1490 3758,1339 456,1365"/>
+                <Baseline points="477,1446 640,1447 803,1447 966,1448 1129,1448 1292,1447 1455,1447 1618,1447 1781,1446 1944,1446 2107,1446 2270,1445 2433,1445 2596,1445 2759,1445 2922,1446 3085,1446 3248,1447 3411,1448 3574,1450 3738,1452"/>
+                <TextEquiv>
+                    <Unicode>allmählich mehr dem Befund des Kitulo ähnlich u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="439,1627 2877,1697 3901,1653 3945,1511 439,1529"/>
+                <Baseline points="461,1602 634,1601 807,1600 980,1599 1153,1598 1326,1597 1499,1596 1673,1595 1846,1594 2019,1594 2192,1593 2365,1593 2538,1593 2711,1593 2885,1594 3058,1595 3231,1596 3404,1598 3577,1600 3750,1602 3924,1605"/>
+                <TextEquiv>
+                    <Unicode>auf d. Barrabarra fand ich denn auch Nummuliten-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="437,1865 636,1762 1589,1856 1961,1744 2219,1854 2382,1747 2799,1860 3872,1763 3871,1648 436,1625"/>
+                <Baseline points="459,1750 628,1754 797,1757 967,1759 1136,1760 1306,1760 1475,1759 1645,1757 1814,1755 1984,1753 2153,1751 2322,1749 2492,1747 2661,1745 2831,1744 3000,1744 3170,1744 3339,1746 3509,1749 3678,1753 3848,1759"/>
+                <TextEquiv>
+                    <Unicode>Gestein. Nun habe ich d. Grenze doch nicht gefunden, es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="403,1915 3550,1968 3785,1906 3785,1760 403,1822"/>
+                <Baseline points="424,1887 599,1891 775,1893 951,1895 1126,1896 1302,1897 1478,1897 1654,1898 1829,1897 2005,1897 2181,1896 2357,1896 2532,1895 2708,1894 2884,1894 3060,1893 3235,1893 3411,1893 3587,1894 3763,1895"/>
+                <TextEquiv>
+                    <Unicode>sei denn, daß — Makangaga im Tertiär liegt!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="476,2087 2134,2024 2303,2143 3154,2027 3442,2120 3832,2062 3832,1955 476,1981"/>
+                <Baseline points="499,2036 664,2035 829,2034 995,2033 1160,2032 1326,2030 1491,2029 1657,2028 1822,2027 1988,2026 2153,2025 2318,2025 2484,2025 2649,2025 2815,2025 2980,2026 3146,2027 3311,2029 3477,2032 3642,2035 3808,2039"/>
+                <TextEquiv>
+                    <Unicode>Brücken auf d. Straße in miserablem Zustand, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="492,2202 3856,2244 3856,2089 3723,2054 492,2087"/>
+                <Baseline points="516,2169 690,2173 865,2177 1040,2179 1214,2181 1389,2182 1564,2182 1738,2182 1913,2181 2088,2180 2262,2179 2437,2177 2612,2176 2786,2174 2961,2173 3136,2172 3310,2172 3485,2172 3660,2173 3835,2174"/>
+                <TextEquiv>
+                    <Unicode>Träger machten sich mit Recht darüber lustig, daß d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} unclear {offset:11; length:10;}">
+                <Coords points="449,2341 3827,2367 3827,2230 3623,2212 449,2239"/>
+                <Baseline points="473,2326 639,2324 806,2322 972,2320 1139,2319 1306,2317 1472,2316 1639,2315 1805,2314 1972,2313 2139,2313 2305,2313 2472,2313 2638,2314 2805,2315 2972,2317 3138,2319 3305,2322 3471,2326 3638,2330 3805,2335"/>
+                <TextEquiv>
+                    <Unicode>Balken mit Kokoskamba festgebunden waren (ob es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="450,2503 2024,2494 2400,2603 2525,2493 3171,2595 3327,2502 3513,2601 3806,2492 4040,2631 4041,2445 3638,2336 451,2379"/>
+                <Baseline points="474,2467 648,2470 823,2473 998,2475 1173,2476 1348,2476 1522,2476 1697,2476 1872,2476 2047,2475 2222,2474 2396,2474 2571,2474 2746,2475 2921,2476 3096,2478 3270,2480 3445,2484 3620,2489 3795,2495 3970,2503 4019,2536"/>
+                <TextEquiv>
+                    <Unicode>in Kilwa kein Eisen gäbe?), Pfeiler umgestürzt, d. Ganze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="480,2660 3933,2691 3827,2482 3508,2593 2985,2490 2408,2591 1868,2475 480,2523"/>
+                <Baseline points="503,2631 673,2630 843,2629 1014,2628 1184,2628 1355,2628 1525,2628 1696,2628 1866,2629 2037,2629 2207,2630 2377,2630 2548,2631 2718,2632 2889,2632 3059,2632 3230,2632 3400,2632 3571,2632 3741,2631 3912,2629"/>
+                <TextEquiv>
+                    <Unicode>machte mir d. Eindruck, als sähe ich Reste einer alten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="455,2819 3908,2789 3908,2682 3535,2625 3092,2732 455,2641"/>
+                <Baseline points="479,2788 649,2782 819,2779 990,2775 1160,2772 1330,2771 1501,2769 1671,2769 1841,2769 2012,2769 2182,2770 2352,2770 2523,2771 2693,2772 2863,2773 3034,2774 3204,2775 3374,2775 3545,2775 3715,2774 3886,2773"/>
+                <TextEquiv>
+                    <Unicode>Kultur. Böser Anstieg in Sonnenbrand u. tiefem Sand.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="451,2941 846,3028 1413,2915 1732,3025 2211,2899 3567,2911 3842,3003 3957,2843 451,2848"/>
+                <Baseline points="474,2917 647,2918 820,2919 993,2919 1166,2918 1339,2917 1512,2915 1685,2913 1858,2911 2031,2909 2205,2907 2378,2905 2551,2904 2724,2903 2897,2902 3070,2903 3243,2904 3416,2905 3589,2908 3762,2913 3936,2918"/>
+                <TextEquiv>
+                    <Unicode>Aber schöne Blicke auf d. See u. herrliche Vegetation auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="490,3080 3744,3104 3770,2922 490,2956"/>
+                <Baseline points="512,3065 673,3065 835,3065 997,3064 1159,3064 1321,3064 1482,3063 1644,3063 1806,3063 1968,3063 2130,3062 2291,3062 2453,3062 2615,3062 2777,3062 2939,3062 3100,3062 3262,3062 3424,3062 3586,3063 3748,3063"/>
+                <TextEquiv>
+                    <Unicode>d. breiten ebenen Ssingino-Rücken: Palmen u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="476,3306 1092,3191 3433,3309 3938,3220 3938,3113 476,3116"/>
+                <Baseline points="497,3211 667,3207 838,3204 1009,3201 1180,3199 1351,3198 1522,3197 1693,3197 1864,3197 2035,3197 2206,3198 2376,3199 2547,3199 2718,3200 2889,3201 3060,3201 3231,3202 3402,3202 3573,3201 3744,3200 3915,3199"/>
+                <TextEquiv>
+                    <Unicode>Mangos in seltener Üppigkeit. Gegen die Küste hin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="511,3381 3969,3424 3968,3233 3791,3194 3414,3318 3024,3213 1584,3308 1384,3198 1105,3318 866,3194 511,3301"/>
+                <Baseline points="532,3363 702,3362 873,3361 1044,3361 1214,3360 1385,3360 1556,3360 1726,3360 1897,3360 2068,3360 2239,3360 2409,3360 2580,3360 2751,3360 2921,3359 3092,3359 3263,3358 3433,3357 3604,3356 3775,3355 3946,3353"/>
+                <TextEquiv>
+                    <Unicode>noch ein Abstieg in 2 breiten Terrassen ganz niederes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="487,3608 1227,3500 3913,3555 3833,3414 3385,3356 2991,3463 487,3426"/>
+                <Baseline points="508,3519 677,3518 846,3517 1015,3517 1184,3516 1353,3516 1522,3516 1691,3516 1860,3516 2029,3516 2199,3517 2368,3517 2537,3517 2706,3517 2875,3517 3044,3516 3213,3516 3382,3515 3551,3514 3720,3513 3890,3511"/>
+                <TextEquiv>
+                    <Unicode>Gras, große Viehherden u. eine wahre Völkerwande„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="447,3682 3253,3681 3217,3526 2038,3613 1484,3503 1018,3615 447,3563"/>
+                <Baseline points="471,3667 616,3663 761,3660 906,3657 1051,3656 1197,3654 1342,3654 1487,3653 1632,3654 1777,3654 1923,3654 2068,3655 2213,3655 2358,3656 2503,3656 2649,3656 2794,3656 2939,3655 3084,3653 3230,3651"/>
+                <TextEquiv>
+                    <Unicode>rung auf all d. Wegen aus d. Stadt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="727,3847 2539,3867 3639,3813 3670,3737 726,3683"/>
+                <Baseline points="747,3794 892,3796 1037,3797 1182,3799 1327,3800 1472,3801 1617,3802 1762,3803 1907,3804 2052,3804 2197,3804 2342,3804 2487,3804 2632,3803 2777,3802 2922,3801 3067,3799 3212,3797 3357,3795 3502,3792 3648,3788"/>
+                <TextEquiv>
+                    <Unicode>Unterkunft im Hause d. D. O. A. S. bei Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="467,3965 693,3954 768,4000 910,3962 1140,3987 1143,3805 1000,3834 907,3886 876,3855 823,3863 726,3786 522,3810 469,3787"/>
+                <Baseline points="488,3929 519,3932 551,3935 582,3937 614,3938 646,3940 677,3940 709,3941 740,3941 772,3941 804,3941 835,3941 867,3941 898,3940 930,3940 962,3940 993,3941 1025,3941 1056,3942 1088,3943 1120,3945"/>
+                <TextEquiv>
+                    <Unicode>Schirmer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="671,4089 1142,4169 1393,4063 2271,4061 2529,4154 3982,4039 3979,3897 3464,3867 2376,4001 669,3982"/>
+                <Baseline points="693,4071 856,4071 1019,4070 1183,4069 1346,4067 1510,4066 1673,4064 1836,4061 2000,4059 2163,4056 2327,4053 2490,4050 2653,4046 2817,4043 2980,4039 3144,4036 3307,4032 3470,4028 3634,4024 3797,4020 3961,4016"/>
+                <TextEquiv>
+                    <Unicode>20. Sept. Kisten gesucht, Zoll, Arbeiter abgelöhnt außer Praeparatoren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="477,4223 724,4194 841,4299 1013,4199 1160,4268 1584,4174 2033,4231 2453,4177 2452,4106 2199,4056 2005,4138 1725,4053 1562,4130 1419,4061 1149,4149 1038,4066 684,4141 475,4068"/>
+                <Baseline points="497,4188 593,4190 690,4192 787,4193 884,4193 981,4193 1077,4193 1174,4192 1271,4191 1368,4189 1465,4187 1561,4185 1658,4184 1755,4181 1852,4179 1949,4178 2045,4176 2142,4175 2239,4174 2336,4173 2433,4173"/>
+                <TextEquiv>
+                    <Unicode>die noch beim Packen helfen sollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="632,4339 1041,4417 1549,4302 3934,4304 3932,4167 3422,4139 630,4197"/>
+                <Baseline points="656,4328 818,4327 981,4325 1144,4322 1306,4319 1469,4315 1632,4311 1794,4308 1957,4304 2120,4299 2283,4296 2445,4293 2608,4290 2771,4287 2933,4285 3096,4284 3259,4283 3421,4283 3584,4284 3747,4286 3910,4290"/>
+                <TextEquiv>
+                    <Unicode>21. Nachm. Im Badebassin geschwommen, eine 2½ Jahre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582814572768_534" custom="readingOrder {index:29;}">
+                <Coords points="472,4509 3853,4425 3662,4275 899,4422 639,4332 469,4430"/>
+                <Baseline points="495,4488 575,4483 655,4478 736,4473 816,4468 897,4464 977,4459 1057,4454 1138,4450 1218,4446 1299,4443 1379,4439 1459,4436 1540,4434 1620,4432 1701,4430 1781,4430 1861,4429 1942,4430 2022,4431 2103,4433 2384,4421 2456,4416 2528,4412 2600,4408 2673,4404 2745,4402 2817,4399 2890,4397 2962,4396 3034,4394 3107,4393 3179,4392 3251,4392 3323,4391 3396,4390 3468,4390 3540,4390 3613,4389 3685,4389 3757,4388 3830,4387"/>
+                <TextEquiv>
+                    <Unicode>hindurch entbehrte Wohltat. Koffer umgepackt. Kegelabend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:30;}">
+                <Coords points="517,4623 1409,4682 2710,4555 3448,4666 3814,4579 3811,4424 1334,4439 516,4583"/>
+                <Baseline points="538,4622 700,4607 863,4594 1026,4582 1188,4573 1351,4565 1514,4559 1676,4554 1839,4551 2002,4548 2165,4547 2327,4546 2490,4546 2653,4545 2815,4545 2978,4545 3141,4545 3303,4544 3466,4543 3629,4541 3792,4538"/>
+                <TextEquiv>
+                    <Unicode>22. Kisten zu packen begonnen. Lerne einen Pater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>32&#xD;
+gradeswegs nach NO. Dann auf der Ssongea-Str. üb. Ssin-&#xD;
+gino nach Kilwa. Gestern im Bachbett hatte ich große fossil„&#xD;
+leere Platten gesehen, wie in Makangaga u. die Hänge&#xD;
+beim Jumben, waren mit ganz dichtem Geröll übersät.&#xD;
+Heut erst kam mir ein Zweifel, ob der Ton mit d.&#xD;
+Oberkreide!&#xD;
+Steinbrocken auch noch d. Kreide angehörte, er wurde&#xD;
+allmählich mehr dem Befund des Kitulo ähnlich u.&#xD;
+auf d. Barrabarra fand ich denn auch Nummuliten-&#xD;
+Gestein. Nun habe ich d. Grenze doch nicht gefunden, es&#xD;
+sei denn, daß — Makangaga im Tertiär liegt!&#xD;
+Brücken auf d. Straße in miserablem Zustand, die&#xD;
+Träger machten sich mit Recht darüber lustig, daß d.&#xD;
+Balken mit Kokoskamba festgebunden waren (ob es&#xD;
+in Kilwa kein Eisen gäbe?), Pfeiler umgestürzt, d. Ganze&#xD;
+machte mir d. Eindruck, als sähe ich Reste einer alten&#xD;
+Kultur. Böser Anstieg in Sonnenbrand u. tiefem Sand.&#xD;
+Aber schöne Blicke auf d. See u. herrliche Vegetation auf&#xD;
+d. breiten ebenen Ssingino-Rücken: Palmen u.&#xD;
+Mangos in seltener Üppigkeit. Gegen die Küste hin&#xD;
+noch ein Abstieg in 2 breiten Terrassen ganz niederes&#xD;
+Gras, große Viehherden u. eine wahre Völkerwande„&#xD;
+rung auf all d. Wegen aus d. Stadt.&#xD;
+Unterkunft im Hause d. D. O. A. S. bei Herrn&#xD;
+Schirmer.&#xD;
+20. Sept. Kisten gesucht, Zoll, Arbeiter abgelöhnt außer Praeparatoren,&#xD;
+die noch beim Packen helfen sollen.&#xD;
+21. Nachm. Im Badebassin geschwommen, eine 2½ Jahre&#xD;
+hindurch entbehrte Wohltat. Koffer umgepackt. Kegelabend.&#xD;
+22. Kisten zu packen begonnen. Lerne einen Pater</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

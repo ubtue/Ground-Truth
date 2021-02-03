@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:38.064+02:00</Created>
+        <LastChange>2019-09-02T15:07:52.009+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7550966" pageNr="85" tsid="14759406" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=RRCRGOOQCPZXMVUSPFYUTSZO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NTQDHXJBZBJGWRDAIUDHDRXL" imageId="4551844"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_085.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256493617" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="557,264 557,1134 4003,1134 4003,264"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3841,387 3866,389 3892,390 3917,391 3943,393 3943,270 3917,268 3892,267 3866,266 3841,264"/>
+                <Baseline points="3841,346 3866,348 3892,349 3917,350 3943,352"/>
+                <TextEquiv>
+                    <Unicode>83</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="592,502 762,512 933,520 1103,526 1274,530 1444,532 1615,533 1785,533 1956,532 2126,531 2297,529 2468,527 2638,526 2809,526 2979,526 3150,528 3320,531 3491,535 3661,542 3832,551 4003,563 4003,440 3832,428 3661,419 3491,412 3320,408 3150,405 2979,403 2809,403 2638,403 2468,404 2297,406 2126,408 1956,409 1785,410 1615,410 1444,409 1274,407 1103,403 933,397 762,389 592,379"/>
+                <Baseline points="592,461 762,471 933,479 1103,485 1274,489 1444,491 1615,492 1785,492 1956,491 2126,490 2297,488 2468,486 2638,485 2809,485 2979,485 3150,487 3320,490 3491,494 3661,501 3832,510 4003,522"/>
+                <TextEquiv>
+                    <Unicode>Tendaguru zurück (11 Uhr). Regen. Lohnzahlung. Viele Schauris,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="557,712 718,709 879,707 1041,705 1202,703 1364,702 1525,701 1687,700 1848,699 2010,699 2171,700 2332,701 2494,702 2655,704 2817,705 2978,708 3140,711 3301,714 3463,719 3624,723 3786,728 3786,599 3624,594 3463,590 3301,585 3140,582 2978,579 2817,576 2655,575 2494,573 2332,572 2171,571 2010,570 1848,570 1687,571 1525,572 1364,573 1202,574 1041,576 879,578 718,580 557,583"/>
+                <Baseline points="557,669 718,666 879,664 1041,662 1202,660 1364,659 1525,658 1687,657 1848,656 2010,656 2171,657 2332,658 2494,659 2655,661 2817,662 2978,665 3140,668 3301,671 3463,676 3624,680 3786,685"/>
+                <TextEquiv>
+                    <Unicode>das Ganze nannte sich Sylvester. Der Punsch bestand aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="581,912 742,909 904,907 1066,904 1228,903 1390,902 1552,901 1713,900 1875,900 2037,901 2199,902 2361,903 2523,905 2685,906 2846,909 3008,911 3170,914 3332,917 3494,920 3656,924 3818,927 3818,798 3656,795 3494,791 3332,788 3170,785 3008,782 2846,780 2685,777 2523,776 2361,774 2199,773 2037,772 1875,771 1713,771 1552,772 1390,773 1228,774 1066,775 904,778 742,780 581,783"/>
+                <Baseline points="581,869 742,866 904,864 1066,861 1228,860 1390,859 1552,858 1713,857 1875,857 2037,858 2199,859 2361,860 2523,862 2685,863 2846,866 3008,868 3170,871 3332,874 3494,877 3656,881 3818,884"/>
+                <TextEquiv>
+                    <Unicode>½ Fl. Caseler für 2 Mann. Bescheidener kann man ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="651,1134 798,1124 946,1116 1094,1109 1242,1104 1389,1099 1537,1095 1685,1092 1833,1090 1980,1089 2128,1089 2276,1089 2424,1089 2571,1090 2719,1091 2867,1092 3015,1094 3162,1095 3310,1096 3458,1097 3606,1097 3606,968 3458,968 3310,967 3162,966 3015,965 2867,963 2719,962 2571,961 2424,960 2276,960 2128,960 1980,960 1833,961 1685,963 1537,966 1389,970 1242,975 1094,980 946,987 798,995 651,1005"/>
+                <Baseline points="651,1091 798,1081 946,1073 1094,1066 1242,1061 1389,1056 1537,1052 1685,1049 1833,1047 1980,1046 2128,1046 2276,1046 2424,1046 2571,1047 2719,1048 2867,1049 3015,1051 3162,1052 3310,1053 3458,1054 3606,1054"/>
+                <TextEquiv>
+                    <Unicode>Jahr nicht schließen. Um 8 wie immer zu Bett.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>83
+Tendaguru zurück (11 Uhr). Regen. Lohnzahlung. Viele Schauris,
+das Ganze nannte sich Sylvester. Der Punsch bestand aus
+½ Fl. Caseler für 2 Mann. Bescheidener kann man ein
+Jahr nicht schließen. Um 8 wie immer zu Bett.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

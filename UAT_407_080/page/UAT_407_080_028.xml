@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:54.319+02:00</Created>
+        <LastChange>2020-03-31T10:04:44.965+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550726" pageNr="28" tsid="26743991" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=VAANWTZGVTEIPMOLUJSGPLVD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CNKVSSSTLZAKGZAXBAIXDUOI" imageId="4551604"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_028.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255540322" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="331,252 331,4994 3997,4994 3997,252"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="307,360 343,364 352,354 365,359 383,350 401,363 414,354 446,384 481,384 479,237 448,238 430,220 421,225 403,212 328,270 306,271"/>
+                <Baseline points="331,320 356,320 382,320 407,321 433,320 459,316"/>
+                <TextEquiv>
+                    <Unicode>24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="520,497 3215,391 3580,525 3966,450 3965,295 2788,355 2289,218 1482,350 1313,249 518,319"/>
+                <Baseline points="542,439 712,436 882,432 1052,428 1222,424 1392,420 1562,416 1732,412 1902,408 2072,405 2243,402 2413,400 2583,398 2753,397 2923,397 3093,398 3263,400 3433,403 3603,406 3773,412 3944,419"/>
+                <TextEquiv>
+                    <Unicode>18. Mai: Auch im neuen Graben beginnen jetzt interessante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="391,603 1394,565 1552,687 1696,565 2151,665 3046,527 3337,647 3798,587 3765,449 2925,418 389,474"/>
+                <Baseline points="412,582 580,580 748,577 916,574 1084,570 1253,565 1421,561 1589,556 1757,551 1925,546 2094,542 2262,539 2430,536 2598,533 2766,532 2935,531 3103,532 3271,534 3439,538 3607,543 3776,550"/>
+                <TextEquiv>
+                    <Unicode>Funde. Immer mehr zeigen sich allerhand. Knochen, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="393,770 1016,833 1116,729 1646,807 2013,711 2921,791 3293,744 3290,580 390,645"/>
+                <Baseline points="416,745 558,738 701,731 843,726 986,721 1129,717 1271,714 1414,711 1557,709 1699,706 1842,704 1985,703 2127,701 2270,699 2413,697 2555,695 2698,692 2841,689 2983,686 3126,682 3269,677"/>
+                <TextEquiv>
+                    <Unicode>bei Riesensauriern schwer unterzubringen sind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="748,950 2861,847 3843,921 3958,747 747,799"/>
+                <Baseline points="771,872 929,873 1087,873 1245,873 1404,872 1562,870 1720,868 1878,867 2037,864 2195,862 2353,860 2511,858 2670,856 2828,855 2986,854 3144,854 3303,854 3461,855 3619,858 3777,861 3936,865"/>
+                <TextEquiv>
+                    <Unicode>Besuch d. Jumben v. Ntondo u. zahlreichen Lebensmitteln,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="348,1041 1244,985 1397,1079 1689,1006 1859,1091 2003,976 2467,1046 2638,962 2884,1041 3048,1002 3045,860 892,962 344,872"/>
+                <Baseline points="371,1020 503,1017 636,1013 769,1009 901,1005 1034,1001 1167,998 1299,994 1432,991 1565,988 1698,985 1830,982 1963,979 2096,976 2228,973 2361,971 2494,969 2626,967 2759,965 2892,963 3025,961"/>
+                <TextEquiv>
+                    <Unicode>sodaß meine Safari doch auch Früchte trägt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884100458_1187" custom="readingOrder {index:6;}">
+                <Coords points="572,1205 1670,1242 1957,1105 2291,1207 2618,1109 3587,1158 3585,1011 570,1027"/>
+                <Baseline points="593,1135 661,1135 730,1135 798,1134 867,1134 935,1133 1004,1133 1072,1132 1141,1132 1209,1131 1278,1131 1347,1131 1415,1131 1484,1130 1552,1130 1621,1130 1689,1130 1758,1131 1826,1131 1895,1132 1964,1132 1982,1120 2061,1114 2140,1110 2219,1107 2298,1104 2377,1101 2456,1100 2535,1099 2614,1098 2693,1098 2773,1099 2852,1099 2931,1100 3010,1101 3089,1103 3168,1104 3247,1106 3326,1108 3405,1110 3484,1112 3564,1114"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Schießversuche. Abd. Schach m. Dr. Janensch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="448,1415 3888,1289 3885,1169 3093,1100 2185,1221 1894,1126 1732,1241 443,1188"/>
+                <Baseline points="467,1320 637,1318 807,1315 977,1311 1147,1307 1317,1302 1487,1297 1657,1291 1827,1285 1997,1279 2167,1273 2337,1267 2507,1263 2677,1258 2847,1254 3017,1251 3187,1249 3357,1248 3527,1249 3697,1251 3867,1254"/>
+                <TextEquiv>
+                    <Unicode>Jonas Lie's „Ehe“ beendet; ein psychologisch äußerst durchdrin„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="507,1543 3815,1447 3811,1305 3327,1290 503,1374"/>
+                <Baseline points="528,1478 691,1471 854,1463 1017,1458 1180,1451 1343,1446 1506,1439 1669,1434 1832,1429 1995,1425 2159,1421 2322,1418 2485,1414 2648,1412 2811,1409 2974,1407 3137,1405 3300,1403 3463,1402 3626,1402 3790,1401"/>
+                <TextEquiv>
+                    <Unicode>gendes, erst im letzten Teil zu stark Typen schaffendes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="465,1696 1489,1591 1731,1697 1942,1586 2207,1701 2524,1588 3911,1640 3908,1458 463,1563"/>
+                <Baseline points="486,1634 656,1625 826,1617 996,1609 1166,1602 1336,1596 1506,1591 1676,1586 1846,1582 2016,1579 2186,1576 2356,1573 2526,1571 2696,1569 2866,1567 3036,1565 3206,1564 3376,1562 3546,1561 3716,1559 3886,1558"/>
+                <TextEquiv>
+                    <Unicode>Buch, aus dem ein feines Gemüt u. ein offener Blick</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="408,1897 635,1800 699,1851 986,1788 1094,1838 1235,1779 1540,1876 1882,1855 1874,1637 1743,1709 1544,1591 1352,1700 1035,1657 655,1737 399,1662"/>
+                <Baseline points="425,1813 496,1807 568,1802 639,1797 711,1792 783,1789 854,1786 926,1782 997,1780 1069,1777 1141,1775 1212,1774 1284,1772 1355,1770 1427,1769 1499,1767 1570,1765 1642,1763 1713,1762 1785,1760 1857,1757"/>
+                <TextEquiv>
+                    <Unicode>(auch in's Weite) spricht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="597,2047 1353,2086 2278,1925 2631,2036 3388,1924 3963,2004 3978,1870 2452,1774 594,1931"/>
+                <Baseline points="620,2001 795,1995 971,1988 1147,1982 1322,1975 1498,1968 1674,1961 1850,1955 2025,1949 2201,1942 2377,1937 2553,1932 2728,1928 2904,1925 3080,1923 3256,1922 3431,1922 3607,1924 3783,1927 3959,1932"/>
+                <TextEquiv>
+                    <Unicode>19. Mai: Im hinteren Teile des ersten Grabens, zu dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="396,2224 3903,2119 3899,1973 3774,1962 1241,2096 391,2025"/>
+                <Baseline points="417,2164 590,2160 763,2155 936,2149 1109,2144 1282,2138 1455,2132 1628,2125 1801,2119 1974,2113 2148,2107 2321,2101 2494,2097 2667,2092 2840,2088 3013,2086 3186,2084 3359,2083 3532,2083 3705,2085 3879,2089"/>
+                <TextEquiv>
+                    <Unicode>Dr. J. weitere Quergräben ziehen läßt, glaube ich zu be„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;} textStyle {offset:36; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="420,2331 3906,2272 3644,2105 417,2237"/>
+                <Baseline points="442,2322 623,2316 804,2310 985,2304 1166,2297 1347,2292 1528,2287 1709,2281 1890,2276 2071,2271 2252,2265 2433,2261 2614,2256 2795,2253 2976,2249 3157,2246 3338,2243 3519,2240 3700,2238 3881,2236"/>
+                <TextEquiv>
+                    <Unicode>merken, daß unsere bisherigen Funde sich so gut wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="443,2513 3223,2500 4013,2443 4010,2323 3661,2233 3224,2363 438,2327"/>
+                <Baseline points="464,2483 640,2477 816,2470 993,2465 1169,2459 1345,2453 1522,2448 1698,2441 1874,2437 2051,2432 2227,2427 2403,2424 2580,2420 2756,2417 2932,2414 3109,2411 3285,2410 3461,2409 3638,2408 3814,2408 3991,2409"/>
+                <TextEquiv>
+                    <Unicode>ausschließlich auf zwei auch in d. Fazies (weiße Kalkbröckel„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="468,2670 1049,2631 1265,2731 1435,2602 1899,2682 2163,2585 2544,2690 2896,2564 3753,2548 3722,2407 3512,2506 2514,2429 465,2541"/>
+                <Baseline points="490,2660 652,2646 814,2633 976,2622 1138,2612 1300,2602 1462,2595 1625,2588 1787,2582 1949,2577 2111,2572 2273,2569 2435,2566 2597,2563 2760,2561 2922,2560 3084,2559 3246,2558 3408,2557 3570,2557 3733,2557"/>
+                <TextEquiv>
+                    <Unicode>chen) unterschiedene Schichten beschränkt sind. Für d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="477,2899 860,2792 1142,2872 1361,2766 2052,2836 2422,2721 2661,2829 2934,2762 2930,2646 1391,2614 1275,2725 1050,2630 733,2735 469,2673"/>
+                <Baseline points="494,2804 614,2798 735,2791 856,2785 977,2779 1097,2773 1218,2767 1339,2761 1460,2757 1580,2752 1701,2748 1822,2743 1943,2739 2063,2736 2184,2733 2305,2731 2426,2728 2546,2727 2667,2725 2788,2725 2909,2724"/>
+                <TextEquiv>
+                    <Unicode>fernere Suchen an dieser Stelle wichtig!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884111377_1192" custom="readingOrder {index:17;}">
+                <Coords points="724,3032 969,2914 1110,3013 1316,2914 2184,2992 2434,2874 3880,2932 3960,2770 718,2815"/>
+                <Baseline points="744,2928 793,2927 842,2926 891,2925 940,2924 989,2922 1038,2921 1087,2919 1136,2916 1185,2915 1235,2913 1284,2911 1333,2910 1382,2908 1431,2906 1480,2906 1529,2905 1578,2905 1627,2905 1676,2905 1726,2906 1753,2891 1862,2888 1971,2885 2080,2881 2190,2878 2299,2874 2408,2870 2518,2866 2627,2863 2736,2859 2846,2856 2955,2853 3064,2851 3173,2849 3283,2848 3392,2848 3501,2849 3611,2850 3720,2853 3829,2857 3939,2862"/>
+                <TextEquiv>
+                    <Unicode>Zum ersten Mal eine offizielle Kiboko-Strafe, natürlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:18;} textStyle {offset:18; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="423,3117 2329,3124 2508,3022 2728,3119 3086,3012 3772,3107 4020,3061 4017,2932 419,2980"/>
+                <Baseline points="445,3066 622,3066 800,3065 977,3063 1155,3059 1333,3054 1510,3049 1688,3044 1865,3038 2043,3031 2221,3025 2398,3019 2576,3014 2753,3009 2931,3004 3109,3001 3286,2998 3464,2997 3641,2997 3819,2999 3997,3003"/>
+                <TextEquiv>
+                    <Unicode>Weibergeschichte. De Der betr. Mngoni scheint nichts zu fühlen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:19;}">
+                <Coords points="437,3283 2286,3185 2756,3273 3215,3169 3471,3255 3903,3174 3900,3050 433,3168"/>
+                <Baseline points="459,3240 630,3236 801,3232 972,3227 1143,3221 1314,3214 1485,3208 1656,3201 1827,3194 1998,3187 2169,3180 2340,3174 2511,3168 2682,3162 2853,3158 3024,3153 3195,3150 3366,3148 3537,3147 3708,3147 3879,3149"/>
+                <TextEquiv>
+                    <Unicode>die alten Krieger verleugnen sich noch nicht. Zwischen d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:20;}">
+                <Coords points="402,3470 1372,3381 1673,3463 1918,3365 2197,3453 2865,3375 2861,3260 2285,3187 1646,3331 396,3301"/>
+                <Baseline points="421,3401 542,3402 663,3402 784,3401 905,3398 1026,3396 1147,3392 1268,3388 1389,3383 1510,3377 1632,3372 1753,3367 1874,3361 1995,3356 2116,3350 2237,3345 2358,3340 2479,3336 2600,3332 2721,3329 2843,3327"/>
+                <TextEquiv>
+                    <Unicode>Stämmen bestehen gewisse Reibungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:21;}">
+                <Coords points="649,3577 3749,3511 3014,3346 2198,3453 1922,3367 1674,3463 647,3422"/>
+                <Baseline points="669,3522 821,3522 974,3522 1127,3521 1280,3519 1433,3516 1586,3514 1738,3511 1891,3507 2044,3504 2197,3501 2350,3498 2503,3496 2656,3494 2808,3492 2961,3492 3114,3492 3267,3493 3420,3495 3573,3499 3726,3503"/>
+                <TextEquiv>
+                    <Unicode>Vorm. M. Hrn. Besser u. Dr. J. auf d. Tendaguru, um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:22;}">
+                <Coords points="411,3724 3128,3628 3978,3720 3974,3520 3179,3494 409,3618"/>
+                <Baseline points="431,3674 607,3675 783,3675 959,3673 1136,3671 1312,3668 1488,3664 1664,3659 1841,3655 2017,3650 2193,3645 2369,3641 2546,3637 2722,3633 2898,3630 3074,3628 3251,3626 3427,3626 3603,3627 3779,3630 3956,3634"/>
+                <TextEquiv>
+                    <Unicode>ein über d. Mbenkuru-Lauf lagerndes Nebelmeer zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884133195_1197" custom="readingOrder {index:23;} textStyle {offset:21; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="442,3932 869,3938 1214,3810 1396,3899 1852,3757 2355,3773 2322,3650 1384,3749 1159,3693 990,3768 432,3719"/>
+                <Baseline points="458,3839 519,3838 580,3837 641,3835 702,3833 764,3830 825,3827 886,3824 947,3820 1008,3816 1070,3813 1131,3809 1192,3806 1253,3803 1314,3800 1376,3798 1437,3797 1498,3796 1559,3796 1620,3797 1682,3800 1716,3778 1747,3773 1778,3770 1809,3769 1840,3770 1961,3773 1987,3773 2014,3771 2040,3769 2067,3766 2094,3764 2120,3761 2147,3759 2174,3757 2200,3755 2227,3755 2254,3756 2280,3758 2307,3760 2334,3765"/>
+                <TextEquiv>
+                    <Unicode>betrachten. Morgens 6h 18° C.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884159398_1222" custom="readingOrder {index:24;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="1610,3938 1659,3955 1738,3883 1805,3874 1899,3917 1991,3880 2041,3902 2107,3879 2214,3909 2307,3899 2306,3801 2244,3815 2150,3772 2013,3800 1848,3758 1742,3821 1609,3832"/>
+                <Baseline points="1633,3875 1658,3872 1684,3869 1709,3866 1735,3863 1760,3862 1786,3861 1811,3861 1837,3864 1863,3868 1985,3877 2012,3878 2039,3878 2066,3876 2093,3873 2120,3869 2147,3865 2174,3861 2201,3857 2228,3854 2255,3853 2283,3852"/>
+                <TextEquiv>
+                    <Unicode>9h 26° „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884201645_1238" custom="readingOrder {index:25;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="1634,4062 1861,3960 2046,4029 2095,4023 2129,3986 2298,3979 2295,3917 2109,3924 2068,3899 1953,3926 1894,3884 1809,3874 1736,3943 1691,3931 1630,3956"/>
+                <Baseline points="1654,4029 1694,4033 1743,3981 1768,3982 1793,3978 1819,3979 2011,4005 2039,4003 2067,4000 2095,3998 2123,3996 2151,3997 2215,3973 2246,3972 2277,3969"/>
+                <TextEquiv>
+                    <Unicode>3h 31° „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:26;}">
+                <Coords points="477,4252 1933,4192 2495,4297 3087,4165 3698,4260 3892,4193 3887,3998 3041,4118 2220,3971 1985,4141 1503,4070 1124,4169 969,4048 471,4039"/>
+                <Baseline points="500,4247 668,4235 836,4225 1005,4216 1173,4209 1342,4202 1510,4196 1678,4191 1847,4187 2015,4184 2184,4180 2352,4178 2520,4175 2689,4172 2857,4169 3026,4166 3194,4162 3362,4157 3531,4152 3699,4146 3868,4139"/>
+                <TextEquiv>
+                    <Unicode>20 Mai. Im Anschluß an einen Schnupfen beginnt mein Ohr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:27;}">
+                <Coords points="380,4369 872,4356 1036,4453 1267,4325 1584,4381 1667,4325 1859,4350 1951,4324 1949,4249 1703,4208 1598,4270 1221,4296 1023,4222 911,4315 704,4251 635,4307 500,4262 377,4302"/>
+                <Baseline points="401,4355 477,4357 553,4358 629,4359 706,4358 782,4356 858,4354 935,4352 1011,4348 1087,4345 1164,4341 1240,4338 1316,4334 1392,4330 1469,4327 1545,4324 1621,4322 1698,4319 1774,4318 1850,4317 1927,4317"/>
+                <TextEquiv>
+                    <Unicode>wieder sich zu melden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884215269_1244" custom="readingOrder {index:28;}">
+                <Coords points="614,4529 1450,4561 2007,4444 2196,4551 2753,4425 3546,4516 3966,4447 3963,4319 3555,4365 3374,4236 3040,4378 610,4374"/>
+                <Baseline points="635,4491 699,4490 763,4489 827,4487 891,4486 955,4483 1019,4480 1084,4477 1148,4473 1212,4470 1276,4467 1340,4464 1404,4461 1468,4458 1533,4455 1597,4452 1661,4450 1725,4448 1789,4447 1853,4446 1918,4445 1951,4431 2050,4431 2150,4431 2250,4431 2349,4430 2449,4429 2549,4428 2648,4426 2748,4424 2848,4422 2948,4420 3047,4418 3147,4416 3247,4414 3346,4413 3446,4412 3546,4411 3645,4410 3745,4410 3845,4411 3945,4412"/>
+                <TextEquiv>
+                    <Unicode>Einen dritten Graben, ausgehend vom ersten begonnen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582884220994_1249" custom="readingOrder {index:29;}">
+                <Coords points="467,4711 2415,4634 2706,4730 3716,4630 3714,4528 1326,4620 773,4535 465,4627"/>
+                <Baseline points="490,4703 516,4702 542,4701 569,4700 595,4699 621,4698 648,4696 674,4695 700,4693 727,4692 753,4691 779,4690 806,4688 832,4687 858,4686 885,4686 911,4686 937,4686 964,4686 989,4674 1124,4669 1259,4666 1394,4662 1529,4659 1665,4656 1800,4652 1935,4649 2070,4646 2205,4644 2341,4641 2476,4639 2611,4636 2746,4634 2881,4632 3016,4630 3152,4628 3287,4627 3422,4625 3557,4623 3693,4622"/>
+                <TextEquiv>
+                    <Unicode>21. Mai. An einem interessanten Knochen im Graben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:30;}">
+                <Coords points="378,4941 1911,4770 3822,4800 3818,4640 3294,4620 374,4754"/>
+                <Baseline points="399,4836 569,4827 739,4820 909,4812 1079,4806 1249,4800 1419,4794 1589,4789 1759,4784 1929,4780 2099,4776 2269,4773 2439,4770 2609,4767 2779,4765 2949,4764 3119,4762 3289,4761 3459,4761 3629,4761 3800,4761"/>
+                <TextEquiv>
+                    <Unicode>präpariert. Leider teilen d. Funde d. Brüchigkeit des Gesteins,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:31;}">
+                <Coords points="389,5004 2845,4988 3444,4939 3441,4766 3194,4867 2411,4777 388,4924"/>
+                <Baseline points="411,4963 561,4955 712,4947 862,4940 1013,4934 1163,4928 1314,4923 1464,4919 1615,4916 1765,4913 1916,4910 2066,4908 2217,4907 2367,4906 2518,4906 2668,4906 2819,4907 2969,4908 3120,4909 3270,4911 3421,4913"/>
+                <TextEquiv>
+                    <Unicode>so daß ständig getränkt u. gewartet werden muß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24&#xD;
+18. Mai: Auch im neuen Graben beginnen jetzt interessante&#xD;
+Funde. Immer mehr zeigen sich allerhand. Knochen, die&#xD;
+bei Riesensauriern schwer unterzubringen sind.&#xD;
+Besuch d. Jumben v. Ntondo u. zahlreichen Lebensmitteln,&#xD;
+sodaß meine Safari doch auch Früchte trägt.&#xD;
+Nachm. Schießversuche. Abd. Schach m. Dr. Janensch&#xD;
+Jonas Lie's „Ehe“ beendet; ein psychologisch äußerst durchdrin„&#xD;
+gendes, erst im letzten Teil zu stark Typen schaffendes&#xD;
+Buch, aus dem ein feines Gemüt u. ein offener Blick&#xD;
+(auch in's Weite) spricht.&#xD;
+19. Mai: Im hinteren Teile des ersten Grabens, zu dem&#xD;
+Dr. J. weitere Quergräben ziehen läßt, glaube ich zu be„&#xD;
+merken, daß unsere bisherigen Funde sich so gut wie&#xD;
+ausschließlich auf zwei auch in d. Fazies (weiße Kalkbröckel„&#xD;
+chen) unterschiedene Schichten beschränkt sind. Für d.&#xD;
+fernere Suchen an dieser Stelle wichtig!&#xD;
+Zum ersten Mal eine offizielle Kiboko-Strafe, natürlich&#xD;
+Weibergeschichte. De Der betr. Mngoni scheint nichts zu fühlen,&#xD;
+die alten Krieger verleugnen sich noch nicht. Zwischen d.&#xD;
+Stämmen bestehen gewisse Reibungen.&#xD;
+Vorm. M. Hrn. Besser u. Dr. J. auf d. Tendaguru, um&#xD;
+ein über d. Mbenkuru-Lauf lagerndes Nebelmeer zu&#xD;
+betrachten. Morgens 6h 18° C.&#xD;
+9h 26° „&#xD;
+3h 31° „&#xD;
+20 Mai. Im Anschluß an einen Schnupfen beginnt mein Ohr&#xD;
+wieder sich zu melden.&#xD;
+Einen dritten Graben, ausgehend vom ersten begonnen.&#xD;
+21. Mai. An einem interessanten Knochen im Graben&#xD;
+präpariert. Leider teilen d. Funde d. Brüchigkeit des Gesteins,&#xD;
+so daß ständig getränkt u. gewartet werden muß.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

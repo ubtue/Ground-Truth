@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:38.970+02:00</Created>
+        <LastChange>2020-04-02T16:48:00.025+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7550990" pageNr="105" tsid="26898217" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=TGWYPIUIVEVXORAFQWAPOCPZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PLZEOUEXQZQDBBHDPGZGJNBC" imageId="4551868"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_105.jpg" imageWidth="4292" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256500118" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:0;}">
+            <Coords points="418,254 418,4844 4049,4844 4049,254"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="3812,283 3834,286 3846,300 3886,304 3902,319 3933,322 3956,315 3987,323 4000,190 3964,187 3944,171 3907,181 3877,174 3867,182 3850,171 3823,173"/>
+                <Baseline points="3834,287 3860,287 3886,290 3913,294 3939,298 3966,295"/>
+                <TextEquiv>
+                    <Unicode>103</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="477,450 2981,477 3513,363 4073,480 4072,249 476,259"/>
+                <Baseline points="499,384 676,381 854,380 1031,378 1209,378 1386,378 1564,379 1741,379 1919,380 2096,381 2274,382 2451,382 2629,382 2806,381 2984,379 3161,377 3339,373 3516,369 3694,363 3871,355 4049,346"/>
+                <TextEquiv>
+                    <Unicode>hatte. Gute Nummulitenfunde. Einzelne schwache Sattelbildungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:2;}">
+                <Coords points="397,613 1341,502 3792,527 3737,372 395,431"/>
+                <Baseline points="418,541 585,532 753,525 920,519 1088,516 1255,513 1423,511 1590,510 1758,510 1925,510 2093,510 2260,510 2428,511 2595,510 2763,510 2930,508 3098,506 3265,502 3433,497 3600,490 3768,482"/>
+                <TextEquiv>
+                    <Unicode>u. Stauchen in d. Tertiärbänken, unter denen eine sehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:3;}">
+                <Coords points="472,757 1376,660 1862,773 2561,640 2891,746 3227,639 3451,761 3867,666 3807,516 470,588"/>
+                <Baseline points="492,689 659,681 827,674 994,668 1162,663 1330,659 1497,656 1665,654 1833,652 2000,650 2168,649 2336,648 2503,647 2671,646 2839,645 3006,643 3174,642 3342,639 3509,636 3677,632 3845,627"/>
+                <TextEquiv>
+                    <Unicode>starke (fast 1 m) u. feste guten Anhalt bot. Z. T. wie germa„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:4;}">
+                <Coords points="454,960 853,834 1111,949 1276,845 1714,797 1967,916 2215,778 2736,807 2731,688 2295,655 1748,765 1061,688 448,800"/>
+                <Baseline points="470,844 582,845 694,845 806,843 918,841 1030,838 1142,833 1254,828 1366,824 1478,818 1590,812 1702,807 1814,801 1926,796 2038,790 2150,786 2262,783 2374,780 2486,779 2598,778 2711,779"/>
+                <TextEquiv>
+                    <Unicode>nischer Muschelkalk im Gesamtbilde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:5;}">
+                <Coords points="623,1038 3101,1032 3946,952 3943,850 2670,890 2245,787 1969,925 1860,835 1104,952 857,839 620,953"/>
+                <Baseline points="645,1004 809,1003 973,1002 1137,1000 1301,996 1465,992 1629,987 1793,982 1957,976 2121,970 2285,963 2449,957 2613,951 2777,945 2941,939 3105,934 3269,929 3433,925 3597,922 3761,919 3925,918"/>
+                <TextEquiv>
+                    <Unicode>Abend. Um d. letzten Mondabend zu genießen u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569572176622_123" custom="readingOrder {index:6;}">
+                <Coords points="542,1162 1691,1131 1858,1229 2192,1086 2595,1200 2906,1071 3380,1174 3594,1053 3902,1102 3898,969 3689,944 540,1073"/>
+                <Baseline points="563,1145 725,1136 887,1129 1049,1123 1212,1118 1374,1113 1536,1108 1699,1105 1861,1101 2023,1098 2186,1094 2348,1091 2510,1088 2672,1084 2835,1080 2997,1075 3159,1070 3322,1064 3484,1057 3646,1049 3809,1040 3832,1053 3878,1073"/>
+                <TextEquiv>
+                    <Unicode>mich erkenntlich zu zeigen, hatte ich zu einer Erdbeer„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:7;}">
+                <Coords points="515,1372 4028,1220 3636,1074 509,1203"/>
+                <Baseline points="535,1317 708,1309 881,1302 1055,1295 1228,1287 1402,1280 1575,1273 1748,1266 1922,1259 2095,1253 2269,1247 2442,1241 2615,1235 2789,1229 2962,1223 3136,1218 3309,1212 3482,1208 3656,1203 3829,1198 4003,1193"/>
+                <TextEquiv>
+                    <Unicode>bowle am Platze von d. Boma eingeladen, 10 Personen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:8;}">
+                <Coords points="491,1578 1671,1419 2200,1525 2368,1402 2687,1504 3196,1450 3137,1222 2901,1308 2441,1243 2077,1353 1062,1317 484,1405"/>
+                <Baseline points="508,1480 641,1473 774,1467 907,1461 1040,1454 1173,1447 1306,1440 1440,1433 1573,1426 1706,1420 1839,1413 1972,1406 2105,1401 2238,1395 2372,1389 2505,1385 2638,1381 2771,1377 2904,1374 3037,1372 3171,1370"/>
+                <TextEquiv>
+                    <Unicode>Hübscher Abend, aber ziemlich teuer (50 Rps)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:9;}">
+                <Coords points="547,1710 3040,1605 2961,1477 2173,1533 1999,1454 1850,1557 1021,1526 542,1622"/>
+                <Baseline points="568,1685 690,1679 812,1673 935,1666 1057,1659 1179,1651 1302,1644 1424,1636 1546,1628 1669,1620 1791,1612 1913,1604 2036,1597 2158,1589 2280,1582 2403,1575 2525,1568 2647,1562 2770,1556 2892,1550 3015,1546"/>
+                <TextEquiv>
+                    <Unicode>15.II. Träger vom Tendag. angekommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l12" custom="readingOrder {index:10;}">
+                <Coords points="526,1862 1828,1771 2099,1852 2293,1742 2601,1834 3052,1730 3047,1642 2923,1578 2139,1703 1968,1602 1533,1750 1196,1766 1057,1682 518,1738"/>
+                <Baseline points="550,1862 680,1854 810,1844 941,1835 1071,1827 1202,1818 1332,1810 1463,1801 1593,1792 1724,1784 1854,1775 1985,1768 2115,1759 2246,1752 2376,1744 2507,1737 2637,1729 2768,1722 2898,1715 3029,1708"/>
+                <TextEquiv>
+                    <Unicode>16.II. Begonnen Lasten zu verpacken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:11;}">
+                <Coords points="539,2073 4031,1866 4025,1751 3612,1684 533,1954"/>
+                <Baseline points="558,2027 730,2015 902,2004 1075,1993 1247,1982 1419,1972 1592,1963 1764,1953 1936,1945 2109,1935 2281,1926 2453,1918 2626,1909 2798,1900 2970,1891 3143,1882 3315,1873 3487,1864 3660,1854 3832,1843 4005,1832"/>
+                <TextEquiv>
+                    <Unicode>17 II. Lasten gepackt. Hübsches Tennisspiel, ich heut etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:12;}">
+                <Coords points="645,2194 1178,2261 1353,2135 1880,2099 2038,2210 2305,2065 2707,2033 3331,2125 3548,2028 3539,1877 2121,2041 636,2048"/>
+                <Baseline points="667,2174 809,2165 952,2156 1095,2147 1238,2138 1381,2128 1524,2119 1667,2110 1810,2101 1953,2092 2096,2083 2238,2075 2381,2066 2524,2058 2667,2050 2810,2043 2953,2035 3096,2029 3239,2022 3382,2015 3525,2009"/>
+                <TextEquiv>
+                    <Unicode>besser gespielt, aber noch immer etwas wüst.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:13;}">
+                <Coords points="653,2400 2378,2251 2567,2348 2996,2187 4010,2171 4002,2006 3634,1971 3312,2120 2709,2039 2046,2222 1504,2110 1174,2286 641,2240"/>
+                <Baseline points="671,2351 836,2345 1002,2338 1168,2328 1334,2319 1500,2307 1666,2295 1832,2281 1998,2267 2164,2253 2330,2239 2495,2225 2661,2210 2827,2197 2993,2184 3159,2172 3325,2162 3491,2152 3657,2145 3823,2138 3989,2134"/>
+                <TextEquiv>
+                    <Unicode>Abend. Mit Behmer bei Wolff's zu Abendbrot u. Skat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l16" custom="readingOrder {index:14;}">
+                <Coords points="534,2560 1047,2596 1166,2495 1394,2588 1529,2473 2008,2528 2311,2394 3693,2444 3957,2334 3951,2224 2378,2248 1857,2391 1660,2287 1282,2430 1084,2322 527,2445"/>
+                <Baseline points="550,2499 719,2498 888,2496 1057,2490 1227,2483 1396,2474 1565,2464 1735,2452 1904,2440 2073,2427 2243,2414 2412,2401 2581,2388 2750,2376 2920,2365 3089,2355 3258,2345 3428,2338 3597,2333 3766,2331 3936,2331"/>
+                <TextEquiv>
+                    <Unicode>18.II. Lasten fertig gepackt, desgl. Gehörne für mich u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l17" custom="readingOrder {index:15;}">
+                <Coords points="609,2790 773,2688 902,2771 1672,2632 1855,2716 2094,2614 2683,2663 3052,2590 3048,2497 2471,2519 2309,2394 1802,2572 1646,2469 1381,2590 596,2533"/>
+                <Baseline points="626,2666 746,2663 866,2659 986,2655 1106,2650 1226,2644 1346,2638 1467,2633 1587,2626 1707,2619 1827,2612 1947,2605 2067,2598 2187,2592 2308,2585 2428,2577 2548,2571 2668,2564 2788,2558 2908,2553 3029,2547"/>
+                <TextEquiv>
+                    <Unicode>Zoologen u. botanische Sammlungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569572185046_128" custom="readingOrder {index:16;} textStyle {offset:0; length:17;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:23; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="404,2870 1611,2818 1832,2911 1991,2793 3878,2755 3874,2667 2858,2591 2641,2711 2281,2607 1723,2747 399,2760"/>
+                <Baseline points="426,2862 479,2857 532,2853 586,2849 639,2848 693,2846 746,2845 799,2845 853,2845 906,2845 960,2845 1013,2846 1066,2847 1120,2847 1173,2847 1227,2847 1280,2846 1333,2844 1387,2842 1440,2839 1494,2835 1587,2799 1700,2801 1814,2801 1927,2799 2041,2796 2154,2792 2268,2787 2381,2781 2495,2775 2608,2769 2722,2762 2835,2756 2949,2750 3062,2744 3176,2739 3289,2735 3403,2733 3516,2732 3630,2732 3743,2734 3857,2738"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 19.II: Briefe an Mama. Safari zusammenge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l20" custom="readingOrder {index:17;}">
+                <Coords points="530,3113 935,3011 1103,3112 1267,2969 1488,3086 1698,2968 1866,3096 2133,2971 2625,2942 2780,3052 3180,2928 4015,2949 3891,2820 2207,2804 1359,2935 521,2856"/>
+                <Baseline points="550,3020 722,3013 894,3007 1066,3000 1238,2993 1410,2985 1582,2977 1755,2970 1927,2963 2099,2955 2271,2948 2443,2942 2615,2936 2787,2931 2960,2927 3132,2923 3304,2919 3476,2917 3648,2916 3820,2916 3993,2917"/>
+                <TextEquiv>
+                    <Unicode>stellt. Nachm. drohende Gewitter, aber sie kommen wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l21" custom="readingOrder {index:18;}">
+                <Coords points="480,3184 1092,3165 1242,3248 1340,3150 1482,3136 1623,3233 1753,3139 1901,3191 1970,3135 2084,3206 2351,3102 2579,3129 2574,3013 2078,3051 1751,2974 1480,3087 1303,2983 476,3100"/>
+                <Baseline points="503,3161 605,3159 708,3158 810,3155 913,3153 1015,3149 1118,3146 1220,3142 1323,3138 1425,3134 1528,3130 1630,3125 1733,3120 1835,3116 1938,3111 2040,3107 2143,3102 2245,3098 2348,3094 2450,3090 2553,3087"/>
+                <TextEquiv>
+                    <Unicode>nicht, der Rasen schon ganz grau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l22" custom="readingOrder {index:19;}">
+                <Coords points="588,3352 3496,3325 3960,3248 3995,3095 584,3228"/>
+                <Baseline points="610,3312 778,3309 946,3304 1114,3299 1283,3294 1451,3288 1619,3282 1787,3275 1956,3269 2124,3262 2292,3256 2460,3250 2629,3243 2797,3238 2965,3233 3133,3228 3302,3224 3470,3221 3638,3218 3806,3217 3975,3216"/>
+                <TextEquiv>
+                    <Unicode>Gegen Abend böse Aussichten für morgen, nachts auch bereits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l23" custom="readingOrder {index:20;}">
+                <Coords points="511,3517 576,3484 770,3577 856,3499 925,3560 999,3505 1156,3563 1247,3512 1430,3534 1426,3370 1325,3412 1163,3314 1013,3376 839,3322 507,3366"/>
+                <Baseline points="531,3473 574,3472 618,3471 662,3470 706,3469 750,3468 793,3467 837,3467 881,3466 925,3466 969,3465 1012,3464 1056,3463 1100,3462 1144,3460 1188,3459 1231,3457 1275,3455 1319,3453 1363,3450 1407,3448"/>
+                <TextEquiv>
+                    <Unicode>mehrfach Regen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l24" custom="readingOrder {index:21;}">
+                <Coords points="648,3707 924,3814 1216,3689 2227,3736 2412,3611 3704,3587 3699,3472 2324,3447 1948,3562 643,3596"/>
+                <Baseline points="670,3713 820,3701 971,3689 1121,3677 1272,3667 1422,3656 1573,3646 1723,3636 1874,3628 2024,3620 2175,3612 2325,3605 2476,3599 2626,3593 2777,3588 2927,3585 3078,3581 3228,3579 3379,3577 3529,3576 3680,3577"/>
+                <TextEquiv>
+                    <Unicode>20.II. Habe mich entschlossen bis Mroweka mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l25" custom="readingOrder {index:22;}">
+                <Coords points="509,3893 1026,3967 1285,3861 2367,3808 2649,3893 3223,3778 3466,3887 3717,3817 3714,3702 505,3764"/>
+                <Baseline points="531,3867 689,3863 847,3858 1005,3854 1163,3849 1321,3845 1479,3840 1637,3836 1795,3831 1953,3826 2112,3822 2270,3817 2428,3812 2586,3808 2744,3803 2902,3799 3060,3794 3218,3789 3376,3785 3534,3780 3693,3775"/>
+                <TextEquiv>
+                    <Unicode>Boot zu fahren, wenn auch Zeit damit kaum ge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l26" custom="readingOrder {index:23;}">
+                <Coords points="545,4049 2537,3986 2971,4095 3243,3959 3769,4048 3814,3883 3150,3797 2678,3920 2382,3794 1538,3958 543,3969"/>
+                <Baseline points="569,4022 730,4023 891,4022 1052,4022 1213,4020 1374,4018 1535,4016 1696,4013 1857,4011 2018,4007 2180,4002 2341,3998 2502,3993 2663,3988 2824,3983 2985,3977 3146,3971 3307,3965 3468,3958 3629,3951 3791,3944"/>
+                <TextEquiv>
+                    <Unicode>wonnen wird. Wilhelm krank, muß hierbleiben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l27" custom="readingOrder {index:24;}">
+                <Coords points="565,4264 3809,4185 3695,4023 562,4095"/>
+                <Baseline points="587,4193 746,4194 906,4193 1066,4192 1226,4190 1386,4187 1546,4183 1706,4180 1866,4175 2026,4171 2186,4166 2345,4162 2505,4158 2665,4153 2825,4150 2985,4147 3145,4145 3305,4143 3465,4143 3625,4144 3785,4146"/>
+                <TextEquiv>
+                    <Unicode>Herr Schulze „pumpt“ mir einen andern Boy.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l28" custom="readingOrder {index:25;} textStyle {offset:40; length:1;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="531,4397 2224,4431 2337,4318 2917,4269 3816,4343 3812,4192 3647,4147 528,4237"/>
+                <Baseline points="550,4336 712,4337 874,4336 1036,4334 1198,4331 1360,4328 1522,4323 1684,4319 1846,4314 2008,4309 2170,4304 2332,4298 2494,4293 2656,4290 2818,4285 2980,4283 3142,4281 3304,4280 3466,4281 3628,4283 3790,4286"/>
+                <TextEquiv>
+                    <Unicode>Wasserverhältnisse schlecht, fahre um 12h mittags mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l29" custom="readingOrder {index:26;}">
+                <Coords points="546,4580 3870,4480 3867,4351 3135,4388 2911,4272 2652,4397 2339,4319 2226,4414 544,4451"/>
+                <Baseline points="567,4505 739,4502 912,4498 1084,4493 1257,4489 1429,4484 1602,4478 1775,4474 1947,4468 2120,4463 2292,4459 2465,4455 2637,4452 2810,4449 2983,4447 3155,4446 3328,4447 3500,4448 3673,4451 3846,4455"/>
+                <TextEquiv>
+                    <Unicode>aufkommendem Winde ab nach Lichwaichwa, kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l30" custom="readingOrder {index:27;} gap {offset:18; length:0;}">
+                <Coords points="523,4697 1862,4630 2166,4724 2323,4617 2450,4698 2976,4604 3253,4699 3879,4522 519,4577"/>
+                <Baseline points="543,4672 708,4665 874,4659 1040,4654 1206,4648 1371,4642 1537,4637 1703,4631 1869,4626 2034,4622 2200,4617 2366,4612 2532,4608 2697,4604 2863,4600 3029,4597 3195,4593 3360,4590 3526,4588 3692,4585 3858,4583"/>
+                <TextEquiv>
+                    <Unicode>aber dort keine 2  noch fehlenden Träger erhalten u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l31" custom="readingOrder {index:28;}">
+                <Coords points="512,4858 3362,4854 3519,4734 3924,4764 3920,4613 509,4747"/>
+                <Baseline points="531,4808 699,4807 868,4805 1036,4802 1205,4799 1373,4795 1542,4791 1710,4787 1879,4782 2047,4778 2216,4773 2384,4768 2553,4763 2721,4758 2890,4754 3058,4750 3227,4745 3395,4742 3564,4738 3732,4735 3901,4732"/>
+                <TextEquiv>
+                    <Unicode>muß 1½ Std. auf die Flut warten. Dann weiter bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>103&#xD;
+hatte. Gute Nummulitenfunde. Einzelne schwache Sattelbildungen&#xD;
+u. Stauchen in d. Tertiärbänken, unter denen eine sehr&#xD;
+starke (fast 1 m) u. feste guten Anhalt bot. Z. T. wie germa„&#xD;
+nischer Muschelkalk im Gesamtbilde.&#xD;
+Abend. Um d. letzten Mondabend zu genießen u.&#xD;
+mich erkenntlich zu zeigen, hatte ich zu einer Erdbeer„&#xD;
+bowle am Platze von d. Boma eingeladen, 10 Personen.&#xD;
+Hübscher Abend, aber ziemlich teuer (50 Rps)&#xD;
+15.II. Träger vom Tendag. angekommen.&#xD;
+16.II. Begonnen Lasten zu verpacken&#xD;
+17 II. Lasten gepackt. Hübsches Tennisspiel, ich heut etwas&#xD;
+besser gespielt, aber noch immer etwas wüst.&#xD;
+Abend. Mit Behmer bei Wolff's zu Abendbrot u. Skat.&#xD;
+18.II. Lasten fertig gepackt, desgl. Gehörne für mich u.&#xD;
+Zoologen u. botanische Sammlungen.&#xD;
+Sonntag d. 19.II: Briefe an Mama. Safari zusammenge„&#xD;
+stellt. Nachm. drohende Gewitter, aber sie kommen wieder&#xD;
+nicht, der Rasen schon ganz grau.&#xD;
+Gegen Abend böse Aussichten für morgen, nachts auch bereits&#xD;
+mehrfach Regen.&#xD;
+20.II. Habe mich entschlossen bis Mroweka mit&#xD;
+Boot zu fahren, wenn auch Zeit damit kaum ge„&#xD;
+wonnen wird. Wilhelm krank, muß hierbleiben,&#xD;
+Herr Schulze „pumpt“ mir einen andern Boy.&#xD;
+Wasserverhältnisse schlecht, fahre um 12h mittags mit&#xD;
+aufkommendem Winde ab nach Lichwaichwa, kann&#xD;
+aber dort keine 2  noch fehlenden Träger erhalten u.&#xD;
+muß 1½ Std. auf die Flut warten. Dann weiter bis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

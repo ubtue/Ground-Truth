@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:48:01.565+02:00</Created>
+        <LastChange>2020-04-01T13:00:02.013+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550873" pageNr="171" tsid="26835716" status="IN_PROGRESS" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=IQYRAKQYULYEJFVAIBRJDSPQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CETHHOWZIBALJQQPNQUMVICR" imageId="4551751"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_171.jpg" imageWidth="5012" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1583147236890" caption="Regions reading order">
+                <RegionRefIndexed index="0"/>
+                <RegionRefIndexed index="1"/>
+                <RegionRefIndexed index="2"/>
+                <RegionRefIndexed index="3"/>
+                <RegionRefIndexed index="4"/>
+                <RegionRefIndexed index="5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    </Page>
+</PcGts>

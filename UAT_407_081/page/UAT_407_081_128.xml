@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:40.016+02:00</Created>
+        <LastChange>2020-04-02T16:14:12.732+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551017" pageNr="128" tsid="26894563" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=CCBXLHBHOHRVHQCCCURLUHYG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EESVYLHVMPFXTHWWOEKEJYEF" imageId="4551895"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_128.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256506275" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1569574858580_798"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1569574858580_798" custom="readingOrder {index:0;}">
+            <Coords points="272,259 442,259 3907,334 3907,4925 475,4925 272,417"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="247,430 294,423 311,440 354,417 375,422 427,390 461,391 466,264 436,263 395,240 368,260 326,258 282,287 253,285"/>
+                <Baseline points="272,359 300,360 328,360 357,360 385,362 413,363 442,367"/>
+                <TextEquiv>
+                    <Unicode>126</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569574868368_804" custom="readingOrder {index:1;}">
+                <Coords points="518,583 694,457 1602,457 1718,548 2090,445 3682,448 3744,333 2839,290 2149,398 513,256"/>
+                <Baseline points="536,471 578,474 597,454 753,451 909,448 1065,445 1222,443 1378,442 1534,441 1691,439 1847,438 2003,437 2160,436 2316,435 2472,433 2628,431 2785,429 2941,426 3097,422 3254,418 3410,412 3566,406 3723,399"/>
+                <TextEquiv>
+                    <Unicode>Hintergrund. 3 Mann spielten mir eine Bondeï-Goma vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="505,630 2288,665 2469,552 3307,677 3709,578 3707,476 3201,403 2740,511 1368,440 504,558"/>
+                <Baseline points="527,607 693,600 859,593 1025,587 1192,582 1358,578 1524,574 1690,571 1857,569 2023,567 2189,565 2355,564 2522,563 2688,562 2854,561 3020,561 3187,560 3353,559 3519,558 3686,557"/>
+                <TextEquiv>
+                    <Unicode>natürlich auf finanzieller Grundlage; sie war auch sonst nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="495,840 1920,713 2155,834 2429,713 3720,804 3839,756 3837,569 3316,659 3201,558 3066,665 2462,551 2306,659 2072,576 1432,662 1261,570 494,687"/>
+                <Baseline points="514,743 679,734 844,725 1009,720 1174,714 1339,711 1504,708 1670,705 1835,704 2000,703 2165,703 2330,703 2495,703 2660,703 2826,704 2991,704 3156,704 3321,703 3486,701 3651,700 3817,697"/>
+                <TextEquiv>
+                    <Unicode>ganz unsprünglich mehr, aber doch sehr interessant u. vorzüglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="525,957 3835,878 3781,761 2840,810 2430,713 2165,829 1845,738 523,838"/>
+                <Baseline points="544,920 707,911 870,903 1034,896 1197,890 1360,884 1524,879 1687,875 1850,870 2014,867 2177,864 2340,861 2504,858 2667,856 2830,854 2994,852 3157,851 3320,849 3484,848 3647,846 3811,845"/>
+                <TextEquiv>
+                    <Unicode>ausgeübt. Einer bearbeitete eine übliche Trommel, der Zweite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="510,1083 834,1160 1315,1047 2090,1131 2643,1011 3781,1018 3778,895 3332,863 3088,963 507,960"/>
+                <Baseline points="531,1069 692,1064 854,1058 1015,1052 1177,1047 1338,1042 1500,1038 1661,1034 1823,1030 1984,1026 2146,1023 2307,1019 2469,1016 2630,1013 2792,1009 2953,1006 3115,1003 3276,999 3438,996 3599,993 3761,989"/>
+                <TextEquiv>
+                    <Unicode>eine ganz kleine mit hellem scharfen Klang u. zugleich ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="493,1240 3863,1187 3859,1059 3153,996 490,1117"/>
+                <Baseline points="513,1203 678,1199 843,1195 1008,1191 1173,1186 1338,1182 1503,1177 1668,1173 1833,1168 1998,1163 2164,1159 2329,1154 2494,1150 2659,1146 2824,1142 2989,1139 3154,1136 3319,1132 3484,1130 3649,1128 3839,1125"/>
+                <TextEquiv>
+                    <Unicode>leeres Petroleum-Gefäß, das als hübsch laut öfters dazu avan„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="496,1462 1448,1329 2863,1408 3209,1285 3757,1332 3755,1239 3532,1138 3309,1228 1977,1262 1797,1160 1680,1269 1373,1183 491,1258"/>
+                <Baseline points="515,1350 676,1347 837,1344 998,1340 1159,1336 1320,1331 1481,1327 1642,1322 1803,1317 1964,1312 2125,1307 2286,1302 2447,1298 2608,1295 2769,1291 2930,1289 3091,1287 3252,1286 3413,1286 3574,1287 3735,1289"/>
+                <TextEquiv>
+                    <Unicode>ziert. Der Dritte tanzte mit gewaltigem Geschick u. Übung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="523,1532 3760,1449 3667,1298 521,1430"/>
+                <Baseline points="543,1494 702,1492 862,1489 1022,1485 1181,1482 1341,1478 1501,1473 1660,1469 1820,1465 1980,1460 2140,1455 2299,1450 2459,1445 2619,1441 2778,1437 2938,1433 3098,1430 3257,1427 3417,1424 3577,1422 3737,1420"/>
+                <TextEquiv>
+                    <Unicode>in höchst phantastischem Aufzug: militärischer Tropenhelm, altes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;} textStyle {offset:14; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="510,1661 1734,1726 2287,1598 3015,1683 3157,1578 3443,1686 3886,1532 3293,1431 2155,1567 507,1542"/>
+                <Baseline points="531,1645 697,1642 864,1639 1031,1634 1198,1630 1365,1626 1531,1622 1698,1618 1865,1612 2032,1608 2199,1604 2365,1599 2532,1595 2699,1591 2866,1587 3033,1584 3199,1581 3366,1579 3533,1577 3700,1576 3867,1576"/>
+                <TextEquiv>
+                    <Unicode>Schwert in d. H einen, Schelle in d. andern Hand, Khakihose, eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="510,1850 3930,1758 3178,1578 3015,1684 2342,1604 1450,1750 506,1677"/>
+                <Baseline points="531,1815 699,1812 868,1807 1037,1802 1206,1797 1375,1790 1543,1784 1712,1778 1881,1771 2050,1765 2219,1759 2387,1753 2556,1748 2725,1744 2894,1741 3063,1738 3231,1737 3400,1737 3569,1739 3738,1742 3907,1748"/>
+                <TextEquiv>
+                    <Unicode>Art Beinwickler mit zahlreichen Schellen besetzt, von d. Knieen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="531,1992 686,2074 1150,1957 1310,2069 1863,1933 2065,2035 2346,1906 2798,1994 2979,1901 3211,2027 3442,1916 3825,1959 3821,1789 3307,1779 530,1916"/>
+                <Baseline points="551,1966 713,1962 876,1958 1038,1953 1201,1948 1363,1943 1526,1938 1688,1932 1851,1926 2013,1921 2176,1915 2338,1911 2501,1907 2663,1904 2826,1901 2988,1900 3151,1900 3313,1900 3476,1903 3638,1907 3801,1912"/>
+                <TextEquiv>
+                    <Unicode>ringsum lange Haare herabhängend, der kraftvolle schöne Ober„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="494,2161 1410,2105 1637,2210 2114,2071 2787,2182 3863,2071 3443,1915 3241,2010 2951,1927 491,2026"/>
+                <Baseline points="513,2131 679,2126 845,2121 1012,2116 1178,2110 1345,2104 1511,2098 1677,2092 1844,2086 2010,2081 2177,2076 2343,2071 2509,2066 2676,2063 2842,2060 3009,2058 3175,2057 3341,2056 3508,2057 3674,2059 3841,2062"/>
+                <TextEquiv>
+                    <Unicode>körper nackt mit zahlreichen bunten Perlschnüren, Ketten u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="525,2305 2781,2218 3250,2334 3640,2298 3637,2119 522,2152"/>
+                <Baseline points="547,2257 700,2256 854,2255 1007,2252 1161,2250 1315,2247 1468,2243 1622,2240 1775,2237 1929,2233 2083,2229 2236,2226 2390,2223 2543,2221 2697,2218 2851,2217 3004,2216 3158,2216 3311,2216 3465,2218 3619,2220"/>
+                <TextEquiv>
+                    <Unicode>Schärpen besetzt, ein etwas buntes, aber nicht grade</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="533,2512 685,2417 872,2457 1037,2396 1420,2469 1687,2433 1811,2508 1929,2439 2464,2434 2462,2306 2254,2266 2161,2330 1842,2274 1665,2352 1554,2285 1253,2343 819,2250 531,2304"/>
+                <Baseline points="553,2419 647,2416 742,2413 836,2411 931,2409 1025,2408 1120,2407 1214,2406 1309,2405 1403,2405 1498,2404 1592,2404 1687,2404 1781,2403 1876,2403 1970,2402 2065,2401 2159,2400 2254,2398 2348,2396 2443,2394"/>
+                <TextEquiv>
+                    <Unicode>häßliches Ballkostüm. Photographiert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569574876751_810" custom="readingOrder {index:15;}">
+                <Coords points="832,2615 1752,2572 2068,2656 2164,2578 2352,2665 2524,2539 3730,2585 3729,2462 3046,2498 2747,2370 2367,2507 1832,2524 1610,2429 831,2526"/>
+                <Baseline points="853,2566 936,2568 1020,2569 1103,2570 1187,2571 1271,2572 1354,2572 1438,2572 1522,2572 1605,2571 1689,2570 1773,2569 1856,2568 1940,2567 2024,2566 2107,2564 2191,2562 2275,2561 2358,2559 2442,2557 2526,2556 2549,2541 2606,2542 2664,2544 2722,2544 2780,2545 2838,2545 2896,2546 2954,2545 3012,2545 3070,2545 3128,2544 3185,2544 3243,2543 3301,2542 3359,2541 3417,2540 3475,2539 3533,2538 3591,2537 3649,2536 3707,2536"/>
+                <TextEquiv>
+                    <Unicode>Auf dem Tonboden zahlreiche Blöcke von rötlichem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:16;}">
+                <Coords points="525,2770 856,2712 1251,2814 2035,2695 3182,2794 3589,2704 3451,2540 3270,2640 2632,2562 2341,2658 524,2622"/>
+                <Baseline points="544,2722 695,2718 846,2715 997,2711 1149,2708 1300,2706 1451,2703 1602,2701 1754,2699 1905,2698 2056,2696 2207,2695 2359,2694 2510,2693 2661,2692 2812,2691 2964,2690 3115,2690 3266,2689 3417,2689 3569,2688"/>
+                <TextEquiv>
+                    <Unicode>Sandstein, gelben Kalkbrocken u. Oolith durcheinander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:17;}">
+                <Coords points="599,2936 1796,2864 1924,2952 2266,2839 2412,2948 2839,2839 3286,2942 3599,2901 3599,2791 598,2758"/>
+                <Baseline points="620,2862 767,2859 915,2857 1063,2855 1211,2853 1359,2851 1507,2849 1655,2847 1803,2846 1951,2845 2099,2844 2246,2843 2394,2842 2542,2841 2690,2840 2838,2840 2986,2840 3134,2839 3282,2839 3430,2839 3578,2839"/>
+                <TextEquiv>
+                    <Unicode>liegend, einiges wenige fossilführend. Regen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:18;}">
+                <Coords points="455,3128 2734,3173 3103,3072 3303,3168 3892,3112 3891,2997 3004,2899 2763,3007 1973,2933 1345,3036 453,2937"/>
+                <Baseline points="475,3107 644,3104 814,3099 984,3095 1153,3091 1323,3086 1493,3083 1662,3079 1832,3075 2002,3072 2172,3069 2341,3067 2511,3066 2681,3065 2850,3065 3020,3067 3190,3069 3359,3073 3529,3077 3699,3084 3869,3091"/>
+                <TextEquiv>
+                    <Unicode>19 April: Marsch nach Kitugallo, anfangs durch schmierigen Tonboden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:19;}">
+                <Coords points="534,3274 1106,3258 1234,3355 1628,3243 3160,3231 3602,3327 3733,3190 533,3138"/>
+                <Baseline points="554,3261 711,3254 869,3248 1027,3243 1185,3239 1343,3236 1501,3234 1658,3233 1816,3232 1974,3231 2132,3231 2290,3232 2448,3232 2606,3233 2763,3234 2921,3234 3079,3235 3237,3235 3395,3235 3553,3234 3711,3233"/>
+                <TextEquiv>
+                    <Unicode>bis an die Knöchel, am linken Ufer des Kulambili entlang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:20;}">
+                <Coords points="523,3428 3846,3461 3731,3291 3379,3254 523,3301"/>
+                <Baseline points="546,3395 709,3396 873,3396 1037,3395 1201,3393 1365,3391 1529,3389 1693,3387 1857,3385 2021,3383 2185,3381 2348,3379 2512,3378 2676,3378 2840,3379 3004,3381 3168,3383 3332,3387 3496,3393 3660,3400 3824,3408"/>
+                <TextEquiv>
+                    <Unicode>Allerhand Oolithe u. Sandsteinplatten, am Dorfe deutlich unter„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:21;}">
+                <Coords points="514,3548 3629,3590 3629,3449 3421,3390 2967,3488 2806,3403 2067,3488 1868,3365 1240,3492 514,3471"/>
+                <Baseline points="537,3542 690,3540 844,3539 997,3537 1151,3536 1305,3535 1458,3534 1612,3533 1765,3532 1919,3532 2073,3531 2226,3531 2380,3531 2533,3532 2687,3532 2841,3533 2994,3535 3148,3537 3301,3538 3455,3541 3609,3544"/>
+                <TextEquiv>
+                    <Unicode>lagert von dem lichten Ton, in dem zu suchen jetzt das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:22;}">
+                <Coords points="494,3719 1805,3662 2527,3773 3206,3663 3792,3762 3791,3592 3388,3539 2836,3640 493,3558"/>
+                <Baseline points="514,3700 675,3694 836,3690 997,3686 1158,3683 1319,3681 1480,3679 1641,3678 1802,3677 1963,3677 2125,3677 2286,3677 2447,3677 2608,3677 2769,3677 2930,3677 3091,3676 3252,3676 3413,3675 3574,3673 3771,3679"/>
+                <TextEquiv>
+                    <Unicode>Risiko bedeutet den Hammer nicht wieder herauszu„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:23;}">
+                <Coords points="528,3859 2102,3840 2246,3925 3626,3788 3244,3694 2488,3799 1805,3661 1292,3796 528,3723"/>
+                <Baseline points="547,3835 699,3836 852,3837 1005,3837 1158,3837 1311,3837 1464,3837 1616,3837 1769,3836 1922,3836 2075,3836 2228,3836 2381,3836 2534,3836 2686,3837 2839,3837 2992,3838 3145,3840 3298,3842 3451,3844 3604,3846"/>
+                <TextEquiv>
+                    <Unicode>bekommen. Über den Bach, durch Felder, dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:24;}">
+                <Coords points="522,4004 742,4089 1613,3969 1748,4054 2063,3979 2224,4098 2754,3964 2975,4092 3157,3995 3739,4043 3739,3878 3205,3825 2844,3930 2470,3840 2190,3932 522,3897"/>
+                <Baseline points="542,3982 700,3980 859,3979 1018,3977 1176,3976 1335,3974 1494,3973 1652,3972 1811,3972 1970,3971 2129,3971 2287,3972 2446,3973 2605,3974 2763,3975 2922,3978 3081,3980 3239,3983 3398,3987 3557,3991 3716,3996"/>
+                <TextEquiv>
+                    <Unicode>langsam aufwärts auf eine Höhe, die meist aus Oolith</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:25;}">
+                <Coords points="518,4167 1095,4236 1406,4145 1532,4239 1754,4135 1910,4242 2360,4157 2610,4248 2878,4152 3056,4247 3239,4138 3744,4168 3745,4040 519,4044"/>
+                <Baseline points="540,4119 699,4118 858,4118 1017,4119 1176,4120 1336,4121 1495,4123 1654,4126 1813,4128 1972,4131 2132,4133 2291,4135 2450,4137 2609,4139 2768,4140 2928,4141 3087,4140 3246,4139 3405,4137 3564,4135 3724,4130"/>
+                <TextEquiv>
+                    <Unicode>besteht. Schildförmig bis plateauartig, dann steiler ab„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:26;}">
+                <Coords points="532,4320 3676,4336 3676,4175 3337,4132 3027,4247 532,4171"/>
+                <Baseline points="555,4273 710,4277 865,4280 1020,4282 1175,4284 1330,4286 1485,4287 1640,4288 1795,4288 1950,4288 2106,4288 2261,4288 2416,4287 2571,4286 2726,4285 2881,4284 3036,4282 3191,4281 3346,4279 3501,4278 3657,4276"/>
+                <TextEquiv>
+                    <Unicode>fallend nach Kitugallo mit weitem schönen Blick auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:27;}">
+                <Coords points="502,4471 3230,4520 3693,4433 2648,4280 501,4386"/>
+                <Baseline points="524,4441 681,4436 838,4432 996,4429 1153,4426 1311,4424 1468,4422 1626,4421 1783,4421 1941,4421 2098,4421 2255,4422 2413,4422 2570,4423 2728,4423 2885,4423 3043,4423 3200,4422 3358,4421 3515,4419 3673,4417"/>
+                <TextEquiv>
+                    <Unicode>Gneißgebiet im S W. Wieder Plateaukante? Bergformen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:28;}">
+                <Coords points="528,4664 829,4584 1054,4690 1215,4575 3290,4678 3829,4619 3830,4509 1470,4436 528,4524"/>
+                <Baseline points="549,4582 711,4578 874,4574 1037,4571 1200,4568 1363,4566 1526,4564 1689,4563 1852,4562 2015,4562 2178,4562 2340,4563 2503,4563 2666,4565 2829,4566 2992,4568 3155,4570 3318,4573 3481,4575 3644,4578 3807,4582"/>
+                <TextEquiv>
+                    <Unicode>zu verwachsen. Im Regen nach Kitugallo. Fand hier Hrn. Sauer„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:29;}">
+                <Coords points="510,4784 3909,4753 3908,4655 2826,4593 509,4670"/>
+                <Baseline points="530,4729 697,4731 865,4733 1033,4734 1201,4734 1369,4734 1537,4732 1705,4731 1873,4729 2041,4727 2209,4725 2376,4723 2544,4721 2712,4720 2880,4718 3048,4718 3216,4717 3384,4718 3552,4720 3720,4722 3888,4725"/>
+                <TextEquiv>
+                    <Unicode>bier vom vorigen Jahr, der inzwischen in Europa war, u. einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:30;}">
+                <Coords points="526,4970 1544,4980 1709,4873 2100,4985 3115,4978 3309,4871 3836,4948 3758,4745 525,4784"/>
+                <Baseline points="546,4890 709,4887 872,4884 1036,4882 1199,4880 1362,4879 1526,4877 1689,4876 1852,4876 2016,4875 2179,4874 2342,4874 2506,4873 2669,4872 2832,4872 2996,4871 3159,4869 3322,4868 3486,4866 3649,4864 3813,4861"/>
+                <TextEquiv>
+                    <Unicode>Hrn. Mührsen. Die Kiste m. Versteinerungen, die ich vorm Jahr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>126&#xD;
+Hintergrund. 3 Mann spielten mir eine Bondeï-Goma vor&#xD;
+natürlich auf finanzieller Grundlage; sie war auch sonst nicht&#xD;
+ganz unsprünglich mehr, aber doch sehr interessant u. vorzüglich&#xD;
+ausgeübt. Einer bearbeitete eine übliche Trommel, der Zweite&#xD;
+eine ganz kleine mit hellem scharfen Klang u. zugleich ein&#xD;
+leeres Petroleum-Gefäß, das als hübsch laut öfters dazu avan„&#xD;
+ziert. Der Dritte tanzte mit gewaltigem Geschick u. Übung&#xD;
+in höchst phantastischem Aufzug: militärischer Tropenhelm, altes&#xD;
+Schwert in d. H einen, Schelle in d. andern Hand, Khakihose, eine&#xD;
+Art Beinwickler mit zahlreichen Schellen besetzt, von d. Knieen&#xD;
+ringsum lange Haare herabhängend, der kraftvolle schöne Ober„&#xD;
+körper nackt mit zahlreichen bunten Perlschnüren, Ketten u.&#xD;
+Schärpen besetzt, ein etwas buntes, aber nicht grade&#xD;
+häßliches Ballkostüm. Photographiert.&#xD;
+Auf dem Tonboden zahlreiche Blöcke von rötlichem&#xD;
+Sandstein, gelben Kalkbrocken u. Oolith durcheinander&#xD;
+liegend, einiges wenige fossilführend. Regen.&#xD;
+19 April: Marsch nach Kitugallo, anfangs durch schmierigen Tonboden&#xD;
+bis an die Knöchel, am linken Ufer des Kulambili entlang.&#xD;
+Allerhand Oolithe u. Sandsteinplatten, am Dorfe deutlich unter„&#xD;
+lagert von dem lichten Ton, in dem zu suchen jetzt das&#xD;
+Risiko bedeutet den Hammer nicht wieder herauszu„&#xD;
+bekommen. Über den Bach, durch Felder, dann&#xD;
+langsam aufwärts auf eine Höhe, die meist aus Oolith&#xD;
+besteht. Schildförmig bis plateauartig, dann steiler ab„&#xD;
+fallend nach Kitugallo mit weitem schönen Blick auf&#xD;
+Gneißgebiet im S W. Wieder Plateaukante? Bergformen&#xD;
+zu verwachsen. Im Regen nach Kitugallo. Fand hier Hrn. Sauer„&#xD;
+bier vom vorigen Jahr, der inzwischen in Europa war, u. einen&#xD;
+Hrn. Mührsen. Die Kiste m. Versteinerungen, die ich vorm Jahr</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

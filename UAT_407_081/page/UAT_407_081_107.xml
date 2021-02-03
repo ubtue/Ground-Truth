@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:39.063+02:00</Created>
+        <LastChange>2020-04-02T16:25:12.251+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7550992" pageNr="107" tsid="26895642" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=DAMASZXSLCQURQOFDAABXRGC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LNRGEKZBLJZEVGROXEBPWENA" imageId="4551870"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_107.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256500762" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="405,288 405,4641 4031,4641 4031,288"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3714,348 3810,339 3896,364 3921,383 3973,381 3979,247 3940,236 3900,256 3879,238 3845,232 3765,272 3718,270"/>
+                <Baseline points="3737,324 3764,323 3791,321 3818,320 3845,320 3872,322 3899,325 3926,329 3953,336"/>
+                <TextEquiv>
+                    <Unicode>105</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="385,416 661,507 1194,348 1432,491 2384,358 3803,404 3418,256 385,316"/>
+                <Baseline points="405,397 573,388 742,381 911,374 1080,370 1249,367 1417,365 1586,363 1755,363 1924,364 2093,365 2261,367 2430,369 2599,372 2768,374 2937,377 3105,379 3274,382 3443,383 3612,385 3781,385"/>
+                <TextEquiv>
+                    <Unicode>die gewellte, gleichmäßige Fläche der Manihot-Kronen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="396,603 747,671 918,547 1520,537 1790,649 2471,507 3010,611 3606,553 3604,423 393,456"/>
+                <Baseline points="417,572 575,563 733,555 892,548 1050,542 1208,537 1367,532 1525,527 1683,524 1842,520 2000,518 2158,516 2317,514 2475,513 2633,512 2792,511 2950,511 3108,511 3267,512 3425,512 3584,513"/>
+                <TextEquiv>
+                    <Unicode>Schöne Einrichtung des geschickt, aber einfach gebauten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="395,826 1086,688 2200,791 2389,689 2567,787 3834,693 3798,525 3115,633 2356,512 1769,649 1591,543 393,601"/>
+                <Baseline points="417,718 586,714 756,709 926,705 1096,701 1266,698 1436,694 1605,691 1775,689 1945,686 2115,684 2285,682 2455,680 2625,679 2794,678 2964,677 3134,676 3304,676 3474,676 3644,676 3814,677"/>
+                <TextEquiv>
+                    <Unicode>Häuschens, freundliche Aufnahme. Nachm. Gang durch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="400,992 632,897 1010,972 1198,843 3877,862 3779,708 3514,674 1967,794 1641,692 994,812 753,704 397,837"/>
+                <Baseline points="421,879 592,876 764,871 935,866 1107,862 1279,857 1450,852 1622,847 1793,843 1965,839 2137,834 2308,830 2480,827 2651,824 2823,821 2995,820 3166,819 3338,819 3509,820 3681,822 3853,824"/>
+                <TextEquiv>
+                    <Unicode>Pflanzung. Hinter dem Haus ein auffälliger, krater„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="456,1144 856,1025 1663,1133 1994,993 2758,1106 3257,968 3925,1036 3948,871 3170,931 2723,808 2313,941 1736,850 453,992"/>
+                <Baseline points="477,1039 649,1034 822,1028 994,1023 1167,1017 1340,1012 1512,1007 1685,1003 1857,998 2030,994 2203,991 2375,988 2548,985 2720,983 2893,982 3066,981 3238,981 3411,982 3583,984 3756,986 3929,990"/>
+                <TextEquiv>
+                    <Unicode>förmiger Erosionskessel in der Halde vor dem Steil„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569572599551_189" custom="readingOrder {index:6;}">
+                <Coords points="453,1221 571,1249 588,1235 619,1260 696,1224 831,1263 882,1218 951,1217 946,1039 855,1029 783,1078 739,1062 679,1090 635,1061 574,1067 494,1138 451,1148"/>
+                <Baseline points="476,1211 505,1204 534,1199 564,1195 593,1193 623,1191 652,1190 681,1189 711,1189 740,1190 770,1190 799,1191 828,1191 858,1191 887,1191 917,1190 928,1188"/>
+                <TextEquiv>
+                    <Unicode>absturz:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:7;}">
+                <Coords points="548,1701 2112,1754 3510,1594 3687,1716 3965,1609 3962,1471 545,1588"/>
+                <Baseline points="568,1665 736,1665 905,1664 1074,1661 1243,1658 1411,1653 1580,1648 1749,1642 1918,1636 2086,1631 2255,1624 2424,1619 2593,1613 2761,1609 2930,1604 3099,1602 3268,1600 3436,1599 3605,1600 3774,1602 3943,1606"/>
+                <TextEquiv>
+                    <Unicode>23.II. Durch die Pflanzung auf die große Bucht zu, welche hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:8;}">
+                <Coords points="515,1897 756,1851 959,1965 1517,1809 2018,1914 2425,1775 3816,1800 3785,1645 510,1729"/>
+                <Baseline points="537,1857 699,1852 862,1846 1025,1840 1188,1834 1351,1827 1513,1821 1676,1814 1839,1807 2002,1800 2165,1794 2327,1788 2490,1783 2653,1777 2816,1773 2979,1769 3141,1766 3304,1765 3467,1764 3630,1764 3793,1765"/>
+                <TextEquiv>
+                    <Unicode>durch Nyangedi u. Nyangao in d. Südteil des Rondo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:9;}">
+                <Coords points="526,2118 1114,1989 1897,2056 2224,1916 3780,1920 3775,1808 3414,1767 1972,1897 1787,1809 1557,1914 1160,1835 957,1957 749,1844 517,1897"/>
+                <Baseline points="545,2020 705,2014 866,2006 1026,1997 1187,1988 1348,1979 1508,1970 1669,1959 1830,1950 1990,1941 2151,1932 2312,1924 2472,1916 2633,1909 2794,1905 2954,1901 3115,1899 3276,1898 3436,1900 3597,1903 3758,1909"/>
+                <TextEquiv>
+                    <Unicode>hineingeschnitten ist. Zunächst ein unbedeutendes Tal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:10;}">
+                <Coords points="480,2234 1111,2092 1675,2222 2768,2046 3789,2137 3942,1936 472,2039"/>
+                <Baseline points="500,2159 671,2150 842,2141 1013,2131 1185,2122 1356,2113 1527,2104 1699,2094 1870,2086 2041,2078 2213,2069 2384,2063 2555,2056 2726,2050 2898,2045 3069,2041 3240,2039 3412,2037 3583,2037 3754,2037 3926,2040"/>
+                <TextEquiv>
+                    <Unicode>aufwärts, über dessen oberes Ende in's vielverzweigte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:11;}">
+                <Coords points="567,2371 2233,2209 2942,2302 3090,2197 3761,2217 3757,2087 2250,2087 1700,2202 1111,2092 561,2202"/>
+                <Baseline points="587,2289 744,2283 902,2277 1059,2269 1217,2262 1375,2255 1532,2246 1690,2239 1848,2232 2005,2224 2163,2218 2321,2211 2478,2206 2636,2201 2794,2197 2951,2194 3109,2191 3267,2190 3424,2190 3582,2192 3740,2195"/>
+                <TextEquiv>
+                    <Unicode>aber schmale Lihimba-Tal, auch dieses quer aufwärts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:12;}">
+                <Coords points="550,2451 834,2538 1237,2418 1383,2513 1522,2387 1686,2504 2075,2345 2460,2480 2626,2380 3812,2379 3691,2223 3105,2193 2940,2302 2227,2210 548,2378"/>
+                <Baseline points="569,2439 730,2428 891,2418 1052,2407 1213,2398 1374,2389 1535,2381 1696,2373 1857,2367 2018,2360 2180,2356 2341,2350 2502,2347 2663,2343 2824,2341 2985,2340 3146,2339 3307,2339 3468,2340 3629,2342 3791,2345"/>
+                <TextEquiv>
+                    <Unicode>überschritten, seitlich mit Steilanstieg auf die Wasser„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:13;}">
+                <Coords points="526,2698 830,2601 1088,2671 1227,2549 1429,2659 1966,2516 3677,2547 3733,2402 518,2468"/>
+                <Baseline points="545,2590 703,2580 862,2570 1020,2562 1179,2555 1337,2548 1496,2542 1654,2537 1813,2532 1971,2528 2130,2523 2288,2519 2447,2516 2605,2511 2764,2507 2922,2503 3081,2498 3239,2492 3398,2486 3556,2480 3715,2472"/>
+                <TextEquiv>
+                    <Unicode>scheide gegen Nyangedi, aus Newala-Sandst. gebildet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:14;}">
+                <Coords points="555,2822 1187,2700 1317,2817 1508,2707 2005,2798 2381,2655 2558,2766 3518,2729 3944,2659 3980,2549 3060,2494 1381,2655 1231,2573 551,2700"/>
+                <Baseline points="574,2742 743,2733 912,2724 1082,2715 1251,2705 1420,2696 1590,2687 1759,2679 1928,2670 2098,2663 2267,2656 2436,2649 2606,2643 2775,2639 2944,2636 3114,2633 3283,2631 3452,2631 3622,2633 3791,2635 3961,2639"/>
+                <TextEquiv>
+                    <Unicode>auf dem Riegel entlang auf ungeschicktem Wege hinüber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:15;}">
+                <Coords points="536,2983 1934,2832 2150,2951 2747,2805 2941,2912 3180,2791 3443,2904 3904,2832 3899,2676 530,2801"/>
+                <Baseline points="557,2891 723,2884 889,2876 1055,2868 1222,2861 1388,2853 1554,2845 1721,2837 1887,2830 2053,2823 2220,2816 2386,2811 2552,2805 2718,2800 2885,2796 3051,2793 3217,2790 3384,2789 3550,2789 3716,2789 3883,2791"/>
+                <TextEquiv>
+                    <Unicode>zum Liputi mit ewigem, ganz unnötigem Auf u. Ab.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:16;}">
+                <Coords points="552,3115 1405,3123 1846,2972 2111,3114 2503,2957 2996,3051 3894,2970 3923,2826 2935,2906 2606,2814 2139,2927 1802,2839 1343,2956 946,2875 547,2990"/>
+                <Baseline points="571,3063 737,3051 904,3041 1071,3029 1238,3019 1405,3010 1571,3001 1738,2993 1905,2984 2072,2977 2239,2971 2405,2965 2572,2960 2739,2955 2906,2951 3073,2948 3239,2945 3406,2943 3573,2942 3740,2942 3907,2942"/>
+                <TextEquiv>
+                    <Unicode>In gleichfalls gänzlich törichten Windungen über die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:17;}">
+                <Coords points="551,3335 1511,3173 1697,3279 1977,3129 2453,3241 2579,3141 2955,3231 3159,3123 4056,3133 3902,2961 3697,3047 3447,2952 543,3128"/>
+                <Baseline points="570,3224 743,3213 916,3202 1089,3191 1262,3182 1435,3172 1608,3162 1781,3153 1954,3144 2127,3137 2300,3129 2473,3122 2646,3116 2819,3111 2992,3106 3165,3103 3338,3100 3511,3098 3684,3097 3857,3098 4031,3099"/>
+                <TextEquiv>
+                    <Unicode>Plateaufläche des Liputi, dann jenseits statt in Serpentinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:18;}">
+                <Coords points="515,3399 1008,3485 1685,3319 2015,3421 3707,3283 3701,3162 3322,3119 2453,3241 1958,3138 1714,3288 1477,3216 1195,3316 508,3260"/>
+                <Baseline points="536,3373 693,3371 850,3367 1008,3362 1165,3355 1322,3348 1480,3339 1637,3331 1794,3322 1952,3313 2109,3304 2266,3295 2424,3287 2581,3279 2738,3271 2896,3265 3053,3260 3210,3256 3368,3253 3525,3253 3683,3254"/>
+                <TextEquiv>
+                    <Unicode>natürlich gradinig bergab, so daß der Weg mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:19;}">
+                <Coords points="533,3555 1968,3594 2209,3466 3902,3455 3897,3321 3526,3254 2008,3419 1692,3319 1066,3476 526,3399"/>
+                <Baseline points="554,3546 720,3537 886,3528 1052,3519 1218,3510 1385,3502 1551,3493 1717,3485 1883,3477 2049,3469 2216,3461 2382,3453 2548,3447 2714,3440 2880,3434 3047,3429 3213,3424 3379,3419 3545,3415 3711,3412 3878,3409"/>
+                <TextEquiv>
+                    <Unicode>Bachriß vorstellt, als sonst etwas. Über breites Neben„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:20;}">
+                <Coords points="535,3748 1131,3790 1243,3685 1821,3636 2837,3688 2958,3583 3374,3684 3791,3513 2899,3442 1966,3595 527,3575"/>
+                <Baseline points="553,3705 714,3697 875,3690 1036,3682 1197,3674 1358,3666 1519,3657 1680,3649 1841,3641 2002,3633 2163,3625 2324,3617 2485,3610 2646,3602 2807,3595 2968,3588 3129,3581 3290,3575 3451,3569 3612,3564 3773,3559"/>
+                <TextEquiv>
+                    <Unicode>tal des Nyangedi nach Ntatala, Lager aufgeschlagen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:21;}">
+                <Coords points="451,3927 3927,3772 3919,3590 444,3758"/>
+                <Baseline points="472,3870 643,3857 815,3845 986,3834 1158,3823 1329,3814 1501,3805 1672,3797 1844,3789 2015,3781 2187,3774 2358,3767 2530,3761 2701,3755 2873,3749 3044,3743 3216,3737 3387,3732 3559,3726 3730,3720 3902,3714"/>
+                <TextEquiv>
+                    <Unicode>Verpflegungsschwierigkeit, Leute hungrig u. störrisch, Karani</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:22;}">
+                <Coords points="515,4056 593,4055 684,4110 744,4106 797,4046 898,4000 999,4024 1049,3990 1234,4038 1222,3857 1121,3838 989,3938 896,3913 834,3957 690,3940 583,3969 508,3948"/>
+                <Baseline points="535,4011 568,4009 602,4006 636,4005 669,4002 703,4000 737,3998 770,3995 804,3993 838,3991 872,3989 905,3987 939,3984 973,3983 1006,3980 1040,3978 1074,3975 1107,3974 1141,3971 1175,3968 1209,3966"/>
+                <TextEquiv>
+                    <Unicode>ungewandt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:23;}">
+                <Coords points="721,4192 1614,4199 2133,4090 2372,4182 2807,4055 3028,4131 3673,4046 3666,3907 2624,3861 717,4106"/>
+                <Baseline points="742,4168 887,4159 1032,4149 1178,4139 1323,4131 1468,4122 1614,4114 1759,4106 1904,4098 2050,4090 2195,4083 2340,4076 2486,4069 2631,4062 2776,4055 2922,4049 3067,4042 3212,4036 3358,4030 3503,4024 3649,4018"/>
+                <TextEquiv>
+                    <Unicode>Wollte auf Engelhardt's Wege weiter, aber mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:24;}">
+                <Coords points="504,4348 3820,4200 3900,4058 497,4209"/>
+                <Baseline points="525,4301 692,4293 860,4285 1028,4277 1196,4268 1364,4259 1531,4250 1699,4240 1867,4230 2035,4221 2203,4212 2370,4203 2538,4195 2706,4187 2874,4179 3042,4173 3209,4168 3377,4163 3545,4160 3713,4158 3881,4157"/>
+                <TextEquiv>
+                    <Unicode>Trägern nicht mehr zu machen, ebenso an Ort u. Stelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:25;}">
+                <Coords points="499,4481 1483,4387 1643,4478 1816,4378 2189,4476 2711,4341 2907,4444 3884,4311 3878,4199 3595,4174 494,4373"/>
+                <Baseline points="522,4457 697,4446 873,4436 1049,4426 1224,4416 1400,4406 1576,4397 1752,4387 1927,4378 2103,4369 2279,4361 2455,4352 2630,4343 2806,4334 2982,4326 3158,4317 3333,4309 3509,4300 3685,4291 3861,4283"/>
+                <TextEquiv>
+                    <Unicode>alles so verwachsen, daß für geol. Interessen kein Raum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:26;}">
+                <Coords points="486,4658 1824,4643 1927,4541 2101,4627 2334,4614 2627,4506 2623,4428 2070,4473 1939,4380 1733,4487 1476,4389 1314,4503 476,4481"/>
+                <Baseline points="504,4608 614,4601 724,4594 835,4587 945,4581 1056,4574 1166,4566 1277,4560 1387,4553 1498,4546 1608,4539 1719,4532 1829,4526 1940,4521 2050,4515 2161,4510 2271,4505 2382,4500 2492,4496 2603,4493"/>
+                <TextEquiv>
+                    <Unicode>blieb. Temperatur recht angenehm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>105&#xD;
+die gewellte, gleichmäßige Fläche der Manihot-Kronen.&#xD;
+Schöne Einrichtung des geschickt, aber einfach gebauten&#xD;
+Häuschens, freundliche Aufnahme. Nachm. Gang durch die&#xD;
+Pflanzung. Hinter dem Haus ein auffälliger, krater„&#xD;
+förmiger Erosionskessel in der Halde vor dem Steil„&#xD;
+absturz:&#xD;
+23.II. Durch die Pflanzung auf die große Bucht zu, welche hier&#xD;
+durch Nyangedi u. Nyangao in d. Südteil des Rondo&#xD;
+hineingeschnitten ist. Zunächst ein unbedeutendes Tal&#xD;
+aufwärts, über dessen oberes Ende in's vielverzweigte,&#xD;
+aber schmale Lihimba-Tal, auch dieses quer aufwärts&#xD;
+überschritten, seitlich mit Steilanstieg auf die Wasser„&#xD;
+scheide gegen Nyangedi, aus Newala-Sandst. gebildet,&#xD;
+auf dem Riegel entlang auf ungeschicktem Wege hinüber&#xD;
+zum Liputi mit ewigem, ganz unnötigem Auf u. Ab.&#xD;
+In gleichfalls gänzlich törichten Windungen über die&#xD;
+Plateaufläche des Liputi, dann jenseits statt in Serpentinen&#xD;
+natürlich gradinig bergab, so daß der Weg mehr&#xD;
+Bachriß vorstellt, als sonst etwas. Über breites Neben„&#xD;
+tal des Nyangedi nach Ntatala, Lager aufgeschlagen.&#xD;
+Verpflegungsschwierigkeit, Leute hungrig u. störrisch, Karani&#xD;
+ungewandt.&#xD;
+Wollte auf Engelhardt's Wege weiter, aber mit&#xD;
+Trägern nicht mehr zu machen, ebenso an Ort u. Stelle&#xD;
+alles so verwachsen, daß für geol. Interessen kein Raum&#xD;
+blieb. Temperatur recht angenehm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

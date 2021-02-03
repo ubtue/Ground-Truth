@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:40.157+02:00</Created>
+        <LastChange>2020-04-02T16:18:48.685+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551020" pageNr="131" tsid="26894997" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=ITVVOAXSXQJTDENWBQLDXXOQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AOEVSCJMZHEFVCAPQSCZFSFM" imageId="4551898"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_131.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256507524" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:0;}">
+            <Coords points="407,243 407,4977 4021,4977 4021,243"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="3756,358 3805,355 3837,372 3863,366 3886,387 3908,377 3935,393 4018,371 4011,225 3948,219 3927,234 3918,225 3869,232 3855,220 3825,239 3798,227 3750,234"/>
+                <Baseline points="3779,329 3805,327 3832,325 3859,324 3886,323 3913,322 3940,321 3967,319 3994,315"/>
+                <TextEquiv>
+                    <Unicode>129</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:1;}">
+                <Coords points="405,445 3828,436 3712,299 1976,330 1772,225 1454,338 1051,247 405,321"/>
+                <Baseline points="427,412 590,408 754,404 918,401 1082,400 1246,399 1409,398 1573,398 1737,399 1901,399 2065,400 2228,400 2392,401 2556,401 2720,400 2884,399 3047,397 3211,395 3375,391 3539,386 3806,374"/>
+                <TextEquiv>
+                    <Unicode>22. April: Schickte d. Leute zum Jumben nahe d. vorjährigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:2;}">
+                <Coords points="436,612 1950,548 2116,665 3809,532 3692,414 2861,487 2248,392 1759,517 960,421 718,523 433,430"/>
+                <Baseline points="457,564 610,565 763,565 916,565 1070,565 1223,564 1376,563 1530,561 1683,559 1836,556 1990,553 2143,550 2296,547 2449,544 2603,540 2756,536 2909,533 3063,529 3216,525 3369,521 3788,502"/>
+                <TextEquiv>
+                    <Unicode>Lager bei km. 118 voraus, 2 fundi's in den Kinkelin'schen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:3;}">
+                <Coords points="388,774 3080,801 3433,680 3722,778 3888,616 385,597"/>
+                <Baseline points="407,718 579,720 752,722 925,722 1098,721 1271,720 1444,718 1617,715 1790,712 1963,709 2136,705 2308,702 2481,698 2654,694 2827,691 3000,688 3173,685 3346,683 3519,682 3692,682 3865,682"/>
+                <TextEquiv>
+                    <Unicode>Steinbruch, u. machte selbst einen Abstecher nach N. 2 Tage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l5" custom="readingOrder {index:4;}">
+                <Coords points="438,953 4010,872 3905,714 3030,787 2833,689 2631,803 2041,716 436,834"/>
+                <Baseline points="459,896 635,892 812,887 988,882 1165,878 1341,873 1518,869 1694,864 1871,860 2047,856 2224,852 2400,849 2577,846 2753,843 2930,841 3106,839 3283,838 3459,837 3636,837 3812,838 3989,839"/>
+                <TextEquiv>
+                    <Unicode>darauf zu verwenden schien mir bei den anscheinend gleich„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l6" custom="readingOrder {index:5;}">
+                <Coords points="418,1091 3782,1037 3963,985 3960,839 3727,936 3425,848 3121,946 2955,852 2275,974 415,949"/>
+                <Baseline points="441,1046 616,1043 791,1040 966,1036 1141,1033 1316,1030 1491,1026 1666,1023 1841,1019 2016,1015 2191,1012 2366,1009 2541,1005 2716,1002 2891,999 3066,997 3241,995 3416,993 3591,991 3766,990 3942,990"/>
+                <TextEquiv>
+                    <Unicode>bleibenden Schichten u. den mäßigen Erfolgen Bornhardt's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l7" custom="readingOrder {index:6;} unclear {offset:56; length:5;}">
+                <Coords points="435,1314 3992,1179 4016,1046 431,1159"/>
+                <Baseline points="455,1202 629,1200 804,1197 978,1194 1153,1191 1327,1187 1502,1184 1676,1180 1851,1176 2025,1172 2200,1168 2374,1163 2549,1159 2723,1154 2898,1150 3072,1145 3247,1141 3421,1136 3596,1131 3770,1126 3995,1113"/>
+                <TextEquiv>
+                    <Unicode>nicht angebracht, doch hatte dieser zwischen Nsundo- u. Gumba-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l8" custom="readingOrder {index:7;}">
+                <Coords points="439,1456 3977,1275 3512,1140 434,1314"/>
+                <Baseline points="460,1380 634,1370 809,1362 984,1354 1159,1348 1333,1341 1508,1335 1683,1330 1858,1325 2032,1321 2207,1316 2382,1311 2557,1306 2731,1302 2906,1295 3081,1290 3256,1283 3430,1275 3605,1266 3780,1257 3955,1246"/>
+                <TextEquiv>
+                    <Unicode>Bach einige Fossilfunde gemacht u. ich wollte Anschluß an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l9" custom="readingOrder {index:8;}">
+                <Coords points="451,1656 1325,1548 2270,1612 2660,1475 3681,1549 3948,1448 3709,1309 445,1457"/>
+                <Baseline points="470,1540 642,1538 815,1535 988,1531 1161,1526 1334,1521 1506,1515 1679,1509 1852,1503 2025,1496 2198,1489 2370,1482 2543,1476 2716,1470 2889,1464 3062,1459 3234,1455 3407,1451 3580,1449 3753,1447 3926,1447"/>
+                <TextEquiv>
+                    <Unicode>sein Profil finden. Durch dichtes Gras über den Kugu-Bach zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l10" custom="readingOrder {index:9;}">
+                <Coords points="459,1745 901,1701 1090,1793 1379,1678 1642,1759 2635,1627 3257,1702 3610,1643 3606,1510 456,1648"/>
+                <Baseline points="481,1696 636,1695 791,1692 946,1689 1101,1686 1257,1682 1412,1678 1567,1673 1722,1668 1877,1663 2033,1658 2188,1653 2343,1648 2498,1642 2653,1637 2809,1632 2964,1628 3119,1623 3274,1619 3429,1616 3585,1613"/>
+                <TextEquiv>
+                    <Unicode>dem alten Jumben, der mir damals die reizende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l11" custom="readingOrder {index:10;}">
+                <Coords points="480,1910 1151,1962 1479,1835 2965,1773 3877,1878 3915,1566 3273,1718 2588,1636 2215,1751 476,1791"/>
+                <Baseline points="499,1856 667,1860 836,1862 1004,1861 1173,1858 1342,1855 1510,1849 1679,1842 1848,1834 2016,1826 2185,1818 2354,1809 2522,1801 2691,1793 2860,1785 3028,1779 3197,1773 3366,1769 3534,1767 3703,1766 3901,1773"/>
+                <TextEquiv>
+                    <Unicode>Ukhwere-ngoma zeigte. Da alle Leute im Felde beschäftigt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l12" custom="readingOrder {index:11;}">
+                <Coords points="480,2110 2027,1998 2331,2102 3266,1960 3623,2053 3898,1896 475,1906"/>
+                <Baseline points="499,2009 676,2012 854,2013 1032,2012 1210,2010 1388,2006 1566,2002 1743,1997 1921,1991 2099,1985 2277,1980 2455,1974 2633,1968 2810,1963 2988,1958 3166,1954 3344,1952 3522,1950 3700,1950 3878,1952"/>
+                <TextEquiv>
+                    <Unicode>führte er mich selbst. Nach 1½ Std. hatte ich nur an wenigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l13" custom="readingOrder {index:12;}">
+                <Coords points="472,2252 2755,2138 3483,2232 3954,2070 2928,1979 2665,2091 591,2032 470,2128"/>
+                <Baseline points="493,2178 674,2179 855,2180 1036,2179 1217,2177 1398,2174 1579,2171 1760,2167 1941,2162 2122,2157 2303,2152 2484,2147 2665,2142 2846,2136 3027,2131 3208,2126 3389,2122 3570,2118 3751,2114 3932,2112"/>
+                <TextEquiv>
+                    <Unicode>Stellen die immer gleichen braunen Sandsteine gesehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l14" custom="readingOrder {index:13;} unclear {offset:6; length:5;}">
+                <Coords points="475,2399 2672,2407 3422,2293 3814,2383 3915,2372 3912,2186 472,2253"/>
+                <Baseline points="496,2352 665,2347 835,2342 1005,2338 1175,2333 1345,2329 1515,2325 1684,2321 1854,2318 2024,2314 2194,2311 2364,2307 2534,2304 2704,2301 2873,2298 3043,2294 3213,2292 3383,2289 3553,2285 3723,2282 3893,2279"/>
+                <TextEquiv>
+                    <Unicode>u. d. Gumba war noch nicht erreicht. Dort vermutete ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l15" custom="readingOrder {index:14;}">
+                <Coords points="466,2528 893,2595 1210,2496 1367,2595 2090,2469 3385,2524 3627,2443 2823,2322 2656,2410 1565,2329 464,2400"/>
+                <Baseline points="486,2506 642,2499 798,2492 954,2487 1110,2482 1266,2477 1422,2474 1578,2471 1734,2468 1890,2466 2046,2463 2202,2461 2358,2459 2514,2457 2670,2455 2826,2452 2982,2450 3138,2446 3294,2442 3450,2437 3606,2432"/>
+                <TextEquiv>
+                    <Unicode>aber erst d. Hälfte des Weges u. wollte lieber zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l16" custom="readingOrder {index:15;}">
+                <Coords points="461,2708 3825,2638 3770,2533 2721,2572 2404,2474 1371,2606 458,2566"/>
+                <Baseline points="483,2674 648,2670 814,2666 980,2661 1146,2657 1312,2653 1478,2648 1644,2644 1810,2640 1976,2635 2142,2631 2307,2627 2473,2622 2639,2618 2805,2614 2971,2611 3137,2607 3303,2604 3469,2600 3635,2597 3801,2594"/>
+                <TextEquiv>
+                    <Unicode>Kinkelin-Bruch umkehren. Hörte jedoch, daß ich auf einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l17" custom="readingOrder {index:16;}">
+                <Coords points="466,2906 3785,2775 3689,2675 2143,2663 462,2756"/>
+                <Baseline points="489,2856 652,2847 816,2839 980,2831 1143,2824 1307,2817 1471,2812 1634,2806 1798,2802 1962,2797 2126,2793 2289,2789 2453,2785 2617,2782 2780,2779 2944,2777 3108,2774 3271,2772 3435,2769 3599,2767 3763,2765"/>
+                <TextEquiv>
+                    <Unicode>östlicheren Wege zurückgehen könnte, was mir wegen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l18" custom="readingOrder {index:17;}">
+                <Coords points="504,3031 2267,3048 2743,2939 3905,3032 3963,2827 1315,2861 1176,2953 730,2848 503,2978"/>
+                <Baseline points="528,3020 698,3015 869,3009 1040,3002 1211,2996 1382,2988 1553,2980 1724,2973 1895,2965 2066,2959 2237,2953 2407,2947 2578,2943 2749,2940 2920,2938 3091,2937 3262,2939 3433,2942 3604,2947 3775,2955 3946,2965"/>
+                <TextEquiv>
+                    <Unicode>im Norden v. Bornh. eingetragenen Kreidezone (Cenoman)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l19" custom="readingOrder {index:18;}">
+                <Coords points="479,3193 957,3303 1815,3140 2235,3239 2758,3112 3814,3179 3810,3024 3543,2992 476,3091"/>
+                <Baseline points="500,3180 671,3178 843,3174 1014,3169 1186,3164 1357,3158 1529,3151 1700,3145 1872,3137 2043,3131 2215,3124 2386,3117 2558,3112 2729,3107 2901,3103 3072,3100 3244,3098 3415,3097 3587,3098 3788,3108"/>
+                <TextEquiv>
+                    <Unicode>von Wichtigkeit war. Der Abstecher war sehr ergebnisreich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l20" custom="readingOrder {index:19;}">
+                <Coords points="501,3321 1084,3438 1719,3313 3659,3308 3655,3197 2635,3142 499,3272"/>
+                <Baseline points="524,3334 679,3332 835,3330 990,3327 1146,3322 1302,3318 1457,3313 1613,3307 1768,3302 1924,3296 2080,3291 2235,3285 2391,3280 2546,3275 2702,3271 2858,3267 3013,3264 3169,3262 3324,3261 3480,3261 3636,3262"/>
+                <TextEquiv>
+                    <Unicode>zumal mich der gute Alte sehr verständig noch zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l21" custom="readingOrder {index:20;}">
+                <Coords points="541,3518 1146,3610 1382,3500 3018,3426 3694,3503 3931,3429 3926,3278 537,3421"/>
+                <Baseline points="562,3478 729,3484 896,3489 1063,3490 1231,3491 1398,3489 1565,3486 1732,3482 1900,3477 2067,3471 2234,3464 2401,3456 2569,3449 2736,3441 2903,3433 3070,3426 3238,3418 3405,3411 3572,3406 3739,3401 3907,3397"/>
+                <TextEquiv>
+                    <Unicode>Sude-Bache führte, wo er große Felsblöcke wußte. Auf d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l22" custom="readingOrder {index:21;}">
+                <Coords points="452,3668 932,3753 1231,3628 1560,3729 1806,3618 3773,3647 3770,3509 3266,3553 3070,3437 2549,3548 2153,3466 1730,3580 451,3579"/>
+                <Baseline points="472,3635 635,3637 799,3638 963,3637 1127,3636 1291,3634 1455,3632 1618,3629 1782,3625 1946,3621 2110,3618 2274,3614 2438,3610 2602,3606 2765,3603 2929,3600 3093,3597 3257,3595 3421,3594 3585,3594 3749,3594"/>
+                <TextEquiv>
+                    <Unicode>Wege nach O. fand sich innerhalb der Plateauhöhe, die mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l23" custom="readingOrder {index:22;}">
+                <Coords points="497,3926 1380,3790 3427,3859 3921,3768 3919,3666 492,3700"/>
+                <Baseline points="516,3820 685,3811 854,3803 1023,3795 1192,3788 1361,3782 1530,3777 1699,3771 1868,3767 2037,3763 2206,3759 2375,3756 2544,3753 2713,3750 2882,3748 3051,3746 3220,3744 3389,3742 3558,3741 3727,3739 3897,3738"/>
+                <TextEquiv>
+                    <Unicode>schönem lichten Wald u. hüft- bis brusthohem Grase bestanden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l24" custom="readingOrder {index:23;}">
+                <Coords points="463,4002 3745,4038 4044,3875 811,3817 462,3927"/>
+                <Baseline points="485,3971 661,3969 838,3968 1015,3966 1192,3963 1369,3961 1545,3959 1722,3957 1899,3955 2076,3952 2253,3950 2429,3948 2606,3946 2783,3944 2960,3942 3137,3941 3313,3940 3490,3938 3667,3938 3844,3937 4021,3937"/>
+                <TextEquiv>
+                    <Unicode>war (herrliches Jagdrevier, aber leider fast ohne Wild), eine größere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l25" custom="readingOrder {index:24;} structure {type:marginalia;}">
+                <Coords points="761,4051 837,4049 854,4067 876,4063 919,4105 987,4062 1043,4099 1075,4073 1097,4074 1100,3968 1034,3966 998,3987 950,3968 927,3990 888,3962 852,3979 830,3965 816,3978 799,3968 763,3981"/>
+                <Baseline points="784,4044 810,4046 837,4047 863,4048 890,4048 917,4048 943,4048 970,4049 997,4049 1023,4051 1050,4053 1077,4056"/>
+                <TextEquiv>
+                    <Unicode>Eryma!!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l26" custom="readingOrder {index:25;}">
+                <Coords points="470,4177 3914,4112 3345,3966 469,4049"/>
+                <Baseline points="490,4141 660,4135 830,4130 1000,4126 1170,4122 1340,4119 1510,4116 1680,4115 1850,4113 2020,4111 2190,4110 2360,4108 2530,4107 2700,4105 2870,4103 3040,4100 3210,4096 3380,4093 3550,4088 3720,4082 3891,4075"/>
+                <TextEquiv>
+                    <Unicode>Schnecke in vereinzelter Kalkknolle, darunter feste gut-plattende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l27" custom="readingOrder {index:26;}">
+                <Coords points="475,4331 3946,4266 3943,4142 2428,4095 473,4207"/>
+                <Baseline points="497,4287 668,4286 839,4284 1010,4282 1182,4279 1353,4276 1524,4273 1696,4270 1867,4266 2038,4263 2210,4259 2381,4256 2552,4252 2723,4248 2895,4245 3066,4242 3237,4238 3409,4236 3580,4233 3751,4231 3923,4229"/>
+                <TextEquiv>
+                    <Unicode>Sandsteine, darunter ein Gestein erfüllt mit kleinen Austern, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l28" custom="readingOrder {index:27;}">
+                <Coords points="490,4525 3704,4486 3877,4292 487,4406"/>
+                <Baseline points="510,4459 677,4456 844,4454 1012,4452 1179,4450 1347,4447 1514,4445 1682,4443 1849,4440 2017,4438 2184,4435 2351,4432 2519,4429 2686,4425 2854,4421 3021,4417 3189,4413 3356,4408 3524,4403 3691,4396 3859,4390"/>
+                <TextEquiv>
+                    <Unicode>auch meine fundi's inzwischen bei km 121 ausbeuteten, zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l29" custom="readingOrder {index:28;}">
+                <Coords points="426,4611 826,4719 1085,4612 1543,4710 2918,4583 3659,4676 3906,4605 3904,4481 1764,4449 425,4571"/>
+                <Baseline points="447,4616 618,4616 790,4615 962,4614 1134,4612 1306,4610 1478,4607 1650,4605 1822,4602 1994,4599 2166,4595 2337,4592 2509,4588 2681,4584 2853,4581 3025,4576 3197,4573 3369,4569 3541,4565 3713,4561 3885,4557"/>
+                <TextEquiv>
+                    <Unicode>unterst in dem nach WNW abfließenden (trocknen) Sude große</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l30" custom="readingOrder {index:29;}">
+                <Coords points="403,4840 2635,4849 3252,4734 3990,4828 3986,4678 3781,4620 400,4717"/>
+                <Baseline points="424,4782 601,4784 778,4784 955,4783 1132,4780 1309,4777 1486,4773 1663,4769 1840,4764 2017,4759 2194,4753 2371,4748 2548,4743 2725,4738 2902,4734 3079,4730 3256,4726 3433,4724 3610,4723 3787,4723 3965,4725"/>
+                <TextEquiv>
+                    <Unicode>Sandsteinblöcke, leer aber vielfach mit Löchern wie von herausge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l31" custom="readingOrder {index:30;}">
+                <Coords points="430,4955 2118,5000 2319,4897 2654,4992 2846,4898 3114,4994 3320,4883 3632,4987 3628,4814 3334,4745 2597,4856 2383,4776 1987,4879 427,4862"/>
+                <Baseline points="451,4923 608,4931 766,4936 924,4939 1082,4941 1240,4940 1398,4939 1556,4936 1714,4932 1872,4927 2030,4922 2187,4916 2345,4909 2503,4903 2661,4897 2819,4892 2977,4887 3135,4883 3293,4879 3451,4877 3609,4877"/>
+                <TextEquiv>
+                    <Unicode>witterten Belemniten durchsetzt. Am rechten Ufer fand ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>129&#xD;
+22. April: Schickte d. Leute zum Jumben nahe d. vorjährigen&#xD;
+Lager bei km. 118 voraus, 2 fundi's in den Kinkelin'schen&#xD;
+Steinbruch, u. machte selbst einen Abstecher nach N. 2 Tage&#xD;
+darauf zu verwenden schien mir bei den anscheinend gleich„&#xD;
+bleibenden Schichten u. den mäßigen Erfolgen Bornhardt's&#xD;
+nicht angebracht, doch hatte dieser zwischen Nsundo- u. Gumba-&#xD;
+Bach einige Fossilfunde gemacht u. ich wollte Anschluß an&#xD;
+sein Profil finden. Durch dichtes Gras über den Kugu-Bach zu&#xD;
+dem alten Jumben, der mir damals die reizende&#xD;
+Ukhwere-ngoma zeigte. Da alle Leute im Felde beschäftigt,&#xD;
+führte er mich selbst. Nach 1½ Std. hatte ich nur an wenigen&#xD;
+Stellen die immer gleichen braunen Sandsteine gesehen&#xD;
+u. d. Gumba war noch nicht erreicht. Dort vermutete ich&#xD;
+aber erst d. Hälfte des Weges u. wollte lieber zum&#xD;
+Kinkelin-Bruch umkehren. Hörte jedoch, daß ich auf einem&#xD;
+östlicheren Wege zurückgehen könnte, was mir wegen der&#xD;
+im Norden v. Bornh. eingetragenen Kreidezone (Cenoman)&#xD;
+von Wichtigkeit war. Der Abstecher war sehr ergebnisreich,&#xD;
+zumal mich der gute Alte sehr verständig noch zum&#xD;
+Sude-Bache führte, wo er große Felsblöcke wußte. Auf d.&#xD;
+Wege nach O. fand sich innerhalb der Plateauhöhe, die mit&#xD;
+schönem lichten Wald u. hüft- bis brusthohem Grase bestanden&#xD;
+war (herrliches Jagdrevier, aber leider fast ohne Wild), eine größere&#xD;
+Eryma!!&#xD;
+Schnecke in vereinzelter Kalkknolle, darunter feste gut-plattende&#xD;
+Sandsteine, darunter ein Gestein erfüllt mit kleinen Austern, das&#xD;
+auch meine fundi's inzwischen bei km 121 ausbeuteten, zu&#xD;
+unterst in dem nach WNW abfließenden (trocknen) Sude große&#xD;
+Sandsteinblöcke, leer aber vielfach mit Löchern wie von herausge„&#xD;
+witterten Belemniten durchsetzt. Am rechten Ufer fand ich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:55.413+02:00</Created>
+        <LastChange>2020-04-01T09:12:02.354+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550748" pageNr="50" tsid="26820256" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=JFLYFECIZTAOYOFRHBOMNSDZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UXFAQDGPMNMOSZVRQTAAUUOX" imageId="4551626"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_050.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255545217" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582887339070_1939"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582887339070_1939" custom="readingOrder {index:0;}">
+            <Coords points="442,204 552,204 4029,276 4029,4937 453,4937 442,362"/>
+            <TextLine id="TextRegion_1582887339070_1939l1" custom="readingOrder {index:0;}">
+                <Coords points="423,334 511,344 542,323 550,332 572,332 575,210 540,209 522,222 492,199 474,212 426,211"/>
+                <Baseline points="446,308 472,306 498,307 524,309 550,308"/>
+                <TextEquiv>
+                    <Unicode>46</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l2" custom="readingOrder {index:1;}">
+                <Coords points="574,450 814,477 881,436 969,496 1146,500 1223,420 1311,471 1435,426 1514,478 1820,393 1810,262 1652,274 1472,217 1254,242 1149,307 915,293 766,366 564,310"/>
+                <Baseline points="597,436 762,414 813,414 865,413 916,412 968,410 1020,406 1071,404 1123,400 1174,397 1226,392 1278,388 1329,383 1381,380 1432,374 1484,369 1536,364 1587,359 1639,355 1690,349 1742,346 1794,340"/>
+                <TextEquiv>
+                    <Unicode>don-artiges Gestein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l3" custom="readingOrder {index:2;}">
+                <Coords points="534,615 669,601 752,649 852,576 945,653 1082,591 1394,650 1597,530 1699,616 1760,607 1746,402 1510,479 1450,435 1195,447 1128,496 874,443 715,502 524,462"/>
+                <Baseline points="554,592 602,590 650,588 698,586 746,582 794,579 842,576 890,573 938,568 986,565 1035,561 1083,557 1131,554 1179,550 1227,548 1275,545 1323,542 1371,539 1419,538 1467,536 1516,536 1555,521 1633,521 1734,517"/>
+                <TextEquiv>
+                    <Unicode>Bröselige Sandsteine,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887412966_1955" custom="readingOrder {index:3;}">
+                <Coords points="533,800 1113,673 2130,775 2723,647 3945,689 3941,558 3508,461 528,612"/>
+                <Baseline points="554,720 580,720 606,720 632,718 658,718 684,717 710,714 736,714 762,712 788,709 815,707 841,705 867,703 893,701 919,698 945,696 971,694 997,692 1023,689 1050,686 1718,674 1828,674 1938,674 2048,672 2158,670 2269,666 2379,663 2489,658 2599,654 2709,648 2820,644 2930,640 3040,635 3150,630 3260,626 3371,622 3481,620 3591,618 3701,616 3811,616 3922,616"/>
+                <TextEquiv>
+                    <Unicode>Weiße „ „ (d. einzige, was allenfalls an Saurier„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l6" custom="readingOrder {index:4;}">
+                <Coords points="1407,960 1998,828 2782,880 3339,777 3468,880 3589,768 3815,805 3807,647 3068,712 2626,651 2442,753 1991,785 1394,714"/>
+                <Baseline points="1424,868 1522,852 1634,850 1746,848 1858,843 1970,837 2082,832 2194,823 2306,815 2418,808 2530,800 2643,792 2755,784 2867,776 2979,771 3091,765 3203,760 3315,758 3427,756 3539,756 3651,758 3764,762 3792,757"/>
+                <TextEquiv>
+                    <Unicode>schichten erinnern könnte, wäre nicht die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l7" custom="readingOrder {index:5;}">
+                <Coords points="1418,1055 2451,982 2801,1076 3043,967 3329,966 3399,845 2942,834 2747,902 2617,814 1914,925 1578,874 1414,954"/>
+                <Baseline points="1438,1010 1531,1008 1625,1005 1718,1003 1812,1001 1906,998 1999,996 2093,994 2186,991 2280,988 2374,986 2467,982 2561,980 2654,976 2748,972 2842,969 2935,965 3029,962 3122,957 3216,953 3310,948 3381,942"/>
+                <TextEquiv>
+                    <Unicode>Buschvegetation so verschieden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l8" custom="readingOrder {index:6;}">
+                <Coords points="583,1186 1480,1276 1680,1175 1928,1266 2605,1155 3892,1198 3887,956 3371,1051 3062,961 2718,1100 2400,993 581,1080"/>
+                <Baseline points="606,1186 765,1184 924,1182 1083,1178 1243,1176 1402,1172 1561,1168 1721,1164 1880,1160 2039,1154 2199,1150 2358,1146 2517,1142 2676,1138 2836,1134 2995,1132 3154,1130 3314,1128 3473,1126 3632,1126 3792,1128 3870,1125"/>
+                <TextEquiv>
+                    <Unicode>im Tale zwischen d. Schamben ferner Trigonien-Schicht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l9" custom="readingOrder {index:7;}">
+                <Coords points="584,1463 2125,1300 2281,1392 2413,1326 2548,1375 2693,1313 2684,1160 1881,1263 1722,1180 1539,1280 1185,1240 1006,1331 573,1283"/>
+                <Baseline points="602,1396 705,1392 808,1387 912,1380 1015,1374 1119,1367 1222,1360 1325,1353 1429,1345 1532,1338 1636,1330 1739,1322 1842,1314 1946,1308 2049,1302 2153,1296 2256,1292 2359,1287 2463,1284 2566,1282 2670,1282"/>
+                <TextEquiv>
+                    <Unicode>nirgends eine Spur von Gneiß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l10" custom="readingOrder {index:8;}">
+                <Coords points="833,1569 1085,1509 1498,1613 1664,1504 1913,1567 3056,1399 3215,1506 3395,1401 3925,1478 3917,1311 3602,1242 828,1472"/>
+                <Baseline points="852,1534 1004,1525 1156,1514 1308,1506 1461,1496 1613,1486 1765,1476 1918,1468 2070,1459 2222,1451 2375,1444 2527,1436 2679,1429 2831,1422 2984,1418 3136,1412 3288,1408 3441,1404 3593,1402 3745,1400 3898,1400"/>
+                <TextEquiv>
+                    <Unicode>Am Fuße stellte sich leider heraus, daß wir den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l11" custom="readingOrder {index:9;}">
+                <Coords points="503,1800 732,1732 1083,1849 1392,1683 1597,1784 1870,1651 2141,1765 2736,1584 3816,1560 3667,1443 2589,1427 1498,1615 489,1581"/>
+                <Baseline points="524,1754 687,1742 851,1727 1014,1712 1178,1698 1342,1683 1505,1667 1669,1653 1832,1638 1996,1624 2160,1609 2323,1598 2487,1586 2650,1576 2814,1568 2978,1561 3141,1556 3305,1554 3468,1554 3632,1556 3796,1562"/>
+                <TextEquiv>
+                    <Unicode>Akiden heut nicht mehr erreichen konnten u. vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l12" custom="readingOrder {index:10;}">
+                <Coords points="549,1996 1099,1889 1340,1995 1489,1860 1809,1841 2044,1925 2215,1798 3018,1720 3271,1803 3866,1706 3854,1535 1683,1696 1585,1792 1090,1705 537,1839"/>
+                <Baseline points="562,1904 726,1900 890,1893 1054,1885 1218,1875 1383,1862 1547,1849 1711,1835 1875,1819 2039,1803 2204,1787 2368,1773 2532,1758 2696,1744 2860,1731 3025,1720 3189,1712 3353,1706 3517,1702 3681,1700 3846,1704"/>
+                <TextEquiv>
+                    <Unicode>ihm kein Dorf weiter zu erwarten war, so daß ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l13" custom="readingOrder {index:11;}">
+                <Coords points="516,2222 895,2056 2093,2073 2204,1971 2497,2059 2793,1899 3148,1999 3848,1945 3838,1818 3567,1725 3266,1810 3017,1723 2512,1859 2257,1796 2047,1927 498,1986"/>
+                <Baseline points="530,2094 694,2088 859,2080 1023,2071 1188,2058 1353,2045 1517,2030 1682,2014 1846,1998 2011,1980 2176,1963 2340,1947 2505,1931 2669,1918 2834,1906 2999,1895 3163,1886 3328,1882 3492,1878 3657,1880 3822,1886"/>
+                <TextEquiv>
+                    <Unicode>schon hier nach nur 3-stüBndigem Marsch d. Lager</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l14" custom="readingOrder {index:12;}">
+                <Coords points="509,2337 843,2390 1218,2224 1388,2316 1680,2170 2586,2112 2962,2184 3116,2070 3732,2123 3719,1961 2761,1926 2088,2094 1480,2031 1158,2189 892,2060 500,2214"/>
+                <Baseline points="526,2276 685,2268 844,2259 1003,2246 1162,2233 1321,2219 1480,2205 1639,2190 1798,2173 1957,2159 2116,2142 2275,2128 2434,2114 2593,2100 2752,2089 2911,2079 3070,2070 3229,2064 3388,2061 3547,2060 3706,2062"/>
+                <TextEquiv>
+                    <Unicode>errichten mußte (eim Karani). Ich wurde durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l15" custom="readingOrder {index:13;}">
+                <Coords points="529,2466 1953,2435 2411,2275 2582,2376 2783,2249 3436,2329 3663,2187 4047,2266 4030,2052 3647,2158 3275,2073 521,2366"/>
+                <Baseline points="552,2460 725,2445 899,2428 1072,2409 1246,2392 1419,2374 1593,2355 1766,2336 1940,2317 2113,2300 2287,2282 2460,2267 2634,2252 2807,2238 2981,2228 3154,2218 3328,2212 3501,2208 3675,2206 3848,2208 4022,2214"/>
+                <TextEquiv>
+                    <Unicode>anscheinend treffliche Jagdaussichten entschädigt, brachte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l16" custom="readingOrder {index:14;}">
+                <Coords points="539,2628 2485,2523 3290,2347 4034,2401 4022,2253 3873,2212 526,2466"/>
+                <Baseline points="560,2608 732,2596 905,2583 1077,2570 1250,2554 1422,2538 1595,2521 1767,2504 1940,2487 2112,2470 2285,2454 2457,2438 2630,2423 2802,2408 2975,2397 3147,2384 3320,2375 3492,2366 3665,2361 3837,2358 4010,2356"/>
+                <TextEquiv>
+                    <Unicode>aber bis Mittag nur 1 Taube zur Strecke ein Putuka</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l17" custom="readingOrder {index:15;}">
+                <Coords points="569,2784 1047,2859 1163,2726 1704,2765 1984,2640 2428,2740 2884,2557 3877,2594 3861,2392 3289,2347 3097,2478 1860,2584 1673,2499 1311,2652 562,2692"/>
+                <Baseline points="591,2764 753,2758 940,2746 1085,2734 1231,2720 1376,2705 1522,2691 1667,2675 1813,2660 1958,2644 2104,2630 2249,2616 2395,2601 2540,2589 2686,2576 2831,2565 2977,2556 3122,2548 3268,2540 3413,2536 3559,2532 3704,2532 3850,2532"/>
+                <TextEquiv>
+                    <Unicode>entging mir trotz günstigster Umstände, da ich nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l18" custom="readingOrder {index:16;}">
+                <Coords points="588,3035 845,2951 938,3009 1308,2857 1823,2802 2120,2833 2104,2653 1649,2778 1327,2727 1234,2824 841,2757 565,2782"/>
+                <Baseline points="602,2933 652,2928 724,2921 796,2915 868,2908 940,2902 1012,2896 1084,2889 1156,2884 1228,2876 1300,2870 1373,2865 1445,2857 1517,2851 1589,2845 1661,2840 1733,2831 1805,2826 1877,2819 1949,2811 2021,2805 2094,2798"/>
+                <TextEquiv>
+                    <Unicode>Zeit zum Zielen hatte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l19" custom="readingOrder {index:17;}">
+                <Coords points="799,3164 1289,3031 1509,3127 3060,2948 3696,3032 3808,2987 3802,2843 3477,2753 3060,2865 2439,2815 2212,2944 789,2950"/>
+                <Baseline points="816,3050 964,3046 1112,3040 1260,3036 1409,3030 1557,3024 1705,3017 1854,3010 2002,3003 2150,2995 2299,2988 2447,2980 2595,2972 2743,2964 2892,2957 3040,2950 3188,2942 3337,2936 3485,2930 3633,2924 3782,2920"/>
+                <TextEquiv>
+                    <Unicode>Hier, wie auch gestern u. in Matapua d. Wamachinga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l20" custom="readingOrder {index:18;}">
+                <Coords points="509,3249 3816,3150 3871,2910 3017,3055 2552,2979 505,3157"/>
+                <Baseline points="530,3218 696,3210 862,3204 1029,3196 1195,3189 1362,3181 1528,3173 1694,3165 1861,3156 2027,3149 2194,3140 2360,3132 2526,3125 2693,3116 2859,3109 3026,3102 3192,3095 3358,3088 3525,3082 3691,3076 3858,3070"/>
+                <TextEquiv>
+                    <Unicode>vertreten, neben Yao's u. drüben Muëra, auch Wandonde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887462786_1968" custom="readingOrder {index:19;}">
+                <Coords points="525,3352 1230,3423 1516,3315 3735,3259 3730,3110 521,3265"/>
+                <Baseline points="546,3334 636,3329 726,3326 817,3322 907,3320 998,3320 1088,3318 1178,3318 1269,3318 1359,3318 1450,3318 1540,3318 1630,3316 1721,3314 1811,3313 1902,3310 1992,3306 2082,3300 2173,3295 2263,3286 2354,3276 2880,3254 2921,3253 2963,3250 3005,3246 3046,3244 3088,3242 3130,3240 3171,3240 3213,3238 3255,3236 3297,3235 3338,3234 3380,3234 3422,3232 3463,3231 3505,3230 3547,3230 3588,3229 3630,3228 3672,3228 3714,3228"/>
+                <TextEquiv>
+                    <Unicode>meist reichlich. D. Eingebornen betonen d. Unterschiede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l23" custom="readingOrder {index:20;}">
+                <Coords points="503,3504 3968,3411 3964,3288 3532,3223 499,3368"/>
+                <Baseline points="524,3466 695,3464 866,3460 1037,3458 1208,3454 1379,3450 1550,3445 1721,3440 1892,3435 2063,3430 2235,3424 2406,3418 2577,3412 2748,3406 2919,3399 3090,3393 3261,3387 3432,3380 3603,3373 3774,3366 3946,3360"/>
+                <TextEquiv>
+                    <Unicode>viel schärfer als physiologisch od. psychologisch zu rechtfertigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l24" custom="readingOrder {index:21;}">
+                <Coords points="505,3634 896,3698 1903,3542 3914,3629 3959,3387 3763,3486 3182,3390 503,3538"/>
+                <Baseline points="526,3614 696,3605 867,3596 1037,3588 1208,3580 1379,3574 1549,3568 1720,3562 1890,3559 2061,3556 2232,3552 2402,3550 2573,3549 2743,3548 2914,3548 3085,3548 3255,3550 3426,3550 3596,3552 3767,3556 3938,3558"/>
+                <TextEquiv>
+                    <Unicode>ist. Dicht bei meinem Zelt im Wasserriß Baumkakteen (?),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l25" custom="readingOrder {index:22;}">
+                <Coords points="487,3782 1668,3820 1828,3703 2646,3797 2772,3706 3045,3793 3311,3678 3865,3759 3862,3610 3379,3558 484,3637"/>
+                <Baseline points="506,3742 670,3740 835,3738 999,3734 1164,3732 1329,3728 1493,3724 1658,3720 1822,3716 1987,3712 2152,3708 2316,3704 2481,3701 2645,3698 2810,3694 2975,3692 3139,3690 3304,3688 3468,3688 3633,3686 3840,3679"/>
+                <TextEquiv>
+                    <Unicode>d. mir Verwandtschaft m. Palmen zu zeigen scheinen?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l26" custom="readingOrder {index:23;}">
+                <Coords points="495,3946 3991,3848 3988,3699 3312,3680 3103,3784 492,3779"/>
+                <Baseline points="516,3890 688,3880 861,3872 1034,3865 1206,3860 1379,3858 1552,3856 1724,3854 1897,3854 2070,3852 2243,3852 2415,3852 2588,3851 2761,3850 2933,3848 3106,3844 3279,3839 3451,3832 3624,3823 3797,3814 3970,3800"/>
+                <TextEquiv>
+                    <Unicode>Auch sie wie viele andre Bäume in Afrika u. bei uns am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l27" custom="readingOrder {index:24;}">
+                <Coords points="485,4053 946,4117 1638,3977 2341,4065 2519,3957 2784,4073 3063,3955 3797,3999 3839,3858 483,3943"/>
+                <Baseline points="508,4018 666,4010 825,4003 984,3998 1142,3992 1301,3987 1460,3982 1618,3978 1777,3976 1936,3972 2095,3970 2253,3968 2412,3966 2571,3966 2729,3966 2888,3966 3047,3966 3205,3968 3364,3970 3523,3972 3682,3974 3819,3966"/>
+                <TextEquiv>
+                    <Unicode>deutlichsten die Buchen zeigen jene Drehung des Stammes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l28" custom="readingOrder {index:25;}">
+                <Coords points="461,4278 3978,4040 2505,3958 2341,4061 1596,3972 455,4094"/>
+                <Baseline points="480,4200 654,4192 828,4183 1002,4174 1176,4164 1350,4155 1524,4146 1698,4136 1872,4128 2046,4118 2220,4111 2394,4104 2568,4098 2742,4092 2916,4088 3090,4086 3264,4086 3438,4088 3612,4090 3786,4096 3960,4104"/>
+                <TextEquiv>
+                    <Unicode>(anscheinend ohne Gesetz nach rechts od. links), die wohl dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l29" custom="readingOrder {index:26;}">
+                <Coords points="484,4325 4011,4234 4006,4102 3675,4070 3328,4175 2456,4096 1653,4239 1303,4142 480,4224"/>
+                <Baseline points="506,4324 680,4318 854,4312 1028,4306 1202,4298 1376,4290 1550,4284 1724,4276 1898,4268 2072,4260 2246,4253 2420,4246 2594,4240 2768,4233 2942,4228 3116,4222 3290,4218 3464,4216 3638,4214 3812,4212 3986,4212"/>
+                <TextEquiv>
+                    <Unicode>Ganzen sehr viel größeren Halt gewähren mag. Mir fällt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l30" custom="readingOrder {index:27;}">
+                <Coords points="524,4455 3902,4399 3896,4211 521,4363"/>
+                <Baseline points="547,4448 626,4444 788,4439 951,4434 1113,4428 1276,4423 1439,4416 1601,4411 1764,4404 1926,4398 2089,4392 2252,4386 2414,4378 2577,4373 2739,4368 2902,4361 3065,4356 3227,4352 3390,4348 3552,4344 3715,4341 3878,4338"/>
+                <TextEquiv>
+                    <Unicode>hier ferner oft die große Rolle der Wurzeln oberhalb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l31" custom="readingOrder {index:28;}">
+                <Coords points="576,4590 3213,4554 3848,4508 3850,4424 3449,4346 572,4458"/>
+                <Baseline points="596,4570 757,4559 919,4550 1080,4541 1242,4533 1404,4526 1565,4520 1727,4514 1888,4510 2050,4506 2212,4502 2373,4500 2535,4496 2696,4494 2858,4492 3020,4490 3181,4488 3343,4486 3504,4484 3666,4482 3828,4480"/>
+                <TextEquiv>
+                    <Unicode>des Erdbodens auf, man kann zuweilen den Stamm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l32" custom="readingOrder {index:29;} gap {offset:0; length:0;}">
+                <Coords points="538,4728 3405,4585 3828,4673 4033,4620 4028,4401 3860,4527 535,4614"/>
+                <Baseline points="560,4680 732,4670 905,4660 1077,4653 1250,4646 1423,4639 1595,4634 1768,4629 1940,4624 2113,4622 2286,4618 2458,4616 2631,4614 2803,4612 2976,4610 3149,4608 3321,4606 3494,4604 3666,4602 3839,4600 4012,4598"/>
+                <TextEquiv>
+                    <Unicode> ein Wurzelkonglomerat nennen. D. Schwarzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l33" custom="readingOrder {index:30;}">
+                <Coords points="458,4888 1412,4762 1669,4858 1982,4733 4011,4800 3946,4604 454,4699"/>
+                <Baseline points="479,4813 604,4802 773,4790 942,4780 1111,4772 1280,4764 1450,4758 1619,4752 1788,4748 1957,4744 2126,4742 2296,4740 2465,4738 2634,4736 2803,4734 2972,4734 3142,4732 3311,4730 3480,4728 3649,4726 3818,4724 3988,4720"/>
+                <TextEquiv>
+                    <Unicode>sind übrigens ebenso schlechte Botaniker wie ich, es giebt wohl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582887339070_1939l34" custom="readingOrder {index:31;}">
+                <Coords points="435,4985 1825,4867 2774,4995 3615,4869 3818,4985 3900,4791 434,4849"/>
+                <Baseline points="458,4908 624,4904 791,4900 958,4898 1125,4894 1292,4890 1458,4888 1625,4886 1792,4882 1959,4880 2126,4878 2292,4876 2459,4876 2626,4874 2793,4874 2960,4874 3126,4874 3293,4874 3460,4876 3627,4876 3794,4878 3880,4884"/>
+                <TextEquiv>
+                    <Unicode>Namen f. d. Bäume, aber d. wenigsten kennen sie;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>46&#xD;
+don-artiges Gestein.&#xD;
+Bröselige Sandsteine,&#xD;
+Weiße „ „ (d. einzige, was allenfalls an Saurier„&#xD;
+schichten erinnern könnte, wäre nicht die&#xD;
+Buschvegetation so verschieden,&#xD;
+im Tale zwischen d. Schamben ferner Trigonien-Schicht,&#xD;
+nirgends eine Spur von Gneiß.&#xD;
+Am Fuße stellte sich leider heraus, daß wir den&#xD;
+Akiden heut nicht mehr erreichen konnten u. vor&#xD;
+ihm kein Dorf weiter zu erwarten war, so daß ich&#xD;
+schon hier nach nur 3-stüBndigem Marsch d. Lager&#xD;
+errichten mußte (eim Karani). Ich wurde durch&#xD;
+anscheinend treffliche Jagdaussichten entschädigt, brachte&#xD;
+aber bis Mittag nur 1 Taube zur Strecke ein Putuka&#xD;
+entging mir trotz günstigster Umstände, da ich nicht&#xD;
+Zeit zum Zielen hatte.&#xD;
+Hier, wie auch gestern u. in Matapua d. Wamachinga&#xD;
+vertreten, neben Yao's u. drüben Muëra, auch Wandonde&#xD;
+meist reichlich. D. Eingebornen betonen d. Unterschiede&#xD;
+viel schärfer als physiologisch od. psychologisch zu rechtfertigen&#xD;
+ist. Dicht bei meinem Zelt im Wasserriß Baumkakteen (?),&#xD;
+d. mir Verwandtschaft m. Palmen zu zeigen scheinen?&#xD;
+Auch sie wie viele andre Bäume in Afrika u. bei uns am&#xD;
+deutlichsten die Buchen zeigen jene Drehung des Stammes&#xD;
+(anscheinend ohne Gesetz nach rechts od. links), die wohl dem&#xD;
+Ganzen sehr viel größeren Halt gewähren mag. Mir fällt&#xD;
+hier ferner oft die große Rolle der Wurzeln oberhalb.&#xD;
+des Erdbodens auf, man kann zuweilen den Stamm&#xD;
+ ein Wurzelkonglomerat nennen. D. Schwarzen&#xD;
+sind übrigens ebenso schlechte Botaniker wie ich, es giebt wohl&#xD;
+Namen f. d. Bäume, aber d. wenigsten kennen sie;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:34.190+02:00</Created>
+        <LastChange>2020-04-03T08:49:56.751+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7550883" pageNr="2" tsid="26931125" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=DEGZIZFRVSGEJOCVCVYNUODK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PQBCXCQEXOGCCBQJTJSOCJQH" imageId="4551761"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_002.jpg" imageWidth="4305" imageHeight="5234">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256461576" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1565345253505_233"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1565345253505_233" custom="readingOrder {index:0;}">
+            <Coords points="2032,508 3599,508 3599,935 2032,935"/>
+            <TextLine id="line_1565345275982_236" custom="readingOrder {index:0;}">
+                <Coords points="2112,846 3392,750 3395,800 2115,896"/>
+                <Baseline points="2115,891 3395,795"/>
+                <TextEquiv>
+                    <Unicode>Dr. Edw. Hennig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr. Edw. Hennig.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

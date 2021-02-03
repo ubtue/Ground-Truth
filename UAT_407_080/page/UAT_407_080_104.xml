@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:58.006+02:00</Created>
+        <LastChange>2020-03-26T10:52:32.164+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550806" pageNr="104" tsid="26455446" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=OLNEKMEJPSZKMFPFCEGMWEFQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRMCNEMVGXRMXNTHSXCETDIH" imageId="4551684"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_104.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255563536" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582894645647_3200"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582894645647_3200" custom="readingOrder {index:0;}">
+            <Coords points="234,282 388,282 4009,310 4009,4980 439,4980 234,458"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="226,485 260,474 274,480 281,470 300,475 320,463 359,482 369,467 384,473 394,457 426,460 390,276 346,276 306,323 257,319 233,333 197,331"/>
+                <Baseline points="234,408 259,405 285,400 311,394 336,388 362,384 388,382"/>
+                <TextEquiv>
+                    <Unicode>100</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="416,487 3861,398 3680,230 415,361"/>
+                <Baseline points="439,421 609,418 779,416 949,413 1119,410 1289,407 1459,404 1629,401 1799,398 1969,395 2139,392 2309,390 2479,387 2649,385 2819,383 2989,382 3159,381 3329,380 3499,380 3669,381 3839,382"/>
+                <TextEquiv>
+                    <Unicode>daß es vielleicht unvorsichtig gewesen war, in wildem Lande</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="430,607 1506,535 1682,633 2312,516 2559,621 2989,517 3222,618 3618,584 3750,403 427,481"/>
+                <Baseline points="449,581 613,573 777,565 941,558 1105,551 1269,544 1433,538 1597,532 1761,527 1925,523 2089,519 2253,516 2417,514 2581,512 2745,512 2909,512 3073,513 3237,515 3401,518 3565,522 3729,527"/>
+                <TextEquiv>
+                    <Unicode>den Kugelvorrat nur nach dem Jagdbedarf zu bemessen. Nun,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="441,784 3911,689 3786,574 2834,526 2535,628 2245,517 1655,661 437,640"/>
+                <Baseline points="460,730 631,729 802,727 974,723 1145,719 1317,714 1488,708 1659,701 1831,695 2002,688 2174,682 2345,676 2516,671 2688,667 2859,664 3031,663 3202,662 3373,664 3545,668 3716,674 3888,682"/>
+                <TextEquiv>
+                    <Unicode>dieser Stammtisch dauerte 3-4 Stunden in Heiterkeit u. Frieden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="423,919 3605,795 3804,899 3955,835 3951,669 421,832"/>
+                <Baseline points="443,884 617,877 791,870 966,862 1140,855 1315,848 1489,842 1663,835 1838,829 2012,822 2187,817 2361,813 2535,809 2710,805 2884,803 3059,802 3233,801 3407,802 3582,804 3756,807 3931,811"/>
+                <TextEquiv>
+                    <Unicode>dann zogen die Teilnehmer wieder in ihre Dörfer ab. Außer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="445,1033 1622,968 1912,1071 2581,948 2832,1060 3292,941 3857,1034 3854,885 3603,795 3404,891 2583,817 443,933"/>
+                <Baseline points="469,1015 637,1007 805,1000 973,993 1141,986 1310,980 1478,974 1646,969 1814,963 1982,959 2151,955 2319,951 2487,948 2655,945 2823,943 2992,942 3160,941 3328,941 3496,942 3664,944 3833,947"/>
+                <TextEquiv>
+                    <Unicode>etwas lauter Unterhaltung der großen schwatzenden Menge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="483,1209 1308,1229 1581,1107 3832,1147 3830,1047 3222,957 480,1034"/>
+                <Baseline points="505,1148 670,1142 835,1136 1000,1130 1165,1124 1331,1118 1496,1113 1661,1107 1826,1103 1991,1098 2157,1094 2322,1091 2487,1088 2652,1086 2817,1085 2983,1085 3148,1086 3313,1088 3478,1092 3643,1096 3809,1102"/>
+                <TextEquiv>
+                    <Unicode>u. einem Kerl, der vor meinem Zelt herumtanzte u. wegge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="470,1387 1074,1285 1443,1392 2212,1260 3827,1279 3776,1136 467,1230"/>
+                <Baseline points="491,1306 656,1300 822,1294 988,1289 1153,1283 1319,1278 1485,1274 1650,1270 1816,1267 1982,1263 2148,1260 2313,1258 2479,1255 2645,1253 2810,1251 2976,1250 3142,1248 3307,1247 3473,1246 3639,1245 3805,1245"/>
+                <TextEquiv>
+                    <Unicode>jagt werden mußte, nachher aber alle Fragen nach Wild„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:8;}">
+                <Coords points="459,1517 1264,1435 2099,1514 2420,1407 3403,1509 3711,1415 3707,1245 3247,1355 2844,1272 457,1426"/>
+                <Baseline points="481,1470 641,1460 801,1451 962,1444 1122,1437 1282,1430 1443,1425 1603,1421 1763,1416 1924,1413 2084,1410 2244,1408 2405,1405 2565,1404 2725,1402 2886,1401 3046,1400 3206,1399 3367,1398 3527,1396 3688,1395"/>
+                <TextEquiv>
+                    <Unicode>bestand beantworten konnte, war von „Unsitte“ nichts zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:9;}">
+                <Coords points="437,1645 2324,1557 2770,1654 3649,1511 2940,1415 2524,1519 2252,1441 434,1532"/>
+                <Baseline points="459,1619 617,1610 775,1603 934,1596 1092,1589 1251,1583 1409,1578 1567,1574 1726,1570 1884,1567 2043,1564 2201,1561 2359,1559 2518,1558 2676,1556 2835,1555 2993,1555 3151,1555 3310,1555 3468,1555 3627,1555"/>
+                <TextEquiv>
+                    <Unicode>bemerken. Wenn es immer so harmlos ist, dann wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:10;}">
+                <Coords points="436,1853 1138,1736 2036,1810 2254,1676 3866,1733 3859,1550 3701,1520 430,1683"/>
+                <Baseline points="455,1762 624,1755 793,1748 962,1741 1132,1734 1301,1728 1470,1721 1640,1714 1809,1707 1978,1701 2148,1695 2317,1688 2486,1682 2655,1678 2825,1672 2994,1667 3163,1662 3333,1658 3502,1654 3671,1650 3841,1647"/>
+                <TextEquiv>
+                    <Unicode>stark übertrieben. Mein friedliches Treiben wurde nicht gestört.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:11;}">
+                <Coords points="627,1989 3892,1874 3887,1752 3632,1704 1740,1861 621,1819"/>
+                <Baseline points="650,1962 819,1955 988,1948 1158,1940 1327,1931 1497,1923 1666,1915 1835,1907 2005,1899 2174,1892 2344,1884 2513,1878 2683,1872 2852,1866 3021,1862 3191,1859 3360,1856 3530,1855 3699,1855 3869,1856"/>
+                <TextEquiv>
+                    <Unicode>7 Dez. Noch ein Abstieg, dann am Plateaurande hinauf nach Naholo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:12;}">
+                <Coords points="458,2240 1307,2102 2352,2126 2504,2018 2757,2115 3824,2041 3817,1902 3552,1845 3230,1957 447,2009"/>
+                <Baseline points="473,2136 639,2131 805,2123 971,2116 1138,2107 1304,2098 1470,2088 1637,2078 1803,2067 1969,2058 2136,2048 2302,2039 2468,2029 2634,2021 2801,2014 2967,2007 3133,2002 3300,1999 3466,1996 3632,1995 3799,1997"/>
+                <TextEquiv>
+                    <Unicode>Prächtige Lage am Steilabbruch. Hätte ich's gewußt, wäre ich vielleicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:13;}">
+                <Coords points="528,2388 1286,2349 1485,2230 3828,2198 3901,2072 2540,2032 2210,2154 519,2218"/>
+                <Baseline points="546,2290 712,2284 879,2277 1046,2268 1213,2258 1379,2249 1546,2239 1713,2228 1880,2217 2046,2207 2213,2196 2380,2186 2547,2176 2713,2167 2880,2160 3047,2153 3214,2148 3380,2144 3547,2142 3714,2142 3881,2144"/>
+                <TextEquiv>
+                    <Unicode>gestern doch noch hergekommen, zumal hier d. Träger merkwür„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:14;}">
+                <Coords points="505,2529 2077,2360 3902,2353 3893,2179 3574,2160 498,2386"/>
+                <Baseline points="524,2470 691,2456 859,2443 1027,2429 1195,2416 1362,2404 1530,2392 1698,2381 1866,2371 2033,2361 2201,2352 2369,2344 2537,2336 2704,2330 2872,2324 3040,2319 3208,2315 3375,2312 3543,2310 3711,2309 3879,2309"/>
+                <TextEquiv>
+                    <Unicode>digerweise reichhaltigere Eßvorräte finden als im Tal. Man sollte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:15;}">
+                <Coords points="487,2619 1045,2675 1483,2536 1680,2634 1904,2503 2186,2618 2954,2451 3262,2565 3753,2440 3747,2344 3458,2317 2246,2361 485,2580"/>
+                <Baseline points="508,2623 669,2607 830,2591 991,2576 1153,2563 1314,2549 1475,2537 1636,2526 1798,2515 1959,2505 2120,2496 2281,2487 2443,2478 2604,2471 2765,2464 2926,2458 3088,2453 3249,2447 3410,2443 3571,2438 3733,2435"/>
+                <TextEquiv>
+                    <Unicode>meinen, daß auf d. wasserlosen Höhe gänzliche Unfruchtbarkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:16;}">
+                <Coords points="469,2856 1288,2735 1899,2796 2162,2654 3610,2694 3692,2523 3056,2490 2705,2601 1904,2503 1680,2630 1475,2558 1029,2702 459,2673"/>
+                <Baseline points="486,2786 645,2772 804,2758 964,2744 1123,2732 1283,2720 1442,2708 1602,2697 1761,2686 1921,2676 2080,2667 2239,2658 2399,2650 2558,2642 2718,2635 2877,2628 3037,2622 3196,2617 3356,2612 3515,2607 3675,2603"/>
+                <TextEquiv>
+                    <Unicode>herrschen müßte. Meist Mhogo und Ananas, auch Mais. Der Weg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:17;}">
+                <Coords points="493,2997 1744,2854 1941,2954 2462,2805 3805,2863 3959,2803 3952,2663 487,2875"/>
+                <Baseline points="512,2936 683,2923 854,2911 1025,2899 1197,2887 1368,2876 1539,2865 1710,2855 1882,2844 2053,2835 2224,2826 2395,2817 2567,2809 2738,2801 2909,2794 3080,2787 3252,2781 3423,2776 3594,2772 3765,2768 3937,2764"/>
+                <TextEquiv>
+                    <Unicode>hinauf führt über eine vorspringende Zunge, die einen gewaltigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:18;}">
+                <Coords points="506,3200 1678,2999 2190,3088 3360,2918 3872,3021 3941,2838 2463,2807 1990,2947 636,2952 498,3060"/>
+                <Baseline points="524,3099 702,3082 881,3065 1060,3049 1239,3035 1418,3022 1597,3009 1776,2998 1955,2988 2134,2978 2312,2969 2491,2960 2670,2952 2849,2944 3028,2937 3207,2930 3386,2922 3565,2915 3744,2907 3923,2900"/>
+                <TextEquiv>
+                    <Unicode>Erosionskessel in zwei Teile zerlegt. Steilabbrüche wie üblich nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:19;}">
+                <Coords points="540,3273 3848,3133 3841,3002 2952,2957 536,3195"/>
+                <Baseline points="559,3245 722,3235 885,3226 1048,3216 1212,3206 1375,3196 1538,3185 1701,3174 1865,3164 2028,3154 2191,3145 2354,3135 2518,3127 2681,3118 2844,3110 3007,3104 3171,3098 3334,3092 3497,3088 3660,3085 3824,3083"/>
+                <TextEquiv>
+                    <Unicode>unten in sanftere Böschungen übergehend. Durch Naholo ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:20;}">
+                <Coords points="530,3478 887,3379 1399,3465 1819,3323 3450,3355 3916,3254 3909,3124 1729,3289 1066,3212 522,3330"/>
+                <Baseline points="549,3407 716,3397 883,3386 1050,3376 1217,3364 1384,3354 1551,3343 1718,3332 1885,3322 2052,3312 2220,3302 2387,3292 2554,3283 2721,3274 2888,3265 3055,3257 3222,3251 3389,3244 3556,3238 3723,3232 3891,3228"/>
+                <TextEquiv>
+                    <Unicode>Aufenthalt (das Gespräch mit d. Honoratioren ging im Marschieren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:21;}">
+                <Coords points="511,3627 1131,3542 1323,3626 1700,3473 2272,3579 3066,3452 3422,3515 3885,3429 3881,3324 1702,3329 1411,3460 884,3383 505,3505"/>
+                <Baseline points="530,3557 696,3545 863,3534 1029,3524 1196,3514 1363,3504 1529,3495 1696,3487 1863,3478 2029,3471 2196,3464 2363,3457 2529,3451 2696,3444 2863,3438 3029,3432 3196,3426 3363,3421 3529,3415 3696,3409 3863,3404"/>
+                <TextEquiv>
+                    <Unicode>vor sich) weiterziehend, erblickte ich zu meinem Erstaunen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:22;}">
+                <Coords points="526,3743 3969,3602 3963,3476 3577,3437 522,3647"/>
+                <Baseline points="547,3709 716,3704 886,3698 1056,3692 1226,3684 1396,3677 1566,3668 1736,3659 1906,3651 2076,3642 2246,3633 2415,3623 2585,3615 2755,3606 2925,3598 3095,3590 3265,3583 3435,3576 3605,3571 3775,3566 3945,3562"/>
+                <TextEquiv>
+                    <Unicode>über den Baumgipfeln vor mir einen Berg, der die ebene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:23;}">
+                <Coords points="517,3987 1734,3803 2380,3871 2735,3730 3408,3827 3924,3744 3916,3605 3614,3572 505,3756"/>
+                <Baseline points="532,3859 700,3854 868,3847 1037,3839 1205,3831 1373,3821 1542,3811 1710,3800 1878,3790 2047,3779 2215,3768 2383,3758 2552,3748 2720,3739 2888,3731 3057,3725 3225,3718 3393,3715 3562,3712 3730,3712 3899,3714"/>
+                <TextEquiv>
+                    <Unicode>Plateauhöhe ⹍ also nicht unbeträchtlich überragen mußte. Lei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:24;}">
+                <Coords points="552,4052 3968,3887 3860,3735 3455,3842 2548,3775 546,3926"/>
+                <Baseline points="571,4021 739,4010 908,4000 1076,3989 1245,3980 1414,3970 1582,3960 1751,3951 1919,3942 2088,3933 2257,3925 2425,3917 2594,3910 2762,3903 2931,3896 3100,3890 3268,3883 3437,3879 3605,3874 3774,3868 3943,3865"/>
+                <TextEquiv>
+                    <Unicode>der führte der Weg nicht in d. Nähe, doch schien mir nachher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:25;}">
+                <Coords points="562,4184 1471,4214 2237,4054 3254,4141 3414,4007 3992,4065 4023,3858 3822,3963 2689,3895 559,4118"/>
+                <Baseline points="585,4163 756,4150 927,4137 1098,4125 1269,4113 1441,4102 1612,4092 1783,4082 1954,4073 2125,4064 2297,4057 2468,4049 2639,4043 2810,4037 2981,4032 3153,4027 3324,4023 3495,4020 3666,4018 3837,4016 4009,4015"/>
+                <TextEquiv>
+                    <Unicode>von ferne d. Angabe d. Eingebornen bestätigt, daß das Gestein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:26;}">
+                <Coords points="621,4322 3935,4222 3826,4008 3708,4126 3433,4015 3259,4132 1995,4083 617,4200"/>
+                <Baseline points="643,4296 806,4285 969,4274 1133,4262 1296,4253 1459,4243 1623,4234 1786,4225 1949,4217 2113,4210 2276,4203 2439,4197 2603,4190 2766,4185 2929,4180 3093,4176 3256,4172 3419,4170 3583,4167 3746,4165 3910,4164"/>
+                <TextEquiv>
+                    <Unicode>bis oben hin d. Gleiche bliebe u. sich ein weiter Rundblick</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:27;}">
+                <Coords points="572,4457 2003,4453 2527,4329 3734,4408 3971,4329 3967,4216 2221,4196 2015,4300 567,4339"/>
+                <Baseline points="594,4426 761,4415 929,4406 1097,4396 1265,4386 1433,4378 1600,4369 1768,4361 1936,4354 2104,4347 2272,4341 2439,4335 2607,4329 2775,4324 2943,4320 3111,4316 3278,4313 3446,4310 3614,4308 3782,4307 3950,4306"/>
+                <TextEquiv>
+                    <Unicode>bieten müsse. Name d. Berges Tshiwambwe, Naholo wird auch das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:28;}">
+                <Coords points="571,4677 2266,4479 3801,4566 4004,4359 2375,4336 565,4498"/>
+                <Baseline points="590,4569 759,4556 929,4544 1099,4532 1269,4521 1439,4512 1608,4502 1778,4493 1948,4486 2118,4479 2288,4473 2457,4468 2627,4464 2797,4461 2967,4458 3137,4457 3306,4456 3476,4457 3646,4458 3816,4460 3986,4464"/>
+                <TextEquiv>
+                    <Unicode>Plateaustück genannt. Schöne Parklandschaft, schoß auf eine große</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:29;}">
+                <Coords points="597,4793 1499,4775 1902,4643 3879,4683 3876,4578 3276,4466 2964,4570 2456,4473 593,4649"/>
+                <Baseline points="616,4688 786,4685 956,4680 1127,4675 1297,4668 1468,4661 1638,4654 1809,4647 1979,4640 2150,4633 2320,4626 2491,4621 2661,4617 2832,4614 3002,4612 3173,4612 3343,4614 3514,4619 3684,4626 3855,4635"/>
+                <TextEquiv>
+                    <Unicode>Zibethkatze, verfehlte aber leider. Nach kaum ½ Std. war der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:30;}">
+                <Coords points="427,4991 952,5035 1159,4950 1484,5023 1748,4935 1859,4997 1995,4901 2574,4992 2956,4918 2951,4779 420,4764"/>
+                <Baseline points="447,4945 571,4943 695,4940 820,4936 944,4931 1068,4926 1193,4919 1317,4913 1441,4907 1566,4900 1690,4895 1814,4889 1939,4884 2063,4880 2187,4877 2312,4875 2436,4874 2560,4875 2685,4878 2809,4881 2934,4888"/>
+                <TextEquiv>
+                    <Unicode>⹍ Im Bornhardt finde ich, daß nach S. Steigung statthat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>100&#xD;
+daß es vielleicht unvorsichtig gewesen war, in wildem Lande&#xD;
+den Kugelvorrat nur nach dem Jagdbedarf zu bemessen. Nun,&#xD;
+dieser Stammtisch dauerte 3-4 Stunden in Heiterkeit u. Frieden,&#xD;
+dann zogen die Teilnehmer wieder in ihre Dörfer ab. Außer&#xD;
+etwas lauter Unterhaltung der großen schwatzenden Menge&#xD;
+u. einem Kerl, der vor meinem Zelt herumtanzte u. wegge„&#xD;
+jagt werden mußte, nachher aber alle Fragen nach Wild„&#xD;
+bestand beantworten konnte, war von „Unsitte“ nichts zu&#xD;
+bemerken. Wenn es immer so harmlos ist, dann wird&#xD;
+stark übertrieben. Mein friedliches Treiben wurde nicht gestört.&#xD;
+7 Dez. Noch ein Abstieg, dann am Plateaurande hinauf nach Naholo.&#xD;
+Prächtige Lage am Steilabbruch. Hätte ich's gewußt, wäre ich vielleicht&#xD;
+gestern doch noch hergekommen, zumal hier d. Träger merkwür„&#xD;
+digerweise reichhaltigere Eßvorräte finden als im Tal. Man sollte&#xD;
+meinen, daß auf d. wasserlosen Höhe gänzliche Unfruchtbarkeit&#xD;
+herrschen müßte. Meist Mhogo und Ananas, auch Mais. Der Weg&#xD;
+hinauf führt über eine vorspringende Zunge, die einen gewaltigen&#xD;
+Erosionskessel in zwei Teile zerlegt. Steilabbrüche wie üblich nach&#xD;
+unten in sanftere Böschungen übergehend. Durch Naholo ohne&#xD;
+Aufenthalt (das Gespräch mit d. Honoratioren ging im Marschieren&#xD;
+vor sich) weiterziehend, erblickte ich zu meinem Erstaunen&#xD;
+über den Baumgipfeln vor mir einen Berg, der die ebene&#xD;
+Plateauhöhe ⹍ also nicht unbeträchtlich überragen mußte. Lei„&#xD;
+der führte der Weg nicht in d. Nähe, doch schien mir nachher&#xD;
+von ferne d. Angabe d. Eingebornen bestätigt, daß das Gestein&#xD;
+bis oben hin d. Gleiche bliebe u. sich ein weiter Rundblick&#xD;
+bieten müsse. Name d. Berges Tshiwambwe, Naholo wird auch das&#xD;
+Plateaustück genannt. Schöne Parklandschaft, schoß auf eine große&#xD;
+Zibethkatze, verfehlte aber leider. Nach kaum ½ Std. war der&#xD;
+⹍ Im Bornhardt finde ich, daß nach S. Steigung statthat.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:40.610+02:00</Created>
+        <LastChange>2019-10-15T16:21:02.849+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551030" pageNr="141" tsid="17136657" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=QELIOQLNOOTDLJZOULAMHKJN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UAVHPTEKXQNHJYUYZAOOUXHR" imageId="4551908"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_141.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256510215" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:0;}">
+            <Coords points="453,306 453,4835 4043,4835 4043,306"/>
+            <TextLine id="line_1570539303160_737" custom="readingOrder {index:0;}">
+                <Coords points="3712,369 3739,369 3753,357 3783,366 3806,349 3841,377 3872,378 3886,365 3961,372 3965,234 3939,233 3889,254 3872,236 3841,239 3832,230 3791,247 3746,285 3715,289"/>
+                <Baseline points="3736,348 3939,354"/>
+                <TextEquiv>
+                    <Unicode>139</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539290341_730" custom="readingOrder {index:1;}">
+                <Coords points="471,539 3912,456 3938,358 469,299"/>
+                <Baseline points="492,426 661,429 830,431 999,433 1169,434 1338,434 1507,434 1676,433 1846,432 2015,431 2184,429 2353,427 2523,424 2692,422 2861,420 3030,418 3200,415 3369,413 3538,411 3707,410 3877,409 3896,427 3914,430"/>
+                <TextEquiv>
+                    <Unicode>Schulung (Autodidaktische!) u. scharfem Blick entwickelt er mir an„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:2;}">
+                <Coords points="466,712 1149,603 4031,625 4063,428 463,539"/>
+                <Baseline points="487,607 664,605 842,603 1020,601 1198,599 1376,597 1553,595 1731,592 1909,590 2087,588 2265,585 2442,583 2620,580 2798,576 2976,573 3154,569 3331,564 3509,559 3687,554 3865,548 4043,541"/>
+                <TextEquiv>
+                    <Unicode>fangs gegen meinen Widerstand aus dem einzigen Bachbett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:3;}">
+                <Coords points="481,888 1105,769 1863,856 2230,737 3730,809 3924,747 3922,631 477,693"/>
+                <Baseline points="500,782 670,778 840,773 1010,768 1180,763 1350,758 1520,753 1690,748 1860,743 2030,738 2201,734 2371,730 2541,727 2711,723 2881,721 3051,719 3221,718 3391,718 3561,718 3731,719 3902,721"/>
+                <TextEquiv>
+                    <Unicode>Probleme über die Morphologie u. Hydrographie unseres Ge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:4;}">
+                <Coords points="454,992 1680,929 2007,1030 2525,914 3025,1024 3886,893 3243,753 2951,861 2283,780 453,903"/>
+                <Baseline points="475,955 644,948 813,942 983,937 1152,934 1322,930 1491,928 1660,926 1830,924 1999,923 2169,921 2338,919 2507,917 2677,915 2846,912 3016,908 3185,903 3354,897 3524,890 3693,882 3863,872"/>
+                <TextEquiv>
+                    <Unicode>bietes, in dem wir Beide seit 2 Jahren, er seit 2 Tagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:5;}">
+                <Coords points="471,1228 1975,1073 3480,1145 3906,1093 3904,973 3093,907 2779,1028 468,1064"/>
+                <Baseline points="489,1119 658,1111 828,1104 997,1097 1167,1092 1337,1088 1506,1084 1676,1080 1845,1078 2015,1075 2185,1073 2354,1071 2524,1069 2693,1068 2863,1066 3033,1064 3202,1062 3372,1059 3541,1055 3711,1052 3881,1047"/>
+                <TextEquiv>
+                    <Unicode>sitzen. Schließlich gehe ich mit flatternden Fahnen zu der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:6;}">
+                <Coords points="517,1370 2004,1242 2433,1351 3240,1235 3398,1343 3956,1218 3954,1080 514,1179"/>
+                <Baseline points="539,1270 708,1269 878,1267 1048,1265 1218,1263 1387,1259 1557,1256 1727,1253 1897,1250 2066,1246 2236,1243 2406,1239 2576,1236 2745,1233 2915,1230 3085,1227 3255,1225 3424,1223 3594,1222 3764,1221 3934,1220"/>
+                <TextEquiv>
+                    <Unicode>Theorie der Peneplaine über, da sie mir wirklich vieles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:7;}">
+                <Coords points="486,1465 3959,1433 3957,1317 3698,1258 485,1368"/>
+                <Baseline points="506,1437 677,1430 848,1424 1020,1420 1191,1415 1363,1412 1534,1410 1706,1408 1877,1407 2049,1406 2220,1405 2391,1405 2563,1404 2734,1402 2906,1401 3077,1398 3249,1395 3420,1391 3592,1386 3763,1381 3935,1373"/>
+                <TextEquiv>
+                    <Unicode>in Einfachheit zu enthüllen scheint, woran ich mir bisher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:8;}">
+                <Coords points="517,1725 1307,1598 1624,1695 1836,1588 2735,1669 3863,1546 3861,1452 3451,1411 3110,1511 2402,1435 514,1538"/>
+                <Baseline points="537,1608 702,1601 867,1595 1032,1589 1197,1585 1363,1582 1528,1579 1693,1576 1858,1573 2023,1571 2189,1569 2354,1567 2519,1565 2684,1563 2849,1560 3015,1557 3180,1553 3345,1549 3510,1544 3675,1538 3841,1530"/>
+                <TextEquiv>
+                    <Unicode>ohne sichtlichen Erfolg den Kopf zerbrochen habe. Freilich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:9;}">
+                <Coords points="545,1805 1717,1868 1839,1771 2418,1818 2985,1705 3401,1810 3768,1725 3764,1556 543,1729"/>
+                <Baseline points="565,1771 723,1769 882,1767 1041,1765 1200,1762 1359,1758 1518,1755 1677,1751 1836,1746 1995,1742 2154,1737 2312,1732 2471,1727 2630,1723 2789,1718 2948,1713 3107,1709 3266,1705 3425,1701 3584,1698 3743,1695"/>
+                <TextEquiv>
+                    <Unicode>bin ich 2 Jahre ausgeschaltet gewesen, aber die Lehre ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:10;}">
+                <Coords points="541,1943 1059,2045 1381,1923 2175,2021 2350,1906 2575,2009 3262,1881 3801,1974 3798,1770 3664,1750 539,1845"/>
+                <Baseline points="563,1927 723,1927 884,1927 1045,1926 1205,1924 1366,1921 1527,1919 1687,1916 1848,1912 2009,1909 2170,1905 2330,1902 2491,1898 2652,1895 2812,1892 2973,1889 3134,1886 3294,1884 3455,1882 3616,1881 3777,1881"/>
+                <TextEquiv>
+                    <Unicode>älter u. ich habe von ihr nicht Notiz genommen. Auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:11;}">
+                <Coords points="516,2133 2776,2170 3748,2051 3594,1921 3382,1992 3104,1900 2697,2020 2264,1940 1951,2031 1752,1911 1533,2036 1061,2046 859,1930 514,2039"/>
+                <Baseline points="538,2102 697,2098 856,2094 1016,2090 1175,2087 1335,2084 1494,2081 1654,2079 1813,2076 1973,2074 2132,2072 2291,2069 2451,2066 2610,2063 2770,2059 2929,2055 3089,2051 3248,2045 3408,2039 3567,2033 3727,2025"/>
+                <TextEquiv>
+                    <Unicode>die Mehrzahl der andern Geologen nicht, aber wem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:12;}">
+                <Coords points="566,2396 794,2283 1310,2292 1410,2373 1786,2279 2184,2349 2440,2288 2436,2128 2019,2193 1929,2124 1568,2102 948,2221 755,2151 628,2238 561,2205"/>
+                <Baseline points="586,2287 671,2281 757,2275 843,2269 928,2264 1014,2260 1100,2256 1185,2253 1271,2250 1357,2247 1443,2245 1528,2243 1614,2241 1700,2240 1785,2240 1871,2239 1957,2239 2042,2240 2128,2240 2328,2229 2414,2230"/>
+                <TextEquiv>
+                    <Unicode>gälte das als Entschuldigung?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:13;}">
+                <Coords points="838,2518 1896,2511 2086,2415 2386,2526 2601,2389 3110,2506 3428,2381 3795,2505 3980,2426 3979,2302 835,2304"/>
+                <Baseline points="860,2442 1023,2436 1186,2430 1349,2426 1512,2421 1675,2416 1838,2413 2001,2409 2164,2406 2327,2403 2491,2401 2654,2399 2817,2398 2980,2396 3143,2395 3306,2395 3469,2394 3632,2394 3795,2394 3959,2394"/>
+                <TextEquiv>
+                    <Unicode>Staff ist ½ Jahr jünger als ich, hat 4 Semester auf Jura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:14;}">
+                <Coords points="556,2653 1302,2582 1584,2712 1885,2588 2584,2669 3120,2574 3433,2663 3872,2609 3871,2485 2969,2518 2603,2388 2413,2524 1701,2452 555,2559"/>
+                <Baseline points="577,2597 740,2597 904,2596 1068,2594 1231,2592 1395,2589 1559,2586 1722,2582 1886,2579 2050,2575 2214,2572 2377,2569 2541,2566 2705,2564 2868,2563 3032,2562 3196,2563 3359,2564 3523,2567 3687,2570 3851,2575"/>
+                <TextEquiv>
+                    <Unicode>verwenden müssen, war in Mexiko, kam nach mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:15;}">
+                <Coords points="525,2777 842,2879 2038,2855 2196,2742 2416,2855 2601,2746 3344,2821 3855,2756 3853,2596 524,2710"/>
+                <Baseline points="546,2776 710,2768 874,2761 1039,2755 1203,2750 1367,2746 1532,2743 1696,2740 1860,2738 2025,2736 2189,2735 2353,2734 2518,2733 2682,2732 2846,2732 3011,2731 3175,2730 3339,2728 3504,2726 3668,2724 3833,2721"/>
+                <TextEquiv>
+                    <Unicode>an unser Institut, beschäftigt sich mindestens so viel„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:16;}">
+                <Coords points="502,3053 1037,2939 1169,3048 1455,2908 3564,2983 3958,2899 3956,2792 497,2853"/>
+                <Baseline points="523,2947 693,2942 864,2937 1034,2932 1205,2927 1376,2923 1546,2918 1717,2913 1887,2909 2058,2905 2229,2901 2399,2897 2570,2894 2740,2890 2911,2887 3082,2885 3252,2882 3423,2880 3593,2878 3764,2877 3935,2876"/>
+                <TextEquiv>
+                    <Unicode>seitig, wie ich es mir einbilde, ist geübter Alpinist, hat in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:17;}">
+                <Coords points="495,3142 3982,3142 3978,2942 3804,2906 1125,3071 740,2946 494,3058"/>
+                <Baseline points="515,3117 687,3115 859,3112 1031,3110 1203,3107 1376,3104 1548,3100 1720,3097 1892,3093 2064,3089 2237,3085 2409,3081 2581,3077 2753,3072 2925,3069 3098,3064 3270,3060 3442,3057 3614,3053 3786,3049 3959,3046"/>
+                <TextEquiv>
+                    <Unicode>Allem ein fabelhaftes Gedächtnis u. alles stets zu sieg„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l20" custom="readingOrder {index:18;}">
+                <Coords points="519,3291 2165,3377 2879,3227 3090,3353 3226,3258 3694,3326 4016,3138 3061,3193 2819,3095 2132,3217 1916,3083 1687,3220 517,3189"/>
+                <Baseline points="539,3268 711,3271 884,3274 1057,3276 1230,3276 1403,3275 1576,3273 1749,3271 1922,3268 2095,3265 2268,3261 2440,3257 2613,3252 2786,3248 2959,3244 3132,3240 3305,3237 3478,3234 3651,3232 3824,3230 3997,3230"/>
+                <TextEquiv>
+                    <Unicode>reicher Debatte zur Hand, ist bereits verheiratet, Dozent,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l21" custom="readingOrder {index:19;}">
+                <Coords points="530,3554 801,3454 2424,3550 2571,3451 2811,3547 3246,3424 3518,3543 4029,3468 4028,3348 3245,3264 2748,3383 760,3272 529,3362"/>
+                <Baseline points="554,3445 726,3443 899,3441 1072,3438 1244,3437 1417,3435 1590,3433 1762,3431 1935,3430 2108,3428 2281,3427 2453,3426 2626,3425 2799,3424 2971,3423 3144,3423 3317,3422 3489,3422 3662,3423 3835,3423 4008,3424"/>
+                <TextEquiv>
+                    <Unicode>hat weit mehr u. besseres als ich veröffentlicht, ich komme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l22" custom="readingOrder {index:20;}">
+                <Coords points="541,3633 1777,3589 2209,3687 2520,3593 2898,3709 3836,3629 3836,3518 3414,3545 3267,3434 2902,3549 2338,3464 541,3557"/>
+                <Baseline points="564,3602 726,3600 888,3598 1051,3596 1213,3595 1376,3594 1538,3592 1700,3592 1863,3591 2025,3591 2188,3591 2350,3591 2512,3591 2675,3592 2837,3593 3000,3594 3162,3595 3324,3597 3487,3599 3649,3601 3812,3603"/>
+                <TextEquiv>
+                    <Unicode>mir wieder einmal so dumm, so klein vor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l23" custom="readingOrder {index:21;}">
+                <Coords points="511,3828 4050,3850 4050,3646 511,3650"/>
+                <Baseline points="535,3774 709,3773 884,3771 1058,3770 1233,3768 1407,3767 1582,3765 1756,3764 1931,3763 2105,3762 2280,3762 2455,3761 2629,3761 2804,3761 2978,3762 3153,3763 3327,3764 3502,3766 3676,3769 3851,3771 4026,3775"/>
+                <TextEquiv>
+                    <Unicode>Und darf ich ihm gleich freiwillig den Vortritt lassen?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l24" custom="readingOrder {index:22;}">
+                <Coords points="465,4038 3693,3948 3607,3771 2274,3905 464,3838"/>
+                <Baseline points="486,3941 645,3943 804,3945 963,3946 1122,3947 1281,3948 1440,3948 1600,3948 1759,3948 1918,3947 2077,3946 2236,3944 2395,3943 2554,3940 2714,3938 2873,3936 3032,3933 3191,3930 3350,3926 3509,3923 3669,3919"/>
+                <TextEquiv>
+                    <Unicode>Selbst gegen meine Einsicht von seiner Tüchtigkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l25" custom="readingOrder {index:23;}">
+                <Coords points="514,4206 3777,4194 4035,4143 4034,4023 512,4037"/>
+                <Baseline points="537,4139 710,4137 884,4135 1058,4133 1231,4131 1405,4129 1579,4127 1752,4125 1926,4123 2100,4122 2274,4120 2447,4118 2621,4117 2795,4115 2968,4114 3142,4113 3316,4112 3489,4111 3663,4110 3837,4109 4011,4108"/>
+                <TextEquiv>
+                    <Unicode>1000 mal nein! Übrigens ist er mir keineswegs restlos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l26" custom="readingOrder {index:24;}">
+                <Coords points="489,4393 3913,4317 3911,4188 3547,4155 488,4207"/>
+                <Baseline points="509,4301 678,4299 847,4298 1016,4297 1185,4295 1354,4294 1523,4292 1692,4291 1861,4290 2030,4288 2200,4287 2369,4286 2538,4284 2707,4283 2876,4282 3045,4280 3214,4279 3383,4277 3552,4276 3721,4274 3891,4273"/>
+                <TextEquiv>
+                    <Unicode>sympathisch, unsere Temperamente stimmen nicht recht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l27" custom="readingOrder {index:25;}">
+                <Coords points="459,4542 1236,4480 1571,4573 2454,4443 2638,4543 3341,4532 3797,4453 3796,4360 2474,4296 2120,4409 457,4435"/>
+                <Baseline points="481,4479 645,4476 810,4472 974,4468 1139,4465 1304,4462 1468,4459 1633,4456 1797,4453 1962,4450 2127,4448 2291,4445 2456,4443 2620,4441 2785,4438 2950,4436 3114,4434 3279,4432 3443,4430 3608,4428 3773,4426"/>
+                <TextEquiv>
+                    <Unicode>überein, aber da ist meine Sympathie auf seiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l28" custom="readingOrder {index:26;}">
+                <Coords points="445,4679 1521,4618 1704,4728 2112,4605 2433,4710 2828,4601 3278,4740 3571,4631 4034,4708 4033,4535 3619,4484 444,4528"/>
+                <Baseline points="466,4634 641,4632 817,4630 992,4628 1168,4625 1343,4622 1519,4619 1694,4616 1870,4614 2045,4611 2221,4609 2397,4607 2572,4606 2748,4605 2923,4605 3099,4605 3274,4606 3450,4608 3625,4611 3834,4615 4010,4621"/>
+                <TextEquiv>
+                    <Unicode>Seite gegen meine Ruhe. Jedoch hat er viel Einbildungs„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539267458_711" custom="readingOrder {index:27;}">
+                <Coords points="432,4845 1521,4774 2211,4905 2855,4764 3353,4891 3722,4806 3721,4659 3290,4723 3059,4604 2446,4722 2076,4607 1058,4740 840,4621 432,4756"/>
+                <Baseline points="453,4797 538,4795 623,4793 708,4790 794,4788 879,4786 964,4783 1050,4781 1135,4779 1220,4776 1306,4775 1391,4773 1476,4771 1561,4770 1647,4768 1732,4767 1817,4765 1903,4764 1988,4764 2073,4763 2159,4762 2187,4776 2262,4774 2338,4771 2413,4769 2489,4768 2565,4767 2640,4766 2716,4766 2792,4766 2867,4766 2943,4767 3019,4768 3094,4769 3170,4771 3246,4773 3321,4776 3397,4778 3473,4781 3548,4784 3624,4788 3700,4792"/>
+                <TextEquiv>
+                    <Unicode>dünkel, der mir in Lindi fast auf die Nerven fiel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>139&#xD;
+Schulung (Autodidaktische!) u. scharfem Blick entwickelt er mir an„&#xD;
+fangs gegen meinen Widerstand aus dem einzigen Bachbett&#xD;
+Probleme über die Morphologie u. Hydrographie unseres Ge„&#xD;
+bietes, in dem wir Beide seit 2 Jahren, er seit 2 Tagen&#xD;
+sitzen. Schließlich gehe ich mit flatternden Fahnen zu der&#xD;
+Theorie der Peneplaine über, da sie mir wirklich vieles&#xD;
+in Einfachheit zu enthüllen scheint, woran ich mir bisher&#xD;
+ohne sichtlichen Erfolg den Kopf zerbrochen habe. Freilich&#xD;
+bin ich 2 Jahre ausgeschaltet gewesen, aber die Lehre ist&#xD;
+älter u. ich habe von ihr nicht Notiz genommen. Auch&#xD;
+die Mehrzahl der andern Geologen nicht, aber wem&#xD;
+gälte das als Entschuldigung?&#xD;
+Staff ist ½ Jahr jünger als ich, hat 4 Semester auf Jura&#xD;
+verwenden müssen, war in Mexiko, kam nach mir&#xD;
+an unser Institut, beschäftigt sich mindestens so viel„&#xD;
+seitig, wie ich es mir einbilde, ist geübter Alpinist, hat in&#xD;
+Allem ein fabelhaftes Gedächtnis u. alles stets zu sieg„&#xD;
+reicher Debatte zur Hand, ist bereits verheiratet, Dozent,&#xD;
+hat weit mehr u. besseres als ich veröffentlicht, ich komme&#xD;
+mir wieder einmal so dumm, so klein vor.&#xD;
+Und darf ich ihm gleich freiwillig den Vortritt lassen?&#xD;
+Selbst gegen meine Einsicht von seiner Tüchtigkeit&#xD;
+1000 mal nein! Übrigens ist er mir keineswegs restlos&#xD;
+sympathisch, unsere Temperamente stimmen nicht recht&#xD;
+überein, aber da ist meine Sympathie auf seiner&#xD;
+Seite gegen meine Ruhe. Jedoch hat er viel Einbildungs„&#xD;
+dünkel, der mir in Lindi fast auf die Nerven fiel.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:55.506+02:00</Created>
+        <LastChange>2020-03-19T14:53:13.062+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550750" pageNr="52" tsid="25861009" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=FIQQKKRHCGAVSHOZPBVWLAUX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ABEUMLRUOGQBSNRASQSQOWYX" imageId="4551628"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_052.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255545425" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="364,238 364,4881 3998,4881 3998,238"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="343,340 374,339 419,350 453,325 502,323 494,181 472,182 446,202 401,186 379,192 362,211 336,212"/>
+                <Baseline points="364,294 392,291 420,292 448,291 476,284"/>
+                <TextEquiv>
+                    <Unicode>48</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="433,376 1283,447 1598,317 1783,422 2404,291 2554,401 2892,279 3721,293 3429,173 432,319"/>
+                <Baseline points="455,360 617,358 779,354 941,350 1103,345 1265,339 1427,333 1590,326 1752,319 1914,313 2076,305 2238,299 2400,292 2562,287 2725,282 2887,278 3049,275 3211,273 3373,272 3535,273 3698,276"/>
+                <TextEquiv>
+                    <Unicode>mich hinauf. Hier seltsamerweise, fern vom Wasser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="446,606 1192,497 1482,577 1793,455 2218,548 2528,422 3829,460 3830,344 439,407"/>
+                <Baseline points="466,511 633,506 800,499 967,493 1134,485 1302,477 1469,469 1636,461 1803,453 1970,445 2138,437 2305,431 2472,424 2639,419 2806,415 2974,413 3141,411 3308,411 3475,413 3642,417 3810,423"/>
+                <TextEquiv>
+                    <Unicode>Schopfperlhühner, auch ein gerupftes u. in Anbetracht der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="467,763 2588,543 2859,675 3987,593 4016,410 462,613"/>
+                <Baseline points="486,664 661,657 837,649 1012,640 1188,630 1364,620 1539,610 1715,600 1890,590 2066,580 2242,571 2417,563 2593,556 2768,550 2944,546 3120,543 3295,542 3471,543 3646,547 3822,553 3998,561"/>
+                <TextEquiv>
+                    <Unicode>gestrigen Nähe des Löwen etwas unsympathisches. Oben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="434,902 1090,804 1273,911 1590,776 1794,864 2346,708 2631,819 3143,670 3392,769 3793,710 3786,573 2822,548 799,752 654,674 428,783"/>
+                <Baseline points="452,822 617,813 783,805 949,796 1115,786 1281,776 1447,766 1612,756 1778,746 1944,736 2110,727 2276,717 2442,709 2608,701 2773,695 2939,688 3105,685 3271,681 3437,679 3603,678 3769,679"/>
+                <TextEquiv>
+                    <Unicode>alles verwachsen, mein Träger machte mich auf die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="455,1085 1367,925 1536,1038 1739,914 1891,1036 2909,871 3770,892 3537,724 3065,692 2848,807 447,881"/>
+                <Baseline points="473,982 636,972 800,962 963,952 1127,943 1290,933 1454,924 1617,915 1781,907 1944,899 2108,891 2272,884 2435,877 2599,871 2762,865 2926,860 3089,855 3253,851 3416,848 3580,846 3744,844"/>
+                <TextEquiv>
+                    <Unicode>Gummiliane aufmerksam. Offenbar war es kein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="423,1243 1754,1059 2764,1025 3063,1130 3966,995 3960,884 3284,865 413,1048"/>
+                <Baseline points="441,1158 616,1144 791,1130 966,1117 1141,1105 1316,1093 1491,1081 1666,1070 1841,1060 2016,1051 2192,1041 2367,1032 2542,1024 2717,1017 2892,1010 3067,1003 3242,997 3417,991 3592,986 3767,982 3943,978"/>
+                <TextEquiv>
+                    <Unicode>schmaler Rücken, sondern ein breites Plateau, also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="453,1341 1299,1222 1492,1346 1606,1238 1730,1326 2517,1174 3240,1255 3774,1186 3856,1054 1440,1104 450,1279"/>
+                <Baseline points="476,1317 644,1299 812,1282 980,1267 1148,1254 1316,1242 1484,1231 1652,1221 1820,1213 1988,1205 2156,1198 2324,1192 2492,1186 2660,1181 2828,1175 2996,1170 3164,1165 3332,1161 3500,1155 3668,1151 3837,1145"/>
+                <TextEquiv>
+                    <Unicode>nach kurzer Rast zurück. Unterhalb der Höhe etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="439,1486 1296,1499 1592,1375 2169,1480 3010,1325 3604,1420 3924,1336 3919,1207 433,1339"/>
+                <Baseline points="459,1451 631,1439 803,1427 975,1416 1147,1404 1320,1393 1492,1383 1664,1373 1836,1364 2008,1355 2181,1348 2353,1340 2525,1334 2697,1328 2869,1323 3042,1319 3214,1316 3386,1314 3558,1312 3730,1312 3903,1313"/>
+                <TextEquiv>
+                    <Unicode>Durchblick auf den Kranz von Plateaus, in dessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="437,1621 892,1690 1530,1548 1893,1651 2014,1545 2850,1503 2992,1618 3174,1505 3907,1524 3901,1347 433,1506"/>
+                <Baseline points="458,1598 629,1590 800,1583 971,1575 1142,1569 1313,1562 1484,1555 1656,1549 1827,1542 1998,1535 2169,1529 2340,1524 2511,1518 2682,1512 2854,1507 3025,1502 3196,1497 3367,1493 3538,1488 3709,1485 3881,1481"/>
+                <TextEquiv>
+                    <Unicode>Mittelpunkt der Tendaguru aus einer scheinbaren Ebene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="462,1771 1254,1841 1812,1701 2879,1765 3283,1662 3499,1752 3821,1687 3816,1537 2006,1659 1532,1551 460,1709"/>
+                <Baseline points="484,1749 649,1746 815,1742 980,1737 1146,1732 1312,1726 1477,1720 1643,1713 1809,1706 1974,1699 2140,1692 2306,1685 2471,1679 2637,1672 2803,1666 2968,1661 3134,1656 3300,1652 3465,1649 3631,1647 3797,1646"/>
+                <TextEquiv>
+                    <Unicode>wie ein Basaltkegel aus einem Einbruchskessel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="481,2061 711,1928 977,2033 1406,1892 1686,2009 2609,1813 3058,1928 3288,1817 3465,1921 3925,1876 3807,1694 3282,1666 471,1800"/>
+                <Baseline points="499,1927 669,1921 839,1914 1009,1907 1179,1899 1349,1890 1519,1881 1690,1872 1860,1864 2030,1855 2200,1846 2370,1838 2540,1831 2710,1824 2881,1819 3051,1813 3221,1810 3391,1808 3561,1807 3731,1809 3902,1812"/>
+                <TextEquiv>
+                    <Unicode>herausragte. Die Erscheinung der beiden Plateaustufen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="464,2114 1571,2049 1800,2158 1956,2046 2212,2141 2550,2010 3200,2106 3933,2008 3281,1864 461,2012"/>
+                <Baseline points="487,2089 658,2084 829,2077 1000,2071 1171,2064 1342,2057 1513,2050 1684,2042 1855,2035 2026,2028 2198,2021 2369,2016 2540,2009 2711,2005 2882,2001 3053,1998 3224,1995 3395,1994 3566,1995 3737,1996 3909,1999"/>
+                <TextEquiv>
+                    <Unicode>innerhalb des gleichen Gesteins ist mir ohne (u. ei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="525,2330 1089,2223 1885,2305 2643,2153 3600,2261 3958,2072 2776,1998 2213,2144 1518,2050 1296,2173 850,2084 520,2179"/>
+                <Baseline points="545,2235 714,2232 884,2229 1053,2224 1223,2219 1393,2213 1562,2207 1732,2201 1901,2194 2071,2187 2241,2181 2410,2175 2580,2168 2749,2163 2919,2158 3089,2153 3258,2150 3428,2147 3597,2145 3767,2145 3937,2145"/>
+                <TextEquiv>
+                    <Unicode>gentlich auch mit) Annahme tektonischer Störungen schwer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="476,2434 3963,2321 3862,2213 2857,2269 2663,2155 1944,2297 856,2232 474,2354"/>
+                <Baseline points="499,2399 671,2392 843,2384 1015,2378 1187,2371 1359,2363 1531,2357 1703,2350 1875,2344 2047,2338 2220,2332 2392,2327 2564,2322 2736,2317 2908,2313 3080,2310 3252,2307 3424,2304 3596,2303 3768,2302 3941,2301"/>
+                <TextEquiv>
+                    <Unicode>verständlich. Eine Abrasionsterrasse müßte doch auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="470,2612 1717,2500 2389,2592 2515,2491 3103,2585 3379,2461 3617,2566 3961,2498 3956,2330 464,2426"/>
+                <Baseline points="491,2556 663,2548 835,2540 1008,2531 1180,2525 1353,2517 1525,2512 1697,2505 1870,2500 2042,2494 2215,2490 2387,2485 2559,2481 2732,2477 2904,2473 3077,2470 3249,2466 3421,2463 3594,2460 3766,2457 3939,2454"/>
+                <TextEquiv>
+                    <Unicode>Ablagerungen des Meeres aufweisen, diese aber hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="444,2773 3740,2673 3734,2509 3346,2462 3115,2573 438,2609"/>
+                <Baseline points="467,2740 629,2727 792,2714 954,2703 1117,2692 1279,2682 1442,2673 1604,2665 1767,2657 1929,2651 2092,2644 2254,2638 2417,2633 2579,2629 2742,2625 2904,2622 3067,2619 3229,2616 3392,2614 3554,2612 3717,2610"/>
+                <TextEquiv>
+                    <Unicode>trägt nur Dünensand, wenigstens das Material</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="432,2921 1897,2925 2337,2765 3498,2824 3982,2738 3976,2605 427,2828"/>
+                <Baseline points="453,2895 628,2881 803,2868 978,2855 1154,2843 1329,2831 1504,2820 1680,2809 1855,2799 2030,2790 2206,2781 2381,2773 2556,2765 2731,2758 2907,2751 3082,2745 3257,2740 3433,2734 3608,2730 3783,2726 3959,2722"/>
+                <TextEquiv>
+                    <Unicode>dazu; ein Wasserriß, beginnt nur eben einzuschneiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="451,3098 1070,3136 1410,3005 1605,3107 2215,2967 2366,3058 2533,2934 3558,3020 3825,2945 3818,2786 2297,2804 1549,2941 1321,2827 857,2951 680,2861 446,2983"/>
+                <Baseline points="472,3052 638,3041 804,3030 971,3019 1137,3009 1304,2999 1470,2990 1637,2982 1803,2973 1970,2965 2136,2957 2302,2949 2469,2942 2635,2936 2802,2929 2968,2923 3135,2917 3301,2911 3468,2905 3634,2899 3801,2894"/>
+                <TextEquiv>
+                    <Unicode>u. entwässert nach O., vielleicht dringt alles Wasser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="410,3330 824,3181 1432,3271 1983,3110 2751,3214 3333,3048 3717,3082 3659,2983 2862,2933 2366,3056 1064,3014 399,3118"/>
+                <Baseline points="425,3223 588,3206 751,3192 915,3178 1078,3166 1242,3155 1405,3144 1568,3135 1732,3127 1895,3119 2059,3112 2222,3105 2385,3099 2549,3093 2712,3087 2876,3080 3039,3074 3202,3068 3366,3061 3529,3053 3693,3044"/>
+                <TextEquiv>
+                    <Unicode>sofort in die Tiefe. Um das tiefere Profil noch an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="443,3381 1185,3325 1305,3412 1451,3311 1616,3413 1960,3276 2126,3396 2730,3231 3179,3336 3710,3215 3333,3049 2967,3183 2758,3087 1926,3233 1678,3144 1462,3262 1062,3176 440,3324"/>
+                <Baseline points="462,3367 623,3357 784,3347 945,3337 1106,3326 1267,3316 1428,3306 1590,3295 1751,3285 1912,3276 2073,3266 2234,3258 2395,3249 2556,3242 2718,3234 2879,3228 3040,3222 3201,3217 3362,3213 3523,3210 3685,3208"/>
+                <TextEquiv>
+                    <Unicode>andrer Stelle zu sehen, wählte ich den sehr steilen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="440,3556 824,3615 1643,3476 1820,3570 2328,3423 3370,3389 3662,3478 3891,3441 3883,3255 432,3384"/>
+                <Baseline points="459,3519 629,3510 799,3502 970,3494 1140,3485 1311,3475 1481,3466 1651,3457 1822,3449 1992,3439 2163,3431 2333,3422 2503,3415 2674,3407 2844,3400 3015,3394 3185,3389 3355,3384 3526,3380 3696,3377 3867,3375"/>
+                <TextEquiv>
+                    <Unicode>Abstieg über Liala, fand hier aber weitere Hügel„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="444,3797 1002,3654 1272,3750 1711,3634 3741,3595 3768,3483 2576,3416 2386,3540 1797,3573 1691,3479 436,3602"/>
+                <Baseline points="460,3674 624,3668 788,3661 953,3654 1117,3647 1282,3638 1446,3630 1611,3622 1775,3614 1940,3606 2104,3598 2268,3591 2433,3583 2597,3577 2762,3570 2926,3565 3091,3560 3255,3557 3420,3554 3584,3552 3749,3552"/>
+                <TextEquiv>
+                    <Unicode>züge vorgelagert, so daß ein flüchtiger Einblick in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="455,3904 2174,3840 2692,3719 3327,3819 3490,3801 3616,3577 1268,3750 980,3663 450,3807"/>
+                <Baseline points="477,3862 633,3847 789,3833 945,3819 1101,3807 1258,3795 1414,3784 1570,3774 1726,3764 1882,3756 2039,3747 2195,3739 2351,3733 2507,3726 2663,3720 2820,3714 2976,3709 3132,3704 3288,3700 3444,3696 3601,3693"/>
+                <TextEquiv>
+                    <Unicode>den Aufbau nicht zu erlangen war. Dafür hübsch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="446,4102 3019,3885 3476,3975 3910,3871 3904,3743 2692,3719 2100,3875 1046,3825 439,3947"/>
+                <Baseline points="464,4003 635,3994 806,3985 977,3977 1148,3969 1319,3960 1490,3952 1662,3944 1833,3936 2004,3928 2175,3920 2346,3913 2517,3905 2688,3898 2860,3890 3031,3882 3202,3875 3373,3867 3544,3859 3715,3851 3887,3843"/>
+                <TextEquiv>
+                    <Unicode>gelegene Schamben u. Gebirgsbilder. Um 12½ zurück. Wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="433,4237 1054,4119 2152,4183 2361,4081 2502,4173 2653,4056 3867,4142 3949,3961 3072,3898 2758,4021 2231,3935 2071,4044 1394,3973 428,4109"/>
+                <Baseline points="455,4179 628,4166 802,4154 976,4143 1149,4132 1323,4123 1497,4114 1670,4106 1844,4098 2018,4091 2192,4084 2365,4078 2539,4072 2713,4067 2886,4062 3060,4057 3234,4053 3407,4048 3581,4044 3755,4040 3929,4036"/>
+                <TextEquiv>
+                    <Unicode>im Süden die Silbe Nam-(-wiranye, -unda, -yura u. s. w.),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887865050_2018" custom="readingOrder {index:26;}">
+                <Coords points="433,4386 1285,4271 3766,4340 3994,4240 3990,4120 2977,4063 2781,4158 2653,4055 2515,4184 838,4160 430,4293"/>
+                <Baseline points="454,4352 493,4349 532,4346 572,4343 611,4340 651,4336 690,4333 729,4330 769,4326 808,4323 848,4320 887,4316 926,4313 966,4309 1005,4306 1045,4302 1084,4299 1123,4295 1163,4292 1202,4288 1242,4285 1488,4290 1612,4285 1736,4281 1860,4276 1984,4272 2108,4268 2232,4263 2357,4259 2481,4256 2605,4253 2729,4249 2853,4247 2977,4244 3101,4241 3226,4239 3350,4237 3474,4236 3598,4234 3722,4233 3846,4232 3971,4231"/>
+                <TextEquiv>
+                    <Unicode>im Osten „ „ Mat- oder Mta-(Mtapaia, Mtarika, Matapua),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887869408_2023" custom="readingOrder {index:27;}">
+                <Coords points="404,4625 1392,4453 3523,4513 3987,4333 397,4430"/>
+                <Baseline points="421,4526 462,4524 503,4523 545,4522 586,4520 628,4519 669,4518 711,4516 752,4514 794,4513 835,4510 876,4508 918,4506 959,4503 1001,4500 1042,4497 1084,4494 1125,4491 1167,4487 1208,4482 1250,4478 1470,4464 1594,4462 1719,4459 1844,4455 1969,4451 2094,4447 2218,4443 2343,4439 2468,4434 2593,4430 2718,4427 2842,4423 2967,4420 3092,4417 3217,4414 3342,4412 3466,4411 3591,4410 3716,4410 3841,4410 3966,4412"/>
+                <TextEquiv>
+                    <Unicode>so herrscht hier „ „ Li: Ligomba (auch Ki u. Sigomba genannt),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:28;}">
+                <Coords points="444,4778 522,4747 599,4774 688,4711 720,4727 790,4696 1011,4767 1100,4687 1152,4675 1145,4551 1100,4544 1032,4584 995,4560 936,4616 829,4609 676,4645 634,4612 568,4620 498,4566 434,4610"/>
+                <Baseline points="459,4700 492,4699 526,4699 559,4697 593,4696 626,4695 660,4692 693,4691 727,4689 760,4687 794,4685 827,4683 861,4681 894,4678 928,4677 961,4674 995,4672 1028,4669 1062,4667 1095,4665 1129,4663"/>
+                <TextEquiv>
+                    <Unicode>Liala u. dgl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:29;}">
+                <Coords points="599,4904 2729,4764 3707,4885 3729,4676 2960,4595 2249,4730 1612,4593 1354,4745 1130,4670 596,4775"/>
+                <Baseline points="620,4845 774,4833 928,4822 1083,4813 1237,4805 1392,4798 1546,4791 1701,4786 1855,4781 2010,4778 2164,4775 2318,4772 2473,4770 2627,4769 2782,4768 2936,4768 3091,4768 3245,4768 3400,4768 3554,4768 3709,4768"/>
+                <TextEquiv>
+                    <Unicode>Nachm. photographiert. Einige meiner Leute haben noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>48&#xD;
+mich hinauf. Hier seltsamerweise, fern vom Wasser&#xD;
+Schopfperlhühner, auch ein gerupftes u. in Anbetracht der&#xD;
+gestrigen Nähe des Löwen etwas unsympathisches. Oben&#xD;
+alles verwachsen, mein Träger machte mich auf die&#xD;
+Gummiliane aufmerksam. Offenbar war es kein&#xD;
+schmaler Rücken, sondern ein breites Plateau, also&#xD;
+nach kurzer Rast zurück. Unterhalb der Höhe etwas&#xD;
+Durchblick auf den Kranz von Plateaus, in dessen&#xD;
+Mittelpunkt der Tendaguru aus einer scheinbaren Ebene&#xD;
+wie ein Basaltkegel aus einem Einbruchskessel&#xD;
+herausragte. Die Erscheinung der beiden Plateaustufen&#xD;
+innerhalb des gleichen Gesteins ist mir ohne (u. ei„&#xD;
+gentlich auch mit) Annahme tektonischer Störungen schwer&#xD;
+verständlich. Eine Abrasionsterrasse müßte doch auch&#xD;
+Ablagerungen des Meeres aufweisen, diese aber hier&#xD;
+trägt nur Dünensand, wenigstens das Material&#xD;
+dazu; ein Wasserriß, beginnt nur eben einzuschneiden&#xD;
+u. entwässert nach O., vielleicht dringt alles Wasser&#xD;
+sofort in die Tiefe. Um das tiefere Profil noch an&#xD;
+andrer Stelle zu sehen, wählte ich den sehr steilen&#xD;
+Abstieg über Liala, fand hier aber weitere Hügel„&#xD;
+züge vorgelagert, so daß ein flüchtiger Einblick in&#xD;
+den Aufbau nicht zu erlangen war. Dafür hübsch&#xD;
+gelegene Schamben u. Gebirgsbilder. Um 12½ zurück. Wie&#xD;
+im Süden die Silbe Nam-(-wiranye, -unda, -yura u. s. w.),&#xD;
+im Osten „ „ Mat- oder Mta-(Mtapaia, Mtarika, Matapua),&#xD;
+so herrscht hier „ „ Li: Ligomba (auch Ki u. Sigomba genannt),&#xD;
+Liala u. dgl.&#xD;
+Nachm. photographiert. Einige meiner Leute haben noch</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

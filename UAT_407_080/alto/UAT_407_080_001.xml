@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-02-02T09:45:33.13+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5170" WIDTH="4305">
+         <TopMargin HEIGHT="0" WIDTH="4305" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5170" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5170" WIDTH="0" VPOS="0" HPOS="4305"/>
+         <BottomMargin HEIGHT="0" WIDTH="4305" VPOS="5170" HPOS="0"/>
+         <PrintSpace HEIGHT="5170" WIDTH="4305" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1582818485589_1144"
+                       HEIGHT="266"
+                       WIDTH="727"
+                       VPOS="298"
+                       HPOS="2496">
+               <Shape>
+                  <Polygon POINTS="2496,298 2902,316 3223,319 3127,564 2875,564 2496,539"/>
+               </Shape>
+               <TextLine ID="line_1582818513462_1152"
+                         BASELINE="461"
+                         HEIGHT="143"
+                         WIDTH="668"
+                         VPOS="318"
+                         HPOS="2520">
+                  <String ID="string_line_1582818513462_1152"
+                          HEIGHT="143"
+                          WIDTH="668"
+                          VPOS="318"
+                          HPOS="2520"
+                          CONTENT="Tendagaguru-Exped."/>
+               </TextLine>
+               <TextLine ID="line_1582818520080_1158"
+                         BASELINE="565"
+                         HEIGHT="131"
+                         WIDTH="573"
+                         VPOS="434"
+                         HPOS="2568">
+                  <String ID="string_line_1582818520080_1158"
+                          HEIGHT="131"
+                          WIDTH="573"
+                          VPOS="434"
+                          HPOS="2568"
+                          CONTENT="11.III.09 - 29.IV.10"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

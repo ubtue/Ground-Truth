@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:52.929+02:00</Created>
+        <LastChange>2020-03-16T15:15:07.343+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550696" pageNr="2" tsid="25742887" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=VEFSAKXLBIQSPBFPYNENHBXD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TAKIAOIBRGRHPAAERUEHQSVC" imageId="4551574"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_002.jpg" imageWidth="4305" imageHeight="5170">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255533161" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r4"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1582818563386_1171"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:0;}">
+            <Coords points="2033,274 2033,588 3360,588 3360,274"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="2204,425 2509,377 2592,416 2660,386 2789,480 2949,349 3188,362 3185,313 2994,177 2797,295 2706,255 2654,294 2595,251 2493,307 2391,243 2201,375"/>
+                <Baseline points="2210,402 2258,398 2306,395 2355,391 2403,389 2452,385 2500,383 2549,379 2597,376 2646,374 2694,371 2742,368 2791,365 2839,363 2888,361 2936,358 2985,355 3033,353 3082,351 3130,350 3179,347"/>
+                <TextEquiv>
+                    <Unicode>Dr. Edw. Hennig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="2025,585 2480,584 2616,522 2754,583 2945,517 3312,532 3368,517 3363,396 3210,335 3065,409 2892,408 2794,482 2667,435 2569,482 2486,436 2355,486 2120,450 2022,496"/>
+                <Baseline points="2033,552 2099,550 2165,548 2232,545 2298,541 2364,538 2431,535 2497,531 2563,528 2630,525 2696,522 2762,518 2829,515 2895,512 2961,510 3028,508 3094,507 3160,506 3227,506 3293,506 3360,507"/>
+                <TextEquiv>
+                    <Unicode>Berlin N. 4. Invalidenstr. 43.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr. Edw. Hennig&#xD;
+Berlin N. 4. Invalidenstr. 43.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1582818563386_1171" custom="readingOrder {index:1;}">
+            <Coords points="858,743 970,707 1874,707 1874,885 942,896 858,896"/>
+            <TextLine id="line_1582818568016_1176" custom="readingOrder {index:0;}">
+                <Coords points="851,865 1118,812 1231,864 1830,858 1883,846 1878,715 1641,738 1512,703 1346,752 1141,693 845,729"/>
+                <Baseline points="858,843 886,846 914,844 942,843 970,832 1015,834 1060,835 1105,835 1150,835 1196,833 1241,831 1286,829 1331,826 1376,823 1422,820 1467,817 1512,814 1557,812 1602,810 1648,808 1693,807 1738,807 1783,808 1828,810 1874,813"/>
+                <TextEquiv>
+                    <Unicode>11.III. 1909 - 28.IV. 10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>11.III. 1909 - 28.IV. 10</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M5(htr_id=20484)::::v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.0
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.3
+Transkribus</Creator>
+        <Created>2019-12-18T08:33:27.130+01:00</Created>
+        <LastChange>2020-01-16T12:52:07.580+01:00</LastChange>
+        <TranskribusMetadata docId="296974" pageId="11822288" pageNr="109" tsid="22425609" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=YSEJNCZCWTBGMRWAOKQQBCLZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VVFYIBDXAYWEERJKYGNRPKIN" imageId="8187595"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_105_109.jpg" imageWidth="3807" imageHeight="5349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613474329354" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="84,116 82,2419 1802,2421 1804,118"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1646,172 1671,166 1687,178 1723,184 1735,196 1743,194 1747,199 1753,195 1777,205 1783,129 1773,129 1736,99 1725,106 1709,99 1669,119 1651,113"/>
+                <Baseline points="1658,142 1686,143 1715,145 1743,148 1772,150"/>
+                <TextEquiv>
+                    <Unicode>102</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579087098822_1264" custom="readingOrder {index:1;}">
+                <Coords points="154,199 382,256 912,186 1589,240 1667,222 1667,126 1160,173 976,126 865,165 154,154"/>
+                <Baseline points="165,197 248,195 331,193 414,192 496,191 579,190 662,190 745,190 828,190 910,190 993,191 1076,191 1159,192 1242,192 1324,192 1407,192 1490,192 1573,192 1656,191"/>
+                <TextEquiv>
+                    <Unicode>eine Dissonanz in eine Harmonie auflöst, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="155,331 1586,270 1814,320 1813,236 1754,228 155,241"/>
+                <Baseline points="165,280 251,282 337,283 423,283 510,283 596,281 682,280 768,278 855,276 941,274 1027,273 1113,271 1200,270 1286,270 1372,271 1458,272 1545,274 1631,278 1717,283 1804,289"/>
+                <TextEquiv>
+                    <Unicode>sagen Sie ganz recht: Leid ist werdende Freude, natür„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="148,390 214,426 309,376 699,368 790,412 945,369 1023,420 1148,357 1474,403 1584,363 1584,289 1156,343 846,305 633,350 321,304 147,339"/>
+                <Baseline points="157,367 227,368 298,368 369,369 440,369 511,369 582,368 652,368 723,368 794,367 865,366 936,365 1007,364 1078,363 1148,362 1219,361 1290,359 1361,358 1432,357 1503,355 1574,354"/>
+                <TextEquiv>
+                    <Unicode>lich wenn man es dazu macht, und dazu ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="155,459 274,444 358,500 497,444 755,501 993,443 1083,502 1255,459 1430,493 1495,444 1682,450 1682,386 155,404"/>
+                <Baseline points="165,444 240,444 315,443 390,442 466,442 541,442 616,441 692,441 767,441 842,441 918,441 993,441 1068,441 1143,441 1219,441 1294,441 1369,441 1445,441 1520,440 1595,440 1671,440"/>
+                <TextEquiv>
+                    <Unicode>eine gewisse Fähigkeit nötig. Goethe schildert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="155,550 340,537 528,595 609,542 719,585 869,524 1252,543 1400,597 1474,541 1609,548 1609,501 1513,484 156,478"/>
+                <Baseline points="165,535 236,532 308,530 379,528 451,527 523,526 594,526 666,526 738,526 809,527 881,528 953,529 1024,530 1096,531 1168,532 1239,533 1311,534 1383,534 1454,534 1526,534 1598,533"/>
+                <TextEquiv>
+                    <Unicode>den Vorgang im Tasso: „So klammert sich der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="156,627 264,670 457,620 521,671 656,617 912,672 1164,612 1382,664 1662,625 1662,586 1525,553 1164,593 883,524 699,595 155,569"/>
+                <Baseline points="165,616 239,616 313,616 388,615 462,615 536,615 611,614 685,614 759,614 834,613 908,613 982,613 1057,613 1131,612 1205,612 1280,612 1354,612 1428,612 1503,612 1577,613 1652,613"/>
+                <TextEquiv>
+                    <Unicode>Schiffer noch am Felsen fest, an dem er scheitern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="155,753 306,709 577,769 774,704 1288,714 1365,759 1666,716 1632,644 154,657"/>
+                <Baseline points="166,714 240,711 314,707 389,705 463,703 538,702 612,701 687,701 761,701 836,701 910,701 984,701 1059,701 1133,701 1208,701 1282,701 1357,701 1431,700 1506,698 1580,696 1655,694"/>
+                <TextEquiv>
+                    <Unicode>sollte“. Bei Tasso ist es wieder die Dichtergabe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="164,812 410,795 484,846 560,800 737,847 806,799 1083,790 1145,845 1226,807 1276,844 1671,776 1670,716 963,769 164,749"/>
+                <Baseline points="174,791 248,791 322,791 397,790 471,790 545,790 620,790 694,789 768,789 843,788 917,788 991,787 1066,786 1140,785 1214,784 1289,783 1363,782 1437,780 1512,778 1586,776 1661,774"/>
+                <TextEquiv>
+                    <Unicode>die ihm diese Fähigkeit verleiht, sich über das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="156,885 267,925 398,869 630,913 1193,867 1573,902 1720,877 1720,799 1349,842 156,827"/>
+                <Baseline points="167,864 244,865 321,865 398,865 475,865 552,864 629,864 706,864 783,863 860,863 938,863 1015,862 1092,862 1169,861 1246,861 1323,860 1400,860 1477,859 1554,859 1631,858 1709,858"/>
+                <TextEquiv>
+                    <Unicode>Unglück emporzuschwingen, indem er seinen „Zustand“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="177,963 288,1007 708,956 1017,1004 1218,947 1329,1011 1540,948 1737,963 1616,886 177,932"/>
+                <Baseline points="186,958 263,957 340,956 417,955 494,954 571,954 648,953 725,952 802,952 879,952 956,951 1033,951 1110,951 1187,951 1264,951 1341,950 1418,950 1495,950 1572,950 1649,950 1727,950"/>
+                <TextEquiv>
+                    <Unicode>durch Dichten in einen „Gegenstand“ umsetzt. Man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="168,1042 254,1091 518,1037 613,1086 707,1032 810,1078 1164,1026 1501,1057 1595,1048 1629,982 1080,1007 590,959 444,1013 245,968 168,1001"/>
+                <Baseline points="178,1035 250,1034 322,1033 394,1032 466,1031 538,1029 610,1028 682,1027 754,1026 826,1026 899,1025 971,1024 1043,1024 1115,1023 1187,1023 1259,1023 1331,1023 1403,1024 1475,1024 1547,1025 1620,1026"/>
+                <TextEquiv>
+                    <Unicode>muß den Standpunkt finden, von dem aus die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="169,1122 524,1159 608,1115 731,1165 965,1107 1258,1109 1316,1153 1590,1107 1368,1048 1225,1086 1140,1048 1053,1086 964,1048 169,1075"/>
+                <Baseline points="179,1116 249,1115 319,1113 389,1112 459,1111 529,1110 599,1109 669,1108 739,1107 809,1106 879,1106 949,1105 1019,1105 1089,1104 1159,1104 1229,1103 1299,1103 1369,1102 1439,1102 1509,1101 1580,1101"/>
+                <TextEquiv>
+                    <Unicode>vorüberziehende Gewitterwolke im schönen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="169,1256 403,1197 640,1237 750,1192 822,1234 877,1190 1005,1233 1137,1186 1251,1236 1428,1182 1601,1214 1631,1146 167,1168"/>
+                <Baseline points="178,1195 250,1195 322,1195 394,1195 466,1194 539,1193 611,1192 683,1191 755,1189 827,1188 900,1186 972,1185 1044,1184 1116,1182 1188,1181 1261,1180 1333,1179 1405,1178 1477,1178 1549,1178 1622,1179"/>
+                <TextEquiv>
+                    <Unicode>Gewand des Regenbogens erscheint. Ebenso nun,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="168,1289 1082,1278 1154,1326 1357,1266 1476,1310 1748,1286 1748,1247 1510,1199 1383,1244 915,1210 168,1263"/>
+                <Baseline points="177,1278 255,1279 333,1280 411,1281 489,1280 567,1280 645,1279 723,1278 801,1276 879,1274 958,1273 1036,1271 1114,1269 1192,1268 1270,1267 1348,1266 1426,1265 1504,1265 1582,1265 1660,1266 1739,1268"/>
+                <TextEquiv>
+                    <Unicode>wie Freude u. Leid dasselbe Ding von verschiedenem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="192,1382 1543,1379 1635,1372 1661,1318 1034,1331 958,1284 755,1331 580,1288 376,1333 191,1296"/>
+                <Baseline points="201,1363 273,1362 346,1361 418,1360 491,1359 563,1358 636,1357 708,1356 781,1355 853,1354 926,1353 998,1352 1071,1351 1143,1351 1216,1350 1288,1350 1361,1350 1433,1350 1506,1350 1578,1350 1651,1351"/>
+                <TextEquiv>
+                    <Unicode>Standpunkt aus darstellt, etwa von oben und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="175,1453 440,1494 757,1433 880,1484 1048,1436 1713,1464 1712,1402 1521,1381 175,1405"/>
+                <Baseline points="185,1440 260,1439 336,1438 412,1437 488,1436 564,1435 640,1434 715,1433 791,1433 867,1432 943,1432 1019,1431 1095,1431 1171,1431 1246,1431 1322,1431 1398,1431 1474,1432 1550,1432 1626,1433 1702,1434"/>
+                <TextEquiv>
+                    <Unicode>unten gesehen, ist es auch bei allen übrigen Gegen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="172,1560 1592,1511 1533,1460 1308,1495 1031,1448 955,1489 545,1453 438,1494 239,1441 172,1474"/>
+                <Baseline points="182,1511 252,1513 322,1514 392,1514 462,1515 532,1515 602,1515 672,1515 742,1514 812,1514 882,1513 952,1513 1022,1512 1092,1512 1162,1512 1232,1512 1302,1512 1372,1512 1442,1513 1512,1514 1583,1515"/>
+                <TextEquiv>
+                    <Unicode>sätzen: z. B. Körper u. Geist von innen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="159,1623 618,1601 718,1656 1079,1595 1152,1635 1211,1590 1641,1589 1639,1511 1087,1566 836,1510 681,1573 244,1541 158,1578"/>
+                <Baseline points="170,1602 243,1602 316,1601 389,1601 462,1600 535,1599 608,1598 681,1596 754,1595 827,1593 900,1592 973,1590 1046,1588 1119,1586 1192,1584 1265,1582 1338,1581 1411,1579 1484,1577 1557,1575 1630,1574"/>
+                <TextEquiv>
+                    <Unicode>außen (und damit fallen für mich Dualismus u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;} textStyle {offset:23; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="171,1713 701,1675 950,1713 1117,1663 1180,1721 1453,1665 1532,1709 1638,1682 1637,1590 541,1657 169,1617"/>
+                <Baseline points="181,1681 253,1680 325,1679 398,1677 470,1676 542,1674 615,1672 687,1670 759,1669 832,1667 904,1665 976,1664 1049,1663 1121,1661 1193,1660 1266,1659 1338,1658 1410,1658 1483,1658 1555,1658 1628,1658"/>
+                <TextEquiv>
+                    <Unicode>Monismus unter eine Kathegorie), Gut u. Böse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="176,1801 282,1775 365,1823 848,1755 1103,1806 1210,1753 1554,1803 1665,1735 1664,1680 1540,1713 1453,1665 1290,1723 175,1721"/>
+                <Baseline points="186,1760 259,1759 332,1759 406,1759 479,1758 553,1758 626,1757 700,1756 773,1755 847,1754 920,1753 993,1752 1067,1751 1140,1749 1214,1748 1287,1746 1361,1744 1434,1742 1508,1739 1581,1736 1655,1734"/>
+                <TextEquiv>
+                    <Unicode>zu verschiedenen Entwicklungszeiten. Es fragt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="159,1913 632,1846 821,1897 1288,1837 1374,1891 1464,1842 1580,1894 1651,1848 1619,1772 1544,1815 1078,1823 692,1759 430,1827 247,1778 158,1818"/>
+                <Baseline points="168,1857 241,1855 315,1853 388,1851 462,1849 536,1847 609,1846 683,1845 756,1844 830,1843 904,1842 977,1841 1051,1840 1124,1839 1198,1839 1272,1838 1345,1837 1419,1836 1492,1835 1566,1835 1640,1834"/>
+                <TextEquiv>
+                    <Unicode>sich nun: Sind Naturstudium u. -Genuß auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="156,1945 275,1987 465,1927 937,1973 1187,1922 1290,1964 1400,1913 1519,1938 1518,1862 1379,1893 1288,1837 916,1904 599,1869 155,1911"/>
+                <Baseline points="166,1929 233,1929 300,1929 367,1929 434,1929 501,1928 568,1927 635,1926 702,1925 769,1923 837,1922 904,1921 971,1919 1038,1918 1105,1917 1172,1916 1239,1915 1306,1914 1373,1914 1440,1914 1508,1914"/>
+                <TextEquiv>
+                    <Unicode>verschiedene Stadien der Entwicklung oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="156,2035 355,2017 442,2061 586,2011 1121,1993 1276,2054 1332,2006 1419,2018 1417,1940 155,1972"/>
+                <Baseline points="166,2017 228,2015 290,2012 352,2010 414,2008 476,2006 538,2005 601,2003 663,2001 725,2000 787,1999 849,1998 911,1997 973,1996 1036,1996 1098,1995 1160,1995 1222,1994 1284,1994 1346,1994 1409,1994"/>
+                <TextEquiv>
+                    <Unicode>können sie nebeneinander bestehen?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="322,2109 437,2144 603,2089 705,2085 761,2134 908,2091 1076,2140 1345,2074 1671,2095 1640,2054 1325,2021 1265,2060 816,2009 650,2054 322,2040"/>
+                <Baseline points="332,2082 398,2083 464,2083 531,2083 597,2083 664,2083 730,2082 796,2082 863,2082 929,2081 996,2081 1062,2080 1128,2080 1195,2080 1261,2080 1328,2081 1394,2081 1460,2082 1527,2083 1593,2085 1660,2087"/>
+                <TextEquiv>
+                    <Unicode>Nach Ihrer Beschreibung sollte man an„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="168,2182 391,2175 481,2230 584,2182 1045,2182 1105,2224 1221,2187 1295,2230 1385,2176 1638,2207 1678,2135 659,2118 346,2161 278,2120 167,2160"/>
+                <Baseline points="177,2180 251,2180 326,2179 400,2179 475,2178 550,2178 624,2177 699,2177 773,2176 848,2176 923,2175 997,2175 1072,2174 1146,2174 1221,2174 1296,2173 1370,2173 1445,2173 1519,2173 1594,2173 1669,2173"/>
+                <TextEquiv>
+                    <Unicode>nehmen, daß aus dem Naturpoeten der Natur„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="175,2286 1693,2296 1669,2212 593,2205 446,2245 175,2180"/>
+                <Baseline points="186,2272 260,2270 335,2269 410,2267 485,2266 560,2264 635,2263 709,2262 784,2261 859,2260 934,2260 1009,2259 1084,2258 1159,2258 1233,2258 1308,2258 1383,2258 1458,2258 1533,2258 1608,2259 1683,2259"/>
+                <TextEquiv>
+                    <Unicode>forscher, aus diesem der Naturphilosoph hervor„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="191,2417 576,2365 634,2416 1257,2416 1417,2356 1632,2378 1632,2311 191,2333"/>
+                <Baseline points="202,2360 273,2359 344,2359 415,2359 486,2358 557,2358 628,2358 699,2358 770,2358 841,2358 912,2358 983,2358 1054,2358 1125,2358 1196,2358 1267,2358 1338,2358 1409,2358 1480,2358 1551,2357 1622,2357"/>
+                <TextEquiv>
+                    <Unicode>geht. Unzweifelhaft geht ja auch bei allen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>102&#xD;
+eine Dissonanz in eine Harmonie auflöst, so&#xD;
+sagen Sie ganz recht: Leid ist werdende Freude, natür„&#xD;
+lich wenn man es dazu macht, und dazu ist&#xD;
+eine gewisse Fähigkeit nötig. Goethe schildert&#xD;
+den Vorgang im Tasso: „So klammert sich der&#xD;
+Schiffer noch am Felsen fest, an dem er scheitern&#xD;
+sollte“. Bei Tasso ist es wieder die Dichtergabe,&#xD;
+die ihm diese Fähigkeit verleiht, sich über das&#xD;
+Unglück emporzuschwingen, indem er seinen „Zustand“&#xD;
+durch Dichten in einen „Gegenstand“ umsetzt. Man&#xD;
+muß den Standpunkt finden, von dem aus die&#xD;
+vorüberziehende Gewitterwolke im schönen&#xD;
+Gewand des Regenbogens erscheint. Ebenso nun,&#xD;
+wie Freude u. Leid dasselbe Ding von verschiedenem&#xD;
+Standpunkt aus darstellt, etwa von oben und&#xD;
+unten gesehen, ist es auch bei allen übrigen Gegen„&#xD;
+sätzen: z. B. Körper u. Geist von innen und&#xD;
+außen (und damit fallen für mich Dualismus u.&#xD;
+Monismus unter eine Kathegorie), Gut u. Böse&#xD;
+zu verschiedenen Entwicklungszeiten. Es fragt&#xD;
+sich nun: Sind Naturstudium u. -Genuß auch&#xD;
+verschiedene Stadien der Entwicklung oder&#xD;
+können sie nebeneinander bestehen?&#xD;
+Nach Ihrer Beschreibung sollte man an„&#xD;
+nehmen, daß aus dem Naturpoeten der Natur„&#xD;
+forscher, aus diesem der Naturphilosoph hervor„&#xD;
+geht. Unzweifelhaft geht ja auch bei allen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

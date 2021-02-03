@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:59.860+02:00</Created>
+        <LastChange>2020-03-26T16:56:00.476+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550840" pageNr="138" tsid="26483022" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=BKFHYBWRBAJUUWJYEFSKYYHL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FKMSZCMRRFSZYEDZAQXJBXLC" imageId="4551718"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_138.jpg" imageWidth="4324" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255571716" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="252,339 252,4916 4048,4916 4048,339"/>
+            <TextLine id="line_1582896876025_3987" custom="readingOrder {index:0;}">
+                <Coords points="225,476 283,470 295,484 309,476 344,492 384,476 432,492 525,413 547,414 552,309 468,313 430,284 375,321 310,309 282,329 265,319 234,326"/>
+                <Baseline points="252,419 367,426 483,432 522,434"/>
+                <TextEquiv>
+                    <Unicode>134</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582896883022_3993" custom="readingOrder {index:1;}">
+                <Coords points="498,473 861,599 1084,493 1591,481 1858,614 2685,467 2912,604 3544,497 4072,591 4074,468 3790,334 500,367"/>
+                <Baseline points="522,434 598,438 714,443 830,448 945,452 1061,457 1177,461 1292,463 1408,467 1524,470 1639,472 1755,475 1871,477 1986,479 2102,480 2218,482 2333,484 2449,485 2565,487 2860,458 2919,464 2978,469 3038,474 3097,477 3157,480 3216,482 3275,484 3335,486 3394,488 3454,490 3513,493 3572,496 3632,500 3691,506 3751,512 3810,520 3869,530 3929,541 3988,554 4048,570"/>
+                <TextEquiv>
+                    <Unicode>Telephon macht auf meinen Wilhelm gewaltigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582896889139_4000" custom="readingOrder {index:2;}">
+                <Coords points="530,812 981,671 1636,819 2220,666 2549,802 3317,687 3589,817 4009,777 4010,614 3627,557 532,592"/>
+                <Baseline points="555,673 681,673 807,673 933,672 1059,672 1185,672 1311,672 1438,671 1564,671 1690,671 1816,670 1942,670 2068,670 2194,670 2321,670 2447,670 2573,670 2699,670 2825,670 2951,671 3078,671 3202,669 3241,673 3280,678 3320,682 3359,685 3398,688 3438,691 3477,694 3516,697 3556,700 3595,702 3634,706 3674,708 3713,711 3752,714 3792,717 3831,720 3870,724 3910,728 3949,733 3989,737"/>
+                <TextEquiv>
+                    <Unicode>Eindruck, freilich war es heut besonders stark</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="567,1013 1445,913 2330,1038 2904,909 3287,1048 3614,922 4028,978 4029,775 3614,825 3320,687 2631,837 2244,715 568,832"/>
+                <Baseline points="588,893 758,896 929,898 1100,898 1271,898 1442,897 1613,896 1784,894 1955,892 2126,891 2297,890 2467,889 2638,889 2809,890 2980,892 3151,896 3322,901 3493,908 3664,917 3835,928 4006,941"/>
+                <TextEquiv>
+                    <Unicode>in Tätigkeit, da Entgleisung in d. Nähe. Arbeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="561,1124 1499,1234 1713,1101 2784,1103 3236,1246 3533,1114 3996,1138 3958,1014 3820,1083 3527,959 2242,1069 1477,894 563,1013"/>
+                <Baseline points="584,1101 753,1101 922,1100 1092,1100 1261,1101 1431,1101 1600,1102 1769,1103 1939,1104 2108,1106 2278,1108 2447,1111 2616,1113 2786,1117 2955,1121 3125,1125 3294,1129 3463,1134 3633,1139 3802,1146 3972,1152"/>
+                <TextEquiv>
+                    <Unicode>d. ganze Nacht. Der Bahnmeister raste mehr„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582896894808_4005" custom="readingOrder {index:5;}">
+                <Coords points="585,1340 2477,1313 3387,1430 4001,1394 4004,1271 3760,1124 3329,1274 2760,1275 2287,1115 1972,1232 1233,1146 587,1252"/>
+                <Baseline points="609,1296 694,1297 779,1298 865,1298 950,1298 1036,1298 1121,1298 1206,1298 1292,1298 1377,1297 1463,1297 1548,1297 1633,1297 1719,1298 1804,1298 1890,1299 1975,1300 2060,1302 2146,1304 2231,1307 2317,1310 2352,1295 2433,1306 2514,1315 2595,1322 2677,1328 2758,1332 2839,1334 2921,1335 3002,1336 3083,1336 3165,1336 3246,1336 3327,1337 3408,1338 3490,1339 3571,1342 3652,1346 3734,1353 3815,1360 3896,1370 3978,1383"/>
+                <TextEquiv>
+                    <Unicode>mals mit kleinem Motor vorbei. Wilhelm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="592,1564 1713,1488 2081,1623 2255,1507 2979,1499 3898,1596 3955,1425 2331,1451 1853,1332 594,1427"/>
+                <Baseline points="616,1483 781,1483 947,1483 1113,1483 1279,1484 1445,1485 1610,1487 1776,1489 1942,1491 2108,1493 2274,1497 2439,1500 2605,1503 2771,1507 2937,1512 3103,1517 3268,1522 3434,1528 3600,1534 3766,1540 3932,1547"/>
+                <TextEquiv>
+                    <Unicode>meinte, der Wagen würde vom Winde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="625,1830 2247,1716 2754,1849 3411,1704 3640,1850 3839,1620 1978,1633 1635,1531 1344,1663 625,1632"/>
+                <Baseline points="645,1716 803,1716 962,1716 1121,1715 1279,1714 1438,1713 1597,1711 1755,1710 1914,1708 2073,1707 2232,1706 2390,1705 2549,1704 2708,1705 2866,1706 3025,1707 3184,1710 3342,1714 3501,1719 3660,1724 3819,1732"/>
+                <TextEquiv>
+                    <Unicode>getrieben. D. Schwarze an Telephon u. Weiche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="629,2040 1468,1899 1754,2013 2169,1934 2340,2059 3492,1940 3742,2062 4003,1986 4005,1810 632,1824"/>
+                <Baseline points="651,1923 817,1918 984,1914 1150,1911 1317,1909 1483,1908 1650,1907 1816,1908 1983,1909 2149,1910 2316,1912 2483,1915 2649,1918 2816,1922 2982,1926 3149,1930 3315,1935 3482,1939 3648,1944 3815,1949 3982,1954"/>
+                <TextEquiv>
+                    <Unicode>recht zuverlässig u. umsichtig, aber d. Weiße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="613,2144 904,2127 1058,2255 1397,2256 1578,2128 1944,2257 2324,2095 3699,2199 3699,2066 3532,2040 2337,2055 1918,1931 613,2029"/>
+                <Baseline points="637,2123 789,2123 941,2122 1093,2120 1245,2118 1397,2117 1549,2115 1701,2113 1853,2111 2005,2110 2157,2109 2309,2108 2461,2108 2613,2109 2765,2110 2917,2113 3069,2117 3221,2122 3373,2128 3525,2135 3678,2144"/>
+                <TextEquiv>
+                    <Unicode>giebt schlechtes Beispiel, indem er ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582896902640_4010" custom="readingOrder {index:10;}">
+                <Coords points="578,2393 1010,2317 1535,2439 1812,2311 2143,2407 2773,2291 3470,2435 3752,2325 3752,2175 1856,2267 1503,2170 922,2269 577,2128"/>
+                <Baseline points="599,2317 672,2316 746,2316 819,2315 893,2314 967,2314 1040,2313 1114,2313 1188,2312 1261,2312 1335,2312 1408,2312 1482,2311 1556,2311 1629,2312 1703,2312 1777,2312 1850,2312 1924,2313 1998,2313 2083,2302 2165,2301 2247,2301 2330,2301 2412,2302 2494,2302 2577,2302 2659,2303 2741,2303 2824,2304 2906,2305 2988,2306 3071,2307 3153,2308 3235,2309 3318,2310 3400,2311 3482,2313 3565,2314 3647,2315 3730,2316"/>
+                <TextEquiv>
+                    <Unicode>Warnungssignal ignoriert, da er besser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="592,2587 778,2645 874,2555 1309,2521 1469,2594 1587,2530 1949,2528 1948,2449 1704,2409 1560,2455 1452,2373 1366,2459 1075,2473 870,2357 589,2441"/>
+                <Baseline points="614,2538 679,2535 745,2533 810,2531 876,2529 941,2528 1007,2526 1072,2526 1138,2525 1203,2524 1269,2523 1335,2523 1400,2522 1466,2521 1531,2520 1597,2519 1662,2518 1728,2516 1793,2514 1859,2512 1925,2509"/>
+                <TextEquiv>
+                    <Unicode>informiert war.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="740,2758 1661,2662 2041,2763 2552,2668 3892,2744 3985,2585 2763,2505 1445,2610 1299,2518 740,2621"/>
+                <Baseline points="763,2697 931,2693 1099,2690 1268,2685 1436,2681 1604,2677 1773,2673 1941,2670 2109,2667 2278,2665 2446,2663 2615,2663 2783,2663 2951,2664 3120,2667 3288,2671 3456,2675 3625,2682 3793,2690 3962,2700"/>
+                <TextEquiv>
+                    <Unicode>16.II: Morgens an d. Bahn aufwärts, um den Ammoniten-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="580,2908 2701,2950 3264,2842 3698,2960 3855,2879 3854,2712 578,2758"/>
+                <Baseline points="600,2869 761,2869 923,2868 1085,2866 1246,2863 1408,2859 1570,2855 1731,2851 1893,2846 2055,2842 2217,2838 2378,2835 2540,2832 2702,2830 2863,2829 3025,2830 3187,2832 3348,2835 3510,2840 3672,2847 3834,2857"/>
+                <TextEquiv>
+                    <Unicode>Fundort Kinkelins zu suchen. Nicht gefunden, aber mit Hilfe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+                <Coords points="581,3108 3150,2994 3592,3114 3966,3005 3965,2900 580,2980"/>
+                <Baseline points="600,3026 767,3023 934,3019 1101,3017 1269,3014 1436,3011 1603,3008 1770,3006 1938,3004 2105,3002 2272,3000 2439,2998 2607,2997 2774,2997 2941,2996 3108,2996 3276,2996 3443,2997 3610,2998 3777,3000 3945,3002"/>
+                <TextEquiv>
+                    <Unicode>unsers trefflichen Salesi andre sehr gute Fossilbänke. Heut u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+                <Coords points="554,3262 2360,3152 3344,3211 3376,3021 551,3104"/>
+                <Baseline points="576,3191 715,3185 854,3179 993,3174 1132,3170 1271,3166 1410,3162 1549,3159 1688,3156 1827,3154 1966,3151 2105,3149 2244,3148 2383,3146 2522,3145 2661,3144 2800,3143 2939,3142 3078,3141 3217,3141 3357,3140"/>
+                <TextEquiv>
+                    <Unicode>an folgenden Tagen ferner an d. Bahn beobachtet:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:16;}">
+                <Coords points="840,3367 3102,3403 3273,3318 3896,3415 4000,3216 2925,3268 2315,3144 839,3274"/>
+                <Baseline points="861,3352 1025,3351 1189,3350 1353,3349 1517,3347 1681,3345 1845,3343 2010,3341 2174,3339 2338,3337 2502,3335 2666,3333 2830,3332 2995,3331 3159,3330 3323,3330 3487,3331 3651,3333 3815,3335 3980,3338"/>
+                <TextEquiv>
+                    <Unicode>km 123 („Jumbe“ Ufuta, nördl. Panda mbili) Am Kisongo-Bach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:17;}">
+                <Coords points="574,3525 3726,3565 3929,3521 3929,3340 574,3371"/>
+                <Baseline points="598,3490 763,3491 929,3491 1094,3490 1260,3489 1425,3487 1591,3485 1756,3483 1922,3480 2087,3478 2253,3476 2418,3474 2584,3473 2749,3472 2915,3473 3080,3474 3246,3476 3411,3480 3577,3485 3742,3492 3908,3500"/>
+                <TextEquiv>
+                    <Unicode>bei Panda mbili fester, aber papierschiefriger Sandstein mit spär„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:18;} textStyle {offset:22; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="592,3681 3969,3633 2892,3484 591,3557"/>
+                <Baseline points="616,3646 782,3644 949,3642 1115,3639 1282,3636 1448,3634 1615,3631 1781,3628 1948,3625 2114,3623 2281,3621 2447,3619 2614,3617 2780,3616 2947,3615 3113,3615 3280,3616 3446,3617 3613,3619 3779,3622 3946,3625"/>
+                <TextEquiv>
+                    <Unicode>lichen u. wenig guten Fossilien, im Bachbett unterlagert von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:19;}">
+                <Coords points="607,3797 3737,3799 3988,3765 3986,3637 605,3678"/>
+                <Baseline points="628,3779 794,3781 961,3781 1128,3781 1295,3779 1462,3777 1629,3774 1796,3770 1963,3766 2130,3763 2297,3759 2463,3755 2630,3752 2797,3749 2964,3746 3131,3745 3298,3744 3465,3745 3632,3747 3799,3750 3966,3756"/>
+                <TextEquiv>
+                    <Unicode>braunen Sandsteinletten. Auch am Wege nach vissima saba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:20;}">
+                <Coords points="585,3996 1643,4012 1982,3905 3623,4046 3997,3938 3997,3784 584,3850"/>
+                <Baseline points="608,3939 776,3936 944,3932 1112,3929 1281,3926 1449,3923 1617,3921 1786,3919 1954,3917 2122,3916 2291,3915 2459,3914 2627,3913 2795,3913 2964,3913 3132,3914 3300,3915 3469,3916 3637,3918 3805,3921 3974,3923"/>
+                <TextEquiv>
+                    <Unicode>(Siebenbrunnen, Lager d. Streckenarbeiter) Fossilfunde in hartem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:21;}">
+                <Coords points="592,4119 707,4144 734,4117 836,4178 884,4137 985,4145 1021,4180 1095,4134 1417,4121 1415,4007 1310,4035 1194,3948 1032,4025 890,3956 763,4007 705,3968 591,3996"/>
+                <Baseline points="615,4094 654,4092 693,4089 732,4087 771,4085 810,4083 849,4080 888,4078 927,4077 966,4076 1005,4075 1044,4074 1083,4074 1122,4074 1161,4074 1200,4076 1239,4077 1278,4079 1317,4081 1356,4084 1396,4088"/>
+                <TextEquiv>
+                    <Unicode>Kalksandstein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:22;}">
+                <Coords points="821,4269 3903,4319 3903,4120 3696,4062 2991,4193 1501,4098 822,4177"/>
+                <Baseline points="843,4247 1002,4243 1162,4239 1322,4236 1482,4234 1642,4232 1802,4231 1962,4230 2122,4230 2282,4231 2442,4232 2602,4233 2762,4234 2922,4236 3082,4237 3242,4239 3402,4241 3562,4243 3722,4245 3882,4246"/>
+                <TextEquiv>
+                    <Unicode>121,7-8. Auf 100 m. langsam an der ca 1½ m hohen Böschung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:23;} textStyle {offset:10; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="622,4522 1538,4370 2037,4471 2191,4369 3880,4445 3950,4269 621,4311"/>
+                <Baseline points="642,4399 806,4395 970,4393 1135,4389 1299,4386 1464,4382 1628,4379 1792,4376 1957,4374 2121,4371 2286,4370 2450,4369 2614,4369 2779,4369 2943,4371 3108,4373 3272,4377 3436,4382 3601,4388 3765,4396 3930,4405"/>
+                <TextEquiv>
+                    <Unicode>hinziehenden, nach W. ausbeißend, aber anscheinend noch ein„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:24;}">
+                <Coords points="633,4568 1933,4529 2070,4630 2224,4523 3194,4508 3596,4633 4041,4586 4040,4406 2034,4471 1535,4377 632,4502"/>
+                <Baseline points="653,4545 821,4542 989,4539 1157,4536 1325,4533 1494,4529 1662,4526 1830,4523 1998,4520 2166,4518 2335,4516 2503,4514 2671,4513 2839,4513 3007,4513 3176,4514 3344,4516 3512,4519 3680,4523 3848,4528 4017,4534"/>
+                <TextEquiv>
+                    <Unicode>mal wiederkehrend eine harte Kalkbank mit meist schlechten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:25;}">
+                <Coords points="593,4797 1407,4695 1854,4799 2253,4682 2541,4770 3806,4723 3804,4617 3423,4518 590,4612"/>
+                <Baseline points="613,4711 771,4708 930,4704 1088,4701 1247,4697 1405,4693 1564,4689 1722,4685 1881,4682 2039,4678 2198,4675 2356,4672 2515,4669 2673,4667 2832,4665 2990,4664 3149,4664 3307,4664 3466,4664 3624,4666 3783,4668"/>
+                <TextEquiv>
+                    <Unicode>Fossilien, aber charakterisiert durch sehr lange, turmförmige,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582896921709_4017" custom="readingOrder {index:26;}">
+                <Coords points="566,4943 1596,4834 2061,4977 3020,4834 3819,4919 4004,4907 4002,4762 2268,4674 563,4793"/>
+                <Baseline points="586,4879 757,4868 929,4859 1100,4852 1272,4845 1443,4840 1615,4836 1786,4832 1958,4830 2129,4828 2301,4826 2472,4825 2644,4823 2815,4822 2987,4821 3158,4819 3330,4817 3501,4814 3673,4810 3845,4806 3865,4824 3894,4824 3924,4830 3953,4840 3983,4848"/>
+                <TextEquiv>
+                    <Unicode>dünnwandige Schnecken u. großschalige, stets nur im Bruch erschei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>134&#xD;
+Telephon macht auf meinen Wilhelm gewaltigen&#xD;
+Eindruck, freilich war es heut besonders stark&#xD;
+in Tätigkeit, da Entgleisung in d. Nähe. Arbeit&#xD;
+d. ganze Nacht. Der Bahnmeister raste mehr„&#xD;
+mals mit kleinem Motor vorbei. Wilhelm&#xD;
+meinte, der Wagen würde vom Winde&#xD;
+getrieben. D. Schwarze an Telephon u. Weiche&#xD;
+recht zuverlässig u. umsichtig, aber d. Weiße&#xD;
+giebt schlechtes Beispiel, indem er ein&#xD;
+Warnungssignal ignoriert, da er besser&#xD;
+informiert war.&#xD;
+16.II: Morgens an d. Bahn aufwärts, um den Ammoniten-&#xD;
+Fundort Kinkelins zu suchen. Nicht gefunden, aber mit Hilfe&#xD;
+unsers trefflichen Salesi andre sehr gute Fossilbänke. Heut u.&#xD;
+an folgenden Tagen ferner an d. Bahn beobachtet:&#xD;
+km 123 („Jumbe“ Ufuta, nördl. Panda mbili) Am Kisongo-Bach&#xD;
+bei Panda mbili fester, aber papierschiefriger Sandstein mit spär„&#xD;
+lichen u. wenig guten Fossilien, im Bachbett unterlagert von&#xD;
+braunen Sandsteinletten. Auch am Wege nach vissima saba&#xD;
+(Siebenbrunnen, Lager d. Streckenarbeiter) Fossilfunde in hartem&#xD;
+Kalksandstein.&#xD;
+121,7-8. Auf 100 m. langsam an der ca 1½ m hohen Böschung&#xD;
+hinziehenden, nach W. ausbeißend, aber anscheinend noch ein„&#xD;
+mal wiederkehrend eine harte Kalkbank mit meist schlechten&#xD;
+Fossilien, aber charakterisiert durch sehr lange, turmförmige,&#xD;
+dünnwandige Schnecken u. großschalige, stets nur im Bruch erschei„</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

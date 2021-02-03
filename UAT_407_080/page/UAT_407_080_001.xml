@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:52.679+02:00</Created>
+        <LastChange>2020-03-16T15:13:56.882+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550695" pageNr="1" tsid="25742790" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=ONKCWIXHAHYUYLEWHILPVUTU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QBYWSCDXZGBFOCZACLFSXNRD" imageId="4551573"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_001.jpg" imageWidth="4305" imageHeight="5170">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255532745" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582818485589_1144"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582818485589_1144" custom="readingOrder {index:0;}">
+            <Coords points="2496,298 2902,316 3223,319 3127,564 2875,564 2496,539"/>
+            <TextLine id="line_1582818513462_1152" custom="readingOrder {index:0;}">
+                <Coords points="2520,384 2703,442 2814,414 2917,449 3082,461 3185,435 3188,350 3110,361 3026,318 2958,365 2914,344 2737,354 2703,321 2662,349 2522,335"/>
+                <Baseline points="2532,372 2598,382 2668,387 2696,389 2724,389 2752,389 2780,389 2808,389 2836,390 2864,391 2973,394 2998,395 3024,395 3050,395 3075,396 3101,398 3127,402 3175,397"/>
+                <TextEquiv>
+                    <Unicode>Tendagaguru-Exped.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818520080_1158" custom="readingOrder {index:1;}">
+                <Coords points="2568,533 2612,552 2684,535 2710,547 2738,526 2790,544 2827,516 2977,565 3042,543 3138,544 3141,475 2997,445 2963,464 2831,467 2794,446 2664,470 2616,434 2572,439"/>
+                <Baseline points="2580,511 2631,511 2693,526 2711,527 2887,529 2913,534 2940,537 2967,538 2993,538 3020,536 3047,534 3073,532 3100,530 3127,528"/>
+                <TextEquiv>
+                    <Unicode>11.III.09 - 29.IV.10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tendagaguru-Exped.&#xD;
+11.III.09 - 29.IV.10</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

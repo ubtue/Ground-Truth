@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:40.641+02:00</Created>
+        <LastChange>2020-04-02T16:59:46.745+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551031" pageNr="142" tsid="26899457" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=AJUVVCZKUCMJMWSPTXGNSQXK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YBMJTXDHPIHDTYBPYCGAARDV" imageId="4551909"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_142.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256510648" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1570539167151_671"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1570539167151_671" custom="readingOrder {index:0;}">
+            <Coords points="231,282 394,282 3965,326 3965,4761 473,4761 239,447"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="259,470 308,453 323,464 341,439 375,463 392,461 438,422 480,415 454,258 424,263 400,250 353,254 346,264 331,257 284,309 274,302 231,309"/>
+                <Baseline points="270,396 366,383 451,365"/>
+                <TextEquiv>
+                    <Unicode>140</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="507,485 3879,427 3792,290 506,343"/>
+                <Baseline points="529,427 695,425 861,423 1028,421 1194,418 1361,416 1527,413 1694,410 1860,408 2027,405 2193,403 2359,401 2526,399 2692,398 2859,397 3025,396 3192,396 3358,397 3525,398 3691,400 3858,403"/>
+                <TextEquiv>
+                    <Unicode>31. Mai: Mit v. Staff in Mtapaia, dort nach Besichtigung des Grabens, für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="460,606 2303,535 3490,654 3850,543 3320,389 2788,497 459,473"/>
+                <Baseline points="480,570 647,566 815,563 982,560 1150,557 1317,554 1485,552 1652,549 1820,547 1987,545 2155,544 2322,542 2490,541 2657,540 2825,540 2992,539 3160,539 3327,540 3495,541 3662,542 3830,543"/>
+                <TextEquiv>
+                    <Unicode>den mir St. merkwürdig wenig Interesse aufzubringen schien,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="453,748 3903,719 3902,616 2118,545 452,636"/>
+                <Baseline points="473,721 643,713 813,706 984,699 1154,693 1325,688 1495,683 1666,680 1836,677 2007,674 2177,672 2347,671 2518,671 2688,672 2859,672 3029,674 3200,676 3370,679 3541,683 3711,687 3882,692"/>
+                <TextEquiv>
+                    <Unicode>kleines Frühstück, Rückweg teilweise ohne Weg durch niedriges</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="496,966 776,823 872,886 1339,825 1514,946 1619,850 1877,862 1876,776 1648,780 1526,705 1334,765 1260,710 1111,804 921,730 492,781"/>
+                <Baseline points="515,860 582,855 649,852 716,848 783,845 850,843 917,841 984,840 1051,839 1118,838 1186,837 1253,836 1320,836 1387,835 1454,834 1521,834 1588,833 1655,832 1722,830 1789,828 1857,826"/>
+                <TextEquiv>
+                    <Unicode>Gras, keinerlei Spuren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="791,1025 966,1110 1213,1064 1455,1096 1551,999 1591,1032 1710,1007 1816,1085 1922,1048 1917,889 1749,851 1524,944 1388,849 1176,950 945,845 787,888"/>
+                <Baseline points="813,991 867,996 921,1000 975,1002 1030,1003 1084,1003 1138,1003 1193,1001 1247,999 1301,997 1356,994 1410,991 1464,987 1518,984 1573,982 1627,979 1681,977 1736,976 1790,975 1844,976 1899,977"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Lohnzahlung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="517,1248 3896,1140 3890,990 3774,973 2351,1092 2008,1006 1535,1128 509,1047"/>
+                <Baseline points="538,1226 704,1217 871,1209 1038,1200 1205,1192 1372,1184 1539,1176 1705,1169 1872,1161 2039,1154 2206,1147 2373,1140 2540,1135 2707,1129 2873,1123 3040,1118 3207,1114 3374,1110 3541,1106 3708,1103 3875,1101"/>
+                <TextEquiv>
+                    <Unicode>1. Juni 11: Der Barappi-Junge vom Namunda führt uns über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="617,1408 3713,1298 3708,1178 3392,1104 3087,1223 2516,1150 614,1314"/>
+                <Baseline points="637,1373 786,1364 936,1357 1086,1349 1235,1342 1385,1335 1535,1328 1684,1322 1834,1316 1984,1310 2134,1304 2283,1299 2433,1293 2583,1289 2732,1284 2882,1279 3032,1275 3181,1271 3331,1267 3538,1254 3688,1250"/>
+                <TextEquiv>
+                    <Unicode>den Mtapaia u. Muyoya durch hohes Gras u. Bambus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:8;}">
+                <Coords points="579,1557 3909,1497 3905,1360 3298,1307 576,1420"/>
+                <Baseline points="598,1527 762,1519 926,1510 1091,1503 1255,1494 1420,1488 1584,1481 1748,1474 1913,1469 2077,1463 2242,1458 2406,1454 2570,1450 2735,1447 2899,1444 3064,1442 3228,1440 3392,1439 3557,1439 3721,1440 3886,1441"/>
+                <TextEquiv>
+                    <Unicode>Dickicht zu der von ihm voriges Jahr entdeckten Knochen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:9;}">
+                <Coords points="565,1766 3155,1569 3308,1668 3867,1529 2616,1544 2506,1444 2290,1555 2176,1468 559,1577"/>
+                <Baseline points="585,1665 748,1661 911,1655 1074,1649 1237,1643 1400,1636 1563,1629 1726,1622 1889,1615 2052,1608 2216,1601 2379,1595 2542,1590 2705,1585 2868,1580 3031,1576 3194,1574 3357,1572 3520,1571 3683,1572 3847,1573"/>
+                <TextEquiv>
+                    <Unicode>stelle im Waldreservat. Ein oben etwas angewitter„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:10;}">
+                <Coords points="554,1874 3420,1710 3760,1845 3990,1790 3984,1601 550,1762"/>
+                <Baseline points="573,1810 742,1808 912,1805 1081,1800 1251,1794 1421,1788 1590,1781 1760,1773 1929,1765 2099,1757 2269,1749 2438,1742 2608,1735 2777,1730 2947,1725 3117,1721 3286,1719 3456,1719 3625,1721 3795,1724 3965,1730"/>
+                <TextEquiv>
+                    <Unicode>tes Sacrum mit Teilen beider Ilea u. allerhand außen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:11;}">
+                <Coords points="573,2044 2794,1899 3292,1998 3580,1877 3876,1983 3869,1781 3420,1710 2746,1854 566,1859"/>
+                <Baseline points="593,1967 753,1966 914,1963 1075,1959 1236,1955 1397,1949 1557,1942 1718,1935 1879,1928 2040,1920 2201,1913 2361,1905 2522,1899 2683,1893 2844,1887 3005,1883 3165,1879 3326,1877 3487,1876 3690,1877 3851,1880"/>
+                <TextEquiv>
+                    <Unicode>liegende Bruchstücke machen keinen üblen Eindruck,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:12;}">
+                <Coords points="589,2221 1007,2099 1143,2199 1415,2094 1822,2192 2081,2074 2251,2165 3691,2024 3869,2102 3789,1962 2760,1900 2513,2009 585,2049"/>
+                <Baseline points="609,2100 770,2101 932,2101 1094,2100 1256,2098 1418,2095 1580,2092 1742,2087 1904,2082 2066,2078 2228,2073 2389,2068 2551,2063 2713,2058 2875,2054 3037,2049 3199,2046 3361,2044 3523,2042 3685,2041 3847,2042"/>
+                <TextEquiv>
+                    <Unicode>freilich schon viel herausgewittert. Dicht dabei an„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:13;}">
+                <Coords points="588,2299 3181,2199 3540,2316 3711,2256 3707,2093 1776,2196 1305,2107 586,2230"/>
+                <Baseline points="609,2268 763,2264 917,2261 1071,2256 1225,2252 1379,2247 1533,2242 1687,2238 1841,2233 1995,2229 2149,2224 2303,2220 2457,2217 2611,2213 2765,2211 2919,2209 3073,2207 3227,2207 3381,2207 3535,2208 3689,2210"/>
+                <TextEquiv>
+                    <Unicode>dere gute Stellen mit Stegosaurier-Resten u. dgl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570539177568_678" custom="readingOrder {index:14;}">
+                <Coords points="611,2437 1347,2326 1649,2382 2630,2281 2938,2380 3246,2306 3174,2210 606,2287"/>
+                <Baseline points="629,2341 676,2346 723,2349 770,2351 817,2352 864,2352 911,2350 958,2349 1005,2346 1052,2344 1099,2341 1146,2338 1193,2335 1240,2332 1287,2329 1334,2327 1381,2325 1428,2325 1475,2325 1522,2326 1570,2328 1627,2319 1711,2314 1795,2309 1879,2305 1963,2302 2047,2299 2131,2296 2216,2294 2300,2293 2384,2291 2468,2290 2552,2289 2636,2289 2721,2289 2805,2289 2889,2290 2973,2290 3057,2291 3141,2292 3226,2294"/>
+                <TextEquiv>
+                    <Unicode>2. Juni Kindope. Grabungen am Muyoya begonnen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="565,2607 881,2468 2865,2417 3052,2551 3824,2460 3822,2357 3464,2277 3285,2366 2626,2279 561,2384"/>
+                <Baseline points="586,2471 746,2468 907,2463 1068,2458 1229,2451 1390,2444 1551,2438 1712,2430 1873,2423 2034,2417 2195,2411 2355,2407 2516,2403 2677,2401 2838,2401 2999,2402 3160,2406 3321,2412 3482,2421 3643,2432 3804,2447"/>
+                <TextEquiv>
+                    <Unicode>3 Juni. Graben von Skelett S besichtigt. Poscho-Zahlung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;} textStyle {offset:0; length:19;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="480,2753 1293,2774 1860,2622 2163,2716 3019,2589 3902,2647 3954,2508 472,2504"/>
+                <Baseline points="497,2670 668,2668 840,2664 1012,2658 1184,2651 1356,2643 1527,2634 1699,2625 1871,2616 2043,2606 2215,2598 2386,2590 2558,2583 2730,2577 2902,2573 3074,2571 3245,2571 3417,2573 3589,2578 3761,2586 3933,2597"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 4. Juni: Mit v. Staff's Hilfe (wiederum beschämend,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="655,2866 1075,2952 1920,2791 2276,2879 2551,2764 2973,2888 3231,2770 3706,2832 3699,2669 3499,2608 652,2798"/>
+                <Baseline points="678,2862 828,2854 978,2846 1128,2838 1278,2829 1428,2821 1578,2812 1729,2803 1879,2795 2029,2786 2179,2779 2329,2772 2479,2766 2629,2760 2780,2755 2930,2751 3080,2748 3230,2746 3380,2745 3530,2746 3681,2748"/>
+                <TextEquiv>
+                    <Unicode>aber nicht zu ändern, er weiß eben mehr) endlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="606,3051 1342,3098 1898,2978 2481,3086 2787,2961 3232,3051 3435,2946 3780,2987 3778,2906 2460,2811 1858,2954 602,2918"/>
+                <Baseline points="625,3022 781,3021 938,3019 1095,3016 1251,3013 1408,3009 1565,3004 1721,2999 1878,2993 2035,2988 2192,2982 2348,2976 2505,2970 2662,2965 2818,2960 2975,2956 3132,2952 3288,2948 3445,2946 3602,2945 3759,2944"/>
+                <TextEquiv>
+                    <Unicode>Bearbeitung meiner Routenaufnahmen begonnen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="602,3290 965,3166 1586,3267 2554,3128 2930,3222 3628,3141 3706,2963 3214,3070 597,3059"/>
+                <Baseline points="621,3171 774,3169 927,3167 1080,3164 1234,3160 1387,3157 1540,3153 1693,3148 1847,3143 2000,3139 2153,3135 2306,3130 2460,3126 2613,3122 2766,3118 2919,3115 3073,3112 3226,3111 3379,3110 3532,3109 3686,3110"/>
+                <TextEquiv>
+                    <Unicode>Ganzen Vormittag gezeichnet u. übertragen, es rückt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="658,3355 1902,3287 2117,3378 2353,3261 2526,3281 2523,3203 2179,3203 2073,3134 1729,3255 1540,3262 1400,3185 1295,3258 653,3217"/>
+                <Baseline points="680,3319 771,3317 862,3315 953,3313 1044,3310 1135,3308 1226,3305 1318,3303 1409,3300 1500,3297 1591,3293 1682,3290 1773,3287 1864,3283 1956,3279 2047,3274 2138,3270 2229,3265 2320,3260 2411,3256 2503,3250"/>
+                <TextEquiv>
+                    <Unicode>freilich verdammt langsam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="925,3503 1214,3550 1517,3441 1656,3542 2079,3427 2300,3531 2878,3400 3429,3433 3427,3352 3065,3277 2809,3367 2364,3263 2182,3382 1892,3284 1387,3375 922,3335"/>
+                <Baseline points="944,3457 1067,3450 1190,3445 1313,3440 1436,3436 1559,3432 1682,3429 1806,3425 1929,3423 2052,3421 2175,3419 2298,3417 2421,3416 2544,3414 2668,3413 2791,3412 2914,3412 3037,3411 3160,3410 3283,3410 3407,3409"/>
+                <TextEquiv>
+                    <Unicode>Nachm: 2 Partieen Schach, je 1 Gewinn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="678,3615 1353,3660 1593,3570 1809,3661 1924,3578 2359,3678 3826,3529 2948,3398 2657,3514 1513,3443 1042,3549 847,3428 677,3521"/>
+                <Baseline points="700,3605 853,3596 1006,3589 1160,3583 1313,3578 1467,3573 1620,3569 1774,3565 1927,3562 2081,3560 2234,3557 2387,3556 2541,3554 2694,3553 2848,3552 3001,3551 3155,3550 3308,3549 3462,3548 3615,3547 3804,3545"/>
+                <TextEquiv>
+                    <Unicode>Begonnen„ Grundzüge d. phys. Geographie“ v. Martonne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="590,3783 1321,3843 1512,3719 2324,3696 2696,3813 2908,3698 3065,3815 3265,3713 3469,3816 3816,3763 3814,3638 2906,3560 1142,3687 870,3593 588,3697"/>
+                <Baseline points="611,3753 770,3747 929,3742 1088,3735 1247,3729 1406,3723 1565,3717 1724,3711 1883,3706 2042,3701 2202,3696 2361,3693 2520,3689 2679,3688 2838,3687 2997,3687 3156,3688 3315,3691 3474,3695 3633,3702 3793,3710"/>
+                <TextEquiv>
+                    <Unicode>das mir Staff mitgebracht u. empfohlen hat, anschei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="591,3964 3653,3862 3272,3718 2659,3798 2180,3704 589,3852"/>
+                <Baseline points="611,3901 761,3893 912,3886 1063,3879 1214,3872 1365,3867 1516,3862 1667,3857 1818,3852 1969,3848 2120,3845 2270,3842 2421,3840 2572,3839 2723,3838 2874,3838 3025,3839 3176,3841 3327,3843 3478,3846 3629,3850"/>
+                <TextEquiv>
+                    <Unicode>nend mit Recht. Vortreffliche Modellzeichnungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="737,4103 1526,4022 1907,4124 2304,4024 2504,4113 2858,4009 2998,4109 3558,4000 3840,4109 3835,3894 3236,3858 734,3991"/>
+                <Baseline points="756,4085 909,4071 1062,4060 1215,4049 1368,4040 1521,4032 1674,4024 1827,4018 1980,4013 2133,4008 2286,4005 2439,4002 2592,4000 2745,3998 2898,3997 3051,3996 3204,3996 3357,3996 3510,3996 3663,3997 3817,3997"/>
+                <TextEquiv>
+                    <Unicode>5.VI. Graben am Muyoya besichtigt. Nichts sonderlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="627,4370 941,4237 1884,4275 2134,4173 3822,4284 3856,4120 3625,4015 3444,4119 2264,4036 621,4164"/>
+                <Baseline points="644,4248 803,4241 963,4233 1122,4224 1282,4216 1442,4208 1601,4200 1761,4192 1921,4184 2080,4178 2240,4172 2400,4166 2559,4161 2719,4158 2879,4156 3038,4155 3198,4156 3358,4158 3517,4161 3677,4167 3837,4174"/>
+                <TextEquiv>
+                    <Unicode>Erhebendes. Dann zur Matapua-Straße durchgestoßen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="627,4420 1394,4502 2176,4352 2335,4467 2768,4319 3485,4403 3699,4246 2128,4190 1256,4343 1055,4238 625,4364"/>
+                <Baseline points="648,4400 799,4399 951,4396 1102,4392 1254,4386 1405,4380 1557,4373 1708,4366 1860,4358 2011,4350 2163,4342 2314,4336 2466,4329 2617,4324 2769,4319 2920,4316 3072,4315 3223,4316 3375,4319 3526,4324 3678,4331"/>
+                <TextEquiv>
+                    <Unicode>ein kl. noch fehlendes Stück Routenaufnahme zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="639,4597 859,4657 1042,4550 1565,4526 2160,4613 2699,4489 2972,4613 3486,4516 3482,4314 3209,4444 2768,4320 2050,4460 636,4451"/>
+                <Baseline points="657,4540 797,4540 937,4539 1077,4537 1218,4535 1358,4532 1498,4528 1638,4523 1779,4519 1919,4514 2059,4510 2199,4505 2340,4501 2480,4498 2620,4495 2760,4493 2901,4492 3041,4492 3181,4493 3321,4496 3462,4500"/>
+                <TextEquiv>
+                    <Unicode>Anlehnung an d. kartographierte Waldreservat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="730,4792 1781,4704 2853,4784 3031,4676 3433,4771 3925,4665 3922,4541 3683,4602 3495,4498 3330,4610 3174,4536 2961,4626 2757,4506 2330,4645 1124,4543 878,4682 727,4625"/>
+                <Baseline points="750,4726 907,4720 1065,4715 1222,4711 1380,4708 1537,4705 1695,4702 1852,4700 2010,4697 2167,4695 2325,4692 2483,4690 2640,4687 2798,4683 2955,4680 3113,4675 3270,4671 3428,4664 3585,4658 3743,4651 3901,4642"/>
+                <TextEquiv>
+                    <Unicode>Bei Skelett S abermals von oben zu graben begonnen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>140&#xD;
+31. Mai: Mit v. Staff in Mtapaia, dort nach Besichtigung des Grabens, für&#xD;
+den mir St. merkwürdig wenig Interesse aufzubringen schien,&#xD;
+kleines Frühstück, Rückweg teilweise ohne Weg durch niedriges&#xD;
+Gras, keinerlei Spuren.&#xD;
+Nachm. Lohnzahlung.&#xD;
+1. Juni 11: Der Barappi-Junge vom Namunda führt uns über&#xD;
+den Mtapaia u. Muyoya durch hohes Gras u. Bambus-&#xD;
+Dickicht zu der von ihm voriges Jahr entdeckten Knochen„&#xD;
+stelle im Waldreservat. Ein oben etwas angewitter„&#xD;
+tes Sacrum mit Teilen beider Ilea u. allerhand außen&#xD;
+liegende Bruchstücke machen keinen üblen Eindruck,&#xD;
+freilich schon viel herausgewittert. Dicht dabei an„&#xD;
+dere gute Stellen mit Stegosaurier-Resten u. dgl.&#xD;
+2. Juni Kindope. Grabungen am Muyoya begonnen.&#xD;
+3 Juni. Graben von Skelett S besichtigt. Poscho-Zahlung.&#xD;
+Sonntag d. 4. Juni: Mit v. Staff's Hilfe (wiederum beschämend,&#xD;
+aber nicht zu ändern, er weiß eben mehr) endlich&#xD;
+Bearbeitung meiner Routenaufnahmen begonnen.&#xD;
+Ganzen Vormittag gezeichnet u. übertragen, es rückt&#xD;
+freilich verdammt langsam.&#xD;
+Nachm: 2 Partieen Schach, je 1 Gewinn.&#xD;
+Begonnen„ Grundzüge d. phys. Geographie“ v. Martonne,&#xD;
+das mir Staff mitgebracht u. empfohlen hat, anschei„&#xD;
+nend mit Recht. Vortreffliche Modellzeichnungen.&#xD;
+5.VI. Graben am Muyoya besichtigt. Nichts sonderlich&#xD;
+Erhebendes. Dann zur Matapua-Straße durchgestoßen,&#xD;
+ein kl. noch fehlendes Stück Routenaufnahme zur&#xD;
+Anlehnung an d. kartographierte Waldreservat.&#xD;
+Bei Skelett S abermals von oben zu graben begonnen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

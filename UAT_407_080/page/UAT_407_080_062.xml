@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:55.959+02:00</Created>
+        <LastChange>2020-03-23T09:15:59.438+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550760" pageNr="62" tsid="26028935" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=NOZRGTEZEOTFICMWYOYWNDVR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MWEDFDHQJKWTNIVCPZXNMLIF" imageId="4551638"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_062.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255549676" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="247,251 247,4976 3957,4976 3957,251"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="421,335 444,334 466,347 529,354 524,184 497,190 475,186 462,195 452,187 417,188"/>
+                <Baseline points="442,318 474,314 506,316 557,317"/>
+                <TextEquiv>
+                    <Unicode>58</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="449,521 3826,398 3823,273 2014,228 1709,360 446,374"/>
+                <Baseline points="469,442 635,438 802,434 969,428 1136,423 1303,418 1469,412 1636,407 1803,402 1970,396 2137,392 2303,387 2470,383 2637,380 2804,377 2971,375 3137,375 3304,375 3471,376 3638,378 3805,381"/>
+                <TextEquiv>
+                    <Unicode>Knochen herausgewittert sind, nimmt Janensch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="435,703 1235,578 1722,582 1895,703 3283,522 3905,576 3901,438 3458,396 430,524"/>
+                <Baseline points="456,600 627,601 798,601 969,599 1141,596 1312,591 1483,586 1654,581 1826,575 1997,568 2168,561 2339,555 2511,549 2682,543 2853,538 3024,533 3196,530 3367,528 3538,527 3709,528 3881,531"/>
+                <TextEquiv>
+                    <Unicode>zu meiner Freude jetzt mit je 2-3 Mann in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="439,816 811,883 1169,745 1525,862 2816,697 2971,819 3815,638 1826,582 437,731"/>
+                <Baseline points="459,778 625,771 792,764 959,758 1126,752 1293,747 1459,742 1626,739 1793,735 1960,732 2127,729 2293,726 2460,723 2627,720 2794,716 2961,713 3127,709 3294,705 3461,700 3628,695 3795,689"/>
+                <TextEquiv>
+                    <Unicode>Angriff in d. richtigen Erkenntnis, daß bei dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="442,1053 2612,874 2861,1007 3628,987 3859,938 3856,764 3008,795 2814,696 2451,855 2056,761 1237,854 1132,758 947,873 437,853"/>
+                <Baseline points="461,943 629,937 798,932 967,927 1135,923 1304,920 1473,916 1641,913 1810,910 1979,907 2148,905 2316,902 2485,899 2654,896 2822,893 2991,889 3160,885 3328,880 3497,875 3666,869 3835,862"/>
+                <TextEquiv>
+                    <Unicode>hiesigen Tempo der Zeit es leicht plötzlich zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="433,1218 523,1222 774,1077 1134,1114 1287,1065 1397,1104 1597,1083 1588,931 1404,996 1243,920 1095,991 940,942 709,1041 658,1004 607,1060 529,1015 474,1068 423,1048"/>
+                <Baseline points="450,1129 506,1122 562,1116 618,1110 674,1104 730,1099 786,1093 843,1089 899,1084 955,1080 1011,1076 1067,1073 1123,1070 1179,1067 1236,1066 1292,1064 1348,1064 1404,1063 1460,1064 1516,1065 1573,1067"/>
+                <TextEquiv>
+                    <Unicode>spät sein könnte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="542,1337 3814,1268 3812,1157 2824,1039 2121,1176 1834,1081 540,1150"/>
+                <Baseline points="563,1304 724,1289 885,1276 1046,1265 1208,1256 1369,1249 1530,1243 1692,1239 1853,1236 2014,1234 2176,1233 2337,1233 2498,1235 2659,1235 2821,1237 2982,1239 3143,1241 3305,1243 3466,1245 3627,1246 3789,1247"/>
+                <TextEquiv>
+                    <Unicode>18 Aug. Morgens allein auf d. Tendaguru. Starker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="387,1496 3757,1436 3650,1260 3161,1351 2966,1235 2331,1375 1467,1274 385,1384"/>
+                <Baseline points="408,1460 574,1457 740,1454 907,1451 1073,1447 1239,1444 1406,1439 1572,1436 1738,1431 1905,1427 2071,1423 2237,1418 2404,1414 2570,1410 2736,1406 2903,1402 3069,1399 3235,1396 3402,1393 3568,1391 3735,1389"/>
+                <TextEquiv>
+                    <Unicode>Wind, die Luftschwankungen bleiben sich aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="424,1692 3870,1650 3869,1525 3627,1457 3374,1558 423,1544"/>
+                <Baseline points="447,1647 617,1643 787,1639 957,1636 1127,1633 1297,1630 1467,1627 1637,1625 1807,1623 1977,1621 2147,1619 2317,1618 2487,1616 2657,1615 2827,1614 2997,1613 3167,1612 3337,1611 3507,1610 3677,1609 3847,1608"/>
+                <TextEquiv>
+                    <Unicode>täglich so lächerlich gleich, daß sich die Kurve der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} textStyle {offset:22; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="468,1874 3963,1851 3961,1681 3336,1626 3212,1730 2208,1742 2023,1637 467,1767"/>
+                <Baseline points="491,1825 663,1823 836,1820 1008,1817 1181,1814 1353,1810 1526,1807 1698,1802 1871,1799 2043,1796 2216,1792 2388,1789 2561,1787 2733,1785 2906,1784 3078,1784 3251,1785 3423,1786 3596,1789 3768,1793 3941,1799"/>
+                <TextEquiv>
+                    <Unicode>vorigen Woche mit der heut gestern neu begon„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="490,2040 3480,2001 3680,1952 3677,1792 488,1942"/>
+                <Baseline points="512,1992 669,1990 826,1988 984,1986 1141,1984 1298,1982 1456,1981 1613,1978 1770,1976 1928,1974 2085,1972 2242,1969 2400,1965 2557,1962 2714,1959 2872,1954 3029,1950 3186,1945 3344,1940 3501,1934 3659,1927"/>
+                <TextEquiv>
+                    <Unicode>nenen fast vollkommen deckt. Unweit des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="502,2290 870,2172 1481,2142 1904,2264 2195,2126 3037,2232 3481,2125 3186,1977 3095,2060 497,2089"/>
+                <Baseline points="520,2177 674,2172 829,2166 984,2161 1138,2154 1293,2149 1448,2142 1602,2136 1757,2131 1912,2125 2066,2120 2221,2115 2376,2110 2530,2107 2685,2104 2840,2102 2994,2101 3149,2101 3304,2102 3459,2105"/>
+                <TextEquiv>
+                    <Unicode>Lagers wurde eine Elen-Antilope gesehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="577,2437 3899,2443 3896,2309 3511,2235 575,2294"/>
+                <Baseline points="597,2411 761,2408 925,2405 1089,2402 1253,2398 1417,2394 1581,2391 1745,2387 1909,2383 2073,2380 2237,2376 2401,2373 2565,2370 2729,2367 2893,2365 3057,2363 3221,2362 3385,2361 3549,2361 3713,2362 3877,2363"/>
+                <TextEquiv>
+                    <Unicode>19. Aug. Die Barappis werden mittags um 12 am Wege nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="471,2639 878,2659 1348,2560 1601,2635 1713,2541 1860,2629 1981,2526 2202,2580 2338,2534 2332,2383 1757,2401 1618,2496 1450,2431 966,2522 464,2465"/>
+                <Baseline points="491,2556 582,2560 673,2564 764,2566 855,2566 947,2566 1038,2564 1129,2562 1220,2558 1311,2555 1403,2550 1494,2546 1585,2540 1676,2534 1767,2529 1859,2524 1950,2518 2041,2512 2132,2507 2223,2502 2315,2498"/>
+                <TextEquiv>
+                    <Unicode>Lindi gemeldet. Vergebliche Streife.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;} textStyle {offset:0; length:16;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="229,2832 1662,2696 2256,2788 2421,2678 2849,2777 3183,2642 3590,2742 3836,2535 224,2711"/>
+                <Baseline points="247,2760 425,2754 604,2748 782,2741 961,2733 1139,2727 1318,2719 1496,2711 1675,2704 1853,2695 2032,2688 2210,2680 2389,2672 2567,2665 2746,2657 2924,2650 3103,2642 3281,2636 3460,2630 3638,2623 3817,2618"/>
+                <TextEquiv>
+                    <Unicode>Sonntag 22. Aug: Morgens zur Verfolgung der Barappi's aufgebrochen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="451,2957 3956,2787 3218,2652 447,2850"/>
+                <Baseline points="472,2916 654,2903 836,2892 1018,2881 1200,2871 1382,2862 1564,2853 1746,2844 1928,2836 2110,2828 2292,2821 2474,2814 2656,2808 2838,2802 3020,2796 3202,2791 3384,2785 3566,2781 3748,2776 3931,2771"/>
+                <TextEquiv>
+                    <Unicode>Weit über den Maimbui hinaus. Nach vielleicht 5 Std. kam ich zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="472,3108 3627,2915 3921,2993 3976,2807 466,2956"/>
+                <Baseline points="491,3063 664,3048 837,3034 1010,3021 1184,3009 1357,2997 1530,2988 1703,2978 1877,2970 2050,2962 2223,2956 2396,2950 2570,2944 2743,2938 2916,2934 3089,2930 3263,2926 3436,2922 3609,2919 3782,2916 3956,2913"/>
+                <TextEquiv>
+                    <Unicode>Schuß, wollte Hals treffen, da Blatt durch einen Baum verdeckt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="488,3292 983,3178 1434,3273 1933,3150 3331,3126 3404,2966 2331,3050 2202,2971 1697,3081 1273,2999 1065,3121 481,3149"/>
+                <Baseline points="506,3218 650,3206 794,3194 938,3183 1082,3173 1226,3163 1370,3154 1514,3145 1658,3137 1802,3129 1947,3121 2091,3115 2235,3109 2379,3103 2523,3097 2667,3093 2811,3089 2955,3084 3099,3081 3243,3078 3388,3076"/>
+                <TextEquiv>
+                    <Unicode>traf aber natürlich doch den Baum. Um 12¼ zurück.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="639,3397 987,3474 1089,3370 1753,3432 2131,3297 3963,3293 3721,3081 3132,3208 2672,3119 2321,3239 2187,3160 635,3312"/>
+                <Baseline points="662,3390 825,3378 989,3366 1153,3355 1317,3344 1481,3334 1645,3324 1808,3315 1972,3306 2136,3298 2300,3290 2464,3283 2628,3275 2792,3268 2955,3262 3119,3256 3283,3249 3447,3244 3611,3238 3775,3233 3939,3228"/>
+                <TextEquiv>
+                    <Unicode>20. Aug. Barappi's verfolgt über Maimbui hinaus, aber Spuren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="535,3594 2009,3566 2462,3439 2879,3530 3056,3420 3326,3448 3380,3315 2274,3299 1301,3471 525,3425"/>
+                <Baseline points="555,3562 695,3553 835,3545 975,3536 1116,3526 1256,3516 1396,3505 1537,3495 1677,3484 1817,3474 1958,3464 2098,3454 2238,3446 2378,3437 2519,3429 2659,3422 2799,3416 2940,3411 3080,3407 3220,3405 3361,3404"/>
+                <TextEquiv>
+                    <Unicode>bald verloren, schoß zwei starke Warzenschweine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="649,3747 3919,3535 3912,3428 3493,3384 2893,3517 639,3586"/>
+                <Baseline points="670,3718 831,3705 992,3692 1153,3680 1314,3668 1475,3656 1636,3644 1798,3633 1959,3621 2120,3611 2281,3600 2442,3590 2603,3580 2764,3570 2926,3560 3087,3551 3248,3542 3409,3534 3570,3526 3731,3518 3893,3510"/>
+                <TextEquiv>
+                    <Unicode>21. Aug. Viel feiner Regen u. kühle Temperatur (morgens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888579552_2209" custom="readingOrder {index:21;}">
+                <Coords points="474,3926 3906,3734 3899,3609 3486,3569 3130,3683 1997,3724 1857,3620 468,3814"/>
+                <Baseline points="495,3893 520,3886 546,3880 572,3876 598,3872 624,3868 649,3866 675,3863 701,3861 727,3860 753,3858 778,3858 804,3857 830,3855 856,3854 882,3852 1084,3839 1223,3835 1363,3830 1503,3824 1643,3817 1783,3810 1923,3801 2062,3793 2202,3783 2342,3774 2482,3763 2622,3754 2762,3745 2902,3737 3041,3729 3181,3721 3321,3714 3461,3709 3601,3705 3741,3703 3881,3702"/>
+                <TextEquiv>
+                    <Unicode>8 Uhr 27°, um 12 Uhr 22°). Recht gemütlich, wie auf Sommer„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="470,4106 506,4109 554,4080 613,4123 699,4133 742,4087 812,4058 866,4083 859,3868 717,3896 698,3883 651,3930 564,3875 495,3949 464,3950"/>
+                <Baseline points="491,4022 516,4020 541,4018 566,4017 591,4016 616,4015 641,4014 666,4014 691,4014 716,4013 741,4012 766,4011 791,4010 816,4008 841,4006"/>
+                <TextEquiv>
+                    <Unicode>frische.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="711,4348 3736,4237 3980,4197 3973,4055 1745,4107 1421,4236 697,4076"/>
+                <Baseline points="731,4288 892,4288 1053,4286 1214,4283 1376,4278 1537,4272 1698,4264 1860,4255 2021,4246 2182,4236 2344,4226 2505,4215 2666,4205 2827,4195 2989,4185 3150,4176 3311,4168 3473,4161 3634,4155 3795,4151 3957,4149"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Gobineau „asiatische Novellen“ ausgelesen, die mir daheim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="464,4507 2898,4363 3022,4457 3754,4329 3624,4204 1776,4360 457,4324"/>
+                <Baseline points="485,4455 647,4447 809,4439 971,4431 1134,4424 1296,4418 1458,4411 1621,4406 1783,4400 1945,4393 2108,4387 2270,4382 2432,4376 2594,4369 2757,4363 2919,4356 3081,4349 3244,4341 3406,4333 3568,4324 3731,4314"/>
+                <TextEquiv>
+                    <Unicode>kaum behagen würden. Doch imponierte mir sehr seine in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="477,4650 1687,4659 2419,4524 2579,4617 2714,4504 3093,4611 3724,4534 3720,4409 471,4503"/>
+                <Baseline points="498,4608 658,4599 818,4590 978,4581 1138,4573 1298,4565 1458,4559 1618,4551 1778,4545 1938,4538 2098,4532 2258,4526 2418,4521 2578,4516 2738,4511 2898,4507 3058,4502 3218,4498 3378,4495 3538,4491 3699,4488"/>
+                <TextEquiv>
+                    <Unicode>der Einführung gut geschilderte Lebensgeschichte. Zu meiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="470,4789 1415,4856 1956,4737 2106,4812 2311,4679 3919,4673 3915,4570 3506,4514 467,4700"/>
+                <Baseline points="492,4766 662,4760 832,4753 1002,4746 1172,4737 1343,4728 1513,4719 1683,4710 1853,4701 2023,4693 2194,4684 2364,4677 2534,4670 2704,4663 2874,4658 3045,4655 3215,4652 3385,4651 3555,4653 3725,4655 3896,4660"/>
+                <TextEquiv>
+                    <Unicode>Verwunderung finde ich in ihm den Vater des Chamber-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="487,4987 2560,4984 2677,4869 3203,4861 3568,4957 3886,4839 3881,4674 2350,4848 1905,4759 483,4853"/>
+                <Baseline points="508,4938 675,4931 843,4925 1011,4920 1179,4915 1347,4911 1515,4907 1682,4903 1850,4899 2018,4895 2186,4891 2354,4887 2522,4882 2690,4877 2857,4871 3025,4865 3193,4857 3361,4849 3529,4840 3697,4829 3865,4817"/>
+                <TextEquiv>
+                    <Unicode>lain'schen Hauptgedankens u. meine, daß Ch. das mehr hätte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>58&#xD;
+Knochen herausgewittert sind, nimmt Janensch&#xD;
+zu meiner Freude jetzt mit je 2-3 Mann in&#xD;
+Angriff in d. richtigen Erkenntnis, daß bei dem&#xD;
+hiesigen Tempo der Zeit es leicht plötzlich zu&#xD;
+spät sein könnte.&#xD;
+18 Aug. Morgens allein auf d. Tendaguru. Starker&#xD;
+Wind, die Luftschwankungen bleiben sich aber&#xD;
+täglich so lächerlich gleich, daß sich die Kurve der&#xD;
+vorigen Woche mit der heut gestern neu begon„&#xD;
+nenen fast vollkommen deckt. Unweit des&#xD;
+Lagers wurde eine Elen-Antilope gesehen.&#xD;
+19. Aug. Die Barappis werden mittags um 12 am Wege nach&#xD;
+Lindi gemeldet. Vergebliche Streife.&#xD;
+Sonntag 22. Aug: Morgens zur Verfolgung der Barappi's aufgebrochen.&#xD;
+Weit über den Maimbui hinaus. Nach vielleicht 5 Std. kam ich zum&#xD;
+Schuß, wollte Hals treffen, da Blatt durch einen Baum verdeckt,&#xD;
+traf aber natürlich doch den Baum. Um 12¼ zurück.&#xD;
+20. Aug. Barappi's verfolgt über Maimbui hinaus, aber Spuren&#xD;
+bald verloren, schoß zwei starke Warzenschweine.&#xD;
+21. Aug. Viel feiner Regen u. kühle Temperatur (morgens&#xD;
+8 Uhr 27°, um 12 Uhr 22°). Recht gemütlich, wie auf Sommer„&#xD;
+frische.&#xD;
+Nachm. Gobineau „asiatische Novellen“ ausgelesen, die mir daheim&#xD;
+kaum behagen würden. Doch imponierte mir sehr seine in&#xD;
+der Einführung gut geschilderte Lebensgeschichte. Zu meiner&#xD;
+Verwunderung finde ich in ihm den Vater des Chamber-&#xD;
+lain'schen Hauptgedankens u. meine, daß Ch. das mehr hätte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

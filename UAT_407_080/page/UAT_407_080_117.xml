@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:58.756+02:00</Created>
+        <LastChange>2020-03-26T08:51:11.725+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550819" pageNr="117" tsid="26443437" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=JNGDBPGQLSQENWEKKIDXPBJZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TZETOWFYJTXFBVWJWIKVKFYC" imageId="4551697"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_117.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255566926" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="440,195 440,4746 4052,4746 4052,195"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="3663,317 3711,332 3789,287 3867,335 3903,328 3911,156 3835,161 3805,142 3787,158 3747,157 3738,147 3672,144"/>
+                <Baseline points="3689,277 3716,276 3744,276 3772,278 3799,280 3827,282 3855,283 3883,284"/>
+                <TextEquiv>
+                    <Unicode>113</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="438,565 1005,472 1418,563 1763,441 4028,475 4027,320 3787,286 1758,388 1473,279 947,411 436,254"/>
+                <Baseline points="461,466 638,462 815,458 992,454 1170,450 1347,446 1524,442 1701,439 1879,436 2056,433 2233,431 2410,430 2588,429 2765,429 2942,430 3119,431 3297,433 3474,436 3651,440 3828,446 4006,452"/>
+                <TextEquiv>
+                    <Unicode>fangen. Dann sah ich einmal vorn unter einem Baum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="426,688 966,618 1610,747 1791,617 3249,615 3485,747 3923,637 3922,517 3589,449 2983,568 2268,440 425,587"/>
+                <Baseline points="449,657 621,646 794,637 966,629 1139,623 1311,617 1484,613 1656,610 1829,608 2001,607 2174,606 2347,606 2519,607 2692,608 2864,609 3037,611 3209,612 3382,615 3554,616 3727,618 3900,620"/>
+                <TextEquiv>
+                    <Unicode>etwas Schwarzes. Auch mein Begleiter war nicht sicher, ob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="429,849 4011,908 4010,673 3154,628 429,756"/>
+                <Baseline points="453,810 629,804 806,798 983,794 1160,790 1337,785 1513,782 1690,779 1867,776 2044,774 2221,773 2397,772 2574,772 2751,772 2928,774 3105,776 3281,778 3458,782 3635,786 3812,791 3989,798"/>
+                <TextEquiv>
+                    <Unicode>es ein Tier war, und da ich schon so oft durch Baumstäm„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="453,991 3853,995 3794,840 2606,802 1605,896 1263,782 453,920"/>
+                <Baseline points="473,966 640,961 808,958 976,954 1144,951 1312,948 1480,946 1648,944 1816,943 1984,942 2152,941 2319,941 2487,941 2655,941 2823,941 2991,941 3159,942 3327,942 3495,943 3663,944 3831,944"/>
+                <TextEquiv>
+                    <Unicode>me oder Blätter getäuscht bin, bewegte ich mich ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="418,1244 1733,1139 2165,1248 2420,1102 2576,1184 3115,1082 3857,1173 3788,983 414,987"/>
+                <Baseline points="440,1147 609,1139 779,1132 949,1125 1119,1120 1288,1115 1458,1110 1628,1105 1798,1102 1967,1098 2137,1096 2307,1093 2477,1092 2646,1090 2816,1089 2986,1089 3156,1089 3325,1089 3495,1090 3665,1091 3835,1092"/>
+                <TextEquiv>
+                    <Unicode>besondere Vorsicht, um besser sehen zu können. Da ging</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="448,1328 1937,1288 2221,1407 3293,1270 3759,1366 3971,1215 2885,1232 2433,1109 2203,1238 447,1209"/>
+                <Baseline points="468,1283 642,1284 816,1284 990,1284 1164,1284 1338,1283 1512,1282 1686,1281 1860,1280 2034,1280 2209,1279 2383,1278 2557,1277 2731,1276 2905,1275 3079,1275 3253,1275 3427,1275 3601,1275 3775,1276 3950,1277"/>
+                <TextEquiv>
+                    <Unicode>mit Schnauben ein schöner Einzelgänger davon. Nachher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="471,1528 3905,1419 3456,1274 2632,1391 1700,1273 469,1351"/>
+                <Baseline points="491,1456 660,1456 830,1456 999,1455 1169,1454 1338,1452 1508,1451 1677,1449 1847,1447 2016,1445 2186,1442 2355,1440 2525,1438 2694,1435 2864,1433 3033,1430 3203,1427 3372,1425 3542,1423 3711,1420 3881,1418"/>
+                <TextEquiv>
+                    <Unicode>konnte ich 1 Tier der Herde, die nur aus Weibchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="471,1687 724,1606 995,1738 1677,1576 2058,1730 2253,1592 3002,1576 3845,1706 4008,1506 945,1450 471,1572"/>
+                <Baseline points="494,1618 668,1613 843,1608 1017,1603 1192,1599 1366,1596 1541,1592 1715,1590 1890,1587 2064,1586 2239,1585 2414,1584 2588,1584 2763,1585 2937,1586 3112,1588 3286,1591 3461,1594 3635,1598 3810,1603 3985,1608"/>
+                <TextEquiv>
+                    <Unicode>zu bestehen schien, erlegen. Damit ist mein Blutdurst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="490,1823 3811,1837 3810,1726 2896,1608 490,1734"/>
+                <Baseline points="511,1789 674,1786 838,1782 1002,1778 1166,1775 1329,1771 1493,1768 1657,1764 1821,1761 1984,1758 2148,1756 2312,1754 2476,1753 2639,1753 2803,1754 2967,1755 3131,1757 3294,1761 3458,1766 3622,1773 3786,1780"/>
+                <TextEquiv>
+                    <Unicode>einstweilen gestillt. Ich habe als Anfänger eine ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="521,2053 2113,1934 2405,2067 3123,1944 3704,2064 4005,2042 4006,1882 3438,1784 3057,1899 522,1840"/>
+                <Baseline points="544,1951 715,1951 887,1951 1059,1950 1231,1948 1403,1947 1575,1944 1747,1942 1919,1940 2091,1938 2263,1936 2434,1935 2606,1934 2778,1935 2950,1936 3122,1939 3294,1942 3466,1948 3638,1954 3810,1963 3982,1974"/>
+                <TextEquiv>
+                    <Unicode>hübsche Zahl verschiedener Großwildschädel erbeutet. Eigent„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="495,2218 2557,2116 3545,2261 3802,2151 3802,2044 2938,2069 2765,1962 2406,2072 2060,1978 495,2085"/>
+                <Baseline points="517,2137 680,2133 843,2130 1006,2127 1169,2125 1332,2123 1495,2122 1658,2121 1821,2120 1984,2120 2147,2120 2310,2121 2473,2122 2636,2124 2799,2126 2962,2128 3125,2130 3288,2133 3451,2137 3614,2140 3778,2144"/>
+                <TextEquiv>
+                    <Unicode>lich komme ich mir bei dem Töten als ein ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="511,2367 1091,2447 2254,2307 3268,2431 4018,2318 2543,2181 512,2243"/>
+                <Baseline points="536,2323 708,2321 881,2319 1054,2317 1227,2315 1400,2313 1573,2312 1746,2312 1919,2312 2092,2312 2265,2313 2437,2314 2610,2317 2783,2319 2956,2323 3129,2326 3302,2331 3475,2337 3648,2343 3821,2350 3994,2358"/>
+                <TextEquiv>
+                    <Unicode>wildes Raubtier vor. Das Wetter war angenehm, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="503,2534 3969,2557 4075,2433 2049,2327 502,2406"/>
+                <Baseline points="526,2503 702,2500 878,2496 1054,2493 1231,2490 1407,2487 1583,2485 1760,2483 1936,2481 2112,2480 2289,2479 2465,2478 2641,2478 2817,2479 2994,2480 3170,2481 3346,2483 3523,2486 3699,2490 3875,2494 4052,2499"/>
+                <TextEquiv>
+                    <Unicode>Himmel zeitweilig bedeckt, aber wie in d. beiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="540,2690 1165,2783 1720,2658 2135,2807 2686,2655 3199,2818 3851,2779 4074,2638 3352,2518 2757,2603 2470,2481 541,2623"/>
+                <Baseline points="564,2668 738,2665 912,2661 1086,2658 1261,2655 1435,2652 1609,2650 1783,2649 1958,2648 2132,2647 2306,2647 2480,2648 2655,2650 2829,2653 3003,2656 3177,2661 3352,2666 3526,2673 3700,2680 3874,2689 4049,2700"/>
+                <TextEquiv>
+                    <Unicode>vorhergehenden Weihnachtstagen kein Regen. Gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="544,2973 721,2971 1040,2830 1185,2909 1223,2867 1342,2850 1338,2748 1258,2733 1154,2790 1089,2735 1042,2781 992,2734 916,2733 829,2652 713,2749 673,2738 537,2801"/>
+                <Baseline points="564,2864 601,2864 639,2863 677,2863 715,2862 753,2861 790,2860 828,2859 866,2858 904,2856 942,2854 979,2853 1017,2851 1055,2849 1093,2847 1131,2846 1168,2844 1206,2842 1244,2840 1282,2839 1320,2838"/>
+                <TextEquiv>
+                    <Unicode>12 zu Haus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="753,3153 1093,3075 1330,3167 1504,3043 2163,3144 2391,3046 3624,3045 3621,2925 3483,2906 749,2963"/>
+                <Baseline points="771,3062 912,3059 1054,3057 1195,3054 1337,3051 1478,3049 1620,3046 1761,3042 1903,3040 2044,3036 2186,3033 2327,3030 2469,3026 2610,3023 2752,3020 2893,3016 3035,3013 3176,3010 3318,3007 3459,3003 3601,3000"/>
+                <TextEquiv>
+                    <Unicode>Legte mich nach Tisch auf's Bett, um mich ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="577,3246 920,3347 1463,3185 3902,3221 3900,3097 3717,3033 3247,3009 2929,3120 1421,3034 576,3148"/>
+                <Baseline points="600,3228 763,3218 927,3210 1091,3201 1255,3195 1419,3190 1583,3185 1746,3181 1910,3179 2074,3177 2238,3175 2402,3174 2566,3173 2730,3173 2893,3173 3057,3172 3221,3172 3385,3172 3549,3172 3713,3171 3877,3170"/>
+                <TextEquiv>
+                    <Unicode>wenig zu strecken u. d. Fliegen zu entgehen. Keine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="567,3460 1072,3382 1520,3509 1764,3389 2619,3505 2770,3407 3537,3484 3918,3398 3917,3288 3359,3241 566,3291"/>
+                <Baseline points="591,3396 756,3389 921,3382 1086,3376 1251,3371 1417,3367 1582,3363 1747,3361 1912,3359 2077,3358 2243,3357 2408,3357 2573,3357 2738,3359 2903,3360 3069,3362 3234,3365 3399,3368 3564,3372 3729,3376 3895,3380"/>
+                <TextEquiv>
+                    <Unicode>Spur von Müdigkeit. Nach kurzer Zeit merkte ich, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="539,3698 958,3581 1487,3684 2075,3564 3406,3655 3785,3485 1634,3415 1524,3510 854,3445 536,3538"/>
+                <Baseline points="558,3583 718,3583 878,3583 1038,3581 1198,3578 1359,3575 1519,3571 1679,3567 1839,3563 1999,3560 2160,3555 2320,3552 2480,3548 2640,3545 2800,3544 2961,3542 3121,3542 3281,3543 3441,3545 3601,3549 3762,3555"/>
+                <TextEquiv>
+                    <Unicode>sich Fieber einstellte. Bei 39,7° befand ich mich noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="534,3817 2126,3837 2337,3740 2876,3874 3383,3728 3851,3859 3983,3790 3979,3568 3440,3683 532,3707"/>
+                <Baseline points="555,3763 725,3771 895,3775 1065,3777 1236,3777 1406,3775 1576,3772 1747,3768 1917,3762 2087,3756 2258,3750 2428,3744 2598,3739 2768,3734 2939,3731 3109,3729 3279,3729 3450,3731 3620,3735 3790,3743 3961,3754"/>
+                <TextEquiv>
+                    <Unicode>immer vollkommen wohl. Dann fiel es allmäh„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582895230711_3475" custom="readingOrder {index:21;}">
+                <Coords points="537,3986 972,4081 1113,3970 1729,3971 1858,4076 2430,3958 2953,4070 3813,3963 3812,3843 3231,3771 2943,3884 2326,3746 1436,3875 536,3813"/>
+                <Baseline points="558,3945 699,3949 840,3953 982,3955 1123,3956 1264,3957 1406,3956 1547,3955 1688,3954 1830,3952 1971,3950 2112,3948 2254,3946 2395,3944 2536,3942 2678,3941 2819,3941 2960,3941 3102,3941 3243,3943 3385,3946 3412,3935 3437,3935 3462,3936 3487,3937 3512,3937 3538,3938 3563,3938 3588,3939 3613,3939 3638,3939 3664,3940 3689,3940 3714,3940 3739,3940 3764,3940 3790,3939"/>
+                <TextEquiv>
+                    <Unicode>lich während der Nacht, besonders infolge starken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="610,4292 831,4222 947,4287 1083,4166 1150,4214 1275,4234 1272,4044 1192,4049 1094,3980 976,4083 891,4053 847,4076 677,3954 606,3977"/>
+                <Baseline points="631,4171 662,4171 693,4170 724,4169 755,4169 786,4169 817,4168 848,4167 879,4167 910,4166 942,4166 973,4165 1004,4165 1035,4165 1066,4165 1097,4164 1128,4164 1159,4164 1190,4164 1221,4163 1253,4163"/>
+                <TextEquiv>
+                    <Unicode>Schwitzens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;}">
+                <Coords points="653,4342 1074,4355 1222,4464 1677,4322 2639,4338 2778,4439 3122,4315 3672,4363 3715,4216 2189,4152 2009,4270 1640,4145 1304,4264 652,4231"/>
+                <Baseline points="674,4334 824,4338 975,4340 1126,4340 1277,4340 1428,4338 1579,4336 1730,4333 1881,4329 2032,4326 2183,4322 2333,4319 2484,4316 2635,4313 2786,4311 2937,4311 3088,4311 3239,4313 3390,4316 3541,4321 3692,4328"/>
+                <TextEquiv>
+                    <Unicode>In d. Nacht ein schönes starkes Gewitter mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="577,4544 865,4516 1052,4643 1295,4509 2368,4502 2847,4628 3024,4521 3432,4629 4004,4568 3941,4413 3532,4340 2757,4451 2420,4325 576,4429"/>
+                <Baseline points="597,4514 766,4513 935,4511 1104,4509 1273,4507 1442,4504 1611,4502 1780,4500 1949,4497 2118,4495 2288,4493 2457,4492 2626,4490 2795,4490 2964,4489 3133,4490 3302,4491 3471,4493 3640,4495 3809,4499 3979,4503"/>
+                <TextEquiv>
+                    <Unicode>vorangehendem Sturm. Merkwürdig dumpfe. Donner,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="551,4736 790,4709 906,4752 994,4699 1110,4774 1261,4804 1327,4768 1487,4825 1633,4758 1632,4546 1499,4599 1326,4511 1255,4569 1175,4552 1065,4645 936,4602 821,4646 732,4602 551,4656"/>
+                <Baseline points="575,4704 626,4703 678,4703 730,4702 781,4701 833,4701 885,4700 936,4700 988,4700 1040,4699 1092,4699 1143,4699 1195,4699 1247,4699 1298,4699 1350,4699 1402,4699 1453,4699 1505,4699 1557,4699 1609,4700"/>
+                <TextEquiv>
+                    <Unicode>wie unterirdisch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>113&#xD;
+fangen. Dann sah ich einmal vorn unter einem Baum&#xD;
+etwas Schwarzes. Auch mein Begleiter war nicht sicher, ob&#xD;
+es ein Tier war, und da ich schon so oft durch Baumstäm„&#xD;
+me oder Blätter getäuscht bin, bewegte ich mich ohne&#xD;
+besondere Vorsicht, um besser sehen zu können. Da ging&#xD;
+mit Schnauben ein schöner Einzelgänger davon. Nachher&#xD;
+konnte ich 1 Tier der Herde, die nur aus Weibchen&#xD;
+zu bestehen schien, erlegen. Damit ist mein Blutdurst&#xD;
+einstweilen gestillt. Ich habe als Anfänger eine ganz&#xD;
+hübsche Zahl verschiedener Großwildschädel erbeutet. Eigent„&#xD;
+lich komme ich mir bei dem Töten als ein ganz&#xD;
+wildes Raubtier vor. Das Wetter war angenehm, der&#xD;
+Himmel zeitweilig bedeckt, aber wie in d. beiden&#xD;
+vorhergehenden Weihnachtstagen kein Regen. Gegen&#xD;
+12 zu Haus.&#xD;
+Legte mich nach Tisch auf's Bett, um mich ein&#xD;
+wenig zu strecken u. d. Fliegen zu entgehen. Keine&#xD;
+Spur von Müdigkeit. Nach kurzer Zeit merkte ich, wie&#xD;
+sich Fieber einstellte. Bei 39,7° befand ich mich noch&#xD;
+immer vollkommen wohl. Dann fiel es allmäh„&#xD;
+lich während der Nacht, besonders infolge starken&#xD;
+Schwitzens.&#xD;
+In d. Nacht ein schönes starkes Gewitter mit&#xD;
+vorangehendem Sturm. Merkwürdig dumpfe. Donner,&#xD;
+wie unterirdisch.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

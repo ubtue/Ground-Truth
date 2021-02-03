@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:57.818+02:00</Created>
+        <LastChange>2020-04-01T10:05:14.641+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550802" pageNr="100" tsid="26823639" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=XJHZRPJGWFUFXNTNAEPYPRDR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QIAVYJKZFSCZIVVGVTISREAV" imageId="4551680"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_100.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255562165" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582891167274_3071"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582891167274_3071" custom="readingOrder {index:0;}">
+            <Coords points="388,200 514,200 3944,319 3944,4886 491,4886 388,355"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="370,410 404,408 445,377 471,385 483,372 538,365 532,201 481,211 464,203 452,208 430,192 401,218 363,224"/>
+                <Baseline points="388,304 413,305 438,305 463,304 488,302 514,300"/>
+                <TextEquiv>
+                    <Unicode>96</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582891171505_3076" custom="readingOrder {index:1;}">
+                <Coords points="532,490 2075,492 2322,401 3364,494 3709,423 3705,250 528,321"/>
+                <Baseline points="554,456 581,453 609,451 636,450 664,451 691,452 719,453 742,460 889,453 1036,447 1183,441 1330,435 1478,429 1625,424 1772,418 1919,413 2066,409 2214,404 2361,400 2508,397 2655,395 2802,393 2950,391 3097,391 3244,391 3391,392 3538,394 3686,397"/>
+                <TextEquiv>
+                    <Unicode>1 Dez. Wie am 1 Mai beginnender Herbst, so heut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="510,729 1246,583 1620,672 2252,549 2402,673 3029,537 3834,609 3898,426 505,488"/>
+                <Baseline points="529,602 696,600 863,598 1031,593 1198,588 1366,583 1533,577 1701,572 1868,566 2036,560 2203,555 2370,550 2538,545 2705,542 2873,540 3040,538 3208,538 3375,540 3543,543 3710,547 3878,555"/>
+                <TextEquiv>
+                    <Unicode>Einzug in den üppigen Tropensommer des Küsten„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="538,800 2823,711 3353,801 3893,759 3890,607 3438,642 3237,537 2395,657 2253,550 1837,674 1252,585 536,707"/>
+                <Baseline points="559,771 724,764 890,757 1055,750 1221,742 1387,734 1552,727 1718,719 1883,713 2049,706 2215,700 2380,696 2546,692 2711,689 2877,688 3043,688 3208,690 3374,694 3539,700 3705,708 3871,717"/>
+                <TextEquiv>
+                    <Unicode>landes. Wunderschöner Weg durch reiche Vegetation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="541,962 1004,1043 1576,880 3927,927 3717,766 2811,723 539,802"/>
+                <Baseline points="563,920 730,916 897,911 1064,907 1231,901 1398,896 1565,890 1732,884 1899,879 2066,873 2234,868 2401,864 2568,860 2735,858 2902,857 3069,857 3236,858 3403,860 3570,865 3737,871 3905,880"/>
+                <TextEquiv>
+                    <Unicode>Aufstieg auf d. Kitulo, keinerlei Nummuliten gesehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="523,1176 1128,1064 2903,1013 3443,1110 3643,1019 3612,851 2808,961 2425,880 2204,984 517,973"/>
+                <Baseline points="540,1080 702,1075 864,1069 1026,1064 1188,1058 1350,1052 1512,1045 1674,1039 1836,1033 1998,1028 2160,1022 2322,1017 2484,1012 2646,1007 2808,1003 2970,999 3132,996 3294,993 3456,992 3619,990"/>
+                <TextEquiv>
+                    <Unicode>Fand zu unterst, aber auch in Blöcken bis zur Höhe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="512,1277 1267,1209 1476,1323 1718,1186 1839,1272 2437,1165 3399,1278 3925,1194 3922,1055 1986,1036 510,1193"/>
+                <Baseline points="531,1237 699,1229 868,1221 1036,1213 1205,1206 1374,1199 1542,1192 1711,1187 1879,1181 2048,1175 2217,1171 2385,1167 2554,1163 2722,1161 2891,1159 3060,1157 3228,1157 3397,1157 3565,1159 3734,1161 3903,1164"/>
+                <TextEquiv>
+                    <Unicode>weißlichen Sandstein, der an Kanten u. Flächen rot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="517,1402 1830,1339 2145,1434 2574,1316 3045,1443 3823,1411 3777,1213 3100,1184 515,1317"/>
+                <Baseline points="536,1374 699,1371 862,1367 1025,1362 1189,1357 1352,1352 1515,1348 1679,1342 1842,1337 2005,1332 2169,1327 2332,1323 2495,1320 2658,1317 2822,1315 2985,1314 3148,1314 3312,1315 3475,1318 3638,1323 3802,1329"/>
+                <TextEquiv>
+                    <Unicode>verwittert u. von mir, wäre ich unbefangen, zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="519,1552 1527,1625 2234,1472 3896,1500 3631,1375 2573,1320 2444,1421 1753,1340 516,1429"/>
+                <Baseline points="538,1533 704,1530 871,1526 1038,1522 1204,1516 1371,1511 1538,1505 1704,1499 1871,1492 2038,1487 2205,1481 2371,1476 2538,1471 2705,1467 2871,1464 3038,1462 3205,1461 3371,1461 3538,1463 3705,1467 3872,1472"/>
+                <TextEquiv>
+                    <Unicode>d. Makonde-Schichten gerechnet worden wäre. Dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="517,1809 713,1723 1400,1794 1756,1662 2008,1761 2145,1660 2413,1721 2558,1632 2781,1736 2935,1643 3586,1647 3439,1516 511,1597"/>
+                <Baseline points="535,1711 686,1703 837,1695 989,1686 1140,1679 1292,1671 1443,1664 1594,1658 1746,1652 1897,1646 2049,1641 2200,1637 2351,1633 2503,1630 2654,1629 2806,1628 2957,1628 3108,1629 3260,1631 3411,1635 3563,1640"/>
+                <TextEquiv>
+                    <Unicode>splittrige, sehr feste Sandsteine, eine Zone voller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="471,1921 1550,1825 2264,1920 2627,1785 3270,1924 3820,1799 3816,1690 467,1819"/>
+                <Baseline points="491,1893 656,1883 821,1873 987,1864 1152,1855 1317,1846 1483,1837 1648,1829 1813,1821 1979,1814 2144,1807 2309,1801 2475,1796 2640,1792 2805,1788 2971,1786 3136,1784 3301,1784 3467,1785 3632,1787 3798,1790"/>
+                <TextEquiv>
+                    <Unicode>Schieferbrocken u. endlich löcherig-zerfressenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="484,2088 2320,1979 2873,2099 3106,1970 3656,1989 3692,1882 2864,1930 2590,1789 2260,1934 1869,1851 481,1961"/>
+                <Baseline points="505,2056 663,2047 822,2038 980,2030 1139,2022 1297,2014 1456,2007 1614,2000 1773,1994 1931,1988 2090,1983 2248,1979 2407,1975 2565,1972 2724,1969 2882,1968 3041,1968 3199,1968 3358,1969 3516,1972 3675,1975"/>
+                <TextEquiv>
+                    <Unicode>Kalk. Blick auf d. See. Am Telegraphen entlang,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="491,2251 3774,2165 3767,1945 3352,2059 487,2116"/>
+                <Baseline points="509,2205 671,2200 833,2195 995,2189 1157,2183 1319,2177 1481,2170 1643,2163 1805,2157 1967,2150 2130,2144 2292,2138 2454,2132 2616,2128 2778,2124 2940,2121 3102,2119 3264,2117 3426,2117 3588,2119 3751,2121"/>
+                <TextEquiv>
+                    <Unicode>bis plötzlich Lindi u. seine Bucht tief unter uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582891185746_3083" custom="readingOrder {index:13;}">
+                <Coords points="503,2410 3625,2324 3622,2202 3274,2143 2009,2276 1443,2281 1216,2168 501,2296"/>
+                <Baseline points="523,2366 549,2367 575,2367 601,2367 627,2366 653,2365 679,2364 705,2363 731,2362 757,2361 783,2359 809,2358 835,2357 861,2356 953,2330 1085,2331 1218,2331 1350,2330 1483,2328 1615,2325 1748,2322 1880,2318 2013,2314 2145,2310 2278,2305 2410,2302 2543,2298 2675,2295 2808,2292 2940,2290 3073,2289 3205,2289 3338,2290 3470,2292 3603,2297"/>
+                <TextEquiv>
+                    <Unicode>lag. Ließ hier warten, um in geordnetem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="552,2616 2539,2464 3481,2573 3694,2475 3690,2323 2993,2314 2712,2422 2316,2326 2125,2436 1923,2326 1419,2457 547,2397"/>
+                <Baseline points="572,2529 735,2523 898,2517 1061,2512 1224,2506 1387,2501 1550,2497 1713,2492 1876,2488 2039,2484 2203,2480 2366,2476 2529,2473 2692,2470 2855,2467 3018,2464 3181,2462 3344,2460 3507,2457 3671,2456"/>
+                <TextEquiv>
+                    <Unicode>Zuge einzuziehen. Nun steil hinab. Welche Pracht!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="496,2721 3789,2700 3787,2603 3265,2503 3013,2597 2482,2467 2062,2615 1625,2509 1382,2632 495,2670"/>
+                <Baseline points="517,2709 679,2703 842,2698 1004,2692 1167,2686 1329,2679 1492,2673 1654,2668 1817,2662 1979,2657 2142,2652 2304,2648 2467,2645 2629,2643 2792,2641 2954,2641 3117,2643 3279,2645 3442,2649 3604,2654 3767,2662"/>
+                <TextEquiv>
+                    <Unicode>Die Fülle der blanken, feingeschnittenen Palmen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="546,2894 1312,2957 1538,2839 2628,2811 3294,2926 3582,2743 2727,2665 2171,2773 2021,2678 544,2772"/>
+                <Baseline points="565,2850 714,2846 864,2842 1014,2838 1164,2834 1314,2829 1464,2825 1613,2821 1763,2816 1913,2812 2063,2809 2213,2806 2363,2803 2513,2800 2662,2799 2812,2798 2962,2798 3112,2799 3262,2801 3412,2803 3562,2807"/>
+                <TextEquiv>
+                    <Unicode>wedel, durch die Seewind und Wogenrauschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:17;}">
+                <Coords points="524,3046 2761,3091 3059,2950 3522,3077 3941,2891 3664,2782 3223,2922 2646,2831 2471,2928 1970,2836 522,2932"/>
+                <Baseline points="543,3022 712,3016 881,3010 1050,3004 1219,2999 1388,2993 1557,2988 1726,2984 1895,2979 2064,2976 2233,2972 2402,2969 2571,2966 2740,2964 2909,2962 3078,2960 3247,2959 3416,2958 3585,2957 3754,2957 3923,2958"/>
+                <TextEquiv>
+                    <Unicode>weht, darunter die schmucken Europäerhäuser, Rinder,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;}">
+                <Coords points="579,3309 720,3196 1747,3150 2782,3141 2966,3278 3459,3147 3916,3216 3913,3047 3173,2978 2993,3096 1673,3041 576,3152"/>
+                <Baseline points="598,3192 762,3189 927,3186 1092,3181 1257,3177 1422,3173 1587,3168 1751,3163 1916,3158 2081,3153 2246,3149 2411,3146 2576,3142 2741,3140 2905,3138 3070,3138 3235,3139 3400,3140 3565,3143 3730,3148 3895,3155"/>
+                <TextEquiv>
+                    <Unicode>Ziegen. Dann das Inderviertel mit seltsamen bun„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;} textStyle {offset:41; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="552,3405 3780,3321 3777,3152 3191,3235 3041,3123 2591,3263 1655,3174 550,3257"/>
+                <Baseline points="573,3342 732,3341 891,3339 1050,3337 1210,3335 1369,3332 1528,3328 1688,3325 1847,3321 2006,3317 2166,3313 2325,3309 2484,3306 2643,3303 2803,3300 2962,3298 3121,3296 3281,3294 3440,3294 3599,3294 3759,3295"/>
+                <TextEquiv>
+                    <Unicode>ten Trachten. Vorüber an der ganz in viollette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="561,3585 1785,3468 2226,3564 2394,3486 2527,3603 2787,3477 3220,3581 3827,3489 3313,3293 2883,3391 559,3408"/>
+                <Baseline points="582,3507 743,3501 904,3496 1065,3491 1226,3486 1387,3481 1548,3477 1709,3472 1870,3468 2031,3464 2193,3461 2354,3459 2515,3457 2676,3456 2837,3456 2998,3456 3159,3458 3320,3460 3481,3464 3642,3469 3804,3475"/>
+                <TextEquiv>
+                    <Unicode>Bougainvillea-Blüten getauchten Markthalle, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="603,3765 902,3658 1038,3758 1608,3652 2166,3767 2491,3637 2800,3736 3188,3632 3967,3766 3966,3597 3094,3498 601,3592"/>
+                <Baseline points="623,3659 789,3660 955,3660 1121,3659 1287,3656 1453,3653 1619,3650 1785,3646 1951,3642 2117,3638 2283,3634 2449,3631 2615,3629 2781,3627 2947,3627 3113,3628 3279,3631 3445,3636 3611,3642 3777,3651 3944,3663"/>
+                <TextEquiv>
+                    <Unicode>zum Aquarellieren reizte, durch d. breiten, graden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="548,3841 971,3913 2306,3819 2881,3928 3046,3814 3671,3831 3671,3717 1964,3760 1346,3655 548,3778"/>
+                <Baseline points="571,3820 725,3815 879,3812 1033,3809 1187,3807 1341,3805 1495,3804 1649,3803 1803,3803 1957,3803 2111,3803 2265,3804 2419,3805 2573,3806 2727,3806 2881,3807 3035,3808 3189,3809 3343,3810 3497,3810 3652,3810"/>
+                <TextEquiv>
+                    <Unicode>wohlgepflegten Straßen zum Usagara-Haus unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;}">
+                <Coords points="545,4034 761,4095 933,4016 1048,4091 1373,4007 1682,4083 1943,3961 2363,4066 2721,3969 2677,3851 2424,3917 2245,3822 1862,3924 1494,3861 1271,3932 1130,3853 882,3937 750,3845 544,3941"/>
+                <Baseline points="565,3984 671,3983 778,3981 885,3980 991,3978 1098,3977 1205,3975 1311,3974 1418,3973 1525,3971 1632,3970 1738,3969 1845,3967 1952,3966 2058,3965 2165,3964 2272,3962 2378,3961 2485,3960 2592,3959 2699,3957"/>
+                <TextEquiv>
+                    <Unicode>rhytmischem Gesang der Wangoni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="760,4238 1203,4143 2236,4244 2471,4110 3034,4200 3138,4110 3904,4143 3902,4012 3434,4060 3031,3955 758,4069"/>
+                <Baseline points="782,4129 937,4131 1092,4132 1247,4132 1402,4130 1557,4128 1712,4125 1867,4122 2022,4118 2177,4114 2333,4110 2488,4107 2643,4103 2798,4101 2953,4099 3108,4098 3263,4098 3418,4099 3573,4101 3728,4106 3884,4112"/>
+                <TextEquiv>
+                    <Unicode>Erhielt hier zwei luftige geräumige Zimmer mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="637,4342 3777,4319 3776,4197 3315,4118 2432,4228 2250,4136 1925,4243 636,4181"/>
+                <Baseline points="659,4309 813,4304 968,4300 1123,4296 1278,4291 1433,4287 1588,4284 1743,4280 1898,4278 2053,4276 2208,4274 2362,4274 2517,4273 2672,4274 2827,4275 2982,4277 3137,4280 3292,4284 3447,4289 3602,4295 3757,4302"/>
+                <TextEquiv>
+                    <Unicode>Blick in Palmen und auf die Bucht, stellte die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:26;} gap {offset:16; length:0;}">
+                <Coords points="631,4564 1544,4465 2250,4561 2364,4460 2787,4557 2939,4463 3552,4475 3598,4340 631,4348"/>
+                <Baseline points="653,4457 799,4457 945,4458 1091,4458 1237,4458 1383,4459 1529,4459 1676,4459 1822,4458 1968,4458 2114,4458 2260,4457 2406,4457 2552,4457 2699,4456 2845,4456 2991,4456 3137,4455 3283,4455 3429,4455 3576,4454"/>
+                <TextEquiv>
+                    <Unicode>Lasten unter u.  tauschte nach 7 Monaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:27;}">
+                <Coords points="614,4663 821,4630 1011,4749 2064,4641 2330,4739 2711,4639 3044,4728 3230,4631 3513,4687 3569,4581 1942,4506 1460,4585 1080,4482 614,4562"/>
+                <Baseline points="636,4624 781,4625 927,4626 1072,4627 1218,4629 1364,4630 1509,4631 1655,4632 1800,4633 1946,4634 2092,4635 2237,4635 2383,4636 2528,4636 2674,4636 2820,4635 2965,4634 3111,4633 3256,4632 3402,4629 3548,4627"/>
+                <TextEquiv>
+                    <Unicode>den Khaki gegen die weißen Anzüge ein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:28;}">
+                <Coords points="724,4920 1282,4923 1562,4804 2575,4935 2703,4836 3142,4926 3633,4868 3634,4725 2983,4776 2798,4668 1947,4763 1750,4684 727,4713"/>
+                <Baseline points="747,4804 890,4805 1033,4806 1176,4807 1319,4808 1462,4808 1605,4809 1749,4809 1892,4810 2035,4811 2178,4812 2321,4813 2464,4814 2607,4817 2751,4819 2894,4822 3037,4826 3180,4830 3323,4836 3466,4842 3610,4849"/>
+                <TextEquiv>
+                    <Unicode>Nachm. auf der Boma beim Bezirksamtmann d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>96&#xD;
+1 Dez. Wie am 1 Mai beginnender Herbst, so heut&#xD;
+Einzug in den üppigen Tropensommer des Küsten„&#xD;
+landes. Wunderschöner Weg durch reiche Vegetation.&#xD;
+Aufstieg auf d. Kitulo, keinerlei Nummuliten gesehen.&#xD;
+Fand zu unterst, aber auch in Blöcken bis zur Höhe,&#xD;
+weißlichen Sandstein, der an Kanten u. Flächen rot&#xD;
+verwittert u. von mir, wäre ich unbefangen, zu&#xD;
+d. Makonde-Schichten gerechnet worden wäre. Dann&#xD;
+splittrige, sehr feste Sandsteine, eine Zone voller&#xD;
+Schieferbrocken u. endlich löcherig-zerfressenen&#xD;
+Kalk. Blick auf d. See. Am Telegraphen entlang,&#xD;
+bis plötzlich Lindi u. seine Bucht tief unter uns&#xD;
+lag. Ließ hier warten, um in geordnetem&#xD;
+Zuge einzuziehen. Nun steil hinab. Welche Pracht!&#xD;
+Die Fülle der blanken, feingeschnittenen Palmen„&#xD;
+wedel, durch die Seewind und Wogenrauschen&#xD;
+weht, darunter die schmucken Europäerhäuser, Rinder,&#xD;
+Ziegen. Dann das Inderviertel mit seltsamen bun„&#xD;
+ten Trachten. Vorüber an der ganz in viollette&#xD;
+Bougainvillea-Blüten getauchten Markthalle, die&#xD;
+zum Aquarellieren reizte, durch d. breiten, graden,&#xD;
+wohlgepflegten Straßen zum Usagara-Haus unter&#xD;
+rhytmischem Gesang der Wangoni.&#xD;
+Erhielt hier zwei luftige geräumige Zimmer mit&#xD;
+Blick in Palmen und auf die Bucht, stellte die&#xD;
+Lasten unter u.  tauschte nach 7 Monaten&#xD;
+den Khaki gegen die weißen Anzüge ein.&#xD;
+Nachm. auf der Boma beim Bezirksamtmann d.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

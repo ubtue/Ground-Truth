@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:59.900+02:00</Created>
+        <LastChange>2020-03-26T17:05:50.408+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550841" pageNr="139" tsid="26483742" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=CRPCQNOYZMBWQURQBPFLRKXT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WEQTMGBHXEVTDAYGANBIKTYT" imageId="4551719"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_139.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255571816" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r8"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r8" custom="readingOrder {index:0;}">
+            <Coords points="487,310 487,5014 4108,5014 4108,310"/>
+            <TextLine id="r8l1" custom="readingOrder {index:0;}">
+                <Coords points="3664,431 3700,431 3733,452 3819,407 3839,428 3887,406 3925,423 3938,308 3906,309 3885,293 3866,309 3853,299 3821,309 3791,287 3706,328 3676,320"/>
+                <Baseline points="3692,381 3718,384 3745,386 3771,387 3798,389 3825,392 3851,395 3878,400 3905,408"/>
+                <TextEquiv>
+                    <Unicode>135</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l2" custom="readingOrder {index:1;}">
+                <Coords points="473,435 960,405 1135,511 1408,509 1554,409 1787,434 1786,269 1657,297 1468,213 1263,268 1209,228 972,261 905,213 552,354 472,341"/>
+                <Baseline points="493,410 556,410 620,410 683,409 747,408 810,407 874,406 937,405 1001,404 1064,402 1128,401 1192,401 1255,400 1319,399 1382,399 1446,399 1509,400 1573,402 1636,403 1700,405 1764,408"/>
+                <TextEquiv>
+                    <Unicode>nende Muschelschalen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l3" custom="readingOrder {index:2;}">
+                <Coords points="856,625 2430,610 3198,721 3610,678 3611,482 856,509"/>
+                <Baseline points="876,606 1011,604 1147,603 1282,602 1418,602 1554,603 1689,604 1825,605 1961,607 2096,609 2232,611 2368,612 2503,613 2639,615 2775,615 2910,615 3046,615 3182,614 3317,612 3453,609 3589,604"/>
+                <TextEquiv>
+                    <Unicode>121,1 im Bahnschotter Perisphincten-Bruchstück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l4" custom="readingOrder {index:3;}">
+                <Coords points="868,709 1122,758 1459,710 1636,780 1879,691 2282,698 2392,776 2656,776 2658,638 2431,611 870,619"/>
+                <Baseline points="890,686 977,686 1064,687 1151,687 1238,688 1326,689 1413,690 1500,691 1587,692 1674,694 1762,695 1849,697 1936,699 2023,701 2110,703 2198,705 2285,707 2372,709 2459,711 2546,714 2634,716"/>
+                <TextEquiv>
+                    <Unicode>119,9 südl. d. Bahn Kinkelin-Bruch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l5" custom="readingOrder {index:4;}">
+                <Coords points="508,942 1988,807 3857,823 3723,707 508,696"/>
+                <Baseline points="531,832 696,827 861,822 1026,818 1191,815 1357,813 1522,811 1687,810 1852,809 2017,809 2183,809 2348,810 2513,810 2678,811 2843,811 3009,812 3174,812 3339,812 3504,812 3669,812 3835,811"/>
+                <TextEquiv>
+                    <Unicode>nahe 119,8 Blaue harte Bank in oder wenigstens unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l6" custom="readingOrder {index:5;}">
+                <Coords points="478,1013 3474,1074 4050,924 1988,806 1506,938 477,933"/>
+                <Baseline points="501,984 677,984 853,983 1029,982 1206,981 1382,979 1558,978 1735,976 1911,975 2087,973 2264,972 2440,971 2616,970 2792,969 2969,969 3145,969 3321,970 3498,972 3674,973 3850,976 4027,979"/>
+                <TextEquiv>
+                    <Unicode>braunen sandigen Letten. Farbe u. Äußeres täuschend dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l7" custom="readingOrder {index:6;}">
+                <Coords points="477,1233 2256,1269 2967,1143 3987,1257 3986,1051 3807,1029 476,996"/>
+                <Baseline points="501,1166 674,1160 847,1154 1020,1150 1193,1147 1366,1144 1539,1142 1712,1141 1885,1140 2058,1140 2232,1140 2405,1140 2578,1141 2751,1142 2924,1143 3097,1144 3270,1146 3443,1147 3616,1148 3789,1148 3963,1149"/>
+                <TextEquiv>
+                    <Unicode>Kidugallo-Oolithsandstein ähnelnd, aber keinerlei Oolithgefüge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l8" custom="readingOrder {index:7;}">
+                <Coords points="466,1407 519,1375 551,1388 595,1347 734,1341 765,1367 997,1333 1042,1359 1131,1331 1129,1174 1013,1185 968,1163 777,1282 638,1221 576,1280 464,1286"/>
+                <Baseline points="487,1330 518,1330 549,1330 580,1329 611,1329 642,1329 673,1328 705,1328 736,1327 767,1327 798,1326 829,1326 860,1325 891,1325 923,1324 954,1324 985,1324 1016,1323 1047,1323 1078,1323 1110,1323"/>
+                <TextEquiv>
+                    <Unicode>erkennbar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l9" custom="readingOrder {index:8;}">
+                <Coords points="767,1517 4067,1525 4013,1413 3365,1346 2149,1322 2010,1433 1630,1326 1393,1419 767,1356"/>
+                <Baseline points="790,1480 952,1479 1115,1478 1278,1477 1440,1477 1603,1476 1766,1475 1928,1475 2091,1475 2254,1474 2417,1474 2579,1475 2742,1475 2905,1475 3067,1476 3230,1477 3393,1478 3555,1480 3718,1481 3881,1484 4044,1486"/>
+                <TextEquiv>
+                    <Unicode>119,7 In den aus dem Bahneinschnitt seitlich herausgewor„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l10" custom="readingOrder {index:9;}">
+                <Coords points="499,1753 929,1637 1514,1740 4121,1675 4121,1568 3826,1483 3629,1590 3424,1487 3079,1585 500,1543"/>
+                <Baseline points="523,1645 701,1641 880,1637 1059,1634 1238,1631 1417,1629 1595,1627 1774,1626 1953,1626 2132,1625 2311,1626 2489,1626 2668,1627 2847,1629 3026,1630 3205,1632 3383,1634 3562,1637 3741,1639 3920,1641 4099,1644"/>
+                <TextEquiv>
+                    <Unicode>fenen Material Pflanzenreste ohne erkennbare Form (Blätter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l11" custom="readingOrder {index:10;}">
+                <Coords points="493,1852 1580,1898 2099,1788 2259,1886 2711,1806 3784,1893 3784,1768 3221,1669 1517,1742 1205,1630 493,1771"/>
+                <Baseline points="516,1813 678,1808 840,1805 1003,1801 1165,1797 1327,1794 1490,1791 1652,1788 1814,1786 1977,1784 2139,1783 2301,1783 2464,1784 2626,1785 2788,1788 2951,1792 3113,1797 3275,1802 3438,1809 3600,1819 3763,1829"/>
+                <TextEquiv>
+                    <Unicode>darunter?), von Janensch angezweifelt. Einfallen ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l12" custom="readingOrder {index:11;}">
+                <Coords points="475,2091 1373,1968 1955,2087 3278,2075 3314,1869 474,1899"/>
+                <Baseline points="499,1986 638,1981 778,1976 917,1972 1057,1969 1197,1966 1336,1964 1476,1962 1615,1961 1755,1960 1895,1960 2034,1960 2174,1960 2313,1961 2453,1962 2593,1964 2732,1965 2872,1968 3011,1970 3151,1973 3291,1976"/>
+                <TextEquiv>
+                    <Unicode>schwach ON.O, winzige Stauchungen u. Störungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l13" custom="readingOrder {index:12;}">
+                <Coords points="802,2210 2680,2271 2876,2173 3985,2174 3833,2026 802,2040"/>
+                <Baseline points="824,2160 989,2154 1154,2149 1319,2146 1484,2144 1650,2142 1815,2142 1980,2142 2145,2143 2310,2144 2476,2146 2641,2147 2806,2149 2971,2151 3136,2152 3302,2152 3467,2153 3632,2152 3797,2151 3963,2148"/>
+                <TextEquiv>
+                    <Unicode>119,5-6 Kalksandstein fast organisch, da dicht erfüllt von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l14" custom="readingOrder {index:13;}">
+                <Coords points="519,2416 1141,2325 2026,2422 2223,2297 4016,2384 3918,2200 520,2166"/>
+                <Baseline points="542,2308 714,2305 887,2303 1059,2302 1232,2302 1404,2302 1577,2302 1749,2303 1922,2304 2094,2305 2267,2307 2439,2308 2612,2310 2784,2311 2957,2312 3129,2313 3302,2313 3474,2313 3647,2312 3819,2311 3992,2309"/>
+                <TextEquiv>
+                    <Unicode>Schalen, ohne daß Einzelheit zu erkennen wäre. Mit den bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l15" custom="readingOrder {index:14;}">
+                <Coords points="498,2541 2833,2471 4080,2618 4080,2394 3647,2348 499,2420"/>
+                <Baseline points="523,2495 699,2489 876,2483 1053,2478 1229,2473 1406,2470 1583,2467 1759,2464 1936,2463 2113,2462 2290,2462 2466,2462 2643,2464 2820,2466 2996,2469 3173,2473 3350,2478 3526,2484 3703,2491 3880,2499 4057,2508"/>
+                <TextEquiv>
+                    <Unicode>Ngerengere gesammelten Fossilien zu vergleichen! Einfallen O.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l16" custom="readingOrder {index:15;}">
+                <Coords points="547,2728 3958,2679 3082,2494 2899,2606 2358,2484 547,2549"/>
+                <Baseline points="567,2660 735,2655 903,2651 1072,2647 1240,2643 1409,2641 1577,2638 1746,2637 1914,2636 2083,2635 2251,2635 2419,2636 2588,2637 2756,2639 2925,2641 3093,2643 3262,2646 3430,2650 3599,2654 3767,2658 3936,2663"/>
+                <TextEquiv>
+                    <Unicode>Zw. 119,2 u. 3. Bänke von Kalkkonkretionen (?) mit prächtig er„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l17" custom="readingOrder {index:16;}">
+                <Coords points="677,2825 1992,2810 2147,2928 2381,2790 2858,2909 3033,2821 3865,2884 3937,2790 3097,2665 2917,2771 677,2718"/>
+                <Baseline points="699,2812 859,2812 1020,2811 1181,2810 1342,2809 1503,2808 1664,2807 1824,2806 1985,2805 2146,2804 2307,2804 2468,2804 2629,2805 2790,2807 2950,2809 3111,2812 3272,2816 3433,2821 3594,2826 3755,2834 3916,2842"/>
+                <TextEquiv>
+                    <Unicode>haltenen, zahlreichen u. sehr mannigfachen Schnecken u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l18" custom="readingOrder {index:17;}">
+                <Coords points="661,2980 1448,3050 1564,2956 2517,2946 2780,3049 3429,2967 3643,3061 3831,2999 3832,2878 662,2841"/>
+                <Baseline points="685,2964 841,2959 997,2955 1153,2952 1310,2949 1466,2947 1622,2945 1779,2944 1935,2943 2091,2943 2248,2944 2404,2944 2560,2946 2716,2948 2873,2950 3029,2953 3185,2956 3342,2959 3498,2963 3654,2967 3811,2972"/>
+                <TextEquiv>
+                    <Unicode>Muscheln. Reiches Material gesammelt, große Blöcke wegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l19" custom="readingOrder {index:18;}">
+                <Coords points="627,3228 1379,3108 1660,3226 2175,3113 3686,3225 3972,3174 3974,2972 3642,3064 3191,2972 629,3009"/>
+                <Baseline points="652,3119 816,3116 981,3115 1146,3113 1311,3113 1476,3112 1640,3112 1805,3112 1970,3112 2135,3113 2300,3114 2464,3116 2629,3117 2794,3119 2959,3121 3124,3123 3288,3126 3453,3129 3618,3132 3783,3135 3948,3138"/>
+                <TextEquiv>
+                    <Unicode>Gewichts zurückgelassen. In etwas höherer Bank beste Erhal„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l20" custom="readingOrder {index:19;}">
+                <Coords points="624,3321 4014,3327 3862,3197 3107,3135 915,3237 759,3142 625,3240"/>
+                <Baseline points="647,3287 814,3279 981,3272 1148,3267 1315,3263 1482,3261 1649,3260 1817,3261 1984,3262 2151,3264 2318,3266 2485,3269 2652,3271 2819,3274 2987,3277 3154,3279 3321,3281 3488,3282 3655,3282 3822,3282 3990,3280"/>
+                <TextEquiv>
+                    <Unicode>tung, da weniger dicht. Bei 119,2 rechts kleiner Bruch; ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l21" custom="readingOrder {index:20;} textStyle {offset:8; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="624,3481 1196,3429 1549,3533 1692,3417 2551,3411 2712,3510 3056,3426 3592,3508 3973,3371 1662,3274 624,3382"/>
+                <Baseline points="645,3430 810,3422 975,3416 1140,3411 1306,3408 1471,3406 1636,3405 1801,3405 1967,3406 2132,3407 2297,3409 2462,3412 2628,3414 2793,3416 2958,3419 3123,3421 3289,3422 3454,3423 3619,3423 3784,3422 3950,3420"/>
+                <TextEquiv>
+                    <Unicode>witterter Kalkschichten mit großen Kugelkonkretionen (keine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l22" custom="readingOrder {index:21;}">
+                <Coords points="621,3714 1616,3573 1881,3665 2198,3603 2959,3671 3088,3634 3086,3424 2729,3508 2554,3412 2268,3500 1803,3495 1695,3416 1499,3517 1203,3426 618,3499"/>
+                <Baseline points="640,3605 761,3596 882,3588 1003,3582 1124,3577 1246,3572 1367,3570 1488,3568 1609,3567 1730,3566 1852,3566 1973,3567 2094,3567 2215,3568 2336,3568 2458,3568 2579,3568 2700,3568 2821,3566 2942,3564 3064,3561"/>
+                <TextEquiv>
+                    <Unicode>Gerölle?) von guter Schieferung (Schichtung?)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l23" custom="readingOrder {index:22;}">
+                <Coords points="778,3832 3885,3796 3782,3640 3545,3622 2039,3680 1609,3577 778,3684"/>
+                <Baseline points="801,3773 954,3765 1107,3759 1260,3753 1413,3750 1566,3746 1719,3744 1872,3743 2025,3742 2178,3742 2331,3743 2484,3744 2637,3746 2790,3747 2943,3749 3096,3752 3249,3754 3402,3756 3555,3758 3708,3760 3861,3761"/>
+                <TextEquiv>
+                    <Unicode>118,9 lichte, feinkörnige Sandsteine, dünnbankig, Einfallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l24" custom="readingOrder {index:23;}">
+                <Coords points="639,4030 715,4041 817,3989 863,4032 903,4031 981,3962 1018,3992 1048,3964 1085,3995 1116,3962 1200,3960 1195,3781 1111,3815 1008,3818 925,3870 762,3789 691,3823 633,3815"/>
+                <Baseline points="658,3927 684,3928 710,3928 736,3928 762,3928 788,3928 814,3927 840,3926 866,3925 892,3924 918,3923 944,3922 970,3920 996,3919 1022,3918 1048,3917 1074,3917 1100,3917 1126,3917 1152,3917 1178,3918"/>
+                <TextEquiv>
+                    <Unicode>schwach O.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l25" custom="readingOrder {index:24;}">
+                <Coords points="742,4174 1584,4069 3813,4203 3930,4147 3933,3959 3478,3895 3149,4047 2789,3898 1920,4016 1376,3901 744,3990"/>
+                <Baseline points="765,4080 922,4075 1079,4071 1236,4070 1394,4070 1551,4071 1708,4073 1865,4077 2023,4080 2180,4085 2337,4089 2494,4093 2652,4097 2809,4101 2966,4104 3123,4106 3281,4107 3438,4107 3595,4105 3752,4101 3910,4096"/>
+                <TextEquiv>
+                    <Unicode>Bis 117,3 Verwitterungsdecke („Mikindani-Sch“?). Rötlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l26" custom="readingOrder {index:25;}">
+                <Coords points="627,4281 1638,4236 2357,4342 3856,4191 2081,4086 1571,4173 1209,4069 628,4147"/>
+                <Baseline points="649,4234 808,4232 967,4231 1126,4230 1286,4230 1445,4230 1604,4231 1763,4232 1923,4233 2082,4234 2241,4235 2400,4237 2560,4238 2719,4239 2878,4240 3037,4241 3197,4241 3356,4241 3515,4240 3674,4239 3834,4237"/>
+                <TextEquiv>
+                    <Unicode>lehmige Sande mit zahllosen hellen Konkretionsbrocken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l27" custom="readingOrder {index:26;}">
+                <Coords points="625,4442 4130,4488 4131,4331 3542,4272 626,4325"/>
+                <Baseline points="648,4396 821,4397 994,4398 1167,4398 1340,4398 1513,4399 1686,4399 1859,4399 2032,4399 2205,4399 2378,4400 2551,4401 2724,4402 2897,4404 3070,4406 3243,4410 3416,4414 3589,4419 3762,4425 3935,4431 4108,4439"/>
+                <TextEquiv>
+                    <Unicode>Durch kleine Störung hier die braunen, sandigen Letten wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l28" custom="readingOrder {index:27;}">
+                <Coords points="604,4655 753,4559 1064,4648 2617,4567 2915,4679 3847,4590 3848,4469 3107,4422 2676,4524 2525,4428 607,4467"/>
+                <Baseline points="630,4541 789,4544 949,4547 1109,4550 1269,4552 1428,4554 1588,4555 1748,4557 1908,4559 2067,4560 2227,4562 2387,4564 2547,4566 2706,4568 2866,4570 3026,4573 3186,4576 3345,4580 3505,4584 3665,4590 3825,4595"/>
+                <TextEquiv>
+                    <Unicode>zum Vorschein. Einfallen eine Strecke weit senkrecht, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l29" custom="readingOrder {index:28;}">
+                <Coords points="660,4785 1658,4648 2056,4773 3285,4730 3227,4578 1394,4567 1059,4642 661,4557"/>
+                <Baseline points="681,4717 810,4716 939,4714 1068,4713 1197,4712 1326,4711 1455,4710 1584,4709 1713,4709 1842,4709 1972,4709 2101,4709 2230,4709 2359,4710 2488,4711 2617,4712 2746,4713 2875,4715 3004,4717 3133,4719 3263,4721"/>
+                <TextEquiv>
+                    <Unicode>schnell in das normale wieder einlenkend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l30" custom="readingOrder {index:29;}">
+                <Coords points="792,4906 3990,4934 3958,4751 792,4759"/>
+                <Baseline points="814,4892 971,4886 1129,4881 1286,4878 1444,4875 1602,4874 1759,4872 1917,4872 2074,4871 2232,4871 2390,4872 2547,4872 2705,4873 2862,4873 3020,4873 3178,4873 3335,4873 3493,4872 3650,4871 3808,4869 3966,4866"/>
+                <TextEquiv>
+                    <Unicode>Nahe 116-117 südl. d. Bahn reiner Oolith, leider nur Probestück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l31" custom="readingOrder {index:30;}">
+                <Coords points="567,4999 598,5000 626,4975 671,4968 702,4987 716,4974 741,5002 769,4977 818,4993 859,4981 898,5001 939,4985 943,4886 799,4907 729,4877 655,4927 572,4887"/>
+                <Baseline points="591,4965 618,4965 645,4966 672,4967 699,4968 726,4969 753,4970 780,4971 807,4972 834,4974 861,4976 888,4978 915,4980"/>
+                <TextEquiv>
+                    <Unicode>gesehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l32" custom="readingOrder {index:31;}">
+                <Coords points="1503,4989 1625,4969 1690,5009 1732,4984 1785,5005 1830,4990 1887,5016 1910,4999 1937,5005 1942,4907 1915,4910 1890,4881 1727,4913 1662,4882 1510,4878"/>
+                <Baseline points="1528,4972 1553,4972 1579,4973 1605,4973 1631,4974 1657,4976 1683,4978 1709,4980 1734,4982 1760,4983 1786,4985 1812,4987 1838,4988 1864,4989 1890,4990 1916,4990"/>
+                <TextEquiv>
+                    <Unicode>(?? 1911)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>135&#xD;
+nende Muschelschalen.&#xD;
+121,1 im Bahnschotter Perisphincten-Bruchstück&#xD;
+119,9 südl. d. Bahn Kinkelin-Bruch&#xD;
+nahe 119,8 Blaue harte Bank in oder wenigstens unter&#xD;
+braunen sandigen Letten. Farbe u. Äußeres täuschend dem&#xD;
+Kidugallo-Oolithsandstein ähnelnd, aber keinerlei Oolithgefüge&#xD;
+erkennbar.&#xD;
+119,7 In den aus dem Bahneinschnitt seitlich herausgewor„&#xD;
+fenen Material Pflanzenreste ohne erkennbare Form (Blätter&#xD;
+darunter?), von Janensch angezweifelt. Einfallen ganz&#xD;
+schwach ON.O, winzige Stauchungen u. Störungen.&#xD;
+119,5-6 Kalksandstein fast organisch, da dicht erfüllt von&#xD;
+Schalen, ohne daß Einzelheit zu erkennen wäre. Mit den bei&#xD;
+Ngerengere gesammelten Fossilien zu vergleichen! Einfallen O.&#xD;
+Zw. 119,2 u. 3. Bänke von Kalkkonkretionen (?) mit prächtig er„&#xD;
+haltenen, zahlreichen u. sehr mannigfachen Schnecken u.&#xD;
+Muscheln. Reiches Material gesammelt, große Blöcke wegen&#xD;
+Gewichts zurückgelassen. In etwas höherer Bank beste Erhal„&#xD;
+tung, da weniger dicht. Bei 119,2 rechts kleiner Bruch; ver„&#xD;
+witterter Kalkschichten mit großen Kugelkonkretionen (keine&#xD;
+Gerölle?) von guter Schieferung (Schichtung?)&#xD;
+118,9 lichte, feinkörnige Sandsteine, dünnbankig, Einfallen&#xD;
+schwach O.&#xD;
+Bis 117,3 Verwitterungsdecke („Mikindani-Sch“?). Rötlich&#xD;
+lehmige Sande mit zahllosen hellen Konkretionsbrocken.&#xD;
+Durch kleine Störung hier die braunen, sandigen Letten wieder&#xD;
+zum Vorschein. Einfallen eine Strecke weit senkrecht, aber&#xD;
+schnell in das normale wieder einlenkend&#xD;
+Nahe 116-117 südl. d. Bahn reiner Oolith, leider nur Probestück&#xD;
+gesehen.&#xD;
+(?? 1911)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

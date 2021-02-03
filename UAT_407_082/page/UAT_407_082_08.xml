@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M2(htr_id=17350)::::v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.3
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:12.408+02:00</Created>
+        <LastChange>2020-04-02T08:26:51.219+02:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581431" pageNr="8" tsid="26872924" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=XGVEBAHXHKEKLSBFKIKFJNSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SLGEUXTXRHDXISTFESPXBAYW" imageId="4579342"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_08.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255742015" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1571219284966_524"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1571219284966_524" custom="readingOrder {index:0;}">
+            <Coords points="322,299 390,299 3978,625 3978,4560 375,4560 322,450"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="298,440 320,440 342,431 369,409 378,414 391,405 414,405 414,285 387,285 356,316 338,311 329,320 298,320"/>
+                <Baseline points="322,400 356,399 390,400"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571219233958_497" custom="readingOrder {index:1;}">
+                <Coords points="422,738 2885,797 3757,713 3757,531 1863,641 1694,552 422,578"/>
+                <Baseline points="444,695 575,697 707,699 838,700 970,701 1101,701 1233,701 1364,701 1496,701 1627,701 1759,701 1890,701 2022,700 2153,700 2285,700 2416,700 2548,700 2679,701 2811,701 2942,702 3074,704 3106,691 3137,692 3168,692 3200,693 3231,694 3263,696 3294,697 3325,698 3357,699 3388,701 3420,702 3451,703 3482,704 3514,705 3545,705 3577,705 3608,705 3639,704 3671,703 3702,701 3734,700"/>
+                <TextEquiv>
+                    <Unicode>Im Fluße Nindi wenige, aber wichtige Fossilien. Wieder sehr starke Mäander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="382,867 3948,872 3948,760 3748,725 382,756"/>
+                <Baseline points="403,846 579,842 755,838 931,835 1107,832 1284,830 1460,828 1636,826 1812,825 1988,825 2165,825 2341,825 2517,826 2693,827 2869,829 3046,831 3222,833 3398,835 3574,838 3750,841 3927,844"/>
+                <TextEquiv>
+                    <Unicode>beobachtet, nirgends gebrannt. Felder nicht so reichlich wie erwartet, beim Akiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="353,1067 3745,1072 3954,1027 3954,867 615,942 352,844"/>
+                <Baseline points="375,988 552,989 730,990 908,991 1086,991 1264,991 1441,991 1619,991 1797,990 1975,990 2153,989 2330,988 2508,988 2686,987 2864,987 3042,986 3219,986 3397,987 3575,987 3753,988 3931,990"/>
+                <TextEquiv>
+                    <Unicode>sogar ziemliches Pori u. kaum ein Plätzchen für's Zelt. Der ganze Bezirk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571219238926_502" custom="readingOrder {index:4;}">
+                <Coords points="364,1174 1675,1228 2182,1122 2373,1229 3525,1243 3823,1079 364,1081"/>
+                <Baseline points="385,1153 481,1151 578,1150 675,1148 772,1146 869,1145 966,1143 1063,1141 1160,1140 1257,1138 1354,1137 1450,1135 1547,1133 1644,1131 1741,1130 1838,1127 1935,1125 2032,1122 2129,1120 2226,1118 2323,1115 2401,1142 2471,1140 2541,1139 2611,1138 2681,1138 2751,1138 2821,1138 2891,1139 2961,1140 3031,1141 3101,1142 3171,1144 3241,1145 3311,1146 3381,1148 3451,1149 3521,1150 3591,1151 3661,1151 3731,1151 3802,1151"/>
+                <TextEquiv>
+                    <Unicode>kommt mir nach Lindi unordentlich vor. Essen nicht zu haben, hätte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="352,1348 3910,1317 3910,1192 3705,1165 353,1184"/>
+                <Baseline points="376,1286 551,1283 727,1282 902,1280 1078,1279 1254,1279 1429,1278 1605,1278 1780,1279 1956,1279 2132,1280 2307,1281 2483,1282 2658,1283 2834,1284 3010,1285 3185,1286 3361,1287 3536,1288 3712,1289 3888,1289"/>
+                <TextEquiv>
+                    <Unicode>nicht selber mitgenommen, müßten die Träger hungern. Gestern hatte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="368,1454 2871,1510 3262,1399 3947,1470 3947,1359 1066,1281 368,1383"/>
+                <Baseline points="391,1423 567,1417 744,1412 921,1407 1098,1404 1274,1400 1451,1398 1628,1395 1805,1394 1981,1393 2158,1393 2335,1393 2512,1394 2688,1396 2865,1398 3042,1402 3219,1405 3395,1409 3572,1414 3749,1420 3926,1426"/>
+                <TextEquiv>
+                    <Unicode>einen indischen Händler für meine Zwecke engagieren wollen, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="392,1624 1157,1590 1331,1657 1540,1581 1949,1676 2024,1600 2224,1645 2225,1512 2078,1458 1798,1533 1616,1453 1518,1519 1069,1523 873,1460 651,1535 393,1477"/>
+                <Baseline points="414,1578 503,1577 592,1576 681,1576 771,1576 860,1576 949,1577 1039,1577 1128,1578 1217,1579 1307,1579 1396,1580 1485,1580 1574,1581 1664,1581 1753,1581 1842,1580 1932,1580 2021,1579 2110,1577 2200,1575"/>
+                <TextEquiv>
+                    <Unicode>auch er bekommt dies Jahr nichts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571219249934_507" custom="readingOrder {index:8;}">
+                <Coords points="535,1768 3221,1766 3874,1705 3904,1607 534,1675"/>
+                <Baseline points="558,1723 707,1721 857,1718 1007,1716 1156,1715 1306,1712 1456,1711 1605,1709 1755,1708 1905,1707 2055,1706 2204,1705 2354,1704 2504,1703 2653,1703 2803,1702 2953,1701 3102,1701 3252,1700 3402,1699 3552,1699 3574,1684 3599,1680 3625,1677 3651,1675 3677,1673 3702,1672 3728,1672 3754,1672 3780,1672 3805,1671 3831,1670 3857,1669 3883,1667"/>
+                <TextEquiv>
+                    <Unicode>Nachm. auf d. rechte Steilufer des Mavudyi unmittelbar nach seinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:9;}">
+                <Coords points="412,1899 3151,1968 3809,1933 3849,1750 412,1770"/>
+                <Baseline points="435,1862 604,1865 774,1867 943,1869 1113,1871 1283,1872 1452,1873 1622,1874 1792,1874 1961,1875 2131,1875 2301,1874 2470,1874 2640,1873 2810,1873 2979,1872 3149,1871 3319,1870 3488,1870 3658,1869 3828,1868"/>
+                <TextEquiv>
+                    <Unicode>Austritt aus der Schlucht, von der leider nicht der geringste Anblick zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:10;}">
+                <Coords points="434,2069 3840,2010 3705,1887 433,1913"/>
+                <Baseline points="456,2017 624,2017 792,2017 960,2017 1128,2016 1296,2015 1464,2014 1632,2012 1800,2011 1968,2009 2136,2007 2304,2005 2472,2003 2640,2002 2808,2000 2976,1999 3144,1998 3312,1997 3480,1996 3648,1996 3816,1997"/>
+                <TextEquiv>
+                    <Unicode>gewinnen war, so daß ich selbst über ihre Breite im Unklaren bin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571219254670_512" custom="readingOrder {index:11;}">
+                <Coords points="422,2255 2241,2152 2770,2273 3850,2240 3851,2075 423,2046"/>
+                <Baseline points="444,2173 582,2171 721,2169 860,2168 999,2167 1138,2166 1277,2165 1416,2164 1555,2164 1694,2164 1833,2164 1971,2165 2110,2165 2249,2166 2388,2166 2527,2167 2666,2168 2805,2168 2944,2169 3083,2170 3222,2170 3240,2158 3269,2161 3298,2163 3328,2166 3357,2168 3387,2170 3416,2172 3445,2173 3475,2175 3504,2177 3534,2178 3563,2179 3592,2179 3622,2179 3651,2180 3681,2180 3710,2180 3739,2180 3769,2179 3798,2179 3828,2178"/>
+                <TextEquiv>
+                    <Unicode>Profil leider eintöniger als erwartet, mit deutlicher 70 m.-Terrasse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:12;}">
+                <Coords points="419,2371 3167,2407 3798,2358 3797,2220 2240,2152 418,2260"/>
+                <Baseline points="442,2327 608,2323 775,2320 942,2317 1109,2313 1275,2309 1442,2305 1609,2301 1776,2299 1942,2296 2109,2293 2276,2291 2443,2290 2609,2289 2776,2289 2943,2290 3110,2292 3276,2296 3443,2300 3610,2306 3777,2313"/>
+                <TextEquiv>
+                    <Unicode>Oben flachkuppige Höhe mit Sandboden u. lichtem Wald, gebrannt. Durch schwache</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:13;}">
+                <Coords points="405,2485 3602,2556 3944,2507 3944,2347 405,2392"/>
+                <Baseline points="427,2467 601,2465 776,2464 951,2462 1126,2461 1300,2460 1475,2460 1650,2459 1825,2459 1999,2459 2174,2459 2349,2459 2524,2459 2698,2460 2873,2460 3048,2461 3223,2461 3397,2462 3572,2463 3747,2464 3922,2465"/>
+                <TextEquiv>
+                    <Unicode>Lücke erkennbar, daß jenseitiges Ufer bedeutend höher. Demnach wohl, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:14;}">
+                <Coords points="409,2625 3815,2663 3815,2521 3433,2475 409,2531"/>
+                <Baseline points="432,2593 600,2592 768,2591 936,2590 1104,2590 1272,2590 1440,2591 1609,2591 1777,2592 1945,2593 2113,2594 2281,2595 2449,2596 2617,2597 2786,2598 2954,2599 3122,2599 3290,2600 3458,2599 3626,2599 3795,2598"/>
+                <TextEquiv>
+                    <Unicode>erwartet, hier in einer Eintiefung des Plateaurandes, die gestern auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:15;}">
+                <Coords points="435,2794 4001,2824 3966,2628 435,2660"/>
+                <Baseline points="458,2735 634,2738 810,2741 986,2744 1162,2746 1338,2748 1514,2749 1690,2750 1866,2751 2042,2752 2218,2752 2394,2753 2570,2753 2746,2753 2922,2753 3098,2752 3274,2752 3450,2751 3626,2751 3802,2751 3978,2750"/>
+                <TextEquiv>
+                    <Unicode>d. Marsche an einer Stelle deutlich sichtbar war und nichts andres bedeuten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:16;}">
+                <Coords points="404,2957 520,2903 662,2957 1076,2895 1267,2952 1978,2944 1978,2837 1871,2779 751,2837 404,2783"/>
+                <Baseline points="425,2888 501,2888 578,2888 654,2889 731,2889 807,2889 884,2889 960,2889 1037,2890 1113,2890 1190,2890 1267,2890 1343,2890 1420,2890 1496,2890 1573,2890 1649,2889 1726,2889 1802,2888 1879,2888 1956,2887"/>
+                <TextEquiv>
+                    <Unicode>kann, als einen alten Talboden:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:17;}">
+                <Coords points="2732,3035 2811,2994 2874,3020 2966,2974 3020,3027 3100,2973 3145,2994 3224,2984 3223,2846 3174,2856 3098,2835 2970,2908 2877,2905 2836,2883 2805,2905 2730,2884"/>
+                <Baseline points="2753,2962 2778,2962 2803,2962 2828,2963 2853,2963 2878,2963 2903,2963 2928,2964 2953,2964 2978,2964 3003,2963 3028,2963 3053,2962 3078,2961 3103,2960 3128,2959 3153,2958 3178,2956 3204,2954"/>
+                <TextEquiv>
+                    <Unicode>jetzige Schlucht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:18;}">
+                <Coords points="614,3124 2140,3180 3521,3059 3749,3168 3814,2954 612,2982"/>
+                <Baseline points="637,3097 794,3097 952,3097 1110,3097 1267,3097 1425,3096 1583,3096 1740,3095 1898,3094 2056,3093 2214,3091 2371,3090 2529,3088 2687,3085 2844,3083 3002,3081 3160,3078 3317,3075 3475,3072 3633,3068 3791,3065"/>
+                <TextEquiv>
+                    <Unicode>Konnte durchaus keine vernünftige Auskunft über den Weg nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:19;}">
+                <Coords points="433,3263 3919,3245 3917,3081 993,3186 432,3103"/>
+                <Baseline points="457,3235 628,3234 800,3233 972,3230 1144,3227 1316,3225 1488,3222 1660,3219 1832,3215 2004,3212 2176,3209 2347,3206 2519,3204 2691,3202 2863,3200 3035,3199 3207,3199 3379,3200 3551,3202 3723,3204 3895,3208"/>
+                <TextEquiv>
+                    <Unicode>Machemba wenig oberhalb in d. Bergen erlangen, vor allem über d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:20;}">
+                <Coords points="455,3361 3976,3372 3518,3213 455,3267"/>
+                <Baseline points="476,3339 650,3340 824,3341 998,3341 1172,3341 1346,3341 1520,3340 1694,3339 1868,3338 2042,3337 2216,3336 2390,3335 2564,3334 2738,3333 2912,3333 3086,3333 3260,3334 3434,3335 3608,3337 3782,3339 3956,3343"/>
+                <TextEquiv>
+                    <Unicode>Möglichkeit, durch die Schlucht selbst zu kommen. Endlich schickten 2 vor„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:21;}">
+                <Coords points="437,3485 3906,3524 3905,3355 437,3370"/>
+                <Baseline points="458,3469 629,3469 800,3469 971,3469 1143,3468 1314,3467 1485,3466 1657,3465 1828,3464 1999,3463 2171,3462 2342,3461 2513,3460 2684,3460 2856,3460 3027,3460 3198,3461 3370,3463 3541,3465 3712,3468 3884,3471"/>
+                <TextEquiv>
+                    <Unicode>ausgesandte Praeparatoren Nachricht, daß ihr Weg für Träger gänzlich ummög„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:22;}">
+                <Coords points="444,3658 3966,3659 3712,3508 1591,3589 444,3480"/>
+                <Baseline points="465,3629 638,3630 812,3630 986,3630 1160,3630 1334,3630 1508,3630 1681,3629 1855,3628 2029,3628 2203,3627 2377,3626 2551,3626 2725,3625 2898,3624 3072,3624 3246,3624 3420,3624 3594,3624 3768,3624 3942,3625"/>
+                <TextEquiv>
+                    <Unicode>lich sei. Mir blieb nur der von d. Schlucht am weitesten entfernte, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:23;}">
+                <Coords points="420,3863 3768,3823 3823,3604 3429,3704 418,3711"/>
+                <Baseline points="443,3789 611,3785 779,3781 947,3776 1115,3773 1283,3769 1451,3766 1619,3763 1787,3760 1955,3757 2123,3755 2291,3752 2459,3750 2627,3748 2795,3747 2963,3745 3131,3744 3299,3743 3467,3742 3635,3741 3803,3740"/>
+                <TextEquiv>
+                    <Unicode>freilich über ein wieder mal glänzend gelegtes Lepraheim führte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:24;}">
+                <Coords points="442,4024 815,3922 3861,3975 3859,3815 3708,3781 1232,3869 724,3772 441,3877"/>
+                <Baseline points="462,3926 630,3923 799,3920 968,3918 1137,3916 1306,3914 1475,3913 1643,3912 1812,3911 1981,3910 2150,3909 2319,3908 2488,3906 2657,3905 2825,3903 2994,3901 3163,3898 3332,3895 3501,3891 3670,3887 3839,3882"/>
+                <TextEquiv>
+                    <Unicode>Höhlen gab es vermutlich auf allen Wegen, doch war auch darüber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:25;} unclear {offset:28; length:4;}">
+                <Coords points="463,4111 3785,4060 3784,3971 3424,3928 463,3986"/>
+                <Baseline points="487,4064 650,4058 814,4053 978,4049 1142,4047 1306,4045 1469,4044 1633,4043 1797,4043 1961,4044 2125,4044 2288,4045 2452,4046 2616,4046 2780,4046 2944,4045 3107,4044 3271,4043 3435,4040 3599,4036 3763,4031"/>
+                <TextEquiv>
+                    <Unicode>nichts rechtes zu erfahren. Kurz d. Hinterland von Kilwa Kissiwani</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:26;}">
+                <Coords points="439,4265 2369,4318 3143,4209 3618,4312 3854,4144 439,4149"/>
+                <Baseline points="461,4222 629,4218 798,4215 966,4212 1135,4211 1304,4210 1472,4209 1641,4210 1810,4210 1978,4211 2147,4212 2316,4213 2484,4215 2653,4216 2822,4217 2990,4219 3159,4220 3328,4220 3496,4220 3665,4220 3834,4219"/>
+                <TextEquiv>
+                    <Unicode>eigentlich unzugänglich. Der Akide ein Neffe des einst hier bekriegten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:27;}">
+                <Coords points="474,4416 3982,4399 3849,4243 3146,4215 474,4309"/>
+                <Baseline points="494,4369 667,4366 840,4363 1013,4360 1186,4357 1360,4355 1533,4354 1706,4352 1879,4351 2052,4351 2226,4351 2399,4351 2572,4352 2745,4353 2918,4355 3092,4357 3265,4360 3438,4363 3611,4367 3784,4371 3958,4375"/>
+                <TextEquiv>
+                    <Unicode>u. in Ruawa gefangenen, dann gehangenen Räuber-Myao's. Kein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:28;}">
+                <Coords points="429,4575 745,4530 1043,4615 1563,4521 1821,4614 2301,4534 3021,4605 2977,4400 429,4410"/>
+                <Baseline points="453,4527 580,4523 707,4519 835,4516 962,4514 1090,4511 1217,4510 1344,4509 1472,4508 1599,4508 1727,4508 1854,4508 1981,4509 2109,4510 2236,4511 2364,4513 2491,4514 2618,4516 2746,4518 2873,4520 3001,4522"/>
+                <TextEquiv>
+                    <Unicode>Wunder, daß er mir unzuverlässig vorkam!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6&#xD;
+Im Fluße Nindi wenige, aber wichtige Fossilien. Wieder sehr starke Mäander&#xD;
+beobachtet, nirgends gebrannt. Felder nicht so reichlich wie erwartet, beim Akiden&#xD;
+sogar ziemliches Pori u. kaum ein Plätzchen für's Zelt. Der ganze Bezirk&#xD;
+kommt mir nach Lindi unordentlich vor. Essen nicht zu haben, hätte ich&#xD;
+nicht selber mitgenommen, müßten die Träger hungern. Gestern hatte ich&#xD;
+einen indischen Händler für meine Zwecke engagieren wollen, aber&#xD;
+auch er bekommt dies Jahr nichts.&#xD;
+Nachm. auf d. rechte Steilufer des Mavudyi unmittelbar nach seinem&#xD;
+Austritt aus der Schlucht, von der leider nicht der geringste Anblick zu&#xD;
+gewinnen war, so daß ich selbst über ihre Breite im Unklaren bin.&#xD;
+Profil leider eintöniger als erwartet, mit deutlicher 70 m.-Terrasse.&#xD;
+Oben flachkuppige Höhe mit Sandboden u. lichtem Wald, gebrannt. Durch schwache&#xD;
+Lücke erkennbar, daß jenseitiges Ufer bedeutend höher. Demnach wohl, wie&#xD;
+erwartet, hier in einer Eintiefung des Plateaurandes, die gestern auf&#xD;
+d. Marsche an einer Stelle deutlich sichtbar war und nichts andres bedeuten&#xD;
+kann, als einen alten Talboden:&#xD;
+jetzige Schlucht.&#xD;
+Konnte durchaus keine vernünftige Auskunft über den Weg nach&#xD;
+Machemba wenig oberhalb in d. Bergen erlangen, vor allem über d.&#xD;
+Möglichkeit, durch die Schlucht selbst zu kommen. Endlich schickten 2 vor„&#xD;
+ausgesandte Praeparatoren Nachricht, daß ihr Weg für Träger gänzlich ummög„&#xD;
+lich sei. Mir blieb nur der von d. Schlucht am weitesten entfernte, der&#xD;
+freilich über ein wieder mal glänzend gelegtes Lepraheim führte.&#xD;
+Höhlen gab es vermutlich auf allen Wegen, doch war auch darüber&#xD;
+nichts rechtes zu erfahren. Kurz d. Hinterland von Kilwa Kissiwani&#xD;
+eigentlich unzugänglich. Der Akide ein Neffe des einst hier bekriegten&#xD;
+u. in Ruawa gefangenen, dann gehangenen Räuber-Myao's. Kein&#xD;
+Wunder, daß er mir unzuverlässig vorkam!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

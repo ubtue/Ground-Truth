@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:15.116+02:00</Created>
+        <LastChange>2020-04-02T08:59:35.927+02:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581499" pageNr="51" tsid="26873346" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=RUZGRSEDQPHHDYCGHFMHICYQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WSTMCRDXNFQHKHDBFBMTIQXW" imageId="4579388"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_51.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255753847" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="302,255 302,4567 4032,4567 4032,255"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3660,358 3702,359 3711,369 3777,352 3795,367 3824,349 3847,350 3852,215 3814,214 3800,223 3777,212 3768,217 3745,197 3721,206 3666,199"/>
+                <Baseline points="3685,316 3713,322 3741,324 3769,324 3797,323 3825,324"/>
+                <TextEquiv>
+                    <Unicode>49</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;} textStyle {offset:0; length:19;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="279,716 3590,806 4056,772 4058,623 280,548"/>
+                <Baseline points="302,695 488,695 675,696 861,696 1048,698 1234,699 1421,701 1607,703 1794,705 1980,707 2167,709 2353,711 2540,712 2726,714 2913,715 3099,717 3286,717 3472,718 3659,717 3845,717 4032,715"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 29. Oct. Wollte mit Dampfer u. Bahn zum Lago Maggiore, wohin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="360,928 3970,873 3904,724 3139,823 360,727"/>
+                <Baseline points="384,880 562,873 740,867 918,863 1096,861 1274,859 1452,858 1631,859 1809,859 1987,861 2165,862 2343,864 2521,865 2699,867 2878,867 3056,868 3234,867 3412,866 3590,863 3768,859 3947,854"/>
+                <TextEquiv>
+                    <Unicode>am Sonntag billige Preise. Aber es war schon wieder aus mit dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="371,1024 1998,1095 3002,999 3383,1104 3729,1041 3730,924 372,912"/>
+                <Baseline points="395,997 560,993 726,991 891,989 1057,988 1222,988 1388,988 1553,989 1719,991 1884,992 2050,994 2215,997 2381,999 2546,1001 2712,1003 2877,1004 3043,1006 3208,1006 3374,1007 3539,1007 3705,1005"/>
+                <TextEquiv>
+                    <Unicode>schönen Wetter. Die Zeit ist um, es hilft nichts. Eine drohende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815637977_875" custom="readingOrder {index:4;}">
+                <Coords points="365,1154 3686,1205 3961,1169 3962,1053 366,1024"/>
+                <Baseline points="388,1101 420,1103 453,1104 485,1105 518,1106 550,1108 583,1109 615,1109 648,1110 680,1111 713,1112 745,1112 778,1113 810,1113 843,1113 875,1114 908,1114 940,1114 973,1114 1005,1114 1038,1114 1235,1122 1370,1121 1505,1120 1640,1120 1775,1120 1910,1120 2045,1121 2180,1122 2315,1123 2450,1124 2585,1125 2720,1127 2855,1128 2990,1129 3125,1130 3260,1131 3395,1131 3530,1131 3665,1131 3800,1130 3936,1129"/>
+                <TextEquiv>
+                    <Unicode>Wolkenbank zog herauf, nur nicht noch einen Regentag im Zim„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:5;}">
+                <Coords points="420,1306 3329,1402 3950,1329 3952,1203 421,1189"/>
+                <Baseline points="442,1260 616,1267 790,1274 964,1280 1139,1284 1313,1288 1487,1292 1662,1294 1836,1296 2010,1298 2185,1299 2359,1300 2533,1301 2707,1301 2882,1302 3056,1302 3230,1303 3405,1303 3579,1304 3753,1305 3928,1307"/>
+                <TextEquiv>
+                    <Unicode>mer. Aus Flüelen war gutes Wetter gemeldet, also schnell ent„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582815645222_881" custom="readingOrder {index:6;}">
+                <Coords points="394,1507 839,1411 1583,1524 2023,1423 2950,1538 3935,1472 3778,1349 3219,1322 396,1363"/>
+                <Baseline points="421,1423 449,1416 478,1399 649,1398 821,1398 992,1398 1164,1399 1336,1401 1507,1404 1679,1406 1851,1409 2022,1413 2194,1416 2366,1420 2537,1423 2709,1426 2881,1429 3052,1432 3224,1434 3396,1435 3567,1436 3739,1437 3911,1436"/>
+                <TextEquiv>
+                    <Unicode>schlossen über die Wasserscheide. Fahrt mit der Gotthardbahn, zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:7;}">
+                <Coords points="429,1671 3815,1653 3954,1640 3955,1486 1534,1539 1050,1421 429,1512"/>
+                <Baseline points="451,1576 625,1579 799,1580 973,1582 1147,1584 1321,1585 1495,1586 1669,1587 1843,1588 2017,1589 2191,1589 2365,1589 2539,1590 2713,1590 2887,1590 3061,1590 3235,1589 3409,1589 3583,1589 3757,1589 3932,1589"/>
+                <TextEquiv>
+                    <Unicode>ersten Mal durch den Tunnel: von dem Wunderwerk merkt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:8;}">
+                <Coords points="427,1753 3953,1761 3953,1626 427,1674"/>
+                <Baseline points="451,1726 625,1725 799,1725 973,1725 1147,1726 1321,1726 1495,1727 1669,1728 1843,1728 2017,1729 2191,1729 2365,1730 2539,1729 2713,1729 2887,1728 3061,1727 3235,1725 3409,1723 3583,1720 3757,1717 3931,1712"/>
+                <TextEquiv>
+                    <Unicode>man garnichts. Von Airolo ab wieder in bekanntem von Gösche-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:9;}">
+                <Coords points="418,1903 3911,1906 3832,1771 3296,1710 2293,1826 418,1749"/>
+                <Baseline points="441,1865 613,1865 785,1865 958,1865 1130,1866 1302,1867 1475,1867 1647,1868 1819,1869 1992,1870 2164,1870 2336,1871 2509,1871 2681,1871 2853,1871 3026,1871 3198,1870 3370,1869 3543,1867 3715,1865 3888,1862"/>
+                <TextEquiv>
+                    <Unicode>nen in verwandtem Gebiet. Heimat! Sehr schöne Blicke von der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:10;}">
+                <Coords points="444,2076 565,2090 761,1983 1372,2045 1517,1985 1708,2092 1890,2004 2100,2023 2100,1865 1895,1911 1522,1854 1330,1924 915,1890 780,1941 444,1908"/>
+                <Baseline points="466,1993 546,1994 627,1994 707,1994 788,1994 868,1993 949,1993 1029,1992 1110,1991 1190,1990 1271,1989 1351,1989 1432,1989 1512,1989 1593,1989 1673,1990 1754,1992 1834,1994 1915,1997 1995,2001 2076,2006"/>
+                <TextEquiv>
+                    <Unicode>Fahrt. Oben überall Neuschnee.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:11;}">
+                <Coords points="574,2153 3270,2171 3913,2122 3912,2019 572,2041"/>
+                <Baseline points="598,2128 762,2126 926,2124 1091,2122 1255,2120 1420,2119 1584,2118 1749,2117 1913,2116 2078,2115 2242,2113 2406,2112 2571,2111 2735,2109 2900,2107 3064,2105 3229,2102 3393,2099 3558,2095 3722,2090 3887,2085"/>
+                <TextEquiv>
+                    <Unicode>In Flüelen nicht mit Dampfer weiter gefahren, um den Tag zu nutzen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:12;}">
+                <Coords points="451,2289 3874,2278 3891,2114 449,2140"/>
+                <Baseline points="473,2248 642,2246 812,2244 982,2241 1152,2239 1322,2237 1491,2235 1661,2233 1831,2231 2001,2229 2171,2227 2340,2225 2510,2224 2680,2222 2850,2220 3020,2218 3189,2216 3359,2214 3529,2212 3699,2209 3869,2207"/>
+                <TextEquiv>
+                    <Unicode>Auf Hotelveranda in der Sonne gefrühstückt. Nachm. zu Fuß zur Tells„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:13;}">
+                <Coords points="427,2420 2466,2445 2628,2341 3072,2442 3766,2382 3765,2293 2211,2215 426,2350"/>
+                <Baseline points="448,2391 612,2385 777,2380 942,2376 1107,2371 1271,2367 1436,2363 1601,2359 1766,2356 1930,2353 2095,2351 2260,2349 2425,2347 2589,2346 2754,2345 2919,2344 3084,2345 3248,2345 3413,2347 3578,2349 3743,2351"/>
+                <TextEquiv>
+                    <Unicode>Kapelle auf der einzigen Axenstraße. Es begann schon wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:14;}">
+                <Coords points="429,2610 623,2513 3432,2557 4032,2492 4031,2389 426,2423"/>
+                <Baseline points="452,2504 629,2506 807,2508 985,2509 1163,2508 1341,2507 1519,2505 1696,2502 1874,2499 2052,2495 2230,2492 2408,2488 2586,2483 2764,2479 2941,2475 3119,2471 3297,2469 3475,2466 3653,2464 3831,2462 4009,2462"/>
+                <TextEquiv>
+                    <Unicode>Regen. Mit Dampfer zurück. Was nun mit dem langen Abend?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:15;}">
+                <Coords points="483,2672 3864,2635 3861,2499 3745,2493 481,2574"/>
+                <Baseline points="506,2639 672,2641 839,2641 1005,2641 1172,2641 1339,2639 1505,2637 1672,2635 1839,2632 2005,2629 2172,2625 2339,2620 2505,2616 2672,2611 2839,2606 3005,2600 3172,2595 3339,2589 3505,2583 3672,2577 3839,2571"/>
+                <TextEquiv>
+                    <Unicode>Meine Wirtsleute fuhren nach Altdorf zum Theater, ich natürlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:16;}">
+                <Coords points="456,2816 3422,2853 3949,2828 3949,2679 456,2694"/>
+                <Baseline points="481,2752 653,2758 825,2762 997,2765 1170,2767 1342,2768 1514,2768 1686,2767 1859,2766 2031,2765 2203,2763 2375,2761 2548,2759 2720,2758 2892,2756 3064,2755 3237,2754 3409,2754 3581,2755 3753,2757 3926,2759"/>
+                <TextEquiv>
+                    <Unicode>mit (elektr. Bahn) Ein kleines Lustspiel von Altdörfler'n gespielt und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:17;}">
+                <Coords points="464,2945 3160,2904 3453,3003 3789,2925 3790,2814 2069,2867 1150,2761 464,2851"/>
+                <Baseline points="487,2899 651,2896 815,2895 979,2894 1143,2894 1307,2895 1471,2897 1635,2899 1799,2901 1963,2903 2127,2905 2291,2907 2455,2909 2619,2910 2783,2911 2947,2911 3111,2909 3275,2907 3439,2904 3603,2899 3767,2893"/>
+                <TextEquiv>
+                    <Unicode>etwas Musik. Nicht bedeutend, aber doch eine Unterhaltung, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:18;}">
+                <Coords points="490,3101 1409,3015 2897,3045 2850,2933 2332,2967 2094,2897 1987,2981 1395,2899 490,2970"/>
+                <Baseline points="513,3026 637,3026 761,3027 885,3027 1009,3027 1133,3027 1257,3027 1382,3027 1506,3026 1630,3026 1754,3026 1878,3026 2002,3025 2127,3025 2251,3025 2375,3024 2499,3024 2623,3024 2747,3023 2872,3023"/>
+                <TextEquiv>
+                    <Unicode>man gelten lassen kann. Starker Regen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:19;}">
+                <Coords points="788,3170 1171,3256 2210,3155 3582,3239 3805,3153 3805,3022 1366,3124 1062,3024 788,3133"/>
+                <Baseline points="812,3169 960,3167 1108,3165 1257,3163 1405,3162 1554,3160 1702,3159 1851,3158 1999,3156 2148,3155 2296,3154 2444,3153 2593,3152 2741,3151 2890,3151 3038,3150 3187,3149 3335,3148 3484,3148 3632,3147 3781,3146"/>
+                <TextEquiv>
+                    <Unicode>30. Oct. Ganz früh noch im Dunkeln (6 Uhr) mit Dampfer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:20;}">
+                <Coords points="507,3339 3838,3368 3836,3196 3687,3174 506,3237"/>
+                <Baseline points="532,3319 696,3316 860,3314 1024,3312 1188,3309 1352,3307 1516,3305 1681,3303 1845,3301 2009,3299 2173,3298 2337,3296 2501,3295 2665,3293 2830,3292 2994,3291 3158,3290 3322,3290 3486,3289 3650,3289 3815,3289"/>
+                <TextEquiv>
+                    <Unicode>über den ganzen See, an Luzern 9 Uhr. Vor Brunnen schon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:21;}">
+                <Coords points="548,3465 3035,3485 3644,3409 3642,3297 1249,3294 547,3404"/>
+                <Baseline points="572,3447 724,3442 876,3438 1029,3434 1181,3431 1333,3428 1486,3425 1638,3423 1790,3420 1943,3418 2095,3416 2247,3414 2400,3412 2552,3410 2704,3407 2857,3404 3009,3401 3161,3397 3314,3393 3466,3388 3619,3383"/>
+                <TextEquiv>
+                    <Unicode>wurde es hell. Aber in nicht großer Höhe lagerte eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:22;}">
+                <Coords points="548,3614 3906,3589 3951,3490 2610,3418 2314,3513 2041,3416 546,3525"/>
+                <Baseline points="571,3588 738,3587 906,3584 1074,3581 1242,3578 1410,3574 1578,3570 1746,3566 1914,3562 2082,3557 2250,3553 2417,3549 2585,3545 2753,3541 2921,3538 3089,3536 3257,3533 3425,3532 3593,3531 3761,3532 3929,3533"/>
+                <TextEquiv>
+                    <Unicode>dichte Wolkenschicht und schnitt alle Spitzen ab. Dennoch ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:23;}">
+                <Coords points="511,3765 2112,3783 2869,3646 3333,3751 3936,3595 507,3607"/>
+                <Baseline points="531,3712 700,3714 869,3716 1038,3715 1207,3713 1376,3711 1545,3707 1714,3701 1883,3696 2052,3690 2222,3683 2391,3677 2560,3671 2729,3665 2898,3659 3067,3654 3236,3650 3405,3647 3574,3645 3743,3645 3913,3646"/>
+                <TextEquiv>
+                    <Unicode>liebes Wiedersehen. Allerdings recht kalt, mußte häufig in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:24;} gap {offset:49; length:0;}">
+                <Coords points="524,3856 3975,3802 3972,3681 3659,3651 522,3776"/>
+                <Baseline points="548,3838 718,3836 888,3834 1058,3831 1228,3828 1398,3825 1568,3821 1739,3817 1909,3812 2079,3808 2249,3804 2419,3800 2589,3795 2759,3791 2930,3787 3100,3783 3270,3780 3440,3777 3610,3774 3780,3772 3951,3770"/>
+                <TextEquiv>
+                    <Unicode>die Kajüte gehen. In Luzern Anschluß, Fahrt nach  Zürich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:25;}">
+                <Coords points="510,3969 3952,3981 3582,3812 509,3853"/>
+                <Baseline points="532,3961 701,3959 871,3957 1041,3955 1211,3952 1381,3950 1551,3948 1720,3945 1890,3943 2060,3941 2230,3939 2400,3937 2570,3936 2740,3935 2909,3933 3079,3933 3249,3933 3419,3933 3589,3934 3759,3935 3929,3936"/>
+                <TextEquiv>
+                    <Unicode>Wollte das mir früher gerühmte naturhistor. Museum besuchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:26;}">
+                <Coords points="482,4144 3751,4071 3749,3936 480,3991"/>
+                <Baseline points="505,4084 666,4088 827,4089 988,4090 1149,4090 1310,4088 1471,4086 1632,4083 1793,4079 1954,4076 2116,4072 2277,4068 2438,4064 2599,4061 2760,4058 2921,4056 3082,4055 3243,4054 3404,4055 3565,4057 3727,4061"/>
+                <TextEquiv>
+                    <Unicode>Als ich es endlich fand, war es wegen Umbau geschlossen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:27;}">
+                <Coords points="568,4319 3930,4273 3865,4128 2904,4071 2396,4182 568,4114"/>
+                <Baseline points="591,4222 755,4224 919,4226 1084,4228 1248,4229 1413,4229 1577,4230 1741,4230 1906,4230 2070,4230 2235,4229 2399,4229 2563,4229 2728,4229 2892,4229 3057,4229 3221,4229 3385,4229 3550,4230 3714,4231 3879,4233 3905,4242"/>
+                <TextEquiv>
+                    <Unicode>Mittagessen, Stadt besichtigt. Sehr hübscher Bau des Landesmu„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:28;}">
+                <Coords points="448,4459 2631,4352 3908,4467 3969,4257 448,4315"/>
+                <Baseline points="471,4370 644,4367 818,4364 992,4362 1165,4360 1339,4359 1513,4358 1686,4357 1860,4357 2034,4357 2208,4357 2381,4358 2555,4359 2729,4360 2902,4362 3076,4363 3250,4365 3423,4368 3597,4370 3771,4372 3945,4375"/>
+                <TextEquiv>
+                    <Unicode>seums. In d. Parkanlagen dabei mir Herr, der die ihm zutraulich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:29;}">
+                <Coords points="465,4612 3207,4527 3674,4615 3907,4582 3907,4382 3636,4475 2647,4351 465,4458"/>
+                <Baseline points="489,4537 658,4534 828,4532 997,4530 1167,4528 1337,4527 1506,4526 1676,4525 1846,4525 2015,4525 2185,4525 2355,4525 2524,4525 2694,4526 2864,4526 3033,4526 3203,4526 3373,4527 3542,4527 3712,4526 3882,4526"/>
+                <TextEquiv>
+                    <Unicode>zufliegenden Vögel fütterte. Im Kafé Zeitungen gelesen, Geld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>49&#xD;
+Sonntag d. 29. Oct. Wollte mit Dampfer u. Bahn zum Lago Maggiore, wohin&#xD;
+am Sonntag billige Preise. Aber es war schon wieder aus mit dem&#xD;
+schönen Wetter. Die Zeit ist um, es hilft nichts. Eine drohende&#xD;
+Wolkenbank zog herauf, nur nicht noch einen Regentag im Zim„&#xD;
+mer. Aus Flüelen war gutes Wetter gemeldet, also schnell ent„&#xD;
+schlossen über die Wasserscheide. Fahrt mit der Gotthardbahn, zum&#xD;
+ersten Mal durch den Tunnel: von dem Wunderwerk merkt&#xD;
+man garnichts. Von Airolo ab wieder in bekanntem von Gösche-&#xD;
+nen in verwandtem Gebiet. Heimat! Sehr schöne Blicke von der&#xD;
+Fahrt. Oben überall Neuschnee.&#xD;
+In Flüelen nicht mit Dampfer weiter gefahren, um den Tag zu nutzen.&#xD;
+Auf Hotelveranda in der Sonne gefrühstückt. Nachm. zu Fuß zur Tells„&#xD;
+Kapelle auf der einzigen Axenstraße. Es begann schon wieder&#xD;
+Regen. Mit Dampfer zurück. Was nun mit dem langen Abend?&#xD;
+Meine Wirtsleute fuhren nach Altdorf zum Theater, ich natürlich&#xD;
+mit (elektr. Bahn) Ein kleines Lustspiel von Altdörfler'n gespielt und&#xD;
+etwas Musik. Nicht bedeutend, aber doch eine Unterhaltung, die&#xD;
+man gelten lassen kann. Starker Regen.&#xD;
+30. Oct. Ganz früh noch im Dunkeln (6 Uhr) mit Dampfer&#xD;
+über den ganzen See, an Luzern 9 Uhr. Vor Brunnen schon&#xD;
+wurde es hell. Aber in nicht großer Höhe lagerte eine&#xD;
+dichte Wolkenschicht und schnitt alle Spitzen ab. Dennoch ein&#xD;
+liebes Wiedersehen. Allerdings recht kalt, mußte häufig in&#xD;
+die Kajüte gehen. In Luzern Anschluß, Fahrt nach  Zürich.&#xD;
+Wollte das mir früher gerühmte naturhistor. Museum besuchen.&#xD;
+Als ich es endlich fand, war es wegen Umbau geschlossen.&#xD;
+Mittagessen, Stadt besichtigt. Sehr hübscher Bau des Landesmu„&#xD;
+seums. In d. Parkanlagen dabei mir Herr, der die ihm zutraulich&#xD;
+zufliegenden Vögel fütterte. Im Kafé Zeitungen gelesen, Geld</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

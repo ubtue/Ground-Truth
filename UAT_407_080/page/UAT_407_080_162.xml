@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:48:01.020+02:00</Created>
+        <LastChange>2020-03-31T07:54:53.686+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550864" pageNr="162" tsid="26735310" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=IZCCLUFEZNEWZLZQOSYIEDGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XKVBAGNCTZEPXDIBUUKBSYDE" imageId="4551742"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_162.jpg" imageWidth="4325" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255579097" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1583142254252_466"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1583142254252_466" custom="readingOrder {index:0;}">
+            <Coords points="318,251 511,251 3975,294 3975,4754 541,4754 318,426"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="303,409 324,406 347,386 374,396 402,379 425,385 448,365 491,368 503,357 533,354 518,239 471,245 457,238 441,249 432,242 385,278 288,295"/>
+                <Baseline points="318,376 345,372 373,368 400,365 428,361 455,358 483,354 511,351"/>
+                <TextEquiv>
+                    <Unicode>158</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="524,554 833,444 3983,427 3978,235 518,332"/>
+                <Baseline points="541,447 711,444 882,439 1053,435 1224,429 1395,423 1566,417 1737,411 1908,405 2079,398 2250,393 2420,387 2591,382 2762,377 2933,373 3104,370 3275,368 3446,366 3617,367 3788,368 3959,371"/>
+                <TextEquiv>
+                    <Unicode>schamben. Letzte Strecke zu Fuß, in die Höhlen, die von Fledermäusen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="539,658 1699,578 1985,685 2152,572 2352,669 2728,545 3942,511 3852,372 536,564"/>
+                <Baseline points="557,612 725,605 893,598 1061,594 1229,589 1397,584 1565,580 1733,577 1901,573 2069,569 2238,565 2406,561 2574,556 2742,551 2910,545 3078,538 3246,531 3414,521 3582,511 3750,500 3919,487"/>
+                <TextEquiv>
+                    <Unicode>wimmelten, aber innerlich weniger boten als an dem wild</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="542,806 3572,754 3997,688 3992,547 842,714 715,633 539,733"/>
+                <Baseline points="563,783 733,773 904,764 1074,756 1245,748 1416,740 1586,734 1757,727 1927,722 2098,716 2269,711 2439,705 2610,699 2780,695 2951,689 3122,684 3292,678 3463,672 3633,667 3804,660 3975,653"/>
+                <TextEquiv>
+                    <Unicode>überwucherten Eingang in engem Felstale. Prachtvolle Vegetation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="551,1064 3829,865 3824,720 1956,870 543,808"/>
+                <Baseline points="569,956 730,949 892,942 1054,936 1216,930 1378,924 1540,919 1701,914 1863,909 2025,904 2187,900 2349,895 2511,890 2673,885 2834,880 2996,875 3158,870 3320,865 3482,859 3644,853 3806,846"/>
+                <TextEquiv>
+                    <Unicode>Auf nahe gelegenem Pflanzerhause mit afrikanischer Gastfreiheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="566,1169 3907,1063 3902,922 3747,889 563,1075"/>
+                <Baseline points="587,1117 751,1113 916,1108 1081,1104 1246,1098 1411,1093 1576,1087 1741,1081 1906,1076 2071,1070 2236,1064 2400,1058 2565,1052 2730,1046 2895,1041 3060,1034 3225,1029 3390,1023 3555,1018 3720,1012 3885,1008"/>
+                <TextEquiv>
+                    <Unicode>aufgenommen, dann zurück. Abends Bötzow im Klubhause ge„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="544,1322 3948,1198 3901,1059 3446,1145 3213,1049 540,1190"/>
+                <Baseline points="565,1273 733,1269 901,1265 1069,1260 1237,1255 1405,1250 1573,1245 1741,1240 1909,1234 2077,1228 2245,1223 2413,1216 2581,1211 2749,1206 2917,1201 3085,1196 3253,1192 3421,1188 3589,1185 3757,1182 3925,1180"/>
+                <TextEquiv>
+                    <Unicode>troffen u. Bez.-Amtmann nebst Frau, sowie Herrn St. Paul-Illaire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="539,1491 1629,1502 1969,1381 2860,1494 3362,1361 3726,1436 3827,1319 2133,1224 1917,1339 1531,1252 1280,1363 536,1316"/>
+                <Baseline points="561,1432 723,1424 885,1417 1048,1411 1210,1405 1372,1400 1535,1395 1697,1391 1859,1387 2022,1384 2184,1381 2346,1379 2509,1377 2671,1375 2833,1374 2996,1373 3158,1373 3320,1372 3483,1372 3645,1372 3808,1372"/>
+                <TextEquiv>
+                    <Unicode>kennen gelernt. Ich habe in Tanga 3 jungverheiratete Damen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:8;}">
+                <Coords points="544,1668 876,1593 997,1659 1085,1567 1326,1648 1516,1558 1822,1646 1944,1553 2452,1534 2539,1601 2891,1495 2376,1403 2233,1479 2077,1405 1626,1505 1283,1443 540,1493"/>
+                <Baseline points="563,1572 678,1571 793,1569 909,1566 1024,1564 1140,1561 1255,1558 1370,1555 1486,1552 1601,1548 1717,1545 1832,1542 1947,1539 2063,1536 2178,1534 2294,1532 2409,1531 2524,1531 2640,1531 2755,1531 2871,1533"/>
+                <TextEquiv>
+                    <Unicode>gesehen, sämtlich ungewöhnliche Schönheiten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:9;}">
+                <Coords points="794,1741 1060,1776 1288,1693 1526,1803 2027,1657 2947,1671 2905,1540 2231,1618 2058,1545 1593,1557 1334,1650 790,1604"/>
+                <Baseline points="812,1697 917,1696 1023,1695 1129,1693 1234,1690 1340,1687 1446,1683 1551,1680 1657,1675 1763,1671 1869,1667 1974,1663 2080,1660 2186,1656 2291,1654 2397,1652 2503,1651 2608,1651 2714,1652 2820,1654 2926,1657"/>
+                <TextEquiv>
+                    <Unicode>Im Klub gegessen und — getrunken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:10;}">
+                <Coords points="693,1938 3024,1932 3183,1833 3639,1915 3824,1840 3818,1665 3659,1752 2506,1686 1518,1806 1317,1681 689,1814"/>
+                <Baseline points="712,1913 866,1904 1020,1896 1175,1889 1329,1882 1484,1875 1638,1869 1792,1863 1947,1857 2101,1852 2256,1847 2410,1842 2564,1837 2719,1833 2873,1828 3028,1823 3182,1818 3336,1813 3491,1808 3645,1803 3800,1796"/>
+                <TextEquiv>
+                    <Unicode>28 März: Morgens zur Bahn, Abfahrt nach Mugussi, anfangs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:11;}">
+                <Coords points="543,2102 3773,2016 3822,1903 2190,1964 2008,1870 1857,1964 1431,1877 540,1982"/>
+                <Baseline points="565,2055 726,2051 888,2047 1050,2043 1212,2039 1374,2034 1535,2030 1697,2025 1859,2020 2021,2015 2183,2011 2344,2006 2506,2001 2668,1997 2830,1993 2992,1989 3153,1985 3315,1982 3477,1978 3639,1976 3801,1973"/>
+                <TextEquiv>
+                    <Unicode>durch endlose Pflanzungen, die kaum ein paar Bäume oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:12;}">
+                <Coords points="554,2337 1246,2194 1434,2312 2250,2160 2419,2240 3553,2133 3680,2228 3739,2059 546,2103"/>
+                <Baseline points="571,2239 728,2227 885,2216 1043,2207 1200,2198 1358,2191 1515,2184 1672,2178 1830,2173 1987,2168 2145,2164 2302,2159 2459,2155 2617,2152 2774,2148 2932,2144 3089,2139 3246,2135 3404,2130 3561,2125 3719,2119"/>
+                <TextEquiv>
+                    <Unicode>Raum für die ehemaligen Bewohner des Landes übrig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:13;}">
+                <Coords points="551,2470 693,2372 1076,2439 1595,2332 1836,2433 2449,2301 3445,2302 3721,2410 3942,2340 3938,2203 1147,2219 547,2337"/>
+                <Baseline points="568,2379 735,2371 903,2363 1070,2355 1238,2348 1406,2340 1573,2334 1741,2326 1908,2320 2076,2314 2244,2309 2411,2304 2579,2301 2746,2297 2914,2295 3082,2293 3249,2293 3417,2293 3584,2295 3752,2298 3920,2302"/>
+                <TextEquiv>
+                    <Unicode>gelassen haben. Die Wagen älter und auch weniger angenehm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:14;}">
+                <Coords points="541,2610 757,2522 914,2642 1239,2624 1402,2508 1593,2622 1765,2493 2747,2448 3250,2557 3732,2492 3728,2360 3440,2299 538,2481"/>
+                <Baseline points="559,2543 716,2533 874,2525 1031,2516 1189,2507 1346,2500 1504,2492 1661,2486 1819,2479 1976,2474 2134,2468 2292,2464 2449,2460 2607,2457 2764,2454 2922,2452 3079,2452 3237,2451 3394,2452 3552,2454 3710,2456"/>
+                <TextEquiv>
+                    <Unicode>als auf der Zentralbahn. In Mugussi mit Not u. Mühe Träger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:15;}">
+                <Coords points="536,2815 901,2698 1134,2799 1738,2662 2061,2773 2409,2660 2587,2745 2797,2645 3871,2662 3868,2560 3452,2499 531,2636"/>
+                <Baseline points="555,2691 719,2689 884,2685 1049,2682 1213,2677 1378,2672 1543,2667 1707,2661 1872,2654 2037,2648 2202,2643 2366,2637 2531,2631 2696,2627 2860,2623 3025,2619 3190,2616 3354,2614 3519,2613 3684,2613 3849,2614"/>
+                <TextEquiv>
+                    <Unicode>zusammengescharrt, dann Aufstieg nach Amani, im Bogen an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:16;}">
+                <Coords points="548,2892 3749,2828 3744,2683 3315,2652 546,2819"/>
+                <Baseline points="570,2876 727,2866 885,2855 1042,2846 1200,2838 1358,2830 1515,2822 1673,2816 1831,2810 1988,2804 2146,2799 2304,2793 2461,2788 2619,2783 2777,2779 2934,2775 3092,2770 3250,2765 3407,2761 3565,2756 3723,2751"/>
+                <TextEquiv>
+                    <Unicode>den Rand des Gebirges heran, durch eine kleine Talpforte, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:17;}">
+                <Coords points="569,3066 3917,2922 3912,2798 2294,2887 2090,2792 1770,2925 1177,2849 993,2968 565,2950"/>
+                <Baseline points="590,3025 755,3016 920,3007 1085,2998 1251,2989 1416,2981 1581,2972 1747,2965 1912,2958 2077,2950 2243,2943 2408,2937 2573,2932 2738,2926 2904,2920 3069,2916 3234,2911 3400,2907 3565,2903 3730,2900 3896,2897"/>
+                <TextEquiv>
+                    <Unicode>der eine Sägewerk versteckt liegt, auf die Rücklehne der von d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:18;}">
+                <Coords points="559,3185 999,3258 1447,3124 1959,3095 2070,3198 3896,3086 3888,2898 555,3079"/>
+                <Baseline points="580,3169 744,3160 909,3152 1073,3144 1238,3135 1403,3127 1567,3120 1732,3112 1897,3105 2061,3098 2226,3091 2391,3085 2555,3079 2720,3073 2885,3067 3049,3062 3214,3056 3379,3051 3543,3046 3708,3042 3873,3037"/>
+                <TextEquiv>
+                    <Unicode>Bahn sichtbaren Wand. Sehr steil u. ständig aufwärts, kl. Rast.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:19;}">
+                <Coords points="614,3364 1854,3365 2370,3221 3404,3302 3974,3234 3970,3119 607,3198"/>
+                <Baseline points="634,3316 799,3303 965,3292 1131,3280 1297,3270 1463,3261 1629,3252 1794,3244 1960,3236 2126,3230 2292,3223 2458,3217 2624,3212 2790,3208 2955,3204 3121,3200 3287,3197 3453,3194 3619,3192 3785,3190 3951,3188"/>
+                <TextEquiv>
+                    <Unicode>In bereits beträchtlicher Höhe tritt der vorzügliche Weg wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:20;}">
+                <Coords points="615,3487 3989,3354 3912,3215 611,3363"/>
+                <Baseline points="633,3443 799,3434 966,3425 1132,3418 1299,3410 1466,3404 1632,3397 1799,3391 1965,3386 2132,3381 2299,3376 2465,3372 2632,3367 2798,3362 2965,3358 3132,3354 3298,3349 3465,3345 3631,3340 3798,3336 3965,3331"/>
+                <TextEquiv>
+                    <Unicode>auf die Südostwand u. nun eröffnet sich der weite herrliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:21;}">
+                <Coords points="595,3673 1266,3554 3259,3565 3875,3435 3593,3334 3344,3433 3170,3350 2388,3478 2081,3386 1410,3411 1239,3525 588,3489"/>
+                <Baseline points="613,3591 775,3584 937,3577 1099,3570 1261,3563 1423,3556 1585,3549 1747,3542 1909,3535 2071,3528 2233,3521 2395,3514 2557,3508 2719,3502 2881,3497 3043,3492 3205,3488 3367,3484 3529,3481 3691,3479 3853,3477"/>
+                <TextEquiv>
+                    <Unicode>Berg über d. Pangani-Land bis auf's ferne Meer. Wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:22;}">
+                <Coords points="601,3754 1342,3794 2086,3658 2492,3763 2739,3638 3017,3743 3869,3659 3865,3543 2773,3504 598,3672"/>
+                <Baseline points="620,3739 781,3732 942,3725 1103,3717 1265,3710 1426,3702 1587,3695 1748,3687 1910,3680 2071,3673 2232,3665 2393,3659 2555,3653 2716,3647 2877,3641 3038,3637 3200,3633 3361,3630 3522,3627 3683,3625 3845,3624"/>
+                <TextEquiv>
+                    <Unicode>einmal ein Silberband, das in zahllosen Schlingen das Land</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:23;}">
+                <Coords points="580,3943 3838,3795 3832,3654 573,3764"/>
+                <Baseline points="601,3883 761,3877 922,3871 1083,3865 1244,3859 1405,3853 1565,3847 1726,3841 1887,3835 2048,3828 2209,3822 2369,3816 2530,3811 2691,3805 2852,3799 3013,3793 3173,3788 3334,3783 3495,3777 3656,3773 3817,3767"/>
+                <TextEquiv>
+                    <Unicode>durchzieht, eine wahre Lebensader. In Serpentinen an den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:24;}">
+                <Coords points="583,4085 1897,3983 2767,4068 3042,3962 3893,3971 3896,3889 3342,3818 579,3944"/>
+                <Baseline points="603,4037 766,4028 930,4020 1093,4012 1257,4005 1421,3999 1584,3993 1748,3988 1911,3983 2075,3980 2239,3976 2402,3972 2566,3969 2729,3966 2893,3964 3057,3961 3220,3958 3384,3955 3547,3952 3711,3949 3875,3946"/>
+                <TextEquiv>
+                    <Unicode>Felsen unter herrlicher Vegetation hinauf. Bald in einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:25;}">
+                <Coords points="580,4244 3976,4138 3921,3998 3382,3973 3128,4065 576,4077"/>
+                <Baseline points="601,4186 768,4177 936,4169 1104,4162 1271,4155 1439,4148 1607,4143 1774,4138 1942,4133 2110,4128 2278,4124 2445,4121 2613,4117 2781,4114 2948,4112 3116,4109 3284,4107 3451,4104 3619,4102 3787,4100 3955,4098"/>
+                <TextEquiv>
+                    <Unicode>dicht belaubten Talwinkel in grünlich schimmernder, zauber„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:26;}">
+                <Coords points="596,4431 1460,4289 2433,4376 2874,4249 3811,4255 3808,4140 591,4239"/>
+                <Baseline points="615,4325 773,4319 932,4314 1091,4308 1250,4303 1408,4298 1567,4294 1726,4289 1885,4286 2043,4281 2202,4278 2361,4274 2520,4271 2678,4267 2837,4263 2996,4260 3155,4256 3313,4252 3472,4249 3631,4244 3790,4240"/>
+                <TextEquiv>
+                    <Unicode>hafter Dämmerung. Wieder in's Lichtmeer u. wieder in's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:27;}">
+                <Coords points="565,4506 3898,4427 3896,4316 3582,4246 563,4391"/>
+                <Baseline points="587,4454 751,4450 916,4446 1080,4442 1245,4438 1409,4434 1574,4430 1738,4426 1903,4423 2067,4419 2232,4415 2396,4412 2561,4408 2725,4405 2890,4402 3054,4399 3219,4396 3383,4393 3548,4390 3712,4388 3877,4386"/>
+                <TextEquiv>
+                    <Unicode>heimliche Waldesdunkel. Plätschernde Gebirgswässer, welche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:28;}">
+                <Coords points="579,4597 2303,4660 2514,4554 3690,4563 3751,4403 2894,4509 2661,4402 2193,4513 760,4453 578,4546"/>
+                <Baseline points="602,4593 758,4586 914,4581 1071,4576 1227,4572 1384,4568 1540,4565 1697,4562 1853,4560 2010,4558 2166,4555 2322,4554 2479,4551 2635,4549 2792,4547 2948,4545 3105,4541 3261,4539 3418,4535 3574,4531 3731,4525"/>
+                <TextEquiv>
+                    <Unicode>Labsal! Durch eine Pflanzung hindurch u. abermals in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:29;}">
+                <Coords points="621,4741 1631,4813 2283,4702 2447,4803 3723,4662 3951,4749 3948,4582 3768,4538 2317,4655 619,4612"/>
+                <Baseline points="644,4719 808,4717 972,4714 1136,4711 1301,4708 1465,4706 1629,4703 1794,4701 1958,4698 2122,4696 2287,4694 2451,4692 2615,4690 2779,4688 2944,4686 3108,4684 3272,4683 3437,4681 3601,4680 3765,4679 3930,4678"/>
+                <TextEquiv>
+                    <Unicode>einen immer hoheitsvoller aufstrebenden Urwald. Jetzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>158&#xD;
+schamben. Letzte Strecke zu Fuß, in die Höhlen, die von Fledermäusen&#xD;
+wimmelten, aber innerlich weniger boten als an dem wild&#xD;
+überwucherten Eingang in engem Felstale. Prachtvolle Vegetation.&#xD;
+Auf nahe gelegenem Pflanzerhause mit afrikanischer Gastfreiheit&#xD;
+aufgenommen, dann zurück. Abends Bötzow im Klubhause ge„&#xD;
+troffen u. Bez.-Amtmann nebst Frau, sowie Herrn St. Paul-Illaire&#xD;
+kennen gelernt. Ich habe in Tanga 3 jungverheiratete Damen&#xD;
+gesehen, sämtlich ungewöhnliche Schönheiten.&#xD;
+Im Klub gegessen und — getrunken.&#xD;
+28 März: Morgens zur Bahn, Abfahrt nach Mugussi, anfangs&#xD;
+durch endlose Pflanzungen, die kaum ein paar Bäume oder&#xD;
+Raum für die ehemaligen Bewohner des Landes übrig&#xD;
+gelassen haben. Die Wagen älter und auch weniger angenehm&#xD;
+als auf der Zentralbahn. In Mugussi mit Not u. Mühe Träger&#xD;
+zusammengescharrt, dann Aufstieg nach Amani, im Bogen an&#xD;
+den Rand des Gebirges heran, durch eine kleine Talpforte, in&#xD;
+der eine Sägewerk versteckt liegt, auf die Rücklehne der von d.&#xD;
+Bahn sichtbaren Wand. Sehr steil u. ständig aufwärts, kl. Rast.&#xD;
+In bereits beträchtlicher Höhe tritt der vorzügliche Weg wieder&#xD;
+auf die Südostwand u. nun eröffnet sich der weite herrliche&#xD;
+Berg über d. Pangani-Land bis auf's ferne Meer. Wieder&#xD;
+einmal ein Silberband, das in zahllosen Schlingen das Land&#xD;
+durchzieht, eine wahre Lebensader. In Serpentinen an den&#xD;
+Felsen unter herrlicher Vegetation hinauf. Bald in einen&#xD;
+dicht belaubten Talwinkel in grünlich schimmernder, zauber„&#xD;
+hafter Dämmerung. Wieder in's Lichtmeer u. wieder in's&#xD;
+heimliche Waldesdunkel. Plätschernde Gebirgswässer, welche&#xD;
+Labsal! Durch eine Pflanzung hindurch u. abermals in&#xD;
+einen immer hoheitsvoller aufstrebenden Urwald. Jetzt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

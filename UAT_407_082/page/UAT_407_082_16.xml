@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T10:21:12.892+02:00</Created>
+        <LastChange>2020-03-04T07:26:02.525+01:00</LastChange>
+        <TranskribusMetadata docId="191635" pageId="7581460" pageNr="16" tsid="24752452" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=DIKKXNZBWHVAMKUJMTYOJDPE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZPOHSRBXUDOLALGAHPRZYBWG" imageId="4579353"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_082_16.jpg" imageWidth="4260" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255743881" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="344,236 344,4605 4077,4605 4077,236"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="399,351 422,349 430,339 473,354 519,351 537,335 561,348 593,340 586,243 548,242 514,221 501,231 473,233 453,216 414,252 391,254"/>
+                <Baseline points="417,317 446,316 476,312 505,309 535,307 565,309"/>
+                <TextEquiv>
+                    <Unicode>14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="371,727 2033,607 2498,694 2886,568 3832,652 3829,458 3578,391 2584,516 368,449"/>
+                <Baseline points="394,591 564,599 735,604 905,607 1076,608 1247,607 1417,604 1588,600 1758,595 1929,590 2100,585 2270,580 2441,575 2611,570 2782,567 2953,565 3123,565 3294,566 3464,570 3635,576 3806,585"/>
+                <TextEquiv>
+                    <Unicode>Besiedelung freilich nicht so stark, wie ich erwartet hatte. Ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="414,884 872,772 1716,873 2077,766 2657,861 3800,735 3525,590 3243,691 1548,726 1301,618 412,708"/>
+                <Baseline points="436,762 603,765 770,767 937,769 1104,770 1271,770 1438,769 1605,768 1772,766 1939,764 2106,762 2273,759 2440,756 2607,752 2774,749 2941,745 3108,741 3275,738 3442,734 3609,730 3776,727"/>
+                <TextEquiv>
+                    <Unicode>pflegung machte Schwierigkeiten, außer anfangs, wo die Leutchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="398,965 3568,981 3813,918 3812,775 397,854"/>
+                <Baseline points="423,906 591,909 759,911 928,912 1096,913 1265,912 1433,912 1601,910 1770,909 1938,907 2107,904 2275,902 2443,899 2612,897 2780,894 2949,892 3117,890 3285,888 3454,886 3622,885 3791,884"/>
+                <TextEquiv>
+                    <Unicode>meine Aufforderung zur Marktversorgung als strengen, Befehl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="387,1085 3891,1084 3889,926 3773,913 386,969"/>
+                <Baseline points="412,1056 584,1055 757,1054 930,1053 1103,1051 1276,1049 1449,1046 1621,1043 1794,1040 1967,1037 2140,1035 2313,1032 2486,1030 2659,1028 2831,1026 3004,1025 3177,1024 3350,1024 3523,1025 3696,1026 3869,1029"/>
+                <TextEquiv>
+                    <Unicode>aufgefaßt hatten u. jeder ein Scherflein brachte - als Tribut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="349,1250 1495,1315 3003,1170 3515,1273 4019,1223 4017,1075 347,1130"/>
+                <Baseline points="373,1215 554,1215 735,1214 916,1212 1097,1209 1278,1206 1459,1202 1640,1198 1821,1194 2002,1189 2183,1184 2364,1180 2545,1177 2726,1174 2907,1170 3088,1168 3269,1167 3450,1167 3631,1169 3812,1171 3993,1175"/>
+                <TextEquiv>
+                    <Unicode>Als ich sie darüber aufklärte, ich sei kein Räuber, wurden sie merk„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="351,1404 1599,1458 2320,1338 2423,1434 2691,1333 3489,1434 4029,1270 3004,1172 2681,1273 349,1251"/>
+                <Baseline points="375,1354 556,1355 738,1354 919,1353 1101,1351 1282,1349 1464,1346 1645,1343 1827,1340 2008,1337 2190,1334 2371,1331 2553,1328 2734,1325 2916,1323 3097,1321 3279,1319 3460,1318 3642,1318 3823,1319 4005,1320"/>
+                <TextEquiv>
+                    <Unicode>lich kühler, ich hörte auch Unterhaltung darüber, daß „sogar“ der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="363,1607 4000,1547 3710,1343 3290,1465 2088,1349 1399,1499 360,1413"/>
+                <Baseline points="387,1548 566,1546 746,1545 925,1543 1105,1541 1284,1539 1464,1537 1643,1534 1823,1531 2002,1528 2182,1525 2361,1522 2541,1519 2720,1516 2900,1513 3079,1510 3259,1507 3438,1504 3618,1501 3797,1498 3977,1496"/>
+                <TextEquiv>
+                    <Unicode>Bezirksamtmann bezahlt habe. Wir haben noch viel Mission</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="376,1799 3939,1686 3867,1524 374,1609"/>
+                <Baseline points="397,1692 572,1692 748,1691 924,1689 1100,1687 1276,1685 1452,1683 1628,1680 1804,1677 1980,1674 2156,1671 2331,1668 2507,1666 2683,1664 2859,1662 3035,1661 3211,1660 3387,1660 3563,1661 3739,1663 3915,1665"/>
+                <TextEquiv>
+                    <Unicode>zu treiben, freilich wohl zuerst unter uns, da solche Zustände</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="348,1917 1409,1975 2461,1879 2670,1972 3045,1855 3374,1937 3373,1770 3230,1752 348,1792"/>
+                <Baseline points="371,1872 519,1871 668,1870 817,1869 966,1868 1115,1867 1264,1867 1413,1866 1562,1866 1711,1866 1860,1866 2008,1866 2157,1866 2306,1866 2455,1865 2604,1865 2753,1865 2902,1864 3051,1863 3200,1862 3349,1861"/>
+                <TextEquiv>
+                    <Unicode>sicherlich ausgenutzt werden. Akidah nicht zu Haus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="688,2100 3074,2032 3700,2140 3996,2064 3996,1957 687,1961"/>
+                <Baseline points="710,2045 873,2049 1036,2051 1199,2053 1362,2052 1526,2051 1689,2050 1852,2047 2015,2045 2178,2041 2342,2038 2505,2036 2668,2034 2831,2032 2994,2031 3158,2031 3321,2032 3484,2035 3647,2039 3810,2045 3974,2054"/>
+                <TextEquiv>
+                    <Unicode>18. Aug. Früh auf Barrabarra weiter 1½ Std. bis Jumbe Hamide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="468,2207 2256,2192 2452,2297 3925,2214 3831,2089 3354,2023 467,2129"/>
+                <Baseline points="492,2183 662,2188 832,2192 1003,2194 1173,2195 1344,2195 1514,2194 1684,2192 1855,2190 2025,2188 2196,2185 2366,2182 2536,2180 2707,2178 2877,2176 3048,2174 3218,2174 3388,2175 3559,2176 3729,2179 3900,2184"/>
+                <TextEquiv>
+                    <Unicode>am Unterende des Maliwe-Sees. Jagdstreife um den ganzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="393,2407 3994,2384 3892,2236 3406,2196 2766,2300 2257,2192 941,2298 394,2212"/>
+                <Baseline points="419,2324 596,2332 774,2338 951,2342 1129,2345 1307,2347 1484,2347 1662,2347 1840,2346 2017,2345 2195,2343 2373,2342 2550,2341 2728,2340 2906,2340 3083,2341 3261,2343 3439,2347 3616,2352 3794,2358 3972,2367"/>
+                <TextEquiv>
+                    <Unicode>See, zunächst durch schöne freie Steppe mit viel Kiboko-Wegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582807391610_61" custom="readingOrder {index:13;}">
+                <Coords points="406,2546 865,2520 981,2580 1116,2512 1263,2614 1435,2527 1917,2492 1917,2441 1718,2370 1570,2453 1399,2383 1297,2438 1042,2368 866,2381 796,2445 407,2411"/>
+                <Baseline points="429,2500 600,2504 771,2506 942,2508 1114,2509 1285,2509 1456,2509 1628,2509 1799,2508 1892,2507"/>
+                <TextEquiv>
+                    <Unicode>in nur kniehohem Gras</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:14;}">
+                <Coords points="1860,2472 1953,2493 2035,2427 2169,2410 2239,2450 2318,2430 2383,2443 2381,2346 2335,2361 2307,2338 2275,2362 2242,2335 2158,2336 2126,2365 1991,2344 1932,2378 1857,2351"/>
+                <Baseline points="1881,2423 1906,2421 1931,2418 1956,2417 1981,2415 2006,2414 2031,2413 2056,2412 2081,2411 2106,2410 2132,2410 2157,2410 2182,2410 2207,2410 2232,2410 2257,2410 2282,2411 2307,2411 2332,2412 2358,2413"/>
+                <TextEquiv>
+                    <Unicode>auf W.-Seite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582807391610_60" custom="readingOrder {index:15;}">
+                <Coords points="1870,2502 2130,2574 2852,2501 2978,2570 3417,2482 3520,2573 3876,2514 3875,2347 1869,2428"/>
+                <Baseline points="1892,2507 1970,2507 2142,2505 2313,2503 2484,2501 2655,2499 2827,2497 2998,2496 3169,2494 3341,2492 3512,2491 3683,2489 3855,2489"/>
+                <TextEquiv>
+                    <Unicode>, aber kein Wild. Schönes Landschaftsbild</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582807409017_68" custom="readingOrder {index:16;}">
+                <Coords points="397,2667 712,2776 1518,2646 1834,2764 2690,2643 3562,2758 3840,2673 3839,2557 396,2597"/>
+                <Baseline points="420,2641 465,2646 511,2648 557,2652 603,2654 649,2655 695,2657 740,2658 786,2658 832,2659 878,2659 924,2659 970,2659 1016,2659 1061,2659 1107,2659 1153,2659 1199,2660 1245,2660 1291,2662 1337,2663 1370,2648 1492,2649 1614,2649 1736,2649 1859,2648 1981,2647 2103,2646 2226,2645 2348,2644 2470,2642 2593,2641 2715,2640 2837,2639 2959,2638 3082,2638 3204,2638 3326,2638 3449,2639 3571,2641 3693,2643 3816,2646"/>
+                <TextEquiv>
+                    <Unicode>am ruhigen See. Zwischen Schilf sumpfiger Rand mit Wasser„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="374,2808 1203,2909 1843,2797 2149,2908 2561,2796 2904,2907 3140,2786 3840,2846 3840,2711 2820,2647 2116,2759 374,2678"/>
+                <Baseline points="396,2786 567,2791 738,2794 909,2797 1080,2799 1251,2800 1422,2800 1593,2801 1764,2800 1935,2799 2107,2799 2278,2797 2449,2796 2620,2795 2791,2794 2962,2793 3133,2792 3304,2792 3475,2792 3646,2793 3818,2794"/>
+                <TextEquiv>
+                    <Unicode>lachen u. schwarzen Störchen, im offnen Wasser, freilich ziemlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="368,2996 3848,3013 3722,2810 2027,2910 1877,2795 1243,2906 367,2815"/>
+                <Baseline points="389,2939 560,2946 732,2951 904,2954 1076,2957 1248,2958 1419,2958 1591,2957 1763,2955 1935,2953 2107,2951 2278,2948 2450,2945 2622,2942 2794,2940 2966,2937 3137,2935 3309,2934 3481,2933 3653,2934 3825,2935"/>
+                <TextEquiv>
+                    <Unicode>entfernt überall die schwarzen Streifen der Kiboko-Köpfe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="374,3194 4007,3149 3912,2969 3523,2955 372,3022"/>
+                <Baseline points="395,3090 574,3096 754,3101 933,3104 1113,3105 1292,3106 1472,3105 1651,3104 1831,3102 2010,3099 2190,3096 2369,3093 2549,3089 2728,3086 2908,3082 3087,3080 3267,3077 3446,3075 3626,3074 3805,3074 3985,3075"/>
+                <TextEquiv>
+                    <Unicode>Palme auf vorspringender Landecke, drüben waldiges Ufer. Leider viel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="352,3282 3893,3302 3891,3153 3154,3088 2775,3189 351,3180"/>
+                <Baseline points="373,3253 547,3256 722,3258 897,3259 1072,3259 1247,3258 1421,3257 1596,3255 1771,3253 1946,3250 2121,3247 2295,3244 2470,3241 2645,3238 2820,3235 2995,3232 3169,3230 3344,3228 3519,3227 3694,3227 3869,3228"/>
+                <TextEquiv>
+                    <Unicode>Wolken. Am oberen Ende über den trockenen Likandanguare auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="347,3542 1272,3408 1621,3521 1773,3418 3965,3431 3718,3248 345,3296"/>
+                <Baseline points="369,3432 547,3428 726,3425 905,3421 1083,3418 1262,3415 1441,3412 1619,3410 1798,3408 1977,3406 2156,3404 2334,3403 2513,3402 2692,3401 2870,3400 3049,3399 3228,3399 3406,3399 3585,3399 3764,3399 3943,3399"/>
+                <TextEquiv>
+                    <Unicode>höheres Ostufer des Sees, hier lichter Wald. Dann ein alter Talboden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="347,3678 2895,3558 4059,3645 4100,3511 1940,3419 347,3548"/>
+                <Baseline points="371,3588 556,3587 741,3585 926,3583 1112,3581 1297,3578 1482,3575 1668,3573 1853,3570 2038,3568 2224,3566 2409,3564 2594,3563 2779,3562 2965,3562 3150,3563 3335,3565 3521,3568 3706,3571 3891,3576 4077,3583"/>
+                <TextEquiv>
+                    <Unicode>von Osten her, seltsam unterbrochen von 2 steilen Bergen (Nakahamba)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="321,3796 2277,3867 2702,3704 2921,3832 3379,3715 4047,3819 4013,3671 2904,3559 320,3722"/>
+                <Baseline points="344,3770 537,3766 731,3762 924,3757 1118,3752 1312,3746 1505,3741 1699,3735 1893,3730 2086,3725 2280,3721 2473,3718 2667,3716 2861,3716 3054,3716 3248,3719 3442,3723 3635,3730 3829,3739 4023,3750"/>
+                <TextEquiv>
+                    <Unicode>aus nur neuem Gestein. Schoß ein Schwein, Wasserbock nach langem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="341,4046 1828,3933 3705,4024 3936,3987 3937,3848 1699,3761 341,3870"/>
+                <Baseline points="364,3920 541,3921 719,3921 896,3920 1074,3919 1251,3917 1429,3915 1606,3913 1784,3910 1961,3908 2139,3907 2316,3906 2494,3906 2671,3906 2849,3908 3026,3910 3204,3915 3381,3920 3559,3928 3736,3936 3914,3947"/>
+                <TextEquiv>
+                    <Unicode>geduldigen Beschleichen u. Beobachten ohne Erfolg auf sehr große Entfer„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582807373955_55" custom="readingOrder {index:25;}">
+                <Coords points="349,4127 1267,4193 1739,4076 1962,4186 2902,4062 3890,4174 3959,3993 349,4039"/>
+                <Baseline points="372,4097 522,4091 672,4087 822,4083 973,4081 1123,4078 1273,4077 1424,4076 1574,4075 1724,4074 1875,4074 2025,4074 2175,4075 2325,4075 2476,4075 2626,4075 2776,4075 2927,4075 3077,4074 3227,4073 3378,4071 3502,4056 3527,4059 3553,4062 3578,4065 3604,4068 3629,4069 3655,4071 3681,4074 3706,4075 3732,4076 3757,4078 3783,4080 3809,4082 3834,4084 3860,4086 3885,4089 3911,4092 3937,4096"/>
+                <TextEquiv>
+                    <Unicode>nung beschossen. Es war 11 geworden u. noch weit. Etwas Busch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="394,4349 4073,4274 3965,4126 2932,4077 393,4186"/>
+                <Baseline points="418,4268 599,4265 781,4261 962,4257 1144,4253 1325,4250 1507,4246 1688,4243 1870,4240 2051,4238 2233,4235 2415,4234 2596,4233 2778,4232 2959,4233 3141,4234 3322,4236 3504,4239 3685,4243 3867,4247 4049,4254"/>
+                <TextEquiv>
+                    <Unicode>zwang zu Umwegen. Dann am Ufer über hohem Schilf Silhouetten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="378,4450 3256,4470 4052,4324 2485,4250 1286,4358 784,4252 377,4353"/>
+                <Baseline points="401,4410 582,4409 763,4407 945,4404 1126,4401 1308,4398 1489,4395 1670,4391 1852,4387 2033,4384 2215,4381 2396,4378 2577,4377 2759,4375 2940,4374 3122,4375 3303,4376 3484,4378 3666,4382 3847,4387 4029,4393"/>
+                <TextEquiv>
+                    <Unicode>von Elephanten. Da der Wind grade auf sie zuging, war mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="367,4613 4005,4590 4004,4451 3429,4381 2874,4495 2391,4401 367,4497"/>
+                <Baseline points="390,4570 569,4565 749,4560 928,4555 1108,4552 1287,4549 1467,4547 1646,4545 1826,4544 2005,4543 2185,4542 2365,4542 2544,4541 2724,4541 2903,4541 3083,4541 3262,4542 3442,4541 3621,4541 3801,4541 3981,4540"/>
+                <TextEquiv>
+                    <Unicode>nicht ganz heimlich zu mute, aber man überschätzt immer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>14&#xD;
+Besiedelung freilich nicht so stark, wie ich erwartet hatte. Ver„&#xD;
+pflegung machte Schwierigkeiten, außer anfangs, wo die Leutchen&#xD;
+meine Aufforderung zur Marktversorgung als strengen, Befehl&#xD;
+aufgefaßt hatten u. jeder ein Scherflein brachte - als Tribut.&#xD;
+Als ich sie darüber aufklärte, ich sei kein Räuber, wurden sie merk„&#xD;
+lich kühler, ich hörte auch Unterhaltung darüber, daß „sogar“ der&#xD;
+Bezirksamtmann bezahlt habe. Wir haben noch viel Mission&#xD;
+zu treiben, freilich wohl zuerst unter uns, da solche Zustände&#xD;
+sicherlich ausgenutzt werden. Akidah nicht zu Haus.&#xD;
+18. Aug. Früh auf Barrabarra weiter 1½ Std. bis Jumbe Hamide&#xD;
+am Unterende des Maliwe-Sees. Jagdstreife um den ganzen&#xD;
+See, zunächst durch schöne freie Steppe mit viel Kiboko-Wegen&#xD;
+in nur kniehohem Gras&#xD;
+auf W.-Seite&#xD;
+, aber kein Wild. Schönes Landschaftsbild&#xD;
+am ruhigen See. Zwischen Schilf sumpfiger Rand mit Wasser„&#xD;
+lachen u. schwarzen Störchen, im offnen Wasser, freilich ziemlich&#xD;
+entfernt überall die schwarzen Streifen der Kiboko-Köpfe,&#xD;
+Palme auf vorspringender Landecke, drüben waldiges Ufer. Leider viel&#xD;
+Wolken. Am oberen Ende über den trockenen Likandanguare auf&#xD;
+höheres Ostufer des Sees, hier lichter Wald. Dann ein alter Talboden&#xD;
+von Osten her, seltsam unterbrochen von 2 steilen Bergen (Nakahamba)&#xD;
+aus nur neuem Gestein. Schoß ein Schwein, Wasserbock nach langem&#xD;
+geduldigen Beschleichen u. Beobachten ohne Erfolg auf sehr große Entfer„&#xD;
+nung beschossen. Es war 11 geworden u. noch weit. Etwas Busch&#xD;
+zwang zu Umwegen. Dann am Ufer über hohem Schilf Silhouetten&#xD;
+von Elephanten. Da der Wind grade auf sie zuging, war mir&#xD;
+nicht ganz heimlich zu mute, aber man überschätzt immer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

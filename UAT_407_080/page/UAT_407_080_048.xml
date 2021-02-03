@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:55.303+02:00</Created>
+        <LastChange>2020-03-19T13:30:03.866+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550746" pageNr="48" tsid="25856162" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=OMBZDYNBBMSCJLOLBRYMWCBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CAOZAMEANTMULLQEENNBVEER" imageId="4551624"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_048.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255544284" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1582886882004_1863"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1582886882004_1863" custom="readingOrder {index:0;}">
+            <Coords points="428,206 542,206 4037,245 4037,4893 220,4908 220,260"/>
+            <TextLine id="TextRegion_1582886882004_1863l1" custom="readingOrder {index:0;}">
+                <Coords points="402,402 463,387 481,396 546,337 577,336 574,208 521,218 508,210 469,242 446,224 398,234"/>
+                <Baseline points="422,310 448,316 474,315 501,312 527,310 554,314"/>
+                <TextEquiv>
+                    <Unicode>44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l2" custom="readingOrder {index:1;}">
+                <Coords points="537,481 3992,379 3948,265 3226,192 534,375"/>
+                <Baseline points="558,432 816,440 962,430 1109,421 1256,412 1403,404 1550,395 1697,388 1844,380 1991,374 2138,368 2285,362 2431,356 2578,352 2725,348 2872,344 3019,342 3166,338 3313,338 3460,336 3607,336 3754,336 3968,359"/>
+                <TextEquiv>
+                    <Unicode>auf der ich beim Abstieg Trigonien-Schichten m.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l3" custom="readingOrder {index:2;}">
+                <Coords points="487,657 1859,632 2086,528 3910,565 3963,378 481,468"/>
+                <Baseline points="508,587 754,587 1024,610 1170,596 1316,585 1462,576 1608,568 1754,560 1900,556 2046,552 2192,548 2338,545 2485,542 2631,540 2777,538 2923,536 3069,534 3215,530 3361,526 3507,521 3653,515 3799,507 3946,498"/>
+                <TextEquiv>
+                    <Unicode>Fossilien fand. Lager in Kikundi, an 12¼ Ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l4" custom="readingOrder {index:3;}">
+                <Coords points="464,842 4002,716 3676,538 460,652"/>
+                <Baseline points="485,756 574,744 744,746 914,746 1084,746 1255,744 1425,740 1595,736 1766,732 1936,726 2106,720 2277,715 2447,710 2617,704 2787,700 2958,694 3128,692 3298,689 3469,688 3639,688 3809,690 3980,694"/>
+                <TextEquiv>
+                    <Unicode>pflegungsschwierigkeiten f. d. Leute. Schoß 2 Paga„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l5" custom="readingOrder {index:4;}">
+                <Coords points="493,1023 757,891 903,951 1141,896 1552,957 1886,860 2151,888 2150,756 1814,720 1661,845 1140,812 986,858 658,800 491,842"/>
+                <Baseline points="512,893 718,883 904,893 1158,898 1191,898 1224,898 1257,898 1290,898 1323,898 1356,898 1389,898 1422,898 1455,898 1489,897 1522,896 1555,896 1588,896 1621,894 1654,894 1687,892 1720,892 1753,890 1786,889 1820,888 1903,865 2012,865 2131,865"/>
+                <TextEquiv>
+                    <Unicode>geien m. einem Schuß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l6" custom="readingOrder {index:5;}">
+                <Coords points="633,1041 1156,1148 1256,1062 2021,1129 2252,1008 2583,1001 2785,1111 3339,1010 3335,869 2941,812 2454,929 1891,862 1549,958 802,891 631,957"/>
+                <Baseline points="654,1030 787,1036 920,1038 1053,1040 1186,1042 1319,1040 1452,1038 1585,1036 1718,1032 1851,1028 1985,1024 2118,1018 2251,1013 2384,1008 2517,1004 2650,1000 2783,996 2916,994 3049,992 3182,992 3316,992"/>
+                <TextEquiv>
+                    <Unicode>Abend. Ngoma! D. Laute sind „nicht totzukriegen“.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l7" custom="readingOrder {index:6;}">
+                <Coords points="543,1288 2996,1188 3668,1296 3932,1240 3931,1086 541,1138"/>
+                <Baseline points="564,1240 731,1236 898,1231 1066,1226 1233,1222 1401,1216 1568,1212 1735,1208 1903,1204 2070,1202 2238,1198 2405,1196 2572,1196 2740,1194 2907,1194 3075,1196 3242,1198 3409,1200 3577,1204 3744,1210 3912,1216"/>
+                <TextEquiv>
+                    <Unicode>24. Juli 09. Ging morgens m. Ali u. Führer voraus, schickte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l8" custom="readingOrder {index:7;}">
+                <Coords points="282,1466 3024,1318 3845,1437 3838,1230 3589,1181 278,1347"/>
+                <Baseline points="303,1430 456,1434 624,1423 792,1413 960,1403 1128,1391 1297,1382 1465,1371 1633,1361 1801,1352 1969,1344 2138,1337 2306,1332 2474,1326 2642,1322 2810,1320 2979,1320 3147,1322 3315,1324 3483,1330 3651,1338 3820,1348"/>
+                <TextEquiv>
+                    <Unicode>d. Träger nach Pindiro (ca 3-3½ Std). Überschritten einen Hügel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l9" custom="readingOrder {index:8;}">
+                <Coords points="438,1622 1314,1531 1572,1617 1785,1487 2123,1575 2297,1482 3865,1505 3920,1407 2677,1326 433,1472"/>
+                <Baseline points="460,1576 632,1565 804,1554 976,1544 1148,1533 1320,1523 1492,1513 1664,1504 1836,1496 2008,1488 2180,1482 2352,1476 2524,1472 2696,1470 2868,1468 3040,1468 3212,1470 3384,1474 3556,1479 3728,1488 3900,1498"/>
+                <TextEquiv>
+                    <Unicode>(noch immer d. recht eintönige Sandstein, d. „Barrabarra“ von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l10" custom="readingOrder {index:9;}">
+                <Coords points="435,1735 3704,1649 3699,1486 2818,1544 2537,1452 1800,1608 432,1629"/>
+                <Baseline points="456,1732 617,1717 778,1706 939,1696 1100,1686 1262,1678 1423,1669 1584,1662 1745,1656 1906,1650 2068,1646 2229,1642 2390,1638 2551,1634 2712,1632 2874,1630 3035,1628 3196,1625 3357,1624 3518,1622 3680,1620"/>
+                <TextEquiv>
+                    <Unicode>Kiswere traf uns - mir unverständlich von links. Dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l11" custom="readingOrder {index:10;}">
+                <Coords points="428,1877 1769,1800 2368,1919 2836,1763 3831,1799 3794,1606 425,1749"/>
+                <Baseline points="450,1860 617,1850 785,1839 953,1830 1121,1820 1289,1813 1456,1806 1624,1799 1792,1794 1960,1789 2128,1784 2295,1780 2463,1776 2631,1772 2799,1770 2967,1766 3134,1762 3302,1760 3470,1756 3638,1752 3806,1748"/>
+                <TextEquiv>
+                    <Unicode>bogen wir kurz vor Makangaga (m. Pindiro) links in d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l12" custom="readingOrder {index:11;}">
+                <Coords points="459,2025 3879,1954 3876,1796 3608,1877 3187,1780 2324,1905 1770,1802 457,1893"/>
+                <Baseline points="480,1992 648,1989 817,1986 986,1981 1155,1976 1324,1972 1492,1968 1661,1962 1830,1958 1999,1953 2168,1948 2336,1944 2505,1940 2674,1936 2843,1933 3012,1930 3180,1928 3349,1928 3518,1926 3687,1928 3856,1928"/>
+                <TextEquiv>
+                    <Unicode>Talebene ab, durch Schamben in einen Busch, der von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l13" custom="readingOrder {index:12;}">
+                <Coords points="515,2186 1241,2105 1832,2232 1987,2104 2728,2045 2871,2139 3750,2130 3771,1939 3359,2043 3096,1939 1776,1950 512,2071"/>
+                <Baseline points="536,2156 696,2149 857,2141 1018,2133 1179,2126 1340,2118 1501,2112 1662,2105 1823,2100 1984,2094 2145,2088 2305,2084 2466,2082 2627,2078 2788,2076 2949,2074 3110,2074 3271,2074 3432,2076 3593,2078 3754,2082"/>
+                <TextEquiv>
+                    <Unicode>einem Flüßlein buchstäblich durchströmt(?) wurde,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l14" custom="readingOrder {index:13;}">
+                <Coords points="489,2374 1765,2246 2943,2346 3129,2221 3797,2267 3792,2103 483,2197"/>
+                <Baseline points="508,2320 671,2308 834,2296 997,2286 1161,2278 1324,2270 1487,2262 1651,2256 1814,2250 1977,2245 2141,2240 2304,2236 2467,2233 2630,2230 2794,2226 2957,2224 3120,2220 3284,2218 3447,2214 3610,2212 3774,2208"/>
+                <TextEquiv>
+                    <Unicode>hinüber bis zum Makumba. Wurden hier an eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l15" custom="readingOrder {index:14;}">
+                <Coords points="486,2485 956,2556 1420,2397 1988,2508 2131,2394 2628,2503 2802,2392 3831,2389 3761,2259 3350,2244 482,2326"/>
+                <Baseline points="508,2480 673,2464 838,2449 1003,2438 1168,2428 1333,2420 1498,2413 1663,2408 1828,2403 1993,2399 2158,2396 2323,2394 2488,2391 2653,2388 2818,2386 2983,2384 3148,2381 3313,2377 3478,2372 3643,2367 3808,2360"/>
+                <TextEquiv>
+                    <Unicode>Stelle geführt, die auf große Strecke hin in ca 20-30 m.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l16" custom="readingOrder {index:15;}">
+                <Coords points="476,2643 2430,2566 2935,2684 3180,2572 3558,2679 3912,2539 3909,2394 473,2502"/>
+                <Baseline points="496,2632 665,2617 835,2604 1005,2592 1174,2583 1344,2576 1514,2569 1683,2564 1853,2560 2023,2558 2193,2556 2362,2554 2532,2552 2702,2552 2871,2550 3041,2550 3211,2548 3380,2546 3550,2544 3720,2542 3890,2538"/>
+                <TextEquiv>
+                    <Unicode>Breite voll tiefen Wassers war u. Flußpferde enthielt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l17" custom="readingOrder {index:16;}">
+                <Coords points="473,2830 2111,2843 2519,2725 3258,2826 3926,2667 1819,2570 471,2715"/>
+                <Baseline points="492,2784 662,2780 833,2776 1004,2771 1174,2765 1345,2759 1516,2753 1686,2747 1857,2740 2028,2734 2199,2730 2369,2726 2540,2722 2711,2720 2881,2718 3052,2718 3223,2718 3393,2721 3564,2726 3735,2732 3906,2740"/>
+                <TextEquiv>
+                    <Unicode>aber der zahlreichen Sumpfpflanzen wegen einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l18" custom="readingOrder {index:17;}">
+                <Coords points="385,3081 700,2971 892,3059 1825,2937 3910,2962 3906,2825 3387,2746 3271,2846 2354,2751 1731,2873 379,2864"/>
+                <Baseline points="404,2976 578,2970 752,2964 926,2958 1100,2952 1274,2946 1448,2938 1622,2932 1796,2926 1970,2919 2145,2914 2319,2908 2493,2904 2667,2900 2841,2896 3015,2894 3189,2892 3363,2892 3537,2892 3711,2895 3886,2898"/>
+                <TextEquiv>
+                    <Unicode>Wiese glich. Schoß 2mal u. traf wohl d. erstemal einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l19" custom="readingOrder {index:18;}">
+                <Coords points="475,3231 1036,3243 1501,3076 3924,3092 3788,2901 3146,3023 2844,2909 2131,3055 1706,2948 472,3055"/>
+                <Baseline points="494,3149 718,3108 844,3128 996,3124 1149,3120 1302,3117 1455,3113 1608,3110 1760,3106 1913,3102 2066,3099 2219,3096 2372,3093 2524,3090 2677,3087 2830,3084 2983,3082 3136,3080 3288,3078 3441,3076 3594,3074 3747,3073 3900,3072"/>
+                <TextEquiv>
+                    <Unicode>großen Schädel. Hätte gern noch photographiert, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l20" custom="readingOrder {index:19;}">
+                <Coords points="443,3382 1151,3431 1910,3271 2479,3382 2678,3243 3146,3379 3437,3238 3879,3251 3875,3105 2695,3066 2019,3224 1503,3076 440,3290"/>
+                <Baseline points="464,3328 633,3322 803,3317 973,3310 1142,3305 1312,3297 1482,3290 1651,3283 1821,3276 1991,3268 2161,3262 2330,3256 2500,3250 2670,3246 2839,3242 3009,3238 3179,3236 3348,3234 3518,3236 3688,3236 3858,3240"/>
+                <TextEquiv>
+                    <Unicode>von d. zahlreichen Tieren ließ sich durch 1½ Stunden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l21" custom="readingOrder {index:20;}">
+                <Coords points="553,3550 947,3662 1307,3509 1537,3615 1940,3438 3735,3468 3776,3285 3181,3231 2877,3341 2678,3243 2481,3376 1970,3313 1824,3421 1564,3322 550,3480"/>
+                <Baseline points="574,3532 733,3530 892,3525 1051,3518 1211,3511 1370,3501 1529,3491 1689,3480 1848,3470 2007,3457 2167,3447 2326,3438 2485,3430 2644,3422 2804,3416 2963,3414 3122,3412 3282,3414 3441,3420 3600,3428 3760,3442"/>
+                <TextEquiv>
+                    <Unicode>hin nicht eins sehen. Zurück zur Barrabarra, über d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l22" custom="readingOrder {index:21;}">
+                <Coords points="510,3782 1654,3786 2297,3635 2769,3717 3157,3594 3666,3736 3997,3607 3840,3446 2449,3563 1914,3453 1541,3615 1342,3521 506,3685"/>
+                <Baseline points="532,3762 704,3743 876,3726 1048,3711 1220,3696 1393,3684 1565,3674 1737,3664 1909,3655 2081,3648 2254,3641 2426,3635 2598,3630 2770,3626 2942,3622 3115,3618 3287,3614 3459,3612 3631,3608 3803,3604 3976,3600"/>
+                <TextEquiv>
+                    <Unicode>Pindiro-Fluß auf dem Itukuru-Rücken, den ich für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l23" custom="readingOrder {index:22;}">
+                <Coords points="473,3977 1250,3883 1747,4006 2272,3809 3873,3840 3868,3734 3329,3636 2588,3768 2367,3667 465,3809"/>
+                <Baseline points="492,3936 659,3928 827,3918 995,3909 1163,3898 1331,3887 1498,3877 1666,3865 1834,3853 2002,3843 2170,3832 2337,3824 2505,3814 2673,3807 2841,3802 3009,3796 3176,3794 3344,3794 3512,3795 3680,3800 3848,3806"/>
+                <TextEquiv>
+                    <Unicode>Saurierverdächtig hielt, der aber unten aus jenem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l24" custom="readingOrder {index:23;}">
+                <Coords points="440,4070 820,4198 1173,4052 2284,4119 2505,4018 2685,4114 2858,3988 3970,4086 3859,3833 438,3995"/>
+                <Baseline points="464,4070 638,4072 812,4072 986,4070 1160,4066 1334,4060 1508,4052 1682,4046 1856,4036 2030,4027 2205,4017 2379,4008 2553,4000 2727,3992 2901,3985 3075,3980 3249,3976 3423,3976 3597,3976 3771,3980 3946,3986"/>
+                <TextEquiv>
+                    <Unicode>Sandstein, oben aus rötlichen Abhängen (Fortsetzung d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l25" custom="readingOrder {index:24;}">
+                <Coords points="470,4274 840,4378 1172,4257 1395,4339 1537,4211 3209,4308 4003,4112 2838,4001 2674,4138 2428,4035 467,4146"/>
+                <Baseline points="492,4256 666,4253 841,4248 1015,4244 1190,4238 1364,4233 1539,4227 1713,4221 1888,4214 2062,4208 2237,4202 2411,4196 2586,4190 2760,4184 2935,4180 3109,4176 3284,4172 3458,4169 3633,4167 3807,4166 3982,4166"/>
+                <TextEquiv>
+                    <Unicode>Lipungiro?) besteht, soweit d. spärlichen Aufschlüsse erkennen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l26" custom="readingOrder {index:25;}">
+                <Coords points="462,4474 661,4590 1352,4412 1573,4544 1836,4383 2698,4490 3150,4322 4039,4450 3970,4174 2138,4314 1551,4209 1359,4363 1173,4255 839,4406 454,4280"/>
+                <Baseline points="484,4456 660,4452 837,4446 1013,4439 1190,4430 1366,4420 1543,4410 1719,4401 1896,4390 2072,4379 2249,4369 2425,4360 2602,4351 2778,4344 2955,4338 3131,4334 3308,4332 3484,4332 3661,4336 3837,4341 4014,4350"/>
+                <TextEquiv>
+                    <Unicode>ließen. Beim Abstieg aber fand ich nicht nur Fossilien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l27" custom="readingOrder {index:26;}">
+                <Coords points="252,4599 287,4589 322,4602 370,4552 446,4581 471,4554 502,4549 497,4337 444,4334 431,4348 413,4339 392,4357 369,4345 339,4376 317,4359 246,4347"/>
+                <Baseline points="274,4542 299,4542 325,4542 350,4543 376,4544 401,4544 427,4541 452,4539 478,4534"/>
+                <TextEquiv>
+                    <Unicode>u. Oolith</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1582886882004_1863l28" custom="readingOrder {index:27;}">
+                <Coords points="529,4792 1065,4635 2831,4695 3235,4539 3890,4651 4003,4619 3993,4394 3289,4360 2796,4498 1801,4384 1574,4545 949,4499 522,4624"/>
+                <Baseline points="545,4669 692,4665 831,4650 1084,4640 1228,4632 1373,4622 1518,4614 1662,4605 1807,4597 1952,4588 2096,4580 2241,4571 2386,4563 2531,4556 2675,4549 2820,4544 2965,4538 3109,4534 3254,4530 3399,4528 3543,4526 3688,4526 3833,4528 3978,4530"/>
+                <TextEquiv>
+                    <Unicode>, sondern auch eine scharfe Faltung feinplattiger Schiefe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887148109_1887" custom="readingOrder {index:28;}">
+                <Coords points="543,4889 825,4978 1504,4845 1830,4932 2311,4813 3307,4866 3797,4755 3792,4636 3500,4530 2726,4702 2452,4604 1901,4739 1666,4630 538,4783"/>
+                <Baseline points="564,4842 594,4845 625,4847 656,4854 720,4862 750,4861 780,4860 1060,4826 1195,4821 1331,4817 1466,4812 1602,4806 1738,4800 1873,4794 2009,4790 2144,4784 2280,4777 2416,4771 2551,4766 2687,4759 2822,4752 2958,4747 3094,4741 3229,4735 3365,4729 3500,4724 3636,4718 3772,4712"/>
+                <TextEquiv>
+                    <Unicode>Mehrfach Regen. Nachm. Jagdausflug ohne Erfolg. Wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>44&#xD;
+auf der ich beim Abstieg Trigonien-Schichten m.&#xD;
+Fossilien fand. Lager in Kikundi, an 12¼ Ver„&#xD;
+pflegungsschwierigkeiten f. d. Leute. Schoß 2 Paga„&#xD;
+geien m. einem Schuß&#xD;
+Abend. Ngoma! D. Laute sind „nicht totzukriegen“.&#xD;
+24. Juli 09. Ging morgens m. Ali u. Führer voraus, schickte&#xD;
+d. Träger nach Pindiro (ca 3-3½ Std). Überschritten einen Hügel&#xD;
+(noch immer d. recht eintönige Sandstein, d. „Barrabarra“ von&#xD;
+Kiswere traf uns - mir unverständlich von links. Dann&#xD;
+bogen wir kurz vor Makangaga (m. Pindiro) links in d.&#xD;
+Talebene ab, durch Schamben in einen Busch, der von&#xD;
+einem Flüßlein buchstäblich durchströmt(?) wurde,&#xD;
+hinüber bis zum Makumba. Wurden hier an eine&#xD;
+Stelle geführt, die auf große Strecke hin in ca 20-30 m.&#xD;
+Breite voll tiefen Wassers war u. Flußpferde enthielt,&#xD;
+aber der zahlreichen Sumpfpflanzen wegen einer&#xD;
+Wiese glich. Schoß 2mal u. traf wohl d. erstemal einen&#xD;
+großen Schädel. Hätte gern noch photographiert, aber&#xD;
+von d. zahlreichen Tieren ließ sich durch 1½ Stunden&#xD;
+hin nicht eins sehen. Zurück zur Barrabarra, über d.&#xD;
+Pindiro-Fluß auf dem Itukuru-Rücken, den ich für&#xD;
+Saurierverdächtig hielt, der aber unten aus jenem&#xD;
+Sandstein, oben aus rötlichen Abhängen (Fortsetzung d.&#xD;
+Lipungiro?) besteht, soweit d. spärlichen Aufschlüsse erkennen&#xD;
+ließen. Beim Abstieg aber fand ich nicht nur Fossilien&#xD;
+u. Oolith&#xD;
+, sondern auch eine scharfe Faltung feinplattiger Schiefe&#xD;
+Mehrfach Regen. Nachm. Jagdausflug ohne Erfolg. Wieder</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

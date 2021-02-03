@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:48:00.933+02:00</Created>
+        <LastChange>2020-03-30T12:10:55.842+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550862" pageNr="160" tsid="26677265" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=KWGVYZEGMGEGSWNFWGIRZMON&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AJIEBVQKHAKFEMFDDVEJPVQK" imageId="4551740"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_160.jpg" imageWidth="4324" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255578249" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="300,263 300,4852 4013,4852 4013,263"/>
+            <TextLine id="line_1583142176691_439" custom="readingOrder {index:0;}">
+                <Coords points="277,424 320,416 385,464 515,365 536,366 537,241 494,227 472,249 425,261 412,253 338,295 278,308"/>
+                <Baseline points="300,383 479,384 515,384"/>
+                <TextEquiv>
+                    <Unicode>156</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583142176691_438" custom="readingOrder {index:1;}">
+                <Coords points="495,439 1597,357 2198,466 2657,349 2970,460 3915,329 3913,234 2891,198 2139,312 664,220 494,348"/>
+                <Baseline points="515,384 659,384 839,383 1018,381 1198,379 1378,376 1557,372 1737,368 1917,364 2097,359 2276,355 2456,350 2636,346 2815,342 2995,339 3175,336 3354,333 3534,331 3714,331 3894,331"/>
+                <TextEquiv>
+                    <Unicode>Abendbrot luden. Von Knochen u. Versteinerungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+                <Coords points="529,584 1674,491 3722,603 3810,412 527,450"/>
+                <Baseline points="552,538 722,532 892,527 1063,522 1233,517 1404,513 1574,509 1745,505 1915,502 2086,499 2256,497 2427,495 2597,494 2768,493 2938,492 3109,492 3279,493 3450,494 3620,496 3791,498"/>
+                <TextEquiv>
+                    <Unicode>nirgends Kunde, hier kann man auch leider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:3;}">
+                <Coords points="551,797 856,741 915,680 1032,712 1256,661 1678,698 1748,766 1851,704 2020,736 2017,594 1800,494 1723,534 1662,491 1488,615 1068,526 979,601 792,531 548,629"/>
+                <Baseline points="570,692 641,687 712,682 784,678 855,674 926,671 998,668 1069,666 1140,664 1212,663 1283,661 1354,661 1426,660 1497,660 1568,661 1640,661 1711,662 1782,663 1854,664 1925,666 1997,667"/>
+                <TextEquiv>
+                    <Unicode>garnicht suchen lassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:4;}">
+                <Coords points="717,853 1261,929 1806,806 2622,887 3409,796 3712,909 4000,836 3998,655 3641,754 3024,611 2702,752 1491,775 1287,648 716,763"/>
+                <Baseline points="739,832 901,831 1063,828 1225,826 1387,822 1549,819 1711,815 1873,811 2035,807 2197,803 2359,800 2521,797 2683,794 2845,793 3007,792 3169,792 3331,793 3493,796 3655,799 3817,804 3979,811"/>
+                <TextEquiv>
+                    <Unicode>Wollten erst nachm. m. Materialzug nach Daressalaam fahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:5;}">
+                <Coords points="536,1035 3970,991 3929,880 2860,791 2516,891 534,872"/>
+                <Baseline points="555,983 724,979 894,974 1063,970 1233,964 1403,959 1572,954 1742,949 1911,945 2081,941 2251,937 2420,934 2590,932 2759,930 2929,929 3099,929 3268,930 3438,933 3607,937 3777,942 3947,949"/>
+                <TextEquiv>
+                    <Unicode>Plötzlich kommt ein Zug unerwartet früh durch u. wir mei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:6;}">
+                <Coords points="544,1137 1470,1084 1916,1206 2095,1095 2992,1162 3322,1058 3837,1179 4034,1093 4032,973 2894,922 2607,1031 543,1043"/>
+                <Baseline points="567,1122 739,1117 911,1112 1083,1108 1256,1103 1428,1098 1600,1093 1773,1088 1945,1084 2117,1080 2290,1076 2462,1073 2634,1070 2806,1068 2979,1066 3151,1065 3323,1066 3496,1066 3668,1068 3840,1071 4013,1076"/>
+                <TextEquiv>
+                    <Unicode>nen nun die Gelegenheit verpaßt zu haben u. kündigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:7;}">
+                <Coords points="549,1316 3776,1280 3896,1264 3892,1070 2839,1191 2096,1095 1775,1205 1505,1089 547,1234"/>
+                <Baseline points="570,1298 735,1288 900,1279 1065,1272 1230,1265 1396,1259 1561,1254 1726,1250 1891,1246 2056,1243 2222,1240 2387,1238 2552,1236 2717,1234 2882,1232 3048,1230 3213,1228 3378,1227 3543,1224 3708,1221 3874,1218"/>
+                <TextEquiv>
+                    <Unicode>uns in d. Mission an. Nachher kommt der erwartete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:8;}">
+                <Coords points="636,1488 3901,1408 3795,1268 3200,1244 2629,1342 2015,1254 633,1320"/>
+                <Baseline points="657,1428 818,1425 979,1422 1140,1418 1301,1414 1463,1411 1624,1407 1785,1403 1946,1399 2107,1395 2269,1392 2430,1388 2591,1384 2752,1382 2913,1379 3075,1377 3236,1375 3397,1374 3558,1373 3719,1372 3881,1373"/>
+                <TextEquiv>
+                    <Unicode>Zug ebenfalls, unsre Lasten aber nicht bereit u. der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:9;}">
+                <Coords points="594,1605 1027,1684 1964,1556 2139,1663 3907,1530 3904,1435 3338,1377 1101,1540 827,1431 593,1553"/>
+                <Baseline points="614,1601 777,1595 941,1588 1104,1582 1268,1576 1432,1570 1595,1564 1759,1559 1923,1554 2086,1550 2250,1545 2414,1541 2577,1537 2741,1534 2905,1530 3068,1527 3232,1524 3396,1521 3559,1519 3723,1516 3887,1514"/>
+                <TextEquiv>
+                    <Unicode>Herr Zugführer war ungnädig. Also abends in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:10;}">
+                <Coords points="628,1786 3924,1724 3918,1538 3737,1523 2077,1656 1358,1563 1039,1703 622,1609"/>
+                <Baseline points="650,1770 812,1760 975,1751 1137,1742 1300,1733 1462,1726 1625,1718 1787,1711 1950,1705 2112,1699 2275,1694 2438,1688 2600,1684 2763,1680 2925,1676 3088,1672 3250,1670 3413,1667 3575,1664 3738,1662 3901,1660"/>
+                <TextEquiv>
+                    <Unicode>Mission. Bei Mondschein zurück. Ich hatte die Pistole schuß„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:11;}">
+                <Coords points="563,2026 1843,1864 2712,1956 3921,1864 3918,1731 558,1802"/>
+                <Baseline points="581,1928 746,1916 912,1905 1078,1896 1244,1887 1410,1881 1575,1874 1741,1869 1907,1864 2073,1860 2239,1856 2404,1854 2570,1851 2736,1850 2902,1848 3068,1847 3233,1846 3399,1846 3565,1845 3731,1845 3897,1844"/>
+                <TextEquiv>
+                    <Unicode>fertig in d. Hand, da in dem Laubengang nicht weit zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:12;}">
+                <Coords points="558,2209 1044,2195 1170,2075 1579,2180 2484,2029 2805,2124 2988,2019 3347,2053 3342,1897 2172,1973 1889,1891 1617,2002 1201,1936 889,2018 723,1945 553,2053"/>
+                <Baseline points="577,2097 714,2086 851,2076 989,2068 1126,2061 1264,2055 1401,2050 1538,2046 1676,2042 1813,2039 1951,2036 2088,2034 2225,2032 2363,2030 2500,2027 2638,2025 2775,2021 2912,2018 3050,2013 3187,2008 3325,2001"/>
+                <TextEquiv>
+                    <Unicode>sehen: gestern nacht hatte ein Löwe gebrüllt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1583142188144_445" custom="readingOrder {index:13;}">
+                <Coords points="696,2271 1272,2351 2919,2231 3047,2314 3561,2193 3951,2286 3947,2135 3463,2070 2469,2165 2204,2072 1647,2190 1226,2089 694,2198"/>
+                <Baseline points="716,2263 869,2261 1022,2258 1175,2255 1328,2251 1481,2248 1634,2244 1787,2240 1940,2236 2093,2231 2246,2226 2399,2222 2552,2218 2705,2214 2858,2210 3011,2205 3164,2201 3317,2198 3470,2194 3623,2191 3777,2188 3886,2191 3926,2194"/>
+                <TextEquiv>
+                    <Unicode>21.III: Nach Daressalaam. Janensch zu Fuß voraus, ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="518,2471 1645,2380 1807,2489 2188,2376 2358,2472 2627,2353 3780,2443 3776,2293 3300,2200 3057,2309 2150,2222 515,2333"/>
+                <Baseline points="537,2424 698,2416 859,2409 1020,2403 1181,2396 1342,2390 1503,2385 1664,2380 1825,2376 1986,2372 2147,2368 2308,2364 2469,2362 2630,2359 2791,2357 2952,2354 3113,2353 3274,2351 3435,2350 3596,2349 3757,2348"/>
+                <TextEquiv>
+                    <Unicode>bis Pugu, um des Fußes wegen mit dem Nachm. Zug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="527,2631 2124,2517 2471,2648 2650,2528 3108,2618 3373,2500 3582,2604 3878,2507 3875,2391 1372,2420 1214,2510 1035,2397 525,2536"/>
+                <Baseline points="547,2578 712,2571 878,2564 1043,2557 1209,2551 1374,2545 1540,2539 1705,2533 1871,2528 2036,2524 2202,2520 2368,2516 2533,2514 2699,2511 2864,2510 3030,2509 3195,2509 3361,2509 3526,2511 3692,2513 3858,2516"/>
+                <TextEquiv>
+                    <Unicode>nachzufahren. Doch ging sich's nach einiger Zeit ganz gut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="531,2770 1356,2826 2567,2668 3531,2759 3899,2654 3896,2547 527,2632"/>
+                <Baseline points="552,2731 718,2726 884,2722 1050,2717 1216,2711 1382,2706 1548,2701 1715,2695 1881,2689 2047,2685 2213,2679 2379,2674 2545,2670 2711,2665 2878,2661 3044,2658 3210,2655 3376,2653 3542,2651 3708,2650 3875,2650"/>
+                <TextEquiv>
+                    <Unicode>u. ich hatte nicht Lust so lange zu warten. Also auf der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="511,2939 2456,2944 2976,2799 3730,2896 3874,2821 3868,2666 506,2814"/>
+                <Baseline points="529,2891 695,2891 861,2889 1027,2886 1193,2882 1360,2877 1526,2870 1692,2863 1858,2856 2024,2848 2191,2840 2357,2833 2523,2825 2689,2818 2855,2811 3022,2805 3188,2799 3354,2794 3520,2791 3686,2789 3853,2788"/>
+                <TextEquiv>
+                    <Unicode>Straße nach Daressalaam. Frischer Seewind machte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="529,3075 1290,3142 1579,3012 1776,3114 3778,3018 3774,2876 3462,2847 527,2984"/>
+                <Baseline points="549,3046 709,3044 869,3041 1029,3037 1189,3034 1350,3029 1510,3025 1670,3020 1830,3015 1990,3010 2151,3004 2311,2999 2471,2993 2631,2988 2791,2983 2952,2978 3112,2973 3272,2968 3432,2963 3592,2958 3753,2954"/>
+                <TextEquiv>
+                    <Unicode>das Gehen (ohne Rock) sehr angenehm. Kräftiges Tempo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="689,3270 812,3201 1022,3298 1157,3207 1319,3275 1493,3182 1604,3282 1823,3275 2143,3156 2139,3035 1951,3081 1884,3040 1783,3112 1475,3045 1263,3139 854,3040 684,3124"/>
+                <Baseline points="710,3196 780,3195 851,3194 921,3192 992,3191 1063,3188 1133,3187 1204,3184 1275,3182 1345,3179 1416,3177 1487,3174 1557,3172 1628,3169 1699,3166 1769,3163 1840,3161 1911,3158 1981,3155 2052,3153 2123,3150"/>
+                <TextEquiv>
+                    <Unicode>Mittag im Kaiserhotel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="956,3380 3170,3312 3164,3165 3065,3160 2645,3236 2358,3173 2185,3279 1950,3205 1742,3291 1450,3206 953,3294"/>
+                <Baseline points="978,3363 1086,3362 1194,3360 1303,3358 1411,3355 1520,3351 1628,3347 1737,3344 1845,3339 1954,3335 2062,3331 2170,3326 2279,3322 2387,3317 2496,3312 2604,3309 2713,3304 2821,3300 2930,3297 3038,3294 3147,3291"/>
+                <TextEquiv>
+                    <Unicode>22-23. Daressalaam. Einkäufe u. s. w.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;} textStyle {offset:4; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="775,3554 4022,3435 3967,3320 3404,3372 3185,3280 771,3429"/>
+                <Baseline points="796,3523 956,3514 1116,3506 1276,3498 1436,3490 1597,3483 1757,3476 1917,3470 2077,3465 2237,3459 2398,3454 2558,3450 2718,3445 2878,3441 3038,3438 3199,3434 3359,3431 3519,3428 3679,3425 3839,3422 4000,3420"/>
+                <TextEquiv>
+                    <Unicode>24. AugMärz: Morgens mit „Kaiser Wilhelm“ (Gouvernements-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="532,3708 3813,3586 3420,3435 527,3570"/>
+                <Baseline points="553,3657 714,3650 876,3644 1038,3638 1200,3632 1362,3625 1523,3619 1685,3613 1847,3608 2009,3602 2171,3596 2332,3591 2494,3586 2656,3581 2818,3577 2980,3573 3141,3569 3303,3565 3465,3562 3627,3559 3789,3557"/>
+                <TextEquiv>
+                    <Unicode>Dampfer) bei herrlichem Wetter nach Zanzibar. Fanden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="507,3889 1530,3789 1736,3903 2546,3880 3020,3734 3910,3803 3905,3666 3714,3599 1882,3635 1124,3769 501,3695"/>
+                <Baseline points="527,3847 695,3835 863,3824 1031,3814 1199,3805 1367,3796 1535,3789 1703,3781 1871,3775 2039,3769 2207,3763 2375,3758 2543,3754 2711,3750 2879,3746 3047,3742 3215,3739 3383,3736 3551,3732 3719,3729 3887,3726"/>
+                <TextEquiv>
+                    <Unicode>„Seeadler“, zwei englische Kriegsschiffe u. d. Stadt in Flag„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="555,4113 3986,3936 3981,3768 1525,3938 549,3885"/>
+                <Baseline points="572,4011 741,4006 911,4001 1080,3995 1250,3989 1419,3982 1589,3976 1758,3968 1928,3961 2097,3955 2267,3949 2436,3942 2606,3937 2775,3932 2945,3928 3114,3925 3284,3923 3453,3923 3623,3923 3792,3925 3962,3928"/>
+                <TextEquiv>
+                    <Unicode>gengala wegen - eines mohmed. Festtages. Unser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="535,4203 3852,4119 3680,3968 533,4112"/>
+                <Baseline points="557,4169 720,4164 884,4158 1048,4152 1211,4147 1375,4142 1539,4137 1702,4133 1866,4129 2030,4125 2194,4121 2357,4118 2521,4114 2685,4111 2848,4108 3012,4105 3176,4103 3339,4101 3503,4098 3667,4096 3831,4095"/>
+                <TextEquiv>
+                    <Unicode>Kapitän schimpfte, weil er auch flaggen mußte, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="526,4399 3692,4291 3689,4210 2725,4121 2595,4224 2252,4151 1898,4261 1301,4191 523,4291"/>
+                <Baseline points="547,4345 703,4341 859,4337 1015,4333 1171,4327 1328,4322 1484,4317 1640,4312 1796,4306 1952,4301 2109,4295 2265,4291 2421,4286 2577,4281 2733,4277 2890,4274 3046,4271 3202,4268 3358,4266 3514,4265 3671,4265"/>
+                <TextEquiv>
+                    <Unicode>richtige nicht fand u. schließlich setzte er frech die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="511,4603 3961,4472 3959,4360 3200,4300 2883,4417 508,4400"/>
+                <Baseline points="532,4515 702,4507 872,4502 1043,4496 1213,4492 1384,4488 1554,4485 1724,4482 1895,4479 2065,4477 2236,4476 2406,4474 2576,4472 2747,4470 2917,4468 3088,4465 3258,4463 3428,4459 3599,4456 3769,4451 3940,4446"/>
+                <TextEquiv>
+                    <Unicode>Gouverneursflagge. Spazierfahrt m. Wagen in die Nelkenpflanzungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="685,4717 1613,4779 2602,4636 3298,4746 4015,4648 4014,4562 2767,4503 2282,4609 2094,4505 1434,4636 682,4549"/>
+                <Baseline points="708,4690 872,4688 1036,4685 1200,4683 1365,4680 1529,4677 1693,4674 1857,4671 2022,4668 2186,4664 2350,4660 2514,4657 2679,4653 2843,4650 3007,4645 3171,4641 3336,4636 3500,4632 3664,4628 3828,4623 3993,4618"/>
+                <TextEquiv>
+                    <Unicode>25. Nach Bagamoyo u. Pangani. Höchst angenehme Kabinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="531,4841 2479,4926 3030,4808 3358,4924 3569,4802 3953,4818 3413,4656 3254,4760 2733,4757 2586,4646 531,4738"/>
+                <Baseline points="555,4815 723,4814 892,4812 1061,4810 1229,4808 1398,4806 1567,4805 1735,4803 1904,4801 2073,4800 2242,4799 2410,4799 2579,4798 2748,4798 2916,4798 3085,4799 3254,4800 3422,4802 3591,4804 3760,4807 3929,4811"/>
+                <TextEquiv>
+                    <Unicode>u. gemütliches, geräumiges Deck. Schachpartie im lachenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>156&#xD;
+Abendbrot luden. Von Knochen u. Versteinerungen&#xD;
+nirgends Kunde, hier kann man auch leider&#xD;
+garnicht suchen lassen.&#xD;
+Wollten erst nachm. m. Materialzug nach Daressalaam fahren.&#xD;
+Plötzlich kommt ein Zug unerwartet früh durch u. wir mei„&#xD;
+nen nun die Gelegenheit verpaßt zu haben u. kündigen&#xD;
+uns in d. Mission an. Nachher kommt der erwartete&#xD;
+Zug ebenfalls, unsre Lasten aber nicht bereit u. der&#xD;
+Herr Zugführer war ungnädig. Also abends in der&#xD;
+Mission. Bei Mondschein zurück. Ich hatte die Pistole schuß„&#xD;
+fertig in d. Hand, da in dem Laubengang nicht weit zu&#xD;
+sehen: gestern nacht hatte ein Löwe gebrüllt.&#xD;
+21.III: Nach Daressalaam. Janensch zu Fuß voraus, ich&#xD;
+bis Pugu, um des Fußes wegen mit dem Nachm. Zug&#xD;
+nachzufahren. Doch ging sich's nach einiger Zeit ganz gut&#xD;
+u. ich hatte nicht Lust so lange zu warten. Also auf der&#xD;
+Straße nach Daressalaam. Frischer Seewind machte&#xD;
+das Gehen (ohne Rock) sehr angenehm. Kräftiges Tempo.&#xD;
+Mittag im Kaiserhotel.&#xD;
+22-23. Daressalaam. Einkäufe u. s. w.&#xD;
+24. AugMärz: Morgens mit „Kaiser Wilhelm“ (Gouvernements-&#xD;
+Dampfer) bei herrlichem Wetter nach Zanzibar. Fanden&#xD;
+„Seeadler“, zwei englische Kriegsschiffe u. d. Stadt in Flag„&#xD;
+gengala wegen - eines mohmed. Festtages. Unser&#xD;
+Kapitän schimpfte, weil er auch flaggen mußte, die&#xD;
+richtige nicht fand u. schließlich setzte er frech die&#xD;
+Gouverneursflagge. Spazierfahrt m. Wagen in die Nelkenpflanzungen&#xD;
+25. Nach Bagamoyo u. Pangani. Höchst angenehme Kabinen&#xD;
+u. gemütliches, geräumiges Deck. Schachpartie im lachenden</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

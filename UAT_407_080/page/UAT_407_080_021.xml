@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:53.991+02:00</Created>
+        <LastChange>2020-03-18T10:03:49.791+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550716" pageNr="21" tsid="25819151" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=TUAYTOEZEILISXDETSCSCSQY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMNLXGYUYPHVLMHLTXOKOUDS" imageId="4551594"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_021.jpg" imageWidth="4325" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255538412" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="487,226 487,4757 4090,4757 4090,226"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="3782,411 3827,411 3840,397 3863,397 3885,419 3903,401 3926,419 3966,410 3965,222 3916,226 3898,217 3884,231 3848,227 3835,236 3808,218 3781,218"/>
+                <Baseline points="3804,308 3832,306 3860,304 3888,304 3916,305 3944,308"/>
+                <TextEquiv>
+                    <Unicode>19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="519,445 1276,538 3819,460 3725,281 3541,370 1838,216 1591,310 519,275"/>
+                <Baseline points="541,421 703,419 866,417 1029,415 1192,414 1355,413 1518,412 1680,412 1843,412 2006,412 2169,413 2332,413 2495,415 2658,416 2820,417 2983,419 3146,421 3309,422 3472,425 3635,427 3798,429"/>
+                <TextEquiv>
+                    <Unicode>Steiler Abstieg, anfangs vorbei an malerisch auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="517,757 2975,555 3920,676 3916,474 3592,431 1164,578 511,452"/>
+                <Baseline points="538,626 705,627 873,626 1041,624 1209,621 1377,617 1544,612 1712,607 1880,602 2048,596 2216,591 2383,586 2551,581 2719,577 2887,574 3055,572 3222,571 3390,572 3558,575 3726,579 3894,585 4005,582"/>
+                <TextEquiv>
+                    <Unicode>Vorsprüngen gelegenen Hütten, durch Felder, sehr hohes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="503,857 855,937 1489,807 1868,891 3991,794 3987,646 3459,696 2980,556 2500,722 987,655 501,767"/>
+                <Baseline points="524,833 696,826 868,820 1040,815 1212,808 1385,803 1557,798 1729,793 1901,788 2073,783 2246,778 2418,774 2590,770 2762,765 2934,761 3107,757 3279,753 3451,749 3623,746 3795,742 3968,738"/>
+                <TextEquiv>
+                    <Unicode>u. dichtes Gras u. Busch. Lager am Ubolelo am Fuße v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="541,1094 946,1021 1468,1057 1551,1005 1954,1108 2126,1003 2296,1006 2291,854 1970,910 1769,822 1007,970 713,886 535,933"/>
+                <Baseline points="561,1024 646,1027 732,1027 818,1027 903,1025 989,1023 1075,1020 1160,1016 1246,1012 1332,1008 1418,1003 1503,998 1589,994 1675,990 1760,986 1846,984 1932,982 2017,981 2103,981 2189,983 2275,985"/>
+                <TextEquiv>
+                    <Unicode>Namunda u. Namyura.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582880373543_998" custom="readingOrder {index:5;}">
+                <Coords points="730,1287 1640,1218 2730,1332 3460,1207 3676,1291 3904,1226 3902,957 2119,1170 729,1067"/>
+                <Baseline points="754,1203 779,1207 804,1210 829,1213 855,1214 880,1216 905,1217 931,1219 956,1219 981,1220 1007,1221 1032,1222 1057,1223 1083,1223 1108,1224 1133,1226 1159,1227 1189,1211 1323,1213 1458,1216 1593,1217 1727,1218 1862,1219 1997,1219 2131,1219 2266,1219 2401,1218 2536,1216 2670,1215 2805,1213 2940,1211 3074,1209 3209,1207 3344,1204 3478,1202 3613,1199 3748,1197 3883,1194"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Zum Brunnen gegangen, der auch d. Leute auf d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="483,1534 1137,1417 1842,1536 2177,1404 2425,1518 3931,1448 3857,1220 1598,1373 481,1265"/>
+                <Baseline points="506,1436 676,1430 846,1425 1016,1421 1186,1418 1356,1416 1526,1414 1696,1413 1866,1412 2036,1411 2206,1411 2376,1410 2546,1410 2716,1410 2886,1409 3056,1408 3226,1407 3396,1405 3566,1402 3736,1399 3907,1394"/>
+                <TextEquiv>
+                    <Unicode>Plateau versorgen muß, ein nicht versiegendes aber nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="474,1708 1204,1571 3863,1630 3862,1469 965,1434 473,1551"/>
+                <Baseline points="495,1595 662,1590 829,1586 996,1583 1163,1580 1331,1578 1498,1576 1665,1574 1832,1572 1999,1571 2167,1570 2334,1568 2501,1567 2668,1566 2835,1565 3003,1564 3170,1563 3337,1561 3504,1560 3671,1558 3839,1556"/>
+                <TextEquiv>
+                    <Unicode>fließendes Wasserloch unweit des Ubolelo, der selbst kein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="477,1761 3925,1768 3923,1620 3448,1572 475,1631"/>
+                <Baseline points="500,1744 670,1740 840,1736 1010,1733 1180,1729 1350,1726 1520,1723 1690,1721 1860,1718 2030,1716 2200,1714 2370,1712 2540,1711 2710,1710 2880,1708 3050,1708 3220,1707 3390,1706 3560,1706 3730,1706 3901,1706"/>
+                <TextEquiv>
+                    <Unicode>Wasser mehr führt, aber im Bett einige Austrittsstellen zeigt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582880378187_1003" custom="readingOrder {index:9;}">
+                <Coords points="482,1930 3961,1855 3959,1756 2842,1715 481,1836"/>
+                <Baseline points="505,1894 645,1890 786,1886 927,1883 1068,1881 1209,1878 1349,1876 1490,1875 1631,1873 1772,1872 1913,1870 2053,1869 2194,1867 2335,1866 2476,1864 2617,1861 2757,1859 2898,1856 3039,1853 3180,1849 3321,1844 3431,1848 3456,1847 3481,1845 3507,1844 3532,1843 3558,1842 3583,1842 3608,1842 3634,1842 3659,1842 3685,1842 3710,1842 3735,1842 3761,1842 3786,1842 3812,1842 3837,1841 3862,1841 3888,1840 3913,1839 3939,1837"/>
+                <TextEquiv>
+                    <Unicode>in zwei Nebenbächen, die gleichfalls trocken liegen. Ich fand im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="506,2077 3636,2050 4042,1918 504,1942"/>
+                <Baseline points="530,2040 704,2034 878,2029 1053,2026 1227,2023 1402,2020 1576,2019 1751,2018 1925,2017 2100,2016 2274,2015 2448,2014 2623,2012 2797,2009 2972,2006 3146,2001 3321,1995 3495,1989 3670,1980 3844,1970 4019,1958"/>
+                <TextEquiv>
+                    <Unicode>Bett anstehend dasselbe grobe Konglomerat wie am Maimbui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="490,2247 3924,2196 3921,2003 941,2149 487,2072"/>
+                <Baseline points="512,2194 681,2193 851,2191 1020,2188 1190,2186 1359,2182 1529,2179 1698,2175 1868,2171 2037,2167 2207,2163 2377,2159 2546,2155 2716,2152 2885,2149 3055,2146 3224,2144 3394,2142 3563,2141 3733,2141 3903,2142"/>
+                <TextEquiv>
+                    <Unicode>darüber einen harten, hellen Kalk od. Sandstein, darunter(?),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="524,2449 1432,2327 4101,2369 4097,2105 3731,2250 2138,2167 521,2265"/>
+                <Baseline points="545,2362 626,2364 798,2356 971,2350 1143,2344 1316,2339 1489,2335 1661,2331 1834,2328 2006,2326 2179,2325 2352,2323 2524,2321 2697,2320 2869,2318 3042,2316 3215,2314 3387,2312 3560,2309 3732,2305 3905,2301 4078,2296"/>
+                <TextEquiv>
+                    <Unicode>wenigstens in einzelnen Blöcken wieder den harten dunkel„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;} textStyle {offset:15; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="533,2585 1314,2619 1724,2483 2004,2583 2226,2472 3829,2576 3902,2350 1997,2426 1417,2330 531,2441"/>
+                <Baseline points="556,2544 722,2526 888,2511 1055,2499 1221,2490 1387,2483 1554,2478 1720,2475 1886,2473 2053,2472 2219,2472 2385,2473 2552,2474 2718,2475 2884,2476 3051,2476 3217,2476 3383,2475 3550,2473 3716,2468 3883,2463"/>
+                <TextEquiv>
+                    <Unicode>roten „Porphyr“) d. Konglomerat (Trigonien-Sch.?, ohne Fossil„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="481,2817 1314,2681 1736,2786 2309,2657 4112,2716 4111,2586 479,2606"/>
+                <Baseline points="504,2693 601,2690 775,2688 949,2685 1124,2683 1298,2680 1473,2678 1647,2675 1822,2673 1996,2670 2171,2669 2345,2667 2519,2665 2694,2664 2868,2663 3043,2663 3217,2663 3392,2664 3566,2666 3741,2668 3915,2671 4090,2675"/>
+                <TextEquiv>
+                    <Unicode>spuren) anscheinend Wasserhorizont oder doch Grundwasser haltend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="721,2900 1104,2962 1616,2844 1965,2942 2844,2793 3600,2889 3971,2825 3967,2695 717,2775"/>
+                <Baseline points="743,2859 903,2859 1063,2858 1223,2856 1383,2852 1544,2848 1704,2843 1864,2838 2024,2832 2184,2827 2345,2821 2505,2815 2665,2810 2825,2804 2985,2799 3146,2796 3306,2792 3466,2790 3626,2789 3786,2789 3947,2791"/>
+                <TextEquiv>
+                    <Unicode>Beim Abstieg vom Namyura fiel mir wieder d. steilböschige,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582880385594_1008" custom="readingOrder {index:16;}">
+                <Coords points="466,3061 3516,3039 3976,2969 3973,2830 462,2886"/>
+                <Baseline points="489,3019 589,3014 690,3009 790,3005 891,3002 992,2999 1092,2996 1193,2994 1294,2992 1394,2990 1495,2988 1596,2987 1696,2986 1797,2986 1898,2985 1998,2985 2099,2985 2200,2985 2300,2985 2401,2985 2502,2985 2663,2963 2727,2962 2792,2961 2856,2959 2921,2957 2985,2955 3050,2953 3114,2950 3179,2947 3243,2944 3308,2942 3372,2939 3437,2936 3501,2935 3566,2932 3630,2931 3695,2930 3759,2930 3824,2930 3888,2930 3953,2932"/>
+                <TextEquiv>
+                    <Unicode>konkretionäre Gestein auf, das an sich gelb u. fleckig ist, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="469,3302 789,3194 3512,3203 3615,3173 3608,2940 2966,3075 2788,2976 2541,3104 2041,3029 1411,3132 1085,3033 465,3145"/>
+                <Baseline points="487,3190 642,3190 797,3190 952,3189 1107,3188 1262,3186 1417,3184 1572,3181 1727,3178 1882,3174 2038,3171 2193,3166 2348,3161 2503,3155 2658,3149 2813,3143 2968,3136 3123,3128 3278,3120 3433,3112 3589,3102 3681,3087 3744,3109"/>
+                <TextEquiv>
+                    <Unicode>anscheinend die roten Abstürze (der Makonde-Sch.) liefert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+                <Coords points="586,3385 3188,3407 3966,3333 3961,3145 583,3286"/>
+                <Baseline points="609,3335 775,3340 942,3344 1108,3346 1275,3347 1442,3347 1608,3346 1775,3344 1941,3341 2108,3338 2275,3332 2441,3327 2608,3321 2774,3315 2941,3308 3108,3300 3274,3292 3441,3284 3607,3275 3774,3266 3941,3258"/>
+                <TextEquiv>
+                    <Unicode>Darunter einander folgend feine weißgelbliche Sandsteine,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:19;}">
+                <Coords points="2252,3511 2491,3547 2636,3470 3063,3481 3151,3433 3338,3525 3501,3438 3822,3498 3900,3446 3896,3311 3720,3295 3499,3380 3268,3316 3172,3392 2981,3340 2809,3419 2537,3339 2248,3399"/>
+                <Baseline points="2271,3469 2351,3466 2431,3464 2511,3461 2592,3459 2672,3456 2752,3454 2832,3451 2913,3448 2993,3445 3073,3442 3153,3439 3234,3436 3314,3433 3394,3430 3474,3427 3555,3424 3635,3420 3715,3416 3795,3413 3876,3409"/>
+                <TextEquiv>
+                    <Unicode>Konglomerat d. Trigonien-Sch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:20;}">
+                <Coords points="2254,3633 2386,3690 2804,3584 3257,3702 3648,3588 4000,3655 3992,3440 3819,3500 3485,3441 3358,3523 3157,3436 2838,3525 2719,3467 2479,3548 2249,3512"/>
+                <Baseline points="2276,3623 2365,3615 2454,3607 2544,3601 2633,3596 2723,3591 2812,3587 2901,3583 2991,3580 3080,3578 3170,3575 3259,3573 3349,3570 3438,3569 3527,3565 3617,3562 3706,3559 3796,3556 3885,3550 3975,3545"/>
+                <TextEquiv>
+                    <Unicode>Feste rötliche „Sandsteine“ (laut. Auf„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:21;}">
+                <Coords points="654,3856 995,3811 1192,3879 1408,3784 1686,3892 2035,3789 2318,3883 2681,3807 2806,3856 2806,3699 2712,3659 2040,3735 1793,3614 1417,3708 654,3672"/>
+                <Baseline points="676,3783 781,3779 886,3775 991,3774 1097,3773 1202,3773 1307,3774 1413,3776 1518,3777 1623,3779 1729,3781 1834,3783 1939,3785 2044,3785 2150,3785 2255,3785 2360,3782 2466,3779 2571,3774 2676,3767 2782,3759"/>
+                <TextEquiv>
+                    <Unicode>zeichnung, vielleicht jenen „Porphyr?)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+                <Coords points="795,4031 1517,3977 1742,4074 2234,3964 2621,4078 3355,3966 3576,4072 3822,4048 3821,3824 794,3878"/>
+                <Baseline points="818,3991 967,3984 1116,3978 1265,3972 1414,3968 1563,3965 1712,3963 1861,3962 2010,3961 2159,3960 2309,3960 2458,3961 2607,3961 2756,3962 2905,3962 3054,3963 3203,3963 3352,3963 3501,3962 3650,3961 3800,3959"/>
+                <TextEquiv>
+                    <Unicode>Boheti, der durchaus allein gehen wollte, brachte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+                <Coords points="595,4234 3967,4225 3965,4054 3421,3999 594,4122"/>
+                <Baseline points="618,4193 784,4187 950,4181 1116,4176 1283,4171 1449,4167 1615,4163 1781,4160 1948,4157 2114,4154 2280,4151 2446,4150 2613,4148 2779,4147 2945,4146 3111,4145 3278,4145 3444,4145 3610,4145 3776,4146 3943,4147"/>
+                <TextEquiv>
+                    <Unicode>mir Knochenstücke von der von ihm entdeckten Fund„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:24;}">
+                <Coords points="580,4489 1164,4381 1722,4430 1863,4350 2184,4441 2529,4433 2631,4381 2628,4256 2135,4272 2039,4203 1822,4289 1645,4212 1306,4314 573,4229"/>
+                <Baseline points="599,4360 656,4366 753,4365 851,4364 948,4362 1046,4360 1144,4358 1241,4355 1339,4353 1436,4350 1534,4347 1632,4344 1729,4342 1827,4339 1924,4337 2022,4334 2120,4332 2217,4329 2315,4327 2412,4325 2510,4324 2608,4323"/>
+                <TextEquiv>
+                    <Unicode>stelle, ein wichtiger Fingerzeig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:25;}">
+                <Coords points="778,4566 3729,4578 3934,4501 3930,4322 775,4436"/>
+                <Baseline points="797,4512 952,4514 1108,4514 1264,4514 1419,4513 1575,4511 1731,4509 1886,4507 2042,4504 2198,4501 2354,4497 2509,4492 2665,4488 2821,4484 2976,4479 3132,4474 3288,4470 3443,4464 3599,4460 3755,4455 3911,4450"/>
+                <TextEquiv>
+                    <Unicode>Die Zeitbegriffe d. Schwarzen sind, wie ich schon öfters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:26;}">
+                <Coords points="570,4755 1961,4812 2475,4680 3279,4799 3856,4679 3855,4585 1684,4547 1515,4648 864,4553 569,4647"/>
+                <Baseline points="590,4696 712,4718 868,4711 1024,4705 1180,4700 1336,4696 1492,4694 1648,4692 1805,4690 1961,4689 2117,4689 2273,4688 2429,4687 2585,4687 2741,4686 2898,4684 3054,4682 3210,4678 3366,4675 3522,4670 3678,4663 3835,4655"/>
+                <TextEquiv>
+                    <Unicode>merkte, äußerst unzuverlässig. Von Verschiedenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>19&#xD;
+Steiler Abstieg, anfangs vorbei an malerisch auf&#xD;
+Vorsprüngen gelegenen Hütten, durch Felder, sehr hohes&#xD;
+u. dichtes Gras u. Busch. Lager am Ubolelo am Fuße v.&#xD;
+Namunda u. Namyura.&#xD;
+Nachm. Zum Brunnen gegangen, der auch d. Leute auf d.&#xD;
+Plateau versorgen muß, ein nicht versiegendes aber nicht&#xD;
+fließendes Wasserloch unweit des Ubolelo, der selbst kein&#xD;
+Wasser mehr führt, aber im Bett einige Austrittsstellen zeigt,&#xD;
+in zwei Nebenbächen, die gleichfalls trocken liegen. Ich fand im&#xD;
+Bett anstehend dasselbe grobe Konglomerat wie am Maimbui&#xD;
+darüber einen harten, hellen Kalk od. Sandstein, darunter(?),&#xD;
+wenigstens in einzelnen Blöcken wieder den harten dunkel„&#xD;
+roten „Porphyr“) d. Konglomerat (Trigonien-Sch.?, ohne Fossil„&#xD;
+spuren) anscheinend Wasserhorizont oder doch Grundwasser haltend.&#xD;
+Beim Abstieg vom Namyura fiel mir wieder d. steilböschige,&#xD;
+konkretionäre Gestein auf, das an sich gelb u. fleckig ist, aber&#xD;
+anscheinend die roten Abstürze (der Makonde-Sch.) liefert.&#xD;
+Darunter einander folgend feine weißgelbliche Sandsteine,&#xD;
+Konglomerat d. Trigonien-Sch.&#xD;
+Feste rötliche „Sandsteine“ (laut. Auf„&#xD;
+zeichnung, vielleicht jenen „Porphyr?)&#xD;
+Boheti, der durchaus allein gehen wollte, brachte&#xD;
+mir Knochenstücke von der von ihm entdeckten Fund„&#xD;
+stelle, ein wichtiger Fingerzeig.&#xD;
+Die Zeitbegriffe d. Schwarzen sind, wie ich schon öfters&#xD;
+merkte, äußerst unzuverlässig. Von Verschiedenen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

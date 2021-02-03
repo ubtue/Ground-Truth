@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:55.725+02:00</Created>
+        <LastChange>2020-04-01T09:18:51.701+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550755" pageNr="57" tsid="26820522" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=FHHYOFEZKKXLFPSBBMHJQZRE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WEGVCRMQINGTIAWPFYIONZWN" imageId="4551633"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_057.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255548320" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="335,188 343,4950 4079,4950 4071,188"/>
+            <TextLine id="line_1582888090432_2103" custom="readingOrder {index:0;}">
+                <Coords points="3642,293 3679,289 3698,271 3717,281 3736,268 3763,274 3787,251 3810,252 3815,104 3755,97 3727,120 3699,123 3676,104 3649,103"/>
+                <Baseline points="3665,254 3720,254 3787,258"/>
+                <TextEquiv>
+                    <Unicode>53</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l1" custom="readingOrder {index:1;}">
+                <Coords points="353,454 1828,370 1972,474 3124,464 3543,320 3979,402 3978,273 351,296"/>
+                <Baseline points="377,381 556,379 735,376 914,374 1093,371 1272,369 1451,366 1630,363 1809,360 1988,358 2167,355 2346,352 2525,350 2704,348 2883,346 3062,344 3241,342 3420,341 3599,340 3778,339 3957,339"/>
+                <TextEquiv>
+                    <Unicode>da ich sie nicht eher zu besitzen glaube, ehe sie wohl ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:2;}">
+                <Coords points="327,667 3896,507 3892,368 3521,345 322,464"/>
+                <Baseline points="347,566 523,561 699,555 875,550 1051,545 1228,540 1404,535 1580,530 1756,526 1932,521 2109,517 2285,513 2461,509 2637,505 2813,500 2990,496 3166,492 3342,487 3518,483 3694,479 3871,474"/>
+                <TextEquiv>
+                    <Unicode>packt liegen. Er schiebt es immer wieder hinaus. Soll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:3;}">
+                <Coords points="334,758 1725,682 2223,787 2894,636 3749,739 3951,691 3946,510 1487,634 938,549 331,670"/>
+                <Baseline points="358,726 536,718 714,710 893,703 1071,696 1250,690 1428,682 1606,677 1785,670 1963,664 2142,658 2320,653 2498,648 2677,643 2855,638 3034,634 3212,629 3390,625 3569,621 3747,617 3926,613"/>
+                <TextEquiv>
+                    <Unicode>eine neue Stelle in Angriff genommen werden, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582888101959_2113" custom="readingOrder {index:4;}">
+                <Coords points="331,920 584,1027 972,852 1185,980 2193,812 2711,934 3957,829 3953,694 700,727 329,846"/>
+                <Baseline points="351,892 528,885 705,878 883,871 1060,864 1238,856 1415,849 1593,843 1770,836 1948,830 2125,824 2302,818 2480,812 2657,806 2835,801 3012,796 3190,792 3367,787 3545,783 3722,779 3900,776 3911,807 3932,801"/>
+                <TextEquiv>
+                    <Unicode>muß er erst „überlegen“, was recht lange dauert u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="322,1117 1278,1177 1592,1039 2631,1100 2895,974 3588,1058 3966,1020 3960,858 317,988"/>
+                <Baseline points="343,1078 522,1073 702,1067 882,1060 1062,1052 1242,1044 1422,1035 1602,1026 1782,1017 1962,1008 2142,999 2321,991 2501,983 2681,976 2861,969 3041,964 3221,960 3401,957 3581,955 3761,955 3941,957"/>
+                <TextEquiv>
+                    <Unicode>d. Arbeiter müßig macht, u. doch ist es ziemlich gleich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="321,1288 1114,1335 2431,1142 3588,1239 4005,1032 316,1177"/>
+                <Baseline points="343,1244 525,1241 707,1237 889,1231 1072,1224 1254,1216 1436,1207 1618,1197 1801,1187 1983,1177 2165,1167 2347,1157 2530,1148 2712,1140 2894,1133 3076,1127 3259,1124 3441,1121 3623,1121 3805,1123 3988,1128"/>
+                <TextEquiv>
+                    <Unicode>wo u. wie gegraben wird u. die Funde selbst geben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="360,1471 1868,1341 2355,1455 2520,1327 2821,1430 3246,1291 3593,1388 3807,1198 2689,1274 2208,1178 356,1379"/>
+                <Baseline points="382,1423 552,1413 722,1404 892,1395 1062,1386 1233,1378 1403,1370 1573,1363 1743,1355 1913,1348 2084,1341 2254,1334 2424,1328 2594,1321 2764,1314 2935,1307 3105,1300 3275,1294 3445,1286 3615,1279 3786,1272"/>
+                <TextEquiv>
+                    <Unicode>nachher doch eine andre Richtung. Eine Arbeit zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="354,1721 718,1584 978,1698 1427,1576 2503,1626 2723,1472 3524,1562 3928,1498 3919,1285 2907,1437 344,1494"/>
+                <Baseline points="374,1609 550,1596 727,1585 903,1574 1080,1562 1256,1553 1433,1544 1609,1535 1786,1526 1962,1519 2139,1511 2316,1504 2492,1497 2669,1490 2845,1484 3022,1478 3198,1471 3375,1465 3551,1459 3728,1453 3905,1447"/>
+                <TextEquiv>
+                    <Unicode>Haus abzuschließen war ihm nicht möglich, es sollte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="378,1804 1260,1752 1394,1858 2850,1675 3248,1779 3957,1698 3982,1530 374,1725"/>
+                <Baseline points="401,1779 579,1774 757,1768 935,1762 1113,1754 1291,1747 1469,1738 1647,1730 1825,1722 2003,1713 2181,1705 2359,1696 2537,1688 2715,1680 2893,1672 3071,1665 3249,1659 3427,1653 3605,1648 3783,1643 3962,1640"/>
+                <TextEquiv>
+                    <Unicode>auf dem Dampfer, dann in Lindi geschehen u. sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="353,1977 2075,1982 2625,1840 3458,1939 3963,1845 3959,1744 3632,1663 3137,1789 348,1853"/>
+                <Baseline points="373,1945 551,1937 729,1929 908,1921 1086,1913 1265,1905 1443,1898 1621,1891 1800,1884 1978,1877 2157,1870 2335,1864 2513,1857 2692,1851 2870,1845 3049,1839 3227,1832 3405,1826 3584,1821 3762,1815 3941,1809"/>
+                <TextEquiv>
+                    <Unicode>wurde bis hierher mitgeschleppt, immer fühlte er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="363,2226 1680,2053 1930,2168 2818,2030 3053,2118 3738,1998 3793,1871 355,2037"/>
+                <Baseline points="383,2110 552,2103 722,2097 891,2091 1061,2085 1230,2078 1400,2073 1569,2066 1739,2060 1908,2054 2078,2047 2247,2040 2417,2034 2586,2027 2756,2019 2925,2012 3095,2004 3264,1996 3434,1988 3603,1979 3773,1969"/>
+                <TextEquiv>
+                    <Unicode>sich nicht „in Stimmung.“ Das Unglaublichste darin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="352,2357 4051,2118 3760,2003 346,2209"/>
+                <Baseline points="371,2274 553,2266 736,2257 919,2249 1102,2241 1285,2233 1468,2226 1650,2219 1833,2211 2016,2204 2199,2197 2382,2191 2565,2184 2748,2178 2930,2172 3113,2165 3296,2160 3479,2154 3662,2148 3845,2143 4028,2137"/>
+                <TextEquiv>
+                    <Unicode>leistet er im Briefschreiben, ehe er dazu kommt, sei„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="395,2457 1106,2397 1407,2520 3538,2313 4060,2414 4053,2224 3922,2187 391,2341"/>
+                <Baseline points="419,2423 599,2421 780,2418 961,2413 1142,2407 1323,2400 1503,2393 1684,2385 1865,2376 2046,2368 2227,2359 2407,2351 2588,2342 2769,2334 2950,2328 3131,2321 3311,2315 3492,2311 3673,2308 3854,2307 4035,2307"/>
+                <TextEquiv>
+                    <Unicode>ne Vorbereitungen trifft u. die Kleinigkeit erledigt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="373,2644 3795,2522 3789,2369 3626,2333 2710,2476 2323,2392 2146,2491 369,2524"/>
+                <Baseline points="397,2595 565,2590 734,2584 902,2579 1071,2573 1239,2568 1408,2561 1576,2556 1745,2550 1913,2544 2082,2538 2251,2531 2419,2525 2588,2519 2756,2514 2925,2508 3093,2502 3262,2497 3430,2492 3599,2487 3768,2482"/>
+                <TextEquiv>
+                    <Unicode>können Tage vergehen, nie kommen die Boten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="354,2794 3791,2719 4025,2670 4022,2559 351,2683"/>
+                <Baseline points="375,2743 556,2738 737,2731 919,2725 1100,2717 1282,2711 1463,2703 1644,2696 1826,2688 2007,2681 2189,2674 2370,2667 2551,2662 2733,2655 2914,2650 3096,2646 3277,2643 3458,2640 3640,2638 3821,2638 4003,2638"/>
+                <TextEquiv>
+                    <Unicode>morgens rechtzeitig fort. Wir hätten längst mit topo„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="382,3013 674,2891 997,2995 1492,2860 1931,2955 2154,2849 3865,2813 3971,2684 375,2828"/>
+                <Baseline points="402,2903 579,2896 757,2888 934,2881 1112,2874 1289,2866 1467,2859 1644,2852 1822,2845 1999,2838 2177,2831 2355,2824 2532,2817 2710,2811 2887,2805 3065,2799 3242,2793 3420,2787 3597,2781 3775,2776 3953,2771"/>
+                <TextEquiv>
+                    <Unicode>graph. u. geolog. Aufnahmen beginnen können u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="347,3121 2975,2969 3104,3066 3266,2953 3882,2966 3876,2808 994,2984 676,2890 342,3005"/>
+                <Baseline points="367,3083 541,3070 716,3057 890,3046 1065,3035 1240,3025 1414,3017 1589,3008 1763,3000 1938,2993 2113,2987 2287,2980 2462,2974 2636,2969 2811,2964 2986,2959 3160,2954 3335,2950 3509,2945 3684,2941 3859,2937"/>
+                <TextEquiv>
+                    <Unicode>sollen - der Theodulit schlummert noch in Lindi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="359,3273 4072,3147 4065,2967 3569,2954 353,3116"/>
+                <Baseline points="381,3242 564,3233 747,3224 930,3216 1114,3207 1297,3199 1480,3191 1664,3185 1847,3177 2030,3171 2214,3163 2397,3156 2580,3150 2763,3143 2947,3137 3130,3130 3313,3123 3497,3117 3680,3110 3863,3102 4047,3095"/>
+                <TextEquiv>
+                    <Unicode>trotz mancher Anzapfung meinerseits. Er wollte nachts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="355,3425 1275,3485 2874,3302 3165,3406 3789,3264 4034,3361 4098,3112 353,3361"/>
+                <Baseline points="379,3405 564,3398 749,3390 934,3382 1119,3374 1304,3365 1489,3357 1674,3349 1859,3340 2044,3332 2229,3324 2414,3316 2599,3308 2784,3300 2969,3293 3154,3286 3339,3280 3524,3273 3709,3267 3894,3262 4079,3257"/>
+                <TextEquiv>
+                    <Unicode>eine Falle f. Insekten u. Schmetterlinge aufstellen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="354,3570 3993,3464 3988,3330 3635,3296 351,3478"/>
+                <Baseline points="377,3548 556,3541 735,3533 915,3526 1094,3520 1274,3514 1453,3508 1633,3501 1812,3496 1992,3490 2171,3484 2350,3478 2530,3472 2709,3466 2889,3460 3068,3453 3248,3446 3427,3439 3607,3431 3786,3422 3966,3413"/>
+                <TextEquiv>
+                    <Unicode>ein hübscher Gedanke, seine schon ansehnliche Samm„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;} textStyle {offset:11; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="383,3768 4075,3689 4065,3416 3265,3575 378,3625"/>
+                <Baseline points="403,3727 585,3719 767,3710 949,3702 1131,3694 1314,3687 1496,3680 1678,3672 1860,3666 2042,3659 2225,3652 2407,3646 2589,3640 2771,3633 2953,3627 3136,3621 3318,3616 3500,3610 3682,3603 3864,3597 4047,3591"/>
+                <TextEquiv>
+                    <Unicode>lung zu verfvollständigen; Neumond im Juni sollte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="391,4016 1379,3833 2632,3903 2914,3774 3409,3878 3727,3748 4042,3845 3916,3605 3726,3711 3509,3618 3106,3734 382,3799"/>
+                <Baseline points="411,3906 591,3895 771,3886 951,3877 1131,3867 1312,3859 1492,3851 1672,3843 1852,3835 2032,3827 2213,3819 2393,3812 2573,3804 2753,3797 2933,3790 3114,3782 3294,3773 3474,3766 3654,3758 3834,3749 4015,3739"/>
+                <TextEquiv>
+                    <Unicode>sie aufgestellt werden - er brütet noch heut über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:23;}">
+                <Coords points="465,4193 1328,4013 1824,4120 2035,3994 2480,4103 3998,3971 3991,3814 3702,3781 3457,3890 3105,3800 2671,3932 1488,3871 456,3985"/>
+                <Baseline points="485,4074 659,4064 833,4056 1007,4047 1182,4039 1356,4032 1530,4025 1705,4017 1879,4010 2053,4003 2228,3995 2402,3988 2576,3980 2750,3972 2925,3964 3099,3954 3273,3946 3448,3935 3622,3924 3796,3912 3971,3900"/>
+                <TextEquiv>
+                    <Unicode>Zeichnungen, Entwürfen, Anfängen, obwohl er meinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:24;}">
+                <Coords points="447,4336 2702,4148 2924,4239 3177,4105 3438,4217 3871,4084 3864,3955 2478,4104 2050,3991 1914,4128 440,4202"/>
+                <Baseline points="465,4253 634,4243 803,4233 972,4223 1141,4215 1310,4206 1479,4198 1648,4189 1817,4182 1986,4174 2156,4166 2325,4158 2494,4149 2663,4142 2832,4133 3001,4124 3170,4115 3339,4106 3508,4095 3677,4085 3847,4073"/>
+                <TextEquiv>
+                    <Unicode>ihm in 10 Min. aufgezeichneten Entwurf gleichfalls</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:25;}">
+                <Coords points="455,4457 769,4530 929,4397 1170,4483 1340,4373 1896,4462 2085,4341 2580,4443 2806,4311 3204,4413 3902,4286 3896,4152 3321,4231 3166,4104 2960,4248 449,4337"/>
+                <Baseline points="479,4424 648,4410 818,4397 988,4387 1158,4377 1328,4369 1497,4362 1667,4355 1837,4349 2007,4344 2177,4338 2346,4332 2516,4326 2686,4318 2856,4311 3026,4301 3195,4291 3365,4278 3535,4264 3705,4249 3875,4230"/>
+                <TextEquiv>
+                    <Unicode>brauchbar fand. Nach fast einem halben Jahr hat er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:26;}">
+                <Coords points="434,4595 664,4684 941,4549 1976,4484 2577,4588 3118,4457 3844,4570 3906,4341 765,4407 432,4540"/>
+                <Baseline points="457,4592 628,4571 800,4554 971,4540 1143,4527 1314,4517 1486,4509 1657,4503 1829,4497 2000,4493 2172,4490 2343,4487 2515,4484 2686,4481 2858,4477 3029,4473 3201,4468 3372,4461 3544,4453 3715,4442 3887,4430"/>
+                <TextEquiv>
+                    <Unicode>noch kaum etwas von der Umgebung gesehen u. ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:27;}">
+                <Coords points="491,4823 2628,4647 3234,4748 3400,4625 3920,4656 3913,4471 485,4662"/>
+                <Baseline points="510,4753 679,4739 848,4726 1017,4714 1186,4703 1355,4694 1524,4684 1694,4675 1863,4668 2032,4661 2201,4654 2370,4649 2539,4643 2708,4638 2878,4633 3047,4630 3216,4625 3385,4622 3554,4619 3723,4616 3893,4613"/>
+                <TextEquiv>
+                    <Unicode>habe ihm meine beiden kleinen Ausflüge abrin„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:28;}">
+                <Coords points="443,5016 1492,4850 1733,4981 2496,4816 2893,4936 3329,4814 3702,4913 3826,4885 3819,4663 975,4743 437,4868"/>
+                <Baseline points="460,4911 626,4896 793,4882 960,4870 1127,4859 1294,4850 1461,4842 1628,4836 1795,4830 1962,4824 2129,4820 2295,4816 2462,4812 2629,4808 2796,4805 2963,4801 3130,4797 3297,4793 3464,4788 3631,4782 3798,4776"/>
+                <TextEquiv>
+                    <Unicode>gen müssen. Um nicht unbescheiden zu sein, muß ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>53&#xD;
+da ich sie nicht eher zu besitzen glaube, ehe sie wohl ver„&#xD;
+packt liegen. Er schiebt es immer wieder hinaus. Soll&#xD;
+eine neue Stelle in Angriff genommen werden, so&#xD;
+muß er erst „überlegen“, was recht lange dauert u.&#xD;
+d. Arbeiter müßig macht, u. doch ist es ziemlich gleich,&#xD;
+wo u. wie gegraben wird u. die Funde selbst geben&#xD;
+nachher doch eine andre Richtung. Eine Arbeit zu&#xD;
+Haus abzuschließen war ihm nicht möglich, es sollte&#xD;
+auf dem Dampfer, dann in Lindi geschehen u. sie&#xD;
+wurde bis hierher mitgeschleppt, immer fühlte er&#xD;
+sich nicht „in Stimmung.“ Das Unglaublichste darin&#xD;
+leistet er im Briefschreiben, ehe er dazu kommt, sei„&#xD;
+ne Vorbereitungen trifft u. die Kleinigkeit erledigt,&#xD;
+können Tage vergehen, nie kommen die Boten&#xD;
+morgens rechtzeitig fort. Wir hätten längst mit topo„&#xD;
+graph. u. geolog. Aufnahmen beginnen können u.&#xD;
+sollen - der Theodulit schlummert noch in Lindi&#xD;
+trotz mancher Anzapfung meinerseits. Er wollte nachts&#xD;
+eine Falle f. Insekten u. Schmetterlinge aufstellen,&#xD;
+ein hübscher Gedanke, seine schon ansehnliche Samm„&#xD;
+lung zu verfvollständigen; Neumond im Juni sollte&#xD;
+sie aufgestellt werden - er brütet noch heut über&#xD;
+Zeichnungen, Entwürfen, Anfängen, obwohl er meinen&#xD;
+ihm in 10 Min. aufgezeichneten Entwurf gleichfalls&#xD;
+brauchbar fand. Nach fast einem halben Jahr hat er&#xD;
+noch kaum etwas von der Umgebung gesehen u. ich&#xD;
+habe ihm meine beiden kleinen Ausflüge abrin„&#xD;
+gen müssen. Um nicht unbescheiden zu sein, muß ich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-02-02T09:45:33.23+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5170" WIDTH="4305">
+         <TopMargin HEIGHT="0" WIDTH="4305" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5170" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5170" WIDTH="0" VPOS="0" HPOS="4305"/>
+         <BottomMargin HEIGHT="0" WIDTH="4305" VPOS="5170" HPOS="0"/>
+         <PrintSpace HEIGHT="5170" WIDTH="4305" VPOS="0" HPOS="0">
+            <TextBlock ID="r4" HEIGHT="314" WIDTH="1327" VPOS="274" HPOS="2033">
+               <Shape>
+                  <Polygon POINTS="2033,274 2033,588 3360,588 3360,274"/>
+               </Shape>
+               <TextLine ID="r4l1"
+                         BASELINE="480"
+                         HEIGHT="303"
+                         WIDTH="987"
+                         VPOS="177"
+                         HPOS="2201">
+                  <String ID="string_r4l1"
+                          HEIGHT="303"
+                          WIDTH="987"
+                          VPOS="177"
+                          HPOS="2201"
+                          CONTENT="Dr. Edw. Hennig"/>
+               </TextLine>
+               <TextLine ID="r4l2"
+                         BASELINE="585"
+                         HEIGHT="250"
+                         WIDTH="1346"
+                         VPOS="335"
+                         HPOS="2022">
+                  <String ID="string_r4l2"
+                          HEIGHT="250"
+                          WIDTH="1346"
+                          VPOS="335"
+                          HPOS="2022"
+                          CONTENT="Berlin N. 4. Invalidenstr. 43."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1582818563386_1171"
+                       HEIGHT="189"
+                       WIDTH="1016"
+                       VPOS="707"
+                       HPOS="858">
+               <Shape>
+                  <Polygon POINTS="858,743 970,707 1874,707 1874,885 942,896 858,896"/>
+               </Shape>
+               <TextLine ID="line_1582818568016_1176"
+                         BASELINE="865"
+                         HEIGHT="172"
+                         WIDTH="1038"
+                         VPOS="693"
+                         HPOS="845">
+                  <String ID="string_line_1582818568016_1176"
+                          HEIGHT="172"
+                          WIDTH="1038"
+                          VPOS="693"
+                          HPOS="845"
+                          CONTENT="11.III. 1909 - 28.IV. 10"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

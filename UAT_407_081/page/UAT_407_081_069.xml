@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:37.345+02:00</Created>
+        <LastChange>2020-04-02T16:20:44.419+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7550950" pageNr="69" tsid="26895165" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=TGZBAXUYELBZRFLUQYIORBWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IHXTYENOOUDTHGYQTESNEBBL" imageId="4551828"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_069.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256488082" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+                <RegionRefIndexed index="1" regionRef="region_1567148886886_657"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="295,242 319,2692 4078,2692 4054,242"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3476,307 3510,302 3545,300 3545,242 3510,244 3476,249"/>
+                <Baseline points="3476,288 3510,283 3545,281"/>
+                <TextEquiv>
+                    <Unicode>67</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:1;} textStyle {offset:52; length:8;underlined:true; fontSize:0.0; kerning:0;} unclear {offset:52; length:8;}">
+                <Coords points="474,411 642,406 811,402 980,398 1149,395 1318,392 1486,390 1655,389 1824,388 1993,387 2162,387 2330,386 2499,386 2668,386 2837,386 3006,385 3174,385 3343,384 3512,383 3681,382 3850,380 3850,320 3681,322 3512,323 3343,324 3174,325 3006,325 2837,326 2668,326 2499,326 2330,326 2162,327 1993,327 1824,328 1655,329 1486,330 1318,332 1149,335 980,338 811,342 642,346 474,351"/>
+                <Baseline points="474,391 642,386 811,382 980,378 1149,375 1318,372 1486,370 1655,369 1824,368 1993,367 2162,367 2330,366 2499,366 2668,366 2837,366 3006,365 3174,365 3343,364 3512,363 3681,362 3850,360"/>
+                <TextEquiv>
+                    <Unicode>beutet. Zahllose Spuren von Elephanten am Rande des frischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1566307856057_752" custom="readingOrder {index:2;}">
+                <Coords points="3868,264 3988,283 4044,294 4034,343 3979,332 3860,313"/>
+                <Baseline points="3861,308 3980,327 4035,338"/>
+                <TextEquiv>
+                    <Unicode>hohen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="473,582 639,575 805,568 971,562 1138,555 1304,549 1470,542 1636,537 1803,532 1969,528 2135,524 2301,521 2468,518 2634,516 2800,516 2966,516 3133,517 3299,519 3465,522 3631,527 3798,533 3798,463 3631,457 3465,452 3299,449 3133,447 2966,446 2800,446 2634,446 2468,448 2301,451 2135,454 1969,458 1803,462 1636,467 1470,472 1304,479 1138,485 971,492 805,498 639,505 473,512"/>
+                <Baseline points="473,559 639,552 805,545 971,539 1138,532 1304,526 1470,519 1636,514 1803,509 1969,505 2135,501 2301,498 2468,495 2634,493 2800,493 2966,493 3133,494 3299,496 3465,499 3631,504 3798,510"/>
+                <TextEquiv>
+                    <Unicode>Grases, wenn auch keine frischen. Lager im Westende von </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="487,752 619,741 752,731 885,723 1018,714 1151,707 1284,700 1417,693 1550,687 1683,682 1816,677 1948,673 2081,669 2214,666 2347,663 2480,661 2613,659 2746,658 2879,657 3012,656 3145,655 3145,585 3012,586 2879,587 2746,588 2613,589 2480,591 2347,593 2214,596 2081,599 1948,603 1816,607 1683,612 1550,617 1417,623 1284,630 1151,637 1018,644 885,653 752,661 619,671 487,682"/>
+                <Baseline points="487,729 619,718 752,708 885,700 1018,691 1151,684 1284,677 1417,670 1550,664 1683,659 1816,654 1948,650 2081,646 2214,643 2347,640 2480,638 2613,636 2746,635 2879,634 3012,633 3145,632"/>
+                <TextEquiv>
+                    <Unicode>Kigombo, etwa ½ Std. vom vorjährigen Zeltplatz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="690,889 857,887 1024,885 1191,881 1358,877 1525,872 1692,867 1859,862 2026,856 2193,850 2361,844 2528,839 2695,834 2862,829 3029,826 3196,823 3363,821 3530,820 3697,821 3864,823 4032,827 4032,757 3864,753 3697,751 3530,750 3363,751 3196,753 3029,756 2862,759 2695,764 2528,769 2361,774 2193,780 2026,786 1859,792 1692,797 1525,802 1358,807 1191,811 1024,815 857,817 690,819"/>
+                <Baseline points="690,866 857,864 1024,862 1191,858 1358,854 1525,849 1692,844 1859,839 2026,833 2193,827 2361,821 2528,816 2695,811 2862,806 3029,803 3196,800 3363,798 3530,797 3697,798 3864,800 4032,804"/>
+                <TextEquiv>
+                    <Unicode>Nachm. die hiesigen versteinerungsführenden Schichten nochmals</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="499,1033 673,1030 848,1026 1023,1021 1198,1016 1373,1010 1547,1004 1722,998 1897,991 2072,985 2247,979 2421,972 2596,966 2771,960 2946,955 3121,951 3295,947 3470,944 3645,942 3820,941 3995,941 3995,871 3820,871 3645,872 3470,874 3295,877 3121,881 2946,885 2771,890 2596,896 2421,902 2247,909 2072,915 1897,921 1722,928 1547,934 1373,940 1198,946 1023,951 848,956 673,960 499,963"/>
+                <Baseline points="499,1010 673,1007 848,1003 1023,998 1198,993 1373,987 1547,981 1722,975 1897,968 2072,962 2247,956 2421,949 2596,943 2771,937 2946,932 3121,928 3295,924 3470,921 3645,919 3820,918 3995,918"/>
+                <TextEquiv>
+                    <Unicode>angesehen u. ausgebeutet. In dem Brunnenloch Sedimente (Sand„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="483,1181 656,1177 830,1172 1004,1166 1178,1160 1352,1152 1525,1143 1699,1135 1873,1126 2047,1118 2221,1109 2394,1102 2568,1094 2742,1089 2916,1083 3090,1079 3263,1077 3437,1076 3611,1077 3785,1080 3959,1086 3959,1016 3785,1010 3611,1007 3437,1006 3263,1007 3090,1009 2916,1013 2742,1019 2568,1024 2394,1032 2221,1039 2047,1048 1873,1056 1699,1065 1525,1073 1352,1082 1178,1090 1004,1096 830,1102 656,1107 483,1111"/>
+                <Baseline points="483,1158 656,1154 830,1149 1004,1143 1178,1137 1352,1129 1525,1120 1699,1112 1873,1103 2047,1095 2221,1086 2394,1079 2568,1071 2742,1066 2916,1060 3090,1056 3263,1054 3437,1053 3611,1054 3785,1057 3959,1063"/>
+                <TextEquiv>
+                    <Unicode>steinbänke) bis ca 1 m. unter d. Niveau der Grasebene. Kein </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="493,1352 603,1343 714,1334 824,1326 935,1319 1045,1312 1156,1305 1266,1299 1377,1293 1487,1288 1598,1283 1709,1278 1819,1274 1930,1270 2040,1266 2151,1263 2261,1259 2372,1257 2482,1253 2593,1250 2704,1248 2704,1178 2593,1180 2482,1183 2372,1187 2261,1189 2151,1193 2040,1196 1930,1200 1819,1204 1709,1208 1598,1213 1487,1218 1377,1223 1266,1229 1156,1235 1045,1242 935,1249 824,1256 714,1264 603,1273 493,1282"/>
+                <Baseline points="493,1329 603,1320 714,1311 824,1303 935,1296 1045,1289 1156,1282 1266,1276 1377,1270 1487,1265 1598,1260 1709,1255 1819,1251 1930,1247 2040,1243 2151,1240 2261,1236 2372,1234 2482,1230 2593,1227 2704,1225"/>
+                <TextEquiv>
+                    <Unicode>Gneißuntergrund sichtbar seit Nakihu!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="727,1543 888,1542 1050,1540 1211,1538 1373,1534 1534,1531 1696,1527 1857,1522 2019,1517 2180,1511 2342,1506 2503,1501 2665,1495 2826,1490 2988,1485 3149,1479 3311,1474 3472,1470 3634,1465 3795,1461 3957,1458 3957,1388 3795,1391 3634,1395 3472,1400 3311,1404 3149,1409 2988,1415 2826,1420 2665,1425 2503,1431 2342,1436 2180,1441 2019,1447 1857,1452 1696,1457 1534,1461 1373,1464 1211,1468 1050,1470 888,1472 727,1473"/>
+                <Baseline points="727,1520 888,1519 1050,1517 1211,1515 1373,1511 1534,1508 1696,1504 1857,1499 2019,1494 2180,1488 2342,1483 2503,1478 2665,1472 2826,1467 2988,1462 3149,1456 3311,1451 3472,1447 3634,1442 3795,1438 3957,1435"/>
+                <TextEquiv>
+                    <Unicode>16. Nov. Im Dunkeln fort, um noch einmal Flußpferde sehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="585,1691 750,1687 916,1684 1081,1680 1247,1675 1413,1671 1578,1667 1744,1662 1909,1658 2075,1654 2241,1650 2406,1646 2572,1642 2737,1639 2903,1636 3069,1634 3234,1632 3400,1631 3565,1631 3731,1631 3897,1632 3897,1562 3731,1561 3565,1561 3400,1561 3234,1562 3069,1564 2903,1566 2737,1569 2572,1572 2406,1576 2241,1580 2075,1584 1909,1588 1744,1592 1578,1597 1413,1601 1247,1605 1081,1610 916,1614 750,1617 585,1621"/>
+                <Baseline points="585,1668 750,1664 916,1661 1081,1657 1247,1652 1413,1648 1578,1644 1744,1639 1909,1635 2075,1631 2241,1627 2406,1623 2572,1619 2737,1616 2903,1613 3069,1611 3234,1609 3400,1608 3565,1608 3731,1608 3897,1609"/>
+                <TextEquiv>
+                    <Unicode>zu können. Auch war mir der Marsch zum Mto Nyangi am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="571,1852 735,1849 900,1844 1065,1839 1229,1834 1394,1828 1559,1822 1723,1816 1888,1811 2053,1806 2218,1801 2382,1796 2547,1792 2712,1789 2876,1787 3041,1786 3206,1785 3370,1787 3535,1789 3700,1793 3865,1799 3865,1729 3700,1723 3535,1719 3370,1717 3206,1715 3041,1716 2876,1717 2712,1719 2547,1722 2382,1726 2218,1731 2053,1736 1888,1741 1723,1746 1559,1752 1394,1758 1229,1764 1065,1769 900,1774 735,1779 571,1782"/>
+                <Baseline points="571,1829 735,1826 900,1821 1065,1816 1229,1811 1394,1805 1559,1799 1723,1793 1888,1788 2053,1783 2218,1778 2382,1773 2547,1769 2712,1766 2876,1764 3041,1763 3206,1762 3370,1764 3535,1766 3700,1770 3865,1776"/>
+                <TextEquiv>
+                    <Unicode>Fuß des Itukuru-Mbalawala geologisch wichtig. Kreuzte am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="559,2000 721,1994 883,1989 1045,1984 1207,1980 1369,1976 1531,1972 1693,1969 1855,1967 2017,1964 2179,1962 2341,1960 2503,1959 2665,1957 2827,1956 2989,1954 3151,1953 3313,1951 3475,1949 3637,1947 3799,1945 3799,1875 3637,1877 3475,1879 3313,1881 3151,1883 2989,1884 2827,1886 2665,1887 2503,1889 2341,1890 2179,1892 2017,1894 1855,1897 1693,1899 1531,1902 1369,1906 1207,1910 1045,1914 883,1919 721,1924 559,1930"/>
+                <Baseline points="559,1977 721,1971 883,1966 1045,1961 1207,1957 1369,1953 1531,1949 1693,1946 1855,1944 2017,1941 2179,1939 2341,1937 2503,1936 2665,1934 2827,1933 2989,1931 3151,1930 3313,1928 3475,1926 3637,1924 3799,1922"/>
+                <TextEquiv>
+                    <Unicode>vorjährigen Lagerplatz den Nakanyanga, der in d. Kigombo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="556,2175 720,2168 884,2162 1048,2157 1212,2152 1376,2148 1540,2145 1705,2142 1869,2139 2033,2137 2197,2135 2361,2133 2525,2130 2689,2129 2854,2126 3018,2124 3182,2121 3346,2118 3510,2114 3674,2110 3839,2105 3839,2035 3674,2040 3510,2044 3346,2048 3182,2051 3018,2054 2854,2056 2689,2059 2525,2060 2361,2063 2197,2065 2033,2067 1869,2069 1705,2072 1540,2075 1376,2078 1212,2082 1048,2087 884,2092 720,2098 556,2105"/>
+                <Baseline points="556,2152 720,2145 884,2139 1048,2134 1212,2129 1376,2125 1540,2122 1705,2119 1869,2116 2033,2114 2197,2112 2361,2110 2525,2107 2689,2106 2854,2103 3018,2101 3182,2098 3346,2095 3510,2091 3674,2087 3839,2082"/>
+                <TextEquiv>
+                    <Unicode>geht, ließ die Barrabarra Itukuru-Kiswere bezw. Kilwa links, ging</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="562,2324 730,2316 899,2309 1068,2304 1237,2298 1406,2293 1575,2289 1743,2285 1912,2282 2081,2279 2250,2276 2419,2274 2588,2272 2757,2270 2925,2269 3094,2267 3263,2266 3432,2264 3601,2263 3770,2262 3993,2257 3993,2187 3770,2192 3601,2193 3432,2194 3263,2196 3094,2197 2925,2199 2757,2200 2588,2202 2419,2204 2250,2206 2081,2209 1912,2212 1743,2215 1575,2219 1406,2223 1237,2228 1068,2234 899,2239 730,2246 562,2254"/>
+                <Baseline points="562,2301 730,2293 899,2286 1068,2281 1237,2275 1406,2270 1575,2266 1743,2262 1912,2259 2081,2256 2250,2253 2419,2251 2588,2249 2757,2247 2925,2246 3094,2244 3263,2243 3432,2241 3601,2240 3818,2239 3987,2238"/>
+                <TextEquiv>
+                    <Unicode>ein wenig am Plateaufuß hin, anscheinend nicht allzuweit vom Mben-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="578,2464 750,2456 923,2450 1095,2445 1268,2441 1440,2439 1613,2437 1786,2436 1958,2435 2131,2434 2303,2434 2476,2434 2648,2433 2821,2432 2994,2431 3166,2429 3339,2426 3511,2422 3684,2417 3857,2411 3857,2341 3684,2347 3511,2352 3339,2356 3166,2359 2994,2361 2821,2362 2648,2363 2476,2364 2303,2364 2131,2364 1958,2365 1786,2366 1613,2367 1440,2369 1268,2371 1095,2375 923,2380 750,2386 578,2394"/>
+                <Baseline points="578,2441 750,2433 923,2427 1095,2422 1268,2418 1440,2416 1613,2414 1786,2413 1958,2412 2131,2411 2303,2411 2476,2411 2648,2410 2821,2409 2994,2408 3166,2406 3339,2403 3511,2399 3684,2394 3857,2388"/>
+                <TextEquiv>
+                    <Unicode>kuru, dann in ein breit ausmündendes Tal u. über seine linke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="542,2589 711,2581 880,2574 1049,2568 1218,2562 1387,2559 1556,2555 1726,2553 1895,2550 2064,2549 2233,2548 2402,2547 2571,2547 2740,2546 2910,2546 3079,2546 3248,2546 3417,2546 3586,2545 3755,2544 3925,2543 3925,2473 3755,2474 3586,2475 3417,2476 3248,2476 3079,2476 2910,2476 2740,2476 2571,2477 2402,2477 2233,2478 2064,2479 1895,2480 1726,2483 1556,2485 1387,2489 1218,2492 1049,2498 880,2504 711,2511 542,2519"/>
+                <Baseline points="542,2566 711,2558 880,2551 1049,2545 1218,2539 1387,2536 1556,2532 1726,2530 1895,2527 2064,2526 2233,2525 2402,2524 2571,2524 2740,2523 2910,2523 3079,2523 3248,2523 3417,2523 3586,2522 3755,2521 3925,2520"/>
+                <TextEquiv>
+                    <Unicode>Flanke aufwärts zu Hütten: Liala. Versteinerungführende, aber harte u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="523,2721 694,2712 865,2703 1037,2695 1208,2687 1379,2681 1551,2675 1722,2670 1893,2666 2065,2663 2236,2660 2407,2658 2579,2657 2750,2657 2921,2657 3093,2658 3264,2660 3435,2663 3607,2666 3778,2670 3950,2675 3950,2633 3778,2628 3607,2624 3435,2621 3264,2618 3093,2616 2921,2615 2750,2615 2579,2615 2407,2616 2236,2618 2065,2621 1893,2624 1722,2628 1551,2633 1379,2639 1208,2645 1037,2653 865,2661 694,2670 523,2679"/>
+                <Baseline points="523,2707 694,2698 865,2689 1037,2681 1208,2673 1379,2667 1551,2661 1722,2656 1893,2652 2065,2649 2236,2646 2407,2644 2579,2643 2750,2643 2921,2643 3093,2644 3264,2646 3435,2649 3607,2652 3778,2656 3950,2661"/>
+                <TextEquiv>
+                    <Unicode>schlecht brechende Gesteinsschicht, an Proben vom Likonde-Fuß erinnernd?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>67
+beutet. Zahllose Spuren von Elephanten am Rande des frischen
+hohen
+Grases, wenn auch keine frischen. Lager im Westende von 
+Kigombo, etwa ½ Std. vom vorjährigen Zeltplatz.
+Nachm. die hiesigen versteinerungsführenden Schichten nochmals
+angesehen u. ausgebeutet. In dem Brunnenloch Sedimente (Sand„
+steinbänke) bis ca 1 m. unter d. Niveau der Grasebene. Kein 
+Gneißuntergrund sichtbar seit Nakihu!
+16. Nov. Im Dunkeln fort, um noch einmal Flußpferde sehen
+zu können. Auch war mir der Marsch zum Mto Nyangi am
+Fuß des Itukuru-Mbalawala geologisch wichtig. Kreuzte am
+vorjährigen Lagerplatz den Nakanyanga, der in d. Kigombo
+geht, ließ die Barrabarra Itukuru-Kiswere bezw. Kilwa links, ging
+ein wenig am Plateaufuß hin, anscheinend nicht allzuweit vom Mben-
+kuru, dann in ein breit ausmündendes Tal u. über seine linke
+Flanke aufwärts zu Hütten: Liala. Versteinerungführende, aber harte u.
+schlecht brechende Gesteinsschicht, an Proben vom Likonde-Fuß erinnernd?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1567148886886_657" custom="readingOrder {index:1;} structure {type:graphic;}">
+            <Coords points="183,2669 4050,2669 4050,5048 183,5048"/>
+            <TextLine id="line_1567149070490_754" custom="readingOrder {index:0;}">
+                <Coords points="2739,2653 2862,2673 2926,2716 2956,2722 3134,2771 3121,2819 2944,2771 2906,2762 2844,2720 2731,2703"/>
+                <Baseline points="2732,2698 2846,2715 2908,2757 2945,2766 3122,2814"/>
+                <TextEquiv>
+                    <Unicode>Itukuru</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149087480_774" custom="readingOrder {index:1;}">
+                <Coords points="3712,2693 4028,2804 4011,2851 3695,2740"/>
+                <Baseline points="3697,2735 4013,2846"/>
+                <TextEquiv>
+                    <Unicode>Naikumba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567148949742_701" custom="readingOrder {index:2;}">
+                <Coords points="365,3284 466,3367 585,3428 562,3472 438,3409 333,3323"/>
+                <Baseline points="336,3319 441,3405 564,3468"/>
+                <TextEquiv>
+                    <Unicode>Nakanyanga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567148942679_696" custom="readingOrder {index:3;}">
+                <Coords points="351,3435 559,3577 531,3618 323,3476"/>
+                <Baseline points="326,3472 534,3614"/>
+                <TextEquiv>
+                    <Unicode>Kigombo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567148929275_681" custom="readingOrder {index:4;}">
+                <Coords points="1176,2922 1318,3024 1289,3065 1147,2963"/>
+                <Baseline points="1150,2959 1292,3061"/>
+                <TextEquiv>
+                    <Unicode>Liala</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567148938521_691" custom="readingOrder {index:5;}">
+                <Coords points="1020,3157 1130,3279 1093,3312 983,3190"/>
+                <Baseline points="987,3187 1097,3309"/>
+                <TextEquiv>
+                    <Unicode>Liala</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567148934668_686" custom="readingOrder {index:6;}">
+                <Coords points="1436,3105 1525,3174 1494,3214 1405,3145"/>
+                <Baseline points="1408,3141 1497,3210"/>
+                <TextEquiv>
+                    <Unicode>Liala</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149074800_759" custom="readingOrder {index:7;}">
+                <Coords points="2389,2855 2634,2849 2635,2899 2390,2905"/>
+                <Baseline points="2390,2900 2635,2894"/>
+                <TextEquiv>
+                    <Unicode>Nossa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149079335_764" custom="readingOrder {index:8;}">
+                <Coords points="2386,3046 2659,3023 2663,3073 2390,3096"/>
+                <Baseline points="2390,3091 2663,3068"/>
+                <TextEquiv>
+                    <Unicode>Itukuli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149083734_769" custom="readingOrder {index:9;}">
+                <Coords points="2364,3146 2572,3104 2582,3153 2374,3195"/>
+                <Baseline points="2373,3190 2581,3148"/>
+                <TextEquiv>
+                    <Unicode>Route</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149092653_779" custom="readingOrder {index:10;}">
+                <Coords points="3739,3033 4032,3119 4018,3167 3725,3081"/>
+                <Baseline points="3726,3076 4019,3162"/>
+                <TextEquiv>
+                    <Unicode>Mto Nyangi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149098161_784" custom="readingOrder {index:11;}">
+                <Coords points="3640,3106 3942,3183 3930,3232 3628,3155"/>
+                <Baseline points="3629,3150 3931,3227"/>
+                <TextEquiv>
+                    <Unicode>(Quelle des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149102616_789" custom="readingOrder {index:12;}">
+                <Coords points="3728,3237 4030,3311 4018,3360 3716,3286"/>
+                <Baseline points="3717,3281 4019,3355"/>
+                <TextEquiv>
+                    <Unicode>Makumba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567148955494_706" custom="readingOrder {index:13;}">
+                <Coords points="3328,3620 3520,3484 3549,3525 3357,3661"/>
+                <Baseline points="3354,3657 3546,3521"/>
+                <TextEquiv>
+                    <Unicode>Route</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149109955_794" custom="readingOrder {index:14;}">
+                <Coords points="590,3786 664,3759 814,3732 1099,3726 1100,3776 818,3782 677,3807 607,3833"/>
+                <Baseline points="605,3828 676,3802 818,3777 1100,3771"/>
+                <TextEquiv>
+                    <Unicode>Mbenkuru</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149306990_855" custom="readingOrder {index:15;}">
+                <Coords points="2560,3907 3019,3911 3019,3961 2560,3957"/>
+                <Baseline points="2560,3952 3019,3956"/>
+                <TextEquiv>
+                    <Unicode>Jussuf Manga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567148965310_711" custom="readingOrder {index:16;}">
+                <Coords points="2732,4340 3047,4542 3020,4584 2705,4382"/>
+                <Baseline points="2708,4378 3023,4580"/>
+                <TextEquiv>
+                    <Unicode>Ngomanji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149161316_818" custom="readingOrder {index:17;}">
+                <Coords points="851,4706 1122,4723 1119,4773 848,4756"/>
+                <Baseline points="848,4751 1119,4768"/>
+                <TextEquiv>
+                    <Unicode>Lagerplatz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149165022_823" custom="readingOrder {index:18;}">
+                <Coords points="790,4794 1134,4800 1133,4850 789,4844"/>
+                <Baseline points="789,4839 1133,4845"/>
+                <TextEquiv>
+                    <Unicode>Kwa Narweha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149172412_833" custom="readingOrder {index:19;}">
+                <Coords points="1312,4917 1491,4914 1492,4964 1313,4967"/>
+                <Baseline points="1313,4962 1492,4959"/>
+                <TextEquiv>
+                    <Unicode>Graben R</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149168632_828" custom="readingOrder {index:20;}">
+                <Coords points="302,4957 652,4959 652,5009 302,5007"/>
+                <Baseline points="302,5002 652,5004"/>
+                <TextEquiv>
+                    <Unicode>n. Nakihu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567149175698_838" custom="readingOrder {index:21;}">
+                <Coords points="1909,4971 2280,4962 2281,5012 1910,5021"/>
+                <Baseline points="1910,5016 2281,5007"/>
+                <TextEquiv>
+                    <Unicode>n. Kijenjere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1567148974250_716" custom="readingOrder {index:22;}">
+                <Coords points="3487,4915 3593,5011 3560,5048 3454,4952"/>
+                <Baseline points="3457,4948 3563,5044"/>
+                <TextEquiv>
+                    <Unicode>Mtapa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Itukuru
+Naikumba
+Nakanyanga
+Kigombo
+Liala
+Liala
+Liala
+Nossa
+Itukuli
+Route
+Mto Nyangi
+(Quelle des
+Makumba
+Route
+Mbenkuru
+Jussuf Manga
+Ngomanji
+Lagerplatz
+Kwa Narweha
+Graben R
+n. Nakihu
+n. Kijenjere
+Mtapa.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:40.079+02:00</Created>
+        <LastChange>2020-04-02T16:48:43.208+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551018" pageNr="129" tsid="26898301" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=PHQPABNGTKPYITDRTDAPOUDV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USYZPZFFOQGCBZYGTDJGFHKK" imageId="4551896"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_129.jpg" imageWidth="4292" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256506876" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="491,262 491,4838 4015,4838 4015,262"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="3749,309 3784,312 3793,304 3832,317 3850,314 3858,323 3881,313 3904,341 3952,350 3963,232 3836,229 3792,181 3761,182"/>
+                <Baseline points="3772,297 3799,297 3826,300 3853,304 3880,307 3907,309 3934,309"/>
+                <TextEquiv>
+                    <Unicode>127</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} gap {offset:49; length:0;}">
+                <Coords points="483,385 1035,481 1315,358 1710,467 3968,417 3968,294 3262,225 483,293"/>
+                <Baseline points="505,369 677,369 849,368 1021,368 1193,367 1365,366 1537,365 1709,364 1881,363 2053,363 2225,362 2397,362 2569,361 2741,361 2913,361 3085,362 3257,363 3429,364 3601,366 3773,368 3945,371"/>
+                <TextEquiv>
+                    <Unicode>zurückgelassen hatte, scheint infolge Todesfall,  Urlaubsreisen u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="471,668 842,539 1242,647 1464,516 4021,563 4018,410 3807,373 2559,463 1299,378 469,514"/>
+                <Baseline points="493,557 668,551 843,544 1018,538 1194,532 1369,527 1544,522 1720,518 1895,514 2070,510 2246,507 2421,504 2596,502 2771,500 2947,499 3122,498 3297,498 3473,499 3648,500 3823,501 3999,503"/>
+                <TextEquiv>
+                    <Unicode>Personenwechsel leider endgiltig verloren. Das vorige schmutzi„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="501,802 639,708 1220,790 2173,646 2569,753 3971,649 1723,513 498,662"/>
+                <Baseline points="523,703 694,694 865,686 1036,679 1207,673 1379,668 1550,664 1721,660 1892,657 2063,654 2235,652 2406,650 2577,648 2748,646 2919,645 3091,643 3262,641 3433,639 3604,637 3775,634 3947,631"/>
+                <TextEquiv>
+                    <Unicode>ge Grashaus steht nicht mehr, sie wohnen aber noch immer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="502,956 1170,825 1300,927 3679,836 3674,673 3551,663 498,794"/>
+                <Baseline points="521,848 677,843 834,839 990,835 1147,829 1304,824 1460,820 1617,815 1774,810 1930,805 2087,801 2244,797 2400,793 2557,788 2714,785 2870,782 3027,779 3184,777 3340,775 3497,774 3654,774"/>
+                <TextEquiv>
+                    <Unicode>so schenzi-mäßig, daß ich froh war nicht zum Essen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="496,1033 1331,1089 2695,941 2855,1038 3081,928 3338,1058 3661,963 3882,1046 4021,784 3611,899 2771,803 495,963"/>
+                <Baseline points="516,1016 690,1010 864,1004 1038,997 1213,991 1387,985 1561,978 1736,973 1910,967 2084,962 2259,957 2433,953 2607,949 2781,946 2956,944 3130,942 3304,942 3479,942 3653,943 3827,945 4002,949"/>
+                <TextEquiv>
+                    <Unicode>aufgefordert zu werden. In d. Steinbrüchen; lange garnichts,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="489,1193 4035,1134 4033,1020 3279,1041 3084,926 2850,1040 487,1044"/>
+                <Baseline points="512,1157 696,1146 880,1136 1064,1126 1248,1118 1432,1111 1616,1104 1801,1098 1985,1094 2169,1089 2353,1086 2537,1084 2721,1083 2906,1083 3090,1083 3274,1085 3458,1087 3642,1090 3826,1093 4011,1098"/>
+                <TextEquiv>
+                    <Unicode>dann fast ausschließlich 1 Pecten-Art gefunden, um so mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="472,1373 798,1309 1013,1419 1327,1258 1721,1354 1902,1255 3622,1262 3584,1088 465,1202"/>
+                <Baseline points="491,1328 646,1318 801,1307 957,1297 1112,1287 1268,1278 1423,1270 1578,1262 1734,1254 1889,1247 2045,1240 2200,1235 2355,1230 2511,1226 2666,1222 2822,1219 2977,1217 3132,1216 3288,1216 3443,1217 3599,1219"/>
+                <TextEquiv>
+                    <Unicode>bedaure ich d. Verlust der vorjährigen Ausbeute.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="616,1499 3359,1428 3355,1288 2712,1325 2603,1232 2453,1337 2104,1264 1048,1411 612,1350"/>
+                <Baseline points="636,1471 778,1463 920,1455 1062,1449 1204,1442 1346,1436 1488,1431 1630,1427 1772,1422 1914,1418 2056,1414 2198,1410 2340,1407 2482,1403 2624,1400 2766,1397 2908,1393 3050,1390 3192,1386 3335,1383"/>
+                <TextEquiv>
+                    <Unicode>Abend am Bahngleis Vergleiche. Nachm. kein Regen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="808,1674 4021,1602 4015,1439 3769,1413 2186,1560 803,1520"/>
+                <Baseline points="830,1643 988,1644 1146,1644 1305,1641 1463,1637 1622,1632 1780,1625 1939,1618 2097,1610 2256,1602 2414,1593 2572,1586 2731,1578 2889,1571 3048,1566 3206,1561 3365,1558 3523,1557 3682,1558 3840,1561 3999,1567"/>
+                <TextEquiv>
+                    <Unicode>20. April. Schickte d. Träger zum nahen Mikande (Jumbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="480,1888 3850,1788 3792,1627 1545,1747 472,1655"/>
+                <Baseline points="499,1812 665,1811 831,1809 997,1807 1164,1802 1330,1798 1496,1792 1663,1786 1829,1780 1995,1774 2162,1767 2328,1760 2494,1754 2660,1747 2827,1741 2993,1735 3159,1730 3326,1725 3492,1721 3658,1718 3825,1715"/>
+                <TextEquiv>
+                    <Unicode>Chamide) voraus, machte nochmals Aufzeichnungen an d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="480,2030 1644,1943 1827,2043 2660,1900 4005,1975 3999,1800 3646,1718 3268,1839 475,1854"/>
+                <Baseline points="502,1964 675,1961 849,1957 1023,1952 1197,1946 1371,1940 1545,1934 1718,1928 1892,1921 2066,1915 2240,1909 2414,1903 2588,1897 2762,1892 2935,1887 3109,1884 3283,1880 3457,1878 3631,1877 3805,1876 3979,1877"/>
+                <TextEquiv>
+                    <Unicode>Bahn, folgte dann u. ging gleich weiter über d. Ngerengere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="527,2244 1116,2122 1644,2200 1751,2096 3770,2154 3944,1956 2718,2034 2417,1933 1824,2041 1646,1945 522,2069"/>
+                <Baseline points="544,2145 721,2135 899,2126 1077,2119 1255,2113 1433,2108 1611,2103 1788,2098 1966,2095 2144,2091 2322,2088 2500,2084 2678,2080 2855,2076 3033,2071 3211,2066 3389,2059 3567,2052 3745,2044 3923,2033"/>
+                <TextEquiv>
+                    <Unicode>zum gegenüberliegenden Lukosse, wo wir vor'm Jahr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="521,2411 2598,2218 3140,2286 3386,2194 3636,2291 3736,2147 2098,2096 1619,2205 1432,2115 515,2245"/>
+                <Baseline points="539,2299 697,2293 856,2287 1015,2280 1174,2273 1333,2265 1492,2258 1651,2251 1810,2243 1969,2237 2128,2229 2286,2223 2445,2217 2604,2211 2763,2207 2922,2203 3081,2200 3240,2197 3399,2196 3558,2196 3717,2197"/>
+                <TextEquiv>
+                    <Unicode>schon Gneiß fanden. Sah mich aber in d. Entfernung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="533,2583 948,2447 1387,2547 1645,2421 2451,2501 2744,2369 2937,2480 3235,2361 3951,2379 4032,2222 3171,2312 2689,2214 1836,2374 1427,2264 525,2413"/>
+                <Baseline points="549,2458 722,2457 895,2455 1068,2450 1242,2445 1415,2438 1588,2431 1762,2422 1935,2413 2108,2404 2282,2394 2455,2386 2628,2376 2801,2367 2975,2359 3148,2352 3321,2345 3495,2340 3668,2337 3841,2335 4015,2334"/>
+                <TextEquiv>
+                    <Unicode>ge- u. enttäuscht, denn d. Fluß bildet hier bei weitem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="521,2629 691,2714 1979,2661 2399,2533 2588,2635 3236,2604 3807,2519 3844,2347 518,2567"/>
+                <Baseline points="541,2615 705,2607 869,2599 1033,2592 1198,2584 1362,2578 1526,2570 1691,2565 1855,2558 2019,2552 2184,2545 2348,2539 2512,2532 2676,2526 2841,2519 3005,2513 3169,2506 3334,2498 3498,2490 3662,2482 3827,2473"/>
+                <TextEquiv>
+                    <Unicode>nicht mehr die Grenze, sondern ich ging noch eine Std.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="529,2820 766,2902 1847,2739 2373,2826 2538,2708 3921,2713 3916,2594 3583,2504 3210,2617 1271,2633 1157,2731 872,2629 526,2745"/>
+                <Baseline points="551,2785 718,2783 885,2780 1052,2775 1220,2768 1387,2761 1554,2753 1722,2744 1889,2735 2056,2726 2224,2716 2391,2707 2558,2698 2725,2690 2893,2682 3060,2676 3227,2669 3395,2665 3562,2662 3729,2661 3897,2661"/>
+                <TextEquiv>
+                    <Unicode>in festen bis mürben bräunlichen Sandsteinen. Grenze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="522,3061 4009,2826 4004,2717 3651,2685 1633,2870 511,2811"/>
+                <Baseline points="537,2945 709,2943 881,2940 1054,2935 1226,2929 1399,2922 1571,2914 1743,2905 1916,2896 2088,2886 2261,2876 2433,2867 2605,2857 2778,2848 2950,2839 3123,2832 3295,2825 3467,2819 3640,2815 3812,2812 3985,2812"/>
+                <TextEquiv>
+                    <Unicode>hier wieder durch ein ca 500 m. breites Tal verdeckt, dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="500,3131 3451,3084 3591,2971 4017,2990 4009,2832 496,3052"/>
+                <Baseline points="521,3103 694,3101 868,3097 1042,3092 1215,3086 1389,3079 1563,3070 1736,3061 1910,3052 2084,3042 2258,3032 2431,3021 2605,3011 2779,3002 2952,2993 3126,2984 3300,2976 3473,2969 3647,2963 3821,2958 3995,2955"/>
+                <TextEquiv>
+                    <Unicode>etwas energischere Geländeformen, die d. Gneiß schon voraus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="520,3285 1935,3225 2092,3321 3358,3157 3923,3256 4032,3094 3739,3003 516,3166"/>
+                <Baseline points="541,3248 714,3250 888,3250 1061,3248 1235,3244 1408,3239 1582,3233 1755,3226 1929,3218 2102,3210 2276,3202 2449,3193 2623,3185 2796,3178 2970,3170 3143,3164 3317,3159 3490,3155 3664,3153 3837,3153 4011,3154"/>
+                <TextEquiv>
+                    <Unicode>verraten; unmittelbar dahinter der erste kleine Inselberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="506,3483 2116,3476 2833,3320 3088,3431 3290,3334 3675,3400 3907,3310 3903,3205 496,3282"/>
+                <Baseline points="523,3410 691,3414 859,3414 1027,3413 1195,3409 1364,3404 1532,3396 1700,3387 1868,3378 2036,3367 2205,3356 2373,3346 2541,3335 2709,3326 2877,3316 3046,3309 3214,3302 3382,3297 3550,3295 3718,3294 3887,3297"/>
+                <TextEquiv>
+                    <Unicode>Nach Mikande zurück. Flußübergang mit etwas halsbreschericher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569574946552_837" custom="readingOrder {index:21;}">
+                <Coords points="498,3612 577,3643 687,3586 796,3635 893,3578 1094,3595 1151,3547 1208,3556 1208,3481 1081,3486 1050,3516 958,3529 915,3490 814,3464 739,3477 634,3542 538,3494 498,3512"/>
+                <Baseline points="522,3580 694,3583 867,3584 1040,3583 1185,3580"/>
+                <TextEquiv>
+                    <Unicode>Brücke aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569574937572_831" custom="readingOrder {index:22;}">
+                <Coords points="999,3515 1056,3514 1086,3482 1139,3490 1188,3533 1244,3487 1279,3487 1315,3512 1355,3511 1353,3428 1287,3425 1255,3395 1238,3413 1129,3433 1111,3420 1063,3439 997,3427"/>
+                <Baseline points="1020,3488 1047,3485 1075,3482 1103,3480 1130,3479 1158,3479 1186,3478 1214,3478 1270,3477 1301,3479 1332,3479"/>
+                <TextEquiv>
+                    <Unicode>wenigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569574946552_836" custom="readingOrder {index:23;}">
+                <Coords points="1167,3680 2288,3544 2534,3643 2827,3508 3213,3610 4003,3523 3999,3427 3215,3346 2759,3476 2335,3397 2142,3498 1160,3531"/>
+                <Baseline points="1185,3580 1213,3580 1386,3576 1559,3571 1731,3564 1904,3557 2077,3549 2250,3540 2423,3532 2596,3523 2769,3514 2941,3506 3114,3498 3287,3492 3460,3486 3633,3480 3806,3477 3979,3475"/>
+                <TextEquiv>
+                    <Unicode>schwachen ungraden Bäumchen mit Bastverbindung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="531,3800 3984,3691 3980,3546 3712,3515 3241,3634 3098,3546 2567,3658 2235,3562 1427,3682 527,3629"/>
+                <Baseline points="553,3738 723,3741 894,3742 1064,3742 1235,3740 1405,3737 1576,3733 1746,3729 1917,3723 2087,3717 2258,3711 2428,3704 2599,3697 2769,3690 2940,3684 3110,3678 3281,3673 3451,3668 3622,3664 3792,3662 3963,3660"/>
+                <TextEquiv>
+                    <Unicode>Um 11 im Lager. Sehr heiß u. garkein Regen, was wegen des Marsches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="536,3898 968,3980 1122,3865 1337,3980 1548,3858 2231,3949 2630,3825 2848,3927 3752,3799 3748,3698 3568,3669 533,3824"/>
+                <Baseline points="556,3888 714,3884 873,3879 1031,3875 1190,3871 1349,3867 1507,3863 1666,3858 1825,3853 1983,3848 2142,3843 2301,3838 2459,3832 2618,3826 2777,3820 2935,3814 3094,3806 3253,3798 3411,3790 3570,3782 3729,3772"/>
+                <TextEquiv>
+                    <Unicode>an d. Bahn höchst erwünscht. Die schon vorm Jahr aufgefundene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="526,4148 3694,3925 3974,4029 4002,3818 518,3929"/>
+                <Baseline points="542,4035 723,4031 904,4027 1085,4023 1266,4019 1447,4014 1628,4009 1809,4004 1990,3998 2171,3992 2352,3986 2533,3979 2714,3972 2895,3964 3076,3956 3257,3946 3438,3937 3619,3927 3800,3915 3981,3904"/>
+                <TextEquiv>
+                    <Unicode>Fossilschicht liefert 2 kleine Ammoniten. Abends südl. am Wege</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="535,4255 3891,4130 3886,3990 3539,3970 532,4150"/>
+                <Baseline points="556,4200 721,4190 887,4180 1052,4172 1218,4164 1384,4157 1549,4150 1715,4144 1881,4139 2046,4134 2212,4129 2378,4125 2543,4120 2709,4116 2875,4113 3040,4108 3206,4104 3372,4100 3537,4095 3703,4090 3869,4085"/>
+                <TextEquiv>
+                    <Unicode>entlang, wo die fossilreiche, fast zoogene Schicht, die am Ngerengere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="554,4362 3421,4348 3946,4307 3942,4123 551,4279"/>
+                <Baseline points="573,4326 740,4320 908,4316 1075,4310 1243,4306 1410,4302 1578,4298 1745,4294 1913,4290 2080,4286 2248,4282 2415,4278 2583,4274 2750,4270 2918,4265 3085,4261 3253,4255 3420,4250 3588,4244 3755,4238 3923,4231"/>
+                <TextEquiv>
+                    <Unicode>aufwärts im Flußniveau ansteht, ca 30 m. oder mehr höher liegt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:29;}">
+                <Coords points="521,4507 1043,4563 1502,4449 1692,4542 2150,4437 2709,4537 3216,4418 3542,4517 3878,4423 3875,4292 3673,4269 519,4401"/>
+                <Baseline points="542,4476 707,4468 873,4460 1039,4454 1205,4448 1370,4444 1536,4439 1702,4436 1868,4433 2033,4430 2199,4428 2365,4426 2531,4424 2696,4422 2862,4420 3028,4418 3194,4416 3359,4414 3525,4411 3691,4408 3857,4405"/>
+                <TextEquiv>
+                    <Unicode>Bei d. Einfallen d. Schichten u. dem nicht starken Flußgefälle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:30;}">
+                <Coords points="501,4668 945,4733 1407,4608 1804,4714 2450,4594 2795,4692 2928,4588 3832,4604 3860,4489 2064,4550 1868,4449 1612,4551 1496,4449 714,4593 497,4488"/>
+                <Baseline points="524,4637 689,4632 855,4628 1021,4623 1187,4618 1353,4614 1518,4610 1684,4606 1850,4602 2016,4598 2182,4594 2347,4590 2513,4587 2679,4583 2845,4580 3011,4577 3176,4575 3342,4572 3508,4570 3674,4568 3840,4566"/>
+                <TextEquiv>
+                    <Unicode>kann ich nur Verwerfung annehmen, zumal sie dort am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:31;}">
+                <Coords points="507,4910 1530,4769 3937,4754 3933,4631 3730,4585 502,4717"/>
+                <Baseline points="526,4803 695,4799 864,4795 1034,4791 1203,4787 1373,4782 1542,4776 1712,4771 1881,4765 2051,4760 2220,4754 2389,4749 2559,4744 2728,4738 2898,4733 3067,4728 3237,4723 3406,4718 3576,4714 3745,4710 3915,4707"/>
+                <TextEquiv>
+                    <Unicode>Gneiß, hier ca 4-6 km. davon entfernt liegt. Das stimmt mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>127&#xD;
+zurückgelassen hatte, scheint infolge Todesfall,  Urlaubsreisen u.&#xD;
+Personenwechsel leider endgiltig verloren. Das vorige schmutzi„&#xD;
+ge Grashaus steht nicht mehr, sie wohnen aber noch immer&#xD;
+so schenzi-mäßig, daß ich froh war nicht zum Essen&#xD;
+aufgefordert zu werden. In d. Steinbrüchen; lange garnichts,&#xD;
+dann fast ausschließlich 1 Pecten-Art gefunden, um so mehr&#xD;
+bedaure ich d. Verlust der vorjährigen Ausbeute.&#xD;
+Abend am Bahngleis Vergleiche. Nachm. kein Regen.&#xD;
+20. April. Schickte d. Träger zum nahen Mikande (Jumbe&#xD;
+Chamide) voraus, machte nochmals Aufzeichnungen an d.&#xD;
+Bahn, folgte dann u. ging gleich weiter über d. Ngerengere&#xD;
+zum gegenüberliegenden Lukosse, wo wir vor'm Jahr&#xD;
+schon Gneiß fanden. Sah mich aber in d. Entfernung&#xD;
+ge- u. enttäuscht, denn d. Fluß bildet hier bei weitem&#xD;
+nicht mehr die Grenze, sondern ich ging noch eine Std.&#xD;
+in festen bis mürben bräunlichen Sandsteinen. Grenze&#xD;
+hier wieder durch ein ca 500 m. breites Tal verdeckt, dann&#xD;
+etwas energischere Geländeformen, die d. Gneiß schon voraus&#xD;
+verraten; unmittelbar dahinter der erste kleine Inselberg.&#xD;
+Nach Mikande zurück. Flußübergang mit etwas halsbreschericher&#xD;
+Brücke aus&#xD;
+wenigen&#xD;
+schwachen ungraden Bäumchen mit Bastverbindung.&#xD;
+Um 11 im Lager. Sehr heiß u. garkein Regen, was wegen des Marsches&#xD;
+an d. Bahn höchst erwünscht. Die schon vorm Jahr aufgefundene&#xD;
+Fossilschicht liefert 2 kleine Ammoniten. Abends südl. am Wege&#xD;
+entlang, wo die fossilreiche, fast zoogene Schicht, die am Ngerengere&#xD;
+aufwärts im Flußniveau ansteht, ca 30 m. oder mehr höher liegt.&#xD;
+Bei d. Einfallen d. Schichten u. dem nicht starken Flußgefälle&#xD;
+kann ich nur Verwerfung annehmen, zumal sie dort am&#xD;
+Gneiß, hier ca 4-6 km. davon entfernt liegt. Das stimmt mit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

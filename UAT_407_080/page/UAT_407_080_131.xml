@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:59.524+02:00</Created>
+        <LastChange>2020-03-26T14:07:42.374+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550833" pageNr="131" tsid="26471162" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=VAPKRATKRUTIZDCKGUHNIXMD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HZKBTZSDSXSYYBXZXLEVXQTB" imageId="4551711"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_131.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255570096" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="439,239 439,4839 4093,4839 4093,239"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3750,324 3836,321 3853,339 3871,339 3926,313 3944,332 3976,314 4026,315 4027,229 4005,229 3991,215 3964,224 3951,210 3878,204 3865,217 3815,221 3796,239 3788,229 3751,238"/>
+                <Baseline points="3772,307 3797,307 3823,308 3848,309 3874,310 3899,310 3925,310 3950,311 3976,311 4002,310"/>
+                <TextEquiv>
+                    <Unicode>127</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="542,462 3962,526 3962,363 3529,308 1676,296 1382,395 1202,291 542,304"/>
+                <Baseline points="563,425 731,432 900,438 1069,442 1238,446 1407,448 1576,449 1744,450 1913,450 2082,449 2251,448 2420,447 2589,446 2758,445 2926,444 3095,443 3264,443 3433,443 3602,443 3771,445 3940,447"/>
+                <TextEquiv>
+                    <Unicode>Daressalaam weiter. Lager wegen des Grases nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="514,648 1129,750 1390,617 1996,737 2330,627 2520,725 3356,595 3871,665 3920,533 3405,445 3247,559 3093,478 2520,571 2167,447 1724,571 1258,464 513,572"/>
+                <Baseline points="537,624 705,622 873,621 1041,619 1209,619 1377,618 1545,617 1714,617 1882,616 2050,616 2218,616 2386,615 2554,615 2722,614 2891,613 3059,613 3227,611 3395,610 3563,608 3731,606 3900,604"/>
+                <TextEquiv>
+                    <Unicode>am Flusse, sondern auf freiem Platze beim Jumben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="468,918 2378,783 3947,903 4114,843 4113,684 466,674"/>
+                <Baseline points="488,811 668,810 848,808 1028,806 1208,803 1388,801 1568,798 1748,796 1928,793 2108,791 2288,788 2468,787 2648,785 2828,784 3008,783 3188,784 3368,784 3548,786 3728,788 3908,791 4089,795"/>
+                <TextEquiv>
+                    <Unicode>Sehr heißer Tag. Einer v. Sattler's Leuten trifft als Führer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="522,1122 1028,1115 1234,990 2176,1099 2721,978 3057,1086 3227,980 3879,1061 3745,832 520,942"/>
+                <Baseline points="541,998 706,998 872,997 1038,995 1203,992 1369,989 1535,985 1700,982 1866,977 2032,973 2198,969 2363,965 2529,962 2695,960 2860,958 3026,957 3192,956 3357,958 3523,960 3689,964 3855,970"/>
+                <TextEquiv>
+                    <Unicode>zu Fossilfundorten ein. Entschließe mich einen Tag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="521,1307 655,1201 882,1302 1716,1141 2156,1270 2959,1149 3629,1239 3898,1081 3228,982 3071,1084 1797,1099 1230,994 518,1122"/>
+                <Baseline points="542,1200 708,1187 875,1176 1042,1167 1209,1160 1375,1153 1542,1148 1709,1145 1876,1142 2042,1140 2209,1138 2376,1137 2543,1137 2709,1137 2876,1137 3043,1137 3210,1137 3376,1136 3543,1135 3710,1134 3877,1132"/>
+                <TextEquiv>
+                    <Unicode>hier zu bleiben, um inzwischen Janensch's Zelt ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="548,1428 726,1491 1351,1362 1602,1464 1916,1361 2465,1455 2602,1343 3230,1341 3227,1223 2738,1177 2338,1278 1884,1176 544,1283"/>
+                <Baseline points="567,1379 699,1375 831,1372 963,1368 1095,1366 1227,1362 1359,1359 1491,1356 1623,1353 1755,1350 1888,1347 2020,1344 2152,1340 2284,1337 2416,1333 2548,1330 2680,1326 2812,1322 2944,1317 3076,1312 3209,1307"/>
+                <TextEquiv>
+                    <Unicode>Bahn weitertransportieren zu können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="787,1614 1156,1542 1407,1627 1698,1516 2785,1627 3930,1488 3928,1406 3267,1331 2501,1462 1920,1362 784,1456"/>
+                <Baseline points="807,1557 962,1549 1117,1541 1272,1535 1427,1529 1582,1523 1737,1519 1892,1514 2047,1510 2202,1507 2357,1504 2512,1501 2667,1498 2822,1496 2977,1493 3132,1491 3287,1489 3442,1487 3597,1484 3752,1482 3907,1479"/>
+                <TextEquiv>
+                    <Unicode>Abend: zum Steinbruch am Bahnhof: Gneiß von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="483,1815 1526,1703 4053,1748 4051,1608 3825,1570 481,1621"/>
+                <Baseline points="505,1740 681,1730 857,1720 1033,1711 1210,1704 1386,1697 1562,1691 1739,1686 1915,1682 2091,1679 2268,1676 2444,1675 2620,1674 2796,1674 2973,1674 3149,1676 3325,1678 3502,1681 3678,1685 3854,1689 4031,1695"/>
+                <TextEquiv>
+                    <Unicode>stark gewalztem Aussehen, mit Augeneinschlüssen von Feld„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="478,1996 1425,1866 3677,1968 3952,1928 3950,1779 3217,1671 2929,1806 1541,1711 476,1851"/>
+                <Baseline points="502,1937 643,1892 801,1885 960,1878 1119,1873 1278,1868 1437,1864 1595,1862 1754,1860 1913,1858 2072,1857 2231,1856 2389,1856 2548,1855 2707,1855 2866,1854 3025,1854 3183,1853 3342,1852 3501,1850 3660,1847 3819,1844 3930,1850"/>
+                <TextEquiv>
+                    <Unicode>spath in Quarz. Muskovitglimmer auf Schieferungsflächen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="470,2100 2305,2010 3494,2125 4063,2087 4117,1947 1464,1899 470,2014"/>
+                <Baseline points="491,2076 671,2061 851,2048 1031,2037 1211,2029 1391,2021 1571,2016 1751,2013 1931,2011 2111,2010 2292,2010 2472,2012 2652,2014 2832,2018 3012,2021 3192,2026 3372,2030 3552,2035 3732,2040 3912,2044 4093,2049"/>
+                <TextEquiv>
+                    <Unicode>daher im Querbruch kaum erkennbar. Die deutliche Bankung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="456,2278 3493,2289 4061,2234 4060,2089 455,2174"/>
+                <Baseline points="477,2256 655,2243 833,2232 1011,2222 1189,2213 1367,2206 1545,2200 1723,2194 1901,2191 2079,2188 2257,2186 2435,2185 2613,2185 2791,2187 2969,2188 3147,2191 3325,2195 3503,2199 3681,2204 3859,2210 4038,2216"/>
+                <TextEquiv>
+                    <Unicode>erweckt in einiger Entfernung täuschend den Eindruck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="450,2464 1987,2487 2126,2368 2452,2510 2835,2371 3388,2498 4110,2442 4109,2279 1289,2339 1081,2246 449,2364"/>
+                <Baseline points="473,2431 653,2419 834,2409 1015,2400 1195,2392 1376,2385 1557,2380 1737,2375 1918,2372 2099,2369 2280,2368 2460,2367 2641,2367 2822,2369 3002,2370 3183,2373 3364,2376 3544,2380 3725,2384 3906,2389 4087,2395"/>
+                <TextEquiv>
+                    <Unicode>eines Sedimentes. Einfallen fast 45° O. (Bahnhof km. 147,8 od.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="474,2622 3944,2561 3943,2461 3703,2427 473,2486"/>
+                <Baseline points="497,2594 668,2582 839,2571 1010,2563 1181,2556 1352,2551 1523,2547 1694,2544 1865,2542 2036,2541 2208,2541 2379,2541 2550,2542 2721,2543 2892,2544 3063,2545 3234,2546 3405,2547 3576,2547 3747,2547 3919,2546"/>
+                <TextEquiv>
+                    <Unicode>148?) Dann über die Bahnbrücke am Schienenwege entlang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="460,2803 4057,2754 3979,2623 2958,2562 459,2677"/>
+                <Baseline points="483,2760 660,2755 837,2749 1015,2743 1192,2738 1370,2734 1547,2730 1725,2726 1902,2723 2080,2721 2257,2718 2434,2717 2612,2717 2789,2717 2967,2718 3144,2720 3322,2723 3499,2727 3677,2732 3854,2737 4032,2745"/>
+                <TextEquiv>
+                    <Unicode>Kann am Ostufer nichts von Kristallin sehen, weites Flußtal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="453,2970 1045,3060 1686,2947 1877,3049 3055,2886 3530,3009 3941,2965 3940,2825 1721,2757 452,2902"/>
+                <Baseline points="475,2951 647,2944 819,2937 991,2931 1163,2926 1335,2921 1507,2917 1680,2913 1852,2910 2024,2908 2196,2906 2368,2905 2540,2905 2712,2905 2885,2906 3057,2907 3229,2909 3401,2912 3573,2916 3745,2920 3918,2924"/>
+                <TextEquiv>
+                    <Unicode>mit sehr hohem, dichtem Gras, recht starke Strömung und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582896526726_3828" custom="readingOrder {index:16;}">
+                <Coords points="446,3144 668,3246 839,3135 1152,3240 1349,3129 1499,3217 1927,3122 2398,3188 2592,3131 2590,3000 2147,2952 2026,3039 1641,2971 1208,3072 444,3018"/>
+                <Baseline points="469,3122 647,3122 825,3121 1004,3119 1182,3117 1361,3115 1539,3111 1718,3109 1896,3106 2075,3104 2253,3102 2431,3101 2569,3101"/>
+                <TextEquiv>
+                    <Unicode>Wassermenge. Erst bei km. 147,3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:17;}">
+                <Coords points="2431,3011 2488,3040 2553,3002 2694,2989 2965,2998 3017,3050 3185,3042 3233,3071 3274,3063 3278,2950 3178,2965 3062,2920 2994,2945 2940,2911 2880,2959 2822,2925 2736,2949 2580,2881 2433,2952"/>
+                <Baseline points="2455,2996 2497,2995 2539,2994 2581,2993 2623,2993 2665,2993 2707,2993 2749,2994 2791,2995 2833,2997 2875,2998 2917,3001 2959,3003 3001,3005 3043,3007 3085,3010 3127,3013 3169,3016 3211,3019 3254,3021"/>
+                <TextEquiv>
+                    <Unicode>Brauner, lockerer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582896526726_3827" custom="readingOrder {index:18;}">
+                <Coords points="2544,3116 2738,3129 2826,3197 3046,3111 3530,3219 3640,3178 3788,3226 3903,3167 3977,3229 4060,3211 4066,3062 3887,3026 3663,3071 3594,3013 3422,3006 3288,3077 3017,3051 2970,2999 2549,3008"/>
+                <Baseline points="2569,3101 2610,3102 2788,3103 2967,3106 3145,3111 3324,3118 3502,3126 3681,3138 3859,3152 4038,3168"/>
+                <TextEquiv>
+                    <Unicode>Sandsteine mit Zwischen„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:19;}">
+                <Coords points="456,3439 1925,3302 3818,3422 4066,3381 4067,3228 2255,3157 759,3291 456,3191"/>
+                <Baseline points="477,3345 655,3335 833,3326 1012,3318 1190,3312 1368,3308 1547,3305 1725,3303 1903,3302 2082,3302 2260,3303 2438,3304 2617,3307 2795,3310 2973,3313 3152,3317 3330,3321 3508,3324 3687,3329 3865,3333 4044,3337"/>
+                <TextEquiv>
+                    <Unicode>lagen von Tonen u. groben konglomeratischen Gerölllagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:20;}">
+                <Coords points="453,3551 864,3649 1095,3524 2102,3608 2302,3496 3317,3621 3978,3554 4083,3419 1187,3339 454,3469"/>
+                <Baseline points="476,3536 655,3519 834,3504 1013,3494 1192,3485 1371,3480 1550,3477 1729,3477 1908,3478 2087,3481 2267,3484 2446,3489 2625,3494 2804,3500 2983,3506 3162,3511 3341,3516 3520,3520 3699,3522 3878,3524 4058,3523"/>
+                <TextEquiv>
+                    <Unicode>aus Kristallin (meist reiner Quarz). Einfallen gegen W (ca 20°)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:21;}">
+                <Coords points="474,3745 4071,3714 4070,3533 1585,3643 1201,3517 867,3649 474,3555"/>
+                <Baseline points="496,3721 673,3710 851,3702 1028,3695 1206,3690 1384,3686 1561,3683 1739,3682 1916,3681 2094,3681 2272,3682 2449,3684 2627,3685 2804,3687 2982,3689 3160,3691 3337,3692 3515,3693 3692,3694 3870,3694 4048,3693"/>
+                <TextEquiv>
+                    <Unicode>also gleichfalls gegen den Fluß (spricht gegen Bornhardt's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:22;}">
+                <Coords points="477,3940 966,4031 1475,3899 1756,4014 2519,3880 3315,3976 3834,3899 3833,3750 2785,3823 1740,3729 1212,3847 475,3742"/>
+                <Baseline points="500,3924 665,3915 831,3908 996,3901 1162,3895 1327,3890 1493,3886 1658,3883 1824,3880 1989,3878 2155,3877 2321,3876 2486,3876 2652,3876 2817,3876 2983,3877 3148,3878 3314,3880 3479,3881 3645,3883 3811,3885"/>
+                <TextEquiv>
+                    <Unicode>Vermutung eines Absinkens?). Diskordante Parallelstruktur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:23;}">
+                <Coords points="473,4194 2221,4071 2443,4178 3541,4182 3866,4125 3865,3927 2464,3920 2193,4022 1537,3910 1226,4039 471,3941"/>
+                <Baseline points="494,4108 661,4101 828,4095 996,4089 1163,4085 1331,4081 1498,4078 1666,4076 1833,4074 2001,4072 2168,4071 2335,4071 2503,4070 2670,4070 2838,4070 3005,4071 3173,4071 3340,4072 3508,4072 3675,4072 3843,4073"/>
+                <TextEquiv>
+                    <Unicode>(scheint mir gegen?? Landablagerung zu sprechen) Nächster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:24;} textStyle {offset:13; length:16;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="430,4358 2137,4232 3828,4351 3985,4169 2439,4185 2140,4074 2001,4183 830,4106 429,4217"/>
+                <Baseline points="453,4279 628,4275 803,4272 979,4268 1154,4263 1330,4259 1505,4255 1680,4251 1856,4248 2031,4245 2207,4242 2382,4240 2557,4239 2733,4238 2908,4239 3084,4240 3259,4243 3434,4246 3610,4252 3785,4259 3961,4267"/>
+                <TextEquiv>
+                    <Unicode>Aufschluß km 145 Einfallen O (von jetzt ab gleichbleibend längs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:25;}">
+                <Coords points="438,4524 2397,4354 2788,4505 4079,4411 3999,4259 3102,4354 2570,4233 435,4362"/>
+                <Baseline points="458,4474 637,4467 817,4460 997,4453 1177,4445 1357,4438 1537,4431 1717,4423 1897,4417 2077,4411 2257,4406 2436,4401 2616,4398 2796,4395 2976,4394 3156,4394 3336,4396 3516,4399 3696,4404 3876,4410 4056,4419"/>
+                <TextEquiv>
+                    <Unicode>der ganzen Strecke bis km 118. Vielleicht Anrücken des alten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:26;} unclear {offset:0; length:7;}">
+                <Coords points="445,4703 2902,4583 3554,4696 3978,4622 3976,4491 442,4522"/>
+                <Baseline points="466,4620 640,4616 814,4612 989,4609 1163,4605 1338,4602 1512,4598 1686,4594 1861,4591 2035,4588 2210,4585 2384,4582 2558,4580 2733,4578 2907,4577 3082,4575 3256,4574 3430,4574 3605,4574 3779,4575 3954,4576"/>
+                <TextEquiv>
+                    <Unicode>Massivs u. Aufstauchen des Sedimentrandes nebst Einplatzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:27;} textStyle {offset:49; length:5;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="417,4836 3403,4749 3937,4866 3936,4712 2154,4602 415,4714"/>
+                <Baseline points="439,4801 612,4795 786,4788 960,4782 1134,4775 1307,4770 1481,4764 1655,4760 1829,4755 2002,4751 2176,4748 2350,4746 2524,4744 2697,4744 2871,4745 3045,4747 3219,4751 3392,4756 3566,4763 3740,4771 3914,4781 4023,4943"/>
+                <TextEquiv>
+                    <Unicode>des Sattels?) Farbe etwas lichter, grünlich. Bei 143,6 stellen„ !</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>127&#xD;
+Daressalaam weiter. Lager wegen des Grases nicht&#xD;
+am Flusse, sondern auf freiem Platze beim Jumben.&#xD;
+Sehr heißer Tag. Einer v. Sattler's Leuten trifft als Führer&#xD;
+zu Fossilfundorten ein. Entschließe mich einen Tag&#xD;
+hier zu bleiben, um inzwischen Janensch's Zelt ohne&#xD;
+Bahn weitertransportieren zu können.&#xD;
+Abend: zum Steinbruch am Bahnhof: Gneiß von&#xD;
+stark gewalztem Aussehen, mit Augeneinschlüssen von Feld„&#xD;
+spath in Quarz. Muskovitglimmer auf Schieferungsflächen,&#xD;
+daher im Querbruch kaum erkennbar. Die deutliche Bankung&#xD;
+erweckt in einiger Entfernung täuschend den Eindruck&#xD;
+eines Sedimentes. Einfallen fast 45° O. (Bahnhof km. 147,8 od.&#xD;
+148?) Dann über die Bahnbrücke am Schienenwege entlang.&#xD;
+Kann am Ostufer nichts von Kristallin sehen, weites Flußtal&#xD;
+mit sehr hohem, dichtem Gras, recht starke Strömung und&#xD;
+Wassermenge. Erst bei km. 147,3&#xD;
+Brauner, lockerer&#xD;
+Sandsteine mit Zwischen„&#xD;
+lagen von Tonen u. groben konglomeratischen Gerölllagen&#xD;
+aus Kristallin (meist reiner Quarz). Einfallen gegen W (ca 20°)&#xD;
+also gleichfalls gegen den Fluß (spricht gegen Bornhardt's&#xD;
+Vermutung eines Absinkens?). Diskordante Parallelstruktur&#xD;
+(scheint mir gegen?? Landablagerung zu sprechen) Nächster&#xD;
+Aufschluß km 145 Einfallen O (von jetzt ab gleichbleibend längs&#xD;
+der ganzen Strecke bis km 118. Vielleicht Anrücken des alten&#xD;
+Massivs u. Aufstauchen des Sedimentrandes nebst Einplatzen&#xD;
+des Sattels?) Farbe etwas lichter, grünlich. Bei 143,6 stellen„ !</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

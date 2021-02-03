@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:55.584+02:00</Created>
+        <LastChange>2020-04-01T09:15:32.289+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550752" pageNr="54" tsid="26820402" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=KNCFTJSIZBAPOZLVKIGOWISK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TENNNPAPXEUGELZIALJUXWCC" imageId="4551630"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_054.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255545971" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="358,231 358,4634 3989,4634 3989,231"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="341,331 388,319 445,338 476,302 502,298 486,193 456,197 440,213 426,210 414,217 404,209 379,222 368,215 325,221"/>
+                <Baseline points="358,304 387,302 417,298 446,292 476,288"/>
+                <TextEquiv>
+                    <Unicode>50</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887945473_2048" custom="readingOrder {index:1;}">
+                <Coords points="438,409 3842,319 3309,175 435,316"/>
+                <Baseline points="458,388 586,381 715,373 844,365 973,358 1102,351 1231,344 1359,338 1488,331 1617,325 1746,320 1875,314 2004,309 2133,304 2261,299 2390,296 2519,292 2648,288 2777,285 2906,283 3035,280 3095,308 3131,303 3167,299 3203,296 3240,292 3276,290 3312,289 3348,288 3385,288 3421,288 3457,288 3493,289 3530,290 3566,292 3602,292 3638,294 3675,296 3711,297 3747,298 3783,299 3820,301"/>
+                <TextEquiv>
+                    <Unicode>an die Pflanzungen auch Tauben u. Papageien. ½ Std. vor dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="403,580 4000,425 3996,327 3009,288 398,438"/>
+                <Baseline points="426,556 603,541 781,526 958,512 1136,499 1313,488 1491,477 1668,467 1846,459 2023,451 2201,445 2378,438 2556,433 2733,429 2911,426 3088,423 3266,422 3443,421 3621,420 3798,421 3976,422"/>
+                <TextEquiv>
+                    <Unicode>Akiden schoß ich mein erstes Wild, ein Mbawala, nachdem es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="387,798 538,685 728,780 1642,624 3682,650 3969,496 379,602"/>
+                <Baseline points="405,702 582,687 759,673 936,660 1113,648 1291,637 1468,628 1645,618 1822,611 1999,603 2177,596 2354,591 2531,585 2708,580 2885,575 3063,571 3240,567 3417,564 3594,560 3771,557 3949,553"/>
+                <TextEquiv>
+                    <Unicode>freilich auf den ersteren, aus größerer Entfernung abgege„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="432,870 3646,714 3561,584 426,733"/>
+                <Baseline points="452,845 610,832 769,818 927,807 1086,796 1245,786 1403,777 1562,768 1721,761 1879,753 2038,747 2197,741 2355,736 2514,731 2673,726 2831,723 2990,718 3149,715 3307,713 3466,709 3625,707"/>
+                <TextEquiv>
+                    <Unicode>benen Fehlschuß nur wenig zur Seite gegangen war.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="567,989 3770,873 3613,714 2782,828 1271,795 1119,890 930,812 565,922"/>
+                <Baseline points="588,971 746,957 904,944 1062,933 1220,924 1378,916 1536,910 1694,904 1852,899 2010,896 2168,892 2326,888 2484,885 2642,882 2800,878 2958,873 3116,869 3274,862 3432,854 3590,846 3748,836"/>
+                <TextEquiv>
+                    <Unicode>Der Akide hat sein sehr stattliches mit breiter, erhöhter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="440,1171 1019,1207 1391,1079 1551,1183 1732,1054 2405,1010 2898,1090 3804,1000 3843,874 432,1002"/>
+                <Baseline points="460,1117 628,1108 796,1100 964,1090 1133,1079 1301,1070 1469,1060 1638,1050 1806,1040 1974,1030 2143,1020 2311,1012 2479,1004 2647,997 2816,991 2984,986 3152,982 3321,979 3489,978 3657,979 3826,981"/>
+                <TextEquiv>
+                    <Unicode>Barasa versehenes Haus neuerdings auf eine kleine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="457,1337 679,1237 1283,1319 1832,1185 2755,1241 3695,1115 3288,984 2925,1100 2002,1034 1719,1146 1577,1055 450,1182"/>
+                <Baseline points="477,1261 557,1256 712,1247 868,1239 1024,1231 1179,1223 1335,1215 1491,1206 1646,1199 1802,1191 1958,1183 2114,1175 2269,1168 2425,1160 2581,1152 2736,1145 2892,1138 3048,1131 3203,1124 3359,1116 3515,1109 3671,1102"/>
+                <TextEquiv>
+                    <Unicode>Erhöhung verlegt; man hat nun in seinem Schatten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="410,1531 1997,1345 3567,1387 3897,1224 2069,1191 984,1358 788,1256 404,1407"/>
+                <Baseline points="429,1444 601,1431 774,1418 946,1406 1119,1395 1291,1383 1464,1372 1636,1361 1809,1352 1981,1342 2154,1334 2327,1325 2499,1318 2672,1311 2844,1305 3017,1299 3189,1295 3362,1291 3534,1288 3707,1286 3880,1285"/>
+                <TextEquiv>
+                    <Unicode>sitzend einen hübschen Blick auf Namunda u. Namyura,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="412,1692 1918,1488 3895,1494 3890,1379 3198,1300 2319,1430 2115,1341 405,1541"/>
+                <Baseline points="429,1580 601,1573 773,1563 945,1554 1117,1544 1289,1535 1461,1525 1633,1515 1805,1506 1977,1496 2149,1487 2321,1477 2493,1469 2665,1462 2837,1454 3009,1448 3181,1443 3353,1439 3525,1437 3697,1435 3869,1435"/>
+                <TextEquiv>
+                    <Unicode>sowie durch die Bäume hindurch auf den Tendaguru.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="404,1810 1734,1649 3552,1657 3930,1575 3922,1433 1052,1543 399,1703"/>
+                <Baseline points="424,1743 598,1726 772,1711 946,1697 1120,1683 1295,1670 1469,1658 1643,1647 1817,1636 1991,1627 2166,1617 2340,1608 2514,1600 2688,1593 2862,1585 3037,1578 3211,1572 3385,1566 3559,1560 3733,1555 3908,1550"/>
+                <TextEquiv>
+                    <Unicode>Der Akide hat selbst keine Schambe, doch sah ich eine ganze Schar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="410,1919 3862,1722 3807,1614 3169,1589 404,1817"/>
+                <Baseline points="427,1870 597,1864 768,1857 938,1848 1109,1839 1280,1829 1450,1819 1621,1807 1791,1796 1962,1785 2133,1774 2303,1762 2474,1751 2644,1740 2815,1730 2986,1721 3156,1713 3327,1705 3497,1699 3668,1694 3839,1690"/>
+                <TextEquiv>
+                    <Unicode>recht gedrungener kräftiger Ziegen, die offenbar in guter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="390,2033 1064,2090 1413,1968 1530,2064 2905,1861 3284,1965 3641,1901 3632,1733 383,1913"/>
+                <Baseline points="412,2002 572,1997 732,1991 892,1984 1053,1975 1213,1967 1373,1958 1534,1947 1694,1937 1854,1926 2015,1916 2175,1907 2335,1896 2495,1887 2656,1878 2816,1871 2976,1864 3137,1858 3297,1854 3457,1851 3618,1850"/>
+                <TextEquiv>
+                    <Unicode>Vermehrung begriffen waren. Ich wurde äußerlich sehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="452,2223 1658,2081 2261,2155 2819,2004 3944,2027 3939,1916 443,2045"/>
+                <Baseline points="470,2134 642,2128 815,2121 987,2113 1160,2105 1332,2096 1505,2087 1677,2077 1850,2068 2022,2057 2195,2047 2368,2038 2540,2030 2713,2021 2885,2013 3058,2006 3230,2000 3403,1996 3575,1992 3748,1990 3921,1989"/>
+                <TextEquiv>
+                    <Unicode>freundlich empfangen u. wir scherzten viel mit einander.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="398,2304 3944,2114 3733,1987 392,2193"/>
+                <Baseline points="419,2275 594,2266 769,2257 944,2247 1119,2238 1294,2228 1469,2219 1644,2209 1819,2200 1994,2190 2169,2181 2344,2172 2519,2163 2694,2153 2869,2145 3044,2136 3219,2129 3394,2121 3569,2114 3744,2107 3919,2102"/>
+                <TextEquiv>
+                    <Unicode>D. Akide ist ein hübscher, selbstbewußter Mann, ob er vollstes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="368,2424 1611,2316 1790,2413 2718,2252 3629,2315 3708,2141 360,2300"/>
+                <Baseline points="388,2402 553,2395 718,2386 883,2377 1049,2367 1214,2356 1379,2345 1544,2334 1710,2322 1875,2310 2040,2299 2205,2288 2371,2277 2536,2268 2701,2258 2866,2251 3032,2244 3197,2238 3362,2234 3527,2232 3693,2232"/>
+                <TextEquiv>
+                    <Unicode>Vertrauen verdient, steht auf einem andern Blatt. Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="419,2651 859,2504 1150,2606 1710,2459 1986,2536 2136,2437 2682,2501 2809,2395 3737,2369 3187,2252 408,2470"/>
+                <Baseline points="436,2543 599,2533 763,2522 927,2511 1091,2499 1254,2489 1418,2477 1582,2465 1746,2454 1909,2443 2073,2432 2237,2421 2401,2411 2564,2401 2728,2391 2892,2383 3056,2374 3219,2366 3383,2359 3547,2353 3711,2347"/>
+                <TextEquiv>
+                    <Unicode>schenkte ihm statt des begehrten Antilopenbratens ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="436,2798 687,2686 808,2768 1215,2651 1415,2738 1936,2601 3694,2554 3803,2356 3397,2482 2257,2463 1846,2571 1614,2486 946,2627 798,2528 427,2643"/>
+                <Baseline points="452,2693 618,2682 785,2671 952,2660 1119,2649 1286,2639 1453,2629 1620,2618 1787,2610 1954,2600 2121,2590 2287,2581 2454,2572 2621,2563 2788,2554 2955,2544 3122,2536 3289,2526 3456,2517 3623,2509 3790,2499"/>
+                <TextEquiv>
+                    <Unicode>Perlhuhn zum Entsetzen meiner Leute, die es gern als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="492,2949 1706,2744 2029,2853 2646,2698 2888,2790 3503,2743 3646,2689 3638,2561 480,2772"/>
+                <Baseline points="509,2844 664,2833 820,2823 975,2812 1131,2801 1286,2792 1442,2781 1597,2771 1753,2761 1908,2753 2064,2742 2220,2733 2375,2723 2531,2714 2686,2704 2842,2695 2997,2686 3153,2676 3308,2666 3464,2657 3620,2647"/>
+                <TextEquiv>
+                    <Unicode>Zukost gehabt hätten. Hier schien reger Briefverkehr zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="485,3029 1907,3011 2189,2890 2474,2975 3098,2846 3467,2921 3710,2821 3699,2648 480,2954"/>
+                <Baseline points="508,3006 675,2993 842,2979 1009,2966 1177,2954 1344,2942 1511,2931 1679,2919 1846,2908 2013,2898 2181,2888 2348,2877 2515,2868 2683,2858 2850,2848 3017,2839 3185,2830 3352,2820 3519,2811 3687,2802"/>
+                <TextEquiv>
+                    <Unicode>herrschen, obwohl Seine Hoheit selbst nur arabisch lesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="473,3176 3080,2976 3720,3051 3911,2967 3903,2843 464,3039"/>
+                <Baseline points="495,3152 664,3141 834,3129 1003,3117 1173,3105 1342,3092 1512,3080 1681,3067 1851,3055 2020,3043 2190,3031 2360,3019 2529,3008 2699,2998 2868,2988 3038,2978 3207,2969 3377,2961 3546,2954 3716,2948 3886,2942"/>
+                <TextEquiv>
+                    <Unicode>können, auch stand Tinte u. Feder bereit. Für d. Tier nahm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="454,3357 3937,3144 3900,2964 3701,3074 2896,2992 447,3229"/>
+                <Baseline points="473,3302 644,3289 816,3276 988,3263 1160,3250 1332,3238 1504,3226 1676,3213 1848,3202 2020,3191 2192,3181 2363,3170 2535,3161 2707,3151 2879,3143 3051,3135 3223,3128 3395,3121 3567,3115 3739,3110 3911,3106"/>
+                <TextEquiv>
+                    <Unicode>ich 2 weitere Träger an, die aber den Weg so wenig wuß„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="480,3451 1520,3359 2032,3467 2234,3323 2783,3287 3388,3399 4011,3225 3580,3136 474,3327"/>
+                <Baseline points="501,3420 675,3413 849,3404 1024,3395 1198,3385 1373,3374 1547,3363 1721,3351 1896,3340 2070,3329 2245,3318 2419,3308 2593,3299 2768,3290 2942,3282 3117,3276 3291,3271 3465,3267 3640,3266 3814,3266 3989,3268"/>
+                <TextEquiv>
+                    <Unicode>ten, wie der Akide selbst; ein über Nanundo führender</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="453,3626 1280,3541 1542,3631 1963,3508 2371,3586 3172,3426 3878,3503 3833,3305 446,3471"/>
+                <Baseline points="475,3580 643,3569 812,3560 981,3549 1150,3539 1319,3529 1488,3520 1657,3509 1826,3500 1995,3491 2164,3482 2332,3474 2501,3466 2670,3458 2839,3451 3008,3444 3177,3438 3346,3432 3515,3427 3684,3423 3853,3419"/>
+                <TextEquiv>
+                    <Unicode>ist offenbar eingegangen. Nach manchem Hin u. Her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="454,3821 1575,3661 3901,3595 3895,3489 3297,3533 3168,3437 445,3644"/>
+                <Baseline points="472,3733 642,3721 812,3710 982,3699 1153,3689 1323,3678 1493,3668 1663,3658 1834,3649 2004,3639 2174,3631 2344,3622 2515,3613 2685,3605 2855,3598 3025,3590 3196,3583 3366,3576 3536,3570 3706,3564 3877,3559"/>
+                <TextEquiv>
+                    <Unicode>fanden wir den rechten über Kindope, der mir vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="435,3910 1940,3780 3107,3836 3425,3703 3735,3771 3923,3623 1586,3657 430,3813"/>
+                <Baseline points="457,3880 629,3866 801,3851 974,3837 1146,3825 1319,3813 1491,3802 1663,3791 1836,3781 2008,3772 2181,3763 2353,3754 2525,3746 2698,3738 2870,3730 3043,3723 3215,3715 3387,3708 3560,3700 3732,3692 3905,3685"/>
+                <TextEquiv>
+                    <Unicode>Mbenkuru an selbst bekannt war. Jenseits schoß ich wie„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="455,4041 924,4095 2448,3903 2639,4002 3229,3882 3372,3982 3859,3952 3853,3823 3439,3699 3099,3843 451,3957"/>
+                <Baseline points="475,4029 642,4014 810,4001 978,3989 1146,3978 1314,3967 1481,3958 1649,3949 1817,3941 1985,3933 2153,3926 2320,3920 2488,3914 2656,3908 2824,3902 2992,3897 3159,3892 3327,3886 3495,3881 3663,3876 3831,3870"/>
+                <TextEquiv>
+                    <Unicode>derum zweimal auf ein Mbawala, gab dann d. Verfolgung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="439,4215 1845,4070 3279,4138 3386,4035 3870,4041 3866,3948 431,4033"/>
+                <Baseline points="460,4167 629,4152 798,4137 968,4123 1137,4110 1307,4098 1476,4087 1646,4078 1815,4069 1985,4061 2154,4053 2323,4046 2493,4041 2662,4035 2832,4031 3001,4027 3171,4024 3340,4022 3510,4020 3679,4019 3849,4018"/>
+                <TextEquiv>
+                    <Unicode>auf, doch war es ebenfalls nicht geflohen, Ali ging nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887977862_2055" custom="readingOrder {index:28;}">
+                <Coords points="423,4352 2699,4180 2988,4277 3125,4167 3565,4257 3809,4155 3803,4040 821,4136 418,4259"/>
+                <Baseline points="442,4316 547,4306 652,4296 758,4288 863,4280 969,4271 1074,4264 1179,4257 1285,4251 1390,4244 1496,4239 1601,4233 1706,4228 1812,4222 1917,4218 2023,4213 2128,4208 2233,4204 2339,4199 2444,4195 2550,4190 3119,4161 3152,4161 3185,4161 3219,4161 3252,4160 3285,4158 3319,4157 3352,4156 3385,4153 3419,4152 3452,4150 3485,4148 3519,4146 3552,4146 3585,4144 3619,4144 3652,4143 3685,4144 3719,4144 3752,4146 3786,4149"/>
+                <TextEquiv>
+                    <Unicode>u. schoß es mit der Flinte. Nu d. Träger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582887983538_2060" custom="readingOrder {index:29;}">
+                <Coords points="413,4485 3806,4340 3798,4193 3117,4176 3010,4267 2650,4179 2478,4282 406,4352"/>
+                <Baseline points="435,4457 548,4451 661,4444 774,4438 888,4430 1001,4424 1114,4417 1228,4409 1341,4403 1454,4395 1568,4388 1681,4381 1794,4374 1907,4368 2021,4362 2134,4355 2247,4349 2361,4343 2474,4338 2587,4332 2701,4327 2995,4316 3034,4314 3073,4312 3112,4310 3152,4308 3191,4306 3230,4303 3270,4301 3309,4299 3348,4297 3388,4295 3427,4293 3466,4291 3505,4290 3545,4289 3584,4288 3623,4287 3663,4287 3702,4287 3741,4287 3781,4288"/>
+                <TextEquiv>
+                    <Unicode>wieder ausgesöhnt; ich mußte vor Kindope noch 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:30;}">
+                <Coords points="377,4635 1825,4628 2565,4481 2876,4586 3143,4400 2793,4324 2669,4428 1934,4396 1827,4472 1471,4387 1095,4507 370,4502"/>
+                <Baseline points="396,4602 532,4591 668,4580 804,4571 941,4561 1077,4553 1213,4545 1350,4537 1486,4530 1622,4524 1759,4517 1895,4511 2031,4506 2167,4500 2304,4495 2440,4490 2576,4485 2713,4481 2849,4476 2985,4471 3122,4467"/>
+                <TextEquiv>
+                    <Unicode>Mann zurückschicken. Gegen 12 im Lager.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>50&#xD;
+an die Pflanzungen auch Tauben u. Papageien. ½ Std. vor dem&#xD;
+Akiden schoß ich mein erstes Wild, ein Mbawala, nachdem es&#xD;
+freilich auf den ersteren, aus größerer Entfernung abgege„&#xD;
+benen Fehlschuß nur wenig zur Seite gegangen war.&#xD;
+Der Akide hat sein sehr stattliches mit breiter, erhöhter&#xD;
+Barasa versehenes Haus neuerdings auf eine kleine&#xD;
+Erhöhung verlegt; man hat nun in seinem Schatten&#xD;
+sitzend einen hübschen Blick auf Namunda u. Namyura,&#xD;
+sowie durch die Bäume hindurch auf den Tendaguru.&#xD;
+Der Akide hat selbst keine Schambe, doch sah ich eine ganze Schar&#xD;
+recht gedrungener kräftiger Ziegen, die offenbar in guter&#xD;
+Vermehrung begriffen waren. Ich wurde äußerlich sehr&#xD;
+freundlich empfangen u. wir scherzten viel mit einander.&#xD;
+D. Akide ist ein hübscher, selbstbewußter Mann, ob er vollstes&#xD;
+Vertrauen verdient, steht auf einem andern Blatt. Ich&#xD;
+schenkte ihm statt des begehrten Antilopenbratens ein&#xD;
+Perlhuhn zum Entsetzen meiner Leute, die es gern als&#xD;
+Zukost gehabt hätten. Hier schien reger Briefverkehr zu&#xD;
+herrschen, obwohl Seine Hoheit selbst nur arabisch lesen&#xD;
+können, auch stand Tinte u. Feder bereit. Für d. Tier nahm&#xD;
+ich 2 weitere Träger an, die aber den Weg so wenig wuß„&#xD;
+ten, wie der Akide selbst; ein über Nanundo führender&#xD;
+ist offenbar eingegangen. Nach manchem Hin u. Her&#xD;
+fanden wir den rechten über Kindope, der mir vom&#xD;
+Mbenkuru an selbst bekannt war. Jenseits schoß ich wie„&#xD;
+derum zweimal auf ein Mbawala, gab dann d. Verfolgung&#xD;
+auf, doch war es ebenfalls nicht geflohen, Ali ging nach&#xD;
+u. schoß es mit der Flinte. Nu d. Träger&#xD;
+wieder ausgesöhnt; ich mußte vor Kindope noch 2&#xD;
+Mann zurückschicken. Gegen 12 im Lager.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

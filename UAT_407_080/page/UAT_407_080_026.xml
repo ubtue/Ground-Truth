@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:54.225+02:00</Created>
+        <LastChange>2020-03-18T11:39:17.431+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550724" pageNr="26" tsid="25822805" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=IKWKMDDUBBJMUNRDUFJHOLPJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YSVULOULWDDZLVOMQNPCWOLP" imageId="4551602"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_026.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255539489" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="379,254 379,4913 4030,4913 4030,254"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="414,361 446,362 464,354 516,310 553,303 561,312 603,309 605,232 578,231 569,221 533,229 511,215 501,219 488,205 470,208 456,222 419,220"/>
+                <Baseline points="440,303 468,306 496,308 525,308 553,309 582,309"/>
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="420,457 1643,469 1784,378 2202,507 2861,372 3216,498 3770,341 824,237 420,343"/>
+                <Baseline points="441,403 606,402 771,401 937,399 1102,397 1267,394 1433,392 1598,389 1763,387 1929,385 2094,382 2259,381 2425,380 2590,379 2755,379 2921,380 3086,382 3251,385 3417,389 3582,394 3748,400"/>
+                <TextEquiv>
+                    <Unicode>den Block kleine Röhren zahlreich zum Vorschein, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="404,641 945,551 3858,627 3858,468 3517,404 3222,494 2604,385 2176,498 1790,379 404,432"/>
+                <Baseline points="428,552 598,550 768,548 938,546 1109,544 1279,543 1449,541 1620,540 1790,539 1960,539 2131,538 2301,538 2471,539 2641,540 2812,541 2982,543 3152,545 3323,548 3493,551 3663,555 3834,560"/>
+                <TextEquiv>
+                    <Unicode>stark zerbröckeln. Halte sie erst f. rezente pflanzliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="383,786 1687,721 1960,834 2300,716 2601,834 3369,706 3773,833 3859,628 382,668"/>
+                <Baseline points="405,721 576,721 748,720 919,720 1091,719 1262,718 1434,717 1605,717 1777,716 1948,715 2120,714 2292,714 2463,713 2635,713 2806,713 2978,714 3149,715 3321,716 3492,718 3664,721 3836,724"/>
+                <TextEquiv>
+                    <Unicode>Teile, kann aber beim Zusammensetzen nicht mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="429,985 1120,999 1494,870 3747,1013 3926,828 3372,711 2780,843 1640,739 430,817"/>
+                <Baseline points="451,888 623,886 795,885 968,885 1140,885 1313,885 1485,885 1658,886 1830,887 2003,888 2175,889 2347,891 2520,893 2692,895 2865,896 3037,899 3210,901 3382,903 3555,905 3727,907 3900,909"/>
+                <TextEquiv>
+                    <Unicode>zweifeln, daß ich Vogelknochen vor mir habe. Sehr wich„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="388,1145 1019,1068 2379,1140 2909,978 2304,987 2112,885 1477,971 1376,890 1118,1003 813,925 664,1005 567,910 386,1008"/>
+                <Baseline points="411,1062 534,1062 658,1061 782,1060 906,1058 1030,1057 1154,1055 1277,1054 1401,1052 1525,1050 1649,1049 1773,1047 1897,1045 2021,1043 2144,1041 2268,1039 2392,1037 2516,1036 2640,1034 2764,1032 2888,1031"/>
+                <TextEquiv>
+                    <Unicode>tiger Fund. Vielleicht Flugsaurier?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="660,1220 1810,1323 2397,1220 2542,1325 3633,1227 3633,1082 3411,1036 2869,1162 661,1106"/>
+                <Baseline points="683,1196 829,1201 975,1205 1122,1209 1268,1212 1415,1214 1561,1216 1708,1217 1854,1218 2001,1219 2147,1219 2293,1219 2440,1219 2586,1218 2733,1217 2879,1216 3026,1214 3172,1213 3319,1212 3465,1210 3612,1208"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Posho-Zahlungen. Schach, desgl. Abds.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="438,1386 2565,1464 3061,1359 3515,1472 3733,1395 3733,1217 3070,1318 438,1290"/>
+                <Baseline points="460,1352 622,1358 785,1363 947,1367 1110,1370 1272,1371 1435,1372 1597,1372 1760,1372 1922,1371 2085,1369 2247,1367 2410,1366 2572,1364 2735,1362 2897,1361 3060,1361 3222,1360 3385,1361 3547,1362 3710,1364"/>
+                <TextEquiv>
+                    <Unicode>D. Fieber v. Dr. J. weicht heut d. ganzen Tag nicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} textStyle {offset:0; length:16;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="611,1615 2142,1528 2284,1613 2419,1520 2870,1637 3037,1530 3951,1524 3949,1410 3767,1380 3237,1483 2917,1377 2568,1468 608,1411"/>
+                <Baseline points="635,1565 799,1558 964,1553 1128,1547 1293,1543 1458,1539 1622,1536 1787,1533 1951,1530 2116,1528 2281,1526 2445,1525 2610,1524 2774,1523 2939,1522 3104,1521 3268,1521 3433,1520 3597,1519 3762,1519 3927,1518"/>
+                <TextEquiv>
+                    <Unicode>9. Mai, Sonntag. Vorm. auf d. Tendaguru. Herr Besser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="396,1846 853,1726 3713,1739 3859,1586 3375,1501 2896,1626 2067,1540 392,1660"/>
+                <Baseline points="419,1742 589,1735 760,1728 931,1722 1102,1717 1273,1711 1444,1707 1615,1703 1786,1698 1957,1694 2128,1691 2298,1688 2469,1684 2640,1681 2811,1678 2982,1675 3153,1672 3324,1669 3495,1666 3666,1663 3837,1659"/>
+                <TextEquiv>
+                    <Unicode>schießt ein Barappi, Festbraten auch f. d. Leute. Mache</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="409,1872 1075,1970 1421,1834 1610,1944 2835,1801 3822,1850 3818,1686 1321,1805 1100,1719 649,1835 405,1736"/>
+                <Baseline points="430,1877 598,1873 766,1869 935,1864 1103,1860 1272,1854 1440,1849 1608,1843 1777,1838 1945,1833 2114,1828 2282,1823 2450,1818 2619,1815 2787,1811 2956,1809 3124,1807 3292,1805 3461,1805 3629,1806 3798,1808"/>
+                <TextEquiv>
+                    <Unicode>mir im Lager zu schaffen, um nicht weit von Dr. J.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="455,2129 1693,1957 2331,2064 2979,1948 3871,2010 3896,1837 1606,1927 1432,1834 452,1956"/>
+                <Baseline points="477,2004 647,2000 817,1996 987,1991 1157,1986 1327,1981 1497,1975 1667,1970 1837,1964 2007,1959 2177,1954 2347,1950 2517,1947 2687,1944 2857,1943 3027,1943 3197,1944 3367,1946 3537,1950 3707,1956 3877,1963"/>
+                <TextEquiv>
+                    <Unicode>zu sein. Nachm. Gemalt, Schach. Zum Sonnenunter„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="385,2269 3168,2092 3766,2207 3884,2000 380,2069"/>
+                <Baseline points="403,2159 575,2156 748,2153 921,2149 1094,2145 1267,2141 1440,2137 1613,2132 1786,2128 1959,2123 2132,2119 2304,2115 2477,2110 2650,2107 2823,2103 2996,2100 3169,2098 3342,2096 3515,2095 3688,2094 3861,2094"/>
+                <TextEquiv>
+                    <Unicode>gang auf d. Tendaguru m. Hrn. Besser. Abds. Schach.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="630,2388 3980,2345 3976,2195 3342,2149 628,2311"/>
+                <Baseline points="651,2372 816,2371 981,2368 1146,2364 1311,2359 1477,2354 1642,2348 1807,2341 1972,2335 2137,2328 2303,2322 2468,2316 2633,2310 2798,2305 2963,2301 3129,2298 3294,2296 3459,2295 3624,2296 3789,2299 3955,2303"/>
+                <TextEquiv>
+                    <Unicode>10. Mai. Vorm. Taubenjagd ohne Erfolg. Nachm. wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="505,2628 994,2493 1141,2577 1458,2491 2490,2552 2635,2517 2633,2390 2320,2432 2233,2369 2161,2430 2060,2345 1852,2430 1519,2353 1402,2428 1206,2363 502,2447"/>
+                <Baseline points="526,2521 630,2513 734,2505 839,2499 943,2493 1048,2488 1152,2485 1256,2482 1361,2479 1465,2477 1570,2476 1674,2475 1778,2475 1883,2475 1987,2475 2092,2476 2196,2477 2300,2477 2405,2478 2509,2479 2614,2480"/>
+                <TextEquiv>
+                    <Unicode>gemalt. Schach. Sonnenuntergang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="771,2693 3902,2648 3954,2488 769,2589"/>
+                <Baseline points="794,2646 950,2642 1107,2638 1264,2634 1421,2632 1578,2629 1735,2627 1891,2626 2048,2624 2205,2623 2362,2621 2519,2620 2676,2618 2833,2616 2989,2614 3146,2611 3303,2609 3460,2605 3617,2601 3774,2596 3931,2590"/>
+                <TextEquiv>
+                    <Unicode>Abds. gegen ¾10 glaubte Hr. Besser ein drei - vier„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="429,2832 1080,2905 1351,2785 2347,2846 3951,2784 3981,2684 426,2719"/>
+                <Baseline points="451,2809 626,2803 801,2798 977,2793 1152,2788 1327,2783 1503,2779 1678,2774 1853,2770 2029,2766 2204,2762 2379,2758 2555,2755 2730,2752 2905,2749 3081,2746 3256,2743 3431,2740 3607,2738 3782,2736 3958,2734"/>
+                <TextEquiv>
+                    <Unicode>maliges Heben des Bettes, Schwanken der Kleider im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="442,3017 3855,2942 3851,2774 3286,2747 3084,2839 438,2840"/>
+                <Baseline points="464,2956 632,2953 800,2949 969,2945 1137,2940 1306,2935 1474,2931 1642,2926 1811,2921 1979,2916 2148,2911 2316,2907 2484,2902 2653,2898 2821,2894 2990,2891 3158,2888 3326,2885 3495,2883 3663,2882 3832,2882"/>
+                <TextEquiv>
+                    <Unicode>Zelt zu bemerken u. fand am andern Morgen d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="446,3130 2250,3072 2530,3179 2736,3051 3075,3165 4018,3051 4015,2951 2927,2900 445,3071"/>
+                <Baseline points="467,3115 643,3110 819,3105 996,3101 1172,3095 1349,3090 1525,3085 1701,3080 1878,3075 2054,3070 2231,3066 2407,3061 2583,3056 2760,3052 2936,3048 3113,3045 3289,3041 3465,3038 3642,3035 3818,3033 3995,3031"/>
+                <TextEquiv>
+                    <Unicode>angelehnten Stock mitten im Zelt liegen. Erdbeben?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="423,3324 1964,3360 2235,3241 3021,3234 3441,3325 3819,3140 419,3155"/>
+                <Baseline points="445,3284 612,3280 780,3276 947,3271 1115,3267 1283,3264 1450,3259 1618,3256 1786,3252 1953,3249 2121,3246 2289,3242 2456,3239 2624,3236 2792,3233 2959,3230 3127,3227 3295,3224 3462,3220 3630,3217 3798,3214"/>
+                <TextEquiv>
+                    <Unicode>Alle Andern schliefen, daher weitere Beobachtungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="414,3537 582,3552 667,3487 814,3547 917,3472 995,3512 1148,3454 1716,3442 1838,3408 1837,3317 1686,3275 1592,3359 1527,3314 1252,3397 933,3390 718,3313 410,3378"/>
+                <Baseline points="435,3445 504,3444 573,3442 642,3441 711,3440 780,3439 849,3438 918,3437 987,3436 1056,3435 1126,3434 1195,3433 1264,3432 1333,3430 1402,3429 1471,3427 1540,3425 1609,3422 1678,3419 1747,3416 1817,3412"/>
+                <TextEquiv>
+                    <Unicode>nicht zu ermitteln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="1561,3521 1625,3524 1688,3500 1771,3561 1811,3533 1844,3555 1884,3526 1916,3526 1912,3385 1840,3409 1822,3401 1795,3429 1768,3434 1723,3440 1681,3422 1559,3439"/>
+                <Baseline points="1582,3496 1607,3494 1633,3492 1659,3492 1685,3492 1711,3492 1737,3492 1763,3491 1789,3491 1815,3490 1841,3489 1867,3487 1893,3483"/>
+                <TextEquiv>
+                    <Unicode>Kitukituki-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582881413983_1127" custom="readingOrder {index:22;}">
+                <Coords points="610,3632 3946,3578 3679,3425 607,3500"/>
+                <Baseline points="632,3620 721,3616 810,3613 899,3609 989,3607 1078,3604 1167,3602 1257,3600 1346,3598 1435,3596 1525,3594 1614,3593 1703,3591 1792,3589 1882,3587 1971,3585 2060,3582 2150,3580 2239,3577 2328,3573 2418,3570 2446,3552 2519,3557 2593,3560 2667,3562 2741,3563 2814,3562 2888,3561 2962,3559 3036,3557 3109,3554 3183,3551 3257,3548 3331,3546 3404,3545 3478,3544 3552,3545 3626,3546 3699,3549 3773,3554 3847,3560 3921,3568"/>
+                <TextEquiv>
+                    <Unicode>11. Mai. Am Doanika-Bach Wasserloch gegraben in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="415,3859 917,3769 1134,3882 1807,3724 3763,3747 3760,3643 3139,3545 2683,3661 410,3659"/>
+                <Baseline points="434,3780 599,3775 764,3770 930,3764 1095,3758 1260,3753 1426,3747 1591,3741 1756,3735 1922,3730 2087,3725 2252,3720 2418,3716 2583,3712 2748,3710 2914,3707 3079,3705 3244,3704 3410,3704 3575,3705 3741,3707"/>
+                <TextEquiv>
+                    <Unicode>Ton unter hartem Sandstein, da d. Wasser knapp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="399,4053 695,3931 3885,3858 2949,3716 393,3849"/>
+                <Baseline points="417,3928 589,3927 761,3925 934,3921 1106,3916 1278,3910 1451,3905 1623,3898 1795,3891 1968,3884 2140,3877 2312,3870 2485,3864 2657,3858 2829,3853 3002,3850 3174,3847 3346,3846 3519,3847 3691,3850 3864,3854"/>
+                <TextEquiv>
+                    <Unicode>zu werden beginnt. Weiter unterhalb wird eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="404,4147 3903,4102 3973,3941 1144,3910 401,4043"/>
+                <Baseline points="425,4089 601,4083 777,4078 953,4072 1130,4065 1306,4059 1482,4053 1658,4048 1835,4042 2011,4037 2187,4032 2363,4028 2540,4024 2716,4022 2892,4020 3068,4019 3245,4019 3421,4021 3597,4023 3773,4028 3950,4034"/>
+                <TextEquiv>
+                    <Unicode>Quelle entdeckt: d. Wasser tropft ständig aus einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="385,4275 3775,4233 3773,4138 3436,4076 383,4148"/>
+                <Baseline points="407,4244 574,4238 741,4233 909,4227 1076,4221 1243,4216 1411,4211 1578,4205 1745,4201 1913,4197 2080,4193 2247,4189 2415,4186 2582,4184 2749,4183 2917,4182 3084,4182 3251,4184 3419,4186 3586,4189 3754,4194"/>
+                <TextEquiv>
+                    <Unicode>bestimmten Horizont über einer grottenartigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="356,4451 2017,4349 2207,4462 3258,4321 3501,4415 3795,4335 3792,4221 2736,4180 1521,4316 1382,4202 353,4337"/>
+                <Baseline points="379,4401 548,4393 718,4386 887,4378 1057,4373 1226,4367 1396,4362 1565,4357 1735,4353 1904,4348 2074,4345 2243,4341 2413,4337 2582,4333 2752,4330 2921,4327 3091,4323 3260,4319 3430,4315 3599,4311 3769,4306"/>
+                <TextEquiv>
+                    <Unicode>Aushöhlung in der ziemlich hohen Wand durch Gras</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="370,4652 1079,4637 1268,4519 1607,4649 2631,4509 2906,4617 3199,4497 3565,4608 3772,4508 3769,4367 3337,4340 366,4452"/>
+                <Baseline points="393,4566 560,4558 728,4551 896,4543 1063,4537 1231,4531 1399,4527 1566,4522 1734,4518 1902,4514 2070,4511 2237,4508 2405,4505 2573,4503 2740,4501 2908,4499 3076,4497 3243,4495 3411,4494 3579,4492 3747,4490"/>
+                <TextEquiv>
+                    <Unicode>herab, sodaß hier Hoffnung auf Stetigkeit besteht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:29;}">
+                <Coords points="373,4798 2457,4667 3945,4762 4050,4532 1323,4525 370,4652"/>
+                <Baseline points="395,4730 576,4721 758,4713 940,4706 1122,4699 1303,4692 1485,4686 1667,4681 1849,4675 2030,4670 2212,4667 2394,4663 2576,4660 2757,4658 2939,4656 3121,4656 3303,4656 3484,4657 3666,4658 3848,4661 4030,4664"/>
+                <TextEquiv>
+                    <Unicode>Kleine Tropfsteinbildungen. Weiter oberhalb im Bachlauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582881427102_1133" custom="readingOrder {index:30;}">
+                <Coords points="411,4979 1018,4864 3024,4947 3862,4754 2479,4674 2313,4796 1402,4707 408,4793"/>
+                <Baseline points="433,4880 533,4873 633,4867 733,4862 833,4857 933,4853 1033,4850 1133,4847 1233,4845 1333,4844 1433,4842 1533,4841 1633,4840 1733,4840 1833,4839 1933,4839 2033,4838 2133,4837 2233,4837 2333,4835 2434,4834 2457,4823 2526,4822 2595,4821 2664,4821 2733,4820 2803,4820 2872,4820 2941,4820 3010,4819 3079,4819 3149,4818 3218,4818 3287,4817 3356,4816 3425,4815 3495,4813 3564,4812 3633,4809 3702,4808 3771,4805 3841,4801"/>
+                <TextEquiv>
+                    <Unicode>fand ich ein schönes Trigonien-Pflaster gleich dem am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22&#xD;
+den Block kleine Röhren zahlreich zum Vorschein, die&#xD;
+stark zerbröckeln. Halte sie erst f. rezente pflanzliche&#xD;
+Teile, kann aber beim Zusammensetzen nicht mehr&#xD;
+zweifeln, daß ich Vogelknochen vor mir habe. Sehr wich„&#xD;
+tiger Fund. Vielleicht Flugsaurier?&#xD;
+Nachm. Posho-Zahlungen. Schach, desgl. Abds.&#xD;
+D. Fieber v. Dr. J. weicht heut d. ganzen Tag nicht.&#xD;
+9. Mai, Sonntag. Vorm. auf d. Tendaguru. Herr Besser&#xD;
+schießt ein Barappi, Festbraten auch f. d. Leute. Mache&#xD;
+mir im Lager zu schaffen, um nicht weit von Dr. J.&#xD;
+zu sein. Nachm. Gemalt, Schach. Zum Sonnenunter„&#xD;
+gang auf d. Tendaguru m. Hrn. Besser. Abds. Schach.&#xD;
+10. Mai. Vorm. Taubenjagd ohne Erfolg. Nachm. wieder&#xD;
+gemalt. Schach. Sonnenuntergang.&#xD;
+Abds. gegen ¾10 glaubte Hr. Besser ein drei - vier„&#xD;
+maliges Heben des Bettes, Schwanken der Kleider im&#xD;
+Zelt zu bemerken u. fand am andern Morgen d.&#xD;
+angelehnten Stock mitten im Zelt liegen. Erdbeben?&#xD;
+Alle Andern schliefen, daher weitere Beobachtungen&#xD;
+nicht zu ermitteln.&#xD;
+Kitukituki-&#xD;
+11. Mai. Am Doanika-Bach Wasserloch gegraben in&#xD;
+Ton unter hartem Sandstein, da d. Wasser knapp&#xD;
+zu werden beginnt. Weiter unterhalb wird eine&#xD;
+Quelle entdeckt: d. Wasser tropft ständig aus einem&#xD;
+bestimmten Horizont über einer grottenartigen&#xD;
+Aushöhlung in der ziemlich hohen Wand durch Gras&#xD;
+herab, sodaß hier Hoffnung auf Stetigkeit besteht.&#xD;
+Kleine Tropfsteinbildungen. Weiter oberhalb im Bachlauf&#xD;
+fand ich ein schönes Trigonien-Pflaster gleich dem am</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

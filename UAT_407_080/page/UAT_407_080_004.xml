@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Konzilsprotokolle v1(htr_id=5)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:53.054+02:00</Created>
+        <LastChange>2020-03-31T09:49:08.725+02:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550698" pageNr="4" tsid="26741781" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=CDASIXTHVUGGEZLAKTXDWLXW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GGDZPVTYHONQUNZBCRCOBDIE" imageId="4551576"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_004.jpg" imageWidth="4324" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255533693" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="208,294 208,4967 4043,4961 4043,288"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="280,395 331,392 345,407 363,403 386,427 418,423 423,275 386,273 377,264 349,263 340,253 307,271 284,270"/>
+                <Baseline points="306,361 336,366 366,366 396,365"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} textStyle {offset:25; length:7;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="433,455 681,550 1354,439 3977,519 3974,323 3471,260 431,306"/>
+                <Baseline points="458,431 632,437 807,440 982,442 1157,441 1332,439 1506,436 1681,432 1856,428 2031,423 2206,418 2380,413 2555,409 2730,405 2905,403 3080,401 3254,402 3429,404 3604,409 3779,415 3954,425"/>
+                <TextEquiv>
+                    <Unicode>Menschliche Gestalten in Pompeji sehr klein, auch die Türen auf„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="319,711 697,602 1123,696 1764,667 1901,566 2921,609 2916,465 2739,438 313,507"/>
+                <Baseline points="341,605 468,604 596,602 723,599 851,596 979,593 1106,589 1234,585 1361,581 1489,577 1617,572 1744,568 1872,564 1999,559 2127,555 2255,551 2382,547 2510,543 2637,540 2765,538 2893,535"/>
+                <TextEquiv>
+                    <Unicode>fallend niedrig. Prächtige Gebirgsumrahmung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;} textStyle {offset:0; length:18;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="556,845 1725,706 2996,793 3957,699 3954,588 3493,546 3216,644 2507,546 552,673"/>
+                <Baseline points="577,747 744,744 912,741 1080,737 1247,733 1415,728 1583,723 1750,719 1918,714 2086,710 2254,706 2421,702 2589,699 2757,695 2924,693 3092,691 3260,689 3427,689 3595,689 3763,690 3931,693"/>
+                <TextEquiv>
+                    <Unicode>Lavastrom von 1906 bei Boscotrecase noch ganz kahl und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="366,1026 627,902 803,1008 1209,926 1310,1007 1617,862 1806,954 2035,854 2457,962 3061,939 3220,828 3520,907 3515,744 2968,784 2751,688 360,812"/>
+                <Baseline points="386,902 541,901 697,899 852,896 1008,891 1163,885 1319,880 1474,873 1630,867 1785,859 1941,853 2097,846 2252,840 2408,835 2563,830 2719,827 2874,825 3030,824 3185,825 3341,828 3497,833"/>
+                <TextEquiv>
+                    <Unicode>ursprünglich, zwischen die Häuser u. Gärten gedrängt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818827014_1250" custom="readingOrder {index:5;} textStyle {offset:21; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="515,1094 1622,1133 1931,1013 2240,1090 3339,979 3500,1092 3904,1059 3901,924 511,959"/>
+                <Baseline points="539,1045 668,1050 797,1053 927,1053 1056,1052 1185,1050 1315,1046 1444,1042 1573,1037 1703,1032 1832,1026 1961,1020 2091,1015 2220,1010 2349,1005 2479,1002 2608,1000 2737,999 2867,1000 2996,1002 3126,1007 3180,979 3214,979 3249,979 3284,979 3319,979 3354,980 3389,980 3424,981 3459,982 3494,982 3529,984 3563,985 3598,987 3633,988 3668,990 3703,992 3738,995 3773,997 3808,1000 3843,1002 3878,1006"/>
+                <TextEquiv>
+                    <Unicode>Warmes, sommerliches Wetter seit d. 18.III. Regenschauer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="352,1253 1027,1299 1183,1198 1362,1310 2433,1125 3226,1270 3878,1103 2472,1007 349,1118"/>
+                <Baseline points="374,1212 548,1207 722,1203 896,1197 1070,1191 1244,1186 1418,1179 1592,1173 1766,1167 1940,1162 2115,1156 2289,1152 2463,1148 2637,1144 2811,1142 2985,1141 3159,1141 3333,1142 3507,1144 3681,1148 3856,1154"/>
+                <TextEquiv>
+                    <Unicode>in Neapel, sonst ständig blauer Himmel u. schön. Am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="353,1374 3974,1329 3971,1185 3804,1160 3122,1258 2436,1123 1844,1270 351,1267"/>
+                <Baseline points="374,1367 552,1362 731,1357 910,1353 1089,1346 1268,1341 1447,1335 1625,1330 1804,1324 1983,1319 2162,1314 2341,1310 2520,1306 2699,1303 2877,1300 3056,1299 3235,1298 3414,1299 3593,1301 3772,1304 3951,1308"/>
+                <TextEquiv>
+                    <Unicode>17. bedeckt, aber zum ersten Mal im Schatten nicht kalt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="334,1535 611,1621 970,1490 1470,1570 2397,1456 2840,1524 2837,1394 2575,1321 1842,1416 1566,1339 1104,1449 743,1352 331,1410"/>
+                <Baseline points="357,1506 479,1508 602,1509 725,1508 848,1507 971,1505 1094,1502 1217,1499 1340,1494 1463,1490 1586,1485 1708,1481 1831,1476 1954,1471 2077,1468 2200,1464 2323,1461 2446,1459 2569,1457 2692,1457 2815,1458"/>
+                <TextEquiv>
+                    <Unicode>Windstille am 23.III. im Roten Meer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;} textStyle {offset:3; length:10;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="610,1727 2005,1756 2974,1621 3367,1707 3812,1666 3810,1540 1317,1509 607,1611"/>
+                <Baseline points="633,1658 790,1660 948,1660 1106,1660 1264,1658 1422,1655 1579,1652 1737,1648 1895,1644 2053,1640 2211,1635 2368,1630 2526,1626 2684,1622 2842,1619 3000,1616 3157,1614 3315,1613 3473,1613 3631,1615 3789,1618"/>
+                <TextEquiv>
+                    <Unicode>Am Suez-Kanal Uferprofile, Ähnlichkeit mit solchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="359,1861 1419,1813 1649,1915 1841,1803 2733,1764 3163,1861 3692,1788 3689,1653 358,1787"/>
+                <Baseline points="381,1829 545,1827 709,1825 873,1822 1038,1818 1202,1813 1366,1808 1531,1803 1695,1797 1859,1793 2024,1787 2188,1782 2352,1777 2516,1773 2681,1770 2845,1767 3009,1765 3174,1765 3338,1765 3502,1767 3667,1770"/>
+                <TextEquiv>
+                    <Unicode>in unteren Diluvialsand der Mark. Mächtigkeit des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="371,1999 890,2087 3415,1892 3734,2018 3729,1832 2900,1776 368,1887"/>
+                <Baseline points="396,1977 561,1978 727,1978 892,1976 1058,1971 1224,1967 1389,1960 1555,1954 1721,1946 1886,1940 2052,1933 2218,1925 2383,1919 2549,1913 2715,1909 2880,1906 3046,1904 3212,1904 3377,1907 3543,1912 3709,1919"/>
+                <TextEquiv>
+                    <Unicode>Sandes gering: im südlichen Teil Unterlagerung durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="408,2210 4032,2075 4029,1982 3389,1901 1093,2085 402,2010"/>
+                <Baseline points="428,2153 607,2147 786,2141 965,2134 1144,2126 1323,2118 1502,2110 1681,2102 1860,2093 2039,2086 2218,2078 2397,2070 2576,2063 2755,2058 2934,2053 3113,2049 3292,2047 3471,2046 3650,2047 3829,2050 4008,2054"/>
+                <TextEquiv>
+                    <Unicode>Tone und grünlichblauen Schlick sichtbar. Der Boden nimmt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="371,2328 3927,2257 3819,2074 3482,2160 3223,2065 370,2272"/>
+                <Baseline points="392,2312 567,2304 743,2295 918,2287 1094,2278 1269,2271 1445,2263 1620,2255 1796,2248 1971,2241 2147,2235 2322,2229 2498,2224 2673,2219 2849,2215 3024,2212 3200,2209 3375,2208 3551,2207 3726,2207 3902,2208"/>
+                <TextEquiv>
+                    <Unicode>in der Nähe von Bahnwärterhäuschen u. dgl. Pflanzenwuchs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="368,2538 1843,2404 3877,2436 3873,2306 3309,2270 364,2380"/>
+                <Baseline points="390,2471 563,2464 736,2457 909,2450 1082,2443 1255,2436 1428,2429 1601,2423 1774,2416 1947,2410 2120,2404 2293,2399 2466,2394 2639,2390 2812,2387 2985,2384 3158,2382 3331,2381 3504,2381 3677,2381 3850,2383"/>
+                <TextEquiv>
+                    <Unicode>(Palmen, Kaktus etc.) an. Scharfe Abgrenzung des ebenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="357,2622 611,2703 1193,2578 3862,2545 3812,2426 3248,2391 355,2547"/>
+                <Baseline points="378,2613 551,2609 724,2604 897,2598 1070,2592 1243,2585 1416,2578 1589,2570 1762,2563 1935,2555 2108,2549 2281,2542 2454,2536 2627,2531 2800,2527 2973,2524 3146,2522 3319,2522 3492,2523 3665,2526 3838,2531"/>
+                <TextEquiv>
+                    <Unicode>Wüstenteiles gegen die Randgebirge von d. Rande vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="333,2833 3127,2808 3347,2695 3647,2780 3925,2727 3921,2560 1224,2577 618,2709 327,2610"/>
+                <Baseline points="352,2758 529,2756 706,2753 884,2749 1061,2745 1238,2739 1416,2734 1593,2728 1770,2722 1948,2715 2125,2710 2302,2704 2480,2698 2657,2693 2834,2689 3012,2685 3189,2683 3366,2682 3544,2682 3721,2683 3899,2686"/>
+                <TextEquiv>
+                    <Unicode>Suez gut sichtbar (Grabenbruch?) Gebirge gleichfalls vegeta„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:17;}">
+                <Coords points="322,2952 364,2933 532,2982 610,2915 703,2942 726,2918 820,2954 968,2938 966,2803 841,2782 804,2820 757,2816 696,2756 631,2748 521,2838 441,2802 321,2864"/>
+                <Baseline points="347,2926 376,2922 406,2919 436,2917 466,2915 496,2914 526,2912 555,2912 585,2911 615,2911 645,2911 675,2912 705,2912 735,2912 764,2912 794,2912 824,2912 854,2912 884,2912 914,2911 944,2910"/>
+                <TextEquiv>
+                    <Unicode>tionslos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;} textStyle {offset:45; length:16;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="560,3117 2200,3036 2528,3128 2748,3014 4066,3093 4059,2865 3933,2851 556,2996"/>
+                <Baseline points="583,3090 755,3085 928,3079 1101,3073 1274,3067 1447,3060 1619,3052 1792,3045 1965,3038 2138,3031 2311,3024 2483,3018 2656,3011 2829,3006 3002,3001 3175,2997 3347,2994 3520,2992 3693,2992 3866,2993 4039,2995"/>
+                <TextEquiv>
+                    <Unicode>Aegyptische Küste zeigt am 22 früh deutliche Strandterrassen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="349,3315 2010,3184 2670,3313 3301,3145 3959,3203 3984,3091 344,3175"/>
+                <Baseline points="373,3283 552,3270 732,3257 911,3246 1091,3235 1271,3225 1450,3215 1630,3206 1809,3198 1989,3191 2169,3185 2348,3179 2528,3175 2707,3171 2887,3169 3067,3167 3246,3167 3426,3168 3605,3169 3785,3172 3965,3176"/>
+                <TextEquiv>
+                    <Unicode>stellenweis bis zu 4 übereinander, parallel u. horizontal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="396,3424 697,3525 1901,3356 3789,3364 3924,3219 3303,3148 2676,3306 2313,3188 393,3354"/>
+                <Baseline points="420,3429 594,3421 768,3413 942,3406 1116,3400 1290,3393 1464,3387 1639,3380 1813,3374 1987,3369 2161,3363 2335,3357 2509,3352 2683,3345 2858,3339 3032,3334 3206,3327 3380,3321 3554,3314 3728,3308 3903,3300"/>
+                <TextEquiv>
+                    <Unicode>In Hebung begriffen. „The Brother's“ im Roten Meere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="381,3620 3319,3569 3838,3510 3834,3403 2447,3367 1832,3477 1498,3376 950,3526 376,3490"/>
+                <Baseline points="404,3585 574,3581 744,3576 915,3570 1085,3564 1256,3556 1426,3549 1597,3541 1767,3533 1938,3525 2108,3518 2278,3510 2449,3504 2619,3497 2790,3492 2960,3488 3131,3485 3301,3484 3472,3483 3642,3485 3813,3488"/>
+                <TextEquiv>
+                    <Unicode>u. andere Inseln, falls nicht vulkanisch, gegen Graben„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="387,3767 3816,3649 3810,3505 3539,3484 381,3614"/>
+                <Baseline points="411,3733 579,3730 748,3726 917,3721 1086,3715 1255,3708 1424,3701 1593,3694 1762,3686 1931,3678 2100,3669 2268,3661 2437,3653 2606,3646 2775,3639 2944,3633 3113,3628 3282,3623 3451,3620 3620,3618 3789,3617"/>
+                <TextEquiv>
+                    <Unicode>bruch sprechend? Inselgruppen im Süden d. Roten Meeres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;}">
+                <Coords points="414,3937 3950,3815 3944,3685 3687,3640 408,3779"/>
+                <Baseline points="435,3886 609,3884 783,3881 958,3876 1132,3869 1307,3862 1481,3854 1655,3845 1830,3835 2004,3825 2179,3815 2353,3806 2527,3797 2702,3788 2876,3781 3051,3775 3225,3770 3399,3766 3574,3764 3748,3764 3923,3766"/>
+                <TextEquiv>
+                    <Unicode>z. T. (aber nur z. T!) gleichfalls mit einer niedrigen Abra„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="433,4100 2288,4084 3274,3932 3867,4024 4002,4001 3997,3820 429,3960"/>
+                <Baseline points="453,4020 629,4018 805,4016 981,4012 1157,4008 1334,4004 1510,3999 1686,3994 1862,3989 2038,3983 2215,3977 2391,3972 2567,3966 2743,3961 2919,3956 3096,3952 3272,3948 3448,3945 3624,3943 3800,3941 3977,3941"/>
+                <TextEquiv>
+                    <Unicode>sionsfläche (vielleicht Fluthöhe, sonst gehoben), z. T. Steilabbrüche,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1584430813297_41" custom="readingOrder {index:25;}">
+                <Coords points="208,4054 458,4050 458,4239 211,4157"/>
+                <Baseline points="234,4140 299,4149 352,4146 430,4149 453,4179 458,4178"/>
+                <TextEquiv>
+                    <Unicode>24.III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1584430813281_40" custom="readingOrder {index:26;}">
+                <Coords points="458,4050 3965,4002 3805,4141 2791,4120 2645,4231 1439,4158 610,4291 458,4239"/>
+                <Baseline points="458,4178 627,4178 802,4176 976,4173 1151,4168 1326,4163 1500,4157 1675,4151 1849,4144 2024,4137 2199,4130 2373,4123 2548,4116 2722,4111 2897,4106 3072,4102 3246,4100 3421,4098 3595,4098 3770,4100 3945,4104"/>
+                <TextEquiv>
+                    <Unicode>leicht zerstörbar u. viele winzige Erosionsklippen. Dennoch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="421,4358 4062,4332 4057,4081 3092,4212 419,4223"/>
+                <Baseline points="443,4319 622,4320 802,4320 982,4318 1161,4315 1341,4311 1521,4306 1700,4301 1880,4296 2060,4291 2240,4285 2419,4279 2599,4275 2779,4271 2958,4267 3138,4264 3318,4263 3497,4263 3677,4264 3857,4267 4037,4272"/>
+                <TextEquiv>
+                    <Unicode>mehrere vollständig erhaltene Krater, gleichsam Modelle. Nördlichste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="437,4538 2755,4439 3785,4542 3921,4371 3658,4279 434,4389"/>
+                <Baseline points="461,4510 632,4499 804,4487 976,4478 1148,4469 1320,4462 1492,4455 1664,4449 1836,4444 2008,4440 2180,4437 2351,4434 2523,4432 2695,4430 2867,4429 3039,4427 3211,4426 3383,4426 3555,4425 3727,4424 3899,4423"/>
+                <TextEquiv>
+                    <Unicode>dieser Inseln im Süden auch Sedimente? Deutliche, gleichmäßige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="439,4726 866,4655 1197,4752 1567,4625 2043,4721 2432,4608 3804,4671 3802,4545 3383,4463 436,4536"/>
+                <Baseline points="461,4639 635,4639 810,4638 985,4637 1159,4634 1334,4631 1509,4627 1683,4623 1858,4619 2033,4615 2207,4611 2382,4607 2557,4604 2731,4602 2906,4600 3081,4598 3255,4598 3430,4599 3605,4601 3780,4605"/>
+                <TextEquiv>
+                    <Unicode>Schichtung, Einfallen nach S., hellgelbe-weißliche Farbe (auch an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="442,4842 1315,4779 1541,4879 1779,4756 2356,4771 2512,4846 2508,4701 2352,4641 2139,4643 2048,4720 1911,4645 1348,4643 1030,4746 823,4654 700,4746 440,4749"/>
+                <Baseline points="466,4817 566,4810 667,4804 768,4798 869,4793 970,4789 1071,4785 1172,4782 1273,4779 1374,4776 1475,4773 1575,4771 1676,4768 1777,4767 1878,4765 1979,4763 2080,4760 2181,4757 2282,4755 2383,4752 2484,4749"/>
+                <TextEquiv>
+                    <Unicode>einer Stelle am Nordfuß helle Färbung)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582818860152_1257" custom="readingOrder {index:31;}">
+                <Coords points="708,5009 2993,4894 3432,4984 4068,4916 4065,4758 704,4832"/>
+                <Baseline points="729,4926 833,4926 938,4925 1042,4924 1147,4922 1252,4921 1356,4918 1461,4916 1566,4914 1670,4911 1775,4909 1880,4907 1984,4905 2089,4903 2194,4902 2298,4901 2403,4900 2508,4900 2612,4901 2717,4902 2822,4904 2839,4891 2899,4890 2959,4888 3019,4887 3079,4886 3140,4884 3200,4883 3260,4881 3320,4879 3380,4878 3441,4877 3501,4876 3561,4875 3621,4874 3681,4874 3742,4873 3802,4873 3862,4874 3922,4874 3982,4876 4043,4877"/>
+                <TextEquiv>
+                    <Unicode>Zahlreiche Scharen Guano bereitender, entenähnlicher, brauner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2&#xD;
+Menschliche Gestalten in Pompeji sehr klein, auch die Türen auf„&#xD;
+fallend niedrig. Prächtige Gebirgsumrahmung.&#xD;
+Lavastrom von 1906 bei Boscotrecase noch ganz kahl und&#xD;
+ursprünglich, zwischen die Häuser u. Gärten gedrängt.&#xD;
+Warmes, sommerliches Wetter seit d. 18.III. Regenschauer&#xD;
+in Neapel, sonst ständig blauer Himmel u. schön. Am&#xD;
+17. bedeckt, aber zum ersten Mal im Schatten nicht kalt.&#xD;
+Windstille am 23.III. im Roten Meer.&#xD;
+Am Suez-Kanal Uferprofile, Ähnlichkeit mit solchen&#xD;
+in unteren Diluvialsand der Mark. Mächtigkeit des&#xD;
+Sandes gering: im südlichen Teil Unterlagerung durch&#xD;
+Tone und grünlichblauen Schlick sichtbar. Der Boden nimmt&#xD;
+in der Nähe von Bahnwärterhäuschen u. dgl. Pflanzenwuchs&#xD;
+(Palmen, Kaktus etc.) an. Scharfe Abgrenzung des ebenen&#xD;
+Wüstenteiles gegen die Randgebirge von d. Rande vor&#xD;
+Suez gut sichtbar (Grabenbruch?) Gebirge gleichfalls vegeta„&#xD;
+tionslos.&#xD;
+Aegyptische Küste zeigt am 22 früh deutliche Strandterrassen,&#xD;
+stellenweis bis zu 4 übereinander, parallel u. horizontal.&#xD;
+In Hebung begriffen. „The Brother's“ im Roten Meere&#xD;
+u. andere Inseln, falls nicht vulkanisch, gegen Graben„&#xD;
+bruch sprechend? Inselgruppen im Süden d. Roten Meeres&#xD;
+z. T. (aber nur z. T!) gleichfalls mit einer niedrigen Abra„&#xD;
+sionsfläche (vielleicht Fluthöhe, sonst gehoben), z. T. Steilabbrüche,&#xD;
+24.III.&#xD;
+leicht zerstörbar u. viele winzige Erosionsklippen. Dennoch&#xD;
+mehrere vollständig erhaltene Krater, gleichsam Modelle. Nördlichste&#xD;
+dieser Inseln im Süden auch Sedimente? Deutliche, gleichmäßige&#xD;
+Schichtung, Einfallen nach S., hellgelbe-weißliche Farbe (auch an&#xD;
+einer Stelle am Nordfuß helle Färbung)&#xD;
+Zahlreiche Scharen Guano bereitender, entenähnlicher, brauner</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

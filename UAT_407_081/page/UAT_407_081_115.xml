@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=UAT_M1(htr_id=16728)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-02T07:17:39.423+02:00</Created>
+        <LastChange>2020-04-02T11:48:06.900+02:00</LastChange>
+        <TranskribusMetadata docId="190842" pageId="7551000" pageNr="115" tsid="26879247" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=XYHUAINIRJVZWUUCOUEEWULK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VDVELVYXQUIAIIEMJASQGSNH" imageId="4551878"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_081_115.jpg" imageWidth="4292" imageHeight="5214">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612256502698" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1569573002849_340"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1569573002849_340" custom="readingOrder {index:0;}">
+            <Coords points="363,285 3838,241 3970,241 4010,285 4010,4580 363,4580"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="3809,409 3840,411 3849,403 3857,412 3875,409 3930,387 3960,403 3986,400 3997,264 3971,257 3939,264 3918,253 3887,260 3866,245 3822,241"/>
+                <Baseline points="3838,341 3864,344 3890,346 3917,347 3943,349 3970,353"/>
+                <TextEquiv>
+                    <Unicode>113</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l1" custom="readingOrder {index:1;}">
+                <Coords points="352,447 2178,379 2519,500 3126,384 3524,487 3779,397 3778,273 3615,248 351,315"/>
+                <Baseline points="374,400 543,397 712,394 881,392 1050,390 1219,388 1388,387 1558,386 1727,385 1896,384 2065,384 2234,383 2403,382 2572,381 2742,380 2911,378 3080,376 3249,374 3418,371 3587,368 3757,364"/>
+                <TextEquiv>
+                    <Unicode>Stelle des weiten Waldes nördl. v. Lager getreten ist. Rege</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:2;}">
+                <Coords points="341,608 896,568 1055,682 2308,543 2789,679 3803,576 3803,395 3433,501 2969,392 2617,498 1853,394 1607,505 340,476"/>
+                <Baseline points="363,568 533,562 704,557 875,553 1046,550 1217,548 1388,548 1559,548 1730,548 1901,549 2072,550 2242,552 2413,553 2584,554 2755,554 2926,555 3097,554 3268,553 3439,551 3610,547 3781,542"/>
+                <TextEquiv>
+                    <Unicode>Arbeit, Sattler scheint im Begriff, hier eine Handelszentrale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:3;}">
+                <Coords points="349,749 1888,827 2074,732 2823,855 3830,769 3730,587 2834,692 1692,561 1056,677 351,613"/>
+                <Baseline points="370,732 541,724 713,719 885,716 1057,716 1229,716 1400,719 1572,722 1744,726 1916,731 2088,736 2259,740 2431,744 2603,748 2775,751 2947,752 3118,752 3290,750 3462,746 3634,739 3806,729"/>
+                <TextEquiv>
+                    <Unicode>des Landes u. Niederlassung d. D. O. A. G. zu gründen. Inte„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:4;}">
+                <Coords points="344,989 1541,886 3718,1031 3917,990 3919,814 3182,883 1009,711 346,830"/>
+                <Baseline points="368,898 544,896 720,894 897,894 1073,895 1250,897 1426,899 1602,902 1779,906 1955,909 2132,913 2308,917 2484,921 2661,924 2837,927 3014,930 3190,932 3366,932 3543,933 3719,931 3896,929"/>
+                <TextEquiv>
+                    <Unicode>ressante Einblicke. D. O. A. G. u. O. A. E. G. stehen im Begriffe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:5;}">
+                <Coords points="371,1120 1809,1093 2174,1212 2453,1109 3706,1146 3830,1041 960,920 372,1019"/>
+                <Baseline points="392,1075 562,1073 733,1072 904,1073 1074,1074 1245,1075 1416,1077 1586,1080 1757,1083 1928,1086 2099,1088 2269,1092 2440,1095 2611,1097 2781,1100 2952,1101 3123,1103 3293,1103 3464,1103 3635,1102 3806,1100"/>
+                <TextEquiv>
+                    <Unicode>eine Landverwertungsgesellschaft zu bilden, bei der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:6;}">
+                <Coords points="398,1296 1113,1224 2770,1373 3667,1271 3522,1164 2798,1214 2610,1080 2207,1217 1635,1088 399,1164"/>
+                <Baseline points="420,1251 581,1245 742,1241 903,1239 1064,1238 1226,1238 1387,1240 1548,1242 1709,1246 1870,1249 2032,1253 2193,1257 2354,1260 2515,1263 2676,1266 2838,1267 2999,1267 3160,1267 3321,1264 3482,1260 3644,1254"/>
+                <TextEquiv>
+                    <Unicode>Sattler eine gute Stellung erwartete. Er weist aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l7" custom="readingOrder {index:7;}">
+                <Coords points="372,1441 738,1532 964,1415 1166,1518 2115,1402 3760,1477 3598,1304 2759,1376 1111,1226 373,1366"/>
+                <Baseline points="394,1419 561,1410 728,1403 895,1398 1062,1395 1230,1394 1397,1394 1564,1395 1731,1397 1898,1400 2066,1403 2233,1407 2400,1411 2567,1414 2734,1418 2902,1420 3069,1422 3236,1423 3403,1422 3570,1420 3738,1417"/>
+                <TextEquiv>
+                    <Unicode>m. Recht selbst auf d. bösen Beispiele in Südwest hin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l8" custom="readingOrder {index:8;}">
+                <Coords points="355,1688 974,1540 1644,1638 2068,1545 2761,1564 3112,1718 3735,1684 3767,1534 2449,1416 357,1494"/>
+                <Baseline points="379,1576 547,1566 715,1559 883,1553 1051,1549 1219,1545 1387,1544 1556,1543 1724,1544 1892,1545 2060,1548 2228,1551 2396,1555 2564,1559 2733,1563 2901,1568 3069,1573 3237,1577 3405,1582 3573,1586 3742,1590"/>
+                <TextEquiv>
+                    <Unicode>Hier hätte nun freilich die O. A. E. G. die Wertsteigerung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:9;}">
+                <Coords points="405,1767 797,1742 918,1837 1366,1728 1500,1806 1734,1806 1816,1738 2214,1758 2211,1595 1907,1627 1849,1575 1651,1644 1504,1567 1297,1584 1197,1665 403,1679"/>
+                <Baseline points="428,1748 516,1741 604,1735 692,1730 780,1727 868,1724 956,1722 1045,1720 1133,1720 1221,1719 1309,1719 1397,1719 1485,1719 1573,1718 1662,1718 1750,1717 1838,1715 1926,1713 2014,1710 2102,1706 2191,1701"/>
+                <TextEquiv>
+                    <Unicode>durch eigene Arbeit bewirkt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:10;}">
+                <Coords points="590,1959 912,1924 1124,2039 1393,1924 2601,2035 3034,1921 3254,2027 3810,1965 3810,1846 3519,1798 1499,1876 590,1791"/>
+                <Baseline points="610,1938 769,1933 928,1928 1087,1924 1246,1921 1405,1918 1564,1916 1723,1914 1882,1913 2041,1912 2200,1912 2359,1913 2518,1914 2677,1916 2836,1917 2995,1920 3154,1923 3313,1926 3472,1930 3631,1933 3790,1938"/>
+                <TextEquiv>
+                    <Unicode>16.III. Morgens auf Aussichtspunkt. Gelesen, ein unglaubliches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:11;}">
+                <Coords points="451,2087 636,2176 1611,2093 1761,2199 2238,2085 2405,2196 3265,2224 3888,2119 3839,1964 451,1986"/>
+                <Baseline points="474,2090 643,2090 813,2090 982,2090 1152,2089 1321,2088 1491,2087 1660,2086 1830,2084 1999,2083 2169,2082 2338,2082 2508,2082 2677,2082 2847,2083 3016,2085 3186,2087 3355,2091 3525,2095 3694,2101 3864,2107"/>
+                <TextEquiv>
+                    <Unicode>Buch: Memoiren der Schwester Friedrichs des Großen. Pfui diese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l12" custom="readingOrder {index:12;}">
+                <Coords points="431,2336 1614,2242 3669,2374 3943,2324 3944,2147 432,2177"/>
+                <Baseline points="454,2245 622,2243 790,2241 959,2241 1127,2240 1296,2240 1464,2241 1632,2241 1801,2243 1969,2244 2138,2245 2306,2247 2474,2248 2643,2250 2811,2252 2980,2253 3148,2255 3316,2257 3485,2258 3758,2249 3927,2250"/>
+                <TextEquiv>
+                    <Unicode>Führer des Volks! Bei keinem Negerhäuptling kann's „schensi“-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:13;}">
+                <Coords points="447,2479 1099,2531 1675,2383 3380,2548 4016,2507 4019,2366 450,2347"/>
+                <Baseline points="470,2407 646,2400 822,2395 998,2392 1174,2391 1351,2391 1527,2392 1703,2395 1879,2398 2055,2402 2232,2407 2408,2412 2584,2417 2760,2424 2936,2429 3113,2435 3289,2439 3465,2443 3641,2447 3817,2450 3994,2452"/>
+                <TextEquiv>
+                    <Unicode>mäßiger zugehen: Ferner Frobenius: „D. schwarze Dekameron“.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:14;}">
+                <Coords points="522,2643 1228,2626 1395,2723 1823,2614 1960,2724 2498,2751 2891,2650 2891,2571 2617,2491 2450,2544 1951,2464 1810,2552 1475,2481 1294,2569 522,2475"/>
+                <Baseline points="545,2631 661,2627 777,2624 893,2622 1009,2620 1125,2618 1241,2617 1357,2617 1473,2617 1589,2617 1706,2617 1822,2618 1938,2619 2054,2620 2170,2621 2286,2622 2402,2623 2518,2625 2634,2626 2750,2627 2867,2628"/>
+                <TextEquiv>
+                    <Unicode>17.III. Vorm. Schamba besichtigt. Gelesen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:15;} textStyle {offset:40; length:1;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="487,2820 866,2914 1480,2770 2000,2886 2163,2789 4034,2833 3377,2655 487,2736"/>
+                <Baseline points="509,2791 684,2790 859,2788 1034,2786 1209,2784 1384,2781 1559,2779 1734,2777 1909,2775 2084,2773 2259,2772 2434,2772 2609,2772 2784,2773 2959,2776 3134,2779 3309,2783 3484,2789 3659,2796 3834,2805 4010,2815"/>
+                <TextEquiv>
+                    <Unicode>18.III. Jörn Uhl wieder begonnen. Abds 4h m. Hrn. Hausmann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l16" custom="readingOrder {index:16;}">
+                <Coords points="433,3016 3980,3022 3979,2877 3675,2807 2493,2917 433,2866"/>
+                <Baseline points="456,2972 631,2975 806,2976 981,2976 1156,2975 1331,2973 1506,2970 1682,2967 1857,2964 2032,2960 2207,2957 2382,2955 2557,2953 2732,2952 2908,2952 3083,2954 3258,2957 3433,2962 3608,2969 3783,2979 3959,2990"/>
+                <TextEquiv>
+                    <Unicode>1½ Std. nach Westen auf Jagdlager gezogen. Unterwegs etwas Regen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l17" custom="readingOrder {index:17;} textStyle {offset:0; length:18;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="479,3168 1406,3121 2173,3264 3232,3156 3880,3263 3850,3024 480,3023"/>
+                <Baseline points="503,3155 670,3153 838,3152 1006,3151 1174,3151 1341,3151 1509,3150 1677,3151 1845,3151 2012,3151 2180,3152 2348,3153 2516,3153 2683,3154 2851,3155 3019,3155 3187,3156 3354,3156 3522,3157 3690,3157 3858,3157"/>
+                <TextEquiv>
+                    <Unicode>Sonntag d. 19.III: Auf Jagd, ich nördl., Hr. Hausmann westlich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l18" custom="readingOrder {index:18;}">
+                <Coords points="442,3407 865,3447 1067,3335 1642,3441 2029,3323 2630,3438 2889,3312 3393,3418 3935,3374 3934,3224 2592,3151 2126,3274 441,3301"/>
+                <Baseline points="465,3348 637,3345 810,3343 982,3339 1155,3335 1327,3332 1500,3327 1672,3323 1845,3320 2017,3316 2190,3313 2362,3311 2535,3309 2707,3308 2880,3308 3052,3310 3225,3312 3397,3317 3570,3322 3742,3329 3915,3338"/>
+                <TextEquiv>
+                    <Unicode>beide fast nichts gesehen u. ohne Erfolg. Aber herrlicher Aus„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l19" custom="readingOrder {index:19;}">
+                <Coords points="455,3622 640,3511 1121,3613 1346,3502 1690,3599 3856,3551 3754,3405 2846,3348 455,3401"/>
+                <Baseline points="477,3509 644,3505 812,3500 980,3497 1148,3493 1315,3490 1483,3486 1651,3484 1819,3482 1986,3481 2154,3480 2322,3479 2490,3480 2657,3481 2825,3483 2993,3486 3161,3490 3328,3494 3496,3501 3664,3508 3832,3516"/>
+                <TextEquiv>
+                    <Unicode>flug: ständig nur kniehohes, nicht sehr dichtes Gras, prächtiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l20" custom="readingOrder {index:20;}">
+                <Coords points="463,3757 1658,3622 1985,3749 2157,3634 2677,3651 2819,3770 3304,3658 3670,3750 3670,3631 3118,3535 463,3599"/>
+                <Baseline points="486,3688 642,3676 799,3667 956,3658 1113,3652 1270,3647 1426,3642 1583,3639 1740,3637 1897,3636 2054,3636 2210,3637 2367,3638 2524,3640 2681,3643 2838,3647 2994,3650 3151,3654 3308,3659 3465,3664 3649,3672"/>
+                <TextEquiv>
+                    <Unicode>lichter Wald mit ziemlich hochstämmigen Bäumen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l21" custom="readingOrder {index:21;}">
+                <Coords points="446,3882 3833,3851 3428,3714 2426,3776 2206,3644 2012,3763 1654,3626 446,3763"/>
+                <Baseline points="468,3848 635,3836 802,3825 969,3818 1137,3812 1304,3809 1471,3807 1638,3807 1806,3808 1973,3809 2140,3812 2307,3815 2475,3818 2642,3820 2809,3823 2976,3825 3144,3825 3311,3825 3478,3823 3645,3819 3813,3813"/>
+                <TextEquiv>
+                    <Unicode>wechselnde Durchblicke auf Gneißberge aller Formen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l22" custom="readingOrder {index:22;}">
+                <Coords points="467,4059 3007,3967 3356,4079 3585,4037 3584,3861 2737,3938 2225,3810 1987,3905 1034,3851 466,3944"/>
+                <Baseline points="488,4021 641,4009 795,4000 949,3991 1102,3984 1256,3979 1410,3975 1563,3972 1717,3971 1871,3970 2025,3970 2178,3970 2332,3971 2486,3972 2639,3973 2793,3975 2947,3976 3100,3977 3254,3977 3408,3977 3562,3976"/>
+                <TextEquiv>
+                    <Unicode>u. meilenweit mit d. Wild allein in dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569573021275_347" custom="readingOrder {index:23;}">
+                <Coords points="410,4286 841,4204 1186,4273 1427,4132 2267,4260 2574,4127 2858,4263 3025,4217 3022,4000 407,4083"/>
+                <Baseline points="432,4181 477,4178 522,4174 568,4172 613,4170 658,4167 704,4165 749,4164 794,4162 840,4160 885,4159 930,4158 976,4158 1021,4157 1066,4157 1112,4157 1157,4156 1202,4157 1248,4157 1293,4157 1339,4158 1656,4139 1723,4138 1790,4137 1858,4135 1925,4134 1993,4133 2060,4132 2127,4131 2195,4131 2262,4130 2330,4130 2397,4130 2464,4131 2532,4132 2599,4133 2667,4133 2734,4136 2801,4138 2869,4140 2936,4143 3004,4146"/>
+                <TextEquiv>
+                    <Unicode>Schöpfungspracht. Bleiben noch eine Nacht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1569573028788_352" custom="readingOrder {index:24;}">
+                <Coords points="685,4383 889,4478 1333,4368 1563,4468 1915,4336 2220,4431 2590,4339 3945,4432 3943,4243 3820,4195 684,4273"/>
+                <Baseline points="707,4349 863,4350 1020,4349 1177,4348 1334,4346 1490,4342 1647,4339 1804,4335 1961,4331 2118,4327 2274,4324 2431,4321 2588,4318 2745,4316 2902,4315 3058,4315 3215,4316 3372,4319 3529,4324 3686,4330 3826,4340 3923,4348"/>
+                <TextEquiv>
+                    <Unicode>Nachm. Gemeinsame Streife, wieder ohne jeden Erfolg,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l27" custom="readingOrder {index:25;}">
+                <Coords points="451,4618 1347,4650 1505,4534 1866,4525 2062,4646 2415,4641 2987,4541 2986,4457 2421,4465 2133,4367 1023,4500 448,4384"/>
+                <Baseline points="471,4527 595,4533 720,4536 845,4539 970,4539 1094,4539 1219,4538 1344,4535 1469,4532 1593,4529 1718,4525 1843,4522 1968,4518 2092,4515 2217,4513 2342,4511 2467,4510 2591,4511 2716,4513 2841,4517 2966,4522"/>
+                <TextEquiv>
+                    <Unicode>tüchtig eingeregnet. Abd. Scheibenschießen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>113&#xD;
+Stelle des weiten Waldes nördl. v. Lager getreten ist. Rege&#xD;
+Arbeit, Sattler scheint im Begriff, hier eine Handelszentrale&#xD;
+des Landes u. Niederlassung d. D. O. A. G. zu gründen. Inte„&#xD;
+ressante Einblicke. D. O. A. G. u. O. A. E. G. stehen im Begriffe&#xD;
+eine Landverwertungsgesellschaft zu bilden, bei der&#xD;
+Sattler eine gute Stellung erwartete. Er weist aber&#xD;
+m. Recht selbst auf d. bösen Beispiele in Südwest hin.&#xD;
+Hier hätte nun freilich die O. A. E. G. die Wertsteigerung&#xD;
+durch eigene Arbeit bewirkt.&#xD;
+16.III. Morgens auf Aussichtspunkt. Gelesen, ein unglaubliches&#xD;
+Buch: Memoiren der Schwester Friedrichs des Großen. Pfui diese&#xD;
+Führer des Volks! Bei keinem Negerhäuptling kann's „schensi“-&#xD;
+mäßiger zugehen: Ferner Frobenius: „D. schwarze Dekameron“.&#xD;
+17.III. Vorm. Schamba besichtigt. Gelesen.&#xD;
+18.III. Jörn Uhl wieder begonnen. Abds 4h m. Hrn. Hausmann&#xD;
+1½ Std. nach Westen auf Jagdlager gezogen. Unterwegs etwas Regen.&#xD;
+Sonntag d. 19.III: Auf Jagd, ich nördl., Hr. Hausmann westlich,&#xD;
+beide fast nichts gesehen u. ohne Erfolg. Aber herrlicher Aus„&#xD;
+flug: ständig nur kniehohes, nicht sehr dichtes Gras, prächtiger&#xD;
+lichter Wald mit ziemlich hochstämmigen Bäumen,&#xD;
+wechselnde Durchblicke auf Gneißberge aller Formen&#xD;
+u. meilenweit mit d. Wild allein in dieser&#xD;
+Schöpfungspracht. Bleiben noch eine Nacht.&#xD;
+Nachm. Gemeinsame Streife, wieder ohne jeden Erfolg,&#xD;
+tüchtig eingeregnet. Abd. Scheibenschießen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

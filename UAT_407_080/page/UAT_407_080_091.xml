@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=UAT_M6(htr_id=20530)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-02T06:47:57.381+02:00</Created>
+        <LastChange>2020-03-24T15:41:39.173+01:00</LastChange>
+        <TranskribusMetadata docId="190836" pageId="7550793" pageNr="91" tsid="26241112" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=IKKMRUJBGLRIAHQRZMTCYIBG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UYURHUMREWRNSXQUIUFBGVXG" imageId="4551671"/>
+    </Metadata>
+    <Page imageFilename="UAT_407_080_091.jpg" imageWidth="4324" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1612255559929" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:0;}">
+            <Coords points="367,214 367,4840 4147,4840 4147,214"/>
+            <TextLine id="line_1582890668579_2840" custom="readingOrder {index:0;}">
+                <Coords points="3719,312 3775,315 3788,301 3816,314 3849,299 3863,304 3876,294 3899,293 3897,205 3823,207 3809,217 3781,208 3758,209 3749,218 3740,209 3716,210"/>
+                <Baseline points="3742,296 3788,292 3877,292"/>
+                <TextEquiv>
+                    <Unicode>87</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l1" custom="readingOrder {index:1;}">
+                <Coords points="611,400 3922,357 3921,268 3554,224 610,233"/>
+                <Baseline points="636,369 799,361 962,354 1125,348 1288,344 1451,341 1614,338 1778,336 1941,335 2104,334 2267,334 2430,334 2593,334 2756,335 2920,336 3083,336 3246,337 3409,337 3572,337 3735,337 3899,336"/>
+                <TextEquiv>
+                    <Unicode>8 Nov. Wollte heut nach Mtapaia, aber eine Beratung mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:2;}">
+                <Coords points="544,637 1123,511 3775,543 4016,506 4015,404 541,428"/>
+                <Baseline points="565,540 736,533 908,526 1079,519 1251,513 1422,507 1594,501 1765,496 1937,491 2108,487 2280,483 2451,480 2623,478 2794,477 2966,476 3137,476 3309,477 3480,479 3652,482 3823,486 3995,491"/>
+                <TextEquiv>
+                    <Unicode>Janensch hielt mich zu lange fest. Ich unterdrücke ein Gefühl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:3;}">
+                <Coords points="555,722 3706,606 4033,691 4062,509 1131,514 553,633"/>
+                <Baseline points="578,689 751,681 924,673 1097,665 1270,657 1443,650 1616,643 1790,637 1963,631 2136,626 2309,621 2482,617 2655,614 2828,611 3002,609 3175,609 3348,609 3521,610 3694,612 3867,615 4041,620"/>
+                <TextEquiv>
+                    <Unicode>des Unbehagens, daß ich schon wieder gehemmt werde. Bin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:4;}">
+                <Coords points="539,917 1831,789 1992,868 2184,760 2499,880 2732,766 3829,775 3825,649 3369,612 533,727"/>
+                <Baseline points="561,831 723,823 885,815 1047,807 1209,800 1371,792 1533,785 1695,778 1857,772 2019,766 2182,760 2344,755 2506,750 2668,746 2830,743 2992,740 3154,738 3316,736 3478,736 3640,736 3803,737"/>
+                <TextEquiv>
+                    <Unicode>ich reizbar geworden? Einen Einfluß auf d. Nerven</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l5" custom="readingOrder {index:5;}">
+                <Coords points="561,1009 1005,1088 1266,954 1515,1040 1883,930 3987,911 3983,795 3332,759 559,921"/>
+                <Baseline points="585,973 754,968 923,962 1092,956 1261,950 1430,943 1599,937 1768,930 1937,924 2106,917 2275,912 2444,906 2613,900 2782,895 2951,890 3120,886 3289,883 3458,880 3627,878 3796,876 3965,876"/>
+                <TextEquiv>
+                    <Unicode>will ich den Tropen nie, nie gestatten! Aber Janensch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l6" custom="readingOrder {index:6;}">
+                <Coords points="564,1163 1030,1232 1292,1114 2056,1177 3103,1051 3625,1142 4074,1100 4072,993 3187,896 2911,995 561,1010"/>
+                <Baseline points="587,1119 760,1115 933,1111 1106,1106 1279,1102 1453,1097 1626,1092 1799,1087 1972,1082 2145,1077 2319,1072 2492,1068 2665,1064 2838,1061 3011,1057 3185,1055 3358,1053 3531,1051 3704,1051 3877,1051 4051,1052"/>
+                <TextEquiv>
+                    <Unicode>ließ auch vor einiger Zeit bereits die Vermutung ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l7" custom="readingOrder {index:7;}">
+                <Coords points="569,1314 2117,1213 2404,1322 3032,1189 3796,1267 3999,1219 3996,1103 565,1198"/>
+                <Baseline points="592,1278 761,1268 930,1258 1099,1249 1269,1241 1438,1234 1607,1228 1776,1221 1946,1216 2115,1211 2284,1207 2453,1203 2623,1199 2792,1196 2961,1194 3130,1192 3300,1190 3469,1188 3638,1187 3807,1186 3977,1186"/>
+                <TextEquiv>
+                    <Unicode>lauten, daß wir mit dem diesjährigen Knochentransport</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l8" custom="readingOrder {index:8;}">
+                <Coords points="515,1447 716,1540 881,1416 1338,1518 3369,1352 3873,1462 4035,1431 4032,1268 513,1354"/>
+                <Baseline points="537,1411 710,1410 884,1407 1057,1404 1231,1399 1405,1394 1578,1389 1752,1384 1925,1378 2099,1372 2273,1367 2446,1362 2620,1357 2793,1353 2967,1350 3141,1347 3314,1346 3488,1346 3661,1348 3835,1351 4009,1356"/>
+                <TextEquiv>
+                    <Unicode>„nicht mehr fertig werden“ würden. Dies Wort wünsche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l9" custom="readingOrder {index:9;}">
+                <Coords points="520,1657 4094,1552 4090,1431 3694,1364 517,1545"/>
+                <Baseline points="541,1598 717,1588 893,1579 1069,1571 1246,1562 1422,1554 1598,1546 1775,1539 1951,1532 2127,1525 2304,1519 2480,1514 2656,1510 2832,1505 3009,1501 3185,1498 3361,1496 3538,1494 3714,1493 3890,1493 4067,1493"/>
+                <TextEquiv>
+                    <Unicode>ich nicht in mein Vokabular zu übernehmen. Noch mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l10" custom="readingOrder {index:10;}">
+                <Coords points="534,1786 1006,1878 1745,1739 1925,1826 2106,1700 2672,1794 2831,1687 4090,1689 4017,1589 2937,1525 532,1712"/>
+                <Baseline points="558,1768 733,1762 908,1756 1084,1748 1259,1741 1435,1732 1610,1724 1786,1716 1961,1708 2137,1701 2312,1693 2487,1687 2663,1681 2838,1676 3014,1672 3189,1669 3365,1668 3540,1668 3716,1669 3891,1673 4067,1678"/>
+                <TextEquiv>
+                    <Unicode>überraschte mich aber heut die Äußerung, daß wir im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l11" custom="readingOrder {index:11;}">
+                <Coords points="567,1972 774,2069 1726,1898 2440,1998 2757,1887 4045,1930 4125,1793 563,1847"/>
+                <Baseline points="588,1960 763,1948 939,1935 1115,1925 1291,1915 1467,1906 1643,1897 1818,1891 1994,1884 2170,1879 2346,1873 2522,1869 2698,1866 2874,1863 3049,1860 3225,1858 3401,1857 3577,1856 3753,1856 3929,1855 4105,1856"/>
+                <TextEquiv>
+                    <Unicode>nächsten Jahre einen dritten Europäer brauchen würden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l12" custom="readingOrder {index:12;}">
+                <Coords points="535,2115 1077,2224 1956,2083 2255,2174 3135,2052 3482,2170 4171,2061 4070,1905 533,2013"/>
+                <Baseline points="559,2113 738,2108 917,2103 1097,2097 1276,2091 1456,2085 1635,2081 1814,2074 1994,2070 2173,2065 2353,2060 2532,2056 2711,2052 2891,2048 3070,2045 3250,2042 3429,2040 3608,2039 3788,2038 3967,2038 4147,2039"/>
+                <TextEquiv>
+                    <Unicode>Mit dem jetzt geschulten Menschenmaterial u. unsern vielen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l13" custom="readingOrder {index:13;}">
+                <Coords points="509,2320 3779,2319 4051,2233 4048,2103 507,2227"/>
+                <Baseline points="533,2279 707,2277 882,2275 1057,2272 1232,2267 1407,2263 1581,2257 1756,2252 1931,2247 2106,2241 2281,2235 2455,2231 2630,2226 2805,2221 2980,2217 3155,2214 3329,2212 3504,2211 3679,2211 3854,2213 4029,2216"/>
+                <TextEquiv>
+                    <Unicode>trefflichen Aufsehern hätte ich nach d. Erfahrungen dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l14" custom="readingOrder {index:14;}">
+                <Coords points="546,2532 1909,2408 4149,2452 4062,2263 543,2328"/>
+                <Baseline points="567,2457 744,2450 922,2444 1100,2437 1278,2431 1456,2426 1633,2421 1811,2416 1989,2412 2167,2408 2345,2405 2522,2402 2700,2400 2878,2399 3056,2397 3234,2397 3411,2397 3589,2398 3767,2399 3945,2401 4123,2404"/>
+                <TextEquiv>
+                    <Unicode>letzten 18 Tage geglaubt, im Notfalle allein „fertig zu werden“,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l15" custom="readingOrder {index:15;}">
+                <Coords points="537,2632 1319,2690 1864,2577 2526,2679 2668,2574 2944,2685 3206,2544 3766,2654 3952,2455 3154,2508 2989,2396 2003,2527 1457,2422 1232,2553 536,2567"/>
+                <Baseline points="561,2620 729,2614 897,2608 1066,2601 1234,2596 1403,2590 1571,2585 1740,2580 1908,2575 2077,2570 2245,2566 2413,2563 2582,2560 2750,2557 2919,2555 3087,2553 3256,2552 3424,2552 3593,2553 3761,2554 3930,2556"/>
+                <TextEquiv>
+                    <Unicode>und meine Privatpläne nebenher besser fördern zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l16" custom="readingOrder {index:16;}">
+                <Coords points="556,2797 1711,2764 1867,2858 2820,2705 3023,2834 3364,2710 3982,2728 3980,2625 552,2639"/>
+                <Baseline points="580,2770 749,2769 918,2766 1087,2763 1256,2760 1425,2756 1594,2752 1763,2748 1932,2744 2101,2739 2270,2735 2439,2730 2608,2725 2777,2721 2946,2716 3115,2712 3284,2708 3453,2704 3622,2701 3791,2698 3960,2696"/>
+                <TextEquiv>
+                    <Unicode>können. Aber kann ich widersprechen, nachdem er mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l17" custom="readingOrder {index:17;}">
+                <Coords points="553,3066 1015,2961 1588,3034 1729,2919 2256,3012 2551,2893 3463,2981 3999,2861 3997,2768 3023,2835 2820,2705 2516,2829 548,2880"/>
+                <Baseline points="572,2944 742,2938 912,2932 1082,2927 1252,2923 1422,2920 1592,2917 1762,2914 1932,2911 2102,2908 2272,2906 2442,2903 2612,2899 2782,2895 2952,2890 3122,2884 3292,2877 3462,2870 3632,2861 3802,2850 3973,2838"/>
+                <TextEquiv>
+                    <Unicode>oft gesagt hat, ich sei ein kritischer Widerspruchsgeist? Und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l18" custom="readingOrder {index:18;} textStyle {offset:35; length:2;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="567,3134 3809,3126 4161,3084 4157,2940 564,3055"/>
+                <Baseline points="589,3093 766,3100 943,3104 1121,3106 1298,3106 1476,3105 1653,3101 1830,3097 2008,3091 2185,3084 2363,3077 2540,3069 2717,3061 2895,3054 3072,3047 3250,3040 3427,3034 3604,3030 3782,3027 3959,3025 4137,3025"/>
+                <TextEquiv>
+                    <Unicode>müßte ich ihm nicht sagen, daß d. 3te Weiße durch gelegent„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l19" custom="readingOrder {index:19;}">
+                <Coords points="346,3354 2435,3329 3050,3197 4061,3306 4101,3068 341,3173"/>
+                <Baseline points="367,3269 552,3271 738,3271 924,3270 1109,3267 1295,3264 1481,3259 1666,3254 1852,3249 2038,3242 2224,3236 2409,3229 2595,3223 2781,3217 2966,3212 3152,3206 3338,3202 3523,3199 3709,3197 3895,3196 4081,3196"/>
+                <TextEquiv>
+                    <Unicode>liches Auslassen der Vormittags-Zeitungslektüre u., wenn möglich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l20" custom="readingOrder {index:20;}">
+                <Coords points="478,3492 3691,3457 4103,3396 4101,3299 3899,3210 474,3310"/>
+                <Baseline points="501,3420 680,3421 859,3419 1038,3417 1217,3414 1396,3410 1575,3406 1754,3401 1933,3396 2112,3390 2291,3385 2470,3379 2649,3374 2828,3369 3007,3365 3186,3362 3365,3359 3544,3357 3723,3356 3902,3357 4081,3359"/>
+                <TextEquiv>
+                    <Unicode>des Vor- u. Nachmittagsschlafes zu ersetzen wäre? Er ist der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l21" custom="readingOrder {index:21;}">
+                <Coords points="483,3657 4039,3548 4035,3418 3849,3391 479,3495"/>
+                <Baseline points="507,3612 682,3606 857,3599 1032,3593 1208,3587 1383,3581 1558,3575 1734,3570 1909,3564 2084,3559 2260,3554 2435,3549 2610,3546 2785,3542 2961,3538 3136,3535 3311,3532 3487,3530 3662,3528 3837,3527 4013,3526"/>
+                <TextEquiv>
+                    <Unicode>Leiter und hat zu bestimmen; er wird übrigens dabei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l22" custom="readingOrder {index:22;}">
+                <Coords points="516,3843 2334,3722 3925,3807 4054,3766 4049,3548 513,3695"/>
+                <Baseline points="539,3768 713,3762 887,3757 1062,3751 1236,3745 1411,3740 1585,3734 1759,3729 1934,3725 2108,3720 2283,3716 2457,3711 2631,3708 2806,3704 2980,3701 3155,3698 3329,3696 3503,3694 3678,3692 3852,3691 4027,3691"/>
+                <TextEquiv>
+                    <Unicode>auch von dem Gedanken geleitet, daß die geolog. Aufnah„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l23" custom="readingOrder {index:23;}">
+                <Coords points="514,3987 3978,3936 4125,3886 4122,3733 510,3839"/>
+                <Baseline points="537,3924 715,3926 893,3927 1071,3928 1249,3927 1428,3926 1606,3923 1784,3921 1962,3916 2140,3913 2319,3908 2497,3902 2675,3897 2853,3891 3031,3885 3210,3879 3388,3872 3566,3866 3744,3860 3922,3853 4101,3847"/>
+                <TextEquiv>
+                    <Unicode>me mehr gefördert werden müsse. Wenn ich die etwa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l24" custom="readingOrder {index:24;}">
+                <Coords points="487,4145 1612,4192 2227,4056 3790,4144 4039,4096 4035,3915 2597,4020 1202,3933 1088,4047 863,3960 485,4057"/>
+                <Baseline points="509,4111 684,4105 859,4099 1034,4094 1209,4090 1385,4086 1560,4082 1735,4078 1910,4074 2085,4071 2261,4067 2436,4064 2611,4060 2786,4055 2961,4051 3137,4047 3312,4042 3487,4036 3662,4030 3837,4024 4013,4016"/>
+                <TextEquiv>
+                    <Unicode>erhalten könnte, so wären meine persönlichen Wünsche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l25" custom="readingOrder {index:25;}">
+                <Coords points="511,4402 1316,4245 3566,4328 3922,4288 3919,4112 506,4151"/>
+                <Baseline points="530,4298 698,4288 866,4278 1035,4270 1203,4263 1371,4257 1540,4252 1708,4247 1876,4244 2045,4241 2213,4238 2381,4236 2550,4234 2718,4232 2886,4230 3055,4228 3223,4226 3391,4224 3560,4220 3728,4217 3897,4212"/>
+                <TextEquiv>
+                    <Unicode>sehr gefördert, ich könnte dann sogar vielleicht viel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1582890690807_2847" custom="readingOrder {index:26;}">
+                <Coords points="531,4491 1650,4560 1807,4443 2055,4575 2718,4444 2876,4540 3094,4436 3902,4467 3901,4337 3037,4288 2634,4389 1494,4241 530,4416"/>
+                <Baseline points="556,4471 628,4468 701,4465 774,4462 846,4459 919,4456 992,4452 1064,4450 1137,4447 1210,4443 1283,4441 1355,4439 1428,4437 1501,4436 1573,4435 1646,4434 1719,4434 1791,4434 1864,4435 1937,4437 2010,4439 2181,4432 2265,4431 2350,4430 2435,4429 2520,4429 2605,4429 2689,4429 2774,4430 2859,4430 2944,4430 3029,4431 3113,4432 3198,4432 3283,4432 3368,4433 3453,4433 3537,4433 3622,4433 3707,4432 3792,4432 3877,4431"/>
+                <TextEquiv>
+                    <Unicode>allein sein. Aber für d. Expedition erscheint mir die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l28" custom="readingOrder {index:27;}">
+                <Coords points="516,4672 3986,4684 3953,4434 974,4585 513,4505"/>
+                <Baseline points="540,4639 711,4635 882,4631 1053,4626 1224,4622 1395,4617 1566,4612 1738,4607 1909,4603 2080,4599 2251,4595 2422,4591 2593,4588 2764,4585 2936,4583 3107,4582 3278,4581 3449,4581 3620,4582 3791,4584 3963,4587"/>
+                <TextEquiv>
+                    <Unicode>Ausgabe, die ein Dritter verursachen würde, überflüssig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l29" custom="readingOrder {index:28;}">
+                <Coords points="888,4862 3800,4844 3798,4691 3449,4625 2559,4737 1940,4632 1319,4764 887,4690"/>
+                <Baseline points="910,4801 1053,4801 1196,4800 1340,4800 1483,4798 1626,4796 1770,4795 1913,4793 2056,4791 2200,4788 2343,4786 2486,4784 2630,4782 2773,4780 2916,4779 3060,4777 3203,4777 3346,4776 3490,4776 3633,4777 3777,4778"/>
+                <TextEquiv>
+                    <Unicode>Meinem Boy Sefu kündige ich, was schon lange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>87&#xD;
+8 Nov. Wollte heut nach Mtapaia, aber eine Beratung mit&#xD;
+Janensch hielt mich zu lange fest. Ich unterdrücke ein Gefühl&#xD;
+des Unbehagens, daß ich schon wieder gehemmt werde. Bin&#xD;
+ich reizbar geworden? Einen Einfluß auf d. Nerven&#xD;
+will ich den Tropen nie, nie gestatten! Aber Janensch&#xD;
+ließ auch vor einiger Zeit bereits die Vermutung ver„&#xD;
+lauten, daß wir mit dem diesjährigen Knochentransport&#xD;
+„nicht mehr fertig werden“ würden. Dies Wort wünsche&#xD;
+ich nicht in mein Vokabular zu übernehmen. Noch mehr&#xD;
+überraschte mich aber heut die Äußerung, daß wir im&#xD;
+nächsten Jahre einen dritten Europäer brauchen würden.&#xD;
+Mit dem jetzt geschulten Menschenmaterial u. unsern vielen&#xD;
+trefflichen Aufsehern hätte ich nach d. Erfahrungen dieser&#xD;
+letzten 18 Tage geglaubt, im Notfalle allein „fertig zu werden“,&#xD;
+und meine Privatpläne nebenher besser fördern zu&#xD;
+können. Aber kann ich widersprechen, nachdem er mir&#xD;
+oft gesagt hat, ich sei ein kritischer Widerspruchsgeist? Und&#xD;
+müßte ich ihm nicht sagen, daß d. 3te Weiße durch gelegent„&#xD;
+liches Auslassen der Vormittags-Zeitungslektüre u., wenn möglich,&#xD;
+des Vor- u. Nachmittagsschlafes zu ersetzen wäre? Er ist der&#xD;
+Leiter und hat zu bestimmen; er wird übrigens dabei&#xD;
+auch von dem Gedanken geleitet, daß die geolog. Aufnah„&#xD;
+me mehr gefördert werden müsse. Wenn ich die etwa&#xD;
+erhalten könnte, so wären meine persönlichen Wünsche&#xD;
+sehr gefördert, ich könnte dann sogar vielleicht viel&#xD;
+allein sein. Aber für d. Expedition erscheint mir die&#xD;
+Ausgabe, die ein Dritter verursachen würde, überflüssig.&#xD;
+Meinem Boy Sefu kündige ich, was schon lange</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
