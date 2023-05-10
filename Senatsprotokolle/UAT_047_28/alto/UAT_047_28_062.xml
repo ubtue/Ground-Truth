@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>UAT_047_28_062.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-05-09T09:08:28.901+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="7894" WIDTH="5221">
+         <TopMargin HEIGHT="0" WIDTH="5221" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="7894" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="7894" WIDTH="0" VPOS="0" HPOS="5221"/>
+         <BottomMargin HEIGHT="0" WIDTH="5221" VPOS="7894" HPOS="0"/>
+         <PrintSpace HEIGHT="7894" WIDTH="5221" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1573806278376_238"
+                       HEIGHT="6115"
+                       WIDTH="3440"
+                       VPOS="669"
+                       HPOS="1504"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="1504,856 1665,821 2368,669 4944,669 4944,821 4944,6784 2368,6784 1504,1196"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="3452,771 3480,770 3508,769 3536,768 3564,766 3592,763 3620,759 3655,752"
+                         HEIGHT="145"
+                         WIDTH="209"
+                         VPOS="668"
+                         HPOS="3452">
+                  <String ID="string_r2l1"
+                          HEIGHT="145"
+                          WIDTH="209"
+                          VPOS="668"
+                          HPOS="3452"
+                          CONTENT="§. 1."/>
+               </TextLine>
+               <TextLine ID="r1l1"
+                         BASELINE="1765,969 1795,970 1826,971 1856,971 1887,971 1917,970 1948,969 1978,968 2009,966 2039,965 2070,963 2101,961 2131,959 2162,956 2192,954 2223,951 2253,948 2284,946 2314,944 2345,941 2376,939"
+                         HEIGHT="156"
+                         WIDTH="611"
+                         VPOS="856"
+                         HPOS="1765">
+                  <String ID="string_r1l1"
+                          HEIGHT="156"
+                          WIDTH="611"
+                          VPOS="856"
+                          HPOS="1765"
+                          CONTENT="Referent:"/>
+               </TextLine>
+               <TextLine ID="line_1568125127676_902"
+                         BASELINE="1504,1154 1545,1155 1587,1155 1628,1155 1670,1154 1712,1153 1753,1152 1795,1149 1836,1147 1878,1144 1920,1141 1961,1139 2003,1136 2044,1133 2086,1130 2128,1127 2169,1124 2211,1121 2252,1118 2294,1116 2336,1114 2368,1102 2393,1099 2419,1095 2445,1091 2471,1088 2497,1085 2523,1082 2548,1079 2574,1076 2600,1074 2626,1071 2652,1070 2678,1068 2704,1067 2729,1066 2755,1066 2781,1066 2807,1066 2833,1066 2859,1068 2885,1070"
+                         HEIGHT="214"
+                         WIDTH="1381"
+                         VPOS="982"
+                         HPOS="1504">
+                  <String ID="string_line_1568125127676_902"
+                          HEIGHT="214"
+                          WIDTH="1381"
+                          VPOS="982"
+                          HPOS="1504"
+                          CONTENT="Herr Prof. D. Reyſcher."/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="2602,1394 2716,1392 2830,1391 2944,1389 3058,1388 3172,1386 3286,1385 3400,1383 3514,1381 3628,1378 3742,1375 3856,1372 3970,1369 4084,1365 4198,1361 4312,1355 4426,1350 4540,1343 4654,1335 4768,1327 4883,1318"
+                         HEIGHT="214"
+                         WIDTH="2326"
+                         VPOS="1217"
+                         HPOS="2602">
+                  <String ID="string_r2l3"
+                          HEIGHT="214"
+                          WIDTH="2326"
+                          VPOS="1217"
+                          HPOS="2602"
+                          CONTENT="Derſelbe verliest ein in Gemäßheit"/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="2662,1571 2771,1568 2881,1565 2991,1562 3101,1558 3211,1554 3321,1550 3431,1546 3541,1542 3651,1537 3761,1533 3870,1528 3980,1524 4090,1518 4200,1513 4310,1507 4420,1502 4530,1497 4640,1491 4750,1484 4860,1479"
+                         HEIGHT="204"
+                         WIDTH="2198"
+                         VPOS="1404"
+                         HPOS="2662">
+                  <String ID="string_r2l4"
+                          HEIGHT="204"
+                          WIDTH="2198"
+                          VPOS="1404"
+                          HPOS="2662"
+                          CONTENT="des Senats=Beſchluſſes v. 25. v. M."/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="2650,1757 2764,1753 2878,1748 2992,1744 3106,1738 3220,1733 3334,1728 3448,1722 3562,1717 3676,1711 3791,1704 3905,1698 4019,1691 4133,1685 4247,1677 4361,1669 4475,1662 4589,1654 4703,1645 4817,1637 4932,1627"
+                         HEIGHT="256"
+                         WIDTH="2282"
+                         VPOS="1543"
+                         HPOS="2650">
+                  <String ID="string_r2l5"
+                          HEIGHT="256"
+                          WIDTH="2282"
+                          VPOS="1543"
+                          HPOS="2650"
+                          CONTENT="erſtattetes ſchriftliches Gutachten"/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="2656,1950 2767,1945 2879,1940 2991,1935 3103,1930 3215,1924 3326,1919 3438,1913 3550,1909 3662,1903 3774,1896 3885,1890 3997,1883 4109,1876 4221,1869 4333,1861 4444,1853 4556,1845 4668,1835 4780,1826 4892,1816"
+                         HEIGHT="260"
+                         WIDTH="2236"
+                         VPOS="1732"
+                         HPOS="2656">
+                  <String ID="string_r2l6"
+                          HEIGHT="260"
+                          WIDTH="2236"
+                          VPOS="1732"
+                          HPOS="2656"
+                          CONTENT="in Betreff der bei Wiederbe‗"/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="2662,2152 2774,2144 2887,2137 3000,2130 3113,2122 3226,2115 3338,2108 3451,2101 3564,2093 3677,2086 3790,2078 3902,2070 4015,2061 4128,2052 4241,2042 4354,2032 4466,2021 4579,2009 4692,1996 4805,1983 4918,1969"
+                         HEIGHT="309"
+                         WIDTH="2256"
+                         VPOS="1885"
+                         HPOS="2662">
+                  <String ID="string_r2l7"
+                          HEIGHT="309"
+                          WIDTH="2256"
+                          VPOS="1885"
+                          HPOS="2662"
+                          CONTENT="ſetzung der Pfarrei Holzger‗"/>
+               </TextLine>
+               <TextLine ID="r2l8"
+                         BASELINE="2646,2343 2759,2340 2873,2336 2987,2331 3101,2326 3215,2320 3329,2314 3443,2307 3557,2300 3671,2293 3785,2285 3898,2276 4012,2267 4126,2259 4240,2249 4354,2240 4468,2231 4582,2221 4696,2212 4810,2202 4924,2193"
+                         HEIGHT="276"
+                         WIDTH="2278"
+                         VPOS="2109"
+                         HPOS="2646">
+                  <String ID="string_r2l8"
+                          HEIGHT="276"
+                          WIDTH="2278"
+                          VPOS="2109"
+                          HPOS="2646"
+                          CONTENT="lingen vom Conſiſtorium er‗"/>
+               </TextLine>
+               <TextLine ID="r2l9"
+                         BASELINE="2639,2562 2751,2552 2863,2542 2976,2532 3088,2524 3200,2515 3313,2506 3425,2498 3537,2489 3650,2481 3762,2473 3874,2464 3987,2456 4099,2446 4211,2437 4324,2427 4436,2416 4548,2406 4661,2394 4773,2383 4886,2369"
+                         HEIGHT="319"
+                         WIDTH="2247"
+                         VPOS="2285"
+                         HPOS="2639">
+                  <String ID="string_r2l9"
+                          HEIGHT="319"
+                          WIDTH="2247"
+                          VPOS="2285"
+                          HPOS="2639"
+                          CONTENT="hobenen Anſtände gegen die"/>
+               </TextLine>
+               <TextLine ID="r2l10"
+                         BASELINE="2674,2731 2786,2725 2898,2718 3010,2712 3122,2705 3235,2699 3347,2692 3459,2685 3571,2679 3683,2671 3796,2664 3908,2656 4020,2648 4132,2640 4244,2631 4357,2622 4469,2612 4581,2602 4693,2590 4805,2579 4918,2567"
+                         HEIGHT="290"
+                         WIDTH="2244"
+                         VPOS="2483"
+                         HPOS="2674">
+                  <String ID="string_r2l10"
+                          HEIGHT="290"
+                          WIDTH="2244"
+                          VPOS="2483"
+                          HPOS="2674"
+                          CONTENT="Wahlfähigkeit einiger Bewerber."/>
+               </TextLine>
+               <TextLine ID="r2l11"
+                         BASELINE="2986,2899 3081,2899 3176,2898 3271,2896 3367,2892 3462,2888 3557,2883 3653,2877 3748,2870 3843,2862 3939,2854 4034,2845 4129,2836 4224,2826 4320,2816 4415,2806 4510,2796 4606,2786 4701,2776 4796,2766 4892,2756"
+                         HEIGHT="258"
+                         WIDTH="1906"
+                         VPOS="2679"
+                         HPOS="2986">
+                  <String ID="string_r2l11"
+                          HEIGHT="258"
+                          WIDTH="1906"
+                          VPOS="2679"
+                          HPOS="2986"
+                          CONTENT="Hiernach hält Hℓ. Referent"/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="2659,3080 2770,3076 2882,3071 2994,3066 3106,3061 3217,3056 3329,3051 3441,3044 3553,3038 3664,3031 3776,3024 3888,3016 4000,3008 4111,2999 4223,2990 4335,2981 4447,2971 4558,2961 4670,2950 4782,2938 4894,2925"
+                         HEIGHT="269"
+                         WIDTH="2235"
+                         VPOS="2849"
+                         HPOS="2659">
+                  <String ID="string_r2l12"
+                          HEIGHT="269"
+                          WIDTH="2235"
+                          VPOS="2849"
+                          HPOS="2659"
+                          CONTENT="die Anſichten des Conſiſtoriums"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="2674,3233 2784,3232 2895,3231 3006,3228 3116,3226 3227,3223 3338,3219 3448,3215 3559,3210 3670,3205 3781,3199 3891,3192 4002,3185 4113,3178 4223,3170 4334,3161 4445,3151 4555,3141 4666,3131 4777,3120 4888,3108"
+                         HEIGHT="239"
+                         WIDTH="2214"
+                         VPOS="3032"
+                         HPOS="2674">
+                  <String ID="string_r2l13"
+                          HEIGHT="239"
+                          WIDTH="2214"
+                          VPOS="3032"
+                          HPOS="2674"
+                          CONTENT="in 2. Punkten für nicht hin‗"/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="2680,3423 2786,3419 2893,3415 3000,3411 3107,3407 3214,3403 3320,3398 3427,3394 3534,3389 3641,3384 3748,3379 3854,3374 3961,3369 4068,3363 4175,3358 4282,3352 4388,3346 4495,3340 4602,3334 4709,3328 4816,3321"
+                         HEIGHT="228"
+                         WIDTH="2136"
+                         VPOS="3237"
+                         HPOS="2680">
+                  <String ID="string_r2l14"
+                          HEIGHT="228"
+                          WIDTH="2136"
+                          VPOS="3237"
+                          HPOS="2680"
+                          CONTENT="reichend begründet; nämlich"/>
+               </TextLine>
+               <TextLine ID="r2l15"
+                         BASELINE="2650,3645 2762,3638 2874,3631 2986,3624 3098,3619 3210,3612 3322,3606 3434,3600 3546,3595 3658,3589 3770,3582 3882,3576 3994,3569 4106,3562 4218,3554 4330,3546 4442,3537 4554,3527 4666,3517 4778,3506 4890,3494"
+                         HEIGHT="277"
+                         WIDTH="2240"
+                         VPOS="3410"
+                         HPOS="2650">
+                  <String ID="string_r2l15"
+                          HEIGHT="277"
+                          WIDTH="2240"
+                          VPOS="3410"
+                          HPOS="2650"
+                          CONTENT="1.) die Anſicht, daß das Anerbieten"/>
+               </TextLine>
+               <TextLine ID="r2l16"
+                         BASELINE="2730,3818 2839,3812 2949,3805 3058,3799 3168,3792 3278,3785 3387,3778 3497,3771 3606,3763 3716,3756 3826,3748 3935,3740 4045,3732 4154,3724 4264,3716 4374,3707 4483,3699 4593,3691 4702,3682 4812,3674 4922,3665"
+                         HEIGHT="279"
+                         WIDTH="2192"
+                         VPOS="3581"
+                         HPOS="2730">
+                  <String ID="string_r2l16"
+                          HEIGHT="279"
+                          WIDTH="2192"
+                          VPOS="3581"
+                          HPOS="2730"
+                          CONTENT="zu einer künftigen Beförderungs‗"/>
+               </TextLine>
+               <TextLine ID="r2l17"
+                         BASELINE="2670,4015 2782,4007 2894,4000 3006,3993 3118,3987 3231,3980 3343,3974 3455,3968 3567,3961 3679,3955 3792,3949 3904,3942 4016,3936 4128,3929 4240,3921 4353,3914 4465,3905 4577,3897 4689,3888 4801,3878 4914,3867"
+                         HEIGHT="274"
+                         WIDTH="2244"
+                         VPOS="3783"
+                         HPOS="2670">
+                  <String ID="string_r2l17"
+                          HEIGHT="274"
+                          WIDTH="2244"
+                          VPOS="3783"
+                          HPOS="2670"
+                          CONTENT="Prüfung nicht zu berükſichtigen"/>
+               </TextLine>
+               <TextLine ID="line_1626956324541_970"
+                         BASELINE="2697,4202 3022,4176 3252,4159 3398,4154"
+                         HEIGHT="98"
+                         WIDTH="705"
+                         VPOS="4109"
+                         HPOS="2693">
+                  <String ID="string_line_1626956324541_970"
+                          HEIGHT="98"
+                          WIDTH="705"
+                          VPOS="4109"
+                          HPOS="2693"
+                          CONTENT="ſey, und"/>
+               </TextLine>
+               <TextLine ID="r2l20"
+                         BASELINE="2644,4411 2756,4405 2868,4398 2980,4391 3092,4385 3205,4380 3317,4374 3429,4367 3541,4362 3653,4355 3766,4349 3878,4343 3990,4335 4102,4328 4214,4320 4327,4311 4439,4302 4551,4292 4663,4281 4775,4270 4888,4257"
+                         HEIGHT="280"
+                         WIDTH="2244"
+                         VPOS="4173"
+                         HPOS="2644">
+                  <String ID="string_r2l20"
+                          HEIGHT="280"
+                          WIDTH="2244"
+                          VPOS="4173"
+                          HPOS="2644"
+                          CONTENT="2.) die Einwendung gegen die Wahl‗"/>
+               </TextLine>
+               <TextLine ID="r2l21"
+                         BASELINE="2667,4578 2777,4575 2887,4571 2997,4567 3107,4561 3217,4555 3327,4549 3437,4542 3547,4534 3657,4526 3767,4519 3877,4511 3987,4502 4097,4495 4207,4487 4317,4479 4427,4472 4537,4465 4647,4459 4757,4453 4867,4448"
+                         HEIGHT="256"
+                         WIDTH="2200"
+                         VPOS="4364"
+                         HPOS="2667">
+                  <String ID="string_r2l21"
+                          HEIGHT="256"
+                          WIDTH="2200"
+                          VPOS="4364"
+                          HPOS="2667"
+                          CONTENT="fähigkeit des Helfers Remppis,"/>
+               </TextLine>
+               <TextLine ID="r2l22"
+                         BASELINE="2657,4742 2766,4739 2875,4734 2984,4730 3093,4724 3202,4718 3311,4711 3420,4704 3529,4696 3638,4689 3747,4681 3856,4673 3965,4665 4074,4657 4183,4650 4292,4642 4401,4635 4510,4629 4619,4623 4728,4617 4838,4613"
+                         HEIGHT="250"
+                         WIDTH="2181"
+                         VPOS="4532"
+                         HPOS="2657">
+                  <String ID="string_r2l22"
+                          HEIGHT="250"
+                          WIDTH="2181"
+                          VPOS="4532"
+                          HPOS="2657"
+                          CONTENT="welcher bei dem Prüf. Zeugniſſe Cl."/>
+               </TextLine>
+               <TextLine ID="r2l23"
+                         BASELINE="2682,4898 2790,4893 2899,4889 3007,4884 3116,4878 3224,4874 3333,4868 3441,4862 3550,4857 3658,4852 3767,4845 3875,4839 3984,4833 4092,4826 4201,4820 4309,4813 4418,4807 4526,4800 4635,4792 4743,4785 4852,4778"
+                         HEIGHT="234"
+                         WIDTH="2170"
+                         VPOS="4702"
+                         HPOS="2682">
+                  <String ID="string_r2l23"
+                          HEIGHT="234"
+                          WIDTH="2170"
+                          VPOS="4702"
+                          HPOS="2682"
+                          CONTENT="I. 6. eine neue Prüfung nicht"/>
+               </TextLine>
+               <TextLine ID="r2l24"
+                         BASELINE="2757,5050 2829,5046 2901,5042 2973,5039 3046,5036 3118,5032 3190,5030 3263,5027 3335,5024 3407,5022 3480,5019 3552,5017 3624,5014 3696,5010 3769,5007 3841,5003 3913,4999 3986,4995 4058,4990 4130,4984 4203,4978"
+                         HEIGHT="186"
+                         WIDTH="1446"
+                         VPOS="4902"
+                         HPOS="2757">
+                  <String ID="string_r2l24"
+                          HEIGHT="186"
+                          WIDTH="1446"
+                          VPOS="4902"
+                          HPOS="2757"
+                          CONTENT="zu erſtehen habe."/>
+               </TextLine>
+               <TextLine ID="r2l25"
+                         BASELINE="2646,5307 2758,5305 2870,5303 2982,5300 3095,5295 3207,5291 3319,5286 3432,5280 3544,5273 3656,5267 3769,5260 3881,5252 3993,5245 4105,5237 4218,5228 4330,5219 4442,5211 4555,5202 4667,5193 4779,5183 4892,5174"
+                         HEIGHT="250"
+                         WIDTH="2246"
+                         VPOS="5096"
+                         HPOS="2646">
+                  <String ID="string_r2l25"
+                          HEIGHT="250"
+                          WIDTH="2246"
+                          VPOS="5096"
+                          HPOS="2646"
+                          CONTENT="Nach beendigtem Vortrage des Hℓ."/>
+               </TextLine>
+               <TextLine ID="r2l26"
+                         BASELINE="2641,5468 2754,5464 2867,5460 2981,5456 3094,5452 3207,5448 3321,5443 3434,5437 3547,5432 3661,5427 3774,5421 3887,5415 4001,5408 4114,5402 4227,5394 4341,5387 4454,5379 4567,5370 4681,5361 4794,5351 4908,5340"
+                         HEIGHT="243"
+                         WIDTH="2267"
+                         VPOS="5263"
+                         HPOS="2641">
+                  <String ID="string_r2l26"
+                          HEIGHT="243"
+                          WIDTH="2267"
+                          VPOS="5263"
+                          HPOS="2641"
+                          CONTENT="Refer. kam zunächſt die Frage"/>
+               </TextLine>
+               <TextLine ID="r2l27"
+                         BASELINE="2708,5652 2816,5649 2925,5645 3034,5641 3143,5637 3252,5632 3360,5628 3469,5622 3578,5616 3687,5611 3796,5605 3904,5598 4013,5592 4122,5586 4231,5578 4340,5571 4448,5563 4557,5556 4666,5548 4775,5540 4884,5532"
+                         HEIGHT="246"
+                         WIDTH="2176"
+                         VPOS="5448"
+                         HPOS="2708">
+                  <String ID="string_r2l27"
+                          HEIGHT="246"
+                          WIDTH="2176"
+                          VPOS="5448"
+                          HPOS="2708"
+                          CONTENT="zur Sprache, ob der Wahl=Act"/>
+               </TextLine>
+               <TextLine ID="r2l28"
+                         BASELINE="2696,5851 2807,5841 2919,5833 3030,5825 3142,5818 3254,5811 3365,5804 3477,5798 3588,5792 3700,5786 3812,5780 3923,5774 4035,5769 4146,5763 4258,5756 4370,5749 4481,5742 4593,5735 4704,5727 4816,5718 4928,5709"
+                         HEIGHT="268"
+                         WIDTH="2232"
+                         VPOS="5625"
+                         HPOS="2696">
+                  <String ID="string_r2l28"
+                          HEIGHT="268"
+                          WIDTH="2232"
+                          VPOS="5625"
+                          HPOS="2696"
+                          CONTENT="bis zur Entſcheidung der vor‗"/>
+               </TextLine>
+               <TextLine ID="r2l29"
+                         BASELINE="2642,6034 2755,6026 2869,6018 2982,6012 3096,6006 3210,6001 3323,5995 3437,5991 3550,5987 3664,5982 3778,5977 3891,5972 4005,5966 4118,5960 4232,5954 4346,5947 4459,5939 4573,5930 4686,5920 4800,5909 4914,5897"
+                         HEIGHT="263"
+                         WIDTH="2272"
+                         VPOS="5813"
+                         HPOS="2642">
+                  <String ID="string_r2l29"
+                          HEIGHT="263"
+                          WIDTH="2272"
+                          VPOS="5813"
+                          HPOS="2642"
+                          CONTENT="liegenden Colliſion mit dem Con‗"/>
+               </TextLine>
+               <TextLine ID="r2l30"
+                         BASELINE="2636,6228 2751,6217 2866,6207 2982,6198 3097,6190 3213,6183 3328,6177 3443,6171 3559,6166 3674,6160 3790,6155 3905,6150 4020,6145 4136,6138 4251,6132 4367,6126 4482,6119 4597,6111 4713,6103 4828,6094 4944,6082"
+                         HEIGHT="272"
+                         WIDTH="2308"
+                         VPOS="5998"
+                         HPOS="2636">
+                  <String ID="string_r2l30"
+                          HEIGHT="272"
+                          WIDTH="2308"
+                          VPOS="5998"
+                          HPOS="2636"
+                          CONTENT="ſiſtorium aufgeſchoben werden"/>
+               </TextLine>
+               <TextLine ID="r2l31"
+                         BASELINE="2689,6401 2758,6394 2827,6387 2896,6381 2965,6376 3034,6373 3103,6369 3172,6365 3241,6363 3310,6361 3380,6360 3449,6358 3518,6356 3587,6354 3656,6352 3725,6350 3794,6346 3863,6343 3932,6339 4001,6333 4090,6327"
+                         HEIGHT="207"
+                         WIDTH="1411"
+                         VPOS="6234"
+                         HPOS="2689">
+                  <String ID="string_r2l31"
+                          HEIGHT="207"
+                          WIDTH="1411"
+                          VPOS="6234"
+                          HPOS="2689"
+                          CONTENT="ſolle, oder nicht?"/>
+               </TextLine>
+               <TextLine ID="r2l32"
+                         BASELINE="2793,6549 2898,6544 3004,6539 3109,6536 3215,6533 3321,6531 3426,6528 3532,6526 3638,6525 3743,6523 3849,6520 3955,6518 4060,6514 4166,6511 4272,6506 4377,6500 4483,6493 4589,6485 4694,6476 4800,6465 4906,6452"
+                         HEIGHT="218"
+                         WIDTH="2113"
+                         VPOS="6371"
+                         HPOS="2793">
+                  <String ID="string_r2l32"
+                          HEIGHT="218"
+                          WIDTH="2113"
+                          VPOS="6371"
+                          HPOS="2793"
+                          CONTENT="Durch Stim̄en=Mehrheit wurde"/>
+               </TextLine>
+               <TextLine ID="r2l33"
+                         BASELINE="2684,6742 2794,6732 2905,6725 3015,6719 3126,6715 3237,6711 3347,6710 3458,6709 3569,6708 3679,6708 3790,6708 3901,6707 4011,6705 4122,6703 4233,6700 4343,6694 4454,6687 4565,6678 4675,6666 4786,6652 4897,6634"
+                         HEIGHT="234"
+                         WIDTH="2213"
+                         VPOS="6550"
+                         HPOS="2684">
+                  <String ID="string_r2l33"
+                          HEIGHT="234"
+                          WIDTH="2213"
+                          VPOS="6550"
+                          HPOS="2684"
+                          CONTENT="beſchloßen, ſchon jetzt zur Wahl"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
