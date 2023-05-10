@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.5.0:model_id=32524:lm=none:date=01_06_2021_08:47
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.5.0:model_id=32524:lm=none:date=01_06_2021_08:47
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7</Creator>
+        <Created>2021-05-31T09:39:51.802+02:00</Created>
+        <LastChange>2021-06-22T11:59:22.244+02:00</LastChange>
+        <TranskribusMetadata docId="688168" pageId="26123274" pageNr="357" tsid="60127148" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=AERRPKQEFDYMPOPKKQIZYFKK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=APGKJCPISUVCWTWYCWMBDPUE" imageId="20080634"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_22_357.jpg" imageWidth="5065" imageHeight="7917">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683709741401" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1623332193239_725"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1623332193239_724"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1623332193239_725" custom="readingOrder {index:0;}">
+            <Coords points="1092,83 2424,83 2424,1918 1092,1918 1092,656 1268,634 1268,474 1092,469"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2268,167 2338,143 2396,165 2401,112 2376,109 2357,86 2274,96 2268,167"/>
+                <Baseline points="2277,140 2305,143 2333,144 2361,147 2390,150"/>
+                <TextEquiv>
+                    <Unicode>363.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1283,315 1391,342 1561,276 1643,296 1751,296 1817,348 1870,314 1927,327 2011,277 2065,284 2110,265 2193,284 2241,259 2257,272 2348,260 2383,285 2422,272 2420,185 2377,174 2340,143 2262,206 2191,191 2116,212 2043,199 1993,207 1934,198 1896,174 1847,215 1798,230 1727,176 1695,207 1653,206 1565,253 1516,237 1425,260 1395,246 1342,264 1319,247 1282,250 1283,315"/>
+                <Baseline points="1289,276 1345,276 1401,276 1457,276 1514,276 1570,276 1626,276 1682,275 1739,275 1795,273 1851,272 1907,272 1964,270 2020,269 2076,267 2132,267 2189,265 2245,264 2301,263 2357,263 2414,261"/>
+                <TextEquiv>
+                    <Unicode>Lang von dem Jnhalt des Re‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1623332193261_728" custom="readingOrder {index:2;}">
+                <Coords points="1266,379 1307,392 1369,349 1499,366 1588,320 1644,322 1667,342 1747,350 1811,379 1929,334 1994,381 2025,366 2041,376 2077,345 2114,337 2188,347 2249,322 2320,338 2348,326 2414,333 2417,486 2375,476 2291,490 2158,421 2077,430 2036,406 2014,420 1890,412 1863,431 1750,410 1716,432 1657,436 1610,475 1476,443 1418,475 1361,442 1327,443 1268,487 1268,474 1267,473"/>
+                <Baseline points="1274,423 1330,423 1387,422 1444,420 1500,419 1557,417 1614,416 1670,413 1727,411 1784,409 1841,407 1897,405 1954,404 2011,402 2067,402 2124,402 2181,402 2237,404 2294,405 2351,408 2408,411"/>
+                <TextEquiv>
+                    <Unicode>ſcripts, ſoweit er ihn betrifft,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1623332164613_716" custom="readingOrder {index:3;}">
+                <Coords points="1291,540 1330,523 1432,535 1483,494 1638,525 1700,502 1744,516 1832,482 1951,514 2042,487 2044,578 1988,556 1937,596 1862,610 1674,623 1563,562 1480,570 1428,594 1386,572 1332,606 1299,597 1291,600"/>
+                <Baseline points="1291,568 1328,566 1375,564 1422,563 1469,561 1516,560 1564,559 1611,558 1658,557 1705,557 1752,555 1800,555 1847,554 1894,554 1941,552 1988,552 2036,551"/>
+                <TextEquiv>
+                    <Unicode>zu benachrichtigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="1741,716 1782,699 1828,710 1823,651 1787,641 1737,671 1741,716"/>
+                <Baseline points="1746,693 1782,689 1818,687"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="1271,852 1298,862 1399,831 1547,848 1589,834 1657,857 1700,849 1734,876 1810,878 1864,916 1942,866 2032,851 2150,898 2253,841 2317,893 2354,890 2422,860 2423,801 2368,795 2329,761 2270,776 2184,767 2151,791 1985,752 1904,773 1729,744 1702,763 1643,771 1562,731 1448,769 1333,708 1273,716 1271,852"/>
+                <Baseline points="1278,825 1334,828 1391,831 1448,833 1505,834 1562,836 1619,837 1675,837 1732,839 1789,839 1846,840 1903,840 1960,840 2017,842 2073,842 2130,843 2187,843 2244,845 2301,846 2358,849 2415,851"/>
+                <TextEquiv>
+                    <Unicode>Dr. Michaelis referirt zuletzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="1270,1026 1347,1037 1433,979 1506,998 1542,980 1574,996 1589,981 1611,993 1680,968 1728,968 1805,1023 1903,995 1953,1013 2014,976 2067,971 2215,1025 2258,1006 2336,1001 2405,1029 2416,1026 2417,923 2347,889 2284,899 2230,863 2194,869 2112,921 2032,939 1966,929 1945,945 1786,891 1724,899 1643,942 1548,940 1485,906 1408,939 1389,925 1338,939 1270,925 1270,1026"/>
+                <Baseline points="1278,959 1334,961 1391,963 1447,965 1504,966 1560,968 1617,968 1673,969 1730,969 1786,969 1843,969 1900,969 1956,969 2013,969 2069,969 2126,969 2182,969 2239,968 2295,968 2352,968 2409,968"/>
+                <TextEquiv>
+                    <Unicode>nach eine Anzeige des Pro‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;} textStyle {offset:15; length:1;strikethrough:true;}">
+                <Coords points="1266,1171 1425,1129 1489,1135 1562,1107 1622,1124 1644,1114 1753,1169 1803,1156 1879,1188 1967,1130 2065,1112 2114,1131 2152,1117 2207,1130 2266,1112 2301,1130 2329,1108 2375,1133 2406,1127 2408,1031 2376,1038 2342,1023 2266,1062 2208,1071 2142,1025 2086,1015 2051,1033 2030,1022 2006,1041 1896,1020 1776,1052 1693,1010 1592,1017 1505,999 1459,1014 1404,1002 1337,1054 1268,1057 1266,1171"/>
+                <Baseline points="1275,1092 1331,1095 1387,1097 1443,1098 1500,1101 1556,1101 1612,1103 1668,1104 1725,1104 1781,1106 1837,1106 1893,1106 1950,1107 2006,1107 2062,1107 2118,1109 2175,1109 2231,1110 2287,1110 2343,1112 2400,1113"/>
+                <TextEquiv>
+                    <Unicode>feſſors Dr Hohl, vom 11. d. M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="1272,1243 1365,1252 1403,1271 1462,1243 1491,1245 1589,1293 1638,1292 1684,1268 1712,1280 1745,1271 1826,1332 1940,1284 1983,1250 2002,1263 2042,1239 2076,1263 2134,1249 2240,1334 2315,1278 2367,1267 2431,1280 2432,1212 2317,1176 2233,1185 2147,1225 1922,1172 1887,1188 1814,1173 1761,1215 1715,1209 1691,1188 1655,1206 1609,1191 1517,1210 1471,1176 1367,1219 1273,1200 1272,1243"/>
+                <Baseline points="1280,1236 1337,1238 1394,1240 1451,1241 1508,1242 1566,1242 1623,1244 1680,1244 1737,1244 1794,1244 1852,1244 1909,1244 1966,1245 2023,1245 2080,1247 2138,1248 2195,1250 2252,1251 2309,1254 2366,1258 2424,1262"/>
+                <TextEquiv>
+                    <Unicode>nach welcher dieſer am nächſten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="1285,1389 1338,1384 1373,1399 1408,1381 1467,1383 1518,1401 1566,1382 1607,1385 1704,1437 1734,1427 1815,1453 1890,1411 1939,1412 2065,1464 2149,1407 2209,1412 2250,1441 2351,1439 2381,1416 2422,1420 2423,1377 2309,1358 2263,1369 2198,1313 2161,1313 2127,1280 2067,1288 2029,1322 1906,1308 1864,1344 1818,1359 1756,1352 1707,1308 1648,1320 1557,1279 1406,1361 1286,1347 1285,1389"/>
+                <Baseline points="1292,1377 1348,1377 1404,1379 1460,1379 1516,1380 1572,1380 1628,1380 1685,1381 1741,1382 1797,1382 1853,1383 1909,1383 1965,1385 2021,1385 2078,1386 2134,1388 2190,1389 2246,1391 2302,1393 2358,1395 2415,1397"/>
+                <TextEquiv>
+                    <Unicode>Donnerstage ſeine Inaugu‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="1243,1536 1312,1522 1349,1542 1377,1533 1420,1558 1574,1585 1618,1562 1658,1561 1715,1519 1742,1534 1841,1522 1947,1566 1963,1552 2046,1556 2102,1535 2190,1537 2191,1459 2136,1461 2075,1502 2038,1507 1948,1475 1883,1488 1837,1449 1678,1447 1637,1478 1604,1476 1566,1447 1483,1453 1413,1481 1350,1473 1337,1486 1307,1469 1243,1492 1243,1536"/>
+                <Baseline points="1250,1520 1296,1520 1343,1520 1389,1519 1436,1518 1483,1518 1529,1518 1576,1518 1623,1518 1669,1518 1716,1518 1763,1518 1809,1520 1856,1521 1903,1521 1949,1523 1996,1524 2043,1527 2089,1529 2136,1532 2183,1535"/>
+                <TextEquiv>
+                    <Unicode>ralrede halten will.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="1757,1880 1837,1884 1874,1904 2005,1883 2105,1894 2146,1927 2243,1947 2244,1844 2183,1853 2121,1838 2094,1855 1911,1746 1758,1777 1757,1880"/>
+                <Baseline points="1764,1883 1790,1881 1816,1880 1842,1880 1869,1880 1895,1880 1921,1881 1947,1881 1974,1882 2000,1884 2026,1884 2053,1885 2079,1886 2105,1886 2131,1886 2158,1886 2184,1884 2210,1883 2276,1886"/>
+                <TextEquiv>
+                    <Unicode>Secr. Conz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>363.&#13;
+Lang von dem Jnhalt des Re‗&#13;
+ſcripts, ſoweit er ihn betrifft,&#13;
+zu benachrichtigen.&#13;
+4.&#13;
+Dr. Michaelis referirt zuletzt&#13;
+nach eine Anzeige des Pro‗&#13;
+feſſors Dr Hohl, vom 11. d. M.&#13;
+nach welcher dieſer am nächſten&#13;
+Donnerstage ſeine Inaugu‗&#13;
+ralrede halten will.&#13;
+Secr. Conz.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1623332193239_724" custom="readingOrder {index:1;}">
+            <Coords points="1092,469 1268,474 1268,634 1092,656"/>
+            <TextLine id="line_1622467765325_1372" custom="readingOrder {index:0;}">
+                <Coords points="1088,623 1196,633 1217,581 1253,564 1249,491 1180,477 1126,512 1079,501 1088,623"/>
+                <Baseline points="1092,582 1139,578 1186,574 1233,572 1247,571"/>
+                <TextEquiv>
+                    <Unicode>Fℓ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fℓ.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
