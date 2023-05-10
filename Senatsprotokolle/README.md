@@ -1,12 +1,14 @@
+# Senatsprotokolle
+
 This repository contains transcriptions of the "Protokolle des Akademischen Senats" from Eberhard Karls Universität Tübingen
 
-Language: Mostly German
+**Language:** Mostly German
 
-Layout: Text regions and baselines are manually corrected.
+**Layout:** Text regions and baselines are manually corrected.
 
-Model training for automatic text recognition: Result of model training in Transkribus 
+**Model training** for automatic text recognition: Result of model training in Transkribus 
 
-Sources: The transcriptions refer to digitised material available on OpenDigi (University Library of Tübingen):
+**Sources:** The transcriptions refer to digitised material available on OpenDigi (University Library of Tübingen):
 
 - [Protokolle des Akademischen Senats Band 63, UAT_047_15](http://doi.org/10.20345/digitue.24133)
 - [Protokolle des Akademischen Senats Band 67, UAT_047_19](http://doi.org/10.20345/digitue.25097)
@@ -17,7 +19,7 @@ Sources: The transcriptions refer to digitised material available on OpenDigi (U
 - [Protokolle des Akademischen Senats Band 77, UAT_047_28](http://doi.org/10.20345/digitue.22310)
 
 
-### Examples for downloads
+**Examples for downloads**
 
 ```
 # Get METS.
