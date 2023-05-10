@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test1(htr_id=34347)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-20T12:54:59.846+02:00</Created>
+        <LastChange>2021-07-05T14:37:50.155+02:00</LastChange>
+        <TranskribusMetadata docId="521818" pageId="22224380" pageNr="453" tsid="61058744" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=KTFRFBAZUVSQFLASTLAGWZWH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BYMKKGZALPFDBZRBRTKMUORF" imageId="17314509"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_24_453.jpg" imageWidth="5239" imageHeight="8029">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683710449619" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1284,142 1284,3568 2513,3569 2513,143"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:4;underlined:true;}">
+                <Coords points="2327,215 2358,214 2390,198 2399,204 2407,195 2438,208 2483,204 2481,136 2433,140 2421,129 2405,135 2390,131 2368,152 2326,161"/>
+                <Baseline points="2334,177 2362,182 2390,183 2418,180 2446,177 2474,179"/>
+                <TextEquiv>
+                    <Unicode>404.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1289,443 1518,467 1624,416 1864,453 2088,398 2362,442 2483,415 2482,350 2016,367 1884,294 1720,375 1612,335 1287,364"/>
+                <Baseline points="1295,416 1354,415 1413,414 1472,413 1531,411 1590,410 1649,408 1708,407 1767,406 1826,404 1885,403 1944,402 2003,401 2062,399 2121,399 2180,398 2239,398 2298,396 2357,396 2416,396 2475,395"/>
+                <TextEquiv>
+                    <Unicode>Bezug habenden Paſſus in dem Berichts‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1290,502 1796,531 2230,475 2346,509 2465,480 2464,423 2105,461 1918,414 1819,463 1568,439 1522,471 1417,437 1290,479"/>
+                <Baseline points="1298,494 1359,492 1420,491 1481,489 1542,488 1603,486 1664,485 1725,483 1786,482 1847,480 1908,480 1969,479 2030,478 2091,477 2152,476 2213,476 2274,476 2335,474 2396,474 2471,476"/>
+                <TextEquiv>
+                    <Unicode>entwurf ganz wegzulaſſen, was nach die‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1282,615 1371,575 1436,612 1525,562 1802,611 1892,561 2012,618 2180,567 2243,603 2429,561 2427,489 2305,478 2126,532 2053,487 1923,491 1644,541 1505,503 1280,561"/>
+                <Baseline points="1289,584 1345,579 1402,575 1458,571 1515,567 1571,564 1628,563 1684,561 1741,560 1797,558 1854,557 1911,555 1967,554 2024,554 2080,552 2137,551 2193,549 2250,548 2306,546 2363,543 2420,540"/>
+                <TextEquiv>
+                    <Unicode>ſer beſtimmten Erklärung des Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1290,697 1371,706 1462,647 1650,676 2003,630 2091,669 2278,627 2400,664 2493,631 2492,551 2243,603 2170,568 2067,617 1360,579 1288,613"/>
+                <Baseline points="1296,659 1355,654 1415,651 1474,648 1534,647 1593,644 1653,642 1712,641 1772,639 1831,638 1891,636 1950,635 2010,635 2069,633 2129,633 2188,632 2248,632 2307,630 2367,630 2426,630 2486,629"/>
+                <TextEquiv>
+                    <Unicode>Prof. Rieke über den Sinn ſeiner Aeuſſer‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1277,758 1343,781 1408,728 1670,715 1749,751 1826,710 1919,759 2032,713 2180,704 2179,662 2032,647 1866,687 1742,646 1680,687 1581,659 1370,707 1276,689"/>
+                <Baseline points="1284,729 1328,726 1372,725 1417,722 1461,720 1506,719 1550,717 1594,716 1639,716 1683,714 1728,713 1772,713 1816,713 1861,711 1905,711 1950,711 1994,710 2038,710 2083,708 2127,708 2178,707"/>
+                <TextEquiv>
+                    <Unicode>ung keinen Anſtand findet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1313,851 1493,811 1567,857 1758,806 2470,809 2469,757 2277,732 2161,764 2105,720 1918,761 1835,716 1665,770 1567,725 1312,782"/>
+                <Baseline points="1320,813 1377,812 1434,810 1491,809 1548,807 1605,807 1662,806 1720,806 1777,804 1834,804 1891,804 1948,803 2005,803 2062,803 2120,801 2177,801 2234,800 2291,800 2348,798 2405,797 2463,795"/>
+                <TextEquiv>
+                    <Unicode>Herr Profeſſor Dr: R. Mohl fragt, ob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1304,927 1928,880 2097,936 2325,875 2478,886 2477,815 2237,857 1303,855"/>
+                <Baseline points="1311,894 1369,892 1427,890 1485,888 1543,887 1601,885 1659,884 1717,884 1775,882 1833,882 1891,881 1949,881 2007,880 2065,879 2123,878 2181,878 2239,876 2297,875 2355,873 2413,871 2471,869"/>
+                <TextEquiv>
+                    <Unicode>nicht der Senat das mediciniſche Gutachten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1293,1005 1465,1008 1595,954 1687,984 1790,955 1885,998 2007,949 2254,947 2334,989 2458,952 2457,912 2059,930 1845,883 1734,937 1291,934"/>
+                <Baseline points="1299,966 1356,965 1414,963 1471,962 1529,960 1587,959 1644,957 1702,956 1759,954 1817,954 1875,952 1932,951 1990,950 2047,948 2105,947 2163,947 2220,945 2278,945 2335,945 2393,945 2451,945"/>
+                <TextEquiv>
+                    <Unicode>ſchlechthin dem Miniſterium vorlegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1295,1074 1526,1032 1723,1032 1790,1071 1950,1022 2058,1061 2446,1033 2445,978 2383,967 2227,1004 2144,966 1918,1003 1734,966 1501,1018 1294,1006"/>
+                <Baseline points="1302,1040 1358,1038 1415,1038 1472,1035 1529,1034 1586,1033 1643,1032 1699,1031 1756,1029 1813,1028 1870,1026 1927,1026 1984,1025 2041,1023 2097,1023 2154,1022 2211,1022 2268,1022 2325,1022 2382,1022 2466,1023"/>
+                <TextEquiv>
+                    <Unicode>ſollte, da die meiſten der Herren Sena‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1289,1141 1531,1113 1607,1160 1679,1107 1813,1142 2079,1088 2405,1135 2501,1109 2499,1029 2149,1076 2010,1034 1736,1080 1372,1055 1288,1095"/>
+                <Baseline points="1295,1118 1354,1115 1414,1113 1474,1111 1534,1109 1594,1107 1654,1106 1714,1104 1774,1103 1834,1101 1894,1100 1953,1098 2013,1097 2073,1095 2133,1095 2193,1094 2253,1094 2313,1092 2373,1092 2433,1092 2493,1092"/>
+                <TextEquiv>
+                    <Unicode>toren in dieſer Sache kein eigenes Urtheil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1292,1231 1399,1187 1596,1208 1885,1170 2061,1227 2137,1179 2438,1170 1969,1121 1817,1155 1401,1130 1291,1170"/>
+                <Baseline points="1299,1191 1355,1188 1412,1186 1468,1184 1525,1182 1581,1180 1638,1179 1694,1178 1751,1176 1807,1175 1864,1175 1921,1173 1977,1173 2034,1173 2090,1172 2147,1172 2203,1172 2260,1170 2316,1170 2373,1170 2430,1170"/>
+                <TextEquiv>
+                    <Unicode>haben können, worauf v. Gmelin er‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1304,1274 1518,1267 1610,1310 1773,1255 2086,1243 2227,1278 2392,1248 2353,1197 1303,1230"/>
+                <Baseline points="1311,1268 1364,1265 1418,1263 1471,1262 1525,1260 1579,1259 1632,1257 1686,1256 1740,1256 1793,1254 1847,1254 1901,1253 1954,1253 2008,1251 2062,1251 2115,1250 2169,1248 2223,1247 2276,1246 2330,1245 2384,1242"/>
+                <TextEquiv>
+                    <Unicode>wiedert, daß der Senat ebenſo die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="1304,1389 1563,1334 1867,1330 1943,1363 1999,1327 2433,1321 2432,1270 1938,1288 1872,1255 1743,1302 1538,1308 1460,1266 1303,1311"/>
+                <Baseline points="1311,1341 1366,1340 1422,1337 1478,1335 1534,1334 1589,1332 1645,1331 1701,1329 1757,1328 1812,1326 1868,1325 1924,1324 1980,1323 2035,1322 2091,1320 2147,1319 2203,1318 2258,1317 2314,1316 2370,1315 2463,1313"/>
+                <TextEquiv>
+                    <Unicode>Pflicht, wie das Recht habe, ſich auszu‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="1307,1468 1496,1405 1903,1408 1955,1450 2096,1388 2483,1405 2481,1328 2333,1360 2230,1313 2137,1369 1860,1329 1704,1384 1521,1355 1439,1386 1361,1344 1305,1371"/>
+                <Baseline points="1314,1407 1372,1407 1430,1406 1488,1406 1546,1404 1604,1403 1662,1401 1720,1400 1778,1398 1836,1396 1894,1395 1952,1392 2010,1391 2068,1389 2126,1388 2184,1386 2242,1386 2300,1385 2358,1385 2416,1385 2475,1386"/>
+                <TextEquiv>
+                    <Unicode>ſprechen, und daß er glaube, der Senat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="1308,1495 1474,1509 1645,1477 1821,1501 1886,1468 1949,1507 2007,1471 2089,1475 2088,1438 1949,1449 1866,1407 1705,1457 1548,1432 1435,1450 1389,1421 1308,1459"/>
+                <Baseline points="1316,1481 1354,1482 1392,1481 1430,1481 1469,1481 1507,1481 1545,1479 1584,1478 1622,1478 1660,1476 1699,1476 1737,1474 1775,1473 1813,1472 1852,1472 1890,1470 1928,1469 1967,1469 2005,1467 2043,1467 2082,1467"/>
+                <TextEquiv>
+                    <Unicode>könne ſich auch ausſprechen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="1295,1615 1376,1576 1531,1615 1623,1569 1801,1607 1879,1561 2459,1566 2458,1517 2135,1494 1817,1541 1672,1484 1592,1522 1294,1525"/>
+                <Baseline points="1302,1578 1359,1576 1416,1574 1474,1572 1531,1569 1589,1568 1646,1566 1704,1563 1761,1562 1819,1560 1876,1559 1933,1557 1991,1557 2048,1556 2106,1556 2163,1554 2221,1554 2278,1554 2336,1554 2393,1554 2451,1556"/>
+                <TextEquiv>
+                    <Unicode>Herr Prof. Dr: Reyscher findet es noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="1298,1697 1627,1647 2479,1655 2477,1579 2423,1574 2364,1606 2027,1571 1935,1616 1297,1614"/>
+                <Baseline points="1305,1650 1363,1649 1421,1647 1479,1644 1538,1643 1596,1641 1654,1640 1713,1638 1771,1638 1829,1637 1888,1636 1946,1635 2004,1634 2062,1634 2121,1632 2179,1632 2237,1631 2296,1629 2354,1629 2412,1628 2485,1624"/>
+                <TextEquiv>
+                    <Unicode>zweifelhaft, ob der aufzuſtellende Aſſiſ‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="1314,1772 1943,1707 2146,1732 2210,1701 2337,1740 2494,1713 2493,1676 2038,1658 1910,1696 1756,1648 1651,1700 1311,1685"/>
+                <Baseline points="1320,1733 1378,1730 1436,1727 1494,1725 1553,1722 1611,1721 1669,1718 1728,1717 1786,1715 1844,1713 1903,1712 1961,1711 2019,1709 2077,1708 2136,1707 2194,1706 2252,1704 2311,1703 2369,1702 2427,1700 2497,1699"/>
+                <TextEquiv>
+                    <Unicode>tenzArzt auch Stellvertreter des Vorſtands</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="1307,1818 1522,1799 1588,1851 1698,1789 2210,1775 2481,1814 2452,1729 1306,1766"/>
+                <Baseline points="1314,1803 1371,1801 1429,1799 1487,1797 1545,1796 1603,1794 1661,1791 1719,1790 1777,1789 1835,1787 1893,1785 1950,1784 2008,1782 2066,1781 2124,1779 2182,1778 2240,1776 2298,1775 2356,1773 2414,1772 2472,1770"/>
+                <TextEquiv>
+                    <Unicode>oder ob dieß ein anderer, academiſcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="1304,1928 1402,1878 1513,1928 1685,1863 1866,1904 1923,1859 2038,1904 2205,1857 2477,1872 2476,1826 2267,1794 1825,1840 1701,1789 1622,1849 1549,1820 1460,1855 1391,1805 1302,1821"/>
+                <Baseline points="1311,1880 1368,1876 1426,1874 1484,1871 1542,1869 1600,1866 1658,1864 1716,1862 1774,1860 1832,1859 1890,1857 1947,1856 2005,1854 2063,1854 2121,1853 2179,1853 2237,1853 2295,1853 2353,1853 2411,1853 2492,1851"/>
+                <TextEquiv>
+                    <Unicode>Lehrer ſeyn ſolle, auch ob ſich die Stellver‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="1298,1988 1371,1962 1475,1994 1609,1941 2005,1976 2184,1933 2349,1955 2458,1933 2457,1878 1297,1929"/>
+                <Baseline points="1305,1947 1362,1947 1419,1946 1476,1944 1534,1944 1591,1943 1648,1941 1706,1940 1763,1938 1820,1937 1878,1935 1935,1934 1992,1933 2049,1932 2107,1931 2164,1929 2221,1929 2279,1928 2336,1926 2393,1926 2476,1926"/>
+                <TextEquiv>
+                    <Unicode>tretung nur auf vorübergehende Verhin‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="1310,2031 1412,2020 1460,2055 1613,2011 1792,2047 2050,1990 2348,2049 2435,1969 1784,1946 1587,1991 1309,1981"/>
+                <Baseline points="1317,2016 1372,2015 1428,2015 1483,2013 1539,2012 1594,2011 1650,2010 1705,2009 1761,2007 1816,2006 1872,2004 1927,2003 1983,2001 2038,2000 2094,2000 2149,1998 2205,1998 2260,1997 2316,1997 2371,1997 2427,1998"/>
+                <TextEquiv>
+                    <Unicode>derungen des Vorſtands, oder auch auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="1309,2110 1398,2133 1649,2083 1811,2127 1893,2085 2030,2117 2314,2073 2414,2119 2494,2085 2493,2001 2428,1993 2339,2056 2191,2055 2117,2008 2072,2048 1943,2021 1843,2063 1621,2019 1550,2066 1308,2059"/>
+                <Baseline points="1316,2085 1374,2087 1433,2085 1491,2085 1550,2085 1608,2084 1667,2083 1725,2082 1784,2081 1842,2079 1901,2078 1960,2076 2018,2075 2077,2075 2135,2073 2194,2073 2252,2072 2311,2072 2369,2072 2428,2073 2509,2080"/>
+                <TextEquiv>
+                    <Unicode>längere Perioden z. B. in Folge von Reiſen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="1331,2184 1410,2166 1475,2203 1705,2153 1780,2203 2028,2157 2184,2200 2302,2149 2437,2152 2436,2086 2164,2127 2103,2096 2062,2130 1529,2104 1443,2145 1330,2136"/>
+                <Baseline points="1338,2165 1392,2163 1447,2162 1501,2162 1556,2160 1610,2159 1665,2157 1719,2157 1774,2156 1828,2156 1883,2154 1938,2154 1992,2153 2047,2153 2101,2151 2156,2151 2210,2151 2265,2151 2319,2150 2374,2150 2429,2150"/>
+                <TextEquiv>
+                    <Unicode>Krankheiten deſſelben beziehen ſolle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="1303,2248 1490,2281 1545,2252 1614,2290 1916,2230 2419,2254 2430,2196 2308,2146 2184,2201 1864,2174 1776,2202 1716,2167 1472,2217 1303,2203"/>
+                <Baseline points="1311,2238 1366,2237 1422,2235 1477,2233 1533,2232 1589,2231 1644,2229 1700,2228 1755,2228 1811,2226 1867,2226 1922,2225 1978,2225 2033,2224 2089,2223 2145,2223 2200,2223 2256,2222 2311,2222 2367,2222 2423,2222"/>
+                <TextEquiv>
+                    <Unicode>in welcher Hinſicht der Herr Rector</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="1315,2338 1457,2321 1584,2365 1856,2306 2052,2307 2116,2344 2222,2303 2359,2352 2452,2300 2452,2259 2275,2277 2162,2238 1887,2283 1657,2255 1600,2296 1315,2287"/>
+                <Baseline points="1323,2322 1379,2319 1435,2319 1491,2316 1547,2315 1603,2313 1659,2312 1715,2310 1771,2309 1827,2308 1884,2307 1940,2306 1996,2306 2052,2305 2108,2304 2164,2304 2220,2304 2276,2304 2332,2304 2388,2306 2453,2306"/>
+                <TextEquiv>
+                    <Unicode>auf die Thatſache aufmerkſam macht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="1315,2412 1542,2440 1664,2391 1792,2429 1936,2381 2060,2423 2488,2379 2487,2323 2428,2305 2345,2364 2050,2365 1913,2319 1551,2371 1314,2341"/>
+                <Baseline points="1323,2402 1380,2399 1438,2395 1496,2392 1554,2390 1612,2388 1670,2385 1727,2385 1785,2384 1843,2382 1901,2382 1959,2381 2017,2381 2075,2381 2132,2379 2190,2379 2248,2378 2306,2377 2364,2376 2422,2373 2503,2382"/>
+                <TextEquiv>
+                    <Unicode>daß nach den Beſtimmungen der Statu‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="1304,2487 1468,2468 1595,2516 1705,2481 1835,2515 1946,2465 2120,2511 2265,2454 2440,2476 2438,2395 2369,2386 2256,2439 2128,2406 1861,2450 1690,2408 1562,2451 1500,2421 1303,2441"/>
+                <Baseline points="1311,2477 1367,2475 1423,2474 1479,2472 1535,2471 1591,2469 1647,2468 1703,2468 1759,2466 1815,2466 1871,2465 1927,2463 1983,2463 2039,2462 2095,2462 2151,2460 2207,2459 2263,2457 2319,2456 2375,2455 2432,2453"/>
+                <TextEquiv>
+                    <Unicode>ten der Aſſiſtenzarzt wirklicher Stell‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="1315,2561 1626,2587 1685,2552 2036,2542 2143,2588 2239,2532 2439,2541 2438,2490 2402,2486 2122,2521 1958,2484 1886,2526 1709,2481 1599,2526 1314,2502"/>
+                <Baseline points="1322,2549 1377,2549 1433,2549 1488,2549 1544,2549 1599,2549 1655,2547 1710,2547 1766,2546 1821,2544 1877,2544 1932,2543 1988,2541 2043,2540 2099,2538 2154,2538 2210,2537 2265,2535 2321,2535 2376,2534 2432,2534"/>
+                <TextEquiv>
+                    <Unicode>vertreter für den Unterricht und die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="1326,2643 1565,2622 1832,2664 2051,2611 2249,2652 2385,2612 2471,2635 2470,2576 1968,2565 1796,2606 1429,2555 1325,2589"/>
+                <Baseline points="1332,2619 1388,2621 1445,2621 1501,2622 1558,2622 1614,2622 1671,2622 1727,2621 1784,2621 1840,2619 1897,2618 1954,2618 2010,2616 2067,2615 2123,2615 2180,2613 2236,2612 2293,2612 2349,2612 2406,2612 2463,2613"/>
+                <TextEquiv>
+                    <Unicode>Krankenbeſorgung, daß aber unter der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="1324,2722 1599,2697 1768,2750 1867,2698 1960,2741 2084,2691 2471,2711 2475,2645 1324,2657"/>
+                <Baseline points="1332,2697 1388,2697 1445,2696 1502,2696 1559,2696 1616,2694 1672,2694 1729,2694 1786,2694 1843,2694 1900,2693 1956,2693 2013,2693 2070,2693 2127,2692 2184,2691 2240,2691 2297,2690 2354,2690 2411,2689 2491,2688"/>
+                <TextEquiv>
+                    <Unicode>Stellvertretung eine förmliche Amts‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="1315,2785 1478,2806 1540,2773 1618,2806 1685,2768 2123,2762 2318,2817 2440,2759 2440,2698 2205,2747 1874,2713 1770,2749 1536,2715 1315,2744"/>
+                <Baseline points="1323,2774 1378,2771 1434,2769 1489,2768 1545,2766 1600,2766 1656,2766 1711,2766 1767,2766 1822,2766 1878,2766 1933,2766 1989,2768 2044,2768 2100,2768 2155,2766 2211,2766 2266,2765 2322,2763 2377,2762 2433,2759"/>
+                <TextEquiv>
+                    <Unicode>verweſerey auf längere Dauer nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="1303,2857 1374,2894 1441,2847 1619,2892 1790,2837 1958,2880 2078,2836 2175,2896 2441,2872 2440,2794 2318,2817 2254,2773 2067,2820 1907,2766 1799,2819 1592,2785 1303,2819"/>
+                <Baseline points="1310,2844 1366,2844 1422,2843 1478,2843 1534,2841 1590,2841 1646,2841 1703,2840 1759,2840 1815,2840 1871,2840 1927,2838 1983,2838 2039,2838 2096,2838 2152,2839 2208,2840 2264,2840 2320,2840 2376,2841 2433,2841"/>
+                <TextEquiv>
+                    <Unicode>begriffen ſeye, wobei jedoch Hℓ. Prof.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="1306,2982 1432,2929 2014,2955 2132,2921 2266,2976 2346,2920 2451,2927 2451,2893 2280,2864 2159,2899 2108,2851 1968,2888 1895,2861 1819,2903 1691,2866 1550,2890 1478,2842 1399,2889 1306,2880"/>
+                <Baseline points="1314,2925 1370,2925 1427,2925 1483,2925 1540,2925 1596,2925 1653,2924 1709,2924 1766,2924 1822,2922 1879,2922 1935,2921 1992,2921 2048,2921 2105,2921 2161,2921 2218,2921 2274,2921 2331,2921 2387,2921 2484,2933"/>
+                <TextEquiv>
+                    <Unicode>v. Gmelin bemerkt, daß der Aſſiſtenz‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="1315,3050 1387,3055 1437,3008 1668,3043 1923,2998 2117,3051 2209,3008 2459,3011 2477,2971 2069,2974 1939,2936 1813,2981 1621,2948 1314,2984"/>
+                <Baseline points="1322,3005 1379,3005 1436,3003 1494,3003 1551,3002 1608,3002 1666,3000 1723,2999 1780,2997 1838,2997 1895,2996 1952,2994 2010,2994 2067,2994 2124,2993 2182,2993 2239,2994 2296,2994 2354,2996 2411,2997 2469,3000"/>
+                <TextEquiv>
+                    <Unicode>arzt nicht auch im Unterricht Stellver‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:36;}">
+                <Coords points="1308,3088 1413,3080 1602,3122 1695,3077 1749,3094 1792,3067 1886,3084 1884,3038 1808,3049 1762,3011 1655,3056 1595,3029 1544,3053 1469,3033 1444,3052 1308,3060"/>
+                <Baseline points="1316,3080 1344,3080 1372,3080 1400,3080 1428,3080 1456,3079 1484,3078 1512,3077 1540,3077 1568,3075 1597,3075 1625,3074 1653,3072 1681,3072 1709,3071 1737,3071 1765,3070 1793,3069 1821,3069 1849,3069 1878,3069"/>
+                <TextEquiv>
+                    <Unicode>treter ſeyn könne.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:37;}">
+                <Coords points="1312,3205 1865,3153 2427,3212 2494,3188 2494,3134 2155,3090 2086,3134 1843,3083 1602,3132 1311,3125"/>
+                <Baseline points="1319,3167 1377,3164 1435,3162 1494,3161 1552,3159 1610,3159 1669,3158 1727,3158 1785,3156 1844,3156 1902,3156 1960,3156 2019,3156 2077,3156 2135,3158 2194,3158 2252,3158 2310,3158 2369,3158 2427,3158 2486,3158"/>
+                <TextEquiv>
+                    <Unicode>Herr Prof. Dr: Riecke glaubt, daß auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:38;} textStyle {offset:30; length:4;strikethrough:true;}">
+                <Coords points="1328,3271 1500,3233 1595,3282 1782,3235 1914,3284 1951,3252 2107,3284 2200,3234 2392,3240 2392,3213 2263,3177 2092,3215 2032,3169 1891,3173 1818,3215 1597,3169 1327,3205"/>
+                <Baseline points="1335,3240 1387,3239 1439,3237 1492,3237 1544,3236 1597,3235 1649,3234 1702,3234 1754,3233 1807,3233 1859,3233 1911,3233 1964,3233 2016,3233 2069,3233 2121,3233 2174,3233 2226,3233 2279,3234 2331,3235 2384,3236"/>
+                <TextEquiv>
+                    <Unicode>dieſe Weiſe ein Aſſiſtenzarzt dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:39;}">
+                <Coords points="1321,3329 1995,3304 2147,3348 2461,3309 2461,3255 1320,3275"/>
+                <Baseline points="1328,3311 1384,3311 1440,3309 1496,3309 1553,3309 1609,3308 1665,3308 1722,3306 1778,3306 1834,3305 1891,3303 1947,3303 2003,3302 2059,3300 2116,3300 2172,3300 2228,3299 2285,3299 2341,3299 2397,3300 2454,3300"/>
+                <TextEquiv>
+                    <Unicode>blos der Bediente des Vorſtands, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:40;}">
+                <Coords points="1324,3384 1513,3392 1600,3438 1672,3389 1711,3424 1847,3389 1910,3426 2225,3392 2286,3372 2286,3339 2028,3362 1981,3319 1820,3349 1578,3309 1477,3352 1415,3318 1324,3367"/>
+                <Baseline points="1332,3383 1379,3383 1426,3383 1474,3383 1521,3381 1568,3381 1616,3381 1663,3381 1710,3380 1758,3380 1805,3380 1852,3379 1900,3378 1947,3378 1994,3378 2042,3377 2089,3377 2136,3376 2184,3375 2231,3375 2292,3378"/>
+                <TextEquiv>
+                    <Unicode>kein Hülfslehrer ſeyn werde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:41;}">
+                <Coords points="1336,3480 1446,3519 1529,3470 1710,3460 1889,3469 1954,3513 2017,3464 2305,3457 2390,3489 2397,3390 2283,3367 2137,3431 2063,3396 1990,3442 1749,3419 1679,3449 1417,3404 1335,3446"/>
+                <Baseline points="1343,3473 1395,3471 1447,3470 1500,3467 1552,3466 1604,3465 1657,3464 1709,3464 1761,3464 1814,3464 1866,3462 1918,3462 1971,3462 2023,3462 2075,3462 2128,3461 2180,3460 2232,3458 2285,3458 2337,3456 2390,3453"/>
+                <TextEquiv>
+                    <Unicode>Als hierauf von dem Herrn Rector</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:42;}">
+                <Coords points="1333,3553 1660,3593 1864,3538 1925,3578 2179,3589 2489,3541 2477,3477 2259,3516 1332,3492"/>
+                <Baseline points="1341,3551 1398,3548 1455,3546 1512,3544 1569,3543 1626,3541 1683,3540 1740,3539 1797,3537 1854,3537 1911,3537 1968,3536 2025,3536 2082,3536 2139,3536 2196,3536 2253,3536 2310,3536 2367,3536 2424,3534 2481,3534"/>
+                <TextEquiv>
+                    <Unicode>die Vorfrage zur Abſtim̄ung gebracht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>404.&#13;
+Bezug habenden Paſſus in dem Berichts‗&#13;
+entwurf ganz wegzulaſſen, was nach die‗&#13;
+ſer beſtimmten Erklärung des Herrn&#13;
+Prof. Rieke über den Sinn ſeiner Aeuſſer‗&#13;
+ung keinen Anſtand findet.&#13;
+Herr Profeſſor Dr: R. Mohl fragt, ob&#13;
+nicht der Senat das mediciniſche Gutachten&#13;
+ſchlechthin dem Miniſterium vorlegen&#13;
+ſollte, da die meiſten der Herren Sena‗&#13;
+toren in dieſer Sache kein eigenes Urtheil&#13;
+haben können, worauf v. Gmelin er‗&#13;
+wiedert, daß der Senat ebenſo die&#13;
+Pflicht, wie das Recht habe, ſich auszu‗&#13;
+ſprechen, und daß er glaube, der Senat&#13;
+könne ſich auch ausſprechen.&#13;
+Herr Prof. Dr: Reyscher findet es noch&#13;
+zweifelhaft, ob der aufzuſtellende Aſſiſ‗&#13;
+tenzArzt auch Stellvertreter des Vorſtands&#13;
+oder ob dieß ein anderer, academiſcher&#13;
+Lehrer ſeyn ſolle, auch ob ſich die Stellver‗&#13;
+tretung nur auf vorübergehende Verhin‗&#13;
+derungen des Vorſtands, oder auch auf&#13;
+längere Perioden z. B. in Folge von Reiſen,&#13;
+Krankheiten deſſelben beziehen ſolle,&#13;
+in welcher Hinſicht der Herr Rector&#13;
+auf die Thatſache aufmerkſam macht,&#13;
+daß nach den Beſtimmungen der Statu‗&#13;
+ten der Aſſiſtenzarzt wirklicher Stell‗&#13;
+vertreter für den Unterricht und die&#13;
+Krankenbeſorgung, daß aber unter der&#13;
+Stellvertretung eine förmliche Amts‗&#13;
+verweſerey auf längere Dauer nicht&#13;
+begriffen ſeye, wobei jedoch Hℓ. Prof.&#13;
+v. Gmelin bemerkt, daß der Aſſiſtenz‗&#13;
+arzt nicht auch im Unterricht Stellver‗&#13;
+treter ſeyn könne.&#13;
+Herr Prof. Dr: Riecke glaubt, daß auf&#13;
+dieſe Weiſe ein Aſſiſtenzarzt dann&#13;
+blos der Bediente des Vorſtands, und&#13;
+kein Hülfslehrer ſeyn werde.&#13;
+Als hierauf von dem Herrn Rector&#13;
+die Vorfrage zur Abſtim̄ung gebracht</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

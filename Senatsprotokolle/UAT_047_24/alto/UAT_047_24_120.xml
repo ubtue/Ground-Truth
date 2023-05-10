@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>UAT_047_24_120.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-05-10T11:20:41.556+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="8029" WIDTH="5239">
+         <TopMargin HEIGHT="0" WIDTH="5239" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="8029" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="8029" WIDTH="0" VPOS="0" HPOS="5239"/>
+         <BottomMargin HEIGHT="0" WIDTH="5239" VPOS="8029" HPOS="0"/>
+         <PrintSpace HEIGHT="8029" WIDTH="5239" VPOS="0" HPOS="0">
+            <TextBlock ID="r1"
+                       HEIGHT="3682"
+                       WIDTH="1826"
+                       VPOS="215"
+                       HPOS="705"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="705,215 705,3888 2531,3897 2490,215"/>
+               </Shape>
+               <TextLine ID="line_1624536027651_758"
+                         BASELINE="915,261 993,269 1071,274 1149,278 1228,281 1247,281"
+                         HEIGHT="124"
+                         WIDTH="357"
+                         VPOS="179"
+                         HPOS="903">
+                  <String ID="string_line_1624536027651_758"
+                          HEIGHT="124"
+                          WIDTH="357"
+                          VPOS="179"
+                          HPOS="903"
+                          CONTENT="nr: 110."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="726,387 751,388 777,389 803,388 829,387 855,386 880,383 906,381 932,380 958,376 984,373 1009,371 1035,369 1061,367 1087,366 1113,365"
+                         HEIGHT="199"
+                         WIDTH="408"
+                         VPOS="275"
+                         HPOS="715">
+                  <String ID="string_r1l2"
+                          HEIGHT="199"
+                          WIDTH="408"
+                          VPOS="275"
+                          HPOS="715"
+                          CONTENT="Ref. Herr"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="743,489 768,489 793,489 818,489 843,489 869,491 894,491 919,491 944,491 970,491 995,492 1020,492 1045,491 1071,491 1096,491 1121,489 1146,489 1205,493"
+                         HEIGHT="134"
+                         WIDTH="447"
+                         VPOS="379"
+                         HPOS="734">
+                  <String ID="string_r1l4"
+                          HEIGHT="134"
+                          WIDTH="447"
+                          VPOS="379"
+                          HPOS="734"
+                          CONTENT="Rektor D. Kern."/>
+               </TextLine>
+               <TextLine ID="line_1624536024887_752"
+                         BASELINE="1318,282 1384,284 1463,284 1541,284 1619,282 1698,281 1776,279 1854,278 1932,278 2011,276 2089,276 2167,276 2246,278 2324,279 2402,282 2469,298 2481,329"
+                         HEIGHT="218"
+                         WIDTH="1180"
+                         VPOS="157"
+                         HPOS="1309">
+                  <String ID="string_line_1624536024887_752"
+                          HEIGHT="218"
+                          WIDTH="1180"
+                          VPOS="157"
+                          HPOS="1309"
+                          CONTENT="Geſuch des engℓ. Lehrers der engliſchꝫ"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="1275,420 1332,420 1390,419 1448,418 1506,416 1564,414 1622,412 1679,410 1737,407 1795,405 1853,404 1911,402 1969,401 2027,401 2084,401 2142,401 2200,402 2258,405 2316,408 2374,412 2494,443"
+                         HEIGHT="187"
+                         WIDTH="1174"
+                         VPOS="310"
+                         HPOS="1266">
+                  <String ID="string_r1l3"
+                          HEIGHT="187"
+                          WIDTH="1174"
+                          VPOS="310"
+                          HPOS="1266"
+                          CONTENT="Sprache, Deker, um neue Bewilligung"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="1259,555 1313,555 1368,555 1423,555 1478,554 1533,552 1588,551 1643,549 1698,547 1753,545 1808,543 1862,542 1917,540 1972,539 2027,538 2082,537 2137,537 2192,539 2247,540 2302,542 2357,546"
+                         HEIGHT="189"
+                         WIDTH="1115"
+                         VPOS="447"
+                         HPOS="1251">
+                  <String ID="string_r1l5"
+                          HEIGHT="189"
+                          WIDTH="1115"
+                          VPOS="447"
+                          HPOS="1251"
+                          CONTENT="einer Gratification von 100. f"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="1242,711 1300,710 1358,708 1416,706 1474,704 1532,702 1590,700 1648,698 1706,696 1764,695 1822,692 1880,690 1938,689 1996,687 2054,686 2112,686 2170,684 2228,684 2286,684 2344,684 2403,684"
+                         HEIGHT="198"
+                         WIDTH="1178"
+                         VPOS="600"
+                         HPOS="1232">
+                  <String ID="string_r1l6"
+                          HEIGHT="198"
+                          WIDTH="1178"
+                          VPOS="600"
+                          HPOS="1232"
+                          CONTENT="beziehungsweiſe Erhöhung derſelben."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="1572,903 1600,903 1628,903 1657,903 1685,902 1713,902 1742,900 1770,899 1798,897 1827,896 1855,894 1883,894 1912,891 1940,891 1968,889 1997,888 2025,886 2053,885 2082,885 2110,884 2139,884"
+                         HEIGHT="161"
+                         WIDTH="583"
+                         VPOS="759"
+                         HPOS="1561">
+                  <String ID="string_r1l7"
+                          HEIGHT="161"
+                          WIDTH="583"
+                          VPOS="759"
+                          HPOS="1561"
+                          CONTENT="V. &amp; Concl:"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="1242,1050 1307,1046 1372,1043 1437,1040 1502,1037 1568,1034 1633,1031 1698,1029 1763,1028 1828,1028 1894,1026 1959,1026 2024,1026 2089,1026 2154,1026 2220,1026 2285,1026 2350,1028 2415,1029 2481,1029"
+                         HEIGHT="175"
+                         WIDTH="1258"
+                         VPOS="908"
+                         HPOS="1232">
+                  <String ID="string_r1l8"
+                          HEIGHT="175"
+                          WIDTH="1258"
+                          VPOS="908"
+                          HPOS="1232"
+                          CONTENT="den bey den Acten befindlichꝫ Bericht"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="1263,1172 1323,1169 1384,1166 1445,1163 1506,1161 1566,1159 1627,1158 1688,1157 1749,1155 1809,1155 1870,1155 1931,1154 1992,1154 2052,1154 2113,1154 2174,1154 2235,1155 2295,1155 2356,1155 2417,1155 2478,1155"
+                         HEIGHT="212"
+                         WIDTH="1231"
+                         VPOS="1040"
+                         HPOS="1255">
+                  <String ID="string_r1l9"
+                          HEIGHT="212"
+                          WIDTH="1231"
+                          VPOS="1040"
+                          HPOS="1255"
+                          CONTENT="an das K. Miniſterium des Jnnern"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="1268,1307 1293,1307 1319,1306 1344,1305 1370,1304 1395,1304 1421,1302 1446,1301 1472,1299 1498,1298 1523,1297 1549,1296 1574,1295 1600,1294 1625,1293 1651,1292 1676,1292 1702,1290 1728,1290"
+                         HEIGHT="192"
+                         WIDTH="478"
+                         VPOS="1198"
+                         HPOS="1258">
+                  <String ID="string_r1l10"
+                          HEIGHT="192"
+                          WIDTH="478"
+                          VPOS="1198"
+                          HPOS="1258"
+                          CONTENT="zu erſtatten."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="936,1599 962,1599 988,1596 1014,1594 1040,1592 1066,1590 1092,1588 1118,1586 1144,1584 1170,1581 1196,1580 1222,1578 1248,1577 1275,1575"
+                         HEIGHT="114"
+                         WIDTH="358"
+                         VPOS="1505"
+                         HPOS="923">
+                  <String ID="string_r1l11"
+                          HEIGHT="114"
+                          WIDTH="358"
+                          VPOS="1505"
+                          HPOS="923"
+                          CONTENT="nr. 121."/>
+               </TextLine>
+               <TextLine ID="line_1624536049490_768"
+                         BASELINE="705,1730 732,1730 759,1730 787,1730 814,1730 841,1730 869,1728 915,1718 941,1714 968,1711 995,1709 1021,1708 1048,1707 1075,1707 1102,1707 1128,1707 1155,1707 1182,1707 1208,1706 1235,1704 1262,1701 1289,1697"
+                         HEIGHT="195"
+                         WIDTH="605"
+                         VPOS="1598"
+                         HPOS="695">
+                  <String ID="string_line_1624536049490_768"
+                          HEIGHT="195"
+                          WIDTH="605"
+                          VPOS="1598"
+                          HPOS="695"
+                          CONTENT="Ref. Univerſ. Rath"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="942,1809 967,1811 992,1811 1017,1809 1042,1807 1067,1804 1092,1803 1117,1802 1153,1803"
+                         HEIGHT="136"
+                         WIDTH="218"
+                         VPOS="1720"
+                         HPOS="932">
+                  <String ID="string_r1l16"
+                          HEIGHT="136"
+                          WIDTH="218"
+                          VPOS="1720"
+                          HPOS="932"
+                          CONTENT="Haas."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="1383,1625 1438,1623 1493,1622 1549,1620 1604,1619 1659,1617 1715,1616 1770,1614 1825,1613 1881,1611 1936,1610 1991,1608 2047,1607 2102,1607 2157,1605 2213,1605 2268,1605 2323,1604 2379,1605 2434,1605 2490,1605"
+                         HEIGHT="204"
+                         WIDTH="1124"
+                         VPOS="1501"
+                         HPOS="1373">
+                  <String ID="string_r1l12"
+                          HEIGHT="204"
+                          WIDTH="1124"
+                          VPOS="1501"
+                          HPOS="1373"
+                          CONTENT="Geſuch des Aufwärters im Natu_"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="1326,1760 1382,1758 1439,1756 1496,1755 1553,1754 1609,1754 1666,1754 1723,1752 1780,1752 1837,1752 1893,1752 1950,1754 2007,1752 2064,1752 2121,1752 2177,1752 2234,1751 2291,1749 2348,1748 2405,1745"
+                         HEIGHT="154"
+                         WIDTH="1096"
+                         VPOS="1622"
+                         HPOS="1317">
+                  <String ID="string_r1l15"
+                          HEIGHT="154"
+                          WIDTH="1096"
+                          VPOS="1622"
+                          HPOS="1317"
+                          CONTENT="ralienCabinet Carl Rath um"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="1281,1916 1339,1916 1398,1916 1457,1914 1516,1913 1574,1912 1633,1910 1692,1907 1751,1905 1809,1902 1868,1899 1927,1898 1986,1895 2044,1892 2103,1891 2162,1889 2221,1889 2279,1889 2338,1889 2397,1889 2456,1892"
+                         HEIGHT="214"
+                         WIDTH="1194"
+                         VPOS="1786"
+                         HPOS="1271">
+                  <String ID="string_r1l17"
+                          HEIGHT="214"
+                          WIDTH="1194"
+                          VPOS="1786"
+                          HPOS="1271"
+                          CONTENT="GehaltsErhöhung, oder Entlaſsung."/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="1509,2099 1538,2099 1567,2099 1596,2097 1625,2097 1654,2096 1683,2096 1712,2094 1741,2093 1770,2092 1800,2091 1829,2090 1858,2088 1887,2087 1916,2085 1945,2084 1974,2082 2003,2081 2032,2079 2061,2078 2091,2076"
+                         HEIGHT="152"
+                         WIDTH="602"
+                         VPOS="1980"
+                         HPOS="1498">
+                  <String ID="string_r1l18"
+                          HEIGHT="152"
+                          WIDTH="602"
+                          VPOS="1980"
+                          HPOS="1498"
+                          CONTENT="Vot. et Concl:"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="1272,2252 1329,2248 1386,2246 1443,2243 1500,2241 1557,2238 1614,2237 1671,2235 1728,2233 1785,2232 1842,2230 1899,2229 1956,2228 2013,2227 2070,2226 2127,2225 2184,2225 2241,2225 2298,2225 2355,2225 2470,2226"
+                         HEIGHT="151"
+                         WIDTH="1158"
+                         VPOS="2124"
+                         HPOS="1263">
+                  <String ID="string_r1l19"
+                          HEIGHT="151"
+                          WIDTH="1158"
+                          VPOS="2124"
+                          HPOS="1263"
+                          CONTENT="den im Concept bey den Acten be_"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="1266,2379 1325,2381 1384,2381 1443,2380 1503,2379 1562,2378 1621,2376 1680,2375 1740,2372 1799,2370 1858,2368 1917,2366 1977,2364 2036,2363 2095,2361 2154,2360 2214,2360 2273,2360 2332,2361 2391,2364 2495,2372"
+                         HEIGHT="193"
+                         WIDTH="1203"
+                         VPOS="2251"
+                         HPOS="1257">
+                  <String ID="string_r1l20"
+                          HEIGHT="193"
+                          WIDTH="1203"
+                          VPOS="2251"
+                          HPOS="1257"
+                          CONTENT="findlichen Bericht an das K: Miniſteri_"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="1304,2507 1352,2507 1401,2507 1449,2507 1498,2507 1546,2505 1595,2505 1643,2504 1692,2502 1740,2501 1789,2499 1837,2497 1886,2495 1934,2495 1983,2493 2031,2492 2080,2490 2128,2489 2177,2488 2225,2487 2274,2487"
+                         HEIGHT="191"
+                         WIDTH="988"
+                         VPOS="2399"
+                         HPOS="1295">
+                  <String ID="string_r1l21"
+                          HEIGHT="191"
+                          WIDTH="988"
+                          VPOS="2399"
+                          HPOS="1295"
+                          CONTENT="um des Jnnern zu erſtatten."/>
+               </TextLine>
+               <TextLine ID="line_1624536065582_780"
+                         BASELINE="980,2741 1055,2747 1131,2751 1206,2754 1276,2755"
+                         HEIGHT="112"
+                         WIDTH="318"
+                         VPOS="2663"
+                         HPOS="971">
+                  <String ID="string_line_1624536065582_780"
+                          HEIGHT="112"
+                          WIDTH="318"
+                          VPOS="2663"
+                          HPOS="971"
+                          CONTENT="nr. 127."/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="938,2852 964,2853 990,2855 1016,2854 1043,2853 1069,2851 1095,2850 1121,2849 1148,2849"
+                         HEIGHT="140"
+                         WIDTH="230"
+                         VPOS="2748"
+                         HPOS="926">
+                  <String ID="string_r1l23"
+                          HEIGHT="140"
+                          WIDTH="230"
+                          VPOS="2748"
+                          HPOS="926"
+                          CONTENT="derſelbe."/>
+               </TextLine>
+               <TextLine ID="line_1624536064296_774"
+                         BASELINE="1343,2756 1357,2757 1433,2757 1508,2756 1584,2756 1659,2754 1735,2752 1810,2750 1886,2748 1961,2747 2037,2745 2112,2744 2188,2744 2263,2745 2339,2747 2414,2749 2490,2754"
+                         HEIGHT="175"
+                         WIDTH="1166"
+                         VPOS="2636"
+                         HPOS="1333">
+                  <String ID="string_line_1624536064296_774"
+                          HEIGHT="175"
+                          WIDTH="1166"
+                          VPOS="2636"
+                          HPOS="1333"
+                          CONTENT="Erlaß des K: Miniſterium des Jn̄ern"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="1296,2892 1355,2889 1414,2886 1473,2883 1532,2879 1592,2877 1651,2873 1710,2871 1769,2868 1828,2867 1888,2864 1947,2862 2006,2861 2065,2861 2124,2859 2184,2859 2243,2860 2302,2861 2361,2862 2420,2864 2480,2867"
+                         HEIGHT="223"
+                         WIDTH="1203"
+                         VPOS="2749"
+                         HPOS="1285">
+                  <String ID="string_r1l24"
+                          HEIGHT="223"
+                          WIDTH="1203"
+                          VPOS="2749"
+                          HPOS="1285"
+                          CONTENT="betrℓ. die Errichtung einer Hebam̄enSchule"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="1304,3002 1330,3003 1356,3003 1382,3003 1408,3002 1434,3002 1460,3000 1486,3000 1512,2999 1538,2997 1564,2996 1590,2994 1616,2994 1642,2992 1668,2991 1694,2991 1771,3011"
+                         HEIGHT="126"
+                         WIDTH="435"
+                         VPOS="2897"
+                         HPOS="1295">
+                  <String ID="string_r1l25"
+                          HEIGHT="126"
+                          WIDTH="435"
+                          VPOS="2897"
+                          HPOS="1295"
+                          CONTENT="im Clinikum."/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="1763,3054 1789,3053 1815,3053 1841,3051 1867,3050 1893,3047 1919,3047 1945,3044 1971,3044 1997,3042 2023,3041 2049,3041 2075,3039 2101,3039 2127,3039 2153,3038 2179,3039 2205,3039"
+                         HEIGHT="143"
+                         WIDTH="462"
+                         VPOS="2936"
+                         HPOS="1753">
+                  <String ID="string_r1l26"
+                          HEIGHT="143"
+                          WIDTH="462"
+                          VPOS="2936"
+                          HPOS="1753"
+                          CONTENT="V. et Concl:"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="1265,3179 1326,3178 1387,3177 1448,3176 1509,3174 1570,3173 1631,3170 1692,3168 1753,3165 1814,3164 1875,3161 1936,3159 1997,3158 2058,3155 2119,3153 2180,3153 2241,3152 2302,3152 2363,3152 2424,3153 2486,3155"
+                         HEIGHT="190"
+                         WIDTH="1239"
+                         VPOS="3051"
+                         HPOS="1256">
+                  <String ID="string_r1l27"
+                          HEIGHT="190"
+                          WIDTH="1239"
+                          VPOS="3051"
+                          HPOS="1256"
+                          CONTENT="den Vorſtehern des leztern zur Aeuſserung."/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="1260,3357 1318,3356 1377,3354 1436,3353 1495,3351 1553,3350 1612,3350 1671,3348 1730,3348 1788,3347 1847,3347 1906,3347 1965,3345 2023,3345 2082,3344 2141,3344 2200,3342 2258,3342 2317,3341 2376,3339 2435,3338"
+                         HEIGHT="271"
+                         WIDTH="1190"
+                         VPOS="3167"
+                         HPOS="1250">
+                  <String ID="string_r1l28"
+                          HEIGHT="271"
+                          WIDTH="1190"
+                          VPOS="3167"
+                          HPOS="1250"
+                          CONTENT="Einige andere Gegenſtände werden brevi"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="1274,3468 1334,3468 1395,3467 1456,3467 1517,3465 1578,3465 1638,3465 1699,3464 1760,3464 1821,3464 1882,3462 1942,3462 2003,3461 2064,3461 2125,3459 2186,3458 2246,3458 2307,3456 2368,3454 2429,3452 2490,3450"
+                         HEIGHT="187"
+                         WIDTH="1232"
+                         VPOS="3365"
+                         HPOS="1266">
+                  <String ID="string_r1l29"
+                          HEIGHT="187"
+                          WIDTH="1232"
+                          VPOS="3365"
+                          HPOS="1266"
+                          CONTENT="manu dem VerwaltungsAusſchuſse über_"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="1274,3566 1299,3566 1325,3566 1351,3565 1377,3564 1403,3564 1429,3563 1455,3561 1481,3558"
+                         HEIGHT="132"
+                         WIDTH="227"
+                         VPOS="3495"
+                         HPOS="1265">
+                  <String ID="string_r1l30"
+                          HEIGHT="132"
+                          WIDTH="227"
+                          VPOS="3495"
+                          HPOS="1265"
+                          CONTENT="wieſen."/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="786,3720 853,3720 920,3719 987,3717 1054,3716 1122,3714 1189,3711 1256,3709 1323,3707 1390,3705 1458,3701 1525,3699 1592,3696 1659,3695 1726,3693 1794,3690 1861,3689 1928,3689 1995,3687 2062,3687 2130,3689"
+                         HEIGHT="198"
+                         WIDTH="1363"
+                         VPOS="3604"
+                         HPOS="776">
+                  <String ID="string_r1l32"
+                          HEIGHT="198"
+                          WIDTH="1363"
+                          VPOS="3604"
+                          HPOS="776"
+                          CONTENT="Zur Beurkundung dieſer Verhandlung:"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="1452,3810 1502,3807 1553,3805 1604,3803 1655,3801 1706,3801 1757,3801 1807,3801 1858,3803 1909,3803 1960,3804 2011,3806 2062,3807 2113,3809 2163,3812 2214,3813 2265,3815 2316,3816 2367,3818 2418,3818 2469,3819"
+                         HEIGHT="210"
+                         WIDTH="1036"
+                         VPOS="3671"
+                         HPOS="1443">
+                  <String ID="string_r1l33"
+                          HEIGHT="210"
+                          WIDTH="1036"
+                          VPOS="3671"
+                          HPOS="1443"
+                          CONTENT="UniverſitätsAmt: Haas."/>
+               </TextLine>
+               <TextLine ID="line_1624536098543_793"
+                         BASELINE="2446,3876 2508,3876"
+                         HEIGHT="103"
+                         WIDTH="79"
+                         VPOS="3791"
+                         HPOS="2438">
+                  <String ID="string_line_1624536098543_793"
+                          HEIGHT="103"
+                          WIDTH="79"
+                          VPOS="3791"
+                          HPOS="2438"
+                          CONTENT="48."/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="819,3860 844,3857 869,3855 895,3854 920,3852 946,3852 971,3851 996,3849 1022,3849 1047,3848 1073,3848 1098,3847 1123,3846 1149,3846 1174,3846 1200,3846"
+                         HEIGHT="154"
+                         WIDTH="400"
+                         VPOS="3720"
+                         HPOS="809">
+                  <String ID="string_r1l34"
+                          HEIGHT="154"
+                          WIDTH="400"
+                          VPOS="3720"
+                          HPOS="809"
+                          CONTENT="Vid. D. Kern."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

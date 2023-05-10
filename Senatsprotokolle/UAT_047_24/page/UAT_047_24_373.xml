@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test1(htr_id=34347)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-20T12:54:46.645+02:00</Created>
+        <LastChange>2021-07-05T12:29:06.166+02:00</LastChange>
+        <TranskribusMetadata docId="521818" pageId="22224293" pageNr="373" tsid="61052910" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=CQSHELHPDCHMURAKHZRFCJYU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AMMRMQBODWDJJLBCJMTFFMYZ" imageId="17314422"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_24_373.jpg" imageWidth="5239" imageHeight="8029">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683710445900" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="1266,173 1266,3531 2463,3531 2463,173"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} textStyle {offset:0; length:4;underlined:true;}">
+                <Coords points="2177,239 2196,245 2209,238 2224,242 2235,231 2254,239 2288,237 2338,224 2338,208 2310,200 2273,175 2251,188 2235,177 2191,213 2176,212"/>
+                <Baseline points="2184,231 2213,233 2242,233 2272,231 2301,230 2331,228"/>
+                <TextEquiv>
+                    <Unicode>364.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1295,466 1709,491 2052,443 2212,521 2301,476 2402,485 2399,390 2238,347 2062,383 1944,346 1601,404 1427,366 1293,421"/>
+                <Baseline points="1302,473 1356,473 1411,471 1465,470 1520,468 1574,465 1629,463 1683,461 1738,458 1792,455 1847,453 1902,450 1956,447 2011,446 2065,444 2120,443 2174,443 2229,443 2283,444 2338,446 2393,449"/>
+                <TextEquiv>
+                    <Unicode>des Berichts des Oberbibliothe‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1316,645 1612,609 1910,646 2022,602 2376,612 2373,525 2230,516 2154,559 2084,515 1887,502 1786,567 1622,531 1516,585 1413,516 1312,542"/>
+                <Baseline points="1323,629 1375,624 1427,620 1479,615 1531,613 1584,609 1636,607 1688,605 1740,603 1792,600 1845,599 1897,598 1949,596 2001,594 2053,594 2106,593 2158,591 2210,590 2262,588 2314,585 2367,584"/>
+                <TextEquiv>
+                    <Unicode>kariats verfertigt und bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="1316,758 2337,740 2384,734 2380,625 2262,635 2156,696 1745,642 1535,693 1430,655 1314,716"/>
+                <Baseline points="1322,750 1374,749 1427,747 1479,746 1532,746 1585,744 1637,743 1690,741 1743,740 1795,738 1848,737 1901,734 1953,732 2006,730 2059,728 2111,726 2164,723 2217,720 2269,718 2322,714 2375,711"/>
+                <TextEquiv>
+                    <Unicode>den Acten der Univerſität</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="1316,872 1568,863 1744,920 1902,846 2191,839 2187,720 2013,821 1770,775 1681,824 1545,779 1479,828 1315,842"/>
+                <Baseline points="1323,864 1366,863 1409,861 1452,860 1495,858 1538,857 1581,855 1624,854 1667,852 1710,852 1753,850 1796,849 1839,848 1882,846 1925,845 1968,843 2011,842 2054,840 2097,837 2140,836 2184,834"/>
+                <TextEquiv>
+                    <Unicode>niedergelegt werde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="1360,1023 1652,1007 1704,1036 1779,990 1870,1042 1991,996 2064,1035 2151,972 2403,1008 2458,994 2453,877 2108,885 2031,941 1881,951 1803,903 1568,960 1494,898 1357,968"/>
+                <Baseline points="1367,1010 1421,1010 1475,1010 1529,1008 1583,1006 1638,1002 1692,998 1746,994 1800,990 1854,985 1909,980 1963,977 2017,974 2071,971 2125,969 2180,969 2234,969 2288,972 2342,975 2396,983 2451,990"/>
+                <TextEquiv>
+                    <Unicode>Die Aeußerung, daß die Fre‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="1324,1204 1388,1160 1461,1214 1570,1137 1728,1116 2364,1130 2471,1111 2468,1040 2324,1019 2187,1074 2083,1024 1912,1083 1647,1038 1572,1102 1320,1105"/>
+                <Baseline points="1329,1139 1385,1137 1442,1134 1499,1131 1555,1129 1612,1125 1669,1122 1725,1119 1782,1115 1839,1112 1896,1108 1952,1106 2009,1103 2066,1101 2122,1098 2179,1098 2236,1097 2292,1098 2349,1100 2406,1103 2463,1106"/>
+                <TextEquiv>
+                    <Unicode>quenz des Clinicums von Seiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="1260,1272 1978,1220 2105,1227 2229,1298 2351,1292 2438,1247 2434,1140 2256,1161 2152,1125 2002,1196 1870,1136 1791,1191 1659,1141 1461,1214 1406,1167 1258,1218"/>
+                <Baseline points="1266,1253 1324,1251 1382,1249 1440,1247 1498,1243 1556,1241 1614,1238 1673,1234 1731,1230 1789,1227 1847,1224 1905,1222 1963,1219 2021,1217 2080,1215 2138,1214 2196,1212 2254,1212 2312,1214 2370,1215 2429,1217"/>
+                <TextEquiv>
+                    <Unicode>der Studirenden im Steigen ſey,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="1319,1351 1857,1326 1967,1362 2135,1337 2203,1375 2428,1337 2425,1215 2233,1299 1968,1247 1874,1285 1781,1239 1319,1329"/>
+                <Baseline points="1326,1349 1380,1346 1435,1343 1490,1340 1544,1337 1599,1335 1654,1332 1708,1331 1763,1329 1818,1328 1873,1326 1927,1326 1982,1325 2037,1325 2091,1325 2146,1325 2201,1325 2255,1325 2310,1326 2365,1328 2420,1328"/>
+                <TextEquiv>
+                    <Unicode>wird auf die Bemerkung des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="1308,1514 1395,1493 1507,1538 1607,1460 1724,1482 1874,1448 1997,1522 2101,1446 2334,1480 2395,1447 2394,1405 2282,1366 2168,1394 2049,1347 1973,1390 1917,1362 1833,1395 1766,1349 1679,1384 1619,1346 1305,1410"/>
+                <Baseline points="1314,1460 1367,1458 1421,1457 1474,1455 1528,1454 1582,1452 1635,1451 1689,1449 1743,1447 1796,1445 1850,1443 1904,1442 1957,1440 2011,1439 2065,1437 2118,1436 2172,1434 2226,1433 2279,1431 2333,1430 2387,1430"/>
+                <TextEquiv>
+                    <Unicode>Profeſſors Rieke dahin abge‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;} textStyle {offset:21; length:6;underlined:true;}">
+                <Coords points="1333,1609 1838,1606 1955,1674 2133,1620 2274,1649 2377,1567 2458,1588 2456,1531 2368,1487 2267,1530 2052,1488 1983,1525 1898,1473 1761,1469 1537,1544 1331,1520"/>
+                <Baseline points="1341,1601 1396,1593 1451,1587 1507,1581 1562,1577 1618,1572 1673,1569 1729,1567 1784,1565 1840,1563 1895,1562 1950,1562 2006,1562 2061,1562 2117,1562 2172,1562 2228,1563 2283,1565 2339,1565 2394,1566 2450,1568"/>
+                <TextEquiv>
+                    <Unicode>ändert, daß ſie ſich gleich ſey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="1382,1742 1616,1716 1703,1746 2033,1694 2237,1754 2404,1700 2403,1575 2239,1679 2034,1633 1947,1669 1873,1611 1707,1663 1574,1672 1495,1614 1381,1652"/>
+                <Baseline points="1389,1715 1439,1713 1489,1711 1540,1709 1590,1706 1641,1704 1691,1703 1741,1701 1792,1700 1842,1698 1893,1698 1943,1697 1993,1697 2044,1697 2094,1697 2145,1697 2195,1698 2245,1700 2296,1702 2346,1704 2397,1707"/>
+                <TextEquiv>
+                    <Unicode>Canzler v. Wächter wünſcht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="1322,1923 1462,1864 1601,1889 1655,1839 1800,1857 1932,1817 2089,1823 2173,1888 2276,1817 2414,1844 2410,1747 2079,1727 1932,1775 1833,1737 1767,1794 1704,1749 1598,1775 1476,1737 1318,1820"/>
+                <Baseline points="1326,1851 1382,1849 1439,1847 1496,1844 1553,1841 1609,1838 1666,1835 1723,1830 1780,1828 1837,1824 1893,1821 1950,1820 2007,1817 2064,1815 2121,1814 2177,1814 2234,1814 2291,1815 2348,1817 2405,1820"/>
+                <TextEquiv>
+                    <Unicode>daß das Protokoll der Viſita‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="1340,1996 2392,1926 2373,1846 2195,1896 2109,1857 2001,1912 1744,1866 1599,1924 1553,1898 1499,1930 1433,1882 1384,1930 1337,1922"/>
+                <Baseline points="1346,1973 1397,1970 1449,1967 1501,1964 1553,1960 1605,1956 1657,1953 1709,1949 1761,1946 1813,1942 1865,1938 1916,1936 1968,1934 2020,1931 2072,1929 2124,1928 2176,1928 2228,1928 2280,1928 2332,1929 2384,1931"/>
+                <TextEquiv>
+                    <Unicode>tion des Naturaliencabi‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="1307,2105 1475,2078 1616,2151 1707,2089 1775,2122 1909,2039 2393,2062 2391,1998 2216,2019 2135,1959 2021,2025 1927,1970 1705,2018 1522,1988 1446,2047 1306,2065"/>
+                <Baseline points="1314,2085 1367,2081 1421,2076 1474,2073 1528,2069 1581,2066 1635,2063 1688,2060 1742,2058 1795,2056 1849,2054 1903,2052 1956,2051 2010,2049 2063,2049 2117,2048 2170,2048 2224,2048 2277,2048 2331,2049 2385,2049"/>
+                <TextEquiv>
+                    <Unicode>nets beigelegt werde: was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="1294,2258 1397,2292 1467,2247 1528,2271 1633,2243 1683,2197 1923,2186 1936,2104 1876,2142 1785,2153 1716,2149 1669,2116 1590,2149 1536,2113 1453,2128 1412,2100 1344,2148 1290,2150"/>
+                <Baseline points="1299,2204 1330,2202 1362,2201 1393,2200 1425,2199 1457,2198 1488,2198 1520,2196 1552,2195 1583,2195 1615,2193 1647,2192 1678,2191 1710,2189 1742,2189 1773,2187 1805,2184 1837,2183 1868,2181 1900,2178 1932,2177"/>
+                <TextEquiv>
+                    <Unicode>beſchloſſen wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="1392,2358 1463,2355 1531,2404 1621,2332 1897,2316 1997,2385 2140,2312 2221,2342 2420,2328 2417,2245 2220,2208 2101,2279 1958,2239 1782,2288 1703,2238 1562,2284 1467,2247 1389,2291"/>
+                <Baseline points="1398,2336 1448,2334 1499,2333 1550,2331 1600,2328 1651,2327 1702,2325 1752,2322 1803,2319 1854,2317 1905,2314 1955,2312 2006,2310 2057,2307 2107,2305 2158,2304 2209,2301 2259,2300 2310,2300 2361,2298 2412,2298"/>
+                <TextEquiv>
+                    <Unicode>Nach dem Antrag des Prof.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="1318,2542 1379,2500 1494,2537 1587,2465 1927,2437 2134,2454 2200,2500 2399,2440 2398,2409 2273,2415 2145,2346 2021,2394 1853,2358 1760,2420 1423,2366 1313,2414"/>
+                <Baseline points="1322,2468 1375,2466 1428,2463 1482,2462 1535,2460 1589,2457 1642,2455 1696,2453 1749,2450 1803,2448 1856,2447 1909,2444 1963,2441 2016,2439 2070,2438 2123,2436 2177,2435 2230,2433 2284,2432 2337,2430 2391,2429"/>
+                <TextEquiv>
+                    <Unicode>H. Mohl wird die Aufnahme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="1301,2598 1633,2616 1934,2567 2043,2635 2082,2594 2315,2625 2435,2590 2430,2451 2275,2458 2177,2528 2094,2474 1933,2480 1802,2548 1685,2486 1506,2540 1420,2501 1300,2571"/>
+                <Baseline points="1308,2589 1366,2591 1425,2591 1484,2591 1543,2589 1602,2586 1661,2584 1720,2580 1779,2576 1838,2572 1896,2568 1955,2565 2014,2561 2073,2559 2132,2556 2191,2555 2250,2553 2309,2555 2368,2556 2427,2559"/>
+                <TextEquiv>
+                    <Unicode>der Bitte um baldige Entſchei‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="1317,2790 1430,2810 1529,2732 1742,2708 2135,2697 2348,2761 2453,2715 2451,2655 2357,2664 2287,2617 2098,2668 1854,2604 1746,2683 1459,2602 1314,2696"/>
+                <Baseline points="1322,2720 1378,2721 1434,2721 1490,2721 1546,2721 1602,2720 1658,2718 1715,2717 1771,2714 1827,2711 1883,2709 1939,2706 1995,2704 2051,2702 2108,2699 2164,2696 2220,2694 2276,2691 2332,2690 2388,2688 2445,2687"/>
+                <TextEquiv>
+                    <Unicode>dung über die Veränderung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="1310,2879 1568,2873 1674,2926 1781,2916 1959,2838 2349,2833 2360,2758 2272,2728 2180,2804 2087,2752 2009,2790 1737,2740 1625,2806 1535,2774 1452,2833 1308,2843"/>
+                <Baseline points="1317,2862 1368,2862 1420,2861 1472,2859 1524,2858 1576,2856 1628,2853 1680,2851 1732,2848 1784,2845 1836,2841 1887,2838 1939,2835 1991,2832 2043,2829 2095,2826 2147,2823 2199,2820 2251,2817 2303,2814 2355,2813"/>
+                <TextEquiv>
+                    <Unicode>in der Aufſicht über das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="1323,3012 1937,2960 2111,3044 2203,3034 2402,2941 2399,2877 2061,2865 1990,2921 1907,2896 1734,2952 1564,2874 1320,2948"/>
+                <Baseline points="1329,2993 1382,2990 1435,2987 1488,2984 1542,2982 1595,2980 1648,2978 1701,2975 1755,2972 1808,2970 1861,2967 1914,2964 1968,2961 2021,2959 2074,2956 2127,2954 2181,2949 2234,2946 2287,2943 2340,2941 2394,2937"/>
+                <TextEquiv>
+                    <Unicode>Naturaliencabinet beſchloſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="1304,3123 1377,3148 1614,3117 1851,3204 1998,3109 2127,3168 2378,3111 2375,3050 2266,3017 2187,3068 2067,3017 1982,3088 1812,3027 1441,3036 1302,3091"/>
+                <Baseline points="1311,3125 1363,3125 1416,3125 1469,3125 1522,3123 1575,3123 1628,3122 1681,3120 1734,3119 1787,3117 1840,3115 1892,3113 1945,3111 1998,3108 2051,3105 2104,3102 2157,3098 2210,3096 2263,3091 2316,3088 2369,3084"/>
+                <TextEquiv>
+                    <Unicode>Da die bisherige Einrichtung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;}">
+                <Coords points="1320,3284 1717,3247 1852,3317 1928,3244 2042,3275 2165,3232 2388,3235 2440,3224 2438,3176 2238,3121 2056,3220 1934,3159 1824,3210 1634,3165 1319,3251"/>
+                <Baseline points="1326,3266 1381,3263 1436,3261 1492,3258 1547,3255 1602,3252 1658,3251 1713,3248 1768,3246 1824,3245 1879,3243 1934,3240 1990,3239 2045,3236 2100,3235 2156,3233 2211,3231 2266,3229 2322,3227 2377,3224 2433,3222"/>
+                <TextEquiv>
+                    <Unicode>mit den nachtheiligſten Jncon‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="1304,3374 1434,3371 1546,3432 1712,3360 2029,3354 2098,3400 2265,3355 2261,3220 2042,3332 1916,3286 1849,3321 1785,3289 1679,3327 1303,3349"/>
+                <Baseline points="1311,3375 1358,3372 1405,3370 1453,3368 1500,3365 1547,3364 1595,3362 1642,3361 1689,3360 1737,3358 1784,3357 1831,3356 1879,3354 1926,3353 1973,3351 2021,3350 2068,3348 2115,3347 2163,3344 2210,3341 2258,3338"/>
+                <TextEquiv>
+                    <Unicode>venienzen verbunden ſey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="1403,3527 1628,3501 1785,3569 1911,3490 2031,3482 2267,3564 2431,3492 2427,3380 2264,3375 2199,3429 2079,3445 1991,3393 1716,3434 1630,3398 1551,3435 1494,3398 1400,3444"/>
+                <Baseline points="1409,3504 1459,3503 1510,3501 1561,3500 1612,3497 1662,3494 1713,3491 1764,3488 1815,3485 1865,3482 1916,3479 1967,3476 2018,3474 2068,3471 2119,3470 2170,3468 2221,3468 2271,3468 2322,3469 2373,3471 2424,3474"/>
+                <TextEquiv>
+                    <Unicode>Bei dem Abſchnitt aber die Jn‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>364.&#13;
+des Berichts des Oberbibliothe‗&#13;
+kariats verfertigt und bei&#13;
+den Acten der Univerſität&#13;
+niedergelegt werde.&#13;
+Die Aeußerung, daß die Fre‗&#13;
+quenz des Clinicums von Seiten&#13;
+der Studirenden im Steigen ſey,&#13;
+wird auf die Bemerkung des&#13;
+Profeſſors Rieke dahin abge‗&#13;
+ändert, daß ſie ſich gleich ſey.&#13;
+Canzler v. Wächter wünſcht,&#13;
+daß das Protokoll der Viſita‗&#13;
+tion des Naturaliencabi‗&#13;
+nets beigelegt werde: was&#13;
+beſchloſſen wird.&#13;
+Nach dem Antrag des Prof.&#13;
+H. Mohl wird die Aufnahme&#13;
+der Bitte um baldige Entſchei‗&#13;
+dung über die Veränderung&#13;
+in der Aufſicht über das&#13;
+Naturaliencabinet beſchloſſen.&#13;
+Da die bisherige Einrichtung&#13;
+mit den nachtheiligſten Jncon‗&#13;
+venienzen verbunden ſey.&#13;
+Bei dem Abſchnitt aber die Jn‗</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

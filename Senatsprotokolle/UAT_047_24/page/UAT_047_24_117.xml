@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test1(htr_id=34347)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-20T12:53:55.069+02:00</Created>
+        <LastChange>2021-07-05T11:19:53.388+02:00</LastChange>
+        <TranskribusMetadata docId="521818" pageId="22223971" pageNr="117" tsid="61049277" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=DQWZFYYUEWYMYVZPEFLJDBZD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VHRSBURKOZJGBWYSBJFYNUYP" imageId="17314100"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_24_117.jpg" imageWidth="5239" imageHeight="8029">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683710439696" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="90,119 90,3686 2522,3686 2522,119"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2252,237 2303,230 2314,238 2368,220 2397,233 2444,209 2470,209 2469,152 2446,153 2431,139 2394,140 2383,131 2326,141 2318,136 2287,154 2250,160"/>
+                <Baseline points="2265,188 2292,189 2319,189 2346,189 2373,188 2400,187 2427,186 2454,183"/>
+                <TextEquiv>
+                    <Unicode>249.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1042,382 1138,332 1175,348 1203,319 1305,305 1325,325 1347,307 1384,309 1450,348 1473,338 1471,239 1403,263 1339,211 1314,220 1242,173 1185,177 1149,210 1089,185 1038,204"/>
+                <Baseline points="1056,306 1081,306 1106,306 1131,306 1156,305 1181,305 1206,305 1231,303 1257,303 1282,302 1307,302 1332,301 1357,300 1382,300 1407,299 1432,299 1458,297"/>
+                <TextEquiv>
+                    <Unicode>Tübingen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="469,561 563,576 684,494 775,534 882,461 1168,463 1281,535 1554,449 1899,496 1896,351 1262,331 1074,423 701,371 467,447"/>
+                <Baseline points="483,488 553,483 623,479 693,474 763,471 833,468 903,465 973,462 1043,460 1113,458 1183,456 1253,455 1323,453 1393,453 1463,453 1533,453 1603,453 1673,453 1743,455 1813,456 1883,458"/>
+                <TextEquiv>
+                    <Unicode>verhandelt im academiſchen Senate,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="764,656 880,641 1034,685 1123,603 1183,615 1267,573 1342,616 1443,582 1572,606 1569,507 1260,533 1199,481 1098,530 975,510 761,554"/>
+                <Baseline points="777,603 818,600 859,599 900,597 941,594 982,593 1023,591 1064,590 1105,588 1146,587 1187,587 1228,585 1269,584 1310,584 1351,582 1392,582 1433,581 1474,580 1515,579 1556,578"/>
+                <TextEquiv>
+                    <Unicode>den 28. Julii 1836.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} textStyle {offset:0; length:10;underlined:true;}">
+                <Coords points="329,820 392,843 465,821 512,842 703,800 773,837 767,681 660,694 628,678 603,699 551,667 517,677 490,652 446,671 414,649 377,665 323,655"/>
+                <Baseline points="342,779 367,779 393,779 419,777 445,777 471,776 496,774 522,773 548,773 574,771 600,770 625,770 651,768 677,767 703,767 729,766 755,765"/>
+                <TextEquiv>
+                    <Unicode>Anweſende:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:5;}">
+                <Coords points="833,817 1046,838 1468,762 1770,828 1925,765 2417,802 2415,685 2314,642 1935,680 1760,621 1183,714 830,695"/>
+                <Baseline points="846,789 923,784 1001,779 1079,774 1157,771 1235,767 1313,764 1390,762 1468,759 1546,758 1624,756 1702,755 1780,753 1858,753 1935,753 2013,753 2091,754 2169,755 2247,756 2325,758 2403,759"/>
+                <TextEquiv>
+                    <Unicode>Vorſtand der Rector, Profeſſor Dr. Kern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} textStyle {offset:20; length:5;underlined:true;} textStyle {offset:30; length:6;underlined:true;} textStyle {offset:41; length:8;underlined:true;} textStyle {offset:54; length:4;underlined:true;} textStyle {offset:60; length:7;underlined:true;}">
+                <Coords points="79,1028 679,940 966,1025 1104,923 1413,987 1541,903 1882,986 2029,884 2377,927 2373,813 2241,764 1764,868 1526,799 1344,879 780,823 519,912 325,821 209,908 75,884"/>
+                <Baseline points="90,957 203,954 317,951 430,948 544,944 657,939 771,936 884,932 998,926 1111,922 1225,918 1338,913 1452,909 1565,905 1679,902 1792,899 1906,896 2019,893 2133,891 2246,891 2360,890"/>
+                <TextEquiv>
+                    <Unicode>Die Profeſsorꝫ: von Fulda, v. Gmelin, v. Schrader, v. Drey, Steudel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} textStyle {offset:0; length:5;underlined:true;} textStyle {offset:10; length:11;underlined:true;} textStyle {offset:23; length:9;underlined:true;} textStyle {offset:34; length:9;underlined:true;}">
+                <Coords points="640,1159 754,1167 860,1090 1024,1161 1359,1074 1540,1126 1673,1036 1886,1109 2163,1090 2296,1066 2293,961 2044,911 1856,985 1610,919 1428,993 1145,953 977,1027 771,973 636,1028"/>
+                <Baseline points="653,1070 734,1068 815,1065 897,1062 978,1059 1059,1056 1141,1053 1222,1050 1303,1047 1385,1044 1466,1041 1547,1038 1629,1035 1710,1034 1791,1031 1873,1029 1954,1028 2035,1026 2117,1025 2198,1025 2280,1025"/>
+                <TextEquiv>
+                    <Unicode>Jäger, v. Eſchenmaier, Michaelis, Scheurlen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} textStyle {offset:0; length:4;underlined:true;} textStyle {offset:6; length:6;underlined:true;} textStyle {offset:14; length:4;underlined:true;} textStyle {offset:20; length:5;underlined:true;} textStyle {offset:27; length:4;underlined:true;} textStyle {offset:33; length:10;underlined:true;}">
+                <Coords points="669,1215 805,1202 945,1285 1455,1176 1727,1190 1825,1285 1969,1221 2489,1240 2487,1138 2334,1142 2237,1056 2090,1140 1933,1079 1625,1149 1354,1073 668,1170"/>
+                <Baseline points="684,1202 773,1197 863,1194 952,1191 1042,1188 1131,1186 1221,1184 1310,1182 1400,1179 1489,1178 1579,1177 1668,1176 1758,1175 1847,1175 1937,1175 2026,1175 2116,1175 2205,1175 2295,1175 2384,1176 2474,1178"/>
+                <TextEquiv>
+                    <Unicode>Baur, Schmid, Rapp, Rieke, Mohl, Nörrenberg,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} textStyle {offset:0; length:9;underlined:true;} textStyle {offset:14; length:3;underlined:true;}">
+                <Coords points="655,1450 763,1442 851,1376 958,1428 1019,1377 1157,1363 1249,1314 1439,1311 1483,1344 1553,1301 1548,1202 1453,1174 1415,1202 1290,1198 1159,1261 1016,1238 952,1284 797,1250 650,1316"/>
+                <Baseline points="666,1343 709,1341 753,1339 796,1337 840,1335 884,1332 927,1329 971,1326 1015,1325 1058,1322 1102,1319 1146,1317 1189,1316 1233,1313 1277,1313 1320,1311 1364,1310 1408,1310 1451,1310 1495,1310 1539,1311"/>
+                <TextEquiv>
+                    <Unicode>Hugo Mohl, u: Mak,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} textStyle {offset:17; length:4;underlined:true;}">
+                <Coords points="705,1511 1114,1515 1203,1449 1371,1478 1689,1457 1734,1449 1732,1387 1575,1375 1431,1311 1321,1324 1235,1383 1067,1374 961,1429 851,1376 765,1444 703,1440"/>
+                <Baseline points="719,1475 769,1472 819,1470 869,1469 919,1466 969,1463 1019,1461 1069,1459 1119,1457 1169,1455 1219,1454 1269,1452 1319,1449 1369,1448 1419,1447 1469,1446 1519,1445 1569,1445 1619,1445 1669,1445 1719,1445"/>
+                <TextEquiv>
+                    <Unicode>UniverſitätsRath Haas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} textStyle {offset:0; length:10;underlined:true;}">
+                <Coords points="406,1672 534,1681 564,1702 625,1688 698,1719 745,1682 813,1693 807,1566 691,1566 592,1525 530,1533 475,1564 400,1550"/>
+                <Baseline points="419,1646 444,1643 469,1641 494,1640 519,1639 545,1638 570,1637 595,1637 620,1635 645,1635 671,1634 696,1632 721,1630 746,1629 771,1628 811,1633"/>
+                <TextEquiv>
+                    <Unicode>Abweſende:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} textStyle {offset:41; length:6;underlined:true;}">
+                <Coords points="192,1835 442,1916 640,1799 849,1853 1721,1756 2222,1793 2337,1753 2334,1642 1865,1636 1601,1720 1399,1641 1089,1704 868,1639 761,1744 452,1682 190,1764"/>
+                <Baseline points="207,1820 312,1813 418,1807 524,1802 630,1796 735,1791 841,1787 947,1784 1053,1779 1158,1776 1264,1773 1370,1770 1476,1767 1581,1766 1687,1764 1793,1761 1899,1760 2004,1760 2110,1758 2216,1757 2322,1755"/>
+                <TextEquiv>
+                    <Unicode>Der Kanzler v. Wächter, die Profeſsoren: Herbſt, krank,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} textStyle {offset:5; length:6;underlined:true;} textStyle {offset:13; length:8;underlined:true;} textStyle {offset:34; length:7;underlined:true;} textStyle {offset:54; length:1;strikethrough:true;}">
+                <Coords points="663,2001 1377,1929 1449,1977 1598,1912 1784,1992 2152,1893 2431,2012 2499,1988 2497,1806 660,1842"/>
+                <Baseline points="677,1925 767,1921 857,1917 948,1913 1038,1908 1128,1904 1219,1901 1309,1896 1399,1894 1490,1891 1580,1889 1670,1887 1761,1886 1851,1886 1941,1886 2032,1888 2122,1890 2212,1894 2303,1898 2393,1904 2484,1911"/>
+                <TextEquiv>
+                    <Unicode>Chr. Gmelin, Hirſcher, unpäßlich, Sigwart, als Ephorus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;} textStyle {offset:13; length:5;underlined:true;} textStyle {offset:31; length:5;underlined:true;}">
+                <Coords points="672,2097 1214,2137 1597,2045 2012,2151 2168,2144 2278,2057 2520,2117 2519,1978 2337,2009 2186,1928 1488,2009 1278,1946 671,1980"/>
+                <Baseline points="686,2054 776,2054 867,2052 958,2051 1049,2048 1140,2045 1231,2042 1322,2040 1413,2037 1504,2034 1595,2031 1685,2030 1776,2028 1867,2027 1958,2028 2049,2028 2140,2031 2231,2034 2322,2039 2413,2044 2507,2068"/>
+                <TextEquiv>
+                    <Unicode>beſchäftigt, Hoppe, unpäßlich, Tafel, Haug, krank,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;} textStyle {offset:0; length:9;underlined:true;} textStyle {offset:22; length:4;underlined:true;}">
+                <Coords points="700,2249 1064,2271 1443,2194 1740,2292 2071,2221 2234,2287 2440,2198 2439,2144 2248,2102 2161,2154 1820,2148 1746,2093 1633,2149 1479,2089 1182,2164 1042,2113 699,2144"/>
+                <Baseline points="714,2214 799,2210 885,2207 970,2202 1056,2199 1142,2195 1227,2193 1313,2190 1398,2188 1484,2186 1570,2184 1655,2183 1741,2183 1826,2181 1912,2181 1998,2181 2083,2183 2169,2183 2254,2184 2340,2186 2426,2187"/>
+                <TextEquiv>
+                    <Unicode>Widenmann, beurlaubt, Hepp, wegꝫ Collegiꝫ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="956,2561 1064,2577 1124,2573 1153,2601 1203,2558 1226,2558 1224,2438 1190,2433 1089,2511 1052,2500 955,2519"/>
+                <Baseline points="969,2552 996,2553 1023,2553 1050,2553 1077,2552 1104,2550 1131,2550 1158,2550 1185,2550 1212,2552"/>
+                <TextEquiv>
+                    <Unicode>nr: 69.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="707,2729 749,2721 793,2753 843,2725 895,2751 943,2729 972,2745 1038,2693 1182,2675 1258,2717 1291,2712 1286,2588 1207,2620 1129,2578 914,2602 864,2562 699,2573"/>
+                <Baseline points="720,2690 747,2691 775,2691 803,2690 830,2690 858,2690 886,2690 913,2688 941,2688 969,2686 997,2685 1024,2684 1052,2682 1080,2681 1107,2679 1135,2677 1163,2675 1190,2672 1218,2669 1246,2667 1274,2664"/>
+                <TextEquiv>
+                    <Unicode>Ref. Prof. D. Mi‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="920,2822 962,2812 994,2822 1039,2797 1067,2802 1097,2826 1127,2814 1179,2817 1174,2698 1116,2686 1085,2688 1060,2706 1037,2695 974,2743 947,2727 917,2740"/>
+                <Baseline points="933,2769 958,2771 983,2770 1009,2769 1034,2768 1059,2766 1085,2765 1110,2763 1135,2763 1161,2763"/>
+                <TextEquiv>
+                    <Unicode>chaelis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:19;}">
+                <Coords points="1282,2800 1379,2794 1425,2833 1767,2760 1930,2807 2272,2751 2395,2782 2392,2669 2271,2703 2204,2657 2111,2694 2060,2670 1908,2725 1823,2659 1715,2651 1651,2681 1439,2636 1279,2681"/>
+                <Baseline points="1296,2778 1350,2775 1404,2772 1458,2769 1513,2766 1567,2764 1621,2762 1675,2760 1730,2759 1784,2757 1838,2756 1892,2754 1947,2753 2001,2751 2055,2751 2109,2750 2164,2748 2218,2748 2272,2747 2326,2745 2381,2744"/>
+                <TextEquiv>
+                    <Unicode>Bericht des Adminiſtrators der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="1219,2954 1469,2963 1538,2909 1673,2950 1844,2888 1909,2948 2100,2908 2193,2962 2324,2881 2443,2882 2441,2817 2334,2764 2197,2820 2062,2764 1953,2819 1710,2781 1615,2839 1378,2795 1214,2823"/>
+                <Baseline points="1230,2907 1293,2906 1356,2904 1419,2903 1482,2900 1545,2898 1608,2897 1671,2894 1734,2891 1797,2889 1861,2887 1924,2885 1987,2883 2050,2880 2113,2879 2176,2877 2239,2876 2302,2873 2365,2871 2429,2871"/>
+                <TextEquiv>
+                    <Unicode>Fabriſchen Stiftung, Prof. v. Fulda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="1267,3095 1400,3118 1549,3046 1619,3099 1747,3102 1992,3035 2241,3112 2393,3080 2502,3110 2507,2956 2406,2989 2285,2924 2189,2963 2132,2927 1943,2999 1812,2959 1625,3011 1388,2939 1264,2976"/>
+                <Baseline points="1280,3053 1339,3053 1399,3053 1459,3051 1518,3051 1578,3050 1638,3047 1697,3045 1757,3042 1817,3039 1877,3038 1936,3035 1996,3033 2056,3031 2115,3030 2175,3029 2235,3027 2294,3029 2354,3029 2414,3030 2474,3033 2495,3079"/>
+                <TextEquiv>
+                    <Unicode>betrℓ. die Beſchwerde des Schuldenzahlungs‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="1262,3264 1570,3195 1871,3291 2118,3212 2188,3261 2328,3180 2504,3206 2502,3118 2381,3079 2272,3128 2073,3114 1923,3056 1767,3155 1577,3078 1478,3155 1365,3099 1259,3159"/>
+                <Baseline points="1275,3209 1335,3206 1396,3202 1457,3199 1517,3196 1578,3194 1639,3190 1699,3188 1760,3185 1821,3183 1882,3181 1942,3179 2003,3177 2064,3176 2124,3174 2185,3173 2246,3173 2306,3173 2367,3173 2428,3173 2489,3173"/>
+                <TextEquiv>
+                    <Unicode>Caſsier Faber in Stuttgart gegen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="1245,3408 1857,3348 1935,3398 2195,3330 2435,3419 2509,3400 2506,3270 2339,3299 2261,3238 1921,3256 1772,3316 1398,3232 1243,3286"/>
+                <Baseline points="1259,3354 1319,3356 1380,3356 1441,3356 1502,3354 1563,3353 1624,3351 1685,3348 1746,3345 1807,3342 1868,3341 1928,3338 1989,3335 2050,3333 2111,3332 2172,3330 2233,3330 2294,3330 2355,3331 2416,3333 2477,3336 2494,3389"/>
+                <TextEquiv>
+                    <Unicode>Beſchluß des academiſchen Verwaltungs=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="1234,3561 1310,3525 1481,3554 1700,3488 1888,3496 2012,3572 2228,3472 2519,3512 2516,3415 2097,3365 1860,3421 1230,3431"/>
+                <Baseline points="1247,3504 1309,3504 1372,3503 1435,3501 1498,3500 1561,3497 1624,3494 1686,3491 1749,3487 1812,3485 1875,3481 1938,3479 2001,3476 2064,3474 2126,3473 2189,3471 2252,3471 2315,3473 2378,3474 2441,3477 2504,3480"/>
+                <TextEquiv>
+                    <Unicode>Ausſchuſses d. d. 16. Merz 1836. mit‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="1231,3681 1336,3708 1412,3658 1495,3692 1668,3658 1759,3722 1969,3666 2137,3740 2205,3694 2359,3740 2483,3668 2481,3551 2368,3570 2296,3522 2127,3604 1964,3535 1800,3574 1763,3540 1522,3580 1413,3528 1292,3581 1229,3559"/>
+                <Baseline points="1245,3654 1306,3651 1367,3648 1428,3646 1489,3644 1551,3641 1612,3639 1673,3638 1734,3636 1795,3635 1857,3633 1918,3632 1979,3632 2040,3632 2101,3632 2163,3632 2224,3633 2285,3635 2346,3636 2407,3638 2469,3641"/>
+                <TextEquiv>
+                    <Unicode>telß deſsen ſeine Geſuch um Einſetzung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>249.&#13;
+Tübingen,&#13;
+verhandelt im academiſchen Senate,&#13;
+den 28. Julii 1836.&#13;
+Anweſende:&#13;
+Vorſtand der Rector, Profeſſor Dr. Kern.&#13;
+Die Profeſsorꝫ: von Fulda, v. Gmelin, v. Schrader, v. Drey, Steudel,&#13;
+Jäger, v. Eſchenmaier, Michaelis, Scheurlen,&#13;
+Baur, Schmid, Rapp, Rieke, Mohl, Nörrenberg,&#13;
+Hugo Mohl, u: Mak,&#13;
+UniverſitätsRath Haas.&#13;
+Abweſende:&#13;
+Der Kanzler v. Wächter, die Profeſsoren: Herbſt, krank,&#13;
+Chr. Gmelin, Hirſcher, unpäßlich, Sigwart, als Ephorus,&#13;
+beſchäftigt, Hoppe, unpäßlich, Tafel, Haug, krank,&#13;
+Widenmann, beurlaubt, Hepp, wegꝫ Collegiꝫ.&#13;
+nr: 69.&#13;
+Ref. Prof. D. Mi‗&#13;
+chaelis.&#13;
+Bericht des Adminiſtrators der&#13;
+Fabriſchen Stiftung, Prof. v. Fulda&#13;
+betrℓ. die Beſchwerde des Schuldenzahlungs‗&#13;
+Caſsier Faber in Stuttgart gegen den&#13;
+Beſchluß des academiſchen Verwaltungs=&#13;
+Ausſchuſses d. d. 16. Merz 1836. mit‗&#13;
+telß deſsen ſeine Geſuch um Einſetzung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test1(htr_id=34347)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-20T12:54:59.739+02:00</Created>
+        <LastChange>2021-07-05T14:33:10.795+02:00</LastChange>
+        <TranskribusMetadata docId="521818" pageId="22224379" pageNr="452" tsid="61058541" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=OONQQKBJBSMRSXTHKSACABDW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NONXYUQTFMRPSJLMRNBZUMYT" imageId="17314508"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_24_452.jpg" imageWidth="5239" imageHeight="8029">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683710448855" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="593,440 593,603 1323,606 1323,443"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="897,491 939,516 965,508 974,517 1048,481 1090,490 1119,483 1145,498 1199,488 1199,430 1183,424 1115,463 1038,414 1005,422 966,404 897,418"/>
+                <Baseline points="905,483 931,484 957,485 983,485 1009,486 1035,486 1061,486 1087,486 1113,485 1139,485 1165,483 1191,482"/>
+                <TextEquiv>
+                    <Unicode>Referent:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="587,644 814,594 882,623 974,582 1250,610 1307,593 1305,495 1216,480 1149,514 1015,493 939,516 859,486 809,513 648,514 585,553"/>
+                <Baseline points="593,578 628,579 663,581 698,582 734,582 769,582 804,582 840,582 875,581 910,579 946,578 981,576 1016,575 1051,573 1087,572 1122,570 1157,569 1193,568 1228,567 1263,567 1316,567"/>
+                <TextEquiv>
+                    <Unicode>Herr Prof: Dr: Schmid.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Referent:&#13;
+Herr Prof: Dr: Schmid.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1293,387 1293,3539 2504,3539 2504,387"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1775,452 1793,448 1803,452 1814,451 1821,446 1834,454 1843,448 1852,448 1852,376 1845,376 1830,389 1815,394 1809,389 1800,394 1794,391 1788,394 1785,391 1775,392"/>
+                <Baseline points="1782,423 1813,426 1845,423"/>
+                <TextEquiv>
+                    <Unicode>1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1357,581 2494,587 2495,528 2158,538 2058,472 1800,537 1721,496 1636,520 1359,475"/>
+                <Baseline points="1364,564 1420,564 1476,564 1532,564 1588,564 1644,564 1700,564 1756,564 1812,566 1868,566 1925,567 1981,569 2037,569 2093,570 2149,572 2205,573 2261,575 2317,575 2373,576 2429,578 2486,579"/>
+                <TextEquiv>
+                    <Unicode>Die Statuten des Clinicum werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1348,688 1480,636 1665,691 1711,655 1850,693 1962,648 2404,703 2482,671 2482,607 2188,627 1735,583 1677,624 1573,583 1510,622 1348,615"/>
+                <Baseline points="1356,647 1414,645 1473,645 1532,645 1591,644 1650,644 1709,644 1768,644 1827,644 1886,644 1944,645 2003,645 2062,645 2121,645 2180,647 2239,647 2298,647 2357,648 2416,648 2475,648"/>
+                <TextEquiv>
+                    <Unicode>zur Berathung gebracht, und zunächſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="1323,749 1510,714 1615,770 1923,721 2467,737 2309,675 2089,698 1928,656 1846,695 1712,658 1646,697 1526,668 1323,703"/>
+                <Baseline points="1331,726 1387,725 1443,723 1500,722 1556,720 1613,719 1669,719 1725,717 1782,717 1838,717 1895,717 1951,719 2007,719 2064,720 2120,721 2177,722 2233,724 2289,725 2346,728 2402,729 2459,732"/>
+                <TextEquiv>
+                    <Unicode>von dem Herrn Referenten die von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="1330,823 2431,824 2476,762 1984,758 1923,722 1845,776 1330,765"/>
+                <Baseline points="1338,801 1394,800 1451,800 1507,798 1564,798 1620,798 1677,798 1733,798 1790,798 1846,798 1903,798 1960,800 2016,800 2073,800 2129,800 2186,800 2242,800 2299,800 2355,800 2412,800 2469,798"/>
+                <TextEquiv>
+                    <Unicode>den einzelnen Mitgliedern der medi‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="1332,879 1462,918 1511,884 1837,870 1920,912 2188,875 2404,928 2485,897 2486,822 2299,812 2219,856 2130,816 2027,858 1655,804 1332,845"/>
+                <Baseline points="1340,878 1396,875 1453,873 1510,872 1567,870 1624,870 1681,870 1737,870 1794,872 1851,872 1908,873 1965,873 2022,875 2079,876 2135,876 2192,878 2249,879 2306,879 2363,879 2420,879 2496,882"/>
+                <TextEquiv>
+                    <Unicode>ciniſchen Fakultät abgegebenen, gutächt‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="1327,994 1480,957 1590,1002 1886,951 2031,990 2128,951 2470,961 2485,905 1740,930 1596,882 1519,929 1427,897 1327,923"/>
+                <Baseline points="1335,956 1392,954 1449,953 1506,953 1563,951 1620,951 1677,951 1735,950 1792,950 1849,950 1906,950 1963,951 2020,951 2077,951 2135,951 2192,953 2249,953 2306,953 2363,954 2420,954 2492,953"/>
+                <TextEquiv>
+                    <Unicode>lichen Aeuſſerungen verleſen, worinn im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;} textStyle {offset:17; length:19;underlined:true;}">
+                <Coords points="1329,1060 2002,1024 2163,1085 2459,1072 2482,989 2395,961 2130,1019 1826,979 1330,997"/>
+                <Baseline points="1337,1029 1393,1028 1450,1028 1507,1028 1564,1028 1621,1028 1678,1028 1734,1029 1791,1029 1848,1031 1905,1031 1962,1032 2019,1032 2076,1034 2132,1034 2189,1034 2246,1034 2303,1034 2360,1034 2417,1034 2474,1032"/>
+                <TextEquiv>
+                    <Unicode>Weſentlichen die mediciniſche Clinik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="1331,1112 1577,1153 1728,1116 1780,1160 1867,1106 2109,1146 2200,1118 2267,1156 2493,1116 2493,1068 2407,1057 2335,1086 1778,1076 1708,1043 1512,1085 1331,1068"/>
+                <Baseline points="1338,1107 1395,1106 1452,1104 1510,1103 1567,1103 1625,1103 1682,1103 1739,1103 1797,1104 1854,1104 1912,1106 1969,1106 2026,1107 2084,1109 2141,1109 2199,1109 2256,1109 2313,1109 2371,1109 2428,1107 2501,1107"/>
+                <TextEquiv>
+                    <Unicode>als nicht hinreichend beſorgt dergeſtellt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="1333,1199 1857,1220 1975,1177 2394,1244 2512,1206 2512,1149 2261,1159 2204,1119 2086,1159 1668,1126 1333,1151"/>
+                <Baseline points="1341,1191 1399,1188 1457,1186 1515,1184 1573,1182 1631,1181 1689,1181 1748,1179 1806,1179 1864,1179 1922,1180 1980,1181 2038,1181 2096,1182 2155,1183 2213,1184 2271,1185 2329,1185 2387,1185 2445,1187 2504,1187"/>
+                <TextEquiv>
+                    <Unicode>und die Aufſtellung eines AſſiſtenzArzts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="1346,1273 1486,1269 1574,1305 1617,1286 1653,1294 1694,1268 1770,1284 1801,1261 1831,1265 1821,1221 1782,1244 1682,1211 1569,1233 1544,1220 1484,1242 1421,1214 1345,1225"/>
+                <Baseline points="1353,1265 1379,1265 1405,1265 1431,1265 1457,1264 1483,1263 1510,1263 1536,1263 1562,1263 1588,1263 1614,1262 1640,1262 1667,1262 1693,1260 1719,1260 1745,1259 1771,1257 1797,1256 1824,1254"/>
+                <TextEquiv>
+                    <Unicode>beantragt wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="1353,1375 1435,1353 1523,1397 1671,1339 1881,1394 2031,1346 2273,1400 2363,1355 2475,1366 2475,1289 1922,1332 1731,1286 1486,1316 1353,1273"/>
+                <Baseline points="1361,1349 1416,1347 1471,1347 1527,1347 1582,1347 1637,1347 1693,1347 1748,1347 1803,1347 1859,1349 1914,1349 1969,1349 2025,1350 2080,1350 2135,1350 2191,1352 2246,1352 2301,1352 2357,1352 2412,1352 2468,1352"/>
+                <TextEquiv>
+                    <Unicode>Da dieſe Schilderungen der Mängel der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="1338,1453 1661,1425 1823,1467 1977,1426 2267,1469 2470,1436 2470,1402 2388,1374 2152,1409 2001,1365 1919,1410 1789,1377 1707,1411 1600,1377 1338,1388"/>
+                <Baseline points="1346,1422 1401,1424 1457,1425 1513,1425 1569,1426 1625,1427 1680,1427 1736,1427 1792,1427 1848,1427 1904,1427 1959,1427 2015,1428 2071,1428 2127,1428 2183,1428 2238,1428 2294,1430 2350,1430 2406,1431 2462,1431"/>
+                <TextEquiv>
+                    <Unicode>innern Clinik den Vorſtand derſelben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="1318,1548 1779,1507 1935,1549 2218,1498 2481,1548 2490,1463 2387,1433 2200,1485 2033,1432 1936,1487 1777,1443 1492,1483 1317,1457"/>
+                <Baseline points="1325,1508 1382,1508 1440,1507 1498,1506 1556,1506 1614,1506 1672,1506 1730,1505 1788,1505 1846,1505 1904,1505 1961,1505 2019,1505 2077,1505 2135,1505 2193,1505 2251,1504 2309,1503 2367,1503 2425,1502 2483,1502"/>
+                <TextEquiv>
+                    <Unicode>Herrn Prof: Ferd. v. Gmelin, mitberüh‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="1323,1592 1483,1623 1569,1574 1765,1576 1887,1618 2079,1577 2334,1618 2437,1596 2437,1538 1920,1551 1758,1514 1660,1553 1563,1526 1323,1552"/>
+                <Baseline points="1331,1577 1385,1577 1440,1575 1495,1575 1550,1575 1605,1575 1660,1575 1715,1575 1770,1575 1825,1577 1880,1577 1934,1577 1989,1578 2044,1578 2099,1578 2154,1578 2209,1578 2264,1578 2319,1578 2374,1578 2429,1578"/>
+                <TextEquiv>
+                    <Unicode>ren, ſo verliest derſelbe ſeine Recht‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="1330,1685 1687,1654 2485,1703 2485,1631 2295,1601 1330,1627"/>
+                <Baseline points="1338,1655 1397,1653 1457,1653 1517,1652 1577,1650 1637,1650 1697,1650 1757,1650 1817,1649 1877,1649 1937,1650 1997,1650 2057,1650 2117,1651 2177,1652 2237,1652 2297,1653 2357,1655 2417,1656 2477,1656"/>
+                <TextEquiv>
+                    <Unicode>fertigung in Abſicht auch den ſeitherigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="1337,1740 1534,1728 1674,1775 1793,1731 1890,1780 2080,1729 2188,1786 2423,1769 2485,1703 1709,1707 1432,1660 1337,1706"/>
+                <Baseline points="1344,1724 1400,1724 1457,1725 1513,1725 1570,1725 1627,1725 1683,1725 1740,1725 1797,1725 1853,1725 1910,1725 1967,1725 2023,1725 2080,1725 2137,1726 2193,1727 2250,1728 2307,1730 2363,1731 2420,1733 2477,1736"/>
+                <TextEquiv>
+                    <Unicode>Betrieb dieſer Anſtalt, und ſpricht zulezt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="1328,1828 1497,1794 1638,1847 1724,1803 1888,1844 2122,1800 2313,1852 2485,1826 2486,1743 2197,1784 2067,1748 1937,1785 1328,1756"/>
+                <Baseline points="1335,1800 1392,1799 1449,1797 1506,1797 1563,1797 1620,1797 1677,1797 1735,1797 1792,1797 1849,1797 1906,1799 1963,1799 2020,1800 2077,1800 2135,1800 2192,1802 2249,1802 2306,1802 2363,1802 2420,1802 2478,1802"/>
+                <TextEquiv>
+                    <Unicode>ſeine Ueberzeugung dahin aus, daß die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="1322,1895 1387,1923 1529,1865 1631,1910 1743,1870 2137,1919 2473,1880 2473,1834 2251,1823 1618,1849 1492,1795 1322,1834"/>
+                <Baseline points="1329,1868 1385,1868 1442,1868 1499,1868 1556,1868 1613,1867 1670,1866 1726,1867 1783,1868 1840,1868 1897,1868 1954,1868 2011,1868 2068,1868 2124,1868 2181,1869 2238,1869 2295,1869 2352,1869 2409,1869 2466,1871"/>
+                <TextEquiv>
+                    <Unicode>Aufſtellung eines AſſiſtenzArzts wegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="1334,1953 1434,1995 1580,1942 1887,1970 2162,1935 2320,1971 2507,1941 2507,1904 2315,1886 2196,1918 1334,1898"/>
+                <Baseline points="1341,1938 1398,1937 1456,1937 1514,1937 1572,1937 1630,1937 1688,1937 1746,1937 1804,1937 1862,1937 1920,1935 1977,1935 2035,1935 2093,1935 2151,1935 2209,1935 2267,1935 2325,1935 2383,1937 2441,1937 2499,1937"/>
+                <TextEquiv>
+                    <Unicode>des großen Andrangs von Kranken, deren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="1327,2050 1834,2044 1932,2009 2050,2052 2214,2016 2376,2045 2488,2012 2487,1973 2369,1944 2301,1991 1842,1942 1327,1987"/>
+                <Baseline points="1335,2015 1392,2015 1449,2013 1506,2013 1564,2012 1621,2012 1678,2012 1735,2012 1793,2010 1850,2010 1907,2010 1964,2010 2022,2009 2079,2009 2136,2009 2193,2009 2251,2009 2308,2009 2365,2009 2422,2009 2480,2007"/>
+                <TextEquiv>
+                    <Unicode>ausſchließliche Behandlung ſeine Kräfte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="1339,2099 1588,2127 2123,2086 2220,2135 2495,2100 2494,2038 1338,2046"/>
+                <Baseline points="1346,2091 1403,2091 1460,2090 1517,2090 1574,2088 1631,2088 1688,2087 1745,2087 1802,2085 1859,2085 1916,2085 1973,2084 2030,2084 2087,2084 2144,2084 2201,2084 2258,2084 2315,2085 2372,2085 2429,2087 2505,2089"/>
+                <TextEquiv>
+                    <Unicode>überſteigen, abſolutes Bedürfniß ſeye,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="1333,2189 1587,2223 1654,2166 1862,2204 2088,2158 2400,2205 2500,2173 2500,2111 2226,2146 1832,2106 1633,2147 1333,2120"/>
+                <Baseline points="1340,2171 1397,2169 1455,2166 1512,2165 1570,2163 1628,2163 1685,2162 1743,2162 1801,2160 1858,2160 1916,2160 1974,2160 2031,2160 2089,2162 2147,2162 2204,2162 2262,2163 2320,2163 2377,2165 2435,2166 2493,2168 2501,2200"/>
+                <TextEquiv>
+                    <Unicode>daß übrigens kein permanenter Aſſiſtenz‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="1328,2291 1482,2257 1590,2292 1833,2236 2280,2260 2438,2241 2438,2194 1927,2222 1572,2191 1533,2220 1406,2184 1328,2226"/>
+                <Baseline points="1335,2243 1389,2241 1444,2240 1499,2238 1554,2238 1608,2237 1663,2237 1718,2237 1773,2237 1827,2237 1882,2237 1937,2237 1992,2238 2046,2238 2101,2238 2156,2238 2211,2238 2265,2237 2320,2237 2375,2236 2430,2235"/>
+                <TextEquiv>
+                    <Unicode>Arzt aufgeſtellt werden ſollte, weil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="1327,2335 1644,2322 1743,2367 1920,2315 2120,2352 2279,2319 2445,2364 2506,2351 2506,2248 2385,2288 1762,2255 1635,2297 1327,2290"/>
+                <Baseline points="1335,2316 1393,2316 1451,2316 1509,2316 1567,2315 1626,2315 1684,2315 1742,2315 1800,2313 1858,2313 1917,2313 1975,2313 2033,2312 2091,2312 2149,2312 2208,2312 2266,2313 2324,2313 2382,2315 2440,2315 2499,2316"/>
+                <TextEquiv>
+                    <Unicode>mehrere Beiſpiele vorliegen, daß ſich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="1324,2420 1428,2443 1648,2388 1890,2438 1993,2398 2464,2431 2464,2357 2398,2340 2182,2372 1922,2334 1747,2366 1324,2338"/>
+                <Baseline points="1331,2394 1387,2393 1443,2393 1499,2391 1556,2390 1612,2390 1668,2390 1724,2390 1781,2390 1837,2390 1893,2390 1949,2391 2006,2391 2062,2391 2118,2393 2174,2393 2231,2394 2287,2394 2343,2395 2399,2396 2456,2396"/>
+                <TextEquiv>
+                    <Unicode>ſolche bleibende Aſſiſtenten entbehrlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="1330,2507 1399,2479 1499,2512 1650,2469 1786,2487 1785,2397 1751,2414 1657,2407 1618,2428 1587,2417 1551,2440 1330,2442"/>
+                <Baseline points="1337,2465 1362,2465 1388,2463 1414,2463 1440,2463 1466,2463 1492,2463 1518,2463 1544,2463 1570,2462 1596,2462 1622,2462 1648,2462 1674,2462 1700,2462 1726,2462 1752,2463 1785,2466"/>
+                <TextEquiv>
+                    <Unicode>gemacht haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="1328,2567 1553,2549 1637,2595 1764,2551 1980,2581 2358,2552 2455,2596 2471,2492 2345,2523 2209,2489 2103,2531 1987,2483 1685,2527 1576,2486 1328,2506"/>
+                <Baseline points="1335,2547 1391,2547 1447,2547 1504,2547 1560,2547 1617,2549 1673,2549 1729,2549 1786,2549 1842,2550 1899,2550 1955,2550 2011,2550 2068,2550 2124,2550 2181,2550 2237,2550 2293,2550 2350,2550 2406,2550 2463,2549"/>
+                <TextEquiv>
+                    <Unicode>Jm Verlauſe des Referats bemerkt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="1314,2679 1426,2630 1582,2688 1722,2635 2167,2667 2390,2629 2348,2570 1953,2606 1810,2552 1541,2614 1405,2570 1314,2611"/>
+                <Baseline points="1322,2630 1375,2630 1428,2630 1481,2631 1534,2631 1587,2631 1640,2631 1693,2631 1746,2631 1799,2633 1852,2633 1905,2633 1958,2631 2011,2631 2064,2631 2117,2631 2170,2630 2223,2628 2276,2628 2329,2627 2382,2625"/>
+                <TextEquiv>
+                    <Unicode>Herr Profeſſor Dr: Rieke, daß ſeine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="1329,2711 1449,2739 1492,2705 1595,2752 1753,2692 1948,2742 2012,2707 2463,2698 2278,2637 2206,2676 1832,2642 1719,2684 1329,2663"/>
+                <Baseline points="1337,2702 1395,2702 1454,2702 1513,2700 1572,2700 1631,2700 1690,2700 1749,2699 1808,2699 1867,2699 1925,2699 1984,2699 2043,2699 2102,2700 2161,2700 2220,2700 2279,2700 2338,2700 2397,2702 2456,2702"/>
+                <TextEquiv>
+                    <Unicode>Aeuſſerung in Betreff einer Trennung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="1329,2790 1434,2780 1507,2826 1571,2785 1770,2807 1923,2773 2402,2800 2426,2701 2238,2749 1980,2715 1870,2757 1706,2721 1329,2755"/>
+                <Baseline points="1337,2786 1391,2784 1445,2781 1499,2780 1553,2778 1607,2777 1661,2777 1716,2777 1770,2775 1824,2775 1878,2775 1932,2775 1986,2775 2040,2775 2095,2775 2149,2775 2203,2775 2257,2775 2311,2775 2365,2775 2457,2777"/>
+                <TextEquiv>
+                    <Unicode>der Diagnostik und Therapie bei Be‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:31;}">
+                <Coords points="1328,2906 1474,2854 1540,2888 1712,2852 2450,2861 2418,2796 2162,2780 2097,2809 1974,2781 1891,2831 1458,2835 1411,2801 1328,2830"/>
+                <Baseline points="1335,2859 1390,2856 1445,2854 1501,2852 1556,2852 1611,2850 1667,2849 1722,2849 1777,2849 1833,2847 1888,2847 1943,2847 1999,2847 2054,2847 2109,2847 2165,2847 2220,2847 2275,2847 2331,2847 2386,2846 2442,2846"/>
+                <TextEquiv>
+                    <Unicode>handlung der innerlichen Kranken der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:32;}">
+                <Coords points="1333,2942 1532,2928 1668,2980 1781,2929 1999,2931 2088,2971 2282,2969 2347,2930 2467,2956 2467,2887 2156,2908 1899,2858 1777,2905 1497,2868 1333,2910"/>
+                <Baseline points="1341,2928 1399,2928 1458,2927 1517,2927 1576,2927 1635,2925 1694,2925 1753,2925 1812,2925 1871,2925 1929,2925 1988,2925 2047,2925 2106,2925 2165,2925 2224,2925 2283,2926 2342,2927 2401,2927 2475,2929"/>
+                <TextEquiv>
+                    <Unicode>ambulatoriſchen Clinik ganz mißver‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:33;}">
+                <Coords points="1326,3042 1722,3004 1834,3051 2060,3001 2285,3036 2426,3004 2425,2959 1689,2991 1400,2953 1326,2991"/>
+                <Baseline points="1334,3011 1388,3011 1442,3011 1496,3009 1550,3009 1605,3009 1659,3008 1713,3008 1767,3008 1821,3006 1876,3006 1930,3005 1984,3005 2038,3005 2092,3003 2147,3003 2201,3003 2255,3003 2309,3003 2363,3003 2418,3003"/>
+                <TextEquiv>
+                    <Unicode>ſtanden worden ſeye, indem er einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:34;}">
+                <Coords points="1316,3120 2001,3085 2122,3136 2225,3095 2434,3101 2434,3030 2226,3064 1967,3020 1600,3059 1416,3030 1315,3071"/>
+                <Baseline points="1323,3089 1378,3088 1433,3087 1488,3087 1543,3086 1599,3086 1654,3086 1709,3084 1764,3084 1819,3084 1875,3084 1930,3083 1985,3083 2040,3083 2095,3082 2151,3081 2206,3081 2261,3080 2316,3078 2371,3078 2427,3077"/>
+                <TextEquiv>
+                    <Unicode>ſolch widerſinnigen Antrag zu machen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:35;}">
+                <Coords points="1315,3179 1693,3161 1966,3197 2184,3154 2325,3195 2493,3151 2493,3084 2111,3138 1791,3086 1645,3136 1380,3106 1315,3138"/>
+                <Baseline points="1322,3158 1380,3156 1438,3155 1496,3153 1554,3153 1613,3153 1671,3153 1729,3153 1787,3153 1845,3153 1904,3153 1962,3153 2020,3153 2078,3153 2136,3153 2195,3152 2253,3152 2311,3150 2369,3150 2427,3148 2486,3146"/>
+                <TextEquiv>
+                    <Unicode>keineswegs beabſichtige, vielmehr blos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:36;}">
+                <Coords points="1306,3234 1527,3265 1688,3227 1842,3269 1939,3225 2114,3284 2280,3226 2475,3247 2476,3188 2083,3211 1692,3161 1576,3192 1523,3157 1306,3197"/>
+                <Baseline points="1313,3227 1370,3227 1428,3225 1486,3225 1544,3225 1601,3225 1659,3225 1717,3225 1775,3225 1832,3225 1890,3227 1948,3227 2006,3227 2063,3227 2121,3228 2179,3228 2237,3228 2294,3230 2352,3230 2410,3230 2468,3230"/>
+                <TextEquiv>
+                    <Unicode>die Anſicht habe, daß der aufzuſtellende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:37;}">
+                <Coords points="1296,3335 1369,3319 1422,3362 1832,3296 2234,3315 2320,3359 2473,3308 2473,3258 2023,3286 1925,3231 1865,3273 1399,3234 1296,3268"/>
+                <Baseline points="1304,3312 1362,3311 1420,3308 1478,3306 1536,3305 1594,3305 1652,3303 1710,3303 1768,3303 1826,3303 1884,3303 1942,3303 2000,3303 2058,3303 2116,3303 2174,3303 2232,3303 2290,3303 2348,3303 2406,3303 2465,3302"/>
+                <TextEquiv>
+                    <Unicode>Hülfslehrer den Studirenden nebenher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:38;}">
+                <Coords points="1299,3393 1909,3371 1989,3427 2151,3380 2482,3418 2482,3342 2320,3359 2256,3321 2122,3356 1966,3307 1800,3350 1299,3355"/>
+                <Baseline points="1307,3377 1365,3377 1423,3375 1482,3375 1540,3375 1599,3374 1657,3374 1715,3374 1774,3374 1832,3374 1891,3375 1949,3375 2007,3375 2066,3377 2124,3377 2183,3378 2241,3378 2299,3380 2358,3381 2416,3381 2475,3383"/>
+                <TextEquiv>
+                    <Unicode>auch ſpeciell in der Diagnostik Unter‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:39;}">
+                <Coords points="1307,3504 1725,3457 1795,3499 1885,3460 1970,3491 2131,3452 2200,3487 2430,3462 2430,3422 2355,3391 1983,3427 1913,3376 1839,3424 1676,3392 1556,3432 1307,3421"/>
+                <Baseline points="1314,3453 1369,3451 1424,3449 1480,3449 1535,3447 1591,3446 1646,3446 1702,3446 1757,3446 1813,3447 1868,3447 1923,3447 1979,3447 2034,3448 2090,3449 2145,3449 2201,3449 2256,3448 2312,3447 2367,3447 2423,3446"/>
+                <TextEquiv>
+                    <Unicode>richt zu ertheilen Gelegenheit haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:40;}">
+                <Coords points="1285,3534 1417,3561 1895,3513 1980,3567 2180,3520 2434,3569 2494,3547 2494,3442 2206,3489 1795,3500 1725,3458 1639,3498 1285,3503"/>
+                <Baseline points="1293,3521 1352,3519 1412,3519 1472,3519 1531,3519 1591,3519 1651,3519 1710,3519 1770,3519 1830,3521 1890,3521 1949,3521 2009,3521 2069,3521 2128,3521 2188,3522 2248,3522 2307,3522 2367,3522 2427,3522 2487,3522"/>
+                <TextEquiv>
+                    <Unicode>werde, und bittet deßhalb, den hierauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1.&#13;
+Die Statuten des Clinicum werden&#13;
+zur Berathung gebracht, und zunächſt&#13;
+von dem Herrn Referenten die von&#13;
+den einzelnen Mitgliedern der medi‗&#13;
+ciniſchen Fakultät abgegebenen, gutächt‗&#13;
+lichen Aeuſſerungen verleſen, worinn im&#13;
+Weſentlichen die mediciniſche Clinik&#13;
+als nicht hinreichend beſorgt dergeſtellt,&#13;
+und die Aufſtellung eines AſſiſtenzArzts&#13;
+beantragt wird.&#13;
+Da dieſe Schilderungen der Mängel der&#13;
+innern Clinik den Vorſtand derſelben&#13;
+Herrn Prof: Ferd. v. Gmelin, mitberüh‗&#13;
+ren, ſo verliest derſelbe ſeine Recht‗&#13;
+fertigung in Abſicht auch den ſeitherigen&#13;
+Betrieb dieſer Anſtalt, und ſpricht zulezt&#13;
+ſeine Ueberzeugung dahin aus, daß die&#13;
+Aufſtellung eines AſſiſtenzArzts wegen&#13;
+des großen Andrangs von Kranken, deren&#13;
+ausſchließliche Behandlung ſeine Kräfte&#13;
+überſteigen, abſolutes Bedürfniß ſeye,&#13;
+daß übrigens kein permanenter Aſſiſtenz‗&#13;
+Arzt aufgeſtellt werden ſollte, weil&#13;
+mehrere Beiſpiele vorliegen, daß ſich&#13;
+ſolche bleibende Aſſiſtenten entbehrlich&#13;
+gemacht haben.&#13;
+Jm Verlauſe des Referats bemerkt&#13;
+Herr Profeſſor Dr: Rieke, daß ſeine&#13;
+Aeuſſerung in Betreff einer Trennung&#13;
+der Diagnostik und Therapie bei Be‗&#13;
+handlung der innerlichen Kranken der&#13;
+ambulatoriſchen Clinik ganz mißver‗&#13;
+ſtanden worden ſeye, indem er einen&#13;
+ſolch widerſinnigen Antrag zu machen&#13;
+keineswegs beabſichtige, vielmehr blos&#13;
+die Anſicht habe, daß der aufzuſtellende&#13;
+Hülfslehrer den Studirenden nebenher&#13;
+auch ſpeciell in der Diagnostik Unter‗&#13;
+richt zu ertheilen Gelegenheit haben&#13;
+werde, und bittet deßhalb, den hierauf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

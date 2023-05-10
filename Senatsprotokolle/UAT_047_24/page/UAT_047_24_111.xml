@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test1(htr_id=34347)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-20T12:53:54.037+02:00</Created>
+        <LastChange>2021-07-05T11:07:53.681+02:00</LastChange>
+        <TranskribusMetadata docId="521818" pageId="22223965" pageNr="111" tsid="61048630" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=FNTXMFILAWFCZFGDHSZHMPPF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GKUZVEJZJJNDOQKGKKILTGSY" imageId="17314094"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_24_111.jpg" imageWidth="5239" imageHeight="8029">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683710438822" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+                <RegionRefIndexed index="1" regionRef="region_1624520575702_283"/>
+                <RegionRefIndexed index="2" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="1301,100 1301,3875 2529,3875 2529,100"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2330,165 2344,159 2359,165 2377,151 2402,165 2412,158 2428,165 2442,155 2451,163 2475,163 2478,100 2463,97 2453,105 2445,101 2432,108 2422,106 2403,117 2383,104 2333,114"/>
+                <Baseline points="2339,141 2364,141 2390,142 2416,143 2442,145 2468,147"/>
+                <TextEquiv>
+                    <Unicode>247.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="1316,290 1403,263 1551,297 1694,251 1805,295 1932,244 2459,257 2438,172 2157,217 1314,190"/>
+                <Baseline points="1323,254 1379,252 1435,249 1492,249 1548,248 1605,246 1661,245 1717,245 1774,245 1830,243 1887,243 1943,243 1999,242 2056,242 2112,241 2169,240 2225,239 2281,237 2338,235 2394,233 2451,230"/>
+                <TextEquiv>
+                    <Unicode>theologiſchen Standpunct aus Bedenklich_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="1336,353 1505,386 1584,340 1687,367 1745,334 1806,375 1939,338 2009,379 2062,340 2442,323 2441,264 1648,321 1335,296"/>
+                <Baseline points="1331,344 1398,340 1453,339 1507,338 1562,338 1616,338 1671,338 1725,338 1780,338 1834,336 1889,336 1944,336 1998,335 2053,333 2107,332 2162,330 2216,326 2271,323 2325,319 2380,314 2435,308"/>
+                <TextEquiv>
+                    <Unicode>keit gegen v. Bohlen erhoben werden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624532325993_610" custom="readingOrder {index:3;}">
+                <Coords points="1345,380 2031,395 2268,350 2268,441 2075,466 1793,429 1346,444"/>
+                <Baseline points="1353,426 1408,428 1464,428 1520,428 1576,429 1632,429 1688,428 1744,428 1800,428 1856,426 1912,425 1967,423 2023,422 2079,420 2135,418 2191,415 2247,413 2268,411"/>
+                <TextEquiv>
+                    <Unicode>könnte. D. Steudel wird gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624532332246_615" custom="readingOrder {index:4;}">
+                <Coords points="2267,331 2301,329 2304,379 2270,381"/>
+                <Baseline points="2270,376 2304,374"/>
+                <TextEquiv>
+                    <Unicode>v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624532325993_609" custom="readingOrder {index:5;}">
+                <Coords points="2268,350 2326,339 2477,363 2478,414 2268,441"/>
+                <Baseline points="2268,411 2303,410 2359,406 2415,403 2471,399"/>
+                <TextEquiv>
+                    <Unicode>Bohlens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:6;}">
+                <Coords points="1330,540 1549,566 1706,535 1776,571 1852,523 2218,505 2349,548 2486,506 2485,448 1842,489 1790,462 1630,504 1512,466 1329,483"/>
+                <Baseline points="1337,519 1385,518 1439,519 1494,519 1548,519 1603,519 1658,519 1712,519 1767,518 1822,516 1876,515 1931,514 1986,512 2040,510 2095,509 2150,506 2204,503 2259,501 2314,498 2368,495 2423,492 2497,484"/>
+                <TextEquiv>
+                    <Unicode>Berufung ein Separatvotum beibringen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:7;}">
+                <Coords points="1318,655 1670,624 1761,667 1911,635 1983,665 2032,626 2440,619 2478,562 2006,577 1918,615 1840,581 1317,597"/>
+                <Baseline points="1326,631 1395,630 1448,631 1502,633 1556,633 1610,633 1664,633 1717,633 1771,633 1825,633 1879,632 1933,630 1986,629 2040,627 2094,625 2148,623 2202,620 2255,617 2309,614 2363,611 2417,608 2485,603"/>
+                <TextEquiv>
+                    <Unicode>Wenn weder Bohlen noch Rückert beru_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:8;}">
+                <Coords points="1315,727 1909,714 2053,747 2202,699 2278,732 2328,689 2459,696 2459,660 1314,679"/>
+                <Baseline points="1322,707 1356,708 1410,708 1465,708 1520,708 1575,708 1629,707 1684,707 1739,705 1794,705 1848,704 1903,702 1958,701 2013,700 2067,698 2122,696 2177,695 2232,694 2286,692 2341,690 2396,689 2451,687"/>
+                <TextEquiv>
+                    <Unicode>fen werden ſollten, ſo eignet ſich der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:9;} textStyle {offset:6; length:3;strikethrough:true;}">
+                <Coords points="1315,815 1485,785 2204,814 2302,768 2473,766 2454,729 2341,717 1917,728 1741,772 1313,755"/>
+                <Baseline points="1322,788 1356,789 1411,790 1467,791 1522,791 1578,791 1633,791 1689,789 1744,789 1800,788 1855,786 1911,785 1966,783 2022,780 2077,779 2133,776 2188,773 2244,771 2299,768 2355,765 2410,762 2466,759"/>
+                <TextEquiv>
+                    <Unicode>Senat die den im Referat enthaltenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:10;}">
+                <Coords points="1317,900 1521,927 1602,890 1696,919 2235,865 2323,898 2456,870 2454,809 1315,848"/>
+                <Baseline points="1324,881 1391,884 1443,884 1496,882 1549,882 1602,880 1655,879 1708,878 1760,875 1813,874 1866,872 1919,870 1972,868 2025,866 2078,864 2130,863 2183,860 2236,859 2289,857 2342,856 2395,855 2448,854"/>
+                <TextEquiv>
+                    <Unicode>Antrag hinſichtlich des D. Wolf, Repet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:11;}">
+                <Coords points="1313,992 1766,966 1888,1003 1935,975 2141,970 2140,913 2042,934 1951,900 1859,933 1711,913 1679,941 1625,921 1515,951 1481,924 1311,922"/>
+                <Baseline points="1319,969 1362,971 1400,972 1439,972 1477,972 1516,972 1554,972 1593,971 1631,969 1670,968 1708,966 1747,965 1786,963 1824,960 1863,960 1901,959 1940,957 1978,957 2017,957 2055,957 2094,958 2133,960"/>
+                <TextEquiv>
+                    <Unicode>Welte und Cand. Öhler an.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:12;}">
+                <Coords points="1684,1168 1731,1175 1752,1168 1768,1176 1789,1176 1789,1106 1735,1110 1715,1123 1683,1117"/>
+                <Baseline points="1691,1154 1721,1155 1751,1154 1781,1154"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:13;}">
+                <Coords points="1312,1282 1578,1259 1708,1297 2119,1244 2269,1275 2517,1224 2516,1183 2277,1160 2162,1206 1310,1216"/>
+                <Baseline points="1319,1257 1378,1257 1438,1256 1497,1256 1557,1254 1616,1254 1676,1253 1735,1251 1795,1250 1854,1248 1914,1247 1974,1244 2033,1242 2093,1241 2152,1238 2212,1236 2271,1233 2331,1231 2390,1228 2450,1225 2510,1223"/>
+                <TextEquiv>
+                    <Unicode>Nach Vorleſung des Decrets v. 7. Jul. 1836,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:14;}">
+                <Coords points="1312,1356 1500,1374 1670,1337 1752,1379 1811,1343 2118,1361 2166,1328 2293,1366 2480,1304 2479,1272 2348,1264 1311,1309"/>
+                <Baseline points="1319,1341 1376,1340 1434,1338 1491,1337 1549,1337 1607,1335 1664,1334 1722,1334 1780,1332 1837,1332 1895,1331 1953,1329 2010,1329 2068,1328 2126,1326 2183,1325 2241,1323 2299,1320 2356,1318 2414,1316 2472,1313"/>
+                <TextEquiv>
+                    <Unicode>wodurch der Gehalt des Prof. Walz auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:15;}">
+                <Coords points="1325,1456 2135,1436 2483,1407 2494,1366 1323,1392"/>
+                <Baseline points="1331,1424 1388,1422 1446,1422 1504,1421 1562,1419 1620,1418 1677,1416 1735,1416 1793,1415 1851,1413 1909,1412 1966,1410 2024,1409 2082,1407 2140,1405 2198,1403 2255,1401 2313,1400 2371,1397 2429,1394 2487,1392"/>
+                <TextEquiv>
+                    <Unicode>900 f erhöht, demſelben Sitz und Stim̄e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:16;}">
+                <Coords points="1308,1525 1561,1560 1630,1521 1763,1542 1857,1505 1924,1531 2480,1475 2478,1431 2362,1424 2062,1472 1871,1441 1307,1486"/>
+                <Baseline points="1316,1514 1373,1512 1431,1511 1489,1509 1547,1508 1605,1506 1662,1504 1720,1503 1778,1500 1836,1499 1894,1496 1951,1494 2009,1491 2067,1488 2125,1486 2183,1484 2240,1481 2298,1478 2356,1475 2414,1472 2472,1469"/>
+                <TextEquiv>
+                    <Unicode>in der philoſophiſchen Facultät, und der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:17;}">
+                <Coords points="1321,1612 1630,1581 1757,1636 1826,1589 1998,1575 2257,1605 2493,1544 2492,1508 1822,1566 1724,1531 1656,1566 1318,1543"/>
+                <Baseline points="1328,1596 1385,1596 1443,1595 1501,1593 1559,1592 1617,1590 1675,1589 1733,1586 1791,1584 1849,1581 1907,1579 1964,1577 2022,1573 2080,1570 2138,1566 2196,1562 2254,1559 2312,1554 2370,1550 2428,1546 2500,1541"/>
+                <TextEquiv>
+                    <Unicode>Titel und Rang eines ordentlichen Pro_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:18;}">
+                <Coords points="1304,1716 2450,1645 2404,1588 2235,1617 2098,1581 1987,1627 1943,1601 1820,1639 1302,1648"/>
+                <Baseline points="1311,1679 1367,1677 1424,1674 1480,1673 1537,1671 1593,1670 1650,1667 1706,1665 1763,1663 1819,1661 1876,1659 1933,1658 1989,1655 2046,1653 2102,1652 2159,1650 2215,1648 2272,1646 2328,1645 2385,1644 2442,1643"/>
+                <TextEquiv>
+                    <Unicode>feſſors der Univerſität unter der Be‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:19;}">
+                <Coords points="1304,1789 2373,1747 2426,1741 2424,1686 1583,1731 1397,1701 1302,1743"/>
+                <Baseline points="1310,1763 1365,1762 1420,1761 1476,1760 1531,1758 1587,1757 1642,1755 1697,1754 1753,1752 1808,1750 1864,1749 1919,1746 1974,1745 2030,1742 2085,1739 2141,1737 2196,1733 2251,1730 2307,1727 2362,1724 2418,1719"/>
+                <TextEquiv>
+                    <Unicode>dingung verliehen wird, daß er den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:20;}">
+                <Coords points="1300,1870 1436,1844 1577,1877 1659,1842 1746,1877 1859,1827 2463,1851 2460,1784 2314,1768 1299,1822"/>
+                <Baseline points="1308,1857 1365,1852 1422,1848 1479,1845 1537,1841 1594,1838 1651,1835 1709,1832 1766,1830 1823,1827 1881,1826 1938,1823 1995,1821 2052,1821 2110,1820 2167,1818 2224,1818 2282,1818 2339,1817 2396,1817 2454,1817"/>
+                <TextEquiv>
+                    <Unicode>Ruf nach Dorpat ablehne; wird auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:21;}">
+                <Coords points="1318,1945 1710,1968 1978,1920 2106,1963 2455,1915 2453,1859 2340,1855 2045,1897 1722,1869 1568,1912 1317,1897"/>
+                <Baseline points="1326,1935 1382,1934 1438,1932 1494,1932 1550,1931 1606,1929 1662,1928 1718,1926 1774,1925 1830,1922 1886,1920 1942,1919 1998,1917 2054,1916 2110,1913 2166,1911 2222,1910 2278,1908 2334,1907 2390,1905 2447,1904"/>
+                <TextEquiv>
+                    <Unicode>die dem Walz hierüber abgeforderte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:22;} textStyle {offset:20; length:8;strikethrough:true;}">
+                <Coords points="1311,2065 1438,2028 1567,2063 1631,2022 1800,2053 1868,2021 2467,2010 2465,1947 2414,1944 1309,1991"/>
+                <Baseline points="1317,2022 1374,2022 1431,2022 1488,2021 1545,2021 1602,2021 1659,2019 1716,2019 1773,2018 1830,2016 1888,2015 1945,2013 2002,2012 2059,2010 2116,2007 2173,2005 2230,2003 2287,2000 2344,1997 2401,1995 2459,1991"/>
+                <TextEquiv>
+                    <Unicode>Erklärung verleſen, worin er welche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:23;}">
+                <Coords points="1310,2131 1844,2096 1917,2134 2039,2104 2245,2141 2335,2090 2468,2115 2467,2065 2417,2042 1309,2070"/>
+                <Baseline points="1317,2109 1374,2108 1431,2106 1488,2105 1545,2103 1602,2102 1659,2102 1717,2100 1774,2099 1831,2099 1888,2097 1945,2096 2002,2096 2059,2094 2117,2094 2174,2093 2231,2093 2288,2091 2345,2091 2402,2091 2460,2090"/>
+                <TextEquiv>
+                    <Unicode>dahin lautet, daß Prof. Walz zu der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:24;}">
+                <Coords points="1310,2217 1433,2235 1472,2199 1549,2239 1644,2190 1777,2246 1832,2190 1952,2231 2008,2186 2101,2225 2477,2175 2476,2118 1308,2160"/>
+                <Baseline points="1317,2204 1374,2201 1432,2197 1489,2195 1547,2193 1605,2190 1662,2189 1720,2187 1777,2187 1835,2186 1893,2184 1950,2183 2008,2183 2065,2181 2123,2180 2181,2179 2238,2177 2296,2175 2353,2174 2411,2171 2469,2169"/>
+                <TextEquiv>
+                    <Unicode>Ablehnung der ihm angetragenen Stelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:25;}">
+                <Coords points="1297,2326 1411,2282 1516,2329 1648,2268 2295,2297 2379,2256 2512,2290 2510,2226 2456,2204 1296,2263"/>
+                <Baseline points="1304,2283 1364,2282 1424,2280 1484,2279 1544,2276 1604,2274 1664,2273 1724,2271 1784,2270 1844,2267 1904,2265 1964,2264 2024,2262 2084,2261 2144,2260 2204,2259 2264,2258 2324,2258 2384,2258 2444,2258 2504,2258 2518,2280"/>
+                <TextEquiv>
+                    <Unicode>zu Dorpat nur dann ſich verſtehen könnte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:26;}">
+                <Coords points="1306,2368 1523,2399 1623,2352 1912,2354 2062,2392 2432,2345 2417,2279 2377,2313 1305,2334"/>
+                <Baseline points="1313,2364 1368,2364 1424,2363 1479,2363 1535,2361 1590,2360 1646,2359 1701,2357 1757,2356 1812,2354 1868,2352 1924,2351 1979,2349 2035,2348 2090,2346 2146,2345 2201,2343 2257,2342 2312,2340 2368,2339 2424,2337"/>
+                <TextEquiv>
+                    <Unicode>wenn ihm die etatsmäßige ſiebente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:27;}">
+                <Coords points="1295,2484 1595,2439 1775,2443 1826,2483 2233,2417 2440,2431 2503,2423 2501,2359 1293,2416"/>
+                <Baseline points="1301,2450 1360,2448 1420,2447 1480,2444 1539,2442 1599,2441 1659,2438 1718,2436 1778,2433 1838,2432 1898,2429 1957,2427 2017,2426 2077,2423 2136,2421 2196,2420 2256,2418 2315,2417 2375,2415 2435,2414 2510,2410"/>
+                <TextEquiv>
+                    <Unicode>Profeſſur in der philoſoph. Faculät über_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:28;}">
+                <Coords points="1298,2569 1389,2595 1457,2551 2064,2531 2242,2573 2450,2509 2516,2530 2503,2460 1781,2516 1734,2479 1526,2525 1296,2488"/>
+                <Baseline points="1305,2547 1365,2546 1425,2543 1485,2541 1545,2541 1605,2539 1665,2538 1725,2536 1785,2535 1845,2534 1906,2532 1966,2531 2026,2529 2086,2527 2146,2525 2206,2523 2266,2522 2326,2519 2386,2517 2446,2513 2507,2510"/>
+                <TextEquiv>
+                    <Unicode>tragen würde. Der Senat beſchließt, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:29;}">
+                <Coords points="1311,2665 1479,2637 1564,2692 1721,2628 1875,2682 1955,2619 2168,2610 2327,2672 2501,2643 2487,2579 2253,2568 2203,2599 2065,2566 1998,2601 1310,2599"/>
+                <Baseline points="1317,2636 1375,2634 1434,2633 1493,2631 1552,2630 1611,2628 1669,2627 1728,2627 1787,2625 1846,2624 1905,2622 1963,2622 2022,2621 2081,2619 2140,2619 2199,2618 2257,2618 2316,2618 2375,2616 2434,2616 2493,2616"/>
+                <TextEquiv>
+                    <Unicode>Erklärung des Walz unter Bezeugung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:30;}">
+                <Coords points="1309,2730 1540,2735 1616,2778 1724,2726 1826,2755 2002,2707 2152,2730 2233,2693 2325,2731 2459,2693 2258,2629 2121,2677 1931,2655 1308,2701"/>
+                <Baseline points="1317,2721 1373,2721 1430,2721 1487,2720 1543,2718 1600,2717 1657,2714 1713,2712 1770,2711 1827,2708 1884,2706 1940,2703 1997,2702 2054,2699 2110,2697 2167,2696 2224,2694 2280,2694 2337,2694 2394,2694 2451,2694"/>
+                <TextEquiv>
+                    <Unicode>des Wunſches vorzulegen, daß dieſer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:31;}">
+                <Coords points="1319,2826 1452,2850 1500,2814 1947,2798 2060,2827 2208,2785 2380,2813 2495,2783 2494,2726 1317,2770"/>
+                <Baseline points="1325,2799 1383,2800 1441,2801 1499,2801 1557,2801 1615,2799 1673,2799 1731,2798 1789,2797 1847,2796 1906,2795 1964,2793 2022,2792 2080,2789 2138,2787 2196,2786 2254,2783 2312,2781 2370,2779 2428,2777 2487,2775"/>
+                <TextEquiv>
+                    <Unicode>tüchtige und verdiente Lehrer, welcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:32;}">
+                <Coords points="1303,2927 1478,2890 1639,2929 1747,2882 1805,2928 1973,2877 2119,2917 2188,2878 2401,2898 2440,2836 1789,2860 1674,2827 1302,2863"/>
+                <Baseline points="1310,2885 1366,2885 1422,2885 1478,2883 1534,2883 1590,2883 1646,2882 1702,2882 1758,2880 1814,2879 1871,2879 1927,2877 1983,2877 2039,2876 2095,2875 2151,2874 2207,2873 2263,2873 2319,2871 2375,2871 2453,2870"/>
+                <TextEquiv>
+                    <Unicode>gegenwärtig nicht zu erſetzen wäre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:33;}">
+                <Coords points="1318,2998 1501,2975 1652,3007 1797,2971 1870,3015 2161,2968 2351,3005 2450,2973 2450,2916 1782,2917 1600,2952 1317,2927"/>
+                <Baseline points="1325,2976 1380,2975 1436,2974 1492,2973 1548,2972 1604,2972 1660,2970 1715,2970 1771,2969 1827,2969 1883,2967 1939,2967 1995,2967 2051,2967 2106,2966 2162,2966 2218,2966 2274,2966 2330,2966 2386,2967 2476,2967"/>
+                <TextEquiv>
+                    <Unicode>der Univerſität erhalten werden möchte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:34;}">
+                <Coords points="1295,3114 1691,3073 1778,3123 2066,3067 2236,3112 2464,3070 2463,3022 2386,3007 1294,3048"/>
+                <Baseline points="1302,3075 1359,3076 1417,3077 1475,3077 1533,3077 1590,3077 1648,3075 1706,3075 1764,3074 1821,3072 1879,3070 1937,3069 1995,3068 2052,3065 2110,3064 2168,3063 2226,3062 2283,3060 2341,3059 2399,3059 2457,3059"/>
+                <TextEquiv>
+                    <Unicode>Gegen dieſen Beſchluß erklärt ſich Prof.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l34" custom="readingOrder {index:35;}">
+                <Coords points="1318,3179 1850,3183 2018,3145 2437,3186 2436,3129 2315,3094 1317,3122"/>
+                <Baseline points="1325,3162 1380,3162 1435,3164 1490,3164 1545,3162 1601,3162 1656,3161 1711,3159 1766,3158 1821,3156 1877,3155 1932,3153 1987,3152 2042,3150 2097,3149 2153,3149 2208,3147 2263,3147 2318,3149 2373,3149 2429,3152"/>
+                <TextEquiv>
+                    <Unicode>D. Scheuerlen mit dem Bemerken zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l35" custom="readingOrder {index:36;} textStyle {offset:18; length:9;strikethrough:true;}">
+                <Coords points="1295,3286 1537,3248 1689,3283 1766,3240 2211,3292 2336,3237 2450,3258 2449,3204 2407,3192 1295,3225"/>
+                <Baseline points="1302,3255 1359,3254 1416,3252 1473,3251 1530,3249 1587,3249 1644,3248 1701,3248 1758,3246 1815,3246 1872,3246 1929,3245 1986,3245 2043,3245 2100,3245 2157,3243 2214,3243 2271,3243 2328,3242 2385,3242 2442,3240"/>
+                <TextEquiv>
+                    <Unicode>Protocoll, daß er nicht nur wegen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624533084638_673" custom="readingOrder {index:37;}">
+                <Coords points="1316,3305 1831,3299 1831,3338 1702,3340 1635,3386 1502,3333 1316,3361"/>
+                <Baseline points="1323,3339 1380,3338 1437,3336 1494,3335 1552,3333 1609,3332 1666,3332 1723,3330 1781,3330 1831,3329"/>
+                <TextEquiv>
+                    <Unicode>ſchon erfolgten </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l36" custom="readingOrder {index:38;}">
+                <Coords points="1838,3298 1863,3298 1880,3289 1903,3306 1929,3292 1948,3299 1974,3289 2020,3288 2018,3254 1989,3255 1974,3244 1946,3254 1900,3248 1884,3257 1872,3253 1853,3270 1836,3268"/>
+                <Baseline points="1845,3289 1907,3285 1940,3283 2011,3282"/>
+                <TextEquiv>
+                    <Unicode>höchſten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624533084638_672" custom="readingOrder {index:39;}">
+                <Coords points="1831,3299 2475,3292 2475,3338 2236,3334 2157,3381 2093,3334 1831,3338"/>
+                <Baseline points="1831,3329 1838,3329 1895,3329 1952,3329 2010,3327 2067,3327 2124,3327 2181,3327 2239,3327 2296,3327 2353,3327 2410,3328 2468,3329"/>
+                <TextEquiv>
+                    <Unicode>Entſcheidung, und im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l38" custom="readingOrder {index:40;}">
+                <Coords points="1301,3464 1402,3431 1489,3461 1927,3430 2001,3466 2193,3417 2339,3444 2427,3384 2195,3360 1855,3393 1790,3364 1619,3404 1535,3369 1300,3398"/>
+                <Baseline points="1308,3432 1363,3428 1419,3425 1474,3422 1530,3420 1586,3419 1641,3417 1697,3417 1752,3417 1808,3417 1864,3417 1919,3417 1975,3417 2030,3417 2086,3417 2142,3417 2197,3416 2253,3414 2308,3411 2364,3409 2420,3405"/>
+                <TextEquiv>
+                    <Unicode>Jntereſſe des Prof. Walz ſelber für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l39" custom="readingOrder {index:41;}">
+                <Coords points="1319,3549 1568,3513 1844,3554 1918,3508 2420,3540 2418,3459 2252,3447 2100,3486 2037,3451 1966,3484 1771,3453 1318,3495"/>
+                <Baseline points="1326,3521 1380,3519 1434,3517 1488,3515 1543,3513 1597,3512 1651,3511 1705,3510 1760,3509 1814,3507 1868,3507 1922,3506 1977,3506 2031,3504 2085,3504 2139,3503 2194,3502 2248,3501 2302,3500 2356,3498 2411,3497"/>
+                <TextEquiv>
+                    <Unicode>einfache Vorlegung der Erklärung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l40" custom="readingOrder {index:42;}">
+                <Coords points="1308,3620 1450,3625 1523,3657 1600,3612 1707,3605 1743,3633 1817,3608 1948,3616 1947,3580 1826,3557 1757,3581 1634,3554 1604,3571 1528,3555 1475,3593 1384,3565 1308,3583"/>
+                <Baseline points="1316,3612 1347,3612 1378,3611 1409,3611 1440,3609 1472,3608 1503,3608 1534,3608 1565,3606 1596,3606 1628,3605 1659,3605 1690,3604 1721,3603 1752,3603 1784,3603 1815,3602 1846,3602 1877,3602 1908,3602 1940,3602"/>
+                <TextEquiv>
+                    <Unicode>des Letzteren ſtim̄e.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l41" custom="readingOrder {index:43;} textStyle {offset:0; length:50;strikethrough:true;}">
+                <Coords points="1355,3740 1512,3702 1785,3697 1856,3736 2216,3688 2285,3738 2398,3679 2380,3636 2034,3608 1781,3659 1612,3636 1554,3672 1422,3632 1353,3658"/>
+                <Baseline points="1362,3705 1413,3705 1464,3704 1516,3702 1567,3701 1619,3699 1670,3699 1722,3697 1773,3695 1825,3693 1876,3692 1927,3691 1979,3690 2030,3689 2082,3687 2133,3686 2185,3686 2236,3684 2288,3684 2339,3684 2391,3684"/>
+                <TextEquiv>
+                    <Unicode>Zugleich wird der den Prof. Hohl betreffende Erlaß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l42" custom="readingOrder {index:44;} textStyle {offset:0; length:57;strikethrough:true;}">
+                <Coords points="1355,3787 1681,3808 1834,3753 2004,3757 2098,3806 2231,3755 2334,3802 2447,3794 2445,3714 2395,3683 2286,3738 2180,3691 1993,3734 1621,3705 1354,3747"/>
+                <Baseline points="1362,3785 1415,3780 1469,3776 1523,3773 1577,3770 1631,3768 1684,3766 1738,3764 1792,3762 1846,3761 1900,3761 1953,3759 2007,3759 2061,3759 2115,3759 2169,3759 2222,3761 2276,3761 2330,3762 2384,3762 2438,3764"/>
+                <TextEquiv>
+                    <Unicode>vom 7. Jul. 36. mitgetheilt, wornach der Gehalt des Prof.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l43" custom="readingOrder {index:45;} textStyle {offset:0; length:38;strikethrough:true;}">
+                <Coords points="1356,3897 1525,3852 1771,3901 1860,3851 2103,3876 2207,3849 2206,3788 2101,3816 1980,3760 1879,3789 1715,3778 1569,3822 1475,3784 1354,3811"/>
+                <Baseline points="1362,3858 1403,3855 1445,3851 1487,3849 1529,3846 1571,3843 1613,3840 1654,3838 1696,3837 1738,3836 1780,3834 1822,3833 1864,3833 1906,3831 1947,3831 1989,3831 2031,3833 2073,3833 2115,3834 2157,3836 2199,3837"/>
+                <TextEquiv>
+                    <Unicode>Hohl von 600 f auf 800 f. erhöht wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>247.&#13;
+theologiſchen Standpunct aus Bedenklich_&#13;
+keit gegen v. Bohlen erhoben werden,&#13;
+könnte. D. Steudel wird gegen&#13;
+v.&#13;
+Bohlens&#13;
+Berufung ein Separatvotum beibringen.&#13;
+Wenn weder Bohlen noch Rückert beru_&#13;
+fen werden ſollten, ſo eignet ſich der&#13;
+Senat die den im Referat enthaltenen&#13;
+Antrag hinſichtlich des D. Wolf, Repet.&#13;
+Welte und Cand. Öhler an.&#13;
+3.&#13;
+Nach Vorleſung des Decrets v. 7. Jul. 1836,&#13;
+wodurch der Gehalt des Prof. Walz auf&#13;
+900 f erhöht, demſelben Sitz und Stim̄e&#13;
+in der philoſophiſchen Facultät, und der&#13;
+Titel und Rang eines ordentlichen Pro_&#13;
+feſſors der Univerſität unter der Be‗&#13;
+dingung verliehen wird, daß er den&#13;
+Ruf nach Dorpat ablehne; wird auch&#13;
+die dem Walz hierüber abgeforderte&#13;
+Erklärung verleſen, worin er welche&#13;
+dahin lautet, daß Prof. Walz zu der&#13;
+Ablehnung der ihm angetragenen Stelle&#13;
+zu Dorpat nur dann ſich verſtehen könnte,&#13;
+wenn ihm die etatsmäßige ſiebente&#13;
+Profeſſur in der philoſoph. Faculät über_&#13;
+tragen würde. Der Senat beſchließt, die&#13;
+Erklärung des Walz unter Bezeugung&#13;
+des Wunſches vorzulegen, daß dieſer&#13;
+tüchtige und verdiente Lehrer, welcher&#13;
+gegenwärtig nicht zu erſetzen wäre,&#13;
+der Univerſität erhalten werden möchte.&#13;
+Gegen dieſen Beſchluß erklärt ſich Prof.&#13;
+D. Scheuerlen mit dem Bemerken zu&#13;
+Protocoll, daß er nicht nur wegen der&#13;
+ſchon erfolgten &#13;
+höchſten&#13;
+Entſcheidung, und im&#13;
+Jntereſſe des Prof. Walz ſelber für&#13;
+einfache Vorlegung der Erklärung&#13;
+des Letzteren ſtim̄e.&#13;
+Zugleich wird der den Prof. Hohl betreffende Erlaß&#13;
+vom 7. Jul. 36. mitgetheilt, wornach der Gehalt des Prof.&#13;
+Hohl von 600 f auf 800 f. erhöht wird.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1624520575702_283" custom="readingOrder {index:1;}">
+            <Coords points="172,291 953,291 953,1092 172,1092"/>
+            <TextLine id="line_1624535739659_703" custom="readingOrder {index:0;} textStyle {offset:17; length:10;strikethrough:true;}">
+                <Coords points="233,416 307,406 708,423 708,541 651,541 233,526"/>
+                <Baseline points="242,499 322,499 378,502 476,499 551,502 609,498 701,501 708,499"/>
+                <TextEquiv>
+                    <Unicode>Ein Separatvotum ſchlieſſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624520646320_298" custom="readingOrder {index:1;}">
+                <Coords points="621,439 631,439 639,448 654,453 672,441 681,445 693,442 702,452 720,442 744,444 750,374 740,373 725,357 717,360 687,354 656,375 626,378"/>
+                <Baseline points="631,430 735,438"/>
+                <TextEquiv>
+                    <Unicode>behalten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624535739659_702" custom="readingOrder {index:2;}">
+                <Coords points="708,423 790,427 870,437 863,520 830,527 755,542 708,541"/>
+                <Baseline points="708,499 735,493 855,502"/>
+                <TextEquiv>
+                    <Unicode>ſich vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624520656119_308" custom="readingOrder {index:3;}">
+                <Coords points="428,613 459,620 468,610 489,611 519,597 532,610 570,609 580,616 593,610 618,630 639,625 636,538 602,528 579,536 566,529 547,537 484,533 475,524 452,523 425,532"/>
+                <Baseline points="438,603 628,597"/>
+                <TextEquiv>
+                    <Unicode>v. Schrader,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624520658516_313" custom="readingOrder {index:4;}">
+                <Coords points="445,721 462,720 509,705 516,697 522,701 538,682 551,680 546,610 531,612 515,598 509,601 505,597 497,607 484,612 468,609 458,621 438,617"/>
+                <Baseline points="451,672 566,665"/>
+                <TextEquiv>
+                    <Unicode>Herbſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624520660426_318" custom="readingOrder {index:5;}">
+                <Coords points="420,779 471,777 493,762 510,765 526,756 539,766 542,762 565,765 561,712 539,715 531,708 523,712 506,704 478,714 450,697 434,715 430,711 415,714"/>
+                <Baseline points="427,741 553,732"/>
+                <TextEquiv>
+                    <Unicode>Jäger, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624520663174_323" custom="readingOrder {index:6;}">
+                <Coords points="436,809 456,820 471,815 495,840 563,814 624,847 654,820 688,827 711,817 712,773 621,781 608,771 598,776 576,756 553,767 525,756 475,777 437,772"/>
+                <Baseline points="446,796 701,806"/>
+                <TextEquiv>
+                    <Unicode>von Eſchenmayer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624520665630_328" custom="readingOrder {index:7;}">
+                <Coords points="469,898 480,899 491,911 509,898 555,889 596,901 617,896 637,913 656,912 659,868 643,867 604,831 581,820 571,826 555,815 541,826 522,823 504,839 472,835"/>
+                <Baseline points="479,883 647,892"/>
+                <TextEquiv>
+                    <Unicode>Scheuerlen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624520667829_333" custom="readingOrder {index:8;}">
+                <Coords points="497,988 530,984 544,975 566,985 577,984 597,998 629,986 622,896 601,897 583,906 567,896 556,904 538,890 491,905"/>
+                <Baseline points="504,958 616,950"/>
+                <TextEquiv>
+                    <Unicode>Schmid.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ein Separatvotum ſchlieſſen&#13;
+behalten&#13;
+ſich vor&#13;
+v. Schrader,&#13;
+Herbſt,&#13;
+Jäger, &#13;
+von Eſchenmayer,&#13;
+Scheuerlen,&#13;
+Schmid.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:2;}">
+            <Coords points="1170,3659 1170,3815 1329,3815 1329,3659"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1165,3802 1234,3793 1249,3779 1280,3782 1292,3790 1336,3770 1334,3710 1313,3719 1302,3715 1289,3726 1260,3712 1248,3713 1234,3700 1214,3702 1200,3715 1177,3705 1160,3708"/>
+                <Baseline points="1170,3764 1196,3765 1223,3765 1249,3763 1276,3762 1302,3759 1329,3759"/>
+                <TextEquiv>
+                    <Unicode>ſ. nro. A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ſ. nro. A.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
