@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test1(htr_id=34347)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-25T16:22:39.203+02:00</Created>
+        <LastChange>2021-07-22T11:53:59.093+02:00</LastChange>
+        <TranskribusMetadata docId="708535" pageId="27437833" pageNr="30" tsid="61745895" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=DOAFXQOGVOEWRHZURLAJAUFI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YPWXGDWSCGALGRGWHQDKIMFM" imageId="21291986"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_20a_030.jpg" imageWidth="5305" imageHeight="8219">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683708590527" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2648,778 2648,7692 5108,7692 5108,778"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2633,909 5061,1004 5067,829 4809,796 4665,664 4514,762 4094,753 3745,621 3459,792 3047,633 2641,689"/>
+                <Baseline points="2648,878 2768,884 2888,890 3008,895 3128,899 3248,903 3368,906 3488,908 3608,910 3728,912 3848,915 3968,918 4088,921 4208,925 4328,929 4448,935 4568,941 4688,948 4808,957 4928,968 5048,980"/>
+                <TextEquiv>
+                    <Unicode>Dabei kön̄te angeführt werden; daß man glau_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2659,1195 3067,1182 3197,1268 4202,1198 4905,1313 5058,1255 5067,1004 4327,991 4161,1082 3980,979 3845,1037 3410,965 3026,1139 2797,946 2664,1029"/>
+                <Baseline points="2674,1160 2792,1166 2911,1172 3029,1178 3148,1182 3266,1186 3385,1189 3503,1192 3622,1194 3740,1197 3859,1200 3977,1202 4096,1206 4214,1209 4333,1214 4451,1218 4570,1224 4688,1231 4807,1240 4925,1250 5044,1262"/>
+                <TextEquiv>
+                    <Unicode>be, man habe bißher den altfundirten Beſol_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="2686,1439 3987,1466 4140,1563 4751,1490 4994,1594 5048,1312 4646,1378 4407,1229 4017,1398 3449,1236 2992,1342 2830,1227 2693,1255"/>
+                <Baseline points="2704,1406 2820,1415 2936,1420 3052,1427 3168,1432 3284,1436 3400,1439 3516,1442 3632,1444 3748,1446 3864,1450 3980,1452 4096,1456 4212,1461 4328,1464 4444,1472 4560,1479 4676,1487 4792,1496 4908,1508 5024,1520"/>
+                <TextEquiv>
+                    <Unicode>dungen mit dem Wein aufhelfen wollen, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2645,1799 3150,1766 3311,1841 3490,1731 4652,1833 4983,1786 4990,1563 4727,1672 4197,1514 3654,1603 3334,1503 2652,1585"/>
+                <Baseline points="2664,1698 2779,1702 2894,1706 3009,1710 3125,1714 3240,1718 3355,1721 3471,1724 3586,1728 3701,1732 3817,1734 3932,1738 4047,1742 4162,1746 4278,1748 4393,1752 4508,1756 4624,1759 4739,1762 4854,1766 4970,1770"/>
+                <TextEquiv>
+                    <Unicode>überlaße ſich nun der Hoffnung, es werde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="2651,2003 2830,1987 3006,2138 3328,2003 4061,2017 4223,2153 4447,2036 4901,2093 4951,1880 4779,1775 4331,1788 4158,1912 3842,1799 3522,1867 2759,1749 2657,1810"/>
+                <Baseline points="2668,1972 2781,1976 2894,1981 3007,1985 3120,1990 3233,1993 3346,1996 3459,2000 3572,2003 3685,2006 3799,2010 3912,2012 4025,2016 4138,2020 4251,2023 4364,2026 4477,2030 4590,2034 4703,2040 4816,2044 4930,2050"/>
+                <TextEquiv>
+                    <Unicode>bei Regulirung des NormalEtats auf die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="2693,2273 2981,2247 3216,2350 3322,2272 3470,2338 4369,2280 4703,2322 4919,2457 5059,2414 5069,2160 4740,2055 4454,2186 3950,2186 3729,2024 3328,2003 3054,2159 2910,2045 2699,2110"/>
+                <Baseline points="2712,2206 2828,2221 2945,2232 3062,2240 3179,2247 3296,2251 3412,2254 3529,2256 3646,2258 3763,2258 3880,2260 3996,2260 4113,2262 4230,2264 4347,2269 4464,2274 4580,2282 4697,2290 4814,2303 4931,2318 5048,2336"/>
+                <TextEquiv>
+                    <Unicode>jetzigen Profeßoren mit 1400. fℓ. Beſoldung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="2695,2505 2880,2575 3347,2510 3592,2591 3791,2514 4070,2566 4131,2559 4136,2420 3946,2326 3807,2418 3488,2467 3310,2439 3155,2301 3000,2259 2702,2305"/>
+                <Baseline points="2712,2456 2782,2464 2852,2473 2922,2480 2992,2487 3063,2493 3133,2497 3203,2501 3273,2504 3343,2507 3414,2510 3484,2510 3554,2512 3624,2513 3694,2514 3765,2514 3835,2514 3905,2514 3975,2514 4045,2514 4116,2514"/>
+                <TextEquiv>
+                    <Unicode>Rückſicht genom̄en werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="2647,2835 3798,2785 3982,2932 4391,2837 5018,2875 4957,2658 4559,2711 4134,2618 4007,2685 3836,2594 3455,2672 3309,2548 2932,2665 2659,2545"/>
+                <Baseline points="2664,2788 2781,2784 2898,2782 3015,2780 3132,2780 3249,2782 3366,2784 3483,2788 3600,2793 3717,2798 3834,2804 3951,2811 4068,2818 4185,2825 4302,2832 4419,2839 4536,2846 4653,2852 4770,2856 4887,2862 5004,2866"/>
+                <TextEquiv>
+                    <Unicode>Herr Prof. von Malblanc: für die An̄ahme des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="2701,3011 3061,3009 3129,3044 3249,3048 3336,3017 3403,3055 3469,3020 3475,2917 3432,2927 3278,2835 3234,2857 3153,2794 2973,2922 2819,2819 2711,2855"/>
+                <Baseline points="2718,2984 2754,2984 2791,2985 2828,2986 2865,2988 2902,2991 2938,2994 2975,2996 3012,2998 3049,3002 3086,3005 3122,3007 3159,3010 3196,3012 3233,3014 3270,3016 3306,3019 3343,3020 3380,3022 3417,3022 3454,3022"/>
+                <TextEquiv>
+                    <Unicode>Anerbietens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="2661,3316 2963,3382 3373,3266 3614,3408 3731,3308 4006,3303 4245,3418 4744,3357 5064,3479 5082,3129 4836,3205 4562,3070 4165,3136 3907,3038 2925,3105 2675,3023"/>
+                <Baseline points="2680,3240 2798,3246 2917,3251 3036,3255 3155,3260 3274,3264 3392,3268 3511,3272 3630,3275 3749,3280 3868,3284 3986,3290 4105,3295 4224,3302 4343,3309 4462,3316 4580,3325 4699,3334 4818,3346 4937,3355 5056,3370"/>
+                <TextEquiv>
+                    <Unicode>Herr Prof. Schott. Er begnüge ſich für ſeine Per_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} unclear {offset:10; length:1;}">
+                <Coords points="2676,3602 3023,3527 3625,3620 3744,3558 4046,3662 4477,3592 4923,3711 5059,3701 5071,3524 3869,3302 3614,3410 2691,3370"/>
+                <Baseline points="2696,3510 2813,3515 2931,3520 3048,3526 3166,3532 3284,3537 3401,3542 3519,3548 3636,3555 3754,3561 3872,3568 3989,3575 4107,3582 4224,3590 4342,3600 4460,3609 4577,3618 4695,3629 4812,3639 4930,3652 5048,3664"/>
+                <TextEquiv>
+                    <Unicode>ſon mit dem beſtim̄ten Preißen, mit dem Zu_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} textStyle {offset:17; length:3;strikethrough:true;}">
+                <Coords points="2636,3875 3518,3823 3876,3978 4088,3844 4268,3938 4957,3934 5022,3801 4788,3707 4624,3766 4425,3649 4187,3746 3982,3624 3858,3690 3737,3620 3518,3763 3202,3571 2648,3643"/>
+                <Baseline points="2656,3772 2773,3781 2890,3789 3007,3796 3125,3803 3242,3808 3359,3813 3477,3819 3594,3824 3711,3830 3829,3835 3946,3841 4063,3846 4180,3851 4298,3858 4415,3864 4532,3871 4650,3878 4767,3886 4884,3894 5002,3904"/>
+                <TextEquiv>
+                    <Unicode>ſatz, daß man um und 50. fℓ. keinen Wein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="2671,4065 3842,4085 4243,4257 4478,4115 4872,4254 5052,4212 5062,3926 4994,3908 4855,3987 4507,3905 4359,3990 4200,3884 3766,4006 3462,3995 3260,3824 2679,3832"/>
+                <Baseline points="2686,4032 2803,4038 2921,4043 3039,4048 3156,4054 3274,4059 3392,4064 3509,4069 3627,4073 3745,4078 3863,4082 3980,4086 4098,4092 4216,4096 4333,4100 4451,4104 4569,4107 4686,4110 4804,4114 4922,4118 5040,4122"/>
+                <TextEquiv>
+                    <Unicode>kaufen kön̄e, wenn gleich durch den Preiß des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="2636,4310 3528,4444 4239,4349 4684,4465 5042,4434 5051,4214 4871,4255 4757,4171 4243,4259 4141,4158 4011,4234 3842,4088 3524,4177 2764,4076 2643,4144"/>
+                <Baseline points="2652,4282 2770,4292 2889,4302 3008,4311 3127,4317 3246,4322 3364,4327 3483,4331 3602,4334 3721,4336 3840,4340 3958,4342 4077,4346 4196,4350 4315,4354 4434,4360 4552,4366 4671,4375 4790,4383 4909,4394 5028,4408"/>
+                <TextEquiv>
+                    <Unicode>Dinkels etwas erſezt werde. Man habe früher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="2641,4616 3340,4594 3497,4678 3959,4606 4267,4684 4469,4621 4598,4710 5079,4615 4488,4401 4121,4540 3929,4424 3735,4508 3043,4345 2646,4474"/>
+                <Baseline points="2660,4552 2780,4563 2900,4572 3020,4580 3140,4584 3260,4590 3380,4594 3500,4596 3620,4598 3740,4600 3861,4602 3981,4604 4101,4607 4221,4610 4341,4614 4461,4618 4581,4624 4701,4631 4821,4640 4941,4650 5062,4664"/>
+                <TextEquiv>
+                    <Unicode>40. fℓ. für den Aymer Wein erhalten, wo man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="2645,4868 3041,4851 3206,4972 3455,4864 3709,4932 4345,4884 5089,5028 5094,4886 4895,4737 4438,4743 4213,4634 3588,4640 3083,4789 2796,4636 2652,4691"/>
+                <Baseline points="2664,4802 2784,4814 2905,4824 3026,4832 3146,4839 3267,4845 3388,4850 3508,4854 3629,4858 3750,4860 3871,4864 3991,4866 4112,4869 4233,4873 4353,4876 4474,4881 4595,4887 4715,4894 4836,4901 4957,4911 5078,4924"/>
+                <TextEquiv>
+                    <Unicode>ihn um 20. fℓ. habe kaufen kön̄en. Zugleich wün_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="2657,5174 3938,5137 4316,5246 4793,5203 4980,5320 5058,5285 5071,5059 4736,4986 4525,5083 4389,4978 4170,5057 3769,4916 3090,5017 2675,4855"/>
+                <Baseline points="2678,5082 2796,5092 2914,5101 3032,5109 3151,5114 3269,5121 3387,5126 3506,5130 3624,5134 3742,5138 3861,5142 3979,5148 4097,5152 4215,5158 4334,5166 4452,5174 4570,5184 4689,5197 4807,5209 4925,5225 5044,5242"/>
+                <TextEquiv>
+                    <Unicode>ſche er, es möchte der KameralVerwaltung auf_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="2647,5430 2918,5373 3611,5481 3901,5430 4003,5508 4209,5435 4883,5569 5077,5542 5087,5327 4755,5394 4656,5296 4513,5386 4021,5182 3314,5316 3044,5195 2653,5295"/>
+                <Baseline points="2664,5364 2784,5371 2904,5376 3024,5382 3144,5387 3264,5392 3384,5396 3504,5402 3624,5406 3744,5410 3864,5415 3984,5421 4104,5426 4224,5432 4344,5436 4464,5442 4584,5449 4704,5457 4824,5465 4944,5474 5064,5482"/>
+                <TextEquiv>
+                    <Unicode>gegeben werden, die Beſoldungen Zur gehö_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="2664,5650 2814,5674 2979,5624 3067,5688 3299,5628 3598,5701 3728,5640 3967,5696 3994,5561 3572,5449 3383,5502 3264,5442 2995,5537 2806,5493 2668,5538"/>
+                <Baseline points="2680,5604 2744,5606 2809,5607 2874,5608 2939,5611 3004,5612 3068,5615 3133,5618 3198,5620 3263,5624 3328,5626 3392,5630 3457,5634 3522,5636 3587,5639 3652,5642 3716,5644 3781,5648 3846,5650 3911,5652 3976,5654"/>
+                <TextEquiv>
+                    <Unicode>rigen Zeit zu bezahlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="2680,5917 3134,5899 3417,6055 3777,5930 4703,5965 5049,6112 5061,5810 4574,5748 4298,5837 3727,5640 3609,5704 2692,5666"/>
+                <Baseline points="2698,5866 2815,5872 2932,5878 3049,5884 3166,5888 3283,5894 3400,5898 3517,5904 3634,5908 3751,5914 3869,5919 3986,5924 4103,5930 4220,5935 4337,5942 4454,5948 4571,5954 4688,5961 4805,5968 4922,5976 5040,5984"/>
+                <TextEquiv>
+                    <Unicode>Herr Prof. Conz: Für die An̄ahme mit dem Wunſch,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="2653,6154 2817,6129 3069,6238 3242,6159 3585,6191 3714,6276 3823,6212 4287,6289 4448,6213 4816,6300 4868,6040 4604,6121 4449,6013 4095,5962 3416,6056 3186,5948 2945,6048 2658,6040"/>
+                <Baseline points="2668,6122 2776,6130 2885,6137 2994,6143 3102,6149 3211,6154 3320,6158 3428,6163 3537,6166 3646,6170 3755,6174 3863,6178 3972,6183 4081,6188 4189,6194 4298,6200 4407,6206 4515,6215 4624,6224 4733,6234 4842,6246"/>
+                <TextEquiv>
+                    <Unicode>es möchte der WeinPreiß erhöht werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="2687,6419 3639,6438 3803,6541 3958,6458 4224,6451 4319,6550 4652,6473 5117,6600 5127,6416 5004,6341 4454,6218 4207,6329 3936,6245 3530,6324 3248,6158 2697,6244"/>
+                <Baseline points="2704,6362 2824,6375 2944,6387 3064,6396 3184,6404 3305,6410 3425,6416 3545,6422 3665,6426 3785,6430 3906,6434 4026,6438 4146,6443 4266,6448 4386,6455 4507,6460 4627,6469 4747,6477 4867,6489 4987,6502 5108,6516"/>
+                <TextEquiv>
+                    <Unicode>Herr Prof. v. Gmelin. Er ſtim̄e auch für die An̄ahme;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="2652,6641 5018,6780 5098,6600 4610,6502 4426,6604 4243,6472 3782,6558 3651,6459 3361,6464 3047,6555 2857,6435 2659,6523"/>
+                <Baseline points="2668,6610 2788,6616 2908,6621 3028,6625 3148,6630 3269,6634 3389,6638 3509,6644 3629,6648 3749,6654 3870,6660 3990,6666 4110,6673 4230,6680 4350,6688 4471,6698 4591,6707 4711,6720 4831,6731 4951,6746 5072,6760"/>
+                <TextEquiv>
+                    <Unicode>aber man ſollte sagen; ſo ſehr man die Verwand_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;} textStyle {offset:27; length:9;strikethrough:true;}">
+                <Coords points="2664,6883 2833,6943 3179,6858 3783,6984 4141,6896 5032,7028 5111,6747 4510,6780 4334,6683 4155,6803 3839,6720 3675,6800 3244,6653 2672,6729"/>
+                <Baseline points="2682,6816 2802,6827 2922,6837 3042,6846 3162,6854 3283,6862 3403,6868 3523,6875 3643,6880 3763,6886 3884,6892 4004,6898 4124,6903 4244,6908 4364,6914 4485,6920 4605,6926 4725,6931 4845,6937 4965,6945 5086,6952"/>
+                <TextEquiv>
+                    <Unicode>lung der Beſoldung in Geld anerken̄e mit dank an_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="2649,7130 3772,7158 4029,7277 4445,7181 5047,7218 5057,7028 4632,7067 4387,6948 3620,7047 2934,6866 2655,7006"/>
+                <Baseline points="2668,7068 2786,7080 2904,7091 3022,7100 3141,7110 3259,7117 3377,7124 3496,7130 3614,7136 3732,7142 3851,7148 3969,7152 4087,7158 4205,7162 4324,7167 4442,7172 4560,7178 4679,7184 4797,7190 4915,7197 5034,7206"/>
+                <TextEquiv>
+                    <Unicode>erken̄e, ſo hätte man doch gehofft, es würde der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="2663,7385 3516,7386 3813,7552 4028,7411 4423,7441 4565,7557 5067,7436 5072,7324 4849,7241 4623,7300 4414,7232 4231,7339 3708,7160 3517,7290 3115,7174 2926,7271 2671,7231"/>
+                <Baseline points="2680,7332 2798,7340 2917,7348 3035,7356 3154,7362 3273,7369 3391,7375 3510,7382 3628,7390 3747,7395 3866,7402 3984,7407 4103,7414 4221,7418 4340,7422 4459,7426 4577,7431 4696,7434 4814,7437 4933,7440 5052,7442"/>
+                <TextEquiv>
+                    <Unicode>Wein höher angeſchlagen werden; ſo kön̄e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="2680,7602 2812,7569 3194,7716 3958,7669 4123,7747 4467,7641 4472,7557 4049,7438 3825,7556 3701,7435 3624,7476 3517,7386 3129,7408 2877,7528 2686,7490"/>
+                <Baseline points="2696,7558 2783,7563 2871,7568 2959,7573 3047,7580 3135,7586 3222,7591 3310,7597 3398,7604 3486,7609 3574,7614 3661,7620 3749,7624 3837,7628 3925,7632 4013,7636 4100,7638 4188,7640 4276,7642 4364,7642 4452,7642"/>
+                <TextEquiv>
+                    <Unicode>man doch nicht zufrieden ſeyn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dabei kön̄te angeführt werden; daß man glau_&#13;
+be, man habe bißher den altfundirten Beſol_&#13;
+dungen mit dem Wein aufhelfen wollen, und&#13;
+überlaße ſich nun der Hoffnung, es werde&#13;
+bei Regulirung des NormalEtats auf die&#13;
+jetzigen Profeßoren mit 1400. fℓ. Beſoldung&#13;
+Rückſicht genom̄en werden.&#13;
+Herr Prof. von Malblanc: für die An̄ahme des&#13;
+Anerbietens&#13;
+Herr Prof. Schott. Er begnüge ſich für ſeine Per_&#13;
+ſon mit dem beſtim̄ten Preißen, mit dem Zu_&#13;
+ſatz, daß man um und 50. fℓ. keinen Wein&#13;
+kaufen kön̄e, wenn gleich durch den Preiß des&#13;
+Dinkels etwas erſezt werde. Man habe früher&#13;
+40. fℓ. für den Aymer Wein erhalten, wo man&#13;
+ihn um 20. fℓ. habe kaufen kön̄en. Zugleich wün_&#13;
+ſche er, es möchte der KameralVerwaltung auf_&#13;
+gegeben werden, die Beſoldungen Zur gehö_&#13;
+rigen Zeit zu bezahlen.&#13;
+Herr Prof. Conz: Für die An̄ahme mit dem Wunſch,&#13;
+es möchte der WeinPreiß erhöht werden.&#13;
+Herr Prof. v. Gmelin. Er ſtim̄e auch für die An̄ahme;&#13;
+aber man ſollte sagen; ſo ſehr man die Verwand_&#13;
+lung der Beſoldung in Geld anerken̄e mit dank an_&#13;
+erken̄e, ſo hätte man doch gehofft, es würde der&#13;
+Wein höher angeſchlagen werden; ſo kön̄e&#13;
+man doch nicht zufrieden ſeyn.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

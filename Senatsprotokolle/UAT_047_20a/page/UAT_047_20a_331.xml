@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test2(htr_id=34541)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test1(htr_id=34347)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-25T16:22:42.234+02:00</Created>
+        <LastChange>2021-07-13T11:04:24.417+02:00</LastChange>
+        <TranskribusMetadata docId="708535" pageId="27438721" pageNr="331" tsid="61342636" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=WTQKWRUEKZCENHCBOLSYEJFN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DMXAAOXKQIHIGBXYSVQIVCZI" imageId="21292858"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_20a_331.jpg" imageWidth="5305" imageHeight="8219">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683708642792" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2628,218 2628,6149 5060,6149 5060,218"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="4844,377 4893,363 4909,379 4952,374 4977,394 5007,381 5025,383 5036,250 5012,251 4995,237 4974,242 4960,235 4919,261 4899,247 4877,264 4854,262"/>
+                <Baseline points="4866,304 4891,306 4916,309 4941,310 4966,311 4991,314 5016,318"/>
+                <TextEquiv>
+                    <Unicode>166.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2628,807 3061,837 3313,991 3559,855 3681,967 3817,863 4591,890 4757,1015 4985,919 4988,765 4669,592 4521,686 4163,628 3918,723 3594,621 3489,684 3270,626 3013,744 2631,706"/>
+                <Baseline points="2644,800 2760,805 2876,809 2993,812 3109,816 3226,820 3342,822 3458,825 3575,828 3691,830 3808,832 3924,834 4040,836 4157,838 4273,840 4390,842 4506,846 4622,848 4739,852 4855,855 4972,858"/>
+                <TextEquiv>
+                    <Unicode>Morgen Nachmittag 4. Uhr die Aeußerung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="2789,1085 3072,1142 3819,1081 4107,1180 4658,1100 5074,1183 5080,1017 4960,944 4759,1027 4301,857 3683,973 3561,888 3309,987 3135,865 2794,949"/>
+                <Baseline points="2804,1054 2916,1060 3029,1064 3142,1067 3255,1070 3368,1072 3480,1072 3593,1072 3706,1074 3819,1074 3932,1076 4044,1078 4157,1080 4270,1084 4383,1088 4496,1095 4608,1104 4721,1114 4834,1128 4947,1142 5060,1160"/>
+                <TextEquiv>
+                    <Unicode>des Herrn Oberbibliothekars zu erhalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2824,1337 3475,1388 3572,1331 3774,1403 3972,1338 4171,1455 4523,1368 4634,1452 4969,1462 4977,1207 4849,1135 4351,1300 4015,1111 3888,1199 3724,1123 3487,1204 3306,1103 2830,1159"/>
+                <Baseline points="2840,1304 2945,1310 3051,1314 3157,1318 3263,1320 3369,1323 3474,1326 3580,1328 3686,1330 3792,1334 3898,1336 4003,1338 4109,1341 4215,1344 4321,1348 4427,1352 4532,1358 4638,1362 4744,1369 4850,1376 4956,1384"/>
+                <TextEquiv>
+                    <Unicode>Sollte die gütliche Beilegung nicht ſtatt_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} textStyle {offset:15; length:1;strikethrough:true;}">
+                <Coords points="2836,1639 2988,1565 3204,1660 3302,1569 3481,1565 3847,1684 4069,1618 4933,1692 4942,1476 4802,1414 4069,1485 2847,1369"/>
+                <Baseline points="2854,1544 2957,1551 3060,1559 3164,1566 3267,1573 3371,1578 3474,1583 3577,1588 3681,1592 3784,1598 3888,1601 3991,1604 4094,1608 4198,1612 4301,1615 4405,1618 4508,1620 4611,1624 4715,1628 4818,1630 4922,1634"/>
+                <TextEquiv>
+                    <Unicode>finden, ſo ſollten ſämtliche Acten bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="2827,1808 4968,1867 4952,1674 4773,1765 4473,1765 4267,1656 4049,1746 3676,1722 3465,1574 3057,1698 2834,1636"/>
+                <Baseline points="2844,1784 2949,1791 3054,1797 3160,1803 3265,1808 3371,1814 3476,1820 3581,1824 3687,1828 3792,1832 3898,1836 4003,1840 4108,1844 4214,1847 4319,1851 4425,1854 4530,1858 4635,1860 4741,1862 4846,1866 4952,1868"/>
+                <TextEquiv>
+                    <Unicode>dem Senat circuliren und dann eine Se_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="2796,2045 4487,2129 4603,2068 4606,1991 4446,1902 4320,2012 4207,2016 3931,1871 3463,1989 3297,1836 3053,1853 2799,1967"/>
+                <Baseline points="2812,2014 2900,2018 2989,2020 3078,2024 3167,2028 3256,2032 3344,2036 3433,2040 3522,2044 3611,2049 3700,2054 3788,2058 3877,2062 3966,2066 4055,2068 4144,2072 4232,2074 4321,2076 4410,2078 4499,2080 4588,2080"/>
+                <TextEquiv>
+                    <Unicode>nats Sitzung gehalten werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="2619,2377 2924,2259 3058,2354 3335,2296 3478,2377 3601,2313 4047,2406 4271,2343 5031,2408 5042,2230 4840,2167 4595,2286 4203,2092 3811,2082 3595,2173 2925,2051 2636,2110"/>
+                <Baseline points="2644,2232 2762,2238 2881,2246 2999,2254 3118,2261 3237,2268 3355,2275 3474,2282 3592,2289 3711,2297 3830,2304 3948,2311 4067,2318 4185,2327 4304,2334 4423,2342 4541,2349 4660,2356 4778,2364 4897,2371 5016,2380"/>
+                <TextEquiv>
+                    <Unicode>3.) Ob nicht Herr Prof. Herbſt oder ein anderes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="2653,2500 2957,2592 3466,2524 3874,2614 4785,2633 4890,2603 4900,2401 4734,2459 4646,2374 4514,2445 4333,2386 4196,2457 2944,2321 2658,2391"/>
+                <Baseline points="2670,2468 2780,2480 2890,2490 3000,2501 3111,2508 3221,2517 3331,2523 3442,2530 3552,2536 3662,2540 3773,2544 3883,2548 3993,2552 4103,2556 4214,2559 4324,2562 4434,2566 4545,2570 4655,2575 4765,2580 4876,2584"/>
+                <TextEquiv>
+                    <Unicode>Mitglied des Senats, etwa Herr Prof.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="2645,2743 2831,2825 3733,2780 4000,2910 4542,2805 4860,2878 4912,2628 4296,2670 3831,2576 3655,2646 3572,2571 3268,2671 3151,2574 2795,2550 2649,2633"/>
+                <Baseline points="2662,2720 2773,2724 2884,2730 2995,2734 3107,2740 3218,2745 3329,2749 3441,2754 3552,2758 3663,2762 3775,2766 3886,2771 3997,2775 4108,2780 4220,2784 4331,2790 4442,2794 4554,2800 4665,2806 4776,2812 4888,2818"/>
+                <TextEquiv>
+                    <Unicode>Scheurlen mit dem Verſuch zur Güte beauf_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="2629,2990 2831,2993 2885,3035 3045,2985 3363,3050 3791,3036 3799,2849 3720,2831 3594,2926 3353,2800 3209,2906 3024,2788 2905,2866 2763,2777 2637,2819"/>
+                <Baseline points="2644,2960 2700,2962 2757,2964 2813,2966 2870,2969 2927,2970 2983,2972 3040,2974 3096,2977 3153,2978 3210,2980 3266,2983 3323,2985 3379,2988 3436,2989 3493,2994 3549,2997 3606,3000 3662,3005 3719,3009 3776,3014"/>
+                <TextEquiv>
+                    <Unicode>tragt werden wolle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="3318,3171 3364,3195 3424,3184 3456,3195 3490,3176 3509,3198 3553,3210 3634,3203 3677,3179 3686,3040 3634,3057 3556,3121 3498,3096 3451,3046 3326,3041"/>
+                <Baseline points="3332,3170 3357,3173 3382,3174 3407,3175 3432,3177 3458,3180 3483,3180 3508,3182 3533,3184 3559,3186 3584,3188 3609,3188 3634,3190 3660,3190"/>
+                <TextEquiv>
+                    <Unicode>Concl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="2735,3341 3059,3336 3173,3428 3473,3383 3586,3493 3851,3363 4557,3383 4964,3492 4971,3346 4851,3257 4670,3320 4523,3212 4265,3267 3286,3133 3042,3199 2893,3093 2746,3113"/>
+                <Baseline points="2752,3306 2862,3314 2972,3321 3082,3328 3192,3333 3302,3338 3412,3340 3522,3344 3632,3346 3742,3349 3852,3352 3962,3356 4072,3360 4182,3365 4292,3370 4402,3378 4512,3387 4622,3398 4732,3409 4842,3424 4952,3442"/>
+                <TextEquiv>
+                    <Unicode>Herrn Prof. Scheurlen um Uebernahme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="2739,3591 3824,3691 4130,3646 4623,3743 4950,3693 4954,3631 4748,3491 4433,3536 4221,3450 3608,3519 3473,3383 2750,3410"/>
+                <Baseline points="2756,3564 2865,3570 2974,3575 3083,3582 3192,3591 3301,3597 3410,3604 3519,3612 3628,3618 3737,3626 3846,3632 3955,3638 4064,3645 4173,3650 4282,3657 4391,3662 4500,3667 4609,3672 4718,3675 4827,3678 4936,3682"/>
+                <TextEquiv>
+                    <Unicode>dieſes Auftrags zu erſuchen, da Herr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="2753,3869 2946,3812 3101,3901 3271,3845 3651,3947 4421,3892 4741,4059 4864,4036 4881,3746 4177,3739 3944,3651 3818,3727 3517,3645 3345,3695 3154,3595 2764,3668"/>
+                <Baseline points="2772,3786 2876,3798 2980,3809 3084,3817 3188,3826 3293,3833 3397,3839 3501,3846 3605,3852 3709,3858 3814,3862 3918,3868 4022,3872 4126,3876 4230,3881 4335,3886 4439,3892 4543,3896 4647,3903 4751,3910 4856,3918"/>
+                <TextEquiv>
+                    <Unicode>Prof. Herbſt ſchon früher den Verſuch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="2798,4065 2971,4064 3080,4138 3325,4074 3511,4174 3699,4112 3828,4197 4246,4195 4263,4021 3905,3966 3702,4056 3301,3896 3109,4001 2812,3929"/>
+                <Baseline points="2816,4034 2886,4038 2957,4042 3028,4047 3099,4052 3170,4059 3241,4065 3312,4071 3383,4079 3454,4086 3525,4094 3595,4102 3666,4110 3737,4118 3808,4126 3879,4134 3950,4142 4021,4151 4092,4158 4163,4165 4234,4172"/>
+                <TextEquiv>
+                    <Unicode>vergeblich gemacht habe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="2648,4369 2750,4409 2985,4289 3298,4441 3719,4326 3974,4410 4172,4350 4329,4435 4428,4353 4982,4444 4992,4216 4664,4127 4433,4116 4219,4243 3708,4127 3436,4281 3192,4103 2658,4167"/>
+                <Baseline points="2668,4254 2783,4268 2898,4281 3013,4292 3128,4302 3243,4311 3358,4317 3473,4323 3588,4329 3703,4334 3819,4338 3934,4341 4049,4344 4164,4348 4279,4352 4394,4356 4509,4358 4624,4362 4739,4368 4854,4373 4970,4380"/>
+                <TextEquiv>
+                    <Unicode>4.) Soll die Eingabe des Herrn Prof. Mohl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="2706,4557 3045,4617 3214,4536 3575,4547 4039,4629 4563,4565 4828,4632 4881,4462 4433,4353 4294,4447 4192,4364 3929,4439 3725,4326 3296,4479 3119,4341 2971,4428 2849,4341 2710,4411"/>
+                <Baseline points="2722,4512 2829,4518 2936,4522 3043,4526 3150,4530 3257,4534 3364,4536 3471,4540 3578,4542 3685,4544 3792,4547 3899,4550 4006,4552 4113,4555 4220,4558 4327,4562 4434,4565 4541,4570 4648,4574 4755,4580 4862,4586"/>
+                <TextEquiv>
+                    <Unicode>dem Herrn Oberbibliothekar bei dieſer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;} unclear {offset:23; length:1;}">
+                <Coords points="2722,4773 2957,4760 3043,4835 3473,4777 3667,4898 3804,4809 3950,4866 4132,4794 4544,4798 4548,4709 4398,4607 4196,4678 4099,4591 4028,4644 3935,4604 3758,4724 3437,4579 3152,4659 2992,4583 2729,4619"/>
+                <Baseline points="2740,4722 2829,4729 2919,4735 3008,4740 3098,4746 3187,4750 3277,4754 3366,4758 3456,4762 3545,4766 3635,4768 3724,4772 3814,4775 3903,4778 3993,4782 4082,4786 4172,4789 4261,4794 4351,4799 4440,4804 4530,4812"/>
+                <TextEquiv>
+                    <Unicode>Gelegenheit vorgelegt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624702868082_500" custom="readingOrder {index:19;}">
+                <Coords points="3495,5007 3574,5019 3623,4998 3654,5021 3673,5011 3757,5044 3892,5020 3903,4866 3871,4864 3759,4928 3659,4909 3601,4848 3506,4850"/>
+                <Baseline points="3510,4988 3535,4990 3560,4991 3586,4995 3611,4998 3636,5001 3662,5004 3706,5008 3734,5006 3763,5007 3792,5009 3820,5010 3849,5013 3878,5016"/>
+                <TextEquiv>
+                    <Unicode>Concl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="2866,5142 3334,5173 3425,5266 3628,5212 3741,5259 3861,5193 4338,5263 4353,5053 4211,5001 4012,5133 3852,5035 3778,5071 3634,5010 3461,5099 3289,5050 3169,4941 2879,4961"/>
+                <Baseline points="2882,5124 2954,5131 3026,5135 3098,5140 3170,5144 3242,5147 3314,5151 3386,5154 3458,5158 3530,5162 3603,5166 3675,5170 3747,5174 3819,5180 3891,5186 3963,5193 4035,5201 4107,5210 4179,5219 4251,5232 4324,5244"/>
+                <TextEquiv>
+                    <Unicode>Solle vorgelegt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="2612,5438 3168,5482 3453,5666 3859,5618 3956,5706 4248,5595 4804,5601 4766,5402 4511,5471 3957,5289 3671,5362 3309,5235 2933,5359 2627,5251"/>
+                <Baseline points="2628,5422 2736,5432 2844,5441 2952,5450 3060,5458 3168,5467 3276,5475 3384,5482 3492,5491 3600,5498 3709,5508 3817,5514 3925,5524 4033,5531 4141,5540 4249,5549 4357,5559 4465,5569 4573,5580 4681,5592 4790,5604"/>
+                <TextEquiv>
+                    <Unicode>Womit dieſe Sitzung beſchloßen wurde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="3183,6007 3378,5920 3440,5948 3574,5889 3645,5908 3648,5787 3521,5751 3437,5678 3368,5727 3344,5714 3281,5739 3228,5720 3190,5728"/>
+                <Baseline points="3202,5884 3227,5886 3252,5889 3277,5891 3303,5894 3328,5896 3353,5896 3379,5898 3404,5898 3429,5900 3454,5900 3480,5900 3505,5899 3530,5898 3556,5898 3581,5897 3606,5896 3632,5894"/>
+                <TextEquiv>
+                    <Unicode>fid. t.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="3647,6105 3751,6086 3948,6196 4232,6100 4329,6140 4662,6116 4664,5950 4540,5930 4367,5984 4259,5893 4001,5901 3847,5839 3651,5904"/>
+                <Baseline points="3664,6068 3713,6079 3762,6086 3811,6093 3860,6097 3909,6101 3958,6102 4007,6104 4056,6104 4105,6104 4155,6104 4204,6102 4253,6102 4302,6100 4351,6100 4400,6099 4449,6098 4498,6099 4547,6101 4596,6103 4646,6106"/>
+                <TextEquiv>
+                    <Unicode>Dr. C.G.Waechter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>166.&#13;
+Morgen Nachmittag 4. Uhr die Aeußerung&#13;
+des Herrn Oberbibliothekars zu erhalten.&#13;
+Sollte die gütliche Beilegung nicht ſtatt_&#13;
+finden, ſo ſollten ſämtliche Acten bei&#13;
+dem Senat circuliren und dann eine Se_&#13;
+nats Sitzung gehalten werden.&#13;
+3.) Ob nicht Herr Prof. Herbſt oder ein anderes&#13;
+Mitglied des Senats, etwa Herr Prof.&#13;
+Scheurlen mit dem Verſuch zur Güte beauf_&#13;
+tragt werden wolle.&#13;
+Concl.&#13;
+Herrn Prof. Scheurlen um Uebernahme&#13;
+dieſes Auftrags zu erſuchen, da Herr&#13;
+Prof. Herbſt ſchon früher den Verſuch&#13;
+vergeblich gemacht habe.&#13;
+4.) Soll die Eingabe des Herrn Prof. Mohl&#13;
+dem Herrn Oberbibliothekar bei dieſer&#13;
+Gelegenheit vorgelegt werden.&#13;
+Concl.&#13;
+Solle vorgelegt werden.&#13;
+Womit dieſe Sitzung beſchloßen wurde.&#13;
+fid. t.&#13;
+Dr. C.G.Waechter</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

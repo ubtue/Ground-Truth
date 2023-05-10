@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test1(htr_id=34347)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-25T16:22:40.781+02:00</Created>
+        <LastChange>2021-07-13T09:00:11.625+02:00</LastChange>
+        <TranskribusMetadata docId="708535" pageId="27438125" pageNr="168" tsid="61333614" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=ZJGKGYBBFHMGDCJCNJLVTILV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CBLQBZBRGQPSEOUWRBDAQEQL" imageId="21292278"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_20a_168.jpg" imageWidth="5305" imageHeight="8219">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683708604933" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2420,590 2420,7658 5060,7658 5060,590"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="3235,764 3431,846 3524,819 3634,863 3865,806 4031,705 4131,697 4128,424 3842,405 3659,493 3563,468 3505,504 3447,470 3386,509 3232,504"/>
+                <Baseline points="3250,704 3293,704 3336,702 3379,702 3422,702 3466,702 3509,702 3552,702 3595,702 3638,702 3682,702 3725,702 3768,702 3811,702 3854,700 3898,700 3941,698 3984,697 4027,695 4070,694 4114,690"/>
+                <TextEquiv>
+                    <Unicode>beſchloſſen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2699,939 3117,1118 3512,976 3811,1107 4145,979 4913,999 4917,822 4494,733 3636,862 3127,771 3010,852 2701,842"/>
+                <Baseline points="2716,910 2825,920 2934,929 3043,936 3152,942 3261,946 3370,950 3479,952 3588,954 3697,954 3807,954 3916,956 4025,956 4134,956 4243,958 4352,959 4461,961 4570,964 4679,968 4788,974 4898,980"/>
+                <TextEquiv>
+                    <Unicode>den Chriſtian Gustav Schmid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="2648,1209 3448,1361 3984,1393 4207,1240 4486,1235 4660,1335 5001,1260 5002,980 4581,981 4291,1112 3224,1045 3124,1122 2961,1047 2649,1148"/>
+                <Baseline points="2664,1194 2780,1198 2896,1200 3012,1202 3128,1204 3244,1206 3360,1206 3476,1208 3592,1208 3708,1208 3824,1208 3940,1208 4056,1208 4172,1208 4288,1208 4404,1208 4520,1208 4636,1210 4752,1210 4868,1212 4984,1214"/>
+                <TextEquiv>
+                    <Unicode>mit jährℓ. zehen Gulden Schul‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2679,1610 2999,1501 3404,1557 3709,1483 3932,1587 4159,1478 4896,1557 5024,1524 5023,1421 4388,1277 4158,1424 2676,1347"/>
+                <Baseline points="2694,1510 2809,1508 2925,1504 3040,1500 3156,1496 3272,1492 3387,1488 3503,1484 3618,1480 3734,1476 3850,1474 3965,1472 4081,1470 4196,1470 4312,1470 4428,1472 4543,1475 4659,1479 4774,1486 4890,1492 5006,1502"/>
+                <TextEquiv>
+                    <Unicode>geld und, wen̄ er zu den academiſꝫ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="2725,1856 3116,1779 3330,1872 3546,1752 3744,1862 4360,1767 4946,1860 5029,1824 5026,1631 4699,1691 4311,1566 3465,1693 3302,1570 3015,1704 2721,1615"/>
+                <Baseline points="2740,1778 2853,1773 2967,1769 3080,1764 3194,1758 3308,1754 3421,1748 3535,1745 3648,1740 3762,1738 3876,1734 3989,1732 4103,1730 4216,1730 4330,1730 4444,1730 4557,1732 4671,1734 4784,1738 4898,1743 5012,1748"/>
+                <TextEquiv>
+                    <Unicode>Studien gelangen ſollte, zu fer‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="2661,2096 2914,2047 3231,2173 3680,2098 3858,2182 4502,2065 5063,2155 5016,1825 4436,1941 3738,1882 3495,1969 3193,1820 3029,1974 2659,1948"/>
+                <Baseline points="2676,2028 2794,2028 2913,2028 3031,2028 3150,2026 3268,2024 3387,2022 3505,2020 3624,2016 3742,2014 3861,2010 3979,2008 4098,2004 4216,2002 4335,2000 4453,1998 4572,1998 4690,1996 4809,1998 4927,1998 5046,2002"/>
+                <TextEquiv>
+                    <Unicode>nerem Genuſs aufzunehmen; je‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="2696,2408 3034,2419 3330,2314 3516,2403 3969,2269 4482,2252 4759,2377 5030,2305 5026,2135 4757,2178 4610,2085 4442,2163 4195,2080 3812,2193 3557,2135 2691,2222"/>
+                <Baseline points="2708,2318 2823,2314 2938,2310 3053,2306 3169,2302 3284,2297 3399,2292 3515,2287 3630,2283 3745,2278 3861,2274 3976,2270 4091,2268 4206,2264 4322,2262 4437,2262 4552,2260 4668,2262 4783,2262 4898,2266 5014,2270"/>
+                <TextEquiv>
+                    <Unicode>doch ſo, daſs er jene 10 f. erſt‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="2668,2656 3173,2571 3472,2675 3858,2664 4150,2552 4732,2645 5042,2578 5034,2331 3901,2486 3566,2376 3245,2488 2952,2378 2664,2511"/>
+                <Baseline points="2682,2596 2799,2594 2916,2592 3033,2588 3150,2583 3268,2578 3385,2572 3502,2565 3619,2558 3736,2553 3854,2547 3971,2542 4088,2538 4205,2534 4322,2532 4440,2532 4557,2532 4674,2535 4791,2539 4908,2547 5026,2556"/>
+                <TextEquiv>
+                    <Unicode>mals an Lichtmeſs 1828. erhalten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="2680,2963 2791,2891 2904,2900 2971,2861 3074,2905 3145,2876 3144,2741 3022,2755 2906,2701 2877,2720 2828,2708 2777,2757 2707,2725 2678,2732"/>
+                <Baseline points="2694,2856 2719,2856 2745,2854 2770,2853 2796,2852 2822,2852 2847,2852 2873,2852 2899,2852 2924,2852 2950,2852 2976,2852 3001,2852 3027,2852 3053,2852 3078,2852 3104,2850 3130,2850"/>
+                <TextEquiv>
+                    <Unicode>ſolle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="2444,3291 2706,3167 2881,3265 3210,3107 3853,3095 4292,3300 4690,3274 4853,3160 5046,3194 5044,2956 4694,3023 3523,2880 2442,3076"/>
+                <Baseline points="2460,3158 2588,3146 2717,3137 2845,3130 2974,3124 3102,3118 3231,3114 3359,3112 3488,3110 3616,3109 3745,3108 3873,3110 4002,3110 4130,3110 4259,3112 4387,3114 4516,3115 4644,3116 4773,3118 4901,3118 5030,3118"/>
+                <TextEquiv>
+                    <Unicode>4.) Auf die Bitte des Chriſtian Frie‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="2636,3427 2765,3398 3006,3548 3192,3445 3893,3404 4880,3456 4879,3260 4368,3326 4069,3188 3786,3331 3281,3204 3070,3333 2825,3250 2636,3296"/>
+                <Baseline points="2652,3384 2762,3384 2873,3384 2983,3386 3094,3386 3205,3388 3315,3388 3426,3390 3536,3392 3647,3392 3758,3394 3868,3394 3979,3394 4089,3392 4200,3392 4311,3390 4421,3386 4532,3383 4642,3378 4753,3372 4864,3366"/>
+                <TextEquiv>
+                    <Unicode>derich Majer, Kammachers,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="2628,3703 3325,3654 3862,3796 4289,3652 4537,3763 5070,3709 5069,3538 4500,3490 3977,3593 3619,3450 3333,3471 3116,3614 2627,3594"/>
+                <Baseline points="2642,3664 2762,3664 2883,3664 3003,3662 3124,3662 3245,3660 3365,3658 3486,3655 3606,3653 3727,3650 3848,3648 3968,3648 4089,3646 4209,3646 4330,3646 4451,3646 4571,3648 4692,3650 4812,3654 4933,3658 5054,3664"/>
+                <TextEquiv>
+                    <Unicode>um einen Beytrag zu Verferti‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="2679,4035 2876,4087 3279,3940 4036,4054 4407,3914 5060,3989 5058,3812 4864,3757 4692,3859 4331,3758 4004,3852 3292,3750 3105,3891 2677,3858"/>
+                <Baseline points="2694,3950 2811,3949 2928,3948 3046,3946 3163,3944 3281,3942 3398,3940 3515,3938 3633,3937 3750,3935 3868,3934 3985,3932 4102,3930 4220,3928 4337,3926 4455,3924 4572,3924 4689,3922 4807,3922 4924,3920 5042,3920"/>
+                <TextEquiv>
+                    <Unicode>gung des Meiſterſtücks aus der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="2627,4411 3125,4371 3421,4242 3999,4367 4378,4211 4799,4211 4796,4079 4241,4143 3891,3981 3757,4035 3376,3960 3099,4105 2819,4073 2622,4174"/>
+                <Baseline points="2640,4252 2747,4246 2854,4239 2961,4235 3068,4229 3176,4226 3283,4222 3390,4218 3497,4216 3604,4214 3712,4212 3819,4210 3926,4208 4033,4206 4140,4206 4248,4204 4355,4203 4462,4202 4569,4200 4676,4198 4784,4196"/>
+                <TextEquiv>
+                    <Unicode>Wolfſchen Stiftung wurde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="3216,4594 3373,4580 3533,4666 3615,4619 3745,4687 4004,4494 4162,4503 4158,4323 4024,4391 3508,4316 3268,4473 3213,4465"/>
+                <Baseline points="3230,4508 3275,4508 3321,4508 3367,4508 3413,4506 3459,4506 3504,4504 3550,4504 3596,4502 3642,4500 3688,4499 3733,4498 3779,4496 3825,4495 3871,4494 3917,4493 3962,4492 4008,4492 4054,4490 4100,4490 4146,4490"/>
+                <TextEquiv>
+                    <Unicode>beſchloſſen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="2616,4899 3483,4830 3778,4956 4083,4796 4365,4906 4798,4840 4794,4634 4678,4617 4499,4675 3967,4592 3687,4727 3495,4637 3266,4728 2888,4639 2612,4683"/>
+                <Baseline points="2630,4818 2737,4819 2845,4818 2952,4818 3060,4817 3167,4816 3275,4814 3382,4812 3490,4809 3597,4806 3705,4804 3812,4800 3920,4798 4027,4796 4135,4793 4242,4790 4350,4788 4457,4788 4565,4786 4672,4784 4780,4784"/>
+                <TextEquiv>
+                    <Unicode>demſelben den herköm̄lichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="2669,5159 3230,5238 3379,5112 4255,5203 4452,5089 5042,5178 5032,4763 4709,4967 4529,4853 4077,4893 3951,5008 3825,4950 3236,5051 2888,4912 2665,4995"/>
+                <Baseline points="2682,5090 2799,5096 2916,5100 3033,5103 3150,5104 3267,5102 3384,5100 3501,5096 3618,5091 3735,5086 3853,5081 3970,5076 4087,5070 4204,5065 4321,5061 4438,5058 4555,5056 4672,5056 4789,5058 4906,5060 5024,5066"/>
+                <TextEquiv>
+                    <Unicode>Beytrag von zehen Gulden zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="2684,5459 2854,5438 3127,5559 3307,5426 3544,5404 3540,5224 3416,5298 3190,5252 3105,5312 2880,5215 2732,5316 2680,5314"/>
+                <Baseline points="2698,5394 2739,5394 2780,5396 2822,5396 2863,5396 2905,5396 2946,5396 2987,5396 3029,5394 3070,5394 3112,5394 3153,5392 3194,5392 3236,5390 3277,5388 3319,5386 3360,5383 3401,5381 3443,5378 3484,5374 3526,5370"/>
+                <TextEquiv>
+                    <Unicode>bewilligen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="2404,5761 3930,5733 4269,5877 4502,5711 4991,5728 4988,5436 4158,5647 3552,5524 3409,5606 3302,5536 2403,5619"/>
+                <Baseline points="2420,5716 2547,5716 2675,5716 2803,5716 2930,5714 3058,5714 3186,5712 3313,5712 3441,5710 3569,5710 3697,5708 3824,5706 3952,5704 4080,5702 4207,5702 4335,5700 4463,5698 4590,5696 4718,5696 4846,5694 4974,5694"/>
+                <TextEquiv>
+                    <Unicode>5.) Auf die Bitte der Ehefrau des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="2719,6145 3075,6050 3664,6154 3975,5979 4248,5991 4354,6081 4476,6010 4961,6027 4961,5831 3309,5892 2945,5771 2717,5826"/>
+                <Baseline points="2734,5970 2844,5974 2955,5978 3065,5980 3176,5982 3287,5982 3397,5982 3508,5982 3618,5982 3729,5980 3840,5979 3950,5978 4061,5976 4171,5976 4282,5974 4393,5972 4503,5972 4614,5972 4724,5972 4835,5973 4946,5974"/>
+                <TextEquiv>
+                    <Unicode>Chriſtoph Gottfried Koſt, geb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="2729,6327 3027,6265 3144,6333 3320,6281 3544,6395 3709,6278 4031,6316 3999,6062 3858,6056 3501,6193 3294,6127 3109,6196 2972,6099 2725,6134"/>
+                <Baseline points="2744,6248 2807,6248 2871,6248 2934,6246 2998,6246 3061,6245 3125,6244 3188,6242 3252,6242 3315,6240 3379,6239 3442,6237 3506,6236 3569,6234 3633,6232 3696,6230 3760,6228 3823,6226 3887,6224 3950,6221 4014,6218"/>
+                <TextEquiv>
+                    <Unicode>Strauſs von hier,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="2688,6584 2973,6551 3201,6649 3609,6519 4748,6562 4920,6496 4912,6178 4592,6379 4482,6337 4330,6421 3881,6349 3742,6436 3375,6426 3167,6322 2685,6452"/>
+                <Baseline points="2702,6542 2812,6538 2922,6534 3032,6530 3142,6528 3252,6524 3362,6522 3472,6520 3582,6516 3692,6514 3803,6512 3913,6510 4023,6508 4133,6506 4243,6503 4353,6500 4463,6497 4573,6493 4683,6490 4793,6485 4956,6486"/>
+                <TextEquiv>
+                    <Unicode>der Regina Barbara Koſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="2670,6868 2802,6893 2907,6823 3115,6909 3327,6804 3924,6754 4356,6818 4436,6774 4432,6594 4151,6540 3827,6715 3381,6606 3241,6684 3056,6608 2666,6713"/>
+                <Baseline points="2684,6788 2770,6786 2857,6784 2944,6782 3031,6780 3118,6777 3204,6774 3291,6772 3378,6769 3465,6766 3552,6764 3638,6761 3725,6758 3812,6758 3899,6756 3986,6754 4072,6752 4159,6752 4246,6752 4333,6752 4420,6752"/>
+                <TextEquiv>
+                    <Unicode>geb. Hartmaier, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;} unclear {offset:27; length:4;}">
+                <Coords points="2637,7157 2942,7219 3199,7069 3669,7047 3935,7205 4141,7055 5076,7189 5077,6925 4386,6956 3971,6833 3675,6935 2637,6929"/>
+                <Baseline points="2652,7068 2772,7066 2892,7064 3013,7062 3133,7060 3254,7058 3374,7056 3494,7054 3615,7052 3735,7051 3856,7050 3976,7050 4096,7050 4217,7050 4337,7052 4458,7055 4578,7058 4698,7064 4819,7070 4939,7078 5060,7086"/>
+                <TextEquiv>
+                    <Unicode>der Friedericke Gottliebia Uhle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="2616,7459 3164,7355 3441,7392 3594,7508 3951,7341 4283,7357 4282,7296 3881,7210 3693,7278 3560,7207 3394,7277 3196,7162 2822,7301 2614,7311"/>
+                <Baseline points="2632,7362 2713,7364 2795,7364 2877,7364 2959,7362 3041,7360 3122,7358 3204,7354 3286,7351 3368,7348 3450,7346 3531,7342 3613,7340 3695,7338 3777,7336 3859,7336 3940,7336 4022,7338 4104,7341 4186,7345 4268,7350"/>
+                <TextEquiv>
+                    <Unicode>geb. Sauberſchwarz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="2593,7634 3222,7762 3800,7722 3959,7616 4352,7682 4560,7623 4726,7716 4921,7658 4917,7487 4587,7346 3725,7521 3489,7445 3148,7565 2592,7572"/>
+                <Baseline points="2608,7608 2722,7608 2837,7608 2952,7608 3067,7608 3182,7606 3296,7604 3411,7600 3526,7597 3641,7594 3756,7591 3870,7587 3985,7584 4100,7580 4215,7578 4330,7576 4444,7574 4559,7574 4674,7572 4789,7574 4904,7576"/>
+                <TextEquiv>
+                    <Unicode>um einen HeirathGuts=Beytrag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>beſchloſſen:&#13;
+den Chriſtian Gustav Schmid&#13;
+mit jährℓ. zehen Gulden Schul‗&#13;
+geld und, wen̄ er zu den academiſꝫ&#13;
+Studien gelangen ſollte, zu fer‗&#13;
+nerem Genuſs aufzunehmen; je‗&#13;
+doch ſo, daſs er jene 10 f. erſt‗&#13;
+mals an Lichtmeſs 1828. erhalten&#13;
+ſolle.&#13;
+4.) Auf die Bitte des Chriſtian Frie‗&#13;
+derich Majer, Kammachers,&#13;
+um einen Beytrag zu Verferti‗&#13;
+gung des Meiſterſtücks aus der&#13;
+Wolfſchen Stiftung wurde&#13;
+beſchloſſen:&#13;
+demſelben den herköm̄lichen&#13;
+Beytrag von zehen Gulden zu&#13;
+bewilligen.&#13;
+5.) Auf die Bitte der Ehefrau des&#13;
+Chriſtoph Gottfried Koſt, geb.&#13;
+Strauſs von hier,&#13;
+der Regina Barbara Koſt,&#13;
+geb. Hartmaier, und&#13;
+der Friedericke Gottliebia Uhle&#13;
+geb. Sauberſchwarz,&#13;
+um einen HeirathGuts=Beytrag</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

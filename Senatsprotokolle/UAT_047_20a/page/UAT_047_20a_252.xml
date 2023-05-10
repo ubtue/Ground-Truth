@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test1(htr_id=34347)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-25T16:22:41.563+02:00</Created>
+        <LastChange>2021-07-13T09:45:11.501+02:00</LastChange>
+        <TranskribusMetadata docId="708535" pageId="27438369" pageNr="252" tsid="61335429" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=LUNWIJJOVGAXLLYIIXLNGLAU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NPOCCSYIKRVAMNOXGXPLPVZE" imageId="21292514"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_20a_252.jpg" imageWidth="5305" imageHeight="8219">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683708623964" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1624702386798_370"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1624702386798_370" custom="readingOrder {index:0;}">
+            <Coords points="2676,658 5036,658 5036,4904 2676,4904"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2698,775 4120,884 4491,770 4874,851 4964,815 4963,659 4038,647 3652,508 3243,668 2697,716"/>
+                <Baseline points="2714,772 2825,776 2937,778 3049,780 3160,780 3272,780 3384,779 3495,778 3607,776 3719,774 3831,772 3942,769 4054,766 4166,764 4277,762 4389,760 4501,758 4612,758 4724,758 4836,758 4948,760"/>
+                <TextEquiv>
+                    <Unicode>ordentlichen Profeſſor vorge‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624702386831_373" custom="readingOrder {index:1;}">
+                <Coords points="2676,1157 2987,1169 3468,1027 4366,1031 4707,1133 4883,1071 5050,1180 5050,933 4703,881 4434,975 4166,917 3671,985 3553,901 3128,992 2675,926"/>
+                <Baseline points="2689,1060 2882,1052 3003,1048 3124,1044 3245,1040 3366,1036 3487,1032 3608,1030 3729,1028 3850,1026 3971,1026 4091,1026 4212,1026 4333,1028 4454,1032 4575,1036 4696,1042 4817,1050 4938,1058 5036,1066"/>
+                <TextEquiv>
+                    <Unicode>ſchlagen und ernan̄t werden ſollte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="2670,1361 3785,1318 4100,1426 4343,1301 4649,1412 4774,1335 4960,1384 4897,1191 4484,1248 4231,1129 3820,1265 3591,1178 2670,1252"/>
+                <Baseline points="2684,1318 2797,1323 2910,1326 3023,1326 3136,1326 3249,1324 3362,1322 3475,1319 3588,1316 3701,1312 3814,1308 3927,1306 4040,1304 4153,1302 4266,1302 4379,1304 4492,1308 4605,1314 4718,1321 4831,1332 4944,1344"/>
+                <TextEquiv>
+                    <Unicode>weder dieſer, noch Sigwart, ſon‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="2678,1673 4370,1578 4525,1669 4925,1581 4922,1420 4344,1467 4161,1403 4001,1471 3820,1374 3456,1514 3331,1428 3066,1560 2675,1488"/>
+                <Baseline points="2690,1598 2801,1605 2912,1612 3023,1614 3134,1616 3245,1616 3356,1614 3467,1612 3578,1609 3689,1604 3800,1600 3911,1595 4022,1590 4133,1586 4244,1582 4355,1579 4466,1578 4577,1577 4688,1578 4799,1581 4910,1586"/>
+                <TextEquiv>
+                    <Unicode>dern Prof. Tafel als Mitglied</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="2708,1895 3073,2055 3337,1908 3598,2023 3945,1934 4191,2026 4607,1855 4925,1896 4919,1640 4636,1723 4515,1661 4192,1797 3619,1770 3477,1856 2707,1816"/>
+                <Baseline points="2722,1882 2831,1892 2940,1900 3050,1906 3159,1908 3269,1910 3378,1910 3487,1908 3597,1904 3706,1900 3816,1895 3925,1890 4034,1884 4144,1880 4253,1875 4363,1871 4472,1868 4581,1866 4691,1866 4800,1868 4910,1870"/>
+                <TextEquiv>
+                    <Unicode>der engeren philoſophiſchen Facul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="2661,2217 2955,2229 3187,2362 3638,2341 3853,2214 4945,2226 4942,2068 4747,2001 4113,2135 3919,1995 3449,2146 3124,2176 2898,2039 2660,2141"/>
+                <Baseline points="2676,2206 2788,2212 2901,2216 3014,2218 3126,2220 3239,2220 3352,2218 3464,2216 3577,2214 3690,2210 3803,2206 3915,2203 4028,2198 4141,2195 4253,2190 4366,2188 4479,2184 4591,2182 4704,2180 4817,2180 4930,2180"/>
+                <TextEquiv>
+                    <Unicode>tät vorgeſchlagen werden ſolle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="2695,2632 2938,2601 3189,2694 3342,2576 3735,2525 4418,2622 4688,2491 4973,2486 4971,2368 4866,2429 4656,2327 3883,2420 3802,2357 2690,2391"/>
+                <Baseline points="2708,2508 2820,2512 2933,2515 3045,2516 3158,2516 3270,2514 3383,2512 3495,2508 3608,2504 3720,2501 3833,2497 3945,2494 4058,2490 4170,2486 4283,2484 4395,2482 4508,2482 4620,2482 4733,2484 4845,2489 4958,2494"/>
+                <TextEquiv>
+                    <Unicode>für den Fall, daſs dieſe nicht auf‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="2683,2969 2810,2897 3346,2849 4200,2812 4615,2871 4610,2683 4144,2720 3912,2612 3594,2701 3320,2659 3138,2744 2677,2769"/>
+                <Baseline points="2694,2834 2789,2841 2884,2846 2979,2848 3074,2848 3170,2848 3265,2846 3360,2843 3455,2838 3550,2833 3646,2828 3741,2822 3836,2817 3931,2812 4026,2808 4122,2804 4217,2802 4312,2802 4407,2804 4502,2806 4598,2812"/>
+                <TextEquiv>
+                    <Unicode>gehoben werden wollte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="2749,3225 3374,3253 3503,3371 4128,3251 4792,3341 4987,3288 4991,3144 4784,3095 4508,3211 4275,3123 3813,3182 3470,3056 3173,3160 2751,3143"/>
+                <Baseline points="2764,3208 2874,3218 2985,3226 3095,3234 3206,3238 3316,3243 3427,3246 3537,3248 3648,3250 3758,3250 3869,3252 3979,3252 4090,3254 4200,3254 4311,3256 4421,3258 4532,3262 4642,3268 4753,3273 4863,3280 4974,3290"/>
+                <TextEquiv>
+                    <Unicode>Die Berathung weiterer Fragen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="2712,3526 3416,3609 3816,3536 4266,3667 4576,3552 4893,3564 4895,3464 4394,3370 4293,3448 3952,3465 3687,3381 2714,3450"/>
+                <Baseline points="2726,3512 2833,3518 2941,3521 3048,3524 3156,3527 3264,3528 3371,3530 3479,3532 3586,3532 3694,3534 3802,3534 3909,3536 4017,3536 4124,3538 4232,3540 4340,3542 4447,3544 4555,3548 4662,3551 4770,3557 4878,3564"/>
+                <TextEquiv>
+                    <Unicode>namentℓ. über die Lehrſtelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} textStyle {offset:28; length:1;strikethrough:true;}">
+                <Coords points="2706,3935 2990,3838 3352,3938 3565,3822 4817,3921 4932,3876 4934,3782 4470,3800 3868,3619 3291,3576 3118,3720 2920,3637 2710,3692"/>
+                <Baseline points="2722,3818 2831,3820 2941,3821 3051,3822 3161,3824 3271,3824 3380,3826 3490,3826 3600,3828 3710,3830 3820,3831 3929,3833 4039,3835 4149,3838 4259,3840 4369,3842 4478,3845 4588,3848 4698,3853 4808,3858 4918,3862"/>
+                <TextEquiv>
+                    <Unicode>für deutſche Literatur wurden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="2697,4211 3198,4127 3436,4250 3753,4156 4575,4285 4932,4175 4934,4081 4728,3995 4499,4105 4250,4102 4071,3928 3593,4062 3031,3994 2701,4043"/>
+                <Baseline points="2714,4128 2824,4124 2934,4122 3044,4120 3154,4120 3265,4122 3375,4124 3485,4127 3595,4130 3705,4134 3816,4138 3926,4142 4036,4146 4146,4149 4256,4152 4367,4154 4477,4156 4587,4158 4697,4157 4807,4156 4918,4152"/>
+                <TextEquiv>
+                    <Unicode>auf die nächſte Sitzung aufge‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="2725,4506 2789,4489 2846,4520 2925,4444 3030,4420 3119,4429 3185,4468 3416,4440 3412,4331 3305,4373 3239,4322 3154,4322 3088,4283 3001,4321 2877,4298 2787,4354 2720,4362"/>
+                <Baseline points="2738,4458 2771,4453 2804,4448 2837,4444 2870,4442 2904,4438 2937,4437 2970,4435 3003,4434 3036,4434 3070,4432 3103,4432 3136,4432 3169,4432 3202,4432 3236,4432 3269,4432 3302,4432 3335,4430 3368,4430 3402,4428"/>
+                <TextEquiv>
+                    <Unicode>ſchoben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="3404,4870 3621,4917 3692,4972 3846,4882 4083,4817 4180,4870 4314,4793 4365,4808 4356,4641 4172,4612 3973,4670 3872,4593 3671,4633 3584,4593 3395,4703"/>
+                <Baseline points="3418,4854 3464,4849 3511,4844 3557,4841 3604,4838 3651,4834 3697,4832 3744,4829 3790,4827 3837,4826 3884,4823 3930,4822 3977,4820 4023,4818 4070,4815 4117,4814 4163,4811 4210,4808 4256,4804 4303,4802 4350,4796"/>
+                <TextEquiv>
+                    <Unicode>Dr. CGWaechter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ordentlichen Profeſſor vorge‗&#13;
+ſchlagen und ernan̄t werden ſollte&#13;
+weder dieſer, noch Sigwart, ſon‗&#13;
+dern Prof. Tafel als Mitglied&#13;
+der engeren philoſophiſchen Facul&#13;
+tät vorgeſchlagen werden ſolle,&#13;
+für den Fall, daſs dieſe nicht auf‗&#13;
+gehoben werden wollte.&#13;
+Die Berathung weiterer Fragen&#13;
+namentℓ. über die Lehrſtelle&#13;
+für deutſche Literatur wurden&#13;
+auf die nächſte Sitzung aufge‗&#13;
+ſchoben.&#13;
+Dr. CGWaechter.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

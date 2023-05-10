@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>UAT_047_20a_114.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-05-10T10:49:59.082+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="8219" WIDTH="5305">
+         <TopMargin HEIGHT="0" WIDTH="5305" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="8219" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="8219" WIDTH="0" VPOS="0" HPOS="5305"/>
+         <BottomMargin HEIGHT="0" WIDTH="5305" VPOS="8219" HPOS="0"/>
+         <PrintSpace HEIGHT="8219" WIDTH="5305" VPOS="0" HPOS="0">
+            <TextBlock ID="r1"
+                       HEIGHT="6950"
+                       WIDTH="2384"
+                       VPOS="572"
+                       HPOS="2572"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="2572,572 2572,7522 4956,7522 4956,572"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="2772,664 2879,671 2987,676 3094,679 3202,680 3310,682 3417,682 3525,680 3632,680 3740,678 3848,678 3955,678 4063,678 4170,680 4278,683 4386,688 4493,693 4601,703 4708,712 4816,726 4924,742"
+                         HEIGHT="400"
+                         WIDTH="2186"
+                         VPOS="417"
+                         HPOS="2757">
+                  <String ID="string_r1l1"
+                          HEIGHT="400"
+                          WIDTH="2186"
+                          VPOS="417"
+                          HPOS="2757"
+                          CONTENT="etwas thun ſolle, und ob gebeten werden"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="2816,902 2914,915 3012,925 3111,933 3209,940 3308,942 3406,946 3504,947 3603,948 3701,948 3800,946 3898,946 3996,946 4095,946 4193,946 4292,947 4390,950 4488,954 4587,960 4685,967 4784,976 4816,974"
+                         HEIGHT="356"
+                         WIDTH="2003"
+                         VPOS="696"
+                         HPOS="2799">
+                  <String ID="string_r1l2"
+                          HEIGHT="356"
+                          WIDTH="2003"
+                          VPOS="696"
+                          HPOS="2799"
+                          CONTENT="ſolle, den Senat darüber zu fragen?"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="2626,1238 2740,1247 2854,1254 2969,1261 3083,1264 3198,1269 3312,1272 3426,1274 3541,1275 3655,1276 3770,1278 3884,1278 3998,1280 4113,1284 4227,1287 4342,1292 4456,1297 4570,1304 4685,1314 4799,1324 4914,1336"
+                         HEIGHT="390"
+                         WIDTH="2325"
+                         VPOS="1031"
+                         HPOS="2609">
+                  <String ID="string_r1l3"
+                          HEIGHT="390"
+                          WIDTH="2325"
+                          VPOS="1031"
+                          HPOS="2609"
+                          CONTENT="Herr Kanzler: Es wäre zu bitten, dem Senat"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="2640,1514 2750,1517 2860,1519 2970,1522 3080,1524 3190,1526 3300,1528 3410,1530 3520,1532 3630,1534 3741,1537 3851,1540 3961,1542 4071,1546 4181,1549 4291,1553 4401,1557 4511,1562 4621,1568 4731,1575 4842,1582"
+                         HEIGHT="331"
+                         WIDTH="2237"
+                         VPOS="1337"
+                         HPOS="2624">
+                  <String ID="string_r1l4"
+                          HEIGHT="331"
+                          WIDTH="2237"
+                          VPOS="1337"
+                          HPOS="2624"
+                          CONTENT="zu erlauben, ſeine Anſicht vorlegen zu"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="2572,1732 2597,1733 2622,1734 2647,1735 2672,1736 2697,1738 2722,1740 2747,1742 2772,1745 2798,1747 2823,1750 2848,1752 2873,1753 2898,1754 2923,1754 2948,1753 2973,1752 2998,1751 3024,1746"
+                         HEIGHT="290"
+                         WIDTH="491"
+                         VPOS="1540"
+                         HPOS="2556">
+                  <String ID="string_r1l5"
+                          HEIGHT="290"
+                          WIDTH="491"
+                          VPOS="1540"
+                          HPOS="2556"
+                          CONTENT="dürfen"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="2600,1922 2649,1927 2698,1930 2747,1934 2796,1936 2846,1938 2895,1940 2944,1940 2993,1940 3042,1940 3092,1942 3141,1942 3190,1942 3239,1942 3288,1944 3338,1946 3387,1948 3436,1951 3485,1954 3534,1959 3584,1966"
+                         HEIGHT="307"
+                         WIDTH="1019"
+                         VPOS="1763"
+                         HPOS="2584">
+                  <String ID="string_r1l6"
+                          HEIGHT="307"
+                          WIDTH="1019"
+                          VPOS="1763"
+                          HPOS="2584"
+                          CONTENT="acc. Dn. Prof. Fulda."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="2624,2230 2737,2228 2850,2228 2963,2228 3076,2228 3189,2230 3302,2230 3415,2232 3528,2234 3641,2238 3754,2240 3867,2244 3980,2248 4093,2252 4206,2257 4319,2264 4432,2269 4545,2276 4658,2284 4771,2290 4884,2298"
+                         HEIGHT="389"
+                         WIDTH="2297"
+                         VPOS="1995"
+                         HPOS="2607">
+                  <String ID="string_r1l7"
+                          HEIGHT="389"
+                          WIDTH="2297"
+                          VPOS="1995"
+                          HPOS="2607"
+                          CONTENT="Herr Prof. Schrader: Er habe geglaubt, man"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="2604,2500 2718,2502 2832,2504 2947,2506 3061,2508 3176,2510 3290,2512 3404,2514 3519,2516 3633,2518 3748,2520 3862,2524 3976,2527 4091,2532 4205,2536 4320,2541 4434,2547 4548,2553 4663,2561 4777,2568 4892,2576"
+                         HEIGHT="389"
+                         WIDTH="2325"
+                         VPOS="2257"
+                         HPOS="2586">
+                  <String ID="string_r1l8"
+                          HEIGHT="389"
+                          WIDTH="2325"
+                          VPOS="2257"
+                          HPOS="2586"
+                          CONTENT="hätte ſchon früher etwas thun ſollen. Werde"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="2622,2740 2731,2744 2840,2747 2949,2750 3058,2752 3167,2756 3276,2758 3385,2761 3494,2764 3603,2766 3712,2770 3821,2772 3930,2776 4039,2778 4148,2782 4257,2787 4366,2790 4475,2794 4584,2799 4693,2804 4802,2810"
+                         HEIGHT="395"
+                         WIDTH="2213"
+                         VPOS="2519"
+                         HPOS="2608">
+                  <String ID="string_r1l9"
+                          HEIGHT="395"
+                          WIDTH="2213"
+                          VPOS="2519"
+                          HPOS="2608"
+                          CONTENT="die Univerſität verlegt, ſo müße man"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="2622,2994 2730,2994 2838,2994 2946,2994 3054,2996 3162,2998 3270,3000 3378,3002 3486,3006 3594,3010 3702,3014 3810,3020 3918,3025 4026,3030 4134,3036 4242,3042 4350,3048 4458,3054 4566,3060 4674,3067 4782,3074"
+                         HEIGHT="418"
+                         WIDTH="2202"
+                         VPOS="2780"
+                         HPOS="2604">
+                  <String ID="string_r1l10"
+                          HEIGHT="418"
+                          WIDTH="2202"
+                          VPOS="2780"
+                          HPOS="2604"
+                          CONTENT="ſich den Vorwurf machen, nichts gethan zu"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="2622,3220 2732,3224 2842,3228 2953,3232 3063,3236 3174,3240 3284,3244 3394,3248 3505,3254 3615,3258 3726,3263 3836,3269 3946,3276 4057,3282 4167,3288 4278,3296 4388,3304 4498,3314 4609,3323 4719,3333 4830,3344"
+                         HEIGHT="347"
+                         WIDTH="2242"
+                         VPOS="3029"
+                         HPOS="2607">
+                  <String ID="string_r1l11"
+                          HEIGHT="347"
+                          WIDTH="2242"
+                          VPOS="3029"
+                          HPOS="2607"
+                          CONTENT="haben. Jezt ſollte etwas geſchehen; eine"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="2648,3494 2760,3504 2872,3511 2984,3516 3096,3522 3209,3526 3321,3530 3433,3532 3545,3534 3657,3536 3770,3538 3882,3540 3994,3542 4106,3546 4218,3548 4331,3552 4443,3556 4555,3563 4667,3570 4779,3578 4892,3588"
+                         HEIGHT="371"
+                         WIDTH="2279"
+                         VPOS="3294"
+                         HPOS="2631">
+                  <String ID="string_r1l12"
+                          HEIGHT="371"
+                          WIDTH="2279"
+                          VPOS="3294"
+                          HPOS="2631"
+                          CONTENT="officielle Eingabe an das Miniſterium."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="2636,3740 2749,3748 2863,3754 2976,3760 3090,3766 3204,3772 3317,3777 3431,3782 3544,3788 3658,3792 3772,3798 3885,3802 3999,3808 4112,3812 4226,3818 4340,3824 4453,3829 4567,3835 4680,3841 4794,3848 4908,3856"
+                         HEIGHT="376"
+                         WIDTH="2308"
+                         VPOS="3572"
+                         HPOS="2620">
+                  <String ID="string_r1l13"
+                          HEIGHT="376"
+                          WIDTH="2308"
+                          VPOS="3572"
+                          HPOS="2620"
+                          CONTENT="Wenn noch verſchiedene Anſichten un_"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="2628,4030 2738,4030 2849,4032 2959,4034 3070,4036 3180,4041 3291,4046 3401,4052 3512,4058 3622,4065 3733,4072 3843,4079 3954,4085 4064,4092 4175,4101 4285,4106 4396,4112 4506,4117 4617,4122 4727,4126 4838,4128"
+                         HEIGHT="383"
+                         WIDTH="2248"
+                         VPOS="3831"
+                         HPOS="2611">
+                  <String ID="string_r1l14"
+                          HEIGHT="383"
+                          WIDTH="2248"
+                          VPOS="3831"
+                          HPOS="2611"
+                          CONTENT="ter dem Miniſterium herrſchen, ſey"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="2612,4286 2722,4290 2833,4294 2944,4296 3054,4301 3165,4304 3276,4308 3386,4312 3497,4316 3608,4320 3719,4326 3829,4330 3940,4336 4051,4340 4161,4345 4272,4351 4383,4357 4493,4363 4604,4369 4715,4376 4826,4382"
+                         HEIGHT="350"
+                         WIDTH="2253"
+                         VPOS="4095"
+                         HPOS="2597">
+                  <String ID="string_r1l15"
+                          HEIGHT="350"
+                          WIDTH="2253"
+                          VPOS="4095"
+                          HPOS="2597"
+                          CONTENT="er mit dem Antrage einverſtanden,"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="2604,4518 2718,4526 2832,4534 2947,4540 3061,4547 3176,4553 3290,4560 3404,4566 3519,4571 3633,4577 3748,4584 3862,4588 3976,4593 4091,4598 4205,4602 4320,4608 4434,4612 4548,4616 4663,4618 4777,4622 4892,4626"
+                         HEIGHT="368"
+                         WIDTH="2325"
+                         VPOS="4327"
+                         HPOS="2588">
+                  <String ID="string_r1l16"
+                          HEIGHT="368"
+                          WIDTH="2325"
+                          VPOS="4327"
+                          HPOS="2588"
+                          CONTENT="und wünſche, daß die große Beſorgniß"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="2674,4790 2732,4792 2790,4794 2848,4796 2906,4798 2964,4800 3022,4802 3080,4804 3138,4806 3196,4808 3255,4810 3313,4812 3371,4814 3429,4818 3487,4820 3545,4822 3603,4824 3661,4827 3719,4830 3777,4832 3836,4834"
+                         HEIGHT="261"
+                         WIDTH="1198"
+                         VPOS="4626"
+                         HPOS="2659">
+                  <String ID="string_r1l17"
+                          HEIGHT="261"
+                          WIDTH="1198"
+                          VPOS="4626"
+                          HPOS="2659"
+                          CONTENT="geaeußert werde."/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="2704,5058 2812,5062 2920,5066 3029,5070 3137,5074 3246,5078 3354,5082 3462,5086 3571,5090 3679,5093 3788,5098 3896,5101 4004,5104 4113,5108 4221,5112 4330,5116 4438,5120 4546,5124 4655,5127 4763,5132 4872,5136"
+                         HEIGHT="451"
+                         WIDTH="2202"
+                         VPOS="4822"
+                         HPOS="2688">
+                  <String ID="string_r1l18"
+                          HEIGHT="451"
+                          WIDTH="2202"
+                          VPOS="4822"
+                          HPOS="2688"
+                          CONTENT="Herr Prof. v. Drey. Es ſolle etwas ge_"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="2692,5328 2802,5335 2913,5340 3024,5346 3135,5351 3246,5355 3357,5360 3468,5363 3579,5366 3690,5370 3801,5374 3911,5376 4022,5380 4133,5384 4244,5387 4355,5391 4466,5395 4577,5400 4688,5404 4799,5410 4910,5416"
+                         HEIGHT="271"
+                         WIDTH="2253"
+                         VPOS="5140"
+                         HPOS="2674">
+                  <String ID="string_r1l19"
+                          HEIGHT="271"
+                          WIDTH="2253"
+                          VPOS="5140"
+                          HPOS="2674"
+                          CONTENT="ſchehen, aber nur eine Bitte an das Mini_"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="2692,5604 2805,5608 2918,5613 3031,5616 3144,5620 3258,5622 3371,5626 3484,5628 3597,5630 3710,5634 3824,5636 3937,5640 4050,5645 4163,5650 4276,5656 4390,5662 4503,5671 4616,5681 4729,5692 4842,5704 4956,5720"
+                         HEIGHT="407"
+                         WIDTH="2303"
+                         VPOS="5383"
+                         HPOS="2676">
+                  <String ID="string_r1l20"
+                          HEIGHT="407"
+                          WIDTH="2303"
+                          VPOS="5383"
+                          HPOS="2676"
+                          CONTENT="ſterium, die Gründe vorlegen zu dürfen."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="2652,5926 2759,5926 2866,5927 2973,5930 3080,5932 3188,5936 3295,5940 3402,5946 3509,5951 3616,5957 3724,5964 3831,5971 3938,5977 4045,5985 4152,5992 4260,5999 4367,6006 4474,6012 4581,6018 4688,6024 4796,6030"
+                         HEIGHT="367"
+                         WIDTH="2185"
+                         VPOS="5716"
+                         HPOS="2634">
+                  <String ID="string_r1l21"
+                          HEIGHT="367"
+                          WIDTH="2185"
+                          VPOS="5716"
+                          HPOS="2634"
+                          CONTENT="Herr Prof. Steudel. Eine Eingabe an das"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="2632,6186 2747,6197 2862,6207 2977,6214 3092,6220 3207,6226 3322,6230 3437,6234 3552,6239 3667,6242 3782,6248 3897,6252 4012,6258 4127,6266 4242,6276 4357,6286 4472,6299 4587,6314 4702,6333 4817,6353 4932,6378"
+                         HEIGHT="466"
+                         WIDTH="2344"
+                         VPOS="5998"
+                         HPOS="2614">
+                  <String ID="string_r1l22"
+                          HEIGHT="466"
+                          WIDTH="2344"
+                          VPOS="5998"
+                          HPOS="2614"
+                          CONTENT="Miniſterium, mit der Bitte um die Erlaub_"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="2660,6462 2774,6470 2888,6476 3002,6480 3116,6486 3231,6490 3345,6494 3459,6498 3573,6502 3687,6508 3802,6512 3916,6519 4030,6525 4144,6534 4258,6544 4373,6556 4487,6569 4601,6586 4715,6604 4829,6625 4944,6648"
+                         HEIGHT="415"
+                         WIDTH="2335"
+                         VPOS="6261"
+                         HPOS="2641">
+                  <String ID="string_r1l23"
+                          HEIGHT="415"
+                          WIDTH="2335"
+                          VPOS="6261"
+                          HPOS="2641"
+                          CONTENT="niß, die Rückſichten, die ſich darbieten, dem"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="2694,6694 2802,6698 2911,6704 3019,6710 3128,6715 3237,6720 3345,6726 3454,6733 3562,6740 3671,6746 3780,6752 3888,6758 3997,6766 4105,6772 4214,6780 4323,6788 4431,6795 4540,6804 4648,6812 4757,6821 4866,6830"
+                         HEIGHT="406"
+                         WIDTH="2216"
+                         VPOS="6512"
+                         HPOS="2675">
+                  <String ID="string_r1l24"
+                          HEIGHT="406"
+                          WIDTH="2216"
+                          VPOS="6512"
+                          HPOS="2675"
+                          CONTENT="Miniſterium vorleg zur Ken̄tniß des"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="2664,6912 2759,6916 2854,6920 2950,6926 3045,6930 3141,6936 3236,6942 3331,6946 3427,6951 3522,6958 3618,6965 3713,6970 3808,6977 3904,6983 3999,6988 4095,6994 4190,7001 4285,7006 4381,7010 4476,7016 4572,7020"
+                         HEIGHT="321"
+                         WIDTH="1946"
+                         VPOS="6739"
+                         HPOS="2646">
+                  <String ID="string_r1l25"
+                          HEIGHT="321"
+                          WIDTH="1946"
+                          VPOS="6739"
+                          HPOS="2646"
+                          CONTENT="Miniſterium bringen zu dürfen."/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="2760,7136 2865,7141 2970,7146 3076,7150 3181,7156 3287,7162 3392,7167 3497,7173 3603,7179 3708,7186 3814,7191 3919,7197 4024,7202 4130,7207 4235,7212 4341,7218 4446,7221 4551,7224 4657,7228 4762,7230 4868,7232"
+                         HEIGHT="324"
+                         WIDTH="2146"
+                         VPOS="6972"
+                         HPOS="2744">
+                  <String ID="string_r1l26"
+                          HEIGHT="324"
+                          WIDTH="2146"
+                          VPOS="6972"
+                          HPOS="2744"
+                          CONTENT="Ob man nicht etwas drucken laßen"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="2694,7360 2803,7366 2913,7370 3023,7376 3133,7381 3243,7387 3353,7392 3463,7398 3573,7404 3683,7410 3793,7416 3902,7421 4012,7427 4122,7433 4232,7440 4342,7446 4452,7452 4562,7458 4672,7464 4782,7470 4892,7476"
+                         HEIGHT="378"
+                         WIDTH="2240"
+                         VPOS="7189"
+                         HPOS="2675">
+                  <String ID="string_r1l27"
+                          HEIGHT="378"
+                          WIDTH="2240"
+                          VPOS="7189"
+                          HPOS="2675"
+                          CONTENT="ſollte wegen Verlegung der Univerſi_"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

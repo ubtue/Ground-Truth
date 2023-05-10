@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test1(htr_id=34347)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-25T16:22:41.563+02:00</Created>
+        <LastChange>2021-07-13T09:43:37.590+02:00</LastChange>
+        <TranskribusMetadata docId="708535" pageId="27438368" pageNr="251" tsid="61335371" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=EXUHPTCTFAVSWVJGIXCKVMBD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NHXUXEOZQULXUFEFSMDOHNCY" imageId="21292513"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_20a_251.jpg" imageWidth="5305" imageHeight="8219">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683708621441" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2512,321 2512,7586 5052,7586 5052,321"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="4784,417 4829,405 4856,433 4877,427 4889,439 4931,446 4983,444 4984,350 4969,350 4951,331 4897,343 4869,330 4860,336 4815,330 4803,342 4785,341"/>
+                <Baseline points="4800,406 4828,401 4856,401 4884,403 4912,405 4940,405 4968,402"/>
+                <TextEquiv>
+                    <Unicode>124.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2559,881 2905,945 3206,873 4281,836 4311,620 4166,630 3991,753 3830,699 3531,732 3180,608 2847,816 2557,818"/>
+                <Baseline points="2574,858 2660,856 2746,856 2833,856 2919,854 3006,852 3092,850 3178,849 3265,846 3351,844 3438,842 3524,840 3610,837 3697,834 3783,832 3870,828 3956,826 4042,822 4129,820 4215,816 4302,814"/>
+                <TextEquiv>
+                    <Unicode>wünſchenswerth wäre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="2598,1112 2909,1205 3350,1065 3555,1125 4317,1063 4689,1165 4957,1116 4957,959 4492,909 4320,997 4126,897 3999,982 3479,896 3262,984 2812,906 2597,979"/>
+                <Baseline points="2614,1070 2730,1074 2846,1076 2963,1076 3079,1076 3196,1076 3312,1074 3428,1072 3545,1069 3661,1066 3778,1064 3894,1062 4010,1060 4127,1060 4243,1060 4360,1061 4476,1064 4592,1068 4709,1073 4825,1081 4942,1092"/>
+                <TextEquiv>
+                    <Unicode>Auf die Debatte hierüber folgte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624702330598_351" custom="readingOrder {index:3;}">
+                <Coords points="2702,1307 2747,1309 2822,1364 2857,1353 2877,1365 2891,1354 2901,1365 2921,1355 2944,1364 2974,1346 3022,1352 3032,1271 2971,1267 2936,1232 2901,1240 2858,1222 2799,1233 2758,1265 2728,1240 2710,1241"/>
+                <Baseline points="2718,1304 2784,1311 2850,1320 2916,1327 2982,1336 3007,1339"/>
+                <TextEquiv>
+                    <Unicode>der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624702328931_345" custom="readingOrder {index:4;}">
+                <Coords points="3322,1388 3563,1524 3613,1496 3733,1505 3873,1549 3971,1475 4052,1482 4065,1229 4010,1244 3900,1202 3843,1239 3734,1239 3620,1170 3401,1262 3328,1252"/>
+                <Baseline points="3338,1380 3379,1385 3445,1392 3511,1397 3577,1403 3643,1408 3709,1412 3775,1414 3841,1416 3907,1416 3973,1416 4040,1414"/>
+                <TextEquiv>
+                    <Unicode>Beſchluß,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:5;}">
+                <Coords points="2683,1741 3290,1698 3759,1800 4166,1691 4713,1825 4964,1722 4964,1656 4519,1509 3423,1637 3238,1526 3048,1647 2683,1651"/>
+                <Baseline points="2698,1690 2810,1696 2923,1700 3035,1704 3148,1706 3260,1706 3373,1706 3485,1706 3598,1706 3710,1704 3823,1702 3935,1700 4048,1698 4160,1698 4273,1696 4385,1696 4498,1696 4610,1696 4723,1698 4835,1702 4948,1706"/>
+                <TextEquiv>
+                    <Unicode>jenen Wunſch gegen die Regierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:6;}">
+                <Coords points="2670,1974 3423,2104 3863,1984 4254,2076 4462,1951 4906,2043 4965,1750 4443,1918 4041,1829 3860,1914 3684,1806 3431,1937 3292,1841 3063,1924 2670,1904"/>
+                <Baseline points="2684,1954 2797,1962 2910,1968 3023,1972 3137,1976 3250,1976 3363,1978 3477,1976 3590,1974 3703,1972 3817,1970 3930,1968 4043,1965 4156,1962 4270,1961 4383,1960 4496,1960 4610,1960 4723,1962 4836,1966 4950,1972"/>
+                <TextEquiv>
+                    <Unicode>auszuſprechen u. dieſe zu bitten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:7;}">
+                <Coords points="2622,2256 3870,2323 4513,2224 5036,2317 5036,2172 4776,2076 3377,2106 3238,2179 3129,2098 2622,2114"/>
+                <Baseline points="2638,2222 2757,2232 2876,2239 2995,2244 3114,2246 3233,2246 3352,2244 3471,2242 3590,2240 3709,2236 3829,2232 3948,2228 4067,2226 4186,2224 4305,2222 4424,2222 4543,2226 4662,2230 4781,2237 4900,2248 5020,2260"/>
+                <TextEquiv>
+                    <Unicode>den Grundſatz, daſs jeder ordentliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:8;}">
+                <Coords points="2625,2602 2763,2553 3081,2644 3425,2505 4326,2586 4702,2486 5011,2535 5010,2378 4889,2328 4469,2440 3873,2320 3726,2421 3511,2369 3394,2448 2623,2382"/>
+                <Baseline points="2640,2500 2757,2504 2875,2506 2993,2506 3111,2506 3229,2506 3346,2504 3464,2502 3582,2498 3700,2496 3818,2492 3935,2490 4053,2488 4171,2486 4289,2484 4407,2484 4524,2486 4642,2488 4760,2494 4878,2499 4996,2508"/>
+                <TextEquiv>
+                    <Unicode>Profeſſor der Facultät in jeder Be‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:9;}">
+                <Coords points="2643,2924 3202,2953 3545,2782 4095,2778 4277,2889 4470,2793 4987,2802 4986,2684 4796,2740 4051,2549 3663,2718 2642,2707"/>
+                <Baseline points="2658,2796 2773,2796 2889,2794 3005,2792 3120,2790 3236,2788 3352,2784 3467,2782 3583,2778 3699,2776 3815,2772 3930,2771 4046,2770 4162,2770 4277,2770 4393,2770 4509,2774 4624,2777 4740,2782 4856,2790 4972,2798"/>
+                <TextEquiv>
+                    <Unicode>zihung auch wirkliches Mitglied von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:10;}">
+                <Coords points="2636,3082 3587,3172 3847,3049 4122,3171 4617,3208 5010,3146 5011,2865 4742,2967 3987,2920 3425,2997 3304,2927 3131,3014 2941,2944 2636,3010"/>
+                <Baseline points="2652,3054 2769,3060 2886,3064 3003,3066 3120,3066 3237,3066 3354,3064 3471,3062 3588,3060 3705,3058 3823,3055 3940,3052 4057,3051 4174,3050 4291,3052 4408,3053 4525,3056 4642,3063 4759,3071 4876,3082 4994,3094"/>
+                <TextEquiv>
+                    <Unicode>dieſer ſey, bey der philoſophiſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:11;}">
+                <Coords points="2664,3410 3544,3511 3673,3419 4063,3422 4471,3509 4929,3381 4928,3230 4677,3184 4521,3306 4285,3305 4091,3183 3285,3308 3164,3236 3053,3310 2883,3214 2662,3231"/>
+                <Baseline points="2678,3364 2789,3364 2901,3364 3013,3366 3125,3366 3237,3366 3348,3365 3460,3364 3572,3364 3684,3364 3796,3362 3907,3360 4019,3360 4131,3358 4243,3356 4355,3355 4466,3354 4578,3352 4690,3350 4802,3348 4914,3346"/>
+                <TextEquiv>
+                    <Unicode>Facultät jetzt ſchon einzuführen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:12;}">
+                <Coords points="2629,3658 3207,3762 4155,3661 4587,3760 5028,3675 5027,3524 4803,3583 4247,3506 4127,3579 3926,3475 3764,3555 3585,3487 3223,3593 2969,3522 2628,3592"/>
+                <Baseline points="2644,3648 2762,3650 2880,3652 2999,3654 3117,3654 3236,3652 3354,3652 3472,3650 3591,3648 3709,3646 3828,3644 3946,3642 4064,3640 4183,3638 4301,3636 4420,3636 4538,3636 4656,3636 4775,3638 4893,3640 5012,3644"/>
+                <TextEquiv>
+                    <Unicode>mit Aufhebung der alten engeren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:13;}">
+                <Coords points="2495,4039 2654,4089 2865,3972 3097,4002 3152,3967 3454,3978 3456,3833 3254,3778 3056,3884 2888,3788 2800,3838 2497,3881"/>
+                <Baseline points="2512,3930 2558,3934 2604,3936 2651,3940 2697,3942 2744,3944 2790,3946 2836,3948 2883,3950 2929,3950 2976,3952 3022,3952 3068,3952 3115,3952 3161,3952 3208,3952 3254,3950 3300,3950 3347,3948 3393,3946 3440,3944"/>
+                <TextEquiv>
+                    <Unicode>phil. Facultät.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:14;}">
+                <Coords points="2622,4274 3713,4377 3894,4314 4196,4420 4616,4270 5066,4323 5067,4208 4780,4059 3949,4084 3752,4177 3375,4067 3003,4160 2623,4123"/>
+                <Baseline points="2636,4224 2756,4237 2877,4246 2998,4254 3119,4260 3240,4264 3360,4266 3481,4268 3602,4268 3723,4266 3844,4264 3964,4263 4085,4260 4206,4258 4327,4256 4448,4254 4568,4254 4689,4254 4810,4254 4931,4256 5052,4260"/>
+                <TextEquiv>
+                    <Unicode>Die Frage, ob Hℓ. Prof. Haug der Regie‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:15;}">
+                <Coords points="2629,4553 2874,4632 3206,4536 3804,4636 4390,4513 4644,4646 4952,4595 4952,4387 4457,4368 4348,4453 4149,4398 3970,4476 3454,4340 3218,4481 2629,4432"/>
+                <Baseline points="2644,4504 2758,4508 2873,4512 2987,4516 3102,4518 3217,4518 3331,4518 3446,4518 3560,4518 3675,4516 3790,4516 3904,4514 4019,4513 4133,4512 4248,4512 4363,4512 4477,4512 4592,4514 4706,4516 4821,4519 4936,4524"/>
+                <TextEquiv>
+                    <Unicode>rung zu Anſtellung als ordentlicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:16;}">
+                <Coords points="2652,4863 2833,4816 3039,4915 3395,4815 3619,4938 4259,4791 4496,4937 4769,4790 4969,4861 4968,4674 4723,4615 4567,4737 4367,4742 4210,4664 2650,4646"/>
+                <Baseline points="2666,4784 2780,4792 2894,4796 3009,4800 3123,4802 3238,4802 3352,4802 3466,4800 3581,4798 3695,4794 3810,4792 3924,4788 4038,4786 4153,4783 4267,4782 4382,4780 4496,4780 4610,4782 4725,4785 4839,4791 4954,4798"/>
+                <TextEquiv>
+                    <Unicode>Profeſſor der Geſchichte empfohlen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:17;}">
+                <Coords points="2625,5127 4906,5102 5020,5067 5018,4928 4585,4901 4285,5024 3966,4920 3750,5026 3552,4896 3180,4916 2977,5025 2623,5000"/>
+                <Baseline points="2640,5074 2758,5077 2876,5080 2994,5080 3113,5080 3231,5079 3349,5078 3468,5074 3586,5072 3704,5069 3823,5066 3941,5062 4059,5058 4177,5056 4296,5054 4414,5052 4532,5052 4651,5052 4769,5052 4887,5054 5006,5058"/>
+                <TextEquiv>
+                    <Unicode>werden ſolle, wurde durch Mehrheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:18;}">
+                <Coords points="2654,5386 3349,5387 3602,5505 4028,5372 4436,5518 4905,5410 4905,5271 4092,5158 3705,5173 3436,5305 3116,5205 2654,5296"/>
+                <Baseline points="2668,5358 2779,5360 2890,5360 3001,5360 3112,5360 3223,5360 3334,5358 3445,5358 3556,5358 3667,5356 3778,5356 3889,5356 4000,5354 4111,5354 4222,5356 4333,5356 4444,5358 4555,5360 4666,5362 4777,5366 4888,5370"/>
+                <TextEquiv>
+                    <Unicode>der Stim̄en bejahend entſchieden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:19;}">
+                <Coords points="2613,5702 2769,5663 3067,5734 3247,5652 3735,5783 3976,5731 3973,5522 3844,5597 3632,5591 3501,5512 3185,5608 2979,5545 2611,5584"/>
+                <Baseline points="2628,5664 2694,5662 2761,5660 2827,5660 2894,5658 2961,5656 3027,5656 3094,5654 3160,5654 3227,5652 3294,5652 3360,5651 3427,5650 3493,5649 3560,5648 3626,5646 3693,5646 3760,5644 3826,5643 3893,5642 3960,5640"/>
+                <TextEquiv>
+                    <Unicode>dabey aber noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:20;}">
+                <Coords points="3344,5954 3510,6051 3686,5986 3812,6053 3960,5996 4048,5915 4151,5922 4152,5704 3786,5793 3548,5725 3472,5782 3345,5800"/>
+                <Baseline points="3360,5890 3398,5896 3437,5900 3476,5903 3515,5906 3554,5906 3592,5908 3631,5908 3670,5908 3709,5907 3748,5906 3786,5904 3825,5904 3864,5903 3903,5902 3942,5902 3980,5902 4019,5904 4058,5904 4097,5906 4136,5910"/>
+                <TextEquiv>
+                    <Unicode>beſchloſſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:21;}">
+                <Coords points="2668,6200 2867,6289 3254,6237 3383,6325 3701,6318 3974,6187 4447,6314 4801,6205 5003,6270 5004,6131 4691,6020 4530,6137 4072,5998 2669,6124"/>
+                <Baseline points="2684,6182 2799,6184 2914,6186 3029,6188 3144,6188 3260,6190 3375,6190 3490,6190 3605,6190 3720,6190 3836,6188 3951,6188 4066,6190 4181,6190 4296,6190 4412,6192 4527,6194 4642,6196 4757,6200 4872,6204 4988,6208"/>
+                <TextEquiv>
+                    <Unicode>daſs die phil. Facultät aufgefor‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:22;}">
+                <Coords points="2662,6484 3248,6481 3532,6624 3870,6544 4112,6609 4411,6462 4704,6542 5021,6492 5048,6347 4739,6261 4422,6384 4011,6271 3552,6283 3265,6399 3099,6318 2927,6428 2661,6372"/>
+                <Baseline points="2676,6446 2793,6458 2911,6467 3029,6472 3147,6476 3265,6478 3383,6476 3501,6475 3619,6472 3737,6468 3855,6464 3972,6460 4090,6456 4208,6454 4326,6452 4444,6450 4562,6452 4680,6454 4798,6459 4916,6467 5034,6478"/>
+                <TextEquiv>
+                    <Unicode>dert werden ſolle, ſich noch beſtim̄=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624702350790_360" custom="readingOrder {index:23;}">
+                <Coords points="2618,6771 2660,6771 2705,6799 2748,6788 2786,6813 2823,6807 2850,6835 2902,6796 2935,6800 2936,6740 2911,6739 2879,6711 2839,6720 2791,6695 2761,6707 2719,6667 2680,6684 2619,6671"/>
+                <Baseline points="2634,6756 2743,6758 2853,6760 2921,6760"/>
+                <TextEquiv>
+                    <Unicode>ter,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:24;}">
+                <Coords points="2636,6603 2793,6606 2837,6644 2896,6615 2976,6661 3047,6621 3197,6638 3243,6610 3291,6620 3295,6515 3105,6496 3078,6516 3036,6493 2901,6546 2807,6485 2727,6513 2640,6500"/>
+                <Baseline points="2652,6590 2683,6592 2714,6594 2745,6596 2777,6598 2808,6599 2839,6601 2871,6603 2902,6605 2933,6606 2965,6608 2996,6609 3027,6610 3058,6612 3090,6612 3121,6612 3152,6612 3184,6612 3215,6612 3246,6610 3278,6610"/>
+                <TextEquiv>
+                    <Unicode>u. genauer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624702350790_359" custom="readingOrder {index:25;}">
+                <Coords points="2907,6784 3299,6804 3496,6912 3867,6784 4363,6843 4840,6750 4839,6596 4233,6716 3963,6563 3371,6659 2906,6648"/>
+                <Baseline points="2921,6760 2962,6761 3072,6762 3181,6762 3291,6762 3400,6762 3510,6762 3619,6762 3729,6760 3838,6760 3948,6760 4057,6758 4167,6758 4276,6758 4386,6756 4495,6756 4605,6756 4714,6758 4824,6758"/>
+                <TextEquiv>
+                    <Unicode>über denſelben zu äußern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:26;}">
+                <Coords points="2651,7188 2929,7125 3089,7202 3337,7091 3676,7086 3938,7159 4392,7122 4392,7013 3918,6999 3674,6886 3226,7018 2945,6929 2652,7028"/>
+                <Baseline points="2666,7074 2751,7080 2837,7084 2922,7088 3008,7090 3094,7092 3179,7092 3265,7092 3350,7092 3436,7091 3522,7090 3607,7089 3693,7088 3778,7088 3864,7086 3950,7086 4035,7088 4121,7088 4206,7090 4292,7094 4378,7098"/>
+                <TextEquiv>
+                    <Unicode>Zuletzt kam noch der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:27;}">
+                <Coords points="3395,7303 3511,7288 3636,7374 3789,7340 3957,7379 4029,7337 4106,7360 4115,7185 3994,7254 3923,7214 3846,7240 3795,7186 3719,7191 3649,7144 3527,7217 3400,7216"/>
+                <Baseline points="3412,7278 3446,7280 3480,7282 3514,7284 3548,7285 3582,7288 3616,7288 3650,7291 3684,7293 3718,7295 3753,7297 3787,7298 3821,7300 3855,7303 3889,7304 3923,7306 3957,7308 3991,7310 4025,7310 4059,7312 4094,7314"/>
+                <TextEquiv>
+                    <Unicode>Beſchluſs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:28;}">
+                <Coords points="2626,7627 2790,7667 3078,7552 3650,7623 3978,7541 4210,7648 4973,7588 4970,7437 4383,7385 4222,7482 3005,7396 2624,7504"/>
+                <Baseline points="2640,7532 2755,7539 2871,7543 2987,7546 3103,7546 3219,7546 3335,7544 3451,7541 3567,7538 3683,7534 3799,7530 3914,7525 4030,7520 4146,7516 4262,7513 4378,7510 4494,7508 4610,7508 4726,7510 4842,7512 4958,7516"/>
+                <TextEquiv>
+                    <Unicode>zu Stande, daſs, wen̄ auch Haug zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>124.&#13;
+wünſchenswerth wäre.&#13;
+Auf die Debatte hierüber folgte&#13;
+der&#13;
+Beſchluß,&#13;
+jenen Wunſch gegen die Regierung&#13;
+auszuſprechen u. dieſe zu bitten,&#13;
+den Grundſatz, daſs jeder ordentliche&#13;
+Profeſſor der Facultät in jeder Be‗&#13;
+zihung auch wirkliches Mitglied von&#13;
+dieſer ſey, bey der philoſophiſchen&#13;
+Facultät jetzt ſchon einzuführen&#13;
+mit Aufhebung der alten engeren&#13;
+phil. Facultät.&#13;
+Die Frage, ob Hℓ. Prof. Haug der Regie‗&#13;
+rung zu Anſtellung als ordentlicher&#13;
+Profeſſor der Geſchichte empfohlen&#13;
+werden ſolle, wurde durch Mehrheit&#13;
+der Stim̄en bejahend entſchieden,&#13;
+dabey aber noch&#13;
+beſchloſſen&#13;
+daſs die phil. Facultät aufgefor‗&#13;
+dert werden ſolle, ſich noch beſtim̄=&#13;
+ter,&#13;
+u. genauer&#13;
+über denſelben zu äußern.&#13;
+Zuletzt kam noch der&#13;
+Beſchluſs&#13;
+zu Stande, daſs, wen̄ auch Haug zum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
