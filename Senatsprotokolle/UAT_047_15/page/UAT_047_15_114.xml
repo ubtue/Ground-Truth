@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_Tuebingen_Test2(htr_id=34541)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-25T18:03:16.420+02:00</Created>
+        <LastChange>2021-07-22T11:41:36.103+02:00</LastChange>
+        <TranskribusMetadata docId="708603" pageId="27440755" pageNr="114" tsid="61744496" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=WVHINIECOKHDQDKBPSXAHHIO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SCRIJYSQBHPJLVMVWSPTWZHV" imageId="21294852"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_15_114.jpg" imageWidth="5692" imageHeight="9032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683708068071" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="772,783 772,8192 5416,8192 5416,783"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="992,924 5309,949 5387,620 4252,690 3947,571 3106,736 995,606"/>
+                <Baseline points="1020,856 1236,862 1453,866 1670,868 1887,870 2104,870 2320,870 2537,870 2754,868 2971,868 3188,868 3404,868 3621,868 3838,870 4055,872 4272,878 4488,884 4705,891 4922,901 5139,915 5356,930"/>
+                <TextEquiv>
+                    <Unicode>billige Preiße machen müßen, allein man müſte eben auch am allgemeinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1008,1103 5371,1133 5021,908 1011,918"/>
+                <Baseline points="1036,1074 1251,1071 1466,1068 1681,1066 1896,1066 2112,1066 2327,1066 2542,1066 2757,1068 2972,1070 3188,1074 3403,1076 3618,1080 3833,1085 4048,1090 4264,1097 4479,1104 4694,1112 4909,1120 5124,1129 5340,1138"/>
+                <TextEquiv>
+                    <Unicode>Schaden leiden. Man kön̄te 150. Schℓ. Dinckel und 150. Schℓ. Haber im Preiß à 5. fℓ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1033,1368 2736,1256 5384,1417 5390,1104 4878,1222 1038,1108"/>
+                <Baseline points="1066,1278 1280,1276 1495,1274 1709,1272 1924,1272 2138,1272 2353,1274 2567,1276 2782,1278 2996,1282 3211,1284 3425,1290 3640,1296 3854,1300 4069,1308 4283,1314 4498,1322 4712,1331 4927,1340 5141,1348 5356,1358"/>
+                <TextEquiv>
+                    <Unicode>ꝑ Schℓ. abgeben, nur beſorge Er dieſer Preiß werde nicht angenom̄en, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="994,1591 2698,1474 3024,1621 3212,1509 5385,1669 5389,1473 4781,1482 4473,1313 2948,1405 2738,1255 997,1424"/>
+                <Baseline points="1026,1486 1242,1484 1459,1484 1675,1484 1892,1486 2108,1488 2325,1490 2541,1494 2758,1498 2974,1504 3191,1510 3407,1516 3624,1522 3840,1528 4057,1536 4273,1542 4490,1550 4706,1556 4923,1563 5139,1569 5356,1574"/>
+                <TextEquiv>
+                    <Unicode>man werde den angebottenen Preiß an̄ehmen müßen; dann wäre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1045,1730 3234,1712 3380,1839 5387,1914 5172,1577 4786,1681 4252,1536 4000,1661 3292,1512 3010,1642 2691,1481 1383,1462 1050,1568"/>
+                <Baseline points="1074,1716 1288,1714 1502,1712 1716,1710 1931,1710 2145,1712 2359,1714 2574,1718 2788,1722 3002,1728 3217,1735 3431,1743 3645,1752 3859,1762 4074,1771 4288,1783 4502,1794 4717,1806 4931,1820 5145,1834 5360,1848"/>
+                <TextEquiv>
+                    <Unicode>auf baar Geld oder auf Verzin̄ßung des Kauffſchillings anzutragen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1074,2055 3219,1968 3360,2088 4191,2005 4775,2203 4971,2041 5374,2124 5380,1916 5182,1973 4973,1804 4200,1907 3233,1713 2580,1866 2064,1699 1084,1748"/>
+                <Baseline points="1110,1934 1321,1936 1533,1938 1745,1940 1957,1942 2169,1946 2380,1948 2592,1952 2804,1956 3016,1960 3228,1966 3439,1972 3651,1979 3863,1988 4075,1998 4287,2007 4498,2019 4710,2034 4922,2047 5134,2065 5346,2082"/>
+                <TextEquiv>
+                    <Unicode>Jn Anſehung des Verkauffs der Früchte, werde es ſicherer ſeyn, nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1077,2262 3273,2179 3801,2334 4458,2244 4622,2383 4886,2258 5153,2434 5381,2336 5386,2169 4974,2040 4778,2202 4414,2162 3829,1982 3484,2099 3210,1974 1083,2048"/>
+                <Baseline points="1106,2156 1318,2158 1530,2159 1743,2160 1955,2162 2168,2164 2380,2168 2592,2170 2805,2174 3017,2179 3230,2184 3442,2191 3654,2198 3867,2206 4079,2216 4292,2226 4504,2237 4716,2250 4929,2264 5141,2279 5354,2296"/>
+                <TextEquiv>
+                    <Unicode>zu verkauffen, um bei einer etwaigen Requiſition noch geben zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1080,2460 2490,2389 3033,2565 3887,2486 4115,2605 4997,2538 5006,2296 4609,2385 4428,2263 3800,2333 2469,2168 1088,2246"/>
+                <Baseline points="1112,2360 1304,2363 1497,2366 1690,2370 1883,2374 2076,2380 2269,2385 2462,2392 2655,2399 2848,2406 3041,2414 3233,2421 3426,2429 3619,2438 3812,2446 4005,2454 4198,2462 4391,2470 4584,2477 4777,2485 4970,2492"/>
+                <TextEquiv>
+                    <Unicode>kön̄en und nicht um hohe Preiſe Früchte kauffen zu müßen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="961,2636 1159,2566 1684,2649 2235,2606 2389,2679 2634,2616 2856,2767 3323,2623 3326,2507 2856,2553 2484,2392 1844,2503 1587,2380 1345,2351 1139,2444 967,2387"/>
+                <Baseline points="992,2590 1107,2588 1222,2586 1337,2584 1452,2586 1567,2586 1682,2589 1797,2592 1912,2594 2027,2598 2143,2602 2258,2606 2373,2610 2488,2615 2603,2619 2718,2622 2833,2627 2948,2630 3063,2634 3178,2636 3294,2638"/>
+                <TextEquiv>
+                    <Unicode>Dn. Prof. Roesler et Abel cum major:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} gap {offset:70; length:0;}">
+                <Coords points="1004,2866 5130,2929 5396,3111 5351,2613 3262,2593 2854,2770 2638,2613 2217,2751 1011,2629"/>
+                <Baseline points="1036,2806 1252,2808 1469,2811 1686,2814 1903,2816 2120,2820 2336,2822 2553,2826 2770,2830 2987,2834 3204,2840 3420,2845 3637,2852 3854,2859 4071,2868 4288,2877 4504,2888 4721,2901 4938,2913 5155,2929 5372,2946"/>
+                <TextEquiv>
+                    <Unicode>Dn. Prof. Schott. acc. mit der Bemerkung, daß es auf den Sindelfinger </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1083,3102 2965,3098 3122,3248 3706,3104 4002,3252 5115,3189 5187,2937 1090,2877"/>
+                <Baseline points="1114,3012 1316,3019 1518,3025 1720,3031 1922,3037 2124,3043 2326,3048 2528,3053 2730,3058 2932,3063 3134,3068 3336,3074 3538,3080 3740,3086 3942,3093 4144,3100 4346,3109 4548,3118 4750,3129 4952,3139 5154,3152"/>
+                <TextEquiv>
+                    <Unicode>ankom̄en werde, daß ſolcher den Fall der Noth zu jügiren wiße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="739,3386 2323,3321 2951,3534 3142,3392 4375,3410 5022,3572 5396,3501 5406,3276 2118,3092 1695,3248 754,3039"/>
+                <Baseline points="772,3274 1001,3284 1231,3293 1461,3302 1691,3311 1921,3319 2150,3328 2380,3336 2610,3346 2840,3354 3070,3364 3299,3374 3529,3384 3759,3394 3989,3405 4219,3416 4448,3428 4678,3440 4908,3453 5138,3467 5368,3482"/>
+                <TextEquiv>
+                    <Unicode>Es würde in einigen Votis venerandis geäußert, ob nicht Herr Syndicus heute</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="745,3549 4614,3706 5289,3874 5427,3545 3158,3394 2954,3535 2061,3309 753,3399"/>
+                <Baseline points="776,3492 1006,3502 1237,3511 1467,3522 1698,3531 1929,3542 2159,3552 2390,3563 2620,3574 2851,3584 3082,3596 3312,3607 3543,3619 3773,3632 4004,3644 4235,3658 4465,3671 4696,3686 4926,3701 5157,3716 5388,3732"/>
+                <TextEquiv>
+                    <Unicode>noch abgeſchickt werden ſollte um in Sindelfingen ſelbſt das nöthige zu beſor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="744,3861 1269,3769 1536,3885 2294,3785 2618,3910 3057,3825 3227,3896 3277,3690 2789,3587 2629,3679 1983,3609 1407,3665 1267,3560 754,3636"/>
+                <Baseline points="778,3742 901,3740 1024,3740 1147,3742 1270,3746 1393,3748 1516,3753 1639,3757 1762,3764 1885,3770 2009,3776 2132,3783 2255,3790 2378,3797 2501,3804 2624,3810 2747,3816 2870,3822 2993,3828 3116,3830 3240,3834"/>
+                <TextEquiv>
+                    <Unicode>gen, allein majora waren nicht dafür.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="781,4404 5385,4543 5436,4162 3067,4207 1567,4020 788,4137"/>
+                <Baseline points="812,4320 1041,4324 1270,4330 1500,4334 1729,4338 1959,4343 2188,4348 2417,4352 2647,4358 2876,4364 3106,4369 3335,4376 3564,4382 3794,4390 4023,4396 4253,4404 4482,4413 4711,4422 4941,4431 5170,4442 5400,4452"/>
+                <TextEquiv>
+                    <Unicode>ad pct. 7.) Den U.bericht auf das wegen das Storriſche NaturalienCabinet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="1289,4610 4683,4736 5089,4705 5098,4473 4505,4521 4232,4401 4036,4532 2670,4366 2364,4505 1294,4472"/>
+                <Baseline points="1318,4536 1505,4540 1692,4545 1879,4550 2066,4556 2254,4562 2441,4569 2628,4575 2815,4582 3002,4589 3190,4597 3377,4604 3564,4610 3751,4618 3938,4626 4126,4633 4313,4640 4500,4648 4687,4656 4874,4663 5062,4670"/>
+                <TextEquiv>
+                    <Unicode>ergangene gn. Reſcript. dd. 12 et pr. 19. huj. betreffend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;} textStyle {offset:23; length:1;strikethrough:true;} unclear {offset:23; length:1;}">
+                <Coords points="748,4878 4775,4951 5424,5101 5287,4715 4529,4873 4224,4660 2889,4595 2559,4763 2207,4565 1963,4753 1270,4520 758,4607"/>
+                <Baseline points="778,4840 1009,4842 1240,4844 1471,4848 1702,4852 1933,4856 2164,4862 2395,4868 2626,4874 2857,4882 3089,4889 3320,4898 3551,4908 3782,4916 4013,4927 4244,4939 4475,4950 4706,4962 4937,4975 5168,4989 5400,5002"/>
+                <TextEquiv>
+                    <Unicode>Dn D. Uhland. Man kön̄en auf die Storriſche Erklärung noch nicht berich_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="1194,5200 1608,5135 1852,5260 2426,5097 5435,5283 5442,5104 4771,4950 4471,5066 3406,4898 3059,5035 2487,4862 1207,4870"/>
+                <Baseline points="1228,5080 1437,5086 1646,5092 1855,5098 2064,5102 2273,5108 2482,5113 2691,5118 2900,5123 3109,5129 3318,5136 3527,5143 3736,5152 3945,5161 4154,5170 4363,5181 4572,5193 4781,5208 4990,5222 5199,5240 5408,5258"/>
+                <TextEquiv>
+                    <Unicode>ten, daß alles in den vorigen Stand geſezt wäre, und mußte alſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="1167,5326 3817,5393 4082,5566 4244,5439 4544,5450 4552,5259 3532,5127 3317,5287 2905,5312 2427,5096 1172,5193"/>
+                <Baseline points="1198,5312 1363,5314 1529,5318 1695,5322 1861,5326 2027,5332 2192,5338 2358,5345 2524,5352 2690,5360 2856,5368 3021,5375 3187,5382 3353,5389 3519,5396 3685,5403 3850,5410 4016,5414 4182,5418 4348,5422 4514,5424"/>
+                <TextEquiv>
+                    <Unicode>eine beſtim̄tere Erklärung von Dn D. Storr haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="739,5597 5341,5777 5441,5433 5104,5624 4699,5458 4075,5563 3821,5397 750,5291"/>
+                <Baseline points="772,5556 1003,5558 1234,5562 1466,5566 1697,5570 1929,5576 2160,5582 2391,5588 2623,5596 2854,5605 3086,5613 3317,5622 3548,5632 3780,5642 4011,5653 4243,5664 4474,5674 4705,5686 4937,5696 5168,5707 5400,5720"/>
+                <TextEquiv>
+                    <Unicode>Dn D. Flatt. Solange Dn D. Storr kranck ſeye, kön̄e ihm nicht zugemuthet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="1138,5890 4096,5901 4823,6119 5432,5956 5439,5748 5221,5699 4870,5785 3614,5617 3401,5754 1150,5566"/>
+                <Baseline points="1172,5818 1383,5818 1594,5820 1806,5822 2017,5826 2229,5832 2440,5839 2651,5845 2863,5853 3074,5862 3286,5870 3497,5880 3708,5890 3920,5900 4131,5908 4343,5918 4554,5927 4765,5935 4977,5943 5188,5950 5400,5956"/>
+                <TextEquiv>
+                    <Unicode>werden zu leſen. Kielm. werde Botanik fortleſen: pro futuro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="1104,6115 5416,6305 5429,5958 4780,6125 4094,5902 3893,6016 3608,5901 2909,6009 2418,5822 1722,5993 1111,5924"/>
+                <Baseline points="1132,6068 1344,6068 1557,6072 1770,6074 1983,6078 2196,6084 2408,6088 2621,6094 2834,6100 3047,6108 3260,6116 3472,6124 3685,6133 3898,6143 4111,6153 4324,6163 4536,6174 4749,6186 4962,6198 5175,6210 5388,6224"/>
+                <TextEquiv>
+                    <Unicode>aber wäre von Dn D. Storr eine categoriſche Erklärung zu ver_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624818413526_550" custom="readingOrder {index:22;}">
+                <Coords points="1129,6370 1280,6322 1445,6441 1586,6352 1741,6402 2426,6343 2830,6376 3076,6486 3082,6266 2738,6096 2574,6202 2284,6207 1923,6076 1752,6205 1382,6191 1268,6084 1135,6093"/>
+                <Baseline points="1156,6318 1367,6318 1579,6320 1791,6322 2003,6326 2215,6332 2427,6338 2639,6345 2851,6354 3048,6361"/>
+                <TextEquiv>
+                    <Unicode>langen, ob er in Zukunſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624902267474_70" custom="readingOrder {index:23;}">
+                <Coords points="3079,6126 3628,6146 3661,6183 3780,6126 3829,6170 3895,6139 3949,6201 4069,6133 4194,6175 4266,6139 4253,6353 4187,6378 4133,6322 3912,6332 3835,6263 3602,6278 3456,6210 3291,6339 3116,6276 3079,6300"/>
+                <Baseline points="3079,6213 3108,6215 3170,6218 3232,6221 3295,6224 3357,6229 3419,6232 3481,6236 3543,6240 3606,6245 3668,6249 3730,6252 3792,6256 3854,6261 3917,6265 3979,6270 4041,6274 4103,6276 4165,6280 4320,6289"/>
+                <TextEquiv>
+                    <Unicode>wann er wieder geſund,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1624818413525_549" custom="readingOrder {index:24;}">
+                <Coords points="3019,6347 3171,6424 3885,6405 4019,6510 4347,6439 4488,6521 5421,6513 5432,6270 5326,6311 5151,6205 4989,6324 4661,6170 4206,6357 3459,6211 3022,6278"/>
+                <Baseline points="3048,6361 3063,6362 3275,6370 3486,6380 3698,6391 3910,6400 4122,6410 4334,6421 4546,6431 4758,6441 4970,6451 5182,6461 5394,6470"/>
+                <TextEquiv>
+                    <Unicode>und zwar vom nächſten Winter an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:25;}">
+                <Coords points="1176,6584 1750,6566 2056,6741 2508,6596 2746,6716 2988,6604 3846,6719 4514,6664 4401,6445 4017,6511 3362,6369 3062,6491 2043,6340 1390,6442 1187,6318"/>
+                <Baseline points="1208,6544 1371,6548 1535,6552 1699,6556 1863,6562 2027,6568 2190,6574 2354,6581 2518,6588 2682,6594 2846,6603 3009,6609 3173,6616 3337,6625 3501,6632 3665,6638 3828,6644 3992,6650 4156,6654 4320,6658 4484,6662"/>
+                <TextEquiv>
+                    <Unicode>ſeine gewöhnℓ. Vorleſungen wieder halten wolle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:26;}">
+                <Coords points="818,6904 1266,6840 1473,7021 1711,6851 2545,6841 4101,7056 4886,6964 5182,7108 5408,7082 5421,6753 3776,6749 3556,6607 2108,6773 1756,6574 1400,6654 833,6488"/>
+                <Baseline points="848,6828 1074,6828 1301,6830 1528,6832 1755,6836 1982,6842 2208,6848 2435,6856 2662,6864 2889,6873 3116,6882 3342,6892 3569,6902 3796,6913 4023,6924 4250,6934 4476,6945 4703,6956 4930,6964 5157,6974 5384,6982"/>
+                <TextEquiv>
+                    <Unicode>Dn D. Kapff. Er nehme an, daß alles in den alten Zuſtand zurückkehre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:27;}">
+                <Coords points="1119,7140 2891,7119 3376,7311 4493,7185 4863,7349 5443,7307 5454,7035 4692,7105 4293,6946 4017,7057 2160,6837 1471,7009 1128,6880"/>
+                <Baseline points="1152,7070 1365,7072 1578,7074 1791,7078 2004,7083 2218,7090 2431,7095 2644,7104 2857,7110 3070,7120 3284,7128 3497,7138 3710,7146 3923,7156 4136,7166 4350,7173 4563,7183 4776,7192 4989,7200 5202,7208 5416,7216"/>
+                <TextEquiv>
+                    <Unicode>daß es hiebei ſein Bewenden habe, und man über den unverdien_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:28;}">
+                <Coords points="1114,7371 1231,7339 1424,7505 1629,7370 1739,7406 2036,7314 2191,7340 2305,7458 2712,7344 2803,7415 3001,7390 3005,7159 2907,7116 2514,7109 2234,7231 2120,7148 2003,7221 1748,7221 1537,7078 1373,7162 1270,7091 1119,7140"/>
+                <Baseline points="1146,7336 1237,7329 1328,7323 1419,7318 1511,7316 1602,7314 1693,7314 1785,7314 1876,7316 1967,7320 2059,7322 2150,7326 2241,7329 2332,7334 2424,7337 2515,7341 2606,7345 2698,7347 2789,7350 2880,7350 2972,7350"/>
+                <TextEquiv>
+                    <Unicode>ten Vorwurf nicht Rechte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:29;}">
+                <Coords points="1131,7598 5358,7735 5447,7315 3096,7511 2714,7342 2334,7457 2158,7330 1138,7372"/>
+                <Baseline points="1160,7520 1372,7528 1584,7534 1796,7540 2008,7546 2221,7552 2433,7558 2645,7562 2857,7568 3069,7573 3282,7578 3494,7584 3706,7591 3918,7598 4130,7606 4343,7615 4555,7624 4767,7634 4979,7646 5191,7658 5404,7672"/>
+                <TextEquiv>
+                    <Unicode>Dn D. Storr ſollte declariren wie er es in Abſicht auf ſein Pensum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:30;}">
+                <Coords points="1157,7804 2457,7894 2688,7770 3612,7827 3946,7998 4114,7871 4409,8017 5057,7894 5428,8008 5441,7708 1167,7573"/>
+                <Baseline points="1190,7762 1400,7762 1611,7766 1822,7768 2032,7772 2243,7778 2454,7784 2664,7790 2875,7796 3086,7806 3297,7814 3507,7822 3718,7833 3929,7844 4139,7856 4350,7867 4561,7880 4771,7894 4982,7908 5193,7924 5404,7938"/>
+                <TextEquiv>
+                    <Unicode>halten wollte; würde auch Botanik von ihm wegen ſeiner Geſund_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:31;}">
+                <Coords points="1077,8118 1751,8192 2204,8031 2423,8185 3388,8103 5426,8263 5435,8037 5059,7895 4411,8018 4151,7868 3943,7999 3614,7829 1827,7772 1086,7904"/>
+                <Baseline points="1110,8000 1324,7998 1539,7998 1754,8000 1968,8002 2183,8007 2398,8014 2612,8021 2827,8030 3042,8039 3257,8050 3471,8061 3686,8072 3901,8083 4115,8095 4330,8106 4545,8117 4759,8128 4974,8139 5189,8148 5404,8156"/>
+                <TextEquiv>
+                    <Unicode>heit nicht geleſen, ſo frage ſichs, ob er nicht wenigſtens, darin̄en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>billige Preiße machen müßen, allein man müſte eben auch am allgemeinen&#13;
+Schaden leiden. Man kön̄te 150. Schℓ. Dinckel und 150. Schℓ. Haber im Preiß à 5. fℓ&#13;
+ꝑ Schℓ. abgeben, nur beſorge Er dieſer Preiß werde nicht angenom̄en, und&#13;
+man werde den angebottenen Preiß an̄ehmen müßen; dann wäre&#13;
+auf baar Geld oder auf Verzin̄ßung des Kauffſchillings anzutragen&#13;
+Jn Anſehung des Verkauffs der Früchte, werde es ſicherer ſeyn, nicht&#13;
+zu verkauffen, um bei einer etwaigen Requiſition noch geben zu&#13;
+kön̄en und nicht um hohe Preiſe Früchte kauffen zu müßen.&#13;
+Dn. Prof. Roesler et Abel cum major:&#13;
+Dn. Prof. Schott. acc. mit der Bemerkung, daß es auf den Sindelfinger &#13;
+ankom̄en werde, daß ſolcher den Fall der Noth zu jügiren wiße&#13;
+Es würde in einigen Votis venerandis geäußert, ob nicht Herr Syndicus heute&#13;
+noch abgeſchickt werden ſollte um in Sindelfingen ſelbſt das nöthige zu beſor&#13;
+gen, allein majora waren nicht dafür.&#13;
+ad pct. 7.) Den U.bericht auf das wegen das Storriſche NaturalienCabinet&#13;
+ergangene gn. Reſcript. dd. 12 et pr. 19. huj. betreffend.&#13;
+Dn D. Uhland. Man kön̄en auf die Storriſche Erklärung noch nicht berich_&#13;
+ten, daß alles in den vorigen Stand geſezt wäre, und mußte alſo&#13;
+eine beſtim̄tere Erklärung von Dn D. Storr haben&#13;
+Dn D. Flatt. Solange Dn D. Storr kranck ſeye, kön̄e ihm nicht zugemuthet&#13;
+werden zu leſen. Kielm. werde Botanik fortleſen: pro futuro&#13;
+aber wäre von Dn D. Storr eine categoriſche Erklärung zu ver_&#13;
+langen, ob er in Zukunſt&#13;
+wann er wieder geſund,&#13;
+und zwar vom nächſten Winter an&#13;
+ſeine gewöhnℓ. Vorleſungen wieder halten wolle.&#13;
+Dn D. Kapff. Er nehme an, daß alles in den alten Zuſtand zurückkehre,&#13;
+daß es hiebei ſein Bewenden habe, und man über den unverdien_&#13;
+ten Vorwurf nicht Rechte.&#13;
+Dn D. Storr ſollte declariren wie er es in Abſicht auf ſein Pensum&#13;
+halten wollte; würde auch Botanik von ihm wegen ſeiner Geſund_&#13;
+heit nicht geleſen, ſo frage ſichs, ob er nicht wenigſtens, darin̄en</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
