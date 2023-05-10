@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_3c(htr_id=35424)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-01T16:27:54.682+02:00</Created>
+        <LastChange>2021-09-28T14:21:18.293+02:00</LastChange>
+        <TranskribusMetadata docId="190645" pageId="7545981" pageNr="579" tsid="65462856" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=XZKPKVOBDJYICAMJZMUYKHSC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WDNQXOTRQIULEOHMLRKLIHZQ" imageId="4547381"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_28_579.jpg" imageWidth="5221" imageHeight="7894">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683616257043" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1631517994720_147"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="2670,208 2670,2496 5002,2496 5002,208"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="4636,357 4712,346 4763,321 4824,318 4857,335 4896,317 4948,345 4962,170 4900,153 4810,201 4749,208 4719,185 4650,186"/>
+                <Baseline points="4658,260 4683,262 4708,264 4734,266 4759,268 4785,270 4810,272 4836,272 4861,275 4887,277 4912,281 4938,284"/>
+                <TextEquiv>
+                    <Unicode>296.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1631518009161_153" custom="readingOrder {index:1;}">
+                <Coords points="2751,717 3283,622 3470,723 4032,596 4219,671 4429,592 4676,688 4860,665 4826,500 3667,495 3419,561 2744,495"/>
+                <Baseline points="2764,636 2790,636 2816,636 2843,636 2869,634 2896,634 2922,634 2948,634 2975,633 3001,632 3028,632 3054,632 3080,632 3107,632 3133,632 3160,632 3316,620 3392,620 3468,618 3545,616 3621,614 3698,611 3774,608 3850,605 3927,602 4003,600 4080,596 4156,594 4232,590 4309,588 4385,586 4462,584 4538,582 4614,582 4691,582 4767,582 4844,584"/>
+                <TextEquiv>
+                    <Unicode>Hierauf verſucht Hℓ. Univerſitätsrath</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:2;}">
+                <Coords points="2659,823 2702,823 2735,797 2886,819 2975,769 3131,784 3196,765 3192,705 3111,693 3072,719 3005,704 2966,721 2917,681 2832,667 2737,745 2652,728"/>
+                <Baseline points="2670,794 2695,790 2721,785 2746,783 2772,780 2797,778 2823,774 2848,772 2874,772 2899,770 2925,769 2950,767 2976,766 3001,765 3027,764 3052,763 3078,761 3103,759 3129,757 3154,754 3180,752"/>
+                <TextEquiv>
+                    <Unicode>Waaser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:3;}">
+                <Coords points="3352,973 3369,973 3375,967 3389,979 3409,985 3433,966 3450,972 3479,958 3493,958 3495,875 3455,868 3434,880 3400,864 3377,870 3369,861 3354,861"/>
+                <Baseline points="3368,958 3396,961 3424,963 3452,964 3512,957"/>
+                <TextEquiv>
+                    <Unicode>3.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:4;}">
+                <Coords points="2674,1181 4318,1081 4970,1140 4997,989 2670,1060"/>
+                <Baseline points="2688,1138 2802,1134 2917,1130 3032,1125 3147,1120 3262,1116 3377,1110 3492,1105 3607,1101 3722,1096 3837,1092 3951,1088 4066,1084 4181,1082 4296,1078 4411,1078 4526,1076 4641,1076 4756,1076 4871,1078 4986,1082"/>
+                <TextEquiv>
+                    <Unicode>über den BauPlan für das NebenGebäude</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:5;}">
+                <Coords points="2678,1296 3464,1248 3855,1311 4052,1214 4956,1226 4952,1123 3890,1183 3637,1115 3141,1140 2986,1235 2674,1204"/>
+                <Baseline points="2692,1284 2804,1273 2916,1263 3029,1254 3141,1246 3254,1239 3366,1231 3478,1226 3591,1220 3703,1216 3816,1212 3928,1209 4040,1206 4153,1204 4265,1201 4378,1199 4490,1197 4602,1196 4715,1194 4827,1192 4940,1190"/>
+                <TextEquiv>
+                    <Unicode>des Crankenhaußes zu referiren. Bald</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:6;}">
+                <Coords points="2735,1446 3105,1364 3576,1411 3777,1330 4300,1384 4542,1319 4675,1405 4898,1316 4894,1215 4612,1282 4345,1232 2730,1322"/>
+                <Baseline points="2748,1394 2854,1388 2961,1381 3068,1375 3175,1369 3282,1364 3388,1358 3495,1353 3602,1348 3709,1343 3816,1339 3922,1334 4029,1330 4136,1327 4243,1323 4350,1320 4456,1316 4563,1314 4670,1310 4777,1308 4884,1304"/>
+                <TextEquiv>
+                    <Unicode>zeigt ſich aber, daß das Collegium nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:7;}">
+                <Coords points="2732,1615 3058,1492 3451,1551 4092,1451 4486,1553 4638,1456 4938,1463 4934,1363 4456,1416 3951,1358 3324,1454 3095,1376 2728,1495"/>
+                <Baseline points="2744,1534 2852,1521 2961,1508 3070,1499 3179,1490 3288,1481 3397,1476 3506,1471 3615,1466 3724,1464 3833,1460 3941,1458 4050,1458 4159,1456 4268,1454 4377,1454 4486,1452 4595,1450 4704,1448 4813,1446 4922,1442"/>
+                <TextEquiv>
+                    <Unicode>mehr vollzahlig verſam̄elt iſt, daher die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1631518017078_158" custom="readingOrder {index:8;} textStyle {offset:0; length:11;strikethrough:true;}">
+                <Coords points="2766,1748 2861,1751 2924,1702 3127,1661 3235,1701 3326,1627 3418,1616 3390,1581 3298,1583 3262,1608 3179,1566 3004,1625 2865,1570 2800,1631 2759,1624"/>
+                <Baseline points="2776,1664 2885,1657 2994,1651 3103,1646 3213,1639 3322,1633 3403,1628"/>
+                <TextEquiv>
+                    <Unicode>Verhandlung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:9;}">
+                <Coords points="2906,1583 2962,1597 3044,1566 3094,1598 3164,1565 3218,1594 3248,1569 3280,1573 3276,1501 3241,1492 3216,1504 3186,1489 3087,1529 3044,1532 2982,1501 2955,1528 2903,1528"/>
+                <Baseline points="2920,1564 2946,1566 2972,1565 2999,1564 3025,1562 3052,1561 3078,1558 3105,1555 3131,1553 3158,1552 3184,1550 3211,1550 3237,1550 3264,1552"/>
+                <TextEquiv>
+                    <Unicode>Berathung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1631518017078_157" custom="readingOrder {index:10;} textStyle {offset:20; length:11;strikethrough:true;}">
+                <Coords points="3389,1671 3935,1679 4272,1587 4808,1647 4977,1624 4973,1500 4463,1552 4246,1499 3803,1577 3530,1517 3385,1571"/>
+                <Baseline points="3403,1628 3431,1627 3541,1620 3650,1613 3759,1608 3869,1603 3978,1596 4087,1592 4196,1588 4306,1584 4415,1581 4524,1578 4634,1578 4743,1576 4852,1578 4962,1580"/>
+                <TextEquiv>
+                    <Unicode>dieſes Gegenſtandes abgebrochen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:11;}">
+                <Coords points="4588,1504 4660,1515 4709,1492 4758,1535 4806,1501 4855,1532 4953,1497 5008,1514 5007,1414 4958,1420 4895,1466 4818,1466 4752,1440 4683,1461 4588,1452"/>
+                <Baseline points="4602,1496 4628,1495 4654,1494 4680,1494 4706,1494 4732,1494 4758,1494 4784,1492 4811,1492 4837,1492 4863,1492 4889,1492 4915,1494 4941,1494 4967,1494 4994,1496"/>
+                <TextEquiv>
+                    <Unicode>aufgegeben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="2747,1817 3663,1854 3789,1765 4282,1719 5018,1787 4976,1610 4720,1687 3879,1652 3491,1734 3060,1669 2744,1754"/>
+                <Baseline points="2762,1802 2874,1800 2986,1796 3098,1792 3210,1786 3322,1780 3434,1774 3546,1768 3658,1761 3770,1753 3882,1748 3994,1742 4106,1736 4218,1731 4330,1727 4442,1724 4554,1722 4666,1722 4778,1724 4890,1728 5002,1732"/>
+                <TextEquiv>
+                    <Unicode>und die Sitzung geſchloßen werden mußte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="3225,2178 3273,2155 3300,2174 3339,2149 3371,2156 3459,2076 3505,2085 3536,2069 3600,2092 3639,2069 3686,2073 3676,1900 3571,1923 3471,1989 3394,1950 3285,2014 3215,1991"/>
+                <Baseline points="3234,2072 3259,2070 3285,2068 3310,2066 3336,2066 3362,2064 3387,2064 3413,2063 3439,2062 3464,2062 3490,2061 3516,2060 3541,2058 3567,2056 3593,2053 3618,2050 3644,2047 3670,2042"/>
+                <TextEquiv>
+                    <Unicode>Z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="3855,2235 3972,2231 4086,2273 4151,2239 4192,2252 4248,2213 4441,2241 4484,2216 4482,2159 4416,2161 4302,2122 4211,2134 4143,2107 4082,2150 4015,2126 3851,2140"/>
+                <Baseline points="3870,2226 3900,2226 3930,2224 3960,2224 3990,2224 4020,2222 4050,2222 4080,2221 4110,2220 4140,2220 4170,2218 4200,2218 4230,2216 4260,2216 4290,2213 4320,2212 4350,2211 4380,2210 4410,2208 4440,2207 4470,2206"/>
+                <TextEquiv>
+                    <Unicode>AktVerw.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="4031,2384 4103,2390 4169,2355 4212,2372 4339,2361 4419,2410 4514,2370 4609,2427 4609,2283 4476,2278 4413,2312 4324,2312 4226,2252 4031,2275"/>
+                <Baseline points="4044,2352 4071,2352 4099,2352 4126,2352 4154,2352 4181,2352 4209,2352 4236,2352 4264,2350 4291,2350 4319,2350 4346,2350 4374,2350 4401,2350 4429,2350 4456,2350 4484,2351 4511,2352 4539,2353 4566,2354 4594,2354"/>
+                <TextEquiv>
+                    <Unicode>Bokmayer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="2728,2473 2871,2480 2992,2453 3242,2527 3386,2474 3387,2353 3157,2403 3088,2356 2962,2358 2853,2308 2729,2318"/>
+                <Baseline points="2742,2460 2773,2460 2805,2460 2836,2460 2868,2460 2899,2459 2931,2458 2962,2458 2994,2458 3025,2458 3057,2458 3088,2458 3120,2458 3151,2458 3183,2459 3214,2460 3246,2461 3277,2462 3309,2465 3340,2468 3372,2470"/>
+                <TextEquiv>
+                    <Unicode>Vdt Autenrieth.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>296.&#13;
+Hierauf verſucht Hℓ. Univerſitätsrath&#13;
+Waaser&#13;
+3.,&#13;
+über den BauPlan für das NebenGebäude&#13;
+des Crankenhaußes zu referiren. Bald&#13;
+zeigt ſich aber, daß das Collegium nicht&#13;
+mehr vollzahlig verſam̄elt iſt, daher die&#13;
+Verhandlung&#13;
+Berathung&#13;
+dieſes Gegenſtandes abgebrochen&#13;
+aufgegeben&#13;
+und die Sitzung geſchloßen werden mußte.&#13;
+Z. B.&#13;
+AktVerw.&#13;
+Bokmayer&#13;
+Vdt Autenrieth.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1631517994720_147" custom="readingOrder {index:1;}">
+            <Coords points="1402,2336 1786,2336 2538,2408 2538,2570 1812,2570 1402,2502"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1389,2438 1469,2441 1508,2482 1543,2492 1589,2485 1627,2457 1742,2475 1800,2453 1803,2350 1748,2346 1723,2319 1663,2303 1614,2324 1568,2303 1519,2307 1469,2343 1391,2358"/>
+                <Baseline points="1402,2436 1427,2438 1453,2441 1478,2443 1504,2445 1530,2447 1555,2449 1581,2450 1606,2450 1632,2452 1658,2452 1683,2452 1709,2452 1734,2449 1760,2447 1786,2444"/>
+                <TextEquiv>
+                    <Unicode>Geſ. 16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="1772,2556 1924,2519 2086,2576 2185,2531 2370,2563 2424,2519 2553,2534 2551,2370 2358,2367 2247,2438 2087,2352 1969,2458 1770,2450"/>
+                <Baseline points="1787,2531 1848,2520 1884,2520 1920,2518 1957,2516 1993,2516 2029,2514 2066,2513 2102,2511 2138,2510 2175,2509 2211,2508 2247,2508 2283,2508 2320,2508 2356,2508 2392,2508 2429,2510 2465,2511 2501,2514 2538,2518"/>
+                <TextEquiv>
+                    <Unicode>V Waechter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Geſ. 16&#13;
+V Waechter.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

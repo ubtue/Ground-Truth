@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Senatsprotokolle_3c(htr_id=35424)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-01T16:28:03.040+02:00</Created>
+        <LastChange>2021-09-29T09:38:14.639+02:00</LastChange>
+        <TranskribusMetadata docId="190645" pageId="7546879" pageNr="738" tsid="65556365" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=CTXLTVUQTVKLFFZKJHAKNMPI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MDLHKOXLCTSREGNLACQGAGRX" imageId="4548279"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_28_738.jpg" imageWidth="5221" imageHeight="7894">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683616275079" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1770,663 1770,7125 5038,7125 5038,663"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="3425,828 3443,828 3454,814 3478,828 3495,819 3515,832 3536,822 3558,828 3585,799 3631,797 3602,619 3542,613 3531,621 3496,596 3458,611 3448,625 3441,620 3394,640"/>
+                <Baseline points="3428,760 3453,757 3478,754 3503,747 3528,742 3553,738 3578,736 3604,736"/>
+                <TextEquiv>
+                    <Unicode>§. 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2020,918 2075,921 2119,883 2361,948 2500,892 2700,898 2757,882 2749,717 2633,796 2512,821 2284,675 2112,803 2014,805"/>
+                <Baseline points="2034,902 2069,901 2104,898 2139,898 2175,896 2210,895 2245,894 2281,893 2316,891 2351,890 2387,888 2422,888 2457,886 2492,884 2528,883 2563,880 2598,878 2634,874 2669,872 2704,867 2740,864"/>
+                <TextEquiv>
+                    <Unicode>Referent:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} textStyle {offset:16; length:6;underlined:true;}">
+                <Coords points="1762,1243 1935,1142 2316,1095 2661,1198 2821,1128 3453,1143 3447,965 3017,888 2760,954 2652,894 2459,1021 2282,971 2205,1034 1943,942 1751,1032"/>
+                <Baseline points="1770,1112 1853,1108 1936,1106 2019,1104 2102,1100 2186,1096 2269,1093 2352,1090 2435,1086 2518,1082 2602,1077 2685,1072 2768,1068 2851,1064 2934,1059 3018,1055 3101,1049 3184,1045 3267,1040 3350,1034 3434,1028"/>
+                <TextEquiv>
+                    <Unicode>Herr Univ. Rath Waaſer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="2127,1397 2155,1402 2192,1369 2230,1379 2251,1365 2260,1374 2308,1358 2344,1384 2407,1367 2402,1282 2354,1297 2319,1275 2303,1279 2253,1260 2214,1278 2199,1273 2175,1293 2120,1284"/>
+                <Baseline points="2140,1364 2165,1362 2190,1361 2215,1359 2240,1357 2265,1355 2290,1353 2315,1352 2340,1350 2365,1350 2390,1350"/>
+                <TextEquiv>
+                    <Unicode>nr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="2189,1595 2244,1596 2352,1474 2405,1481 2395,1375 2358,1378 2338,1392 2318,1376 2310,1386 2284,1373 2222,1438 2174,1449"/>
+                <Baseline points="2192,1484 2220,1481 2248,1479 2276,1474 2304,1470 2332,1468 2360,1467 2388,1468"/>
+                <TextEquiv>
+                    <Unicode>69.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:5;}">
+                <Coords points="2525,1387 5000,1245 4990,1101 4772,1052 4298,1173 3723,1122 3315,1260 3131,1177 2513,1210"/>
+                <Baseline points="2538,1338 2660,1340 2782,1338 2904,1336 3026,1334 3149,1328 3271,1323 3393,1315 3515,1308 3637,1300 3760,1290 3882,1281 4004,1270 4126,1260 4248,1250 4371,1239 4493,1229 4615,1219 4737,1207 4859,1199 4982,1190"/>
+                <TextEquiv>
+                    <Unicode>Bericht der medic. Facultät v. 20. März,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:6;}">
+                <Coords points="2546,1538 2805,1596 3707,1448 3944,1544 4108,1430 4695,1438 4992,1339 4980,1183 4554,1320 3999,1294 3731,1406 3584,1334 3222,1423 2858,1321 2538,1437"/>
+                <Baseline points="2560,1510 2680,1509 2801,1506 2922,1504 3043,1498 3164,1493 3284,1487 3405,1480 3526,1470 3647,1462 3768,1453 3888,1442 4009,1432 4130,1421 4251,1410 4372,1397 4492,1386 4613,1373 4734,1362 4855,1351 4976,1338"/>
+                <TextEquiv>
+                    <Unicode>betrℓ. den Antrag auf Verwilligung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="2539,1734 2852,1694 2984,1798 3404,1749 3555,1636 3855,1708 4019,1597 4491,1661 5006,1562 4992,1394 4783,1389 4524,1489 4216,1452 3947,1544 3700,1449 3552,1566 3182,1505 2532,1645"/>
+                <Baseline points="2552,1700 2673,1693 2795,1687 2917,1679 3039,1670 3161,1660 3282,1652 3404,1643 3526,1633 3648,1623 3770,1613 3891,1602 4013,1593 4135,1582 4257,1572 4379,1562 4500,1553 4622,1543 4744,1534 4866,1525 4988,1518"/>
+                <TextEquiv>
+                    <Unicode>einer Entſchädigung des verſt. Anato‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} textStyle {offset:11; length:5;underlined:true;}">
+                <Coords points="2533,1904 3417,1926 3803,1830 3910,1899 4266,1744 4426,1815 4988,1656 4557,1607 4267,1707 4083,1639 3897,1731 3551,1675 3280,1786 2528,1833"/>
+                <Baseline points="2548,1888 2669,1882 2790,1874 2912,1865 3033,1856 3155,1846 3276,1837 3397,1827 3519,1817 3640,1806 3762,1796 3883,1786 4004,1777 4126,1765 4247,1756 4369,1746 4490,1736 4611,1729 4733,1719 4854,1712 4976,1704"/>
+                <TextEquiv>
+                    <Unicode>miedieners Mayer für mehrere in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="2542,2097 3700,1977 3926,2067 4968,1910 4960,1813 4770,1754 3642,1942 3202,1892 2534,1993"/>
+                <Baseline points="2556,2064 2675,2055 2795,2045 2914,2035 3034,2027 3154,2016 3273,2008 3393,1997 3512,1988 3632,1979 3752,1969 3871,1960 3991,1950 4110,1941 4230,1929 4350,1919 4469,1909 4589,1899 4708,1888 4828,1877 4948,1866"/>
+                <TextEquiv>
+                    <Unicode>die anatom. Sam̄lung gefertigten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="2529,2312 2572,2324 2692,2239 2837,2324 3003,2204 3165,2235 3205,2189 3240,2214 3448,2153 3506,2195 3519,2077 3434,2095 3356,2040 3255,2121 3137,2148 2757,2077 2632,2170 2519,2178"/>
+                <Baseline points="2536,2220 2584,2218 2633,2216 2682,2214 2730,2212 2779,2210 2828,2207 2876,2204 2925,2202 2974,2199 3023,2196 3071,2192 3120,2187 3169,2183 3217,2180 3266,2175 3315,2170 3363,2164 3412,2160 3461,2153 3510,2146"/>
+                <TextEquiv>
+                    <Unicode>Präparate.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} textStyle {offset:0; length:9;underlined:true;}">
+                <Coords points="3161,2468 3356,2506 3451,2448 3567,2429 3753,2474 3803,2422 3882,2411 3870,2203 3799,2204 3738,2257 3657,2240 3570,2272 3375,2182 3263,2262 3210,2253 3150,2287"/>
+                <Baseline points="3172,2394 3206,2390 3241,2389 3275,2386 3310,2383 3345,2381 3379,2380 3414,2377 3448,2376 3483,2374 3518,2372 3552,2372 3587,2370 3621,2368 3656,2367 3691,2364 3725,2361 3760,2358 3794,2357 3829,2353 3864,2348"/>
+                <TextEquiv>
+                    <Unicode>Beſchluß:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="2573,2682 3260,2721 3373,2658 3584,2728 3977,2598 4473,2621 4966,2514 4956,2386 4803,2474 4592,2403 3895,2537 3486,2444 3262,2574 2725,2453 2559,2496"/>
+                <Baseline points="2588,2670 2706,2664 2824,2658 2942,2652 3060,2646 3178,2640 3296,2634 3414,2626 3532,2620 3650,2613 3769,2604 3887,2597 4005,2588 4123,2579 4241,2569 4359,2558 4477,2546 4595,2534 4713,2520 4831,2505 4950,2490"/>
+                <TextEquiv>
+                    <Unicode>den vom Hℓ. Refer. entworfenen u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="2579,2899 3117,2937 3291,2808 3841,2768 3950,2855 4179,2838 4364,2703 4667,2788 5029,2703 5018,2575 4785,2551 3575,2745 3028,2673 2837,2779 2565,2731"/>
+                <Baseline points="2590,2826 2710,2822 2831,2819 2952,2813 3073,2808 3194,2799 3314,2792 3435,2783 3556,2774 3677,2763 3798,2751 3918,2740 4039,2730 4160,2717 4281,2706 4402,2693 4522,2682 4643,2670 4764,2658 4885,2646 5006,2634"/>
+                <TextEquiv>
+                    <Unicode>vorgetragenen Bericht zu genehmigen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="2563,3052 2915,3149 3072,2997 3443,3055 3826,2971 4007,3042 4211,2911 4508,2962 4933,2862 4987,2744 4617,2836 4409,2743 3995,2892 3511,2813 3320,2955 3067,2902 2559,3004"/>
+                <Baseline points="2576,3032 2696,3025 2816,3020 2936,3013 3056,3007 3176,3000 3296,2992 3416,2984 3536,2975 3656,2967 3777,2957 3897,2947 4017,2935 4137,2924 4257,2913 4377,2900 4497,2886 4617,2873 4737,2857 4857,2843 4978,2826"/>
+                <TextEquiv>
+                    <Unicode>wonach in Uebereinſtim̄ung mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1631774917756_258" custom="readingOrder {index:15;}">
+                <Coords points="2562,3233 2928,3206 3106,3288 3267,3178 3895,3190 4178,3116 4436,3202 4655,3038 4109,2968 3897,3051 3547,3009 3382,3108 3079,3004 2894,3162 2697,3063 2556,3156"/>
+                <Baseline points="2576,3220 2694,3210 2813,3202 2932,3194 3051,3186 3170,3180 3288,3172 3407,3165 3526,3158 3645,3150 3764,3142 3882,3132 4001,3123 4120,3113 4239,3102 4358,3090 4476,3076 4595,3062 4641,3055"/>
+                <TextEquiv>
+                    <Unicode>dem Vorſtand der Sam̄lungs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1632398166950_524" custom="readingOrder {index:16;}">
+                <Coords points="4508,2958 4538,2943 4558,2956 4600,2947 4663,2883 4678,2881 4689,2960 4663,2976 4608,3002 4594,2991 4583,3002 4563,2995 4525,3010 4508,3000"/>
+                <Baseline points="4508,2995 4510,2995 4537,2992 4564,2989 4592,2985 4619,2981 4646,2976 4674,2970"/>
+                <TextEquiv>
+                    <Unicode>und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1631774917756_257" custom="readingOrder {index:17;}">
+                <Coords points="4636,3122 4728,3052 4764,3044 4810,3059 4838,3042 4878,3064 4970,3034 4952,2913 4914,2912 4861,2952 4808,2950 4760,2917 4735,2918 4664,2976 4617,2995"/>
+                <Baseline points="4641,3055 4714,3046 4833,3028 4952,3008"/>
+                <TextEquiv>
+                    <Unicode>der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="2558,3437 3043,3490 4464,3244 4631,3334 4762,3248 4907,3316 5040,3224 5030,3105 4651,3067 4299,3225 4130,3129 3877,3250 3247,3189 3046,3317 2548,3318"/>
+                <Baseline points="2570,3402 2692,3394 2815,3387 2937,3378 3060,3370 3182,3362 3305,3352 3427,3342 3550,3331 3672,3321 3795,3311 3917,3300 4040,3288 4162,3276 4285,3263 4407,3252 4530,3240 4652,3226 4775,3214 4897,3200 5020,3188"/>
+                <TextEquiv>
+                    <Unicode>medic. Facultät auf eine Vergütung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="2570,3596 4767,3441 5014,3377 5008,3304 4723,3275 4606,3353 4487,3283 4266,3366 4002,3302 3729,3418 3484,3358 3044,3497 2560,3476"/>
+                <Baseline points="2582,3564 2702,3558 2823,3553 2944,3548 3065,3540 3186,3533 3306,3526 3427,3517 3548,3509 3669,3499 3790,3490 3910,3479 4031,3469 4152,3457 4273,3445 4394,3431 4514,3418 4635,3405 4756,3389 4877,3374 4998,3360"/>
+                <TextEquiv>
+                    <Unicode>von ~ 12. Louisdor an die Erben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="2560,3775 3136,3854 3267,3737 4110,3635 4315,3725 4514,3609 4816,3647 5030,3560 4972,3433 4620,3412 3874,3601 3732,3533 3533,3646 3118,3572 2920,3667 2550,3653"/>
+                <Baseline points="2574,3746 2695,3740 2817,3734 2939,3728 3061,3722 3183,3714 3305,3706 3427,3699 3549,3690 3671,3681 3793,3671 3914,3661 4036,3649 4158,3637 4280,3624 4402,3610 4524,3595 4646,3578 4768,3561 4890,3543 5012,3524"/>
+                <TextEquiv>
+                    <Unicode>des p Mayer aus der JnſtitutsCaſſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="2595,3954 2908,3986 3018,3938 3221,4030 3740,3861 4010,3939 4258,3844 4248,3706 4031,3809 3921,3731 3584,3741 3288,3853 2961,3794 2590,3890"/>
+                <Baseline points="2610,3942 2691,3938 2773,3934 2854,3929 2936,3925 3017,3919 3099,3914 3180,3908 3262,3902 3343,3895 3425,3889 3506,3882 3588,3875 3669,3868 3751,3863 3832,3855 3914,3849 3995,3842 4077,3835 4158,3829 4240,3824"/>
+                <TextEquiv>
+                    <Unicode>Antrag geſtellt iſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="3538,4341 3628,4301 3662,4310 3708,4293 3721,4305 3748,4286 3778,4294 3815,4281 3868,4307 3913,4290 3910,4186 3883,4190 3827,4158 3775,4168 3722,4145 3652,4163 3630,4151 3592,4189 3533,4191"/>
+                <Baseline points="3552,4278 3578,4279 3604,4280 3631,4280 3657,4280 3684,4278 3710,4278 3737,4277 3763,4275 3790,4274 3816,4273 3843,4272 3869,4272 3896,4272"/>
+                <TextEquiv>
+                    <Unicode>§. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="2170,4575 2234,4545 2247,4550 2302,4518 2335,4533 2371,4528 2352,4376 2328,4379 2314,4368 2300,4379 2255,4366 2244,4377 2220,4358 2182,4375 2166,4368 2146,4377"/>
+                <Baseline points="2178,4526 2207,4523 2236,4518 2265,4514 2294,4509 2323,4507 2352,4508"/>
+                <TextEquiv>
+                    <Unicode>nr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="2185,4696 2298,4685 2330,4702 2383,4657 2436,4673 2431,4545 2385,4553 2356,4529 2335,4533 2304,4519 2250,4549 2240,4543 2199,4576 2180,4576"/>
+                <Baseline points="2198,4622 2225,4624 2253,4624 2280,4624 2308,4622 2335,4621 2363,4619 2390,4617 2418,4614"/>
+                <TextEquiv>
+                    <Unicode>44.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:25;}">
+                <Coords points="2593,4722 2957,4563 3148,4621 4996,4473 5008,4284 4631,4380 4193,4310 3812,4442 3524,4354 3350,4470 2755,4429 2580,4529"/>
+                <Baseline points="2598,4590 2718,4584 2838,4579 2958,4574 3078,4567 3199,4562 3319,4554 3439,4548 3559,4540 3679,4532 3800,4524 3920,4515 4040,4508 4160,4499 4280,4490 4401,4481 4521,4472 4641,4464 4761,4454 4881,4444 5002,4436"/>
+                <TextEquiv>
+                    <Unicode>Geſuch der Wittwe das Anatomiedieners</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;} textStyle {offset:0; length:5;underlined:true;}">
+                <Coords points="2689,4800 2854,4877 3184,4721 3458,4820 3639,4730 3740,4809 4033,4664 4340,4740 4542,4639 4988,4606 4981,4520 4544,4500 2681,4699"/>
+                <Baseline points="2702,4760 2815,4750 2929,4742 3042,4732 3156,4724 3269,4715 3383,4707 3496,4698 3610,4690 3723,4682 3837,4675 3950,4666 4064,4658 4177,4650 4291,4641 4404,4634 4518,4625 4631,4616 4745,4607 4858,4598 4972,4588"/>
+                <TextEquiv>
+                    <Unicode>Mayer um gnädige Verleihung eines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="2616,5076 2908,4934 3749,4982 3908,4882 4136,4938 4695,4850 4875,4925 5011,4845 4998,4647 4750,4752 4464,4687 3954,4824 3651,4745 3561,4831 3208,4783 2603,4874"/>
+                <Baseline points="2624,4944 2742,4933 2860,4925 2979,4916 3097,4910 3216,4903 3334,4897 3452,4891 3571,4886 3689,4879 3808,4874 3926,4868 4044,4861 4163,4854 4281,4845 4400,4836 4518,4826 4636,4814 4755,4801 4873,4788 4992,4772"/>
+                <TextEquiv>
+                    <Unicode>Gratials v. 5. März, nebſt Aeuſſerung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="2603,5161 3099,5097 3321,5207 3479,5074 4144,5068 4136,4927 3976,4974 3847,4929 3762,4987 3504,4932 3329,5041 3212,4977 3095,5030 3006,4971 2879,5053 2755,4992 2597,5070"/>
+                <Baseline points="2616,5118 2691,5114 2767,5109 2842,5105 2918,5101 2993,5096 3069,5092 3144,5088 3220,5083 3295,5078 3371,5075 3446,5070 3522,5066 3597,5061 3673,5056 3748,5052 3824,5047 3899,5041 3975,5036 4050,5030 4126,5024"/>
+                <TextEquiv>
+                    <Unicode>der medic. Facultät.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="2686,5381 3619,5238 4246,5285 4954,5179 5026,5153 5016,5006 3307,5204 3083,5114 2676,5237"/>
+                <Baseline points="2694,5286 2809,5283 2925,5279 3041,5274 3157,5269 3273,5265 3388,5259 3504,5253 3620,5246 3736,5240 3852,5232 3967,5224 4083,5215 4199,5206 4315,5198 4431,5187 4546,5177 4662,5166 4778,5155 4894,5142 5010,5128"/>
+                <TextEquiv>
+                    <Unicode>Hℓ. Referent beantragt einen Be‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="2600,5483 2785,5531 3737,5401 4060,5485 4398,5370 4843,5442 5046,5328 5007,5205 4429,5211 2597,5434"/>
+                <Baseline points="2614,5466 2734,5460 2855,5455 2975,5449 3096,5443 3217,5437 3337,5431 3458,5423 3578,5416 3699,5408 3820,5399 3940,5390 4061,5381 4181,5372 4302,5361 4423,5350 4543,5338 4664,5324 4784,5310 4905,5295 5026,5280"/>
+                <TextEquiv>
+                    <Unicode>richt an das K. Miniſterium, nach welchem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="2589,5660 2914,5608 3199,5733 3551,5583 4265,5520 4601,5580 5033,5477 5026,5373 3428,5542 3110,5465 2583,5571"/>
+                <Baseline points="2602,5630 2722,5624 2843,5619 2964,5612 3084,5607 3205,5601 3326,5595 3446,5588 3567,5582 3688,5575 3809,5568 3929,5561 4050,5552 4171,5543 4291,5535 4412,5524 4533,5513 4653,5501 4774,5488 4895,5473 5016,5458"/>
+                <TextEquiv>
+                    <Unicode>mit Bezugnahme auf die vorliegenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="2561,5948 3673,5737 4074,5844 4223,5735 4382,5807 4540,5697 4951,5692 4993,5505 4450,5562 4234,5676 3506,5629 3308,5739 2544,5716"/>
+                <Baseline points="2568,5826 2689,5817 2810,5808 2931,5800 3052,5792 3173,5784 3294,5777 3415,5769 3536,5762 3657,5753 3778,5746 3899,5738 4020,5730 4141,5720 4262,5710 4383,5701 4504,5692 4625,5681 4746,5671 4867,5658 4988,5646"/>
+                <TextEquiv>
+                    <Unicode>Zeugniſſe über Vermögensloſigkeit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="2575,6068 5050,5882 5040,5760 4503,5721 4377,5851 4206,5784 3652,5924 3363,5799 3118,5932 2878,5885 2567,5967"/>
+                <Baseline points="2588,6030 2710,6014 2832,6002 2954,5990 3076,5979 3198,5971 3320,5962 3442,5956 3564,5949 3686,5942 3808,5936 3930,5929 4052,5922 4174,5914 4296,5903 4418,5893 4540,5881 4662,5866 4784,5849 4906,5831 5028,5808"/>
+                <TextEquiv>
+                    <Unicode>Wittwe Mayer und über die tüchtigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="2583,6222 3036,6299 3634,6144 3854,6222 3997,6120 5056,6058 5049,5954 3544,6006 3328,6116 3005,6015 2577,6133"/>
+                <Baseline points="2596,6196 2718,6187 2840,6177 2962,6168 3084,6161 3206,6152 3328,6145 3450,6138 3572,6130 3694,6124 3817,6115 3939,6108 4061,6100 4183,6093 4305,6084 4427,6076 4549,6065 4671,6055 4793,6044 4915,6033 5038,6020"/>
+                <TextEquiv>
+                    <Unicode>Leiſtungen des verſt. Anatomiedieners</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="2568,6453 3235,6356 3465,6456 3789,6329 3957,6427 4151,6283 4562,6333 4965,6242 4961,6168 4134,6149 3973,6239 3617,6174 3462,6263 3305,6189 3167,6308 2785,6229 2560,6319"/>
+                <Baseline points="2580,6382 2698,6373 2816,6363 2935,6354 3053,6347 3172,6340 3290,6332 3408,6326 3527,6319 3645,6313 3764,6307 3882,6302 4000,6295 4119,6288 4237,6283 4356,6275 4474,6267 4592,6259 4711,6250 4829,6242 4948,6232"/>
+                <TextEquiv>
+                    <Unicode>Mayer - das Geſuch zu weiterer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:36;}">
+                <Coords points="2608,6701 3080,6524 3378,6648 3828,6623 4035,6488 4257,6605 4522,6584 4630,6479 5011,6442 5004,6317 3755,6468 3218,6372 3047,6480 2596,6487"/>
+                <Baseline points="2616,6574 2735,6564 2854,6555 2973,6548 3092,6539 3211,6532 3330,6523 3449,6517 3568,6509 3687,6502 3806,6496 3925,6489 4044,6483 4163,6477 4282,6470 4401,6465 4520,6460 4639,6453 4758,6447 4877,6442 4996,6436"/>
+                <TextEquiv>
+                    <Unicode>hoher Verfügung vorgelegt wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:37;}">
+                <Coords points="2799,6805 3837,6711 4020,6808 4212,6679 4731,6679 4960,6558 4727,6510 4372,6627 3929,6518 3619,6663 3289,6683 2985,6585 2792,6688"/>
+                <Baseline points="2810,6756 2916,6748 3023,6740 3130,6734 3237,6728 3344,6722 3451,6716 3558,6711 3665,6706 3772,6700 3879,6696 3985,6690 4092,6683 4199,6678 4306,6670 4413,6664 4520,6655 4627,6647 4734,6636 4841,6625 4996,6615"/>
+                <TextEquiv>
+                    <Unicode>Nach einiger Discuſsion darüber,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:38;}">
+                <Coords points="2589,7002 3497,6912 3791,6984 4157,6851 4930,6795 4922,6675 4782,6743 4653,6654 4456,6778 4323,6720 4096,6821 3468,6745 3223,6845 2893,6787 2579,6864"/>
+                <Baseline points="2600,6942 2715,6937 2831,6931 2946,6926 3062,6919 3178,6912 3293,6906 3409,6900 3524,6891 3640,6884 3756,6877 3871,6869 3987,6860 4102,6852 4218,6843 4334,6834 4449,6824 4565,6814 4680,6804 4796,6793 4912,6782"/>
+                <TextEquiv>
+                    <Unicode>ob nicht das Geſuch von dem Senate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:39;} textStyle {offset:20; length:10;underlined:true;}">
+                <Coords points="2603,7134 3025,7106 3264,7186 3415,7065 3765,7057 4036,7156 4647,7115 4982,6976 4915,6802 4753,6914 4185,6857 3961,6998 3430,6920 3268,7023 2595,7009"/>
+                <Baseline points="2616,7104 2733,7100 2850,7094 2968,7090 3085,7084 3203,7079 3320,7073 3437,7066 3555,7059 3672,7052 3790,7044 3907,7036 4024,7027 4142,7018 4259,7008 4377,6999 4494,6990 4611,6980 4729,6970 4846,6960 4964,6950"/>
+                <TextEquiv>
+                    <Unicode>mit einer ſtärkeren Empfehlung be‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>§. 1.&#13;
+Referent:&#13;
+Herr Univ. Rath Waaſer.&#13;
+nr.&#13;
+69.&#13;
+Bericht der medic. Facultät v. 20. März,&#13;
+betrℓ. den Antrag auf Verwilligung&#13;
+einer Entſchädigung des verſt. Anato‗&#13;
+miedieners Mayer für mehrere in&#13;
+die anatom. Sam̄lung gefertigten&#13;
+Präparate.&#13;
+Beſchluß:&#13;
+den vom Hℓ. Refer. entworfenen u.&#13;
+vorgetragenen Bericht zu genehmigen,&#13;
+wonach in Uebereinſtim̄ung mit&#13;
+dem Vorſtand der Sam̄lungs&#13;
+und&#13;
+der&#13;
+medic. Facultät auf eine Vergütung&#13;
+von ~ 12. Louisdor an die Erben&#13;
+des p Mayer aus der JnſtitutsCaſſe&#13;
+Antrag geſtellt iſt.&#13;
+§. 2.&#13;
+nr.&#13;
+44.&#13;
+Geſuch der Wittwe das Anatomiedieners&#13;
+Mayer um gnädige Verleihung eines&#13;
+Gratials v. 5. März, nebſt Aeuſſerung&#13;
+der medic. Facultät.&#13;
+Hℓ. Referent beantragt einen Be‗&#13;
+richt an das K. Miniſterium, nach welchem&#13;
+mit Bezugnahme auf die vorliegenden&#13;
+Zeugniſſe über Vermögensloſigkeit der&#13;
+Wittwe Mayer und über die tüchtigen&#13;
+Leiſtungen des verſt. Anatomiedieners&#13;
+Mayer - das Geſuch zu weiterer&#13;
+hoher Verfügung vorgelegt wird.&#13;
+Nach einiger Discuſsion darüber,&#13;
+ob nicht das Geſuch von dem Senate&#13;
+mit einer ſtärkeren Empfehlung be‗</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

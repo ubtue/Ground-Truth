@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-01T16:27:28.704+02:00</Created>
+        <LastChange>2021-07-22T15:31:53.378+02:00</LastChange>
+        <TranskribusMetadata docId="190645" pageId="7545164" pageNr="75" tsid="61766167" status="GT" userId="34979" imgUrl="https://files.transkribus.eu/Get?id=BYMHKISCITZVWONWESDCBRRN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MWCXBFVNTWFSBALZTVMMFWRH" imageId="4546587"/>
+    </Metadata>
+    <Page imageFilename="UAT_047_28_075.jpg" imageWidth="5221" imageHeight="7894">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683616140851" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1573809886252_578"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1573809889611_583"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1573809886252_578" custom="readingOrder {index:0;}">
+            <Coords points="2644,416 5021,416 5021,602 5021,3012 2644,3012 2644,602"/>
+            <TextLine id="r8l1" custom="readingOrder {index:0;} structure {type:page-number;} textStyle {offset:0; length:3;underlined:true;}">
+                <Coords points="4691,549 4716,548 4741,546 4767,546 4792,546 4817,547 4843,548 4868,550 4894,552 4894,422 4868,420 4843,418 4817,417 4792,416 4767,416 4741,416 4716,418 4691,419"/>
+                <Baseline points="4691,506 4716,505 4741,503 4767,503 4792,503 4817,504 4843,505 4868,507 4894,509"/>
+                <TextEquiv>
+                    <Unicode>24.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l2" custom="readingOrder {index:1;}">
+                <Coords points="2651,993 2768,988 2885,983 3003,977 3120,972 3237,967 3355,961 3472,956 3589,951 3707,946 3824,940 3941,935 4059,929 4176,923 4293,917 4411,910 4528,904 4645,897 4763,890 4880,882 4998,873 4998,743 4880,752 4763,760 4645,767 4528,774 4411,780 4293,787 4176,793 4059,799 3941,805 3824,810 3707,816 3589,821 3472,826 3355,831 3237,837 3120,842 3003,847 2885,853 2768,858 2651,863"/>
+                <Baseline points="2651,950 2768,945 2885,940 3003,934 3120,929 3237,924 3355,918 3472,913 3589,908 3707,903 3824,897 3941,892 4059,886 4176,880 4293,874 4411,867 4528,861 4645,854 4763,847 4880,839 4998,830"/>
+                <TextEquiv>
+                    <Unicode>an das K. Miniſterium zu wenden und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l3" custom="readingOrder {index:2;}">
+                <Coords points="2675,1151 2792,1145 2909,1140 3026,1135 3143,1129 3261,1125 3378,1120 3495,1116 3612,1111 3729,1106 3847,1101 3964,1096 4081,1090 4198,1084 4315,1077 4433,1070 4550,1062 4667,1054 4784,1045 4901,1035 5019,1023 5019,897 4901,909 4784,919 4667,928 4550,936 4433,944 4315,951 4198,958 4081,964 3964,970 3847,975 3729,980 3612,985 3495,990 3378,994 3261,999 3143,1003 3026,1009 2909,1014 2792,1019 2675,1025"/>
+                <Baseline points="2675,1109 2792,1103 2909,1098 3026,1093 3143,1087 3261,1083 3378,1078 3495,1074 3612,1069 3729,1064 3847,1059 3964,1054 4081,1048 4198,1042 4315,1035 4433,1028 4550,1020 4667,1012 4784,1003 4901,993 5019,981"/>
+                <TextEquiv>
+                    <Unicode>die Akten dem Referenten D. Reyſcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l4" custom="readingOrder {index:3;}">
+                <Coords points="2706,1324 2821,1320 2937,1316 3053,1312 3169,1308 3284,1305 3400,1301 3516,1297 3632,1294 3747,1289 3863,1285 3979,1279 4095,1274 4210,1267 4326,1259 4442,1252 4558,1243 4673,1232 4789,1221 4905,1207 5021,1193 5021,1067 4905,1081 4789,1095 4673,1106 4558,1117 4442,1126 4326,1133 4210,1141 4095,1148 3979,1153 3863,1159 3747,1163 3632,1168 3516,1171 3400,1175 3284,1179 3169,1182 3053,1186 2937,1190 2821,1194 2706,1198"/>
+                <Baseline points="2706,1282 2821,1278 2937,1274 3053,1270 3169,1266 3284,1263 3400,1259 3516,1255 3632,1252 3747,1247 3863,1243 3979,1237 4095,1232 4210,1225 4326,1217 4442,1210 4558,1201 4673,1190 4789,1179 4905,1165 5021,1151"/>
+                <TextEquiv>
+                    <Unicode>zuzuſtellen, um den dießfallſigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l5" custom="readingOrder {index:4;}">
+                <Coords points="2696,1540 2810,1528 2925,1517 3040,1508 3155,1500 3270,1494 3385,1489 3499,1484 3614,1479 3729,1475 3844,1471 3959,1468 4074,1463 4189,1458 4303,1453 4418,1447 4533,1440 4648,1431 4763,1420 4878,1408 4993,1394 4993,1264 4878,1278 4763,1290 4648,1301 4533,1310 4418,1317 4303,1323 4189,1328 4074,1333 3959,1338 3844,1341 3729,1345 3614,1349 3499,1354 3385,1359 3270,1364 3155,1370 3040,1378 2925,1387 2810,1398 2696,1410"/>
+                <Baseline points="2696,1497 2810,1485 2925,1474 3040,1465 3155,1457 3270,1451 3385,1446 3499,1441 3614,1436 3729,1432 3844,1428 3959,1425 4074,1420 4189,1415 4303,1410 4418,1404 4533,1397 4648,1388 4763,1377 4878,1365 4993,1351"/>
+                <TextEquiv>
+                    <Unicode>Bericht zu verfaſſen u. in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l6" custom="readingOrder {index:5;}">
+                <Coords points="2644,1720 2762,1712 2881,1706 2999,1700 3118,1694 3236,1691 3355,1687 3473,1683 3592,1680 3710,1675 3829,1672 3947,1667 4066,1662 4184,1656 4303,1649 4421,1641 4540,1632 4658,1621 4777,1608 4895,1593 5014,1576 5014,1447 4895,1464 4777,1479 4658,1492 4540,1503 4421,1512 4303,1520 4184,1527 4066,1533 3947,1538 3829,1543 3710,1546 3592,1551 3473,1554 3355,1558 3236,1562 3118,1565 2999,1571 2881,1577 2762,1583 2644,1591"/>
+                <Baseline points="2644,1677 2762,1669 2881,1663 2999,1657 3118,1651 3236,1648 3355,1644 3473,1640 3592,1637 3710,1632 3829,1629 3947,1624 4066,1619 4184,1613 4303,1606 4421,1598 4540,1589 4658,1578 4777,1565 4895,1550 5014,1533"/>
+                <TextEquiv>
+                    <Unicode>nächſten Sitzung weiteren Vor‗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l7" custom="readingOrder {index:6;}">
+                <Coords points="2698,1910 2781,1903 2864,1898 2947,1893 3031,1888 3114,1885 3197,1880 3280,1877 3364,1873 3447,1870 3530,1867 3613,1863 3697,1859 3780,1855 3863,1852 3946,1847 4030,1842 4113,1836 4196,1829 4279,1823 4363,1814 4363,1685 4279,1694 4196,1700 4113,1707 4030,1713 3946,1718 3863,1723 3780,1726 3697,1730 3613,1734 3530,1738 3447,1741 3364,1744 3280,1748 3197,1751 3114,1756 3031,1759 2947,1764 2864,1769 2781,1774 2698,1781"/>
+                <Baseline points="2698,1867 2781,1860 2864,1855 2947,1850 3031,1845 3114,1842 3197,1837 3280,1834 3364,1830 3447,1827 3530,1824 3613,1820 3697,1816 3780,1812 3863,1809 3946,1804 4030,1799 4113,1793 4196,1786 4279,1780 4363,1771"/>
+                <TextEquiv>
+                    <Unicode>trag zu erſtatten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l8" custom="readingOrder {index:7;}">
+                <Coords points="3526,2739 3593,2739 3660,2739 3727,2738 3795,2736 3862,2734 3929,2732 3997,2729 4064,2726 4131,2722 4199,2718 4266,2715 4333,2710 4401,2706 4468,2702 4535,2698 4603,2694 4670,2690 4737,2686 4805,2682 4805,2552 4737,2556 4670,2560 4603,2564 4535,2568 4468,2572 4401,2576 4333,2580 4266,2585 4199,2588 4131,2592 4064,2596 3997,2599 3929,2602 3862,2604 3795,2606 3727,2608 3660,2609 3593,2609 3526,2609"/>
+                <Baseline points="3526,2696 3593,2696 3660,2696 3727,2695 3795,2693 3862,2691 3929,2689 3997,2686 4064,2683 4131,2679 4199,2675 4266,2672 4333,2667 4401,2663 4468,2659 4535,2655 4603,2651 4670,2647 4737,2643 4805,2639"/>
+                <TextEquiv>
+                    <Unicode>Zur Beurkundung:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1626960571037_1671" custom="readingOrder {index:8;}">
+                <Coords points="3863,2924 4344,2912 4984,2893 4985,2943 4345,2962 3864,2974"/>
+                <Baseline points="3864,2969 4345,2957 4985,2938"/>
+                <TextEquiv>
+                    <Unicode>U. Aktr. Wildt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24.&#13;
+an das K. Miniſterium zu wenden und&#13;
+die Akten dem Referenten D. Reyſcher&#13;
+zuzuſtellen, um den dießfallſigen&#13;
+Bericht zu verfaſſen u. in der&#13;
+nächſten Sitzung weiteren Vor‗&#13;
+trag zu erſtatten.&#13;
+Zur Beurkundung:&#13;
+U. Aktr. Wildt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1573809889611_583" custom="readingOrder {index:1;}">
+            <Coords points="267,2794 1746,2716 2165,2716 2165,2910 933,3346 437,3346 263,3275"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="343,3085 463,3011 490,3009 516,3007 543,3006 594,2827 516,2892 490,2894 489,2807 362,2801"/>
+                <Baseline points="378,2972 463,2973 490,2971 516,2969 543,2968"/>
+                <TextEquiv>
+                    <Unicode>Geſ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1626960654691_1696" custom="readingOrder {index:1;}">
+                <Coords points="258,3098 345,3086 352,3136 265,3148"/>
+                <Baseline points="264,3143 351,3131"/>
+                <TextEquiv>
+                    <Unicode>17/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1626960656447_1701" custom="readingOrder {index:2;}">
+                <Coords points="267,3208 398,3197 402,3247 271,3258"/>
+                <Baseline points="271,3253 402,3242"/>
+                <TextEquiv>
+                    <Unicode>III</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:3;}">
+                <Coords points="474,3346 499,3345 525,3342 550,3340 576,3338 601,3336 627,3334 652,3332 678,3330 703,3327 729,3326 754,3324 780,3322 805,3320 831,3318 856,3317 882,3315 907,3314 933,3314 933,3193 907,3193 882,3194 856,3196 831,3197 805,3199 780,3201 754,3203 729,3205 703,3206 678,3209 652,3211 627,3213 601,3215 576,3217 550,3219 525,3221 499,3224 474,3225"/>
+                <Baseline points="474,3306 499,3305 525,3302 550,3300 576,3298 601,3296 627,3294 652,3292 678,3290 703,3287 729,3286 754,3284 780,3282 805,3280 831,3278 856,3277 882,3275 907,3274 933,3274"/>
+                <TextEquiv>
+                    <Unicode>Waechter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568362170252_421" custom="readingOrder {index:4;}">
+                <Coords points="1197,2845 1772,2755 1824,2747 1876,2741 1929,2735 1981,2730 2007,2728 2138,2718 2165,2716 2165,2866 1390,2996 1307,3005 1279,3006 1252,3005 1224,3002 1197,2995"/>
+                <Baseline points="1197,2945 1224,2952 1252,2955 1279,2956 1307,2955 1334,2952 1362,2949 1390,2946 1421,2929 1449,2926 1477,2921 1505,2917 1533,2915 1562,2916 1746,2860 1772,2855 1798,2851 1824,2847 1850,2844 1876,2841 1903,2838 1929,2835 1955,2833 1981,2830 2007,2828 2034,2826 2060,2824 2086,2822 2112,2820 2138,2818 2165,2816"/>
+                <TextEquiv>
+                    <Unicode>23/2 44. V. Schmid.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Geſ.&#13;
+17/&#13;
+III&#13;
+Waechter&#13;
+23/2 44. V. Schmid.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
