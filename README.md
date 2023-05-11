@@ -1,4 +1,4 @@
-# ubtue Ground Truth
+# Ground Truth
 
 This repository contains Ground Truth data for various text corpora held by the University Library and the University Archive of Tübingen. The transcriptions refer to digitised material available
 on [OpenDigi](http://idb.ub.uni-tuebingen.de/digitue).
