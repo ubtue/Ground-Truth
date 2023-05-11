@@ -1,12 +1,21 @@
 # Senatsprotokolle
 
-This repository contains transcriptions of the "Protokolle des Akademischen Senats" from Eberhard Karls Universität Tübingen
+This repository contains transcriptions of the "Protokolle des Akademischen Senats" from Eberhard Karls Universität Tübingen during the period of 1799-1847.
 
 **Language:** Mostly German
 
+**Period:** 1799-1847
+
+**Quantity**: 214 pages from seven volumes.
+
+**Script:** Mostly Kurrent by different scribes.
+
 **Layout:** Text regions and baselines are manually corrected.
 
-**Model training** for automatic text recognition: Result of model training in Transkribus 
+**Transcription guidelines:** All transcriptions were created using Transkribus. The transcription rules are based on the OCR-D transcription guidelines Level 2
+
+
+**Model training** for automatic text recognition: Result of model training in Transkribus: CER of 4,60% on Validation Set (4,24% with Language Model).
 
 **Sources:** The transcriptions refer to digitised material available on OpenDigi (University Library of Tübingen):
 
