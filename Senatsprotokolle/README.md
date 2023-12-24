@@ -32,7 +32,7 @@ This repository contains transcriptions of the "Protokolle des Akademischen Sena
 
 ```
 # Get METS.
-wget http://idb.ub.uni-tuebingen.de/opendigi/UAT_047_15/mets
+wget https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_15/mets
 # Get IIIF.
-wget http://idb.ub.uni-tuebingen.de/opendigi/UAT_047_15/manifest
+wget https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_15/manifest
 ```
