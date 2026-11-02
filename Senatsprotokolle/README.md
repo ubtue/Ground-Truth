@@ -32,7 +32,10 @@ This repository contains transcriptions of the "Protokolle des Akademischen Sena
 
 ```
 # Get METS.
-wget http://idb.ub.uni-tuebingen.de/opendigi/UAT_047_15/mets
+wget https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_15/mets
 # Get IIIF.
-wget http://idb.ub.uni-tuebingen.de/opendigi/UAT_047_15/manifest
+wget https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_15/manifest
 ```
+** Licence: **
+This data is is released by University Library Tübingen, at University of Tuebingen as Open Data under the CC0 public license (https://creativecommons.org/publicdomain/zero/1.0/).
+It would be nice to inform and mention us, if you use the data.
