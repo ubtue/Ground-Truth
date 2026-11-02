@@ -36,6 +36,6 @@ wget https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_15/mets
 # Get IIIF.
 wget https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_15/manifest
 ```
-** Licence: **
-This data is is released by Tübingen University Library at University of Tübingen as Open Data under the CC0 public license (https://creativecommons.org/publicdomain/zero/1.0/).
+**Licence:**
+This data is is released by Tübingen University Library at University of Tübingen as Open Data under the CC0 public licence (https://creativecommons.org/publicdomain/zero/1.0/).
 It would be nice to inform and mention us, if you use the data.
