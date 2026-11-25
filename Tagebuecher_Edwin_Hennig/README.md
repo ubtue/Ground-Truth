@@ -28,7 +28,7 @@ with Language Model).
 
 **Sources:** The transcriptions refer to digitised material available
 on OpenDigi (University Library of Tübingen):
-* [UAT 407/80](http://idb.ub.uni-tuebingen.de/opendigi/UAT_407_080)
-* [UAT 407/81](http://idb.ub.uni-tuebingen.de/opendigi/UAT_407_081)
-* [UAT 407/82](http://idb.ub.uni-tuebingen.de/opendigi/UAT_407_082)
-* [UAT 407/105](http://idb.ub.uni-tuebingen.de/opendigi/UAT_407_105)
+* [UAT 407/80](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_407_080)
+* [UAT 407/81](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_407_081)
+* [UAT 407/82](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_407_082)
+* [UAT 407/105](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_407_105)
